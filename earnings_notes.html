@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="robots" content="noindex, nofollow"><meta charset="utf-8"><title>Notes — Earnings Reports — Av's Tools</title>
+<style>
+* { box-sizing: border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif; margin: 0; background: #f4f5f7; color: #1a1a2e; }
+.container { max-width: 1300px; margin: 24px auto; padding: 0 24px; }
+h1 { font-size: 24px; margin: 0 0 4px; }
+.meta { color: #6c757d; font-size: 13px; margin-bottom: 14px; }
+
+.tabs { display: flex; gap: 4px; margin-bottom: 16px; border-bottom: 1px solid #d3d9de; }
+.tabs a { padding: 9px 14px; text-decoration: none; color: #495057; font-size: 13.5px; font-weight: 500; border-bottom: 3px solid transparent; }
+.tabs a.active { color: #1a1a2e; border-bottom-color: #1a1a2e; }
+.tabs a:hover { background: #eef0f3; }
+
+.stats { display: flex; gap: 12px; margin-bottom: 14px; flex-wrap: wrap; }
+.stat { background: white; padding: 8px 14px; border-radius: 4px; font-size: 12.5px; box-shadow: 0 1px 2px rgba(0,0,0,0.06); }
+.stat b { color: #1a1a2e; font-size: 15px; margin-right: 4px; }
+.stat.new-stat { background: #fff4d6; border-left: 3px solid #d63031; }
+.stat.new-stat b { color: #d63031; }
+
+table { width: 100%; border-collapse: collapse; background: white; box-shadow: 0 1px 4px rgba(0,0,0,0.08); border-radius: 4px; overflow: hidden; }
+th { background: #1a1a2e; color: white; text-align: left; padding: 9px 12px; font-weight: 600; font-size: 11.5px; text-transform: uppercase; letter-spacing: 0.4px; }
+td { padding: 10px 12px; border-bottom: 1px solid #ececef; vertical-align: top; font-size: 13.5px; }
+tr:hover { background: #fbfbfc; }
+
+.tk { font-family: ui-monospace, monospace; font-weight: 700; color: #2c5282; white-space: nowrap; }
+.nm { font-weight: 500; min-width: 200px; }
+.date { white-space: nowrap; min-width: 120px; }
+.dim { color: #999; font-size: 11px; }
+.rel-info { color: #2d3436; line-height: 1.55; }
+.links { white-space: nowrap; font-size: 12.5px; }
+.links a { color: #2c5282; text-decoration: none; }
+.links a:hover { text-decoration: underline; }
+
+.when { white-space: nowrap; font-size: 12.5px; }
+.overdue { color: #d63031; font-weight: 600; }
+.today { color: #d63031; font-weight: 700; background: #ffeaa7; padding: 2px 6px; border-radius: 3px; }
+.soon { color: #e17055; font-weight: 700; }
+
+.empty { color: #6c757d; font-style: italic; padding: 30px; background: white; border-radius: 4px; text-align: center; }
+
+tr.row-new { background: #fff4d6; }
+tr.row-new:hover { background: #ffeeb9; }
+tr.row-new td { border-bottom: 1px solid #ffd966; }
+.badge-new { display: inline-block; padding: 2px 7px; background: #d63031; color: white; border-radius: 3px; font-size: 10px; font-weight: 700; letter-spacing: 0.4px; margin-right: 6px; }
+
+.dormant { margin-top: 30px; background: white; padding: 14px 18px; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,0.06); }
+.dormant summary { cursor: pointer; font-weight: 600; color: #495057; font-size: 13px; }
+.dormant summary:hover { color: #1a1a2e; }
+.dormant-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 4px 14px; margin-top: 8px; }
+.dormant-item { font-size: 12px; color: #495057; padding: 3px 0; border-bottom: 1px dotted #ececef; }
+.dormant-item b { color: #2c5282; font-family: ui-monospace, monospace; }
+</style>
+<style>
+.notes-content { background: white; padding: 26px 32px; border-radius: 6px; box-shadow: 0 1px 4px rgba(0,0,0,0.08); line-height: 1.65; max-width: 900px; }
+.notes-content h2 { margin: 22px 0 8px; font-size: 17px; padding-bottom: 6px; border-bottom: 2px solid #ececef; color: #1a1a2e; }
+.notes-content h2:first-of-type { margin-top: 0; }
+.notes-content h3 { margin: 18px 0 6px; font-size: 13.5px; color: #495057; text-transform: uppercase; letter-spacing: 0.4px; }
+.notes-content p, .notes-content li { font-size: 14px; color: #2d3436; }
+.notes-content ul { margin: 4px 0 10px; padding-left: 22px; }
+.notes-content li { margin: 3px 0; }
+.notes-content code { background: #f1f3f5; padding: 1px 6px; border-radius: 3px; font-size: 12.5px; color: #d63031; }
+.notes-content strong { color: #1a1a2e; }
+.notes-content table.schedule { width: 100%; margin: 8px 0 12px; font-size: 13px; }
+.notes-content table.schedule th { background: #f1f3f5; color: #1a1a2e; text-transform: none; letter-spacing: normal; font-size: 12.5px; padding: 6px 10px; }
+.notes-content table.schedule td { font-size: 13px; padding: 6px 10px; }
+.callout { background: #fff9e3; padding: 10px 14px; border-left: 3px solid #ffd966; border-radius: 0 4px 4px 0; margin: 8px 0; font-size: 13px; }
+.callout b { color: #b08200; }
+</style></head>
+<body>
+
+<div id="auth-gate" style="position:fixed;inset:0;background:#1a1a2e;z-index:99999;display:flex;align-items:center;justify-content:center;">
+  <div style="background:white;padding:40px;border-radius:12px;text-align:center;max-width:360px;width:90%;box-shadow:0 4px 20px rgba(0,0,0,0.3);">
+    <div style="font-size:28px;margin-bottom:20px;">&#128274;</div>
+    <input id="auth-pw" type="password" placeholder="Password" autofocus
+      style="width:100%;padding:12px;border:2px solid #ddd;border-radius:6px;font-size:15px;margin-bottom:12px;box-sizing:border-box;"
+      onkeydown="if(event.key==='Enter')checkPw()">
+    <button onclick="checkPw()"
+      style="width:100%;padding:12px;background:#1a1a2e;color:white;border:none;border-radius:6px;font-size:15px;font-weight:600;cursor:pointer;">
+      Enter</button>
+    <p id="auth-err" style="color:#c0392b;font-size:13px;margin-top:10px;display:none;">Incorrect password</p>
+  </div>
+</div>
+<script>
+async function sha256(msg) {
+  const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(msg));
+  return [...new Uint8Array(buf)].map(b => b.toString(16).padStart(2,'0')).join('');
+}
+async function checkPw() {
+  const h = await sha256(document.getElementById('auth-pw').value);
+  if (h === 'c93289ef40f052d7086625037e113760e055ec65d162906acc0d8645fcbbd336') {
+    sessionStorage.setItem('court_auth','1');
+    document.getElementById('auth-gate').remove();
+  } else {
+    document.getElementById('auth-err').style.display='block';
+    document.getElementById('auth-pw').value='';
+  }
+}
+if (sessionStorage.getItem('court_auth')==='1') {
+  document.getElementById('auth-gate').remove();
+}
+</script>
+
+<a href="https://abgutman.github.io/av-tools/" style="position:fixed;top:12px;right:12px;z-index:9998;background:#1a1a2e;color:white;padding:6px 14px;border-radius:6px;text-decoration:none;font-size:13px;font-weight:600;box-shadow:0 2px 6px rgba(0,0,0,0.2);">Av's Tools Homepage</a><div class="container">
+  <h1>About these pages</h1>
+  <p class="meta">How the Recent and Upcoming earnings pages are populated, and when they update.</p>
+  
+  <div class="tabs">
+    <a href="recent_earnings.html">Recent earnings</a>
+    <a href="upcoming_earnings.html">Upcoming earnings</a>
+    <a href="earnings_notes.html" class="active">Notes</a>
+  </div>
+
+  <div class="notes-content">
+
+    <h2>Recent earnings reports</h2>
+
+    <h3>What it shows</h3>
+    <p>Each Philadelphia-area public company's most recent <strong>SEC 8-K item 2.02</strong> filing — the formal SEC filing that contains the actual quarterly earnings release. Only filings from the last 90 days are shown.</p>
+
+    <h3>Where the data comes from</h3>
+    <p><strong>SEC EDGAR</strong> (the canonical record). We fetch each company's filing history directly from <code>data.sec.gov/submissions/CIK*.json</code>, identify the most recent 8-K with item 2.02 listed, and show it.</p>
+
+    <h3>How often it updates</h3>
+    <p>15 polling runs every weekday, clustered around when companies typically release earnings:</p>
+    <table class="schedule">
+      <thead><tr><th>Window</th><th>Frequency</th><th>Why</th></tr></thead>
+      <tbody>
+        <tr><td>7:30 AM &ndash; 9:30 AM ET</td><td>Every 15 min (9 polls)</td><td>Pre-market: most large filers drop earnings here</td></tr>
+        <tr><td>Noon ET &amp; 2 PM ET</td><td>Sporadic (2 polls)</td><td>Catches mid-day filings (mostly REITs and utilities)</td></tr>
+        <tr><td>4:00 PM &ndash; 5:00 PM ET</td><td>Every 15 min (5 polls)</td><td>Post-market: the other major release window</td></tr>
+      </tbody>
+    </table>
+
+    <div class="callout"><b>NEW badge:</b> When a polling run detects an 8-K item 2.02 we hadn't seen before, that row gets a red <strong>NEW</strong> badge and yellow highlight for 24 hours.</div>
+
+    <h3>Known limitations</h3>
+    <ul>
+      <li>Some smaller filers release results via 10-Q only (no accompanying 8-K item 2.02). They won't appear here even after they've reported.</li>
+      <li>Companies with no 8-K item 2.02 in the last 90 days are listed in the collapsed &ldquo;Dormant filers&rdquo; footer.</li>
+      <li>EDGAR typically accepts an 8-K filing 5&ndash;15 minutes after the wire press release goes out. So even with 15-minute polling, the page can be ~30 minutes behind the wire in worst case.</li>
+    </ul>
+
+    <h2>Upcoming earnings reports</h2>
+
+    <h3>What it shows</h3>
+    <p>Confirmed upcoming earnings releases and conference calls &mdash; the dates companies have publicly announced via save-the-date press releases. Each row shows the expected release date and (when known) the conference call date and time.</p>
+
+    <h3>Where the data comes from</h3>
+    <p>Two sources, merged:</p>
+    <ul>
+      <li><strong>Yahoo Finance API (auto).</strong> Polls the public news feed for each tracked company. Keeps only items from wire publishers (Business Wire, GlobeNewswire, PR Newswire, ACCESS Newswire) with earnings keywords in the title. For each match, tries to extract the future date from the title; if not there, fetches the article body and parses release/call/time from the press release text.</li>
+      <li><strong>Manual override</strong> (<code>earnings_data/upcoming_dates.json</code>). User-editable file for any dates we know about that the automation missed. Manually entered dates are preserved across runs.</li>
+    </ul>
+
+    <h3>How often it updates</h3>
+    <p>Once a day, weekdays, at <strong>6:00 PM ET</strong>. By then most save-the-date press releases for the day have been published.</p>
+
+    <h3>Known limitations</h3>
+    <ul>
+      <li><strong>Yahoo's recency limit.</strong> Yahoo Finance's news API returns only the ~10 most recent items per company. For active names with lots of analyst commentary (e.g., Five Below), a save-the-date press release can age out of the feed within a week. The manual override file catches those.</li>
+      <li>Past entries are automatically cleaned out: once both the release date and call date are in the past, the row disappears from this view.</li>
+    </ul>
+
+    <h2>Companies tracked</h2>
+    <p>~100 public companies headquartered in the 8-county Philadelphia region: <strong>Philadelphia</strong> + Bucks, Chester, Delaware, Montgomery (PA) + Camden, Burlington, Gloucester (NJ).</p>
+
+    <h3>Not tracked</h3>
+    <ul>
+      <li><strong>Independence Blue Cross</strong> &mdash; mutual benefit corp, not a SEC filer.</li>
+      <li><strong>Foreign filers</strong> like AstraZeneca &mdash; they file annual 20-F, not quarterly 10-Q/8-K.</li>
+      <li><strong>Closed-end funds and ETFs</strong> &mdash; they file N-CSR/N-PORT, not quarterly earnings.</li>
+    </ul>
+
+  </div>
+</div></body></html>
