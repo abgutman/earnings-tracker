@@ -4,3 +4,5 @@
 [2026-06-04 13:48:22]     https://www.sec.gov/Archives/edgar/data/1177609/000117760926000015/five-20260603.htm
 [2026-06-04 13:48:22]     ✉ alert sent
 [2026-06-04 13:48:48] === EDGAR POLL complete. Fetched 100 companies, 1 new filings. ===
+[2026-06-04 16:38:43] === EDGAR POLL: refetching submissions for new 8-K item 2.02 filings (live=True) ===
+[2026-06-04 16:39:09] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===

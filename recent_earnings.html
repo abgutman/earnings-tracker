@@ -1,0 +1,615 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="robots" content="noindex, nofollow"><meta charset="utf-8"><title>Recent earnings — Av's Tools</title>
+<style>
+* { box-sizing: border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif; margin: 0; background: #f4f5f7; color: #1a1a2e; }
+.container { max-width: 1300px; margin: 24px auto; padding: 0 24px; }
+h1 { font-size: 24px; margin: 0 0 4px; }
+.meta { color: #6c757d; font-size: 13px; margin-bottom: 14px; }
+
+.tabs { display: flex; gap: 4px; margin-bottom: 16px; border-bottom: 1px solid #d3d9de; }
+.tabs a { padding: 9px 14px; text-decoration: none; color: #495057; font-size: 13.5px; font-weight: 500; border-bottom: 3px solid transparent; }
+.tabs a.active { color: #1a1a2e; border-bottom-color: #1a1a2e; }
+.tabs a:hover { background: #eef0f3; }
+
+.stats { display: flex; gap: 12px; margin-bottom: 14px; flex-wrap: wrap; }
+.stat { background: white; padding: 8px 14px; border-radius: 4px; font-size: 12.5px; box-shadow: 0 1px 2px rgba(0,0,0,0.06); }
+.stat b { color: #1a1a2e; font-size: 15px; margin-right: 4px; }
+.stat.new-stat { background: #fff4d6; border-left: 3px solid #d63031; }
+.stat.new-stat b { color: #d63031; }
+
+table { width: 100%; border-collapse: collapse; background: white; box-shadow: 0 1px 4px rgba(0,0,0,0.08); border-radius: 4px; overflow: hidden; }
+th { background: #1a1a2e; color: white; text-align: left; padding: 9px 12px; font-weight: 600; font-size: 11.5px; text-transform: uppercase; letter-spacing: 0.4px; }
+td { padding: 10px 12px; border-bottom: 1px solid #ececef; vertical-align: top; font-size: 13.5px; }
+tr:hover { background: #fbfbfc; }
+
+.tk { font-family: ui-monospace, monospace; font-weight: 700; color: #2c5282; white-space: nowrap; }
+.nm { font-weight: 500; min-width: 200px; }
+.date { white-space: nowrap; min-width: 120px; }
+.dim { color: #999; font-size: 11px; }
+.rel-info { color: #2d3436; line-height: 1.55; }
+.links { white-space: nowrap; font-size: 12.5px; }
+.links a { color: #2c5282; text-decoration: none; }
+.links a:hover { text-decoration: underline; }
+
+.when { white-space: nowrap; font-size: 12.5px; }
+.overdue { color: #d63031; font-weight: 600; }
+.today { color: #d63031; font-weight: 700; background: #ffeaa7; padding: 2px 6px; border-radius: 3px; }
+.soon { color: #e17055; font-weight: 700; }
+
+.empty { color: #6c757d; font-style: italic; padding: 30px; background: white; border-radius: 4px; text-align: center; }
+
+tr.row-new { background: #fff4d6; }
+tr.row-new:hover { background: #ffeeb9; }
+tr.row-new td { border-bottom: 1px solid #ffd966; }
+.badge-new { display: inline-block; padding: 2px 7px; background: #d63031; color: white; border-radius: 3px; font-size: 10px; font-weight: 700; letter-spacing: 0.4px; margin-right: 6px; }
+
+.dormant { margin-top: 30px; background: white; padding: 14px 18px; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,0.06); }
+.dormant summary { cursor: pointer; font-weight: 600; color: #495057; font-size: 13px; }
+.dormant summary:hover { color: #1a1a2e; }
+.dormant-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 4px 14px; margin-top: 8px; }
+.dormant-item { font-size: 12px; color: #495057; padding: 3px 0; border-bottom: 1px dotted #ececef; }
+.dormant-item b { color: #2c5282; font-family: ui-monospace, monospace; }
+</style></head>
+<body>
+
+<div id="auth-gate" style="position:fixed;inset:0;background:#1a1a2e;z-index:99999;display:flex;align-items:center;justify-content:center;">
+  <div style="background:white;padding:40px;border-radius:12px;text-align:center;max-width:360px;width:90%;box-shadow:0 4px 20px rgba(0,0,0,0.3);">
+    <div style="font-size:28px;margin-bottom:20px;">&#128274;</div>
+    <input id="auth-pw" type="password" placeholder="Password" autofocus
+      style="width:100%;padding:12px;border:2px solid #ddd;border-radius:6px;font-size:15px;margin-bottom:12px;box-sizing:border-box;"
+      onkeydown="if(event.key==='Enter')checkPw()">
+    <button onclick="checkPw()"
+      style="width:100%;padding:12px;background:#1a1a2e;color:white;border:none;border-radius:6px;font-size:15px;font-weight:600;cursor:pointer;">
+      Enter</button>
+    <p id="auth-err" style="color:#c0392b;font-size:13px;margin-top:10px;display:none;">Incorrect password</p>
+  </div>
+</div>
+<script>
+async function sha256(msg) {
+  const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(msg));
+  return [...new Uint8Array(buf)].map(b => b.toString(16).padStart(2,'0')).join('');
+}
+async function checkPw() {
+  const h = await sha256(document.getElementById('auth-pw').value);
+  if (h === 'c93289ef40f052d7086625037e113760e055ec65d162906acc0d8645fcbbd336') {
+    sessionStorage.setItem('court_auth','1');
+    document.getElementById('auth-gate').remove();
+  } else {
+    document.getElementById('auth-err').style.display='block';
+    document.getElementById('auth-pw').value='';
+  }
+}
+if (sessionStorage.getItem('court_auth')==='1') {
+  document.getElementById('auth-gate').remove();
+}
+</script>
+
+<a href="https://abgutman.github.io/av-tools/" style="position:fixed;top:12px;right:12px;z-index:9998;background:#1a1a2e;color:white;padding:6px 14px;border-radius:6px;text-decoration:none;font-size:13px;font-weight:600;box-shadow:0 2px 6px rgba(0,0,0,0.2);">Av's Tools Homepage</a><div class="container">
+  <h1>Recent earnings reports</h1>
+  <p class="meta">Each company's most recent SEC 8-K item 2.02 filing (the actual quarterly earnings release), if filed in the last 90 days. EDGAR source of truth. Newest first. Updated 2026-06-04 12:39 ET.</p>
+  
+  <div class="tabs">
+    <a href="recent_earnings.html" class="active">Recent earnings</a>
+    <a href="upcoming_earnings.html">Upcoming earnings</a>
+    <a href="earnings_notes.html">Notes</a>
+  </div>
+  <div class="stats">
+    <div class="stat"><b>84</b> companies filed in last 90 days</div>
+    <div class="stat new-stat"><b>1</b> new in last 24h</div>
+  </div>
+  <table><thead><tr><th>Filed</th><th>Ticker</th><th>Company</th><th>Links</th></tr></thead><tbody>
+    <tr class="row-new">
+      <td class="date"><span class="badge-new">NEW</span> <b>Jun 3, 2026</b><br><span class="dim">1d ago</span></td>
+      <td class="tk">FIVE</td>
+      <td class="nm">FIVE BELOW, INC</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1177609/000117760926000015/five-20260603.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/FIVE/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>Jun 1, 2026</b><br><span class="dim">3d ago</span></td>
+      <td class="tk">CUBE</td>
+      <td class="nm">CubeSmart</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1298675/000129867526000030/cube-20260601x8k.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/CUBE/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 28, 2026</b><br><span class="dim">7d ago</span></td>
+      <td class="tk">BURL</td>
+      <td class="nm">Burlington Stores, Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1579298/000119312526242954/burl-20260528.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/BURL/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 21, 2026</b><br><span class="dim">14d ago</span></td>
+      <td class="tk">HLNE</td>
+      <td class="nm">Hamilton Lane INC</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1433642/000143364226000016/hlne-20260521.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/HLNE/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 19, 2026</b><br><span class="dim">16d ago</span></td>
+      <td class="tk">TOL</td>
+      <td class="nm">Toll Brothers, Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/794170/000079417026000083/tol-20260519.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/TOL/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 15, 2026</b><br><span class="dim">20d ago</span></td>
+      <td class="tk">HSDT</td>
+      <td class="nm">Solana Co</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1610853/000110465926062534/hsdt-20260515x8k.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/HSDT/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 15, 2026</b><br><span class="dim">20d ago</span></td>
+      <td class="tk">ANVS</td>
+      <td class="nm">Annovis Bio, Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1477845/000110465926062451/tm2614822d1_8k.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/ANVS/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 15, 2026</b><br><span class="dim">20d ago</span></td>
+      <td class="tk">TRAW</td>
+      <td class="nm">Traws Pharma, Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1130598/000110465926061771/tm2614707d1_8k.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/TRAW/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 14, 2026</b><br><span class="dim">21d ago</span></td>
+      <td class="tk">LRMR</td>
+      <td class="nm">Larimar Therapeutics, Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1374690/000119312526222746/lrmr-20260514.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/LRMR/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 14, 2026</b><br><span class="dim">21d ago</span></td>
+      <td class="tk">VSNT</td>
+      <td class="nm">Versant Media Group, Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/2067876/000206787626000025/vsnt-20260514.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/VSNT/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 14, 2026</b><br><span class="dim">21d ago</span></td>
+      <td class="tk">CABA</td>
+      <td class="nm">Cabaletta Bio, Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1759138/000175913826000025/caba-20260514.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/CABA/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 14, 2026</b><br><span class="dim">21d ago</span></td>
+      <td class="tk">ISSC</td>
+      <td class="nm">INNOVATIVE SOLUTIONS &amp; SUPPORT INC</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/836690/000110465926060758/issc-20260514x8k.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/ISSC/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 14, 2026</b><br><span class="dim">21d ago</span></td>
+      <td class="tk">TOPP</td>
+      <td class="nm">Toppoint Holdings Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1960847/000121390026056679/ea0290930-8k_toppoint.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/TOPP/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 13, 2026</b><br><span class="dim">22d ago</span></td>
+      <td class="tk">VSH</td>
+      <td class="nm">VISHAY INTERTECHNOLOGY INC</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/103730/000010373026000037/form8-k.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/VSH/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 13, 2026</b><br><span class="dim">22d ago</span></td>
+      <td class="tk">INO</td>
+      <td class="nm">INOVIO PHARMACEUTICALS, INC.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1055726/000105572626000019/ino-20260513.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/INO/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 13, 2026</b><br><span class="dim">22d ago</span></td>
+      <td class="tk">AVTX</td>
+      <td class="nm">Avalo Therapeutics, Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1534120/000153412026000032/avtx-20260513.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/AVTX/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 13, 2026</b><br><span class="dim">22d ago</span></td>
+      <td class="tk">IPSC</td>
+      <td class="nm">Century Therapeutics, Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1850119/000110465926059824/tm2614312d1_8k.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/IPSC/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 13, 2026</b><br><span class="dim">22d ago</span></td>
+      <td class="tk">APRE</td>
+      <td class="nm">Aprea Therapeutics, Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1781983/000110465926059734/apre-20260513x8k.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/APRE/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 12, 2026</b><br><span class="dim">23d ago</span></td>
+      <td class="tk">ARMK</td>
+      <td class="nm">Aramark</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1584509/000158450926000085/cik0-20260512.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/ARMK/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 12, 2026</b><br><span class="dim">23d ago</span></td>
+      <td class="tk">VPG</td>
+      <td class="nm">Vishay Precision Group, Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1487952/000143774926016226/vpg20260224_8k.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/VPG/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 12, 2026</b><br><span class="dim">23d ago</span></td>
+      <td class="tk">SND</td>
+      <td class="nm">Smart Sand, Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1529628/000152962826000034/snd-20260512.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/SND/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 12, 2026</b><br><span class="dim">23d ago</span></td>
+      <td class="tk">VRCA</td>
+      <td class="nm">Verrica Pharmaceuticals Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1660334/000119312526219395/d152529d8k.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/VRCA/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 12, 2026</b><br><span class="dim">23d ago</span></td>
+      <td class="tk">TELA</td>
+      <td class="nm">TELA Bio, Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1561921/000110465926059393/tm2614218d1_8k.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/TELA/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 11, 2026</b><br><span class="dim">24d ago</span></td>
+      <td class="tk">FSK</td>
+      <td class="nm">FS KKR Capital Corp</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1422183/000110465926058250/tm2614112d1_8k.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/FSK/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 11, 2026</b><br><span class="dim">24d ago</span></td>
+      <td class="tk">NVRI</td>
+      <td class="nm">ENVIRI Corp</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/45876/000004587626000099/nvri-20260511.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/NVRI/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 11, 2026</b><br><span class="dim">24d ago</span></td>
+      <td class="tk">AVBP</td>
+      <td class="nm">ArriVent BioPharma, Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1868279/000110465926058638/avbp-20260511x8k.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/AVBP/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 11, 2026</b><br><span class="dim">24d ago</span></td>
+      <td class="tk">CERT</td>
+      <td class="nm">Certara, Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1827090/000182709026000017/certara-20260511.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/CERT/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 8, 2026</b><br><span class="dim">27d ago</span></td>
+      <td class="tk">PPL</td>
+      <td class="nm">PPL Corp</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/922224/000092222426000024/ppl-20260508.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/PPL/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 7, 2026</b><br><span class="dim">28d ago</span></td>
+      <td class="tk">RDN</td>
+      <td class="nm">RADIAN GROUP INC</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/890926/000119312526210841/rdn-20260506.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/RDN/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 7, 2026</b><br><span class="dim">28d ago</span></td>
+      <td class="tk">LNC</td>
+      <td class="nm">LINCOLN NATIONAL CORP</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/59558/000005955826000031/lnc-20260507.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/LNC/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 7, 2026</b><br><span class="dim">28d ago</span></td>
+      <td class="tk">BSY</td>
+      <td class="nm">BENTLEY SYSTEMS INC</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1031308/000103130826000014/bsy-20260507.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/BSY/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 7, 2026</b><br><span class="dim">28d ago</span></td>
+      <td class="tk">OCGN</td>
+      <td class="nm">Ocugen, Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1372299/000110465926057138/tm2613898d1_8k.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/OCGN/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 7, 2026</b><br><span class="dim">28d ago</span></td>
+      <td class="tk">WTRG</td>
+      <td class="nm">Essential Utilities, Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/78128/000155278126000307/e26241_wtrg-8k.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/WTRG/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 7, 2026</b><br><span class="dim">28d ago</span></td>
+      <td class="tk">UGI</td>
+      <td class="nm">UGI CORP /PA/</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/884614/000088461426000018/ugi-20260506.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/UGI/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 7, 2026</b><br><span class="dim">28d ago</span></td>
+      <td class="tk">HRMY</td>
+      <td class="nm">Harmony Biosciences Holdings, Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1802665/000110465926056786/hrmy-20260507x8k.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/HRMY/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 7, 2026</b><br><span class="dim">28d ago</span></td>
+      <td class="tk">GMED</td>
+      <td class="nm">GLOBUS MEDICAL INC</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1237831/000162828026032164/gmed-20260507.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/GMED/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 7, 2026</b><br><span class="dim">28d ago</span></td>
+      <td class="tk">TFX</td>
+      <td class="nm">TELEFLEX INC</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/96943/000009694326000048/tfx-20260507.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/TFX/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 7, 2026</b><br><span class="dim">28d ago</span></td>
+      <td class="tk">EPAM</td>
+      <td class="nm">EPAM Systems, Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1352010/000135201026000026/epam-20260507.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/EPAM/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 7, 2026</b><br><span class="dim">28d ago</span></td>
+      <td class="tk">VERX</td>
+      <td class="nm">Vertex, Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1806837/000110465926056674/verx-20260507x8k.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/VERX/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 7, 2026</b><br><span class="dim">28d ago</span></td>
+      <td class="tk">PVLA</td>
+      <td class="nm">PALVELLA THERAPEUTICS, INC.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1583648/000119312526210605/pvla-20260507.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/PVLA/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 7, 2026</b><br><span class="dim">28d ago</span></td>
+      <td class="tk">ACRS</td>
+      <td class="nm">Aclaris Therapeutics, Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1557746/000110465926056669/acrs-20260507x8k.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/ACRS/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 7, 2026</b><br><span class="dim">28d ago</span></td>
+      <td class="tk">PHIO</td>
+      <td class="nm">Phio Pharmaceuticals Corp.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1533040/000143774926015590/phio20260331_8k.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/PHIO/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 6, 2026</b><br><span class="dim">29d ago</span></td>
+      <td class="tk">COR</td>
+      <td class="nm">Cencora, Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1140859/000114085926000018/abc-20260506.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/COR/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 6, 2026</b><br><span class="dim">29d ago</span></td>
+      <td class="tk">MLYS</td>
+      <td class="nm">Mineralys Therapeutics, Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1933414/000193341426000082/mlys-20260506.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/MLYS/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 6, 2026</b><br><span class="dim">29d ago</span></td>
+      <td class="tk">JJSF</td>
+      <td class="nm">J&amp;J SNACK FOODS CORP</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/785956/000143774926015010/jjsf20260506_8k.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/JJSF/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 5, 2026</b><br><span class="dim">30d ago</span></td>
+      <td class="tk">UIS</td>
+      <td class="nm">UNISYS CORP</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000015/uis-20260505.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/UIS/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 5, 2026</b><br><span class="dim">30d ago</span></td>
+      <td class="tk">ECVT</td>
+      <td class="nm">Ecovyst Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1708035/000170803526000063/ecvt-20260505.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/ECVT/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 5, 2026</b><br><span class="dim">30d ago</span></td>
+      <td class="tk">AHCO</td>
+      <td class="nm">AdaptHealth Corp.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1725255/000162828026030120/ahco-20260505.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/AHCO/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 5, 2026</b><br><span class="dim">30d ago</span></td>
+      <td class="tk">GBLI</td>
+      <td class="nm">Global Indemnity Group, LLC</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1494904/000119312526205183/gbli-20260505.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/GBLI/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 5, 2026</b><br><span class="dim">30d ago</span></td>
+      <td class="tk">STIM</td>
+      <td class="nm">Neuronetics, Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1227636/000119312526205117/d139145d8k.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/STIM/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 5, 2026</b><br><span class="dim">30d ago</span></td>
+      <td class="tk">DD</td>
+      <td class="nm">DuPont de Nemours, Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1666700/000166670026000029/dd-20260505.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/DD/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 4, 2026</b><br><span class="dim">31d ago</span></td>
+      <td class="tk">DORM</td>
+      <td class="nm">Dorman Products, Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/868780/000086878026000022/dorm-20260504.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/DORM/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 1, 2026</b><br><span class="dim">34d ago</span></td>
+      <td class="tk">QNTO</td>
+      <td class="nm">QUAINT OAK BANCORP, INC.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1391933/000092708926000082/qnto20260429_8k.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/QNTO/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>May 1, 2026</b><br><span class="dim">34d ago</span></td>
+      <td class="tk">COHN</td>
+      <td class="nm">Cohen &amp; Co Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1270436/000110465926053498/tm2612945d1_8k.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/COHN/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>Apr 30, 2026</b><br><span class="dim">35d ago</span></td>
+      <td class="tk">AXTA</td>
+      <td class="nm">Axalta Coating Systems Ltd.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1616862/000162828026028553/axta-20260430.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/AXTA/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>Apr 30, 2026</b><br><span class="dim">35d ago</span></td>
+      <td class="tk">AME</td>
+      <td class="nm">AMETEK INC/</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1037868/000103786826000141/ame-20260430.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/AME/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>Apr 30, 2026</b><br><span class="dim">35d ago</span></td>
+      <td class="tk">KWR</td>
+      <td class="nm">QUAKER CHEMICAL CORP</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/81362/000162828026028945/kwr-20260430.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/KWR/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>Apr 30, 2026</b><br><span class="dim">35d ago</span></td>
+      <td class="tk">TSEOF</td>
+      <td class="nm">Trinseo PLC</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1519061/000110465926052333/tse-20260430x8k.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/TSEOF/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>Apr 30, 2026</b><br><span class="dim">35d ago</span></td>
+      <td class="tk">HSY</td>
+      <td class="nm">HERSHEY CO</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/47111/000162828026028569/hsy-20260430.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/HSY/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>Apr 30, 2026</b><br><span class="dim">35d ago</span></td>
+      <td class="tk">MRK</td>
+      <td class="nm">Merck &amp; Co., Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/310158/000110465926052081/tm2612241d1_8k.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/MRK/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>Apr 29, 2026</b><br><span class="dim">36d ago</span></td>
+      <td class="tk">FMC</td>
+      <td class="nm">FMC CORP</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/37785/000003778526000083/fmc-20260429.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/FMC/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>Apr 29, 2026</b><br><span class="dim">36d ago</span></td>
+      <td class="tk">IRT</td>
+      <td class="nm">INDEPENDENCE REALTY TRUST, INC.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1466085/000143774926013863/irt20260121_8k.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/IRT/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>Apr 29, 2026</b><br><span class="dim">36d ago</span></td>
+      <td class="tk">OFLX</td>
+      <td class="nm">Omega Flex, Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1317945/000149315226019579/form8-k.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/OFLX/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>Apr 29, 2026</b><br><span class="dim">36d ago</span></td>
+      <td class="tk">AWK</td>
+      <td class="nm">American Water Works Company, Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1410636/000141063626000064/awk-20260429.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/AWK/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>Apr 29, 2026</b><br><span class="dim">36d ago</span></td>
+      <td class="tk">CRS</td>
+      <td class="nm">CARPENTER TECHNOLOGY CORP</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/17843/000001784326000018/crs-20260429.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/CRS/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>Apr 29, 2026</b><br><span class="dim">36d ago</span></td>
+      <td class="tk">AVTR</td>
+      <td class="nm">Avantor, Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1722482/000162828026028078/avtr-20260429.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/AVTR/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>Apr 28, 2026</b><br><span class="dim">37d ago</span></td>
+      <td class="tk">UHS</td>
+      <td class="nm">UNIVERSAL HEALTH SERVICES INC</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/352915/000119312526183643/uhs-20260427.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/UHS/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>Apr 28, 2026</b><br><span class="dim">37d ago</span></td>
+      <td class="tk">QNBC</td>
+      <td class="nm">QNB CORP.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/750558/000119312526185233/qnbc-20260428.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/QNBC/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>Apr 27, 2026</b><br><span class="dim">38d ago</span></td>
+      <td class="tk">UHT</td>
+      <td class="nm">UNIVERSAL HEALTH REALTY INCOME TRUST</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/798783/000119312526182162/uht-20260427.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/UHT/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>Apr 23, 2026</b><br><span class="dim">42d ago</span></td>
+      <td class="tk">CMCSA</td>
+      <td class="nm">COMCAST CORP</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1166691/000162828026026685/cmcsa-20260423.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/CMCSA/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>Apr 23, 2026</b><br><span class="dim">42d ago</span></td>
+      <td class="tk">BDN</td>
+      <td class="nm">BRANDYWINE REALTY TRUST</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/790816/000079081626000014/bdn-20260422.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/BDN/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>Apr 23, 2026</b><br><span class="dim">42d ago</span></td>
+      <td class="tk">WST</td>
+      <td class="nm">WEST PHARMACEUTICAL SERVICES INC</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/105770/000010577026000047/wst-20260423.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/WST/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>Apr 23, 2026</b><br><span class="dim">42d ago</span></td>
+      <td class="tk">UVSP</td>
+      <td class="nm">UNIVEST FINANCIAL Corp</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/102212/000010221226000022/uvsp-20260422.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/UVSP/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>Apr 23, 2026</b><br><span class="dim">42d ago</span></td>
+      <td class="tk">MRBK</td>
+      <td class="nm">Meridian Corp</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1750735/000175073526000033/mrbk-20260423.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/MRBK/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>Apr 22, 2026</b><br><span class="dim">43d ago</span></td>
+      <td class="tk">SEIC</td>
+      <td class="nm">SEI INVESTMENTS CO</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/350894/000035089426000026/seic-20260422.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/SEIC/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>Apr 22, 2026</b><br><span class="dim">43d ago</span></td>
+      <td class="tk">HCSG</td>
+      <td class="nm">HEALTHCARE SERVICES GROUP INC</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/731012/000073101226000025/hcsg-20260422.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/HCSG/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>Apr 17, 2026</b><br><span class="dim">48d ago</span></td>
+      <td class="tk">PKBK</td>
+      <td class="nm">PARKE BANCORP, INC.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1315399/000143774926012624/pkbk20260316_8k.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/PKBK/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>Apr 14, 2026</b><br><span class="dim">51d ago</span></td>
+      <td class="tk">JNJ</td>
+      <td class="nm">JOHNSON &amp; JOHNSON</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/200406/000020040626000076/jnj-20260414.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/JNJ/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>Apr 3, 2026</b><br><span class="dim">62d ago</span></td>
+      <td class="tk">RCMT</td>
+      <td class="nm">RCM TECHNOLOGIES, INC.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/700841/000143774926011237/rcmt20260402_8k.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/RCMT/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>Mar 27, 2026</b><br><span class="dim">69d ago</span></td>
+      <td class="tk">FORA</td>
+      <td class="nm">Forian Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1829280/000114036126011738/ef20069177_8k.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/FORA/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>Mar 18, 2026</b><br><span class="dim">78d ago</span></td>
+      <td class="tk">XHLD</td>
+      <td class="nm">TEN Holdings, Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/2030954/000149315226011256/form8-k.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/XHLD/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>Mar 12, 2026</b><br><span class="dim">84d ago</span></td>
+      <td class="tk">AXR</td>
+      <td class="nm">AMREP CORP.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/6207/000110465926027103/tm268363d1_8k.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/AXR/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>Mar 11, 2026</b><br><span class="dim">85d ago</span></td>
+      <td class="tk">CPB</td>
+      <td class="nm">CAMPBELL&#x27;S Co</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/16732/000001673226000004/cpb-20260311.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/CPB/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="">
+      <td class="date"><b>Mar 11, 2026</b><br><span class="dim">85d ago</span></td>
+      <td class="tk">BTCS</td>
+      <td class="nm">BTCS Inc.</td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1436229/000149315226009622/form8-k.htm" target="_blank" rel="noopener">View 8-K filing</a> · <a href="https://finance.yahoo.com/quote/BTCS/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr></tbody></table>
+  
+    <details class="dormant">
+      <summary>Filers with no 8-K item 2.02 in 90+ days (16)</summary>
+      <p class="dim" style="margin: 6px 0 10px; font-size: 12px;">These are companies in our list whose last SEC quarterly-earnings filing is over 90 days old — may be inactive, delinquent, or off the typical cadence (e.g., 20-F filers, micro-caps). Listed compactly so we don't lose track of them but they don't clutter the upcoming view.</p>
+      <div class="dormant-grid"><span class="dormant-item"><b>ESMC</b> ESCALON MEDICAL CORP <span class="dim">(5727d)</span></span><span class="dormant-item"><b>RPMT</b> REGO PAYMENT ARCHITECTURES, INC. <span class="dim">(4133d)</span></span><span class="dormant-item"><b>URBN</b> URBAN OUTFITTERS INC <span class="dim">(3480d)</span></span><span class="dormant-item"><b>DWAY</b> Driveitaway Holdings, Inc. <span class="dim">(2320d)</span></span><span class="dormant-item"><b>GMER</b> GOOD GAMING, INC. <span class="dim">(1658d)</span></span><span class="dormant-item"><b>INVU</b> Investview, Inc. <span class="dim">(1298d)</span></span><span class="dormant-item"><b>CNTX</b> Context Therapeutics Inc. <span class="dim">(1170d)</span></span><span class="dormant-item"><b>VLGEA</b> VILLAGE SUPER MARKET INC <span class="dim">(968d)</span></span><span class="dormant-item"><b>SFES</b> SAFEGUARD SCIENTIFICS INC <span class="dim">(945d)</span></span><span class="dormant-item"><b>GRTX</b> Galera Therapeutics, Inc. <span class="dim">(659d)</span></span><span class="dormant-item"><b>WINT</b> WINDTREE THERAPEUTICS INC /DE/ <span class="dim">(384d)</span></span><span class="dormant-item"><b>QVCAQ</b> QVC Group, Inc. <span class="dim">(211d)</span></span><span class="dormant-item"><b>NXGL</b> NEXGEL, INC. <span class="dim">(204d)</span></span><span class="dormant-item"><b>SSKN</b> STRATA Skin Sciences, Inc. <span class="dim">(203d)</span></span><span class="dormant-item"><b>BV</b> BrightView Holdings, Inc. <span class="dim">(121d)</span></span><span class="dormant-item"><b>PASG</b> Passage BIO, Inc. <span class="dim">(93d)</span></span></div>
+      <p class="dim" style="font-size: 11px; margin-top: 8px;"></p>
+    </details>
+</div></body></html>

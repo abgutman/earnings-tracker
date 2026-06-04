@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="robots" content="noindex, nofollow"><meta charset="utf-8"><title>Upcoming earnings — Av's Tools</title>
+<style>
+* { box-sizing: border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif; margin: 0; background: #f4f5f7; color: #1a1a2e; }
+.container { max-width: 1300px; margin: 24px auto; padding: 0 24px; }
+h1 { font-size: 24px; margin: 0 0 4px; }
+.meta { color: #6c757d; font-size: 13px; margin-bottom: 14px; }
+
+.tabs { display: flex; gap: 4px; margin-bottom: 16px; border-bottom: 1px solid #d3d9de; }
+.tabs a { padding: 9px 14px; text-decoration: none; color: #495057; font-size: 13.5px; font-weight: 500; border-bottom: 3px solid transparent; }
+.tabs a.active { color: #1a1a2e; border-bottom-color: #1a1a2e; }
+.tabs a:hover { background: #eef0f3; }
+
+.stats { display: flex; gap: 12px; margin-bottom: 14px; flex-wrap: wrap; }
+.stat { background: white; padding: 8px 14px; border-radius: 4px; font-size: 12.5px; box-shadow: 0 1px 2px rgba(0,0,0,0.06); }
+.stat b { color: #1a1a2e; font-size: 15px; margin-right: 4px; }
+.stat.new-stat { background: #fff4d6; border-left: 3px solid #d63031; }
+.stat.new-stat b { color: #d63031; }
+
+table { width: 100%; border-collapse: collapse; background: white; box-shadow: 0 1px 4px rgba(0,0,0,0.08); border-radius: 4px; overflow: hidden; }
+th { background: #1a1a2e; color: white; text-align: left; padding: 9px 12px; font-weight: 600; font-size: 11.5px; text-transform: uppercase; letter-spacing: 0.4px; }
+td { padding: 10px 12px; border-bottom: 1px solid #ececef; vertical-align: top; font-size: 13.5px; }
+tr:hover { background: #fbfbfc; }
+
+.tk { font-family: ui-monospace, monospace; font-weight: 700; color: #2c5282; white-space: nowrap; }
+.nm { font-weight: 500; min-width: 200px; }
+.date { white-space: nowrap; min-width: 120px; }
+.dim { color: #999; font-size: 11px; }
+.rel-info { color: #2d3436; line-height: 1.55; }
+.links { white-space: nowrap; font-size: 12.5px; }
+.links a { color: #2c5282; text-decoration: none; }
+.links a:hover { text-decoration: underline; }
+
+.when { white-space: nowrap; font-size: 12.5px; }
+.overdue { color: #d63031; font-weight: 600; }
+.today { color: #d63031; font-weight: 700; background: #ffeaa7; padding: 2px 6px; border-radius: 3px; }
+.soon { color: #e17055; font-weight: 700; }
+
+.empty { color: #6c757d; font-style: italic; padding: 30px; background: white; border-radius: 4px; text-align: center; }
+
+tr.row-new { background: #fff4d6; }
+tr.row-new:hover { background: #ffeeb9; }
+tr.row-new td { border-bottom: 1px solid #ffd966; }
+.badge-new { display: inline-block; padding: 2px 7px; background: #d63031; color: white; border-radius: 3px; font-size: 10px; font-weight: 700; letter-spacing: 0.4px; margin-right: 6px; }
+
+.dormant { margin-top: 30px; background: white; padding: 14px 18px; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,0.06); }
+.dormant summary { cursor: pointer; font-weight: 600; color: #495057; font-size: 13px; }
+.dormant summary:hover { color: #1a1a2e; }
+.dormant-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 4px 14px; margin-top: 8px; }
+.dormant-item { font-size: 12px; color: #495057; padding: 3px 0; border-bottom: 1px dotted #ececef; }
+.dormant-item b { color: #2c5282; font-family: ui-monospace, monospace; }
+</style></head>
+<body>
+
+<div id="auth-gate" style="position:fixed;inset:0;background:#1a1a2e;z-index:99999;display:flex;align-items:center;justify-content:center;">
+  <div style="background:white;padding:40px;border-radius:12px;text-align:center;max-width:360px;width:90%;box-shadow:0 4px 20px rgba(0,0,0,0.3);">
+    <div style="font-size:28px;margin-bottom:20px;">&#128274;</div>
+    <input id="auth-pw" type="password" placeholder="Password" autofocus
+      style="width:100%;padding:12px;border:2px solid #ddd;border-radius:6px;font-size:15px;margin-bottom:12px;box-sizing:border-box;"
+      onkeydown="if(event.key==='Enter')checkPw()">
+    <button onclick="checkPw()"
+      style="width:100%;padding:12px;background:#1a1a2e;color:white;border:none;border-radius:6px;font-size:15px;font-weight:600;cursor:pointer;">
+      Enter</button>
+    <p id="auth-err" style="color:#c0392b;font-size:13px;margin-top:10px;display:none;">Incorrect password</p>
+  </div>
+</div>
+<script>
+async function sha256(msg) {
+  const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(msg));
+  return [...new Uint8Array(buf)].map(b => b.toString(16).padStart(2,'0')).join('');
+}
+async function checkPw() {
+  const h = await sha256(document.getElementById('auth-pw').value);
+  if (h === 'c93289ef40f052d7086625037e113760e055ec65d162906acc0d8645fcbbd336') {
+    sessionStorage.setItem('court_auth','1');
+    document.getElementById('auth-gate').remove();
+  } else {
+    document.getElementById('auth-err').style.display='block';
+    document.getElementById('auth-pw').value='';
+  }
+}
+if (sessionStorage.getItem('court_auth')==='1') {
+  document.getElementById('auth-gate').remove();
+}
+</script>
+
+<a href="https://abgutman.github.io/av-tools/" style="position:fixed;top:12px;right:12px;z-index:9998;background:#1a1a2e;color:white;padding:6px 14px;border-radius:6px;text-decoration:none;font-size:13px;font-weight:600;box-shadow:0 2px 6px rgba(0,0,0,0.2);">Av's Tools Homepage</a><div class="container">
+  <h1>Upcoming earnings reports</h1>
+  <p class="meta">Confirmed earnings releases and conference calls, sourced from save-the-date press releases and manual entries. Soonest first. Updated 2026-06-04 12:39 ET.</p>
+  
+  <div class="tabs">
+    <a href="recent_earnings.html">Recent earnings</a>
+    <a href="upcoming_earnings.html" class="active">Upcoming earnings</a>
+    <a href="earnings_notes.html">Notes</a>
+  </div>
+  <div class="stats"><div class="stat"><b>2</b> confirmed upcoming events</div></div>
+  <table><thead><tr><th>Date</th><th>When</th><th>Ticker</th><th>Company</th><th>Release information</th><th>Links</th></tr></thead><tbody>
+    <tr>
+      <td class="date"><b>Jun 11, 2026</b></td>
+      <td class="when"><span class="soon">in 7d</span></td>
+      <td class="tk">CPB</td>
+      <td class="nm">CAMPBELL&#x27;S Co</td>
+      <td class="rel-info">Release: Jun 11, 2026<br>Call: Jun 11, 2026 · 08:00 ET</td>
+      <td class="links"><a href="https://investor.thecampbellscompany.com/events/event-details/q3-fiscal-2026-campbells-company-earnings-conference-call" target="_blank" rel="noopener">Source</a> · <a href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000016732&amp;type=10-Q,10-K,8-K&amp;dateb=&amp;owner=include&amp;count=20" target="_blank" rel="noopener">EDGAR</a></td>
+    </tr>
+    <tr>
+      <td class="date"><b>Jul 22, 2026</b></td>
+      <td class="when">in 48d</td>
+      <td class="tk">BDN</td>
+      <td class="nm">BRANDYWINE REALTY TRUST</td>
+      <td class="rel-info">Release: Jul 22, 2026<br>Call: Jul 23, 2026 · 09:00 ET</td>
+      <td class="links"><a href="https://www.globenewswire.com/news-release/2026/05/28/3303157/0/en/brandywine-realty-trust-announces-common-quarterly-dividend-and-confirms-second-quarter-2026-earnings-release-and-conference-call.html" target="_blank" rel="noopener">Source</a> · <a href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000790816&amp;type=10-Q,10-K,8-K&amp;dateb=&amp;owner=include&amp;count=20" target="_blank" rel="noopener">EDGAR</a></td>
+    </tr></tbody></table>
+  
+    <details class="dormant">
+      <summary>Filers with no 8-K item 2.02 in 90+ days (16)</summary>
+      <p class="dim" style="margin: 6px 0 10px; font-size: 12px;">These are companies in our list whose last SEC quarterly-earnings filing is over 90 days old — may be inactive, delinquent, or off the typical cadence (e.g., 20-F filers, micro-caps). Listed compactly so we don't lose track of them but they don't clutter the upcoming view.</p>
+      <div class="dormant-grid"><span class="dormant-item"><b>ESMC</b> ESCALON MEDICAL CORP <span class="dim">(5727d)</span></span><span class="dormant-item"><b>RPMT</b> REGO PAYMENT ARCHITECTURES, INC. <span class="dim">(4133d)</span></span><span class="dormant-item"><b>URBN</b> URBAN OUTFITTERS INC <span class="dim">(3480d)</span></span><span class="dormant-item"><b>DWAY</b> Driveitaway Holdings, Inc. <span class="dim">(2320d)</span></span><span class="dormant-item"><b>GMER</b> GOOD GAMING, INC. <span class="dim">(1658d)</span></span><span class="dormant-item"><b>INVU</b> Investview, Inc. <span class="dim">(1298d)</span></span><span class="dormant-item"><b>CNTX</b> Context Therapeutics Inc. <span class="dim">(1170d)</span></span><span class="dormant-item"><b>VLGEA</b> VILLAGE SUPER MARKET INC <span class="dim">(968d)</span></span><span class="dormant-item"><b>SFES</b> SAFEGUARD SCIENTIFICS INC <span class="dim">(945d)</span></span><span class="dormant-item"><b>GRTX</b> Galera Therapeutics, Inc. <span class="dim">(659d)</span></span><span class="dormant-item"><b>WINT</b> WINDTREE THERAPEUTICS INC /DE/ <span class="dim">(384d)</span></span><span class="dormant-item"><b>QVCAQ</b> QVC Group, Inc. <span class="dim">(211d)</span></span><span class="dormant-item"><b>NXGL</b> NEXGEL, INC. <span class="dim">(204d)</span></span><span class="dormant-item"><b>SSKN</b> STRATA Skin Sciences, Inc. <span class="dim">(203d)</span></span><span class="dormant-item"><b>BV</b> BrightView Holdings, Inc. <span class="dim">(121d)</span></span><span class="dormant-item"><b>PASG</b> Passage BIO, Inc. <span class="dim">(93d)</span></span></div>
+      <p class="dim" style="font-size: 11px; margin-top: 8px;"></p>
+    </details>
+</div></body></html>
