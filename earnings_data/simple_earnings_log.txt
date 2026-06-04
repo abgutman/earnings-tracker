@@ -1,0 +1,6 @@
+[2026-06-04 13:48:20] === EDGAR POLL: refetching submissions for new 8-K item 2.02 filings (live=True) ===
+[2026-06-04 13:48:22]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/av-tools/av-tools/earnings_data/submissions_cache/CIK0001177609.json'
+[2026-06-04 13:48:22]   ★ NEW 8-K item 2.02 for FIVE (FIVE BELOW, INC) filed 2026-06-03
+[2026-06-04 13:48:22]     https://www.sec.gov/Archives/edgar/data/1177609/000117760926000015/five-20260603.htm
+[2026-06-04 13:48:22]     ✉ alert sent
+[2026-06-04 13:48:48] === EDGAR POLL complete. Fetched 100 companies, 1 new filings. ===

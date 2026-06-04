@@ -1,0 +1,16 @@
+[2026-06-02 23:24:49] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-06-02 23:24:49] Polling Yahoo for 106 companies
+[2026-06-02 23:25:46] === Done. Captured 0 new save-the-dates, cleaned 0 past. ===
+
+[2026-06-03 00:56:02] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-06-03 00:56:02] Polling Yahoo for 106 companies
+[2026-06-03 00:56:55] === Done. Captured 0 new save-the-dates, cleaned 0 past. ===
+
+[2026-06-03 20:38:05] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-06-03 20:38:05] Polling Yahoo for 106 companies
+[2026-06-03 20:39:06] === Done. Captured 0 new save-the-dates, cleaned 0 past. ===
+
+[2026-06-03 23:25:29] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-06-03 23:25:29] Polling Yahoo for 106 companies
+[2026-06-03 23:26:36] === Done. Captured 0 new save-the-dates, cleaned 0 past. ===
+

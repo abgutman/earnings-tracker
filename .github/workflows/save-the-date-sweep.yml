@@ -1,0 +1,51 @@
+name: Save-the-Date Sweep
+
+# Phase 2c: scans GlobeNewswire (and PR Newswire when added) for Tier 1 companies'
+# pre-announcements of upcoming earnings dates / conference calls.
+# Updates earnings_data/confirmed_dates.json which the dashboard reads.
+#
+# SAFETY: Schedule commented out; manual dispatch only until reviewed.
+
+on:
+  workflow_dispatch:
+  # When ready to go live, uncomment:
+  # schedule:
+  #   - cron: '0 22 * * 1,3,5'   # Mon / Wed / Fri 10 PM UTC = 6 PM ET (EDT)
+
+permissions:
+  contents: write
+
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run save-the-date sweep
+        run: |
+          python poll_save_the_date.py
+
+      - name: Rebuild dashboard with new confirmed dates
+        run: |
+          # If build_earnings_dashboard.py is in the repo root, it can be invoked here.
+          # In v1, the dashboard rebuild happens via the main daily-scrape workflow.
+          # This sweep just updates confirmed_dates.json; dashboard picks it up on next rebuild.
+          ls earnings_data/
+
+      - name: Commit updated confirmed dates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add earnings_data/confirmed_dates.json earnings_data/save_the_date_log.txt 2>/dev/null || true
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Save-the-date sweep $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git pull --rebase origin main
+          git push

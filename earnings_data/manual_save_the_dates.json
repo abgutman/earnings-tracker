@@ -1,0 +1,27 @@
+{
+  "_comment": "Manual save-the-date entries. Use this file to add upcoming earnings dates for Tier 1 companies whose wire (BusinessWire) we can't scrape yet. Format matches confirmed_dates.json; will be merged in by build_earnings_dashboard.py. Set source_type='manual' so the dashboard knows.",
+  "_format_example": {
+    "TICKER": [
+      {
+        "release_date": "2026-XX-XX",
+        "call_date": "2026-XX-XX",
+        "call_time": "HH:MM ET",
+        "source_url": "https://investor.example.com/event-page",
+        "source_title": "Manually entered from IR site",
+        "source_type": "manual",
+        "captured_at": "(date you entered it)"
+      }
+    ]
+  },
+  "CPB": [
+    {
+      "release_date": "2026-06-11",
+      "call_date": "2026-06-11",
+      "call_time": "08:00 ET",
+      "source_url": "https://investor.thecampbellscompany.com/events/event-details/q3-fiscal-2026-campbells-company-earnings-conference-call",
+      "source_title": "Campbell's Q3 FY2026 earnings call — manual entry from IR events page",
+      "source_type": "manual",
+      "captured_at": "2026-06-01T18:00:00"
+    }
+  ]
+}

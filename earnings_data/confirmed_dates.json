@@ -1,0 +1,25 @@
+{
+ "BDN": [
+  {
+   "release_date_raw": "Wednesday, July 22, 2026",
+   "release_date": "2026-07-22",
+   "call_date_raw": "July 23, 2026",
+   "call_date": "2026-07-23",
+   "call_time": "9:00 a.m. Eastern Time",
+   "source_url": "https://www.globenewswire.com/news-release/2026/05/28/3303157/0/en/brandywine-realty-trust-announces-common-quarterly-dividend-and-confirms-second-quarter-2026-earnings-release-and-conference-call.html",
+   "source_title": "brandywine realty trust announces common quarterly dividend and confirms second quarter 2026 earnings release and conference call",
+   "captured_at": "2026-06-01T15:51:04"
+  }
+ ],
+ "NXGL": [
+  {
+   "release_date": "2026-05-15",
+   "call_date": null,
+   "call_time": null,
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/nexgel-report-first-quarter-2026-142700418.html",
+   "source_title": "NEXGEL To Report First Quarter 2026 Financial Results on May 15th",
+   "source_type": "yahoo_news",
+   "captured_at": "2026-06-01T20:01:45"
+  }
+ ]
+}

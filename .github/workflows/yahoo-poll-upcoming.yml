@@ -1,0 +1,56 @@
+name: Yahoo Poll — Upcoming Earnings
+
+# Daily Yahoo Finance poll to catch save-the-date press releases.
+# Runs at 22:00 UTC = 6:00 PM ET (EDT). In winter (EST = UTC-5) runs at 5:00 PM ET.
+# Either way, captures any save-the-date press releases published during the day.
+#
+# For each tracked company:
+#   1. Query Yahoo Finance API (?q={ticker}&newsCount=25)
+#   2. Filter to wire publishers + earnings keywords (skip analyst noise)
+#   3. For new items not previously seen, extract release_date/call_date/call_time
+#      from title or article body
+#   4. Add future dates to upcoming_dates.json
+#   5. Clean past entries out of upcoming_dates.json
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 22 * * 1-5'   # 6:00 PM ET (EDT) weekdays
+
+permissions:
+  contents: write
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install curl-cffi (Yahoo TLS fingerprint)
+        run: pip install curl-cffi
+
+      - name: Run Yahoo upcoming poll
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: |
+          python poll_upcoming.py --live
+          python simple_dashboard.py
+
+      - name: Commit + push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add earnings_data/upcoming_dates.json earnings_data/yahoo_upcoming_state.json earnings_data/poll_upcoming_log.txt upcoming_earnings.html recent_earnings.html 2>/dev/null || true
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Auto: Yahoo upcoming poll $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git pull --rebase origin main
+          git push

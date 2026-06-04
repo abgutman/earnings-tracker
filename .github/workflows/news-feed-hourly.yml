@@ -1,0 +1,47 @@
+name: News Feed — Hourly
+
+# Hourly Yahoo Finance poll for ALL headlines from tracked companies.
+# Runs every hour 11:00-00:00 UTC (7 AM - 8 PM ET, EDT) on weekdays.
+# In winter (EST = UTC-5), runs 6 AM - 7 PM ET — fine, business hours either way.
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 11-23 * * 1-5'   # 7 AM through 7 PM ET, weekdays
+    - cron: '0 0 * * 2-6'        # 8 PM ET — fires under "next day" UTC, hence 2-6
+    # The two cron lines together cover 11 AM - midnight UTC = 7 AM - 8 PM ET each weekday.
+
+permissions:
+  contents: write
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install curl-cffi
+        run: pip install curl-cffi
+
+      - name: Poll Yahoo + rebuild page
+        run: |
+          python poll_news_feed.py
+          python build_news_feed.py
+
+      - name: Commit + push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add earnings_data/news_feed.json news_feed.html earnings_data/news_feed_log.txt 2>/dev/null || true
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Auto: news feed $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git pull --rebase origin main
+          git push

@@ -1,0 +1,14 @@
+{
+  "_comment": "Manual overrides for events Yahoo's API can't surface (older than ~14 days). Edit this file directly to add known upcoming earnings dates or save-the-dates. Each entry should have at minimum 'last_event_date' (ISO timestamp). The poller will preserve these unless a newer event is detected via Yahoo.",
+  "_example_format": "TICKER → object with last_event_date, last_event_title, last_event_source ('manual'), last_event_url",
+
+  "FIVE": {
+    "name": "Five Below, Inc.",
+    "last_event_date": "2026-05-20T20:01:00+00:00",
+    "last_event_title": "Five Below, Inc. Announces First Quarter Fiscal 2026 Earnings Release and Conference Call Date",
+    "last_event_source": "manual",
+    "last_event_url": "https://finance.yahoo.com/markets/stocks/articles/five-below-inc-announces-first-200100799.html",
+    "last_event_publisher": "Business Wire",
+    "manual_note": "Q1 FY2026 earnings call confirmed for Wednesday, June 3, 2026 at 4:30 PM ET. Article published May 20, aged out of Yahoo's 10-item recency window."
+  }
+}
