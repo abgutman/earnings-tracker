@@ -1,6 +1,18 @@
 {
- "generated_at": "2026-06-05T20:52:58",
+ "generated_at": "2026-06-05T22:19:49",
  "items": [
+  {
+   "uuid": "5be9cf41-b52a-3576-9ea8-c855d37bf9e5",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Starlink is SpaceX\u2019s Best Business. It Threatens Verizon, AT&T, Comcast.",
+   "publisher": "Barrons.com",
+   "link": "https://finance.yahoo.com/m/5be9cf41-b52a-3576-9ea8-c855d37bf9e5/starlink-is-spacex%E2%80%99s-best.html",
+   "published_unix": 1780691100,
+   "captured_at": "2026-06-05T22:19:02"
+  },
   {
    "uuid": "dd2e9306-dcf3-3f6b-9cb3-8cce89a4ea0b",
    "tickers": [
@@ -528,174 +540,6 @@
    "link": "https://finance.yahoo.com/economy/policy/articles/meta-lashes-australias-bid-tech-000610630.html",
    "published_unix": 1780531570,
    "captured_at": "2026-06-04T00:27:10"
-  },
-  {
-   "uuid": "d712321c-4529-3c49-8be4-5e0c181571e4",
-   "tickers": [
-    "SEIC"
-   ],
-   "company": "SEI INVESTMENTS CO",
-   "title": "Q1 Rundown: SEI Investments (NASDAQ:SEIC) Vs Other Custody Bank Stocks",
-   "publisher": "StockStory",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/q1-rundown-sei-investments-nasdaq-221533235.html",
-   "published_unix": 1780524933,
-   "captured_at": "2026-06-03T22:25:18"
-  },
-  {
-   "uuid": "4f1b59c5-468c-3ba6-85e4-8c9415adbd5b",
-   "tickers": [
-    "ESMR"
-   ],
-   "company": "E-Smart Corp.",
-   "title": "Whither \u201860 Minutes\u2019? As turmoil unspools in public, CBS News show\u2019s ultimate health is debated",
-   "publisher": "Associated Press",
-   "link": "https://finance.yahoo.com/m/4f1b59c5-468c-3ba6-85e4-8c9415adbd5b/whither-%E2%80%9860-minutes%E2%80%99%3F-as.html",
-   "published_unix": 1780524548,
-   "captured_at": "2026-06-03T22:26:00"
-  },
-  {
-   "uuid": "01fc6648-7432-391e-bf4e-25e3923f4db2",
-   "tickers": [
-    "ESMR"
-   ],
-   "company": "E-Smart Corp.",
-   "title": "Aspen Snowmass Summer 2026 to Bring New Events and Experiences, Expanded Bike Park Capacity, and New Family Offerings",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/sectors/technology/articles/aspen-snowmass-summer-2026-bring-220900166.html",
-   "published_unix": 1780524540,
-   "captured_at": "2026-06-03T22:26:00"
-  },
-  {
-   "uuid": "123153e3-0988-313b-a9f6-4d35b69b522c",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "FIVE BELOW, INC",
-   "title": "After-Hours Stocks to Watch: CrowdStrike, Broadcom, Five Below",
-   "publisher": "The Wall Street Journal",
-   "link": "https://finance.yahoo.com/m/123153e3-0988-313b-a9f6-4d35b69b522c/after-hours-stocks-to-watch%3A.html",
-   "published_unix": 1780524531,
-   "captured_at": "2026-06-04T00:26:33"
-  },
-  {
-   "uuid": "daec977e-5a93-356f-a2e4-bb9e9fada59c",
-   "tickers": [
-    "ESMR"
-   ],
-   "company": "E-Smart Corp.",
-   "title": "Broadcom's AI Revenue Just Soared 143%. So Why Is the Stock Falling?",
-   "publisher": "Motley Fool",
-   "link": "https://finance.yahoo.com/m/daec977e-5a93-356f-a2e4-bb9e9fada59c/broadcom%27s-ai-revenue-just.html",
-   "published_unix": 1780524450,
-   "captured_at": "2026-06-03T22:26:00"
-  },
-  {
-   "uuid": "00bc6123-8963-3a03-9951-7b1ae0735255",
-   "tickers": [
-    "ESMR"
-   ],
-   "company": "E-Smart Corp.",
-   "title": "Crescita Therapeutics Inc. Announces Closing of Arrangement",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/crescita-therapeutics-inc-announces-closing-220700896.html",
-   "published_unix": 1780524420,
-   "captured_at": "2026-06-03T22:26:00"
-  },
-  {
-   "uuid": "2cc520b9-473c-3fff-bd77-0809a401786a",
-   "tickers": [
-    "ESMR"
-   ],
-   "company": "E-Smart Corp.",
-   "title": "Disney's next growth story isn't parks or movies",
-   "publisher": "TheStreet",
-   "link": "https://finance.yahoo.com/m/2cc520b9-473c-3fff-bd77-0809a401786a/disney%27s-next-growth-story.html",
-   "published_unix": 1780524420,
-   "captured_at": "2026-06-03T22:26:00"
-  },
-  {
-   "uuid": "d7f82700-a9ea-3a18-8086-fcf4be569ea7",
-   "tickers": [
-    "ESMR"
-   ],
-   "company": "E-Smart Corp.",
-   "title": "Dow Jones Futures: Broadcom, CrowdStrike Dive On Earnings; SpaceX IPO Price Target Set",
-   "publisher": "Investor's Business Daily",
-   "link": "https://finance.yahoo.com/m/d7f82700-a9ea-3a18-8086-fcf4be569ea7/dow-jones-futures%3A-broadcom%2C.html",
-   "published_unix": 1780524410,
-   "captured_at": "2026-06-03T22:26:00"
-  },
-  {
-   "uuid": "5940c90e-8fa3-3609-a5a3-7c4f436969d8",
-   "tickers": [
-    "ESMR"
-   ],
-   "company": "E-Smart Corp.",
-   "title": "ERI\u2019s John Shegerian Shares Circular Economy and Critical Minerals Insights at VerdeXchange 26 Conference",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/sectors/energy/articles/eri-john-shegerian-shares-circular-220600072.html",
-   "published_unix": 1780524360,
-   "captured_at": "2026-06-03T22:26:00"
-  },
-  {
-   "uuid": "3511af10-07d1-35cf-adc1-2435724714ce",
-   "tickers": [
-    "ESMR"
-   ],
-   "company": "E-Smart Corp.",
-   "title": "C3.ai Q4 Earnings Call Highlights",
-   "publisher": "MarketBeat",
-   "link": "https://finance.yahoo.com/m/3511af10-07d1-35cf-adc1-2435724714ce/c3.ai-q4-earnings-call.html",
-   "published_unix": 1780524279,
-   "captured_at": "2026-06-03T22:26:00"
-  },
-  {
-   "uuid": "8ae8a8d6-a7a5-3716-b607-8fa43bd6a94f",
-   "tickers": [
-    "ESMR"
-   ],
-   "company": "E-Smart Corp.",
-   "title": "Tilly's Q1 Earnings Call Highlights",
-   "publisher": "MarketBeat",
-   "link": "https://finance.yahoo.com/m/8ae8a8d6-a7a5-3716-b607-8fa43bd6a94f/tilly%27s-q1-earnings-call.html",
-   "published_unix": 1780524279,
-   "captured_at": "2026-06-03T22:26:00"
-  },
-  {
-   "uuid": "90ad06eb-e1b6-3aa7-85db-0bb45889425a",
-   "tickers": [
-    "ESMR"
-   ],
-   "company": "E-Smart Corp.",
-   "title": "Petco Health and Wellness Q1 Earnings Call Highlights",
-   "publisher": "MarketBeat",
-   "link": "https://finance.yahoo.com/m/90ad06eb-e1b6-3aa7-85db-0bb45889425a/petco-health-and-wellness-q1.html",
-   "published_unix": 1780524279,
-   "captured_at": "2026-06-03T22:26:00"
-  },
-  {
-   "uuid": "903ace6a-b192-3716-8cc3-0ee6e7618178",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "FIVE BELOW, INC",
-   "title": "Five Below Q1 Earnings Call Highlights",
-   "publisher": "MarketBeat",
-   "link": "https://finance.yahoo.com/m/903ace6a-b192-3716-8cc3-0ee6e7618178/five-below-q1-earnings-call.html",
-   "published_unix": 1780524278,
-   "captured_at": "2026-06-03T22:25:11"
-  },
-  {
-   "uuid": "9346e55c-acf2-34b3-a7fa-0b6aa3438186",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "FIVE BELOW, INC",
-   "title": "Five Below (FIVE) Q1 Earnings and Revenues Surpass Estimates",
-   "publisher": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-five-q1-earnings-211002302.html",
-   "published_unix": 1780521002,
-   "captured_at": "2026-06-04T00:26:33"
   }
  ]
 }
