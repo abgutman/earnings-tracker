@@ -1,6 +1,18 @@
 {
- "generated_at": "2026-06-04T23:13:32",
+ "generated_at": "2026-06-05T02:13:22",
  "items": [
+  {
+   "uuid": "f102cf31-9872-3ec2-be77-a5d19877b495",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Gilead, Merck, Eli Lilly Lead $106B Biopharma Takeover Wave In 2026",
+   "publisher": "Stocktwits",
+   "link": "https://finance.yahoo.com/m/f102cf31-9872-3ec2-be77-a5d19877b495/gilead%2C-merck%2C-eli-lilly-lead.html",
+   "published_unix": 1780618091,
+   "captured_at": "2026-06-05T02:13:21"
+  },
   {
    "uuid": "ff9e41a2-4428-3e73-8930-0f195664449b",
    "tickers": [
@@ -1718,42 +1730,6 @@
    "link": "https://finance.yahoo.com/sectors/healthcare/articles/johnson-johnson-presents-data-further-040300825.html",
    "published_unix": 1780459380,
    "captured_at": "2026-06-03T04:59:08"
-  },
-  {
-   "uuid": "a1e7c1dc-e603-3419-b02e-8ca3a7636912",
-   "tickers": [
-    "VSH"
-   ],
-   "company": "VISHAY INTERTECHNOLOGY INC",
-   "title": "Himax, FormFactor, and Vishay Intertechnology Shares Skyrocket, What You Need To Know",
-   "publisher": "StockStory",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/himax-formfactor-vishay-intertechnology-shares-000523196.html",
-   "published_unix": 1780445123,
-   "captured_at": "2026-06-03T04:58:31"
-  },
-  {
-   "uuid": "ebe21577-7acb-3483-b478-919eb6a4ccf7",
-   "tickers": [
-    "ESMR"
-   ],
-   "company": "E-Smart Corp.",
-   "title": "Bayer says no plans to restructure despite litigation threat",
-   "publisher": "Reuters",
-   "link": "https://finance.yahoo.com/news/bayer-says-no-plans-restructure-231110038.html",
-   "published_unix": 1780442485,
-   "captured_at": "2026-06-02T23:29:59"
-  },
-  {
-   "uuid": "aa08c35b-4d49-3b36-9df8-fbe12373c136",
-   "tickers": [
-    "ESMR"
-   ],
-   "company": "E-Smart Corp.",
-   "title": "Dow Jones Futures: These Sectors Lead Market, Google Tests Support; Palo Alto Reverses Lower On Earnings",
-   "publisher": "Investor's Business Daily",
-   "link": "https://finance.yahoo.com/m/aa08c35b-4d49-3b36-9df8-fbe12373c136/dow-jones-futures%3A-these.html",
-   "published_unix": 1780442026,
-   "captured_at": "2026-06-02T23:29:59"
   }
  ]
 }
