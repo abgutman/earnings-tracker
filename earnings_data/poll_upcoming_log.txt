@@ -19,3 +19,7 @@
 [2026-06-04 23:05:34]   cleanup: removed 1 past entries
 [2026-06-04 23:05:34] === Done. Captured 0 new save-the-dates, cleaned 1 past. ===
 
+[2026-06-05 23:01:38] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-06-05 23:01:38] Polling Yahoo for 106 companies
+[2026-06-05 23:02:33] === Done. Captured 0 new save-the-dates, cleaned 0 past. ===
+
