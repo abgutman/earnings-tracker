@@ -1,6 +1,18 @@
 {
- "generated_at": "2026-06-05T16:32:42",
+ "generated_at": "2026-06-05T19:00:23",
  "items": [
+  {
+   "uuid": "a50b338a-f887-325b-87c1-2bcc87c77dce",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "Tennessee American Water Proudly Recognizes American Water Charitable Foundation 2026 Water and Environment Grantees",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/sectors/energy/articles/tennessee-american-water-proudly-recognizes-164400130.html",
+   "published_unix": 1780677840,
+   "captured_at": "2026-06-05T18:59:44"
+  },
   {
    "uuid": "02ddc61b-f980-3185-8bfb-d8e7f4b88238",
    "tickers": [
@@ -948,91 +960,6 @@
    "link": "https://finance.yahoo.com/m/c020a27c-c411-3587-8791-511e6c59b3ce/medtronic-stock-jumps-on.html",
    "published_unix": 1780515054,
    "captured_at": "2026-06-03T19:44:03"
-  },
-  {
-   "uuid": "b8fe20f3-12c3-31ff-a640-e84bf46885b9",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers Announces Haven at Palm Valley Now Selling in Ponte Vedra, Florida",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-announces-haven-palm-184800775.html",
-   "published_unix": 1780512480,
-   "captured_at": "2026-06-03T19:43:18"
-  },
-  {
-   "uuid": "a748e7da-f678-3f6d-93c5-31810e9c384d",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "FIVE BELOW, INC",
-   "title": "Equities Fall Intraday, Oil Jumps Amid Renewed Middle East Tensions",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/equities-fall-intraday-oil-jumps-180746782.html",
-   "published_unix": 1780510066,
-   "captured_at": "2026-06-03T19:43:13"
-  },
-  {
-   "uuid": "d2612ba2-4cf5-322b-8fba-1b0eec62578a",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Here is Why Erasca (ERAS) is One of the Best Growth Stocks Under $20",
-   "publisher": "Insider Monkey",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-erasca-eras-one-best-175922175.html",
-   "published_unix": 1780509562,
-   "captured_at": "2026-06-03T19:44:03"
-  },
-  {
-   "uuid": "fbf1a923-cab7-388a-9ff3-4f29482aae39",
-   "tickers": [
-    "WST",
-    "GMED"
-   ],
-   "company": "WEST PHARMACEUTICAL SERVICES INC",
-   "title": "Here's Why You Should Add PacBio Stock to Your Portfolio Now",
-   "publisher": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-add-pacbio-stock-174300470.html",
-   "published_unix": 1780508580,
-   "captured_at": "2026-06-03T19:43:24"
-  },
-  {
-   "uuid": "d54b7ba1-53c9-3537-ae82-17ec5c8ffd4f",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Extreme Networks And 2 Other Stocks That Could Be Trading Below Their Estimated Value",
-   "publisher": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/extreme-networks-2-other-stocks-173802234.html",
-   "published_unix": 1780508282,
-   "captured_at": "2026-06-03T19:44:03"
-  },
-  {
-   "uuid": "851ee50f-3b93-3b81-918d-812c5e9434c5",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "How Recent Pipeline Bets Are Rewriting the Story for Merck (MRK)",
-   "publisher": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/recent-pipeline-bets-rewriting-story-171030321.html",
-   "published_unix": 1780506630,
-   "captured_at": "2026-06-03T19:44:03"
-  },
-  {
-   "uuid": "41e8b0a4-6925-35ed-ae47-f26a88ad8f61",
-   "tickers": [
-    "AXTA"
-   ],
-   "company": "Axalta Coating Systems Ltd.",
-   "title": "AkzoNobel Slammed the Door on a Buyout and Got Crushed",
-   "publisher": "Moby",
-   "link": "https://finance.yahoo.com/m/41e8b0a4-6925-35ed-ae47-f26a88ad8f61/akzonobel-slammed-the-door-on.html",
-   "published_unix": 1780504905,
-   "captured_at": "2026-06-03T19:43:14"
   }
  ]
 }
