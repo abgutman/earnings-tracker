@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-06-05T22:19:49",
+ "generated_at": "2026-06-06T00:13:10",
  "items": [
   {
    "uuid": "5be9cf41-b52a-3576-9ea8-c855d37bf9e5",
@@ -479,66 +479,6 @@
    "publisher": "Motley Fool",
    "link": "https://finance.yahoo.com/m/5319cb89-ccb4-397c-91dd-d13d4b686008/has-ferrari-lost-its-mind%3F.html",
    "published_unix": 1780531994,
-   "captured_at": "2026-06-04T00:27:10"
-  },
-  {
-   "uuid": "307abd43-385e-3169-835b-a05d0742b5da",
-   "tickers": [
-    "ESMR"
-   ],
-   "company": "E-Smart Corp.",
-   "title": "Bayeux Tapestry to be moved in secret to British Museum: minister",
-   "publisher": "AFP",
-   "link": "https://finance.yahoo.com/m/307abd43-385e-3169-835b-a05d0742b5da/bayeux-tapestry-to-be-moved.html",
-   "published_unix": 1780531812,
-   "captured_at": "2026-06-04T00:27:10"
-  },
-  {
-   "uuid": "145d3eb8-db28-322e-b9f2-f6ec7f088de7",
-   "tickers": [
-    "ESMR"
-   ],
-   "company": "E-Smart Corp.",
-   "title": "Quantinuum Announces Pricing of Upsized Initial Public Offering",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/quantinuum-announces-pricing-upsized-initial-000900292.html",
-   "published_unix": 1780531740,
-   "captured_at": "2026-06-04T00:27:10"
-  },
-  {
-   "uuid": "e627d63d-cffc-30f1-bfb5-c6645903d2f2",
-   "tickers": [
-    "ESMR"
-   ],
-   "company": "E-Smart Corp.",
-   "title": "Q2 Holdings, HubSpot, and Marqeta Shares Are Falling, What You Need To Know",
-   "publisher": "StockStory",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/q2-holdings-hubspot-marqeta-shares-000733610.html",
-   "published_unix": 1780531653,
-   "captured_at": "2026-06-04T00:27:10"
-  },
-  {
-   "uuid": "0d14dc73-7a26-3961-adf1-8a4662cf8dac",
-   "tickers": [
-    "ESMR"
-   ],
-   "company": "E-Smart Corp.",
-   "title": "Andrew Peller Ltd. Announces Timing of Q4 & Full-Year Fiscal 2026  Results & Conference Call",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/andrew-peller-ltd-announces-timing-000700918.html",
-   "published_unix": 1780531620,
-   "captured_at": "2026-06-04T00:27:10"
-  },
-  {
-   "uuid": "2f789851-1870-3def-9086-60c97579eb6c",
-   "tickers": [
-    "ESMR"
-   ],
-   "company": "E-Smart Corp.",
-   "title": "Meta lashes Australia's bid to make tech giants pay for news",
-   "publisher": "AFP",
-   "link": "https://finance.yahoo.com/economy/policy/articles/meta-lashes-australias-bid-tech-000610630.html",
-   "published_unix": 1780531570,
    "captured_at": "2026-06-04T00:27:10"
   }
  ]
