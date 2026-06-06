@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-06-06T00:13:10",
+ "generated_at": "2026-06-06T02:04:25",
  "items": [
   {
    "uuid": "5be9cf41-b52a-3576-9ea8-c855d37bf9e5",
@@ -432,54 +432,6 @@
    "link": "https://finance.yahoo.com/m/63b8436c-6b6d-38fe-9b32-bd7d9a9f00ca/why-is-five-stock-cratering.html",
    "published_unix": 1780546790,
    "captured_at": "2026-06-04T13:54:46"
-  },
-  {
-   "uuid": "a7b3d353-b521-354c-b13e-a417c1c900dc",
-   "tickers": [
-    "ESMR"
-   ],
-   "company": "E-Smart Corp.",
-   "title": "Why Is Halozyme Therapeutics (HALO) Stock Rocketing Higher Today",
-   "publisher": "StockStory",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/why-halozyme-therapeutics-halo-stock-001533252.html",
-   "published_unix": 1780532133,
-   "captured_at": "2026-06-04T00:27:10"
-  },
-  {
-   "uuid": "89d110a3-cc5a-3e72-83aa-86d2f84a9cda",
-   "tickers": [
-    "ESMR"
-   ],
-   "company": "E-Smart Corp.",
-   "title": "Physical bitcoin worth $1.78M gets cracked open after 12 years",
-   "publisher": "TheStreet",
-   "link": "https://finance.yahoo.com/m/89d110a3-cc5a-3e72-83aa-86d2f84a9cda/physical-bitcoin-worth-%241.78m.html",
-   "published_unix": 1780532100,
-   "captured_at": "2026-06-04T00:27:10"
-  },
-  {
-   "uuid": "afce77c9-1673-35e1-8d20-f690ab21b931",
-   "tickers": [
-    "ESMR"
-   ],
-   "company": "E-Smart Corp.",
-   "title": "B.C.-based mining company sanctioned for filing misleading technical report",
-   "publisher": "CNW Group",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/b-c-based-mining-company-001500116.html",
-   "published_unix": 1780532100,
-   "captured_at": "2026-06-04T00:27:10"
-  },
-  {
-   "uuid": "5319cb89-ccb4-397c-91dd-d13d4b686008",
-   "tickers": [
-    "ESMR"
-   ],
-   "company": "E-Smart Corp.",
-   "title": "Has Ferrari Lost Its Mind?",
-   "publisher": "Motley Fool",
-   "link": "https://finance.yahoo.com/m/5319cb89-ccb4-397c-91dd-d13d4b686008/has-ferrari-lost-its-mind%3F.html",
-   "published_unix": 1780531994,
-   "captured_at": "2026-06-04T00:27:10"
   }
  ]
 }
