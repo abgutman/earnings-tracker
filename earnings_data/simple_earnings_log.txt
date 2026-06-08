@@ -36,3 +36,5 @@
 [2026-06-08 15:49:58] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
 [2026-06-08 16:10:18] === EDGAR POLL: refetching submissions for new 8-K item 2.02 filings (live=True) ===
 [2026-06-08 16:10:46] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
+[2026-06-08 16:46:59] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-06-08 16:47:27] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
