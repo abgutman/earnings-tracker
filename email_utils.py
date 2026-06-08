@@ -8,7 +8,7 @@ from datetime import datetime, timezone, timedelta
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-EMAIL_TO = ["agutman@inquirer.com"]  # TESTING MODE — restore full list when done
+EMAIL_TO = ["agutman@inquirer.com", "EPalan@inquirer.com", "eravitch@inquirer.com"]
 GMAIL_USER = os.environ.get("GMAIL_USER", "")
 GMAIL_APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD", "")
 
