@@ -32,3 +32,5 @@
 [2026-06-08 14:55:43]     https://www.sec.gov/Archives/edgar/data/16732/000001673226000010/cpb-20260608.htm
 [2026-06-08 14:55:44]     ✉ alert sent
 [2026-06-08 14:56:10] === EDGAR POLL complete. Fetched 100 companies, 1 new filings. ===
+[2026-06-08 15:49:31] === EDGAR POLL: refetching submissions for new 8-K item 2.02 filings (live=True) ===
+[2026-06-08 15:49:58] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
