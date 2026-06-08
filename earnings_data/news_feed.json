@@ -1,6 +1,66 @@
 {
- "generated_at": "2026-06-08T20:30:08+00:00",
+ "generated_at": "2026-06-08T22:43:07+00:00",
  "items": [
+  {
+   "uuid": "ce4d3d5c-b43e-3ac0-8c6c-03e76174ee21",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Gilead, Merck HIV Combination Meets Primary Endpoint in Two Phase 3 Trials",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/gilead-merck-hiv-combination-meets-214401455.html",
+   "published_unix": 1780955041,
+   "captured_at": "2026-06-08T22:43:06"
+  },
+  {
+   "uuid": "c4431083-ea46-3f79-a0ef-f43dba161c13",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Merck, Gilead Discontinue Phase 3 Trial of Trodelvy, Keytruda to Treat Lung Cancer",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/merck-gilead-discontinue-phase-3-204842957.html",
+   "published_unix": 1780951722,
+   "captured_at": "2026-06-08T22:43:06"
+  },
+  {
+   "uuid": "ef91dad7-d1e8-30ce-990a-9e695d237ee2",
+   "tickers": [
+    "FSK"
+   ],
+   "company": "FS KKR Capital Corp",
+   "title": "FS KKR Capital Closes $900 Million Notes Offering",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fs-kkr-capital-closes-900-204248359.html",
+   "published_unix": 1780951368,
+   "captured_at": "2026-06-08T22:42:31"
+  },
+  {
+   "uuid": "cafedf63-28ba-389e-897d-7219302a09e4",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Gilead and Merck Announce Positive Topline Results From Two Phase 3 Studies Evaluating Islatravir/Lenacapavir, an Oral Once-Weekly HIV Treatment",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/gilead-merck-announce-positive-topline-203500265.html",
+   "published_unix": 1780950900,
+   "captured_at": "2026-06-08T22:43:06"
+  },
+  {
+   "uuid": "7643735e-a3a6-3808-a139-8ef67bb68bb1",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Merck and Gilead Provide Update on Phase 3 KEYNOTE-D46/EVOKE-03 Study",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/merck-gilead-phase-3-keynote-203000594.html",
+   "published_unix": 1780950600,
+   "captured_at": "2026-06-08T22:43:06"
+  },
   {
    "uuid": "694cd1ea-c8fe-3a3f-86ed-90c483f88c42",
    "tickers": [
@@ -24,6 +84,18 @@
    "link": "https://finance.yahoo.com/sectors/healthcare/articles/mineralys-therapeutics-participate-goldman-sachs-200500203.html",
    "published_unix": 1780949100,
    "captured_at": "2026-06-08T20:29:42"
+  },
+  {
+   "uuid": "a91c3148-1602-3383-9aa4-68096220f9f3",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "CAMPBELL'S Co",
+   "title": "Analyst Report: The Campbell's Company",
+   "publisher": "Morningstar Research",
+   "link": "https://finance.yahoo.com/m/a91c3148-1602-3383-9aa4-68096220f9f3/analyst-report%3A-the.html",
+   "published_unix": 1780946052,
+   "captured_at": "2026-06-08T22:42:22"
   },
   {
    "uuid": "5a720df2-7c03-3392-8844-f63d4c370df4",
