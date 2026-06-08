@@ -1,437 +1,137 @@
 {
- "generated_at": "2026-06-06T02:04:25",
+ "generated_at": "2026-06-08T14:51:48",
  "items": [
   {
-   "uuid": "5be9cf41-b52a-3576-9ea8-c855d37bf9e5",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Starlink is SpaceX\u2019s Best Business. It Threatens Verizon, AT&T, Comcast.",
-   "publisher": "Barrons.com",
-   "link": "https://finance.yahoo.com/m/5be9cf41-b52a-3576-9ea8-c855d37bf9e5/starlink-is-spacex%E2%80%99s-best.html",
-   "published_unix": 1780691100,
-   "captured_at": "2026-06-05T22:19:02"
-  },
-  {
-   "uuid": "dd2e9306-dcf3-3f6b-9cb3-8cce89a4ea0b",
-   "tickers": [
-    "PPL"
-   ],
-   "company": "PPL Corp",
-   "title": "PPL Electric Utilities confirms continued support for rate case settlement following PUC approval",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/sectors/energy/articles/ppl-electric-utilities-confirms-continued-201400666.html",
-   "published_unix": 1780690440,
-   "captured_at": "2026-06-05T20:52:56"
-  },
-  {
-   "uuid": "a50b338a-f887-325b-87c1-2bcc87c77dce",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "Tennessee American Water Proudly Recognizes American Water Charitable Foundation 2026 Water and Environment Grantees",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/sectors/energy/articles/tennessee-american-water-proudly-recognizes-164400130.html",
-   "published_unix": 1780677840,
-   "captured_at": "2026-06-05T18:59:44"
-  },
-  {
-   "uuid": "02ddc61b-f980-3185-8bfb-d8e7f4b88238",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "CAMPBELL'S Co",
-   "title": "Barclays Adjusts Campbell's Price Target to $19 From $21, Maintains Underweight Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-adjusts-campbell-apos-price-162106946.html",
-   "published_unix": 1780676466,
-   "captured_at": "2026-06-05T16:32:03"
-  },
-  {
-   "uuid": "0c7b6c53-d337-322c-80d7-2ebbf1705c1e",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "CAMPBELL'S Co",
-   "title": "Campbell's, General Mills, Conagra Price Targets Cut by Morgan Stanley Due to Inflation, Iran Conflict",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/campbell-apos-general-mills-conagra-122131394.html",
-   "published_unix": 1780662091,
-   "captured_at": "2026-06-05T13:54:28"
-  },
-  {
-   "uuid": "f7119df3-b27c-3692-8be2-36c8ac6d4d95",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "CAMPBELL'S Co",
-   "title": "Morgan Stanley Adjusts Campbell's Price Target to $21 From $23, Maintains Equal Weight Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-campbell-apos-115119480.html",
-   "published_unix": 1780660279,
-   "captured_at": "2026-06-05T13:54:28"
-  },
-  {
-   "uuid": "bf5008be-7e6e-3e08-9f0c-d44a9587baa2",
-   "tickers": [
-    "PPL"
-   ],
-   "company": "PPL Corp",
-   "title": "BMO Capital Adjusts Price Target on PPL to $39 From $40, Maintains Outperform Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bmo-capital-adjusts-price-target-114514706.html",
-   "published_unix": 1780659914,
-   "captured_at": "2026-06-05T13:55:08"
-  },
-  {
-   "uuid": "3f26cfcf-c14a-30b0-bcc2-53013cdd2f10",
-   "tickers": [
-    "PPL"
-   ],
-   "company": "PPL Corp",
-   "title": "Mizuho Adjusts Price Target on PPL to $37 From $38, Maintains Neutral Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/mizuho-adjusts-price-target-ppl-113740887.html",
-   "published_unix": 1780659460,
-   "captured_at": "2026-06-05T13:55:08"
-  },
-  {
-   "uuid": "562a1140-7126-327d-94f3-9e5eae9e25f9",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Rosenblatt Cuts Price Target on Comcast to $24 From $30, Maintains Neutral Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rosenblatt-cuts-price-target-comcast-113533682.html",
-   "published_unix": 1780659333,
-   "captured_at": "2026-06-05T13:54:18"
-  },
-  {
-   "uuid": "7feb90d8-22e5-3cc4-be01-7ebe1a7fea72",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "FIVE BELOW, INC",
-   "title": "Deutsche Bank Adjusts Five Below Price Target to $318 From $298, Maintains Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-adjusts-five-below-110748738.html",
-   "published_unix": 1780657668,
-   "captured_at": "2026-06-05T13:54:20"
-  },
-  {
-   "uuid": "bf4798ec-fd03-32bd-8a3a-0e08f39416da",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "AT&T, CMCSA, CMG Hit 52-Week Lows: What Dragged These Stocks Lower?",
-   "publisher": "Stocktwits",
-   "link": "https://finance.yahoo.com/m/bf4798ec-fd03-32bd-8a3a-0e08f39416da/at%26t%2C-cmcsa%2C-cmg-hit-52-week.html",
-   "published_unix": 1780636280,
-   "captured_at": "2026-06-05T13:54:18"
-  },
-  {
-   "uuid": "142340cb-97b1-394d-8a8b-dc2c3ce8b79f",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "ASCO26: Solid tumour data readouts outline Merck & Co\u2019s oncology prowess",
-   "publisher": "Pharmaceutical Technology",
-   "link": "https://finance.yahoo.com/m/142340cb-97b1-394d-8a8b-dc2c3ce8b79f/asco26%3A-solid-tumour-data.html",
-   "published_unix": 1780631184,
-   "captured_at": "2026-06-05T13:55:10"
-  },
-  {
-   "uuid": "f102cf31-9872-3ec2-be77-a5d19877b495",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Gilead, Merck, Eli Lilly Lead $106B Biopharma Takeover Wave In 2026",
-   "publisher": "Stocktwits",
-   "link": "https://finance.yahoo.com/m/f102cf31-9872-3ec2-be77-a5d19877b495/gilead%2C-merck%2C-eli-lilly-lead.html",
-   "published_unix": 1780618091,
-   "captured_at": "2026-06-05T02:13:21"
-  },
-  {
-   "uuid": "ff9e41a2-4428-3e73-8930-0f195664449b",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "Maryland American Water Encourages Customers to Practice Wise Water Use as Hotter, Drier Summer Conditions Raise Drought Concerns Across Maryland",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/sectors/energy/articles/maryland-american-water-encourages-customers-192400288.html",
-   "published_unix": 1780601040,
-   "captured_at": "2026-06-04T21:45:30"
-  },
-  {
-   "uuid": "8577a778-5585-36e7-a774-a0824e1f0677",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "FIVE BELOW, INC",
-   "title": "Update: Five Below Fiscal Q1 Adjusted Earnings, Revenue Rise; Shares Fall",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-fiscal-q1-adjusted-183452956.html",
-   "published_unix": 1780598092,
-   "captured_at": "2026-06-04T19:25:20"
-  },
-  {
-   "uuid": "f462bd16-b40a-38ef-a94a-9c91e355e303",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "Virginia American Water Encourages Customers to Practice Wise Water Use as Hotter, Drier Summer Conditions Raise Drought Concerns Across Virginia",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/sectors/energy/articles/virginia-american-water-encourages-customers-181600259.html",
-   "published_unix": 1780596960,
-   "captured_at": "2026-06-04T19:25:29"
-  },
-  {
-   "uuid": "d7f4c917-2a87-3697-8bcf-34275814cc80",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "American Water Participates in EEI 2026 Keynote on Power, Water and Resilient Infrastructure",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/sectors/energy/articles/american-water-participates-eei-2026-180100915.html",
-   "published_unix": 1780596060,
-   "captured_at": "2026-06-04T19:25:29"
-  },
-  {
-   "uuid": "31b441a0-a0a8-3b1b-b364-88bbfcc9fd23",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Market Chatter: Merck to Pay Over $50 Million to Settle More Than 200 Gardasil Cases",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/market-chatter-merck-pay-over-170740775.html",
-   "published_unix": 1780592860,
-   "captured_at": "2026-06-04T19:26:10"
-  },
-  {
-   "uuid": "2391b926-7f4f-3891-abd0-553299859bd5",
+   "uuid": "d70966fb-aaa6-3ae4-a6d8-eee72b118a84",
    "tickers": [
     "JNJ"
    ],
    "company": "JOHNSON & JOHNSON",
-   "title": "Goldman Sachs, Johnson & Johnson, MetLife Named Among Newsweek\u2019s World\u2019s Greenest Companies 2026",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/sectors/technology/articles/goldman-sachs-johnson-johnson-metlife-160000508.html",
-   "published_unix": 1780588800,
-   "captured_at": "2026-06-04T19:26:10"
+   "title": "Johnson & Johnson acquires Firefly Bio for $1 billion",
+   "publisher": "Quartz",
+   "link": "https://finance.yahoo.com/m/d70966fb-aaa6-3ae4-a6d8-eee72b118a84/johnson-%26-johnson-acquires.html",
+   "published_unix": 1780925594,
+   "captured_at": "2026-06-08T14:51:47"
   },
   {
-   "uuid": "4b63f764-f92f-32d4-890a-64b1aad2dd14",
+   "uuid": "18c1c923-8c5e-34be-b1c5-e88cd7ff9c26",
    "tickers": [
     "CPB"
    ],
    "company": "CAMPBELL'S Co",
-   "title": "Campbell's Unlikely to See Immediate Relief From Demand Pressures, RBC Capital Markets Says",
+   "title": "Campbell's Maintains Fiscal 2026 Outlook Following Mixed Third-Quarter Results",
    "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/campbell-apos-unlikely-see-immediate-153700023.html",
-   "published_unix": 1780587420,
-   "captured_at": "2026-06-04T19:25:29"
+   "link": "https://finance.yahoo.com/markets/stocks/articles/campbell-apos-maintains-fiscal-2026-131502524.html",
+   "published_unix": 1780924502,
+   "captured_at": "2026-06-08T14:51:09"
   },
   {
-   "uuid": "2529b7dd-74c5-326d-b3a5-cb57ab6d4885",
+   "uuid": "b86b05ea-862e-3a99-a38f-d360f693e620",
    "tickers": [
-    "PPL"
+    "JNJ"
    ],
-   "company": "PPL Corp",
-   "title": "Pennsylvania Public Utility Commission approves new distribution rates for PPL Electric Utilities prioritizing reliability, customer protections and long-term affordability",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/economy/policy/articles/pennsylvania-public-utility-commission-approves-152500862.html",
-   "published_unix": 1780586700,
-   "captured_at": "2026-06-04T19:26:09"
+   "company": "JOHNSON & JOHNSON",
+   "title": "Johnson & Johnson to Buy Firefly Bio for $1 Billion",
+   "publisher": "The Wall Street Journal",
+   "link": "https://finance.yahoo.com/m/b86b05ea-862e-3a99-a38f-d360f693e620/johnson-%26-johnson-to-buy.html",
+   "published_unix": 1780923660,
+   "captured_at": "2026-06-08T14:51:47"
   },
   {
-   "uuid": "f9442b87-f094-3191-bf97-304bf5b2f4c6",
+   "uuid": "68a9e2d0-c794-37a4-94c3-92d57f15132e",
    "tickers": [
-    "VSH"
+    "JNJ"
    ],
-   "company": "VISHAY INTERTECHNOLOGY INC",
-   "title": "Mouser Receives Top Distribution Awards from Vishay Intertechnology for Fifth Consecutive Year",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/sectors/technology/articles/mouser-receives-top-distribution-awards-151000954.html",
-   "published_unix": 1780585800,
-   "captured_at": "2026-06-04T19:25:24"
+   "company": "JOHNSON & JOHNSON",
+   "title": "Johnson & Johnson to Acquire Firefly Bio for $1 Billion to Expand Cancer Drug Pipeline",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/johnson-johnson-acquire-firefly-bio-124347575.html",
+   "published_unix": 1780922627,
+   "captured_at": "2026-06-08T14:51:47"
   },
   {
-   "uuid": "a49d2fda-1b87-381a-abed-e1f7f9104416",
+   "uuid": "0d826fd7-8ef7-366a-bb1d-ef769238d4d4",
    "tickers": [
-    "AWK"
+    "CPB"
    ],
-   "company": "American Water Works Company, Inc.",
-   "title": "Iowa American Water Announces Jacqueline Kleppe as Manager of External Communications",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/iowa-american-water-announces-jacqueline-140700223.html",
-   "published_unix": 1780582020,
-   "captured_at": "2026-06-04T19:25:29"
-  },
-  {
-   "uuid": "37d75fe8-6426-3fa2-a1b1-fc64a1a31e56",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "FIVE BELOW, INC",
-   "title": "Five Below Q1 2026 earnings beat, stock falls on consumer warning",
+   "company": "CAMPBELL'S Co",
+   "title": "Campbell's Q3 2026 earnings: sales fall 4%, guidance reaffirmed",
    "publisher": "Quartz",
-   "link": "https://finance.yahoo.com/m/37d75fe8-6426-3fa2-a1b1-fc64a1a31e56/five-below-q1-2026-earnings.html",
-   "published_unix": 1780581430,
-   "captured_at": "2026-06-04T19:25:20"
+   "link": "https://finance.yahoo.com/m/0d826fd7-8ef7-366a-bb1d-ef769238d4d4/campbell%27s-q3-2026-earnings%3A.html",
+   "published_unix": 1780921872,
+   "captured_at": "2026-06-08T14:51:09"
   },
   {
-   "uuid": "39c47a1c-14b1-3427-922c-6ec3d2887079",
+   "uuid": "2e3e9be6-67b2-3262-b568-cbde5b5aa0aa",
    "tickers": [
-    "NVRI"
+    "COHN"
    ],
-   "company": "ENVIRI Corp",
-   "title": "Enviri Chief Executive Acquires 51,519 Shares Worth $1 Million",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/enviri-chief-executive-acquires-51-135319096.html",
-   "published_unix": 1780581199,
-   "captured_at": "2026-06-04T13:55:04"
-  },
-  {
-   "uuid": "9bc5173c-8ba2-333e-b00a-022ea0acc8b0",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "FIVE BELOW, INC",
-   "title": "Five Below shares fall as tariff assumptions draw focus from earnings beat",
-   "publisher": "Proactive",
-   "link": "https://finance.yahoo.com/m/9bc5173c-8ba2-333e-b00a-022ea0acc8b0/five-below-shares-fall-as.html",
-   "published_unix": 1780580280,
-   "captured_at": "2026-06-04T19:25:20"
-  },
-  {
-   "uuid": "df606117-ad2a-3904-a0af-fb47fd98fd58",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "FIVE BELOW, INC",
-   "title": "Five Below's Beat-And-Raise Quarter May End Its Growth Trajectory",
-   "publisher": "Investor's Business Daily",
-   "link": "https://finance.yahoo.com/m/df606117-ad2a-3904-a0af-fb47fd98fd58/five-below%27s-beat-and-raise.html",
-   "published_unix": 1780580134,
-   "captured_at": "2026-06-04T13:54:46"
-  },
-  {
-   "uuid": "5504f53d-09b5-371a-af94-16329f9d66d1",
-   "tickers": [
-    "NXGL"
-   ],
-   "company": "NEXGEL, INC.",
-   "title": "NEXGEL to Present at Planet MicroCap Conference Las Vegas on June 16th \u201318th",
+   "company": "Cohen & Co Inc.",
+   "title": "Cohen & Company Securities Opens Charlotte Office",
    "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/nexgel-present-planet-microcap-conference-130000385.html",
-   "published_unix": 1780578000,
-   "captured_at": "2026-06-04T13:55:23"
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cohen-company-securities-opens-charlotte-121500771.html",
+   "published_unix": 1780920900,
+   "captured_at": "2026-06-08T14:51:35"
   },
   {
-   "uuid": "bd3a6a33-cf10-3780-8bed-f97b02df9dbd",
+   "uuid": "ba52ec8f-a0f9-327c-a2aa-45ec3bf0a2d4",
    "tickers": [
-    "FIVE"
+    "EPAM"
    ],
-   "company": "FIVE BELOW, INC",
-   "title": "Morgan Stanley Trims Price Target on Five Below to $235 From $245, Keeps Equalweight Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-trims-price-target-114459237.html",
-   "published_unix": 1780573499,
-   "captured_at": "2026-06-04T13:54:46"
+   "company": "EPAM Systems, Inc.",
+   "title": "EPAM and TGS Announce Strategic Collaboration to Accelerate AI Adoption at Scale in Energy Sector",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/sectors/energy/articles/epam-tgs-announce-strategic-collaboration-120200854.html",
+   "published_unix": 1780920120,
+   "captured_at": "2026-06-08T14:51:15"
   },
   {
-   "uuid": "dca5e47c-61a3-3516-ac53-a48169d04140",
+   "uuid": "b80fae50-4a1a-3e87-ae8d-4a10fe753caf",
    "tickers": [
-    "FIVE"
+    "JNJ"
    ],
-   "company": "FIVE BELOW, INC",
-   "title": "Five Below nixes \u2018Five Beyond\u2019 store section",
-   "publisher": "Retail Dive",
-   "link": "https://finance.yahoo.com/m/dca5e47c-61a3-3516-ac53-a48169d04140/five-below-nixes-%E2%80%98five.html",
-   "published_unix": 1780571220,
-   "captured_at": "2026-06-04T19:25:20"
-  },
-  {
-   "uuid": "c115996c-cc73-362d-8eac-7b9ab53b8831",
-   "tickers": [
-    "IPSC"
-   ],
-   "company": "Century Therapeutics, Inc.",
-   "title": "Mizuho Initiates Century Therapeutics at Outperform",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/mizuho-initiates-century-therapeutics-outperform-105626269.html",
-   "published_unix": 1780570586,
-   "captured_at": "2026-06-04T13:55:11"
-  },
-  {
-   "uuid": "af77cc4f-b6f5-3365-8314-b126a0983cd9",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "FIVE BELOW, INC",
-   "title": "Five Below Shares Drop Despite Earnings Beat and Raised Outlook (FIVE)",
-   "publisher": "InvestorsHub",
-   "link": "https://finance.yahoo.com/m/af77cc4f-b6f5-3365-8314-b126a0983cd9/five-below-shares-drop.html",
-   "published_unix": 1780569321,
-   "captured_at": "2026-06-04T13:54:46"
-  },
-  {
-   "uuid": "1614ce88-8d91-3bd9-a23c-836265a02824",
-   "tickers": [
-    "RDN"
-   ],
-   "company": "RADIAN GROUP INC",
-   "title": "Radian to Host Investor Day Today",
+   "company": "JOHNSON & JOHNSON",
+   "title": "Johnson & Johnson to Acquire Firefly Bio, Inc. to Expand Oncology Pipeline with Novel Degrader Antibody Conjugate Platform",
    "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/radian-host-investor-day-today-103000886.html",
-   "published_unix": 1780569000,
-   "captured_at": "2026-06-04T13:54:48"
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/johnson-johnson-acquire-firefly-bio-120000478.html",
+   "published_unix": 1780920000,
+   "captured_at": "2026-06-08T14:51:47"
   },
   {
-   "uuid": "1dc27722-66b1-305e-95d1-c6ad022f88ef",
+   "uuid": "47fe0de3-2a33-38e5-8dd6-eeb33ae0f03d",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Merck Appoints New Heads of Discovery Solutions and Strategy & Business Development for Life Science Business Sector",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/merck-appoints-heads-discovery-solutions-120000452.html",
+   "published_unix": 1780920000,
+   "captured_at": "2026-06-08T14:51:47"
+  },
+  {
+   "uuid": "b0d357b1-dfd6-3479-a378-fe9119a054b7",
+   "tickers": [
+    "MLYS"
+   ],
+   "company": "Mineralys Therapeutics, Inc.",
+   "title": "Mineralys Therapeutics to Present Late-Breaking Data on Lorundrostat at The Endocrine Society Annual Meeting (ENDO 2026)",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/mineralys-therapeutics-present-breaking-data-110000426.html",
+   "published_unix": 1780916400,
+   "captured_at": "2026-06-08T14:51:17"
+  },
+  {
+   "uuid": "fdbe7af2-9f58-3068-af7d-95a483195b46",
    "tickers": [
     "CMCSA"
    ],
    "company": "COMCAST CORP",
-   "title": "CMCSA Stock Climbs Overnight As Universal Heads To Europe: Comcast Makes Its Biggest Theme Park Bet Yet",
-   "publisher": "Stocktwits",
-   "link": "https://finance.yahoo.com/m/1dc27722-66b1-305e-95d1-c6ad022f88ef/cmcsa-stock-climbs-overnight.html",
-   "published_unix": 1780557498,
-   "captured_at": "2026-06-04T13:54:45"
-  },
-  {
-   "uuid": "1f28b828-db5f-3bb4-9cc6-03eb9e2b2ab7",
-   "tickers": [
-    "HRMY"
-   ],
-   "company": "Harmony Biosciences Holdings, Inc.",
-   "title": "Looking Back at Stock Picks Hyatt Hotels, Sensient Technologies, Harmony Biosciences. What the Charts Say.",
-   "publisher": "Barrons.com",
-   "link": "https://finance.yahoo.com/m/1f28b828-db5f-3bb4-9cc6-03eb9e2b2ab7/looking-back-at-stock-picks.html",
-   "published_unix": 1780550040,
-   "captured_at": "2026-06-04T13:54:56"
-  },
-  {
-   "uuid": "63b8436c-6b6d-38fe-9b32-bd7d9a9f00ca",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "FIVE BELOW, INC",
-   "title": "Why Is FIVE Stock Cratering Over 10% In Overnight Trading?",
-   "publisher": "Stocktwits",
-   "link": "https://finance.yahoo.com/m/63b8436c-6b6d-38fe-9b32-bd7d9a9f00ca/why-is-five-stock-cratering.html",
-   "published_unix": 1780546790,
-   "captured_at": "2026-06-04T13:54:46"
+   "title": "Charter and Comcast rival files Chapter 11 bankruptcy",
+   "publisher": "TheStreet",
+   "link": "https://finance.yahoo.com/m/fdbe7af2-9f58-3068-af7d-95a483195b46/charter-and-comcast-rival.html",
+   "published_unix": 1780877460,
+   "captured_at": "2026-06-08T14:50:58"
   }
  ]
 }
