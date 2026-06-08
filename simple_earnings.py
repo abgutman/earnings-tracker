@@ -25,6 +25,7 @@ Usage:
   python3 simple_earnings.py init           # build baseline from EDGAR cache
   python3 simple_earnings.py poll           # poll Yahoo for new save-the-dates / press
   python3 simple_earnings.py edgar-poll     # refetch EDGAR submissions, detect new 8-K item 2.02 filings
+  python3 simple_earnings.py check-10q      # check EDGAR for 10-Q filings for any pending company
   python3 simple_earnings.py poll --live    # also send emails
 """
 import json, os, sys, subprocess, time
@@ -261,6 +262,8 @@ def edgar_poll(live=False):
         info["last_8k_accession"] = latest["accession"]
         info["last_8k_url"] = url
         info["last_8k_detected_at"] = now
+        info["pending_10q_since"] = latest["filing_date"]
+        info["last_10q_url"] = None
         # Also update the cache's "last_event" if EDGAR is now the most recent thing
         if latest["date"] > info.get("last_event_date",""):
             info["last_event_date"] = latest["date"]
@@ -288,6 +291,65 @@ def edgar_poll(live=False):
                 log(f"    ⚠ email err: {e}")
     CACHE_FILE.write_text(json.dumps(cache, indent=1))
     log(f"=== EDGAR POLL complete. Fetched {fetched} companies, {new_count} new filings. ===")
+
+# ============ 10-Q WATCH ============
+
+def find_latest_10q(sub, since_date):
+    """Walk submissions, return most recent 10-Q with filingDate >= since_date, or None."""
+    rec = sub.get("filings", {}).get("recent", {}) or {}
+    forms = rec.get("form", [])
+    dates = rec.get("filingDate", [])
+    accessions = rec.get("accessionNumber", [])
+    docs = rec.get("primaryDocument", [])
+    for i in range(len(forms)):
+        if forms[i] != "10-Q": continue
+        if dates[i] < since_date: break  # sorted newest-first
+        return {"filing_date": dates[i], "accession": accessions[i], "primary_doc": docs[i]}
+    return None
+
+def check_pending_10qs():
+    """For each company with pending_10q_since set, check EDGAR for a matching 10-Q.
+    If found, store last_10q_url and clear the pending flag. Auto-clears flags older than 7 days."""
+    log("=== CHECK-10Q: scanning for pending 10-Q filings ===")
+    if not CACHE_FILE.exists():
+        log("  ⚠ cache.json missing — run `init` first")
+        return
+    cache = json.loads(CACHE_FILE.read_text())
+    today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    checked = 0
+    found = 0
+    cleared_stale = 0
+    for ticker, info in cache.items():
+        since = info.get("pending_10q_since")
+        if not since: continue
+        # Auto-clear flags older than 7 days
+        try:
+            age = (datetime.strptime(today_str, "%Y-%m-%d") - datetime.strptime(since, "%Y-%m-%d")).days
+        except Exception:
+            age = 0
+        if age > 7:
+            log(f"  {ticker}: pending_10q_since={since} is {age}d old — clearing stale flag")
+            del info["pending_10q_since"]
+            cleared_stale += 1
+            continue
+        cik = info.get("cik")
+        if not cik: continue
+        sub = fetch_edgar_submissions(cik)
+        time.sleep(0.12)
+        checked += 1
+        if not sub: continue
+        q = find_latest_10q(sub, since)
+        if not q: continue
+        cik_no_pad = int(cik)
+        acc_no_clean = q["accession"].replace("-", "")
+        url = f"https://www.sec.gov/Archives/edgar/data/{cik_no_pad}/{acc_no_clean}/{q['primary_doc']}"
+        info["last_10q_url"] = url
+        del info["pending_10q_since"]
+        found += 1
+        log(f"  ✓ 10-Q found for {ticker} ({info.get('name','')[:40]}) filed {q['filing_date']}")
+        log(f"    {url}")
+    CACHE_FILE.write_text(json.dumps(cache, indent=1))
+    log(f"=== CHECK-10Q complete. Checked {checked}, found {found}, cleared {cleared_stale} stale. ===")
 
 # ============ YAHOO POLLING ============
 
@@ -400,6 +462,8 @@ def main():
         poll_all(live=live)
     elif cmd == "edgar-poll":
         edgar_poll(live=live)
+    elif cmd == "check-10q":
+        check_pending_10qs()
     else:
         print(__doc__)
 

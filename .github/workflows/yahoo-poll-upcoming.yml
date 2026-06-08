@@ -43,13 +43,14 @@ jobs:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
         run: |
           python poll_upcoming.py --live
+          python simple_earnings.py check-10q
           python simple_dashboard.py
 
       - name: Commit + push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add earnings_data/upcoming_dates.json earnings_data/yahoo_upcoming_state.json earnings_data/poll_upcoming_log.txt upcoming_earnings.html recent_earnings.html 2>/dev/null || true
+          git add earnings_data/upcoming_dates.json earnings_data/yahoo_upcoming_state.json earnings_data/poll_upcoming_log.txt earnings_data/cache.json earnings_data/simple_earnings_log.txt upcoming_earnings.html recent_earnings.html earnings_notes.html 2>/dev/null || true
           git diff --cached --quiet && echo "No changes" && exit 0
           git commit -m "Auto: Yahoo upcoming poll $(date -u +'%Y-%m-%d %H:%M UTC')"
           git pull --rebase origin main

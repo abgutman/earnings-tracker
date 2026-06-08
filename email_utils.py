@@ -8,7 +8,7 @@ from datetime import datetime, timezone, timedelta
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-EMAIL_TO = ["agutman@inquirer.com", "EPalan@inquirer.com", "eravitch@inquirer.com"]
+EMAIL_TO = ["agutman@inquirer.com"]  # TESTING MODE — restore full list when done
 GMAIL_USER = os.environ.get("GMAIL_USER", "")
 GMAIL_APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD", "")
 
@@ -101,7 +101,10 @@ def body_new_report_edgar(name, ticker, filing_date, url, accepted_at=None, dete
             "This alert was generated automatically by <strong>Claude (Anthropic AI)</strong>, "
             "which monitors SEC EDGAR for 8-K filings from public companies headquartered in the "
             "Philadelphia region at Av's request. An <strong>8-K item&nbsp;2.02</strong> is the formal SEC submission "
-            "of a quarterly earnings press release &mdash; typically filed within minutes of the wire release."
+            "of a quarterly earnings press release &mdash; typically filed within minutes of the wire release. "
+            "<strong>Note:</strong> This is the SEC notification that a press release was issued, not the full earnings report. "
+            "The press release is linked at the bottom of this filing (under Item&nbsp;9.01). "
+            "The formal quarterly report (10-Q) will appear on the dashboard when available &mdash; typically within a few hours to one business day."
         ),
         rows=rows,
         cta_url=url,

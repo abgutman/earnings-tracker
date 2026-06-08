@@ -87,6 +87,8 @@ def build_recent_rows():
             "edgar_url": v.get("last_8k_url",""),
             "is_new": is_new,
             "detected_at": detected_at,
+            "last_10q_url": v.get("last_10q_url"),
+            "pending_10q": bool(v.get("pending_10q_since")),
         })
     # Sort: NEW rows first, then by filing date desc
     out.sort(key=lambda x: (not x["is_new"], -datetime.strptime(x["filing_date"], "%Y-%m-%d").toordinal()))
@@ -95,10 +97,16 @@ def build_recent_rows():
 def render_recent_row(r):
     edgar_link = ""
     if r.get("edgar_url"):
-        edgar_link = f'<a href="{esc(r["edgar_url"])}" target="_blank" rel="noopener">View 8-K filing</a>'
+        edgar_link = f'<a href="{esc(r["edgar_url"])}" target="_blank" rel="noopener">8-K filing</a>'
     elif r.get("cik"):
-        edgar_link = f'<a href="{esc(edgar_filings_url(r["cik"]))}" target="_blank" rel="noopener">View 8-K filing</a>'
+        edgar_link = f'<a href="{esc(edgar_filings_url(r["cik"]))}" target="_blank" rel="noopener">8-K filing</a>'
     yahoo_link = f'<a href="{esc(yahoo_search_url(r["ticker"]))}" target="_blank" rel="noopener">Yahoo News</a>'
+    if r.get("last_10q_url"):
+        tenq_link = f' · <a href="{esc(r["last_10q_url"])}" target="_blank" rel="noopener">10-Q</a>'
+    elif r.get("pending_10q"):
+        tenq_link = ' · <span class="tenq-pending">10-Q pending</span>'
+    else:
+        tenq_link = ""
     new_badge = '<span class="badge-new">NEW</span> ' if r.get("is_new") else ""
     row_class = "row-new" if r.get("is_new") else ""
     return f"""
@@ -106,7 +114,7 @@ def render_recent_row(r):
       <td class="date">{new_badge}<b>{fmt_date(r["filing_date"])}</b><br><span class="dim">{r["days"]}d ago</span></td>
       <td class="tk">{esc(r["ticker"])}</td>
       <td class="nm">{esc(r["name"])}</td>
-      <td class="links">{edgar_link} · {yahoo_link}</td>
+      <td class="links">{edgar_link}{tenq_link} · {yahoo_link}</td>
     </tr>"""
 
 def build_recent_page():
@@ -401,6 +409,7 @@ tr.row-new td { border-bottom: 1px solid #ffd966; }
 .dormant-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 4px 14px; margin-top: 8px; }
 .dormant-item { font-size: 12px; color: #495057; padding: 3px 0; border-bottom: 1px dotted #ececef; }
 .dormant-item b { color: #2c5282; font-family: ui-monospace, monospace; }
+.tenq-pending { color: #e17055; font-size: 12px; font-style: italic; }
 </style>"""
 
 # =================== Write files ===================
