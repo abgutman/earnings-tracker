@@ -64,6 +64,11 @@ def render_card(item):
 
 posts_html = "".join(render_card(it) for it in items)
 gen = feed.get("generated_at", "")
+try:
+    gen_dt = datetime.fromisoformat(gen.replace("Z", "+00:00")).astimezone(ET)
+    gen_display = gen_dt.strftime("%-I:%M %p ET")
+except Exception:
+    gen_display = "unknown"
 n_companies = len(set(t for it in items for t in it.get("tickers",[])))
 
 html_doc = f"""<!DOCTYPE html>
@@ -120,7 +125,7 @@ body {{ font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvet
     <div class="counts">
       <span><b>{len(items)}</b> headlines</span>
       <span><b>{n_companies}</b> companies in news</span>
-      <span>Refreshed hourly · last update {esc(gen[11:16] if gen else 'unknown')}</span>
+      <span>Refreshed hourly · last update {esc(gen_display)}</span>
     </div>
   </div>
 

@@ -141,7 +141,7 @@ def main():
     kept.sort(key=lambda x: x.get("published_unix",0), reverse=True)
 
     save_feed({
-        "generated_at": datetime.now().isoformat(timespec="seconds"),
+        "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "items": kept,
     })
     log(f"=== Done. Fetched {fetched} companies, {new_count} new items, {len(kept)} total in {LOOKBACK_HOURS}h window ===")
