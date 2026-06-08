@@ -1256,7 +1256,11 @@
   "last_8k_date": "2026-03-11",
   "last_8k_accession": "0001493152-26-009622",
   "last_8k_url": "https://www.sec.gov/Archives/edgar/data/1436229/000149315226009622/form8-k.htm",
-  "history": []
+  "history": [],
+  "last_detected_date": "2026-05-15",
+  "last_detected_accession": "0001493152-26-023378",
+  "last_detected_type": "8k_701",
+  "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1436229/000149315226023378/form8-k.htm"
  },
  "QNTO": {
   "ticker": "QNTO",
@@ -1423,7 +1427,11 @@
     "title": "8-K item 2.02 filed 2026-03-18",
     "url": "https://www.sec.gov/Archives/edgar/data/2030954/000149315226011256/form8-k.htm"
    }
-  ]
+  ],
+  "last_detected_date": "2026-05-15",
+  "last_detected_accession": "0001493152-26-023745",
+  "last_detected_type": "10q",
+  "last_detected_url": "https://www.sec.gov/Archives/edgar/data/2030954/000149315226023745/form10-q.htm"
  },
  "NXGL": {
   "ticker": "NXGL",

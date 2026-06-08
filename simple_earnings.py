@@ -88,7 +88,9 @@ def title_matches_earnings(title):
 
 # ============ EMAIL ============
 
-from email_utils import send_email, subject_new_report, body_new_report_edgar, body_new_report_wire
+from email_utils import (send_email, subject_new_report, subject_new_report_701, subject_10q_filed,
+                         body_new_report_edgar, body_new_report_edgar_701, body_new_report_10q,
+                         body_new_report_wire)
 
 # ============ LOGGING ============
 
@@ -120,6 +122,41 @@ def find_latest_earnings_8k(sub):
             "items": items,
         }
     return None
+
+def find_latest_earnings_filing(sub):
+    """Find the most recent earnings-related filing across three types:
+      8k_202 — 8-K item 2.02 (standard earnings press release)
+      8k_701 — 8-K item 7.01+9.01 (Reg FD earnings disclosure, used by some smaller companies)
+      10q    — bare 10-Q (no accompanying 8-K press release)
+    Returns the most recent of all found, with a 'filing_type' key, or None."""
+    rec = sub.get("filings", {}).get("recent", {}) or {}
+    forms = rec.get("form", [])
+    items_list = rec.get("items", [])
+    dates = rec.get("filingDate", [])
+    acceptance = rec.get("acceptanceDateTime", [])
+    accessions = rec.get("accessionNumber", [])
+    docs = rec.get("primaryDocument", [])
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=180)).strftime("%Y-%m-%d")
+    best_202 = best_701 = best_10q = None
+    for i in range(len(forms)):
+        if dates[i] < cutoff: break
+        f = forms[i]
+        items = (items_list[i] if i < len(items_list) else "") or ""
+        acc_dt = acceptance[i] if i < len(acceptance) else ""
+        if f == "8-K":
+            if "2.02" in items and best_202 is None:
+                best_202 = {"filing_type": "8k_202", "date": acc_dt, "filing_date": dates[i],
+                            "accession": accessions[i], "primary_doc": docs[i], "items": items}
+            elif "7.01" in items and "9.01" in items and best_701 is None:
+                best_701 = {"filing_type": "8k_701", "date": acc_dt, "filing_date": dates[i],
+                            "accession": accessions[i], "primary_doc": docs[i], "items": items}
+        elif f == "10-Q" and best_10q is None:
+            best_10q = {"filing_type": "10q", "date": acc_dt, "filing_date": dates[i],
+                        "accession": accessions[i], "primary_doc": docs[i], "items": ""}
+        if best_202 and best_701 and best_10q: break
+    candidates = [x for x in [best_202, best_701, best_10q] if x]
+    if not candidates: return None
+    return max(candidates, key=lambda x: x["filing_date"])
 
 def edgar_baseline_for_company(c):
     cik = c.get("cik")
@@ -230,10 +267,9 @@ def fetch_edgar_submissions(cik):
         return None
 
 def edgar_poll(live=False):
-    """For each tracked company, fetch fresh EDGAR submissions. If there's a NEW
-    8-K item 2.02 (accession we hadn't seen), update the cache and record the
-    detection timestamp so the dashboard can highlight it for 24 hours."""
-    log(f"=== EDGAR POLL: refetching submissions for new 8-K item 2.02 filings (live={live}) ===")
+    """For each tracked company, fetch fresh EDGAR submissions. Detect new filings of any
+    earnings type (8-K 2.02, 8-K 7.01+9.01, or bare 10-Q). Update cache and send typed alert."""
+    log(f"=== EDGAR POLL: scanning for new earnings filings (live={live}) ===")
     if not CACHE_FILE.exists():
         log("  ⚠ cache.json missing — run `init` first")
         return
@@ -248,45 +284,61 @@ def edgar_poll(live=False):
         time.sleep(0.12)  # SEC fair-use politeness
         if not sub: continue
         fetched += 1
-        latest = find_latest_earnings_8k(sub)
+        latest = find_latest_earnings_filing(sub)
         if not latest: continue
-        # Compare against what we already have
-        prev_accession = info.get("last_8k_accession")
+        # Compare against last detected filing of any type (fall back to 8k accession for legacy entries)
+        prev_accession = info.get("last_detected_accession") or info.get("last_8k_accession")
         if latest["accession"] == prev_accession:
             continue  # nothing new
         # NEW FILING DETECTED
+        ft = latest["filing_type"]  # "8k_202", "8k_701", or "10q"
         cik_no_pad = int(cik)
         acc_no_clean = latest["accession"].replace("-", "")
         url = f"https://www.sec.gov/Archives/edgar/data/{cik_no_pad}/{acc_no_clean}/{latest['primary_doc']}"
-        info["last_8k_date"] = latest["filing_date"]
-        info["last_8k_accession"] = latest["accession"]
-        info["last_8k_url"] = url
-        info["last_8k_detected_at"] = now
-        info["pending_10q_since"] = latest["filing_date"]
-        info["last_10q_url"] = None
-        # Also update the cache's "last_event" if EDGAR is now the most recent thing
-        if latest["date"] > info.get("last_event_date",""):
+        # Canonical detected fields (any type)
+        info["last_detected_date"] = latest["filing_date"]
+        info["last_detected_accession"] = latest["accession"]
+        info["last_detected_type"] = ft
+        info["last_detected_url"] = url
+        info["last_detected_at"] = now
+        # 8-K-specific fields + 10-Q watch (only for press-release types)
+        if ft in ("8k_202", "8k_701"):
+            info["last_8k_date"] = latest["filing_date"]
+            info["last_8k_accession"] = latest["accession"]
+            info["last_8k_url"] = url
+            info["last_8k_detected_at"] = now
+            info["pending_10q_since"] = latest["filing_date"]
+            info["last_10q_url"] = None
+        # Update last_event display anchor
+        if latest["date"] > info.get("last_event_date", ""):
             info["last_event_date"] = latest["date"]
-            info["last_event_title"] = f"8-K item 2.02 filed {latest['filing_date']}"
+            info["last_event_title"] = f"{ft} filed {latest['filing_date']}"
             info["last_event_source"] = "edgar"
             info["last_event_url"] = url
-        # Update the submissions cache on disk too (for derive_windows etc.)
+        # Update submissions cache on disk
         cf = SUBMISSIONS_CACHE / f"CIK{cik_padded(cik)}.json"
         try: cf.write_text(json.dumps(sub))
         except Exception as e: log(f"  cache write err: {e}")
         new_count += 1
-        log(f"  ★ NEW 8-K item 2.02 for {ticker} ({info.get('name','')[:40]}) filed {latest['filing_date']}")
+        log(f"  ★ NEW {ft} for {ticker} ({info.get('name','')[:40]}) filed {latest['filing_date']}")
         log(f"    {url}")
         if live:
             try:
-                name = info.get('name', ticker)
-                send_email(
-                    subject_new_report(name, ticker),
-                    body_new_report_edgar(name, ticker, latest['filing_date'], url,
-                        accepted_at=latest['date'], detected_at=now),
-                    log_fn=log,
-                )
-                log(f"    ✉ alert sent")
+                name = info.get("name", ticker)
+                if ft == "8k_202":
+                    subj = subject_new_report(name, ticker)
+                    body = body_new_report_edgar(name, ticker, latest["filing_date"], url,
+                               accepted_at=latest["date"], detected_at=now)
+                elif ft == "8k_701":
+                    subj = subject_new_report_701(name, ticker)
+                    body = body_new_report_edgar_701(name, ticker, latest["filing_date"], url,
+                               accepted_at=latest["date"], detected_at=now)
+                else:  # 10q
+                    subj = subject_10q_filed(name, ticker)
+                    body = body_new_report_10q(name, ticker, latest["filing_date"], url,
+                               accepted_at=latest["date"], detected_at=now)
+                send_email(subj, body, log_fn=log)
+                log(f"    ✉ alert sent ({ft})")
             except Exception as e:
                 log(f"    ⚠ email err: {e}")
     CACHE_FILE.write_text(json.dumps(cache, indent=1))

@@ -80,7 +80,13 @@ SAVE_DATE_COLOR   = "#1a5c3a"   # dark green — calendar / upcoming feel
 BANKRUPTCY_COLOR  = "#8e1600"   # dark red/maroon
 
 def subject_new_report(name, ticker):
-    return f"\U0001f4c8 New earning report: {name}"   # 📈
+    return f"\U0001f4c8 Earnings press release (8-K 2.02): {name}"   # 📈
+
+def subject_new_report_701(name, ticker):
+    return f"\U0001f4c8 Earnings disclosure (8-K 7.01): {name}"
+
+def subject_10q_filed(name, ticker):
+    return f"\U0001f4cb 10-Q filed: {name}"   # 📋
 
 def subject_save_the_date(name, ticker):
     return f"✉️ Save the date: {name}"      # ✉️
@@ -109,6 +115,68 @@ def body_new_report_edgar(name, ticker, filing_date, url, accepted_at=None, dete
         rows=rows,
         cta_url=url,
         cta_label="View SEC Filing →",
+        dashboard_url="https://abgutman.github.io/av-tools/recent_earnings.html",
+        source_note="Source: SEC EDGAR &mdash; <a href='https://data.sec.gov' style='color:#adb5bd;'>data.sec.gov</a>",
+    )
+
+def body_new_report_edgar_701(name, ticker, filing_date, url, accepted_at=None, detected_at=None):
+    rows = []
+    if accepted_at:
+        rows.append(("Submitted to SEC", _fmt_et(accepted_at)))
+    if detected_at:
+        rows.append(("Detected by monitor", _fmt_et(detected_at)))
+    rows.append(("Filed with SEC", filing_date))
+    return _html_email(
+        header_bg=EARNINGS_COLOR,
+        tag="\U0001f4c8 Earnings Alert — 8-K 7.01",
+        title="Earnings Disclosure (8-K Item 7.01)",
+        company=f"{name} ({ticker})",
+        blurb=(
+            "This alert was generated automatically by <strong>Claude (Anthropic AI)</strong>, "
+            "which monitors SEC EDGAR for earnings filings from public companies headquartered in the "
+            "Philadelphia region at Av's request. "
+            "This company filed an <strong>8-K under Item&nbsp;7.01 (Regulation FD Disclosure)</strong> — "
+            "a form some companies use instead of the standard Item&nbsp;2.02 to accompany their quarterly "
+            "earnings press release. The financial exhibit (earnings release) is linked at the bottom of "
+            "the filing under Item&nbsp;9.01. "
+            "<strong>Note:</strong> Item&nbsp;7.01 is also used for other non-earnings disclosures — "
+            "confirm this is an earnings release before reporting. "
+            "The formal quarterly report (10-Q) will appear on the dashboard when available."
+        ),
+        rows=rows,
+        cta_url=url,
+        cta_label="View SEC Filing (8-K 7.01) →",
+        dashboard_url="https://abgutman.github.io/av-tools/recent_earnings.html",
+        source_note="Source: SEC EDGAR &mdash; <a href='https://data.sec.gov' style='color:#adb5bd;'>data.sec.gov</a>",
+    )
+
+def body_new_report_10q(name, ticker, filing_date, url, accepted_at=None, detected_at=None):
+    rows = []
+    if accepted_at:
+        rows.append(("Submitted to SEC", _fmt_et(accepted_at)))
+    if detected_at:
+        rows.append(("Detected by monitor", _fmt_et(detected_at)))
+    rows.append(("Filed with SEC", filing_date))
+    return _html_email(
+        header_bg=EARNINGS_COLOR,
+        tag="\U0001f4cb Quarterly Filing — 10-Q",
+        title="Quarterly Report Filed (10-Q)",
+        company=f"{name} ({ticker})",
+        blurb=(
+            "This alert was generated automatically by <strong>Claude (Anthropic AI)</strong>, "
+            "which monitors SEC EDGAR for earnings filings from public companies headquartered in the "
+            "Philadelphia region at Av's request. "
+            "This company filed a <strong>10-Q (formal SEC quarterly financial report)</strong> "
+            "without an accompanying earnings press release 8-K. "
+            "The 10-Q contains the full financial statements and management discussion. "
+            "Some companies &mdash; particularly smaller filers &mdash; skip the press release step "
+            "and report results directly via 10-Q. "
+            "<strong>Note:</strong> The filing date reflects when the document was submitted to the SEC, "
+            "not necessarily when results were first publicized."
+        ),
+        rows=rows,
+        cta_url=url,
+        cta_label="View 10-Q Filing →",
         dashboard_url="https://abgutman.github.io/av-tools/recent_earnings.html",
         source_note="Source: SEC EDGAR &mdash; <a href='https://data.sec.gov' style='color:#adb5bd;'>data.sec.gov</a>",
     )

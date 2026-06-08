@@ -57,49 +57,57 @@ def edgar_filings_url(cik):
 
 # =================== RECENT PAGE — last 90 days of EDGAR 8-K item 2.02 ===================
 
+FILING_TYPE_LABELS = {"8k_202": "8-K 2.02", "8k_701": "8-K 7.01", "10q": "10-Q"}
+FILING_LINK_LABELS = {"8k_202": "8-K 2.02 filing", "8k_701": "8-K 7.01 filing", "10q": "10-Q filing"}
+
 def build_recent_rows():
-    """For each company in cache, take their last_8k_date (from EDGAR submissions),
-    and include them if within the last 90 days. EDGAR-only — never Yahoo."""
+    """For each company in cache, take the most recent detected earnings filing
+    (8-K 2.02, 8-K 7.01, or 10-Q), if within the last 90 days."""
     cutoff = (today_date - timedelta(days=90)).isoformat()
     twenty_four_hours_ago = today - timedelta(hours=24)
     out = []
     for tk, v in cache.items():
-        last_8k = v.get("last_8k_date","")
-        if not last_8k or last_8k < cutoff: continue
+        filing_date = v.get("last_detected_date") or v.get("last_8k_date", "")
+        if not filing_date or filing_date < cutoff: continue
         try:
-            d = datetime.strptime(last_8k, "%Y-%m-%d").date()
+            d = datetime.strptime(filing_date, "%Y-%m-%d").date()
         except: continue
         days = (today_date - d).days
-        # NEW detection: was this filing detected by the poller in the last 24h?
+        filing_type = v.get("last_detected_type") or "8k_202"
+        edgar_url = v.get("last_detected_url") or v.get("last_8k_url", "")
+        detected_at = v.get("last_detected_at") or v.get("last_8k_detected_at", "")
         is_new = False
-        detected_at = v.get("last_8k_detected_at","")
         if detected_at:
             try:
-                det = datetime.fromisoformat(detected_at.replace("Z","+00:00"))
+                det = datetime.fromisoformat(detected_at.replace("Z", "+00:00"))
                 is_new = det >= twenty_four_hours_ago
             except: pass
         out.append({
             "ticker": tk,
-            "name": v.get("name",""),
+            "name": v.get("name", ""),
             "cik": v.get("cik"),
-            "filing_date": last_8k,
+            "filing_date": filing_date,
+            "filing_type": filing_type,
             "days": days,
-            "edgar_url": v.get("last_8k_url",""),
+            "edgar_url": edgar_url,
             "is_new": is_new,
             "detected_at": detected_at,
             "last_10q_url": v.get("last_10q_url"),
-            "pending_10q": bool(v.get("pending_10q_since")),
+            "pending_10q": bool(v.get("pending_10q_since")) and filing_type != "10q",
         })
-    # Sort: NEW rows first, then by filing date desc
     out.sort(key=lambda x: (not x["is_new"], -datetime.strptime(x["filing_date"], "%Y-%m-%d").toordinal()))
     return out
 
 def render_recent_row(r):
-    edgar_link = ""
+    ft = r.get("filing_type", "8k_202")
+    link_label = FILING_LINK_LABELS.get(ft, "Filing")
+    type_badge = f'<span class="badge-type badge-{ft}">{FILING_TYPE_LABELS.get(ft, ft)}</span> '
     if r.get("edgar_url"):
-        edgar_link = f'<a href="{esc(r["edgar_url"])}" target="_blank" rel="noopener">8-K filing</a>'
+        filing_link = f'<a href="{esc(r["edgar_url"])}" target="_blank" rel="noopener">{link_label}</a>'
     elif r.get("cik"):
-        edgar_link = f'<a href="{esc(edgar_filings_url(r["cik"]))}" target="_blank" rel="noopener">8-K filing</a>'
+        filing_link = f'<a href="{esc(edgar_filings_url(r["cik"]))}" target="_blank" rel="noopener">{link_label}</a>'
+    else:
+        filing_link = ""
     yahoo_link = f'<a href="{esc(yahoo_search_url(r["ticker"]))}" target="_blank" rel="noopener">Yahoo News</a>'
     if r.get("last_10q_url"):
         tenq_link = f' · <a href="{esc(r["last_10q_url"])}" target="_blank" rel="noopener">10-Q</a>'
@@ -114,14 +122,15 @@ def render_recent_row(r):
       <td class="date">{new_badge}<b>{fmt_date(r["filing_date"])}</b><br><span class="dim">{r["days"]}d ago</span></td>
       <td class="tk">{esc(r["ticker"])}</td>
       <td class="nm">{esc(r["name"])}</td>
-      <td class="links">{edgar_link}{tenq_link} · {yahoo_link}</td>
+      <td class="type">{type_badge}</td>
+      <td class="links">{filing_link}{tenq_link} · {yahoo_link}</td>
     </tr>"""
 
 def build_recent_page():
     rows = build_recent_rows()
     new_count = sum(1 for r in rows if r.get("is_new"))
     body_rows = "".join(render_recent_row(r) for r in rows)
-    table_html = f"<table><thead><tr><th>Filed</th><th>Ticker</th><th>Company</th><th>Links</th></tr></thead><tbody>{body_rows}</tbody></table>"
+    table_html = f"<table><thead><tr><th>Filed</th><th>Ticker</th><th>Company</th><th>Type</th><th>Links</th></tr></thead><tbody>{body_rows}</tbody></table>"
     new_stat = f'<div class="stat new-stat"><b>{new_count}</b> new in last 24h</div>' if new_count else ""
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -410,6 +419,11 @@ tr.row-new td { border-bottom: 1px solid #ffd966; }
 .dormant-item { font-size: 12px; color: #495057; padding: 3px 0; border-bottom: 1px dotted #ececef; }
 .dormant-item b { color: #2c5282; font-family: ui-monospace, monospace; }
 .tenq-pending { color: #e17055; font-size: 12px; font-style: italic; }
+.type { white-space: nowrap; }
+.badge-type { display: inline-block; padding: 2px 7px; border-radius: 3px; font-size: 10px; font-weight: 700; letter-spacing: 0.3px; }
+.badge-8k_202 { background: #e8f4fd; color: #1a5c8a; }
+.badge-8k_701 { background: #fff3cd; color: #856404; }
+.badge-10q    { background: #e8f5e9; color: #2e7d32; }
 </style>"""
 
 # =================== Write files ===================
