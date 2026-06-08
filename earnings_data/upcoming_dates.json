@@ -1,5 +1,15 @@
 {
  "_comment": "Confirmed upcoming earnings dates. Populated manually + by future auto-extraction from save-the-date press releases. Each entry: release_date (YYYY-MM-DD), optionally call_date, call_time (HH:MM ET), source_url, source_title.",
+ "JNJ": {
+  "release_date": "2026-07-15",
+  "call_date": "2026-07-15",
+  "call_time": "08:30 ET",
+  "source_url": "https://finance.yahoo.com/sectors/healthcare/articles/johnson-johnson-host-investor-conference-202200206.html",
+  "source_title": "Johnson & Johnson to Host Investor Conference Call on Second-Quarter Results",
+  "source_publisher": "Business Wire",
+  "source_type": "manual_fix",
+  "captured_at": "2026-06-08T00:00:00"
+ },
  "BDN": {
   "release_date": "2026-07-22",
   "call_date": "2026-07-23",

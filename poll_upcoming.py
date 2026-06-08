@@ -56,8 +56,11 @@ EARNINGS_KEYWORDS = {
 NEGATIVE_PHRASES = {
     "earnings preview", "earnings on the horizon", "post-earnings",
     "reports next week", "ahead of the quarter",
-    "investor conference", "non-deal roadshow", "fireside chat", "investor day",
+    "non-deal roadshow", "fireside chat", "investor day",
     "to participate in",
+    # Note: "investor conference" removed — too broad; catches "investor conference call"
+    # which is standard phrasing for earnings calls (e.g., J&J Q2 2026).
+    # Non-earnings conference appearances lack earnings keywords and are filtered there.
 }
 
 def title_matches_earnings(title):
