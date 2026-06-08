@@ -1,6 +1,54 @@
 {
- "generated_at": "2026-06-08T14:51:48",
+ "generated_at": "2026-06-08T18:00:20+00:00",
  "items": [
+  {
+   "uuid": "43109b8e-ecf7-32d3-9aca-992dc08201c5",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "CAMPBELL'S Co",
+   "title": "Piper Sandler Trims Campbell's Price Target to $21 From $22, Maintains Neutral Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/piper-sandler-trims-campbell-apos-174209094.html",
+   "published_unix": 1780940529,
+   "captured_at": "2026-06-08T17:59:27"
+  },
+  {
+   "uuid": "9823d1d8-ba17-3192-a86f-d731657adebe",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "Jefferies Adjusts Price Target on American Water Works to $127 From $128, Maintains Hold Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-adjusts-price-target-american-154230277.html",
+   "published_unix": 1780933350,
+   "captured_at": "2026-06-08T17:59:27"
+  },
+  {
+   "uuid": "d9f815d6-8cdc-3805-87fb-475b4ce22026",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "CAMPBELL'S Co",
+   "title": "Campbell's Earnings Beat; Eli Lilly Obesity Drug Results | Stock Movers",
+   "publisher": "Bloomberg",
+   "link": "https://finance.yahoo.com/video/campbells-earnings-beat-eli-lilly-151334974.html",
+   "published_unix": 1780931614,
+   "captured_at": "2026-06-08T17:59:27"
+  },
+  {
+   "uuid": "319f872c-a993-36f0-826c-0ef013a5538b",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Johnson & Johnson to Acquire Firefly Bio in $1 Billion Deal",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/johnson-johnson-acquire-firefly-bio-145037430.html",
+   "published_unix": 1780930237,
+   "captured_at": "2026-06-08T18:00:19"
+  },
   {
    "uuid": "d70966fb-aaa6-3ae4-a6d8-eee72b118a84",
    "tickers": [
