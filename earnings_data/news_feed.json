@@ -1,6 +1,66 @@
 {
- "generated_at": "2026-06-08T18:00:20+00:00",
+ "generated_at": "2026-06-08T20:30:08+00:00",
  "items": [
+  {
+   "uuid": "694cd1ea-c8fe-3a3f-86ed-90c483f88c42",
+   "tickers": [
+    "FSK"
+   ],
+   "company": "FS KKR Capital Corp",
+   "title": "FSK Completes Public Offering of $900,000,000 7.500% Unsecured Notes Due 2031",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fsk-completes-public-offering-900-202000925.html",
+   "published_unix": 1780950000,
+   "captured_at": "2026-06-08T20:29:41"
+  },
+  {
+   "uuid": "2cb16817-6387-3b1b-ba94-563bec783f00",
+   "tickers": [
+    "MLYS"
+   ],
+   "company": "Mineralys Therapeutics, Inc.",
+   "title": "Mineralys Therapeutics to Participate in the Goldman Sachs 47th Annual Global Healthcare Conference",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/mineralys-therapeutics-participate-goldman-sachs-200500203.html",
+   "published_unix": 1780949100,
+   "captured_at": "2026-06-08T20:29:42"
+  },
+  {
+   "uuid": "5a720df2-7c03-3392-8844-f63d4c370df4",
+   "tickers": [
+    "HSY"
+   ],
+   "company": "HERSHEY CO",
+   "title": "Analyst Report: Hershey Co/The",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/5a720df2-7c03-3392-8844-f63d4c370df4/analyst-report%3A-hershey-co%2Fthe.html",
+   "published_unix": 1780943646,
+   "captured_at": "2026-06-08T20:30:06"
+  },
+  {
+   "uuid": "0b7fa2f1-7d4e-3d7b-bc00-0a04fe2c26af",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Toll Brothers Announces Grand Opening of Four New Model Homes at Outlook at The Station in Sunnyvale, California",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-announces-grand-opening-182700189.html",
+   "published_unix": 1780943220,
+   "captured_at": "2026-06-08T20:29:32"
+  },
+  {
+   "uuid": "0462050c-963b-32a9-8470-ff850ef89532",
+   "tickers": [
+    "HSY"
+   ],
+   "company": "HERSHEY CO",
+   "title": "Market Update: HSY, MET, PPG, SHEL, URI",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/0462050c-963b-32a9-8470-ff850ef89532/market-update%3A-hsy%2C-met%2C-ppg%2C.html",
+   "published_unix": 1780942746,
+   "captured_at": "2026-06-08T20:30:06"
+  },
   {
    "uuid": "43109b8e-ecf7-32d3-9aca-992dc08201c5",
    "tickers": [
