@@ -68,3 +68,5 @@
 [2026-06-09 21:30:47]     https://www.sec.gov/Archives/edgar/data/912615/000119312526263929/urbn-20260430.htm
 [2026-06-09 21:30:48]     ✉ alert sent (10q)
 [2026-06-09 21:31:12] === EDGAR POLL complete. Fetched 100 companies, 1 new filings. ===
+[2026-06-09 22:17:44] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-06-09 22:18:20] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
