@@ -1,6 +1,18 @@
 {
- "generated_at": "2026-06-08T22:43:07+00:00",
+ "generated_at": "2026-06-09T00:11:06+00:00",
  "items": [
+  {
+   "uuid": "8378c1d8-d63f-37ff-9d6f-b342e33e18ac",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "New Jersey American Water Names David Forcinito Vice President of Operations",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/sectors/energy/articles/jersey-american-water-names-david-231500494.html",
+   "published_unix": 1780960500,
+   "captured_at": "2026-06-09T00:10:25"
+  },
   {
    "uuid": "ce4d3d5c-b43e-3ac0-8c6c-03e76174ee21",
    "tickers": [
