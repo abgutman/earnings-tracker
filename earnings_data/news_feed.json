@@ -1,6 +1,66 @@
 {
- "generated_at": "2026-06-09T16:34:18+00:00",
+ "generated_at": "2026-06-09T19:20:25+00:00",
  "items": [
+  {
+   "uuid": "ba34a38d-9b7d-3a66-8d24-28a1c8bbdd01",
+   "tickers": [
+    "UVSP"
+   ],
+   "company": "UNIVEST FINANCIAL Corp",
+   "title": "Univest Financial Insider Sold Shares Worth $570,014, According to a Recent SEC Filing",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/univest-financial-insider-sold-shares-190511907.html",
+   "published_unix": 1781031911,
+   "captured_at": "2026-06-09T19:19:58"
+  },
+  {
+   "uuid": "2d0699ad-02c3-3861-8278-f70805f93a37",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Toll Brothers Shares Rise After Keefe Bruyette & Woods Upgrade",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-shares-rise-keefe-185821516.html",
+   "published_unix": 1781031501,
+   "captured_at": "2026-06-09T19:19:42"
+  },
+  {
+   "uuid": "4f6ec8ca-288b-3755-8727-68956e39ea83",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Toll Brothers Announces Model Home Grand Opening at Santa Rita Ranch in Liberty Hill, Texas",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-announces-model-home-183400319.html",
+   "published_unix": 1781030040,
+   "captured_at": "2026-06-09T19:19:42"
+  },
+  {
+   "uuid": "95c13add-681d-33d4-b34a-6a3c8a2bea3d",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Toll Brothers Announces Final Opportunity to Own a New Luxury Home at Toll Brothers at Skye Canyon - Paloma Collection in Las Vegas, Nevada",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-announces-final-opportunity-181700457.html",
+   "published_unix": 1781029020,
+   "captured_at": "2026-06-09T19:19:42"
+  },
+  {
+   "uuid": "ee67ffda-bb93-38f1-aa6c-a93ad003dc84",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "CAMPBELL'S Co",
+   "title": "Campbell's Snacks Business Turnaround to Take Time Amid Demand Headwinds, RBC Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/campbell-apos-snacks-business-turnaround-172833426.html",
+   "published_unix": 1781026113,
+   "captured_at": "2026-06-09T19:19:45"
+  },
   {
    "uuid": "f35434f3-f340-352d-b9de-84f4be291523",
    "tickers": [
@@ -108,6 +168,18 @@
    "link": "https://finance.yahoo.com/sectors/technology/articles/dupont-memcor-mbr-system-selected-130000502.html",
    "published_unix": 1781010000,
    "captured_at": "2026-06-09T13:47:12"
+  },
+  {
+   "uuid": "e86cc941-aa57-3985-98d8-448310d73b00",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Merck, Gilead report mixed outcomes in key lung cancer, HIV studies",
+   "publisher": "BioPharma Dive",
+   "link": "https://finance.yahoo.com/m/e86cc941-aa57-3985-98d8-448310d73b00/merck%2C-gilead-report-mixed.html",
+   "published_unix": 1781007660,
+   "captured_at": "2026-06-09T19:20:24"
   },
   {
    "uuid": "c669612c-7415-3720-8118-bd008cbd426b",
