@@ -1,6 +1,18 @@
 {
- "generated_at": "2026-06-09T21:51:44+00:00",
+ "generated_at": "2026-06-09T23:20:57+00:00",
  "items": [
+  {
+   "uuid": "2b3a00b0-7cf9-3484-91b6-6cb627647838",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "CAMPBELL'S Co",
+   "title": "The Spill \u2013 Campbell\u2019s (CPB): The Only Grower Nobody Wants",
+   "publisher": "IPO-Edge.com",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/spill-campbell-cpb-only-grower-221126476.html",
+   "published_unix": 1781043086,
+   "captured_at": "2026-06-09T23:20:15"
+  },
   {
    "uuid": "83efd748-26dd-37e6-97ea-9dad894ace59",
    "tickers": [
