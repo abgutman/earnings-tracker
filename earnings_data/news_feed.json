@@ -1,6 +1,90 @@
 {
- "generated_at": "2026-06-09T19:20:25+00:00",
+ "generated_at": "2026-06-09T21:51:44+00:00",
  "items": [
+  {
+   "uuid": "83efd748-26dd-37e6-97ea-9dad894ace59",
+   "tickers": [
+    "GMED"
+   ],
+   "company": "GLOBUS MEDICAL INC",
+   "title": "Globus Medical Insider Sold Shares Worth $2,019,073, According to a Recent SEC Filing",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/globus-medical-insider-sold-shares-210647597.html",
+   "published_unix": 1781039207,
+   "captured_at": "2026-06-09T21:51:06"
+  },
+  {
+   "uuid": "166bd71b-9478-3acf-960b-87a4cf3fd2a4",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "American Water's California Unit Reaches Partial Settlement in General Rate Case",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/sectors/energy/articles/american-water-apos-california-unit-205521201.html",
+   "published_unix": 1781038521,
+   "captured_at": "2026-06-09T21:51:02"
+  },
+  {
+   "uuid": "131830eb-ae89-304f-9bb3-d448c0fa105d",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "Major California American Water Infrastructure Investment is Completed in Carmel-By-The-Sea",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/sectors/energy/articles/major-california-american-water-infrastructure-203700075.html",
+   "published_unix": 1781037420,
+   "captured_at": "2026-06-09T21:51:02"
+  },
+  {
+   "uuid": "8373a96a-b1e7-3987-89d8-cfe32d8a63c9",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "Virginia American Water Reaches Settlement Agreement in General Rate Case",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/economy/policy/articles/virginia-american-water-reaches-settlement-201800294.html",
+   "published_unix": 1781036280,
+   "captured_at": "2026-06-09T21:51:02"
+  },
+  {
+   "uuid": "33a33cd4-7246-3784-bd55-71f4e9a6bb76",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "California American Water Reaches Partial Settlement Agreement in General Rate Case",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/economy/policy/articles/california-american-water-reaches-partial-201500977.html",
+   "published_unix": 1781036100,
+   "captured_at": "2026-06-09T21:51:02"
+  },
+  {
+   "uuid": "b4b0b91a-2f07-3006-953c-810971e549af",
+   "tickers": [
+    "CNTX"
+   ],
+   "company": "Context Therapeutics Inc.",
+   "title": "Context Therapeutics Announces Inducement Grant Under Nasdaq Listing Rule 5635(c)(4)",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/context-therapeutics-announces-inducement-grant-201000136.html",
+   "published_unix": 1781035800,
+   "captured_at": "2026-06-09T21:51:22"
+  },
+  {
+   "uuid": "06c0aae7-d6cc-33a0-b70e-d509b3d80281",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "American Water State Presidents Help Advance Solutions for Water Reliability and Affordability at MARC 2026",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/sectors/energy/articles/american-water-state-presidents-help-195800319.html",
+   "published_unix": 1781035080,
+   "captured_at": "2026-06-09T21:51:02"
+  },
   {
    "uuid": "ba34a38d-9b7d-3a66-8d24-28a1c8bbdd01",
    "tickers": [
