@@ -1,6 +1,234 @@
 {
- "generated_at": "2026-06-09T02:00:46+00:00",
+ "generated_at": "2026-06-09T13:47:12+00:00",
  "items": [
+  {
+   "uuid": "bba6105b-9c7f-39ec-ac34-464ecf937488",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Toll Brothers upgraded, Lennar downgraded: Wall Street's top analyst calls",
+   "publisher": "The Fly",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-upgraded-lennar-downgraded-133255377.html",
+   "published_unix": 1781011975,
+   "captured_at": "2026-06-09T13:46:27"
+  },
+  {
+   "uuid": "819dda48-8dc0-3b79-8f8c-54a4df795d31",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Comcast Advertising and Affinity Solutions Bring Purchase-Based Precision to TV Advertising",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-advertising-affinity-solutions-bring-131100694.html",
+   "published_unix": 1781010660,
+   "captured_at": "2026-06-09T13:46:18"
+  },
+  {
+   "uuid": "b6128aad-ac65-3fa4-a369-932d9d8cfb94",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Comcast to Expand Reliable, High-Speed Internet to More Areas in Manitowoc and St. Croix County, Wisconsin",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/sectors/technology/articles/comcast-expand-reliable-high-speed-130000277.html",
+   "published_unix": 1781010000,
+   "captured_at": "2026-06-09T13:46:18"
+  },
+  {
+   "uuid": "0d975ef4-b72f-32cd-aec0-d47372aa5972",
+   "tickers": [
+    "SEIC"
+   ],
+   "company": "SEI INVESTMENTS CO",
+   "title": "SEI Names Sneha Shah Chief AI Strategist, Expands Enterprise AI and Data Leadership",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/sectors/technology/articles/sei-names-sneha-shah-chief-130000097.html",
+   "published_unix": 1781010000,
+   "captured_at": "2026-06-09T13:46:29"
+  },
+  {
+   "uuid": "eab54d1e-5d01-3a04-b82b-4806438bbaf3",
+   "tickers": [
+    "DD"
+   ],
+   "company": "DuPont de Nemours, Inc.",
+   "title": "DuPont\u2122 MemCor\u2122 MBR system selected for major Riverstone Water Resource Recovery Facility upgrade in Australia",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/sectors/technology/articles/dupont-memcor-mbr-system-selected-130000502.html",
+   "published_unix": 1781010000,
+   "captured_at": "2026-06-09T13:47:12"
+  },
+  {
+   "uuid": "c669612c-7415-3720-8118-bd008cbd426b",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "CAMPBELL'S Co",
+   "title": "UBS Adjusts Price Target on Campbell's to $17 From $19, Maintains Sell Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-price-target-campbell-113953732.html",
+   "published_unix": 1781005193,
+   "captured_at": "2026-06-09T13:46:29"
+  },
+  {
+   "uuid": "89c9a5aa-8823-3e21-a71b-cd910a875396",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "CAMPBELL'S Co",
+   "title": "BNP Paribas Trims Price Target on Campbell's to $14 From $15, Maintains Underperform Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-trims-price-target-112153993.html",
+   "published_unix": 1781004113,
+   "captured_at": "2026-06-09T13:46:29"
+  },
+  {
+   "uuid": "d196c00f-1ab0-3f4f-8655-380506271adf",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Keefe Bruyette & Woods Upgrades Toll Brothers to Outperform From Market Perform, Lifts Price Target to $161 From $158",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/keefe-bruyette-woods-upgrades-toll-112105446.html",
+   "published_unix": 1781004065,
+   "captured_at": "2026-06-09T13:46:27"
+  },
+  {
+   "uuid": "1ef7e30e-69d7-38db-a033-218a9458429b",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "CAMPBELL'S Co",
+   "title": "Deutsche Bank Adjusts Campbell's Price Target to $19 From $20, Maintains Hold Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-adjusts-campbell-apos-110643707.html",
+   "published_unix": 1781003203,
+   "captured_at": "2026-06-09T13:46:29"
+  },
+  {
+   "uuid": "ea73e8a1-706f-33e0-bdac-e4789d4a98f9",
+   "tickers": [
+    "TFX"
+   ],
+   "company": "TELEFLEX INC",
+   "title": "Teleflex Says Study Shows No New Cardiac Events at 4 Years for Freesolve Scaffold",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/teleflex-says-study-shows-no-110633662.html",
+   "published_unix": 1781003193,
+   "captured_at": "2026-06-09T13:46:35"
+  },
+  {
+   "uuid": "2914ccfd-8ae2-3542-b50f-2f29f16f1c7a",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "CAMPBELL'S Co",
+   "title": "RBC Trims Price Target on Campbell's to $21 From $23, Keeps Sector Perform Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-trims-price-target-campbell-110338109.html",
+   "published_unix": 1781003018,
+   "captured_at": "2026-06-09T13:46:29"
+  },
+  {
+   "uuid": "408f0ea6-c760-3126-aa3c-e4bd05e708d8",
+   "tickers": [
+    "WST"
+   ],
+   "company": "WEST PHARMACEUTICAL SERVICES INC",
+   "title": "Barclays Upgrades West Pharmaceutical Services to Overweight From Equalweight, Adjusts PT to $400 From $310",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-upgrades-west-pharmaceutical-services-102727713.html",
+   "published_unix": 1781000847,
+   "captured_at": "2026-06-09T13:46:33"
+  },
+  {
+   "uuid": "5e49b5c0-9f8b-3272-8484-5e9565122c5f",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "CAMPBELL'S Co",
+   "title": "Evercore ISI Adjusts Price Target on Campbell's to $23 From $24, Maintains In Line Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/evercore-isi-adjusts-price-target-095307567.html",
+   "published_unix": 1780998787,
+   "captured_at": "2026-06-09T13:46:29"
+  },
+  {
+   "uuid": "5e260c91-1e7e-3acc-ab11-85b12a82fb89",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "CAMPBELL'S Co",
+   "title": "JPMorgan Adjusts Price Target on Campbell's to $20 From $21, Maintains Neutral Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-adjusts-price-target-campbell-092731832.html",
+   "published_unix": 1780997251,
+   "captured_at": "2026-06-09T13:46:29"
+  },
+  {
+   "uuid": "e4d82883-8924-39b5-a729-527043d7b75d",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "CAMPBELL'S Co",
+   "title": "Bernstein Adjusts Price Target on Campbell's to $18 From $19, Maintains Underperform Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bernstein-adjusts-price-target-campbell-092723425.html",
+   "published_unix": 1780997243,
+   "captured_at": "2026-06-09T13:46:29"
+  },
+  {
+   "uuid": "72361419-f02e-3784-82e4-5acb9eb5abcd",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "CAMPBELL'S Co",
+   "title": "Jefferies Adjusts Price Target on Campbell's to $20 From $19, Maintains Hold Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-adjusts-price-target-campbell-092716073.html",
+   "published_unix": 1780997236,
+   "captured_at": "2026-06-09T13:46:29"
+  },
+  {
+   "uuid": "1b464dbd-74db-39e1-9342-eb822902e7d7",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "CAMPBELL'S Co",
+   "title": "CPB Stock Slips Premarket After Earnings \u2013 But Retail Still Sees Campbell\u2019s As A 'Defensive Play'",
+   "publisher": "Stocktwits",
+   "link": "https://finance.yahoo.com/m/1b464dbd-74db-39e1-9342-eb822902e7d7/cpb-stock-slips-premarket.html",
+   "published_unix": 1780995976,
+   "captured_at": "2026-06-09T13:46:29"
+  },
+  {
+   "uuid": "18faf1d7-1465-3c22-85ba-a1370038f838",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "The Hashgraph Group and Merck Introduce EU Digital Product Passport on Hedera for Regulated Supply Chains",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/sectors/technology/articles/hashgraph-group-merck-introduce-eu-074400010.html",
+   "published_unix": 1780991040,
+   "captured_at": "2026-06-09T13:47:12"
+  },
+  {
+   "uuid": "3915a01f-22da-33cc-ab8a-b0dc420c0f31",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "LEN Vs. TOL: Wall Street Analyst Picks Home Builder Stock With Greater Upside",
+   "publisher": "Stocktwits",
+   "link": "https://finance.yahoo.com/m/3915a01f-22da-33cc-ab8a-b0dc420c0f31/len-vs.-tol%3A-wall-street.html",
+   "published_unix": 1780981142,
+   "captured_at": "2026-06-09T13:46:27"
+  },
   {
    "uuid": "8378c1d8-d63f-37ff-9d6f-b342e33e18ac",
    "tickers": [
