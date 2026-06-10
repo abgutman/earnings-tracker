@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-06-09T23:20:57+00:00",
+ "generated_at": "2026-06-10T02:13:42+00:00",
  "items": [
   {
    "uuid": "2b3a00b0-7cf9-3484-91b6-6cb627647838",
@@ -768,18 +768,6 @@
    "link": "https://finance.yahoo.com/sectors/healthcare/articles/mineralys-therapeutics-present-breaking-data-110000426.html",
    "published_unix": 1780916400,
    "captured_at": "2026-06-08T14:51:17"
-  },
-  {
-   "uuid": "fdbe7af2-9f58-3068-af7d-95a483195b46",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Charter and Comcast rival files Chapter 11 bankruptcy",
-   "publisher": "TheStreet",
-   "link": "https://finance.yahoo.com/m/fdbe7af2-9f58-3068-af7d-95a483195b46/charter-and-comcast-rival.html",
-   "published_unix": 1780877460,
-   "captured_at": "2026-06-08T14:50:58"
   }
  ]
 }
