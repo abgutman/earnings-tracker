@@ -1,6 +1,90 @@
 {
- "generated_at": "2026-06-10T02:13:42+00:00",
+ "generated_at": "2026-06-10T14:27:35+00:00",
  "items": [
+  {
+   "uuid": "56194a23-a66f-34b5-a4cc-ffc6a06b6c7e",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Toll Brothers at Marsh Harbor Receives Best of Show at the 2026 Northeast Florida Parade of Homes",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-marsh-harbor-receives-134000617.html",
+   "published_unix": 1781098800,
+   "captured_at": "2026-06-10T14:26:49"
+  },
+  {
+   "uuid": "333540d8-603a-314a-a154-44baa1c18a20",
+   "tickers": [
+    "DD"
+   ],
+   "company": "DuPont de Nemours, Inc.",
+   "title": "DuPont Announces Healthcare Solutions U.S.-based Manufacturing Sites Now Powered by 100% Renewable Electricity",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/dupont-announces-healthcare-solutions-u-130000402.html",
+   "published_unix": 1781096400,
+   "captured_at": "2026-06-10T14:27:35"
+  },
+  {
+   "uuid": "b7622394-1803-3fc7-a5de-752e60c0deee",
+   "tickers": [
+    "EXYN"
+   ],
+   "company": "Exyn Technologies, Inc.",
+   "title": "Exyn Expands ExynAI Software Capabilities, Strengthening End-to-End Autonomous Mapping and Reality Capture Workflows",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/sectors/technology/articles/exyn-expands-exynai-software-capabilities-120000977.html",
+   "published_unix": 1781092800,
+   "captured_at": "2026-06-10T14:27:21"
+  },
+  {
+   "uuid": "196bd7fb-902f-312b-b3dd-8c740ed97b20",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora, Inc.",
+   "title": "Barclays Cuts Cencora Price Target to $350 From $425, Maintains Overweight Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-cuts-cencora-price-target-114123960.html",
+   "published_unix": 1781091683,
+   "captured_at": "2026-06-10T14:26:51"
+  },
+  {
+   "uuid": "cc86d98c-3952-38a0-9f7c-f8289d8f45c3",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Johnson & Johnson CEO Says Cure for Certain Cancers Is Realistic Goal",
+   "publisher": "The Wall Street Journal",
+   "link": "https://finance.yahoo.com/m/cc86d98c-3952-38a0-9f7c-f8289d8f45c3/johnson-%26-johnson-ceo-says.html",
+   "published_unix": 1781086800,
+   "captured_at": "2026-06-10T14:27:34"
+  },
+  {
+   "uuid": "5678b2b9-5765-365e-9888-872e19a3a4c5",
+   "tickers": [
+    "HSDT"
+   ],
+   "company": "Solana Co",
+   "title": "Solana Institute CEO Pushes Senate to Pass CLARITY Act With Open-Source Protections",
+   "publisher": "Cryptonews",
+   "link": "https://finance.yahoo.com/m/5678b2b9-5765-365e-9888-872e19a3a4c5/solana-institute-ceo-pushes.html",
+   "published_unix": 1781083711,
+   "captured_at": "2026-06-10T14:27:16"
+  },
+  {
+   "uuid": "5de6b1eb-624c-3086-898f-e3b165412aa6",
+   "tickers": [
+    "URBN"
+   ],
+   "company": "URBAN OUTFITTERS INC",
+   "title": "Urban Outfitters to expand in Falls, bring 600 jobs. Here's the plan",
+   "publisher": "Bucks County Courier Times",
+   "link": "https://finance.yahoo.com/m/5de6b1eb-624c-3086-898f-e3b165412aa6/urban-outfitters-to-expand-in.html",
+   "published_unix": 1781081753,
+   "captured_at": "2026-06-10T14:26:42"
+  },
   {
    "uuid": "2b3a00b0-7cf9-3484-91b6-6cb627647838",
    "tickers": [
@@ -648,126 +732,6 @@
    "link": "https://finance.yahoo.com/sectors/healthcare/articles/johnson-johnson-acquire-firefly-bio-145037430.html",
    "published_unix": 1780930237,
    "captured_at": "2026-06-08T18:00:19"
-  },
-  {
-   "uuid": "d70966fb-aaa6-3ae4-a6d8-eee72b118a84",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Johnson & Johnson acquires Firefly Bio for $1 billion",
-   "publisher": "Quartz",
-   "link": "https://finance.yahoo.com/m/d70966fb-aaa6-3ae4-a6d8-eee72b118a84/johnson-%26-johnson-acquires.html",
-   "published_unix": 1780925594,
-   "captured_at": "2026-06-08T14:51:47"
-  },
-  {
-   "uuid": "18c1c923-8c5e-34be-b1c5-e88cd7ff9c26",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "CAMPBELL'S Co",
-   "title": "Campbell's Maintains Fiscal 2026 Outlook Following Mixed Third-Quarter Results",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/campbell-apos-maintains-fiscal-2026-131502524.html",
-   "published_unix": 1780924502,
-   "captured_at": "2026-06-08T14:51:09"
-  },
-  {
-   "uuid": "b86b05ea-862e-3a99-a38f-d360f693e620",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Johnson & Johnson to Buy Firefly Bio for $1 Billion",
-   "publisher": "The Wall Street Journal",
-   "link": "https://finance.yahoo.com/m/b86b05ea-862e-3a99-a38f-d360f693e620/johnson-%26-johnson-to-buy.html",
-   "published_unix": 1780923660,
-   "captured_at": "2026-06-08T14:51:47"
-  },
-  {
-   "uuid": "68a9e2d0-c794-37a4-94c3-92d57f15132e",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Johnson & Johnson to Acquire Firefly Bio for $1 Billion to Expand Cancer Drug Pipeline",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/johnson-johnson-acquire-firefly-bio-124347575.html",
-   "published_unix": 1780922627,
-   "captured_at": "2026-06-08T14:51:47"
-  },
-  {
-   "uuid": "0d826fd7-8ef7-366a-bb1d-ef769238d4d4",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "CAMPBELL'S Co",
-   "title": "Campbell's Q3 2026 earnings: sales fall 4%, guidance reaffirmed",
-   "publisher": "Quartz",
-   "link": "https://finance.yahoo.com/m/0d826fd7-8ef7-366a-bb1d-ef769238d4d4/campbell%27s-q3-2026-earnings%3A.html",
-   "published_unix": 1780921872,
-   "captured_at": "2026-06-08T14:51:09"
-  },
-  {
-   "uuid": "2e3e9be6-67b2-3262-b568-cbde5b5aa0aa",
-   "tickers": [
-    "COHN"
-   ],
-   "company": "Cohen & Co Inc.",
-   "title": "Cohen & Company Securities Opens Charlotte Office",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/cohen-company-securities-opens-charlotte-121500771.html",
-   "published_unix": 1780920900,
-   "captured_at": "2026-06-08T14:51:35"
-  },
-  {
-   "uuid": "ba52ec8f-a0f9-327c-a2aa-45ec3bf0a2d4",
-   "tickers": [
-    "EPAM"
-   ],
-   "company": "EPAM Systems, Inc.",
-   "title": "EPAM and TGS Announce Strategic Collaboration to Accelerate AI Adoption at Scale in Energy Sector",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/sectors/energy/articles/epam-tgs-announce-strategic-collaboration-120200854.html",
-   "published_unix": 1780920120,
-   "captured_at": "2026-06-08T14:51:15"
-  },
-  {
-   "uuid": "b80fae50-4a1a-3e87-ae8d-4a10fe753caf",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Johnson & Johnson to Acquire Firefly Bio, Inc. to Expand Oncology Pipeline with Novel Degrader Antibody Conjugate Platform",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/johnson-johnson-acquire-firefly-bio-120000478.html",
-   "published_unix": 1780920000,
-   "captured_at": "2026-06-08T14:51:47"
-  },
-  {
-   "uuid": "47fe0de3-2a33-38e5-8dd6-eeb33ae0f03d",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Merck Appoints New Heads of Discovery Solutions and Strategy & Business Development for Life Science Business Sector",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/merck-appoints-heads-discovery-solutions-120000452.html",
-   "published_unix": 1780920000,
-   "captured_at": "2026-06-08T14:51:47"
-  },
-  {
-   "uuid": "b0d357b1-dfd6-3479-a378-fe9119a054b7",
-   "tickers": [
-    "MLYS"
-   ],
-   "company": "Mineralys Therapeutics, Inc.",
-   "title": "Mineralys Therapeutics to Present Late-Breaking Data on Lorundrostat at The Endocrine Society Annual Meeting (ENDO 2026)",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/mineralys-therapeutics-present-breaking-data-110000426.html",
-   "published_unix": 1780916400,
-   "captured_at": "2026-06-08T14:51:17"
   }
  ]
 }
