@@ -86,3 +86,5 @@
 [2026-06-10 21:51:15] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
 [2026-06-10 22:47:22] === EDGAR POLL: scanning for new earnings filings (live=True) ===
 [2026-06-10 22:47:54] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
+[2026-06-10 23:22:19] === CHECK-10Q: scanning for pending 10-Q filings ===
+[2026-06-10 23:22:20] === CHECK-10Q complete. Checked 1, found 0, cleared 0 stale. ===
