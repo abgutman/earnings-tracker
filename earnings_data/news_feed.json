@@ -1,6 +1,18 @@
 {
- "generated_at": "2026-06-10T21:27:34+00:00",
+ "generated_at": "2026-06-10T23:39:57+00:00",
  "items": [
+  {
+   "uuid": "97690091-0796-39d5-9109-cf89c7fbf154",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Johnson & Johnson bets $1 billion on hard-to-treat cancer",
+   "publisher": "TheStreet",
+   "link": "https://finance.yahoo.com/m/97690091-0796-39d5-9109-cf89c7fbf154/johnson-%26-johnson-bets-%241.html",
+   "published_unix": 1781132400,
+   "captured_at": "2026-06-10T23:39:56"
+  },
   {
    "uuid": "b53200dd-15f7-37cd-9775-2cfdade19d47",
    "tickers": [
@@ -984,42 +996,6 @@
    "link": "https://finance.yahoo.com/m/3915a01f-22da-33cc-ab8a-b0dc420c0f31/len-vs.-tol%3A-wall-street.html",
    "published_unix": 1780981142,
    "captured_at": "2026-06-09T13:46:27"
-  },
-  {
-   "uuid": "8378c1d8-d63f-37ff-9d6f-b342e33e18ac",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "New Jersey American Water Names David Forcinito Vice President of Operations",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/sectors/energy/articles/jersey-american-water-names-david-231500494.html",
-   "published_unix": 1780960500,
-   "captured_at": "2026-06-09T00:10:25"
-  },
-  {
-   "uuid": "69df9a9d-304c-3107-a27f-cfd34662f214",
-   "tickers": [
-    "WHK"
-   ],
-   "company": "WhiteHawk Income Corp",
-   "title": "WhiteHawk Minerals Announces Pricing of Upsized Initial Public Offering",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/whitehawk-minerals-announces-pricing-upsized-231500819.html",
-   "published_unix": 1780960500,
-   "captured_at": "2026-06-09T16:34:12"
-  },
-  {
-   "uuid": "ce4d3d5c-b43e-3ac0-8c6c-03e76174ee21",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Gilead, Merck HIV Combination Meets Primary Endpoint in Two Phase 3 Trials",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/gilead-merck-hiv-combination-meets-214401455.html",
-   "published_unix": 1780955041,
-   "captured_at": "2026-06-08T22:43:06"
   }
  ]
 }
