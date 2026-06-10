@@ -1,6 +1,42 @@
 {
- "generated_at": "2026-06-10T14:27:35+00:00",
+ "generated_at": "2026-06-10T18:07:00+00:00",
  "items": [
+  {
+   "uuid": "70c938bc-aa54-36d7-8530-8f2ed40efdae",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Johnson & Johnson Ordered to Pay $32 Million in California Talc Verdict",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/johnson-johnson-ordered-pay-32-160921053.html",
+   "published_unix": 1781107761,
+   "captured_at": "2026-06-10T18:06:59"
+  },
+  {
+   "uuid": "e7baec29-0eb0-3ac5-88a4-77e46eb8c540",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Johnson & Johnson Hit with $32 Million Verdict in Los Angeles Asbestos Trial",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/johnson-johnson-hit-32-million-152200415.html",
+   "published_unix": 1781104920,
+   "captured_at": "2026-06-10T18:06:59"
+  },
+  {
+   "uuid": "44395b0b-407e-308c-891b-bf89371e6b5d",
+   "tickers": [
+    "VSH"
+   ],
+   "company": "VISHAY INTERTECHNOLOGY INC",
+   "title": "Vishay Intertechnology Extends ILHB Series of Automotive Grade Ferrite Beads to Support Wider Range of EMC Noise Reduction Applications",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/sectors/technology/articles/vishay-intertechnology-extends-ilhb-series-150000857.html",
+   "published_unix": 1781103600,
+   "captured_at": "2026-06-10T18:06:19"
+  },
   {
    "uuid": "56194a23-a66f-34b5-a4cc-ffc6a06b6c7e",
    "tickers": [
@@ -684,54 +720,6 @@
    "link": "https://finance.yahoo.com/m/0462050c-963b-32a9-8470-ff850ef89532/market-update%3A-hsy%2C-met%2C-ppg%2C.html",
    "published_unix": 1780942746,
    "captured_at": "2026-06-08T20:30:06"
-  },
-  {
-   "uuid": "43109b8e-ecf7-32d3-9aca-992dc08201c5",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "CAMPBELL'S Co",
-   "title": "Piper Sandler Trims Campbell's Price Target to $21 From $22, Maintains Neutral Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/piper-sandler-trims-campbell-apos-174209094.html",
-   "published_unix": 1780940529,
-   "captured_at": "2026-06-08T17:59:27"
-  },
-  {
-   "uuid": "9823d1d8-ba17-3192-a86f-d731657adebe",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "Jefferies Adjusts Price Target on American Water Works to $127 From $128, Maintains Hold Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-adjusts-price-target-american-154230277.html",
-   "published_unix": 1780933350,
-   "captured_at": "2026-06-08T17:59:27"
-  },
-  {
-   "uuid": "d9f815d6-8cdc-3805-87fb-475b4ce22026",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "CAMPBELL'S Co",
-   "title": "Campbell's Earnings Beat; Eli Lilly Obesity Drug Results | Stock Movers",
-   "publisher": "Bloomberg",
-   "link": "https://finance.yahoo.com/video/campbells-earnings-beat-eli-lilly-151334974.html",
-   "published_unix": 1780931614,
-   "captured_at": "2026-06-08T17:59:27"
-  },
-  {
-   "uuid": "319f872c-a993-36f0-826c-0ef013a5538b",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Johnson & Johnson to Acquire Firefly Bio in $1 Billion Deal",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/johnson-johnson-acquire-firefly-bio-145037430.html",
-   "published_unix": 1780930237,
-   "captured_at": "2026-06-08T18:00:19"
   }
  ]
 }
