@@ -1,6 +1,42 @@
 {
- "generated_at": "2026-06-10T18:07:00+00:00",
+ "generated_at": "2026-06-10T21:27:34+00:00",
  "items": [
+  {
+   "uuid": "b53200dd-15f7-37cd-9775-2cfdade19d47",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC CORP",
+   "title": "FMC Corporation CEO Pierre Brondeau and CFO Andrew Sandifer to speak at Wolfe Research 3rd Annual Materials of the Future Conference",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-corporation-ceo-pierre-brondeau-203000863.html",
+   "published_unix": 1781123400,
+   "captured_at": "2026-06-10T21:26:49"
+  },
+  {
+   "uuid": "90d2bdab-f491-3c35-8b25-3d31265f7145",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Toll Brothers Announces Final Opportunity to Own a New Luxury Home at University Park in Palm Desert, California",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-announces-final-opportunity-201800824.html",
+   "published_unix": 1781122680,
+   "captured_at": "2026-06-10T21:26:55"
+  },
+  {
+   "uuid": "e17430d4-1b50-311d-9d9f-e0b69c664840",
+   "tickers": [
+    "UHT"
+   ],
+   "company": "UNIVERSAL HEALTH REALTY INCOME TRUST",
+   "title": "UNIVERSAL HEALTH REALTY INCOME TRUST ANNOUNCES DIVIDEND INCREASE",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/universal-health-realty-income-trust-201500023.html",
+   "published_unix": 1781122500,
+   "captured_at": "2026-06-10T21:27:12"
+  },
   {
    "uuid": "70c938bc-aa54-36d7-8530-8f2ed40efdae",
    "tickers": [
@@ -62,6 +98,18 @@
    "captured_at": "2026-06-10T14:27:35"
   },
   {
+   "uuid": "05299c5e-8d2a-3f8c-8788-779a0fe811dd",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores, Inc.",
+   "title": "Burlington bets on ocean contracts to combat elevated freight costs",
+   "publisher": "Supply Chain Dive",
+   "link": "https://finance.yahoo.com/m/05299c5e-8d2a-3f8c-8788-779a0fe811dd/burlington-bets-on-ocean.html",
+   "published_unix": 1781094420,
+   "captured_at": "2026-06-10T21:26:58"
+  },
+  {
    "uuid": "b7622394-1803-3fc7-a5de-752e60c0deee",
    "tickers": [
     "EXYN"
@@ -120,6 +168,378 @@
    "link": "https://finance.yahoo.com/m/5de6b1eb-624c-3086-898f-e3b165412aa6/urban-outfitters-to-expand-in.html",
    "published_unix": 1781081753,
    "captured_at": "2026-06-10T14:26:42"
+  },
+  {
+   "uuid": "1dbdc40f-4a80-39fd-ab6e-6e746ff9a8f3",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "ARMK: Lowering target price to $56.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/1dbdc40f-4a80-39fd-ab6e-6e746ff9a8f3/armk%3A-lowering-target-price.html",
+   "published_unix": 1781049600,
+   "captured_at": "2026-06-10T21:26:49"
+  },
+  {
+   "uuid": "f1e138b0-04bc-3118-8587-40ff5f3ce30a",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC CORP",
+   "title": "FMC: Lowering target price to $10.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/f1e138b0-04bc-3118-8587-40ff5f3ce30a/fmc%3A-lowering-target-price-to.html",
+   "published_unix": 1781049600,
+   "captured_at": "2026-06-10T21:26:49"
+  },
+  {
+   "uuid": "341a41ae-402f-3d80-9ff7-65989ca5e1f4",
+   "tickers": [
+    "URBN"
+   ],
+   "company": "URBAN OUTFITTERS INC",
+   "title": "URBN: Raising target price to $77.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/341a41ae-402f-3d80-9ff7-65989ca5e1f4/urbn%3A-raising-target-price-to.html",
+   "published_unix": 1781049600,
+   "captured_at": "2026-06-10T21:26:49"
+  },
+  {
+   "uuid": "87d20222-5b9f-387d-b1b3-4c33df51c890",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "FIVE BELOW, INC",
+   "title": "FIVE: Rating decreased to a HOLD",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/87d20222-5b9f-387d-b1b3-4c33df51c890/five%3A-rating-decreased-to-a.html",
+   "published_unix": 1781049600,
+   "captured_at": "2026-06-10T21:26:50"
+  },
+  {
+   "uuid": "51dcfb12-85d9-36d2-89bc-b572c85441e3",
+   "tickers": [
+    "IRT"
+   ],
+   "company": "INDEPENDENCE REALTY TRUST, INC.",
+   "title": "IRT: Raising target price to $18.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/51dcfb12-85d9-36d2-89bc-b572c85441e3/irt%3A-raising-target-price-to.html",
+   "published_unix": 1781049600,
+   "captured_at": "2026-06-10T21:26:51"
+  },
+  {
+   "uuid": "c84ed7e3-1404-3331-9979-0772978aef47",
+   "tickers": [
+    "AXTA"
+   ],
+   "company": "Axalta Coating Systems Ltd.",
+   "title": "AXTA: Raising target price to $36.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/c84ed7e3-1404-3331-9979-0772978aef47/axta%3A-raising-target-price-to.html",
+   "published_unix": 1781049600,
+   "captured_at": "2026-06-10T21:26:51"
+  },
+  {
+   "uuid": "9d0cac73-5b11-3cb7-a840-c48d16628bd2",
+   "tickers": [
+    "RDN"
+   ],
+   "company": "RADIAN GROUP INC",
+   "title": "RDN: Raising target price to $33.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/9d0cac73-5b11-3cb7-a840-c48d16628bd2/rdn%3A-raising-target-price-to.html",
+   "published_unix": 1781049600,
+   "captured_at": "2026-06-10T21:26:51"
+  },
+  {
+   "uuid": "e425ca66-934f-3f4d-b81d-d7a8efacf11c",
+   "tickers": [
+    "LNC"
+   ],
+   "company": "LINCOLN NATIONAL CORP",
+   "title": "LNC: Raising target price to $34.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/e425ca66-934f-3f4d-b81d-d7a8efacf11c/lnc%3A-raising-target-price-to.html",
+   "published_unix": 1781049600,
+   "captured_at": "2026-06-10T21:26:52"
+  },
+  {
+   "uuid": "6dd1c298-0645-3590-8025-1f47e825e52a",
+   "tickers": [
+    "BSY"
+   ],
+   "company": "BENTLEY SYSTEMS INC",
+   "title": "BSY: Lowering target price to $36.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/6dd1c298-0645-3590-8025-1f47e825e52a/bsy%3A-lowering-target-price-to.html",
+   "published_unix": 1781049600,
+   "captured_at": "2026-06-10T21:26:52"
+  },
+  {
+   "uuid": "4f473071-943c-3c88-87d8-d6649ac3d9b7",
+   "tickers": [
+    "AME"
+   ],
+   "company": "AMETEK INC/",
+   "title": "AME: Raising target price to $253.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/4f473071-943c-3c88-87d8-d6649ac3d9b7/ame%3A-raising-target-price-to.html",
+   "published_unix": 1781049600,
+   "captured_at": "2026-06-10T21:26:52"
+  },
+  {
+   "uuid": "e7d5b83a-c2a4-3783-8fce-3eff3861abab",
+   "tickers": [
+    "UHS"
+   ],
+   "company": "UNIVERSAL HEALTH SERVICES INC",
+   "title": "UHS: Rating decreased to a HOLD",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/e7d5b83a-c2a4-3783-8fce-3eff3861abab/uhs%3A-rating-decreased-to-a.html",
+   "published_unix": 1781049600,
+   "captured_at": "2026-06-10T21:26:54"
+  },
+  {
+   "uuid": "a06adb06-11c9-3a9d-baa9-ae2c357a4c29",
+   "tickers": [
+    "UGI"
+   ],
+   "company": "UGI CORP /PA/",
+   "title": "UGI: What does Argus have to say about UGI?",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/a06adb06-11c9-3a9d-baa9-ae2c357a4c29/ugi%3A-what-does-argus-have-to.html",
+   "published_unix": 1781049600,
+   "captured_at": "2026-06-10T21:26:57"
+  },
+  {
+   "uuid": "f149ee28-b843-3bb0-8b08-bfdb98ed3585",
+   "tickers": [
+    "SEIC"
+   ],
+   "company": "SEI INVESTMENTS CO",
+   "title": "SEIC: Raising target price to $99.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/f149ee28-b843-3bb0-8b08-bfdb98ed3585/seic%3A-raising-target-price-to.html",
+   "published_unix": 1781049600,
+   "captured_at": "2026-06-10T21:26:57"
+  },
+  {
+   "uuid": "0b028a3d-8162-3330-a8cb-c0ff2a6eb07e",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores, Inc.",
+   "title": "BURL: Raising target price to $341.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/0b028a3d-8162-3330-a8cb-c0ff2a6eb07e/burl%3A-raising-target-price-to.html",
+   "published_unix": 1781049600,
+   "captured_at": "2026-06-10T21:26:58"
+  },
+  {
+   "uuid": "61edcd3e-6b9f-3802-9ce3-42bb248caac9",
+   "tickers": [
+    "HRMY"
+   ],
+   "company": "Harmony Biosciences Holdings, Inc.",
+   "title": "HRMY: Raising target price to $36.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/61edcd3e-6b9f-3802-9ce3-42bb248caac9/hrmy%3A-raising-target-price-to.html",
+   "published_unix": 1781049600,
+   "captured_at": "2026-06-10T21:26:59"
+  },
+  {
+   "uuid": "698e09e3-a254-313e-9e53-93d65b082952",
+   "tickers": [
+    "CRS"
+   ],
+   "company": "CARPENTER TECHNOLOGY CORP",
+   "title": "CRS: Raising target price to $595.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/698e09e3-a254-313e-9e53-93d65b082952/crs%3A-raising-target-price-to.html",
+   "published_unix": 1781049600,
+   "captured_at": "2026-06-10T21:27:00"
+  },
+  {
+   "uuid": "1a7c32eb-59ce-3097-9902-82bc5e967e17",
+   "tickers": [
+    "WST"
+   ],
+   "company": "WEST PHARMACEUTICAL SERVICES INC",
+   "title": "WST: Raising target price to $368.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/1a7c32eb-59ce-3097-9902-82bc5e967e17/wst%3A-raising-target-price-to.html",
+   "published_unix": 1781049600,
+   "captured_at": "2026-06-10T21:27:01"
+  },
+  {
+   "uuid": "ff0a6176-36cc-31cc-917c-fc8d21189f33",
+   "tickers": [
+    "GMED"
+   ],
+   "company": "GLOBUS MEDICAL INC",
+   "title": "GMED: Raising target price to $91.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/ff0a6176-36cc-31cc-917c-fc8d21189f33/gmed%3A-raising-target-price-to.html",
+   "published_unix": 1781049600,
+   "captured_at": "2026-06-10T21:27:01"
+  },
+  {
+   "uuid": "92117feb-c119-3a88-a9a5-642b7104f942",
+   "tickers": [
+    "CUBE"
+   ],
+   "company": "CubeSmart",
+   "title": "CUBE: Raising target price to $46.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/92117feb-c119-3a88-a9a5-642b7104f942/cube%3A-raising-target-price-to.html",
+   "published_unix": 1781049600,
+   "captured_at": "2026-06-10T21:27:01"
+  },
+  {
+   "uuid": "8571fb5e-2058-3396-920b-1ceb4f4629f4",
+   "tickers": [
+    "VSNT"
+   ],
+   "company": "Versant Media Group, Inc.",
+   "title": "VSNT: Lowering target price to $43.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/8571fb5e-2058-3396-920b-1ceb4f4629f4/vsnt%3A-lowering-target-price.html",
+   "published_unix": 1781049600,
+   "captured_at": "2026-06-10T21:27:02"
+  },
+  {
+   "uuid": "f8906f9d-71c1-30c2-a08a-6fdbef02995f",
+   "tickers": [
+    "TFX"
+   ],
+   "company": "TELEFLEX INC",
+   "title": "TFX: Raising target price to $143.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/f8906f9d-71c1-30c2-a08a-6fdbef02995f/tfx%3A-raising-target-price-to.html",
+   "published_unix": 1781049600,
+   "captured_at": "2026-06-10T21:27:02"
+  },
+  {
+   "uuid": "f94a7127-39aa-3b75-b2fa-a53ce9386123",
+   "tickers": [
+    "AVTR"
+   ],
+   "company": "Avantor, Inc.",
+   "title": "AVTR: What does Argus have to say about AVTR?",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/f94a7127-39aa-3b75-b2fa-a53ce9386123/avtr%3A-what-does-argus-have-to.html",
+   "published_unix": 1781049600,
+   "captured_at": "2026-06-10T21:27:02"
+  },
+  {
+   "uuid": "4ae4f332-b02e-34ed-8f65-30e5b6e39a53",
+   "tickers": [
+    "EPAM"
+   ],
+   "company": "EPAM Systems, Inc.",
+   "title": "EPAM: Lowering target price to $91.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/4ae4f332-b02e-34ed-8f65-30e5b6e39a53/epam%3A-lowering-target-price.html",
+   "published_unix": 1781049600,
+   "captured_at": "2026-06-10T21:27:03"
+  },
+  {
+   "uuid": "5aacb8a5-3fe1-3716-85f8-d01cc2f05867",
+   "tickers": [
+    "HLNE"
+   ],
+   "company": "Hamilton Lane INC",
+   "title": "HLNE: Lowering target price to $89.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/5aacb8a5-3fe1-3716-85f8-d01cc2f05867/hlne%3A-lowering-target-price.html",
+   "published_unix": 1781049600,
+   "captured_at": "2026-06-10T21:27:03"
+  },
+  {
+   "uuid": "511e6b39-8710-3218-b099-aacecedb2ee6",
+   "tickers": [
+    "DORM"
+   ],
+   "company": "Dorman Products, Inc.",
+   "title": "DORM: Raising target price to $122.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/511e6b39-8710-3218-b099-aacecedb2ee6/dorm%3A-raising-target-price-to.html",
+   "published_unix": 1781049600,
+   "captured_at": "2026-06-10T21:27:04"
+  },
+  {
+   "uuid": "88a32f22-0848-3b5c-b880-ace3da829f91",
+   "tickers": [
+    "KWR"
+   ],
+   "company": "QUAKER CHEMICAL CORP",
+   "title": "KWR: Lowering target price to $122.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/88a32f22-0848-3b5c-b880-ace3da829f91/kwr%3A-lowering-target-price-to.html",
+   "published_unix": 1781049600,
+   "captured_at": "2026-06-10T21:27:05"
+  },
+  {
+   "uuid": "ac8058e2-2513-33e7-a4b9-9a9a61e8f7f9",
+   "tickers": [
+    "AHCO"
+   ],
+   "company": "AdaptHealth Corp.",
+   "title": "AHCO: What does Argus have to say about AHCO?",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/ac8058e2-2513-33e7-a4b9-9a9a61e8f7f9/ahco%3A-what-does-argus-have-to.html",
+   "published_unix": 1781049600,
+   "captured_at": "2026-06-10T21:27:07"
+  },
+  {
+   "uuid": "a5982c52-797c-35ff-806b-b7ddebf13524",
+   "tickers": [
+    "JJSF"
+   ],
+   "company": "J&J SNACK FOODS CORP",
+   "title": "JJSF: Raising target price to $73.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/a5982c52-797c-35ff-806b-b7ddebf13524/jjsf%3A-raising-target-price-to.html",
+   "published_unix": 1781049600,
+   "captured_at": "2026-06-10T21:27:08"
+  },
+  {
+   "uuid": "a920369c-2977-36ac-8afe-994dbcbd54ad",
+   "tickers": [
+    "HCSG"
+   ],
+   "company": "HEALTHCARE SERVICES GROUP INC",
+   "title": "HCSG: Raising target price to $22.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/a920369c-2977-36ac-8afe-994dbcbd54ad/hcsg%3A-raising-target-price-to.html",
+   "published_unix": 1781049600,
+   "captured_at": "2026-06-10T21:27:08"
+  },
+  {
+   "uuid": "edb37130-7f91-3a15-8800-b3d975fe3889",
+   "tickers": [
+    "CERT"
+   ],
+   "company": "Certara, Inc.",
+   "title": "CERT: Lowering target price to $4.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/edb37130-7f91-3a15-8800-b3d975fe3889/cert%3A-lowering-target-price.html",
+   "published_unix": 1781049600,
+   "captured_at": "2026-06-10T21:27:11"
+  },
+  {
+   "uuid": "203e0585-1b88-31a7-8683-b650d25b3e86",
+   "tickers": [
+    "UHT"
+   ],
+   "company": "UNIVERSAL HEALTH REALTY INCOME TRUST",
+   "title": "UHT: Lowering target price to $38.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/203e0585-1b88-31a7-8683-b650d25b3e86/uht%3A-lowering-target-price-to.html",
+   "published_unix": 1781049600,
+   "captured_at": "2026-06-10T21:27:12"
   },
   {
    "uuid": "2b3a00b0-7cf9-3484-91b6-6cb627647838",
@@ -600,126 +1020,6 @@
    "link": "https://finance.yahoo.com/sectors/healthcare/articles/gilead-merck-hiv-combination-meets-214401455.html",
    "published_unix": 1780955041,
    "captured_at": "2026-06-08T22:43:06"
-  },
-  {
-   "uuid": "c4431083-ea46-3f79-a0ef-f43dba161c13",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Merck, Gilead Discontinue Phase 3 Trial of Trodelvy, Keytruda to Treat Lung Cancer",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/merck-gilead-discontinue-phase-3-204842957.html",
-   "published_unix": 1780951722,
-   "captured_at": "2026-06-08T22:43:06"
-  },
-  {
-   "uuid": "ef91dad7-d1e8-30ce-990a-9e695d237ee2",
-   "tickers": [
-    "FSK"
-   ],
-   "company": "FS KKR Capital Corp",
-   "title": "FS KKR Capital Closes $900 Million Notes Offering",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/fs-kkr-capital-closes-900-204248359.html",
-   "published_unix": 1780951368,
-   "captured_at": "2026-06-08T22:42:31"
-  },
-  {
-   "uuid": "cafedf63-28ba-389e-897d-7219302a09e4",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Gilead and Merck Announce Positive Topline Results From Two Phase 3 Studies Evaluating Islatravir/Lenacapavir, an Oral Once-Weekly HIV Treatment",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/gilead-merck-announce-positive-topline-203500265.html",
-   "published_unix": 1780950900,
-   "captured_at": "2026-06-08T22:43:06"
-  },
-  {
-   "uuid": "7643735e-a3a6-3808-a139-8ef67bb68bb1",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Merck and Gilead Provide Update on Phase 3 KEYNOTE-D46/EVOKE-03 Study",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/merck-gilead-phase-3-keynote-203000594.html",
-   "published_unix": 1780950600,
-   "captured_at": "2026-06-08T22:43:06"
-  },
-  {
-   "uuid": "694cd1ea-c8fe-3a3f-86ed-90c483f88c42",
-   "tickers": [
-    "FSK"
-   ],
-   "company": "FS KKR Capital Corp",
-   "title": "FSK Completes Public Offering of $900,000,000 7.500% Unsecured Notes Due 2031",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/fsk-completes-public-offering-900-202000925.html",
-   "published_unix": 1780950000,
-   "captured_at": "2026-06-08T20:29:41"
-  },
-  {
-   "uuid": "2cb16817-6387-3b1b-ba94-563bec783f00",
-   "tickers": [
-    "MLYS"
-   ],
-   "company": "Mineralys Therapeutics, Inc.",
-   "title": "Mineralys Therapeutics to Participate in the Goldman Sachs 47th Annual Global Healthcare Conference",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/mineralys-therapeutics-participate-goldman-sachs-200500203.html",
-   "published_unix": 1780949100,
-   "captured_at": "2026-06-08T20:29:42"
-  },
-  {
-   "uuid": "a91c3148-1602-3383-9aa4-68096220f9f3",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "CAMPBELL'S Co",
-   "title": "Analyst Report: The Campbell's Company",
-   "publisher": "Morningstar Research",
-   "link": "https://finance.yahoo.com/m/a91c3148-1602-3383-9aa4-68096220f9f3/analyst-report%3A-the.html",
-   "published_unix": 1780946052,
-   "captured_at": "2026-06-08T22:42:22"
-  },
-  {
-   "uuid": "5a720df2-7c03-3392-8844-f63d4c370df4",
-   "tickers": [
-    "HSY"
-   ],
-   "company": "HERSHEY CO",
-   "title": "Analyst Report: Hershey Co/The",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/5a720df2-7c03-3392-8844-f63d4c370df4/analyst-report%3A-hershey-co%2Fthe.html",
-   "published_unix": 1780943646,
-   "captured_at": "2026-06-08T20:30:06"
-  },
-  {
-   "uuid": "0b7fa2f1-7d4e-3d7b-bc00-0a04fe2c26af",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers Announces Grand Opening of Four New Model Homes at Outlook at The Station in Sunnyvale, California",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-announces-grand-opening-182700189.html",
-   "published_unix": 1780943220,
-   "captured_at": "2026-06-08T20:29:32"
-  },
-  {
-   "uuid": "0462050c-963b-32a9-8470-ff850ef89532",
-   "tickers": [
-    "HSY"
-   ],
-   "company": "HERSHEY CO",
-   "title": "Market Update: HSY, MET, PPG, SHEL, URI",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/0462050c-963b-32a9-8470-ff850ef89532/market-update%3A-hsy%2C-met%2C-ppg%2C.html",
-   "published_unix": 1780942746,
-   "captured_at": "2026-06-08T20:30:06"
   }
  ]
 }
