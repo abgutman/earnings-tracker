@@ -1,6 +1,18 @@
 {
- "generated_at": "2026-06-11T21:26:03+00:00",
+ "generated_at": "2026-06-11T23:41:06+00:00",
  "items": [
+  {
+   "uuid": "37771aba-ba47-34ea-bfb1-70cd47da936b",
+   "tickers": [
+    "UHS"
+   ],
+   "company": "UNIVERSAL HEALTH SERVICES INC",
+   "title": "Is HCA Healthcare Stock A Trap Or A Missed Opportunity?",
+   "publisher": "Trefis",
+   "link": "https://finance.yahoo.com/m/37771aba-ba47-34ea-bfb1-70cd47da936b/is-hca-healthcare-stock-a.html",
+   "published_unix": 1781219059,
+   "captured_at": "2026-06-11T23:40:20"
+  },
   {
    "uuid": "cd3ccac6-8565-3111-97e5-1fdbde00fee5",
    "tickers": [
@@ -816,18 +828,6 @@
    "link": "https://finance.yahoo.com/m/203e0585-1b88-31a7-8683-b650d25b3e86/uht%3A-lowering-target-price-to.html",
    "published_unix": 1781049600,
    "captured_at": "2026-06-10T21:27:12"
-  },
-  {
-   "uuid": "2b3a00b0-7cf9-3484-91b6-6cb627647838",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "CAMPBELL'S Co",
-   "title": "The Spill \u2013 Campbell\u2019s (CPB): The Only Grower Nobody Wants",
-   "publisher": "IPO-Edge.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/spill-campbell-cpb-only-grower-221126476.html",
-   "published_unix": 1781043086,
-   "captured_at": "2026-06-09T23:20:15"
   }
  ]
 }
