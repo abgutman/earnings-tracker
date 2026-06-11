@@ -1,6 +1,174 @@
 {
- "generated_at": "2026-06-11T02:36:13+00:00",
+ "generated_at": "2026-06-11T14:43:36+00:00",
  "items": [
+  {
+   "uuid": "836cc923-718e-37c5-ba58-038bc8d51770",
+   "tickers": [
+    "SEIC"
+   ],
+   "company": "SEI INVESTMENTS CO",
+   "title": "Sei Investments Insider Sold Shares Worth $452,500, According to a Recent SEC Filing",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/sei-investments-insider-sold-shares-142603119.html",
+   "published_unix": 1781187963,
+   "captured_at": "2026-06-11T14:42:58"
+  },
+  {
+   "uuid": "1f4dbafb-d37e-389b-b562-b7ff04aa2ddb",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Comcast Business Makes Cybersecurity Simple for Small Businesses with Nationwide Launch of SecurityEdge\u2122 Preferred",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/sectors/technology/articles/comcast-business-makes-cybersecurity-simple-140000093.html",
+   "published_unix": 1781186400,
+   "captured_at": "2026-06-11T14:42:50"
+  },
+  {
+   "uuid": "2cb8cf70-796c-31f7-b957-44f3b256f213",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Johnson & Johnson Reports Strong Late-Stage Results for Rare Blood Disorder Therapy (JNJ)",
+   "publisher": "InvestorsHub",
+   "link": "https://finance.yahoo.com/m/2cb8cf70-796c-31f7-b957-44f3b256f213/johnson-%26-johnson-reports.html",
+   "published_unix": 1781181616,
+   "captured_at": "2026-06-11T14:43:35"
+  },
+  {
+   "uuid": "08e2abd0-3470-3277-994d-9d3cd1159c84",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Oppenheimer Adjusts Aramark Price Target to $60 From $50, Maintains Outperform Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-adjusts-aramark-price-target-123831277.html",
+   "published_unix": 1781181511,
+   "captured_at": "2026-06-11T14:42:51"
+  },
+  {
+   "uuid": "8a31a773-411c-3fd3-b16b-519e8ab46a43",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "BofA Securities Adjusts American Water Works Price Target to $133 From $134",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-securities-adjusts-american-water-123806391.html",
+   "published_unix": 1781181486,
+   "captured_at": "2026-06-11T14:43:00"
+  },
+  {
+   "uuid": "11e8b029-da92-3a2b-922c-184f4330fa99",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Comcast to Host Second Quarter 2026 Earnings Conference Call",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-host-second-quarter-2026-123000214.html",
+   "published_unix": 1781181000,
+   "captured_at": "2026-06-11T14:42:50"
+  },
+  {
+   "uuid": "306129d5-7eaa-3fac-a3de-b1a0de662752",
+   "tickers": [
+    "UIS"
+   ],
+   "company": "UNISYS CORP",
+   "title": "Unisys Earns 2026 Global Alliances Americas Data Center Partner of the Year from Dell Technologies",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/sectors/technology/articles/unisys-earns-2026-global-alliances-123000016.html",
+   "published_unix": 1781181000,
+   "captured_at": "2026-06-11T14:42:57"
+  },
+  {
+   "uuid": "1ecf1ca3-1e48-379b-ac0c-82a6d78f1af5",
+   "tickers": [
+    "HRMY"
+   ],
+   "company": "Harmony Biosciences Holdings, Inc.",
+   "title": "Harmony Biosciences Announces Poster Presentations at 2026 SLEEP Annual Meeting",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/harmony-biosciences-announces-poster-presentations-120500839.html",
+   "published_unix": 1781179500,
+   "captured_at": "2026-06-11T14:43:02"
+  },
+  {
+   "uuid": "35ac44d1-2fe4-3165-aa74-23d1488bfb43",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Johnson & Johnson Expands U.S. Availability of TECNIS PureSee IOL, an Advanced Lens Option for Cataract Surgeons and Patients",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/johnson-johnson-expands-u-availability-114500019.html",
+   "published_unix": 1781178300,
+   "captured_at": "2026-06-11T14:43:35"
+  },
+  {
+   "uuid": "1ea00bef-14a0-3b3a-89de-b3923cdf94ed",
+   "tickers": [
+    "PPL"
+   ],
+   "company": "PPL Corp",
+   "title": "Market Digest: RY, AAP, AZO, PPL, UNP, DASH",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/1ea00bef-14a0-3b3a-89de-b3923cdf94ed/market-digest%3A-ry%2C-aap%2C-azo%2C.html",
+   "published_unix": 1781176044,
+   "captured_at": "2026-06-11T14:43:35"
+  },
+  {
+   "uuid": "0f567b0c-13a9-3e4b-8881-8a2e361480ef",
+   "tickers": [
+    "PPL"
+   ],
+   "company": "PPL Corp",
+   "title": "Analyst Report: PPL Corp",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/0f567b0c-13a9-3e4b-8881-8a2e361480ef/analyst-report%3A-ppl-corp.html",
+   "published_unix": 1781176044,
+   "captured_at": "2026-06-11T14:43:35"
+  },
+  {
+   "uuid": "2af8cc6b-d5c9-39e7-8b93-7630af656386",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Merck to Acquire Poultry Biodevice Firm Targan to Expand Animal Health Tech",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/merck-acquire-poultry-biodevice-firm-105553918.html",
+   "published_unix": 1781175353,
+   "captured_at": "2026-06-11T14:43:36"
+  },
+  {
+   "uuid": "79f7176b-a02f-3f67-8499-5ecf99482769",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Merck Animal Health to Acquire TARGAN",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/merck-animal-health-acquire-targan-104500863.html",
+   "published_unix": 1781174700,
+   "captured_at": "2026-06-11T14:43:36"
+  },
+  {
+   "uuid": "85ba2a28-7dbc-3118-b4d2-7520b555541f",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC CORP",
+   "title": "RBC Cuts Price Target on FMC to $14 From $17, Keeps Sector Perform Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-cuts-price-target-fmc-104144730.html",
+   "published_unix": 1781174504,
+   "captured_at": "2026-06-11T14:42:51"
+  },
   {
    "uuid": "97690091-0796-39d5-9109-cf89c7fbf154",
    "tickers": [
@@ -744,258 +912,6 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/campbell-apos-demand-cost-pressures-152049700.html",
    "published_unix": 1781018449,
    "captured_at": "2026-06-09T16:33:40"
-  },
-  {
-   "uuid": "f652517b-6ef5-38bf-9243-17350dd74ca7",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Comcast to Expand Broadband Network in Wisconsin",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/sectors/technology/articles/comcast-expand-broadband-network-wisconsin-135414156.html",
-   "published_unix": 1781013254,
-   "captured_at": "2026-06-09T16:33:30"
-  },
-  {
-   "uuid": "bba6105b-9c7f-39ec-ac34-464ecf937488",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers upgraded, Lennar downgraded: Wall Street's top analyst calls",
-   "publisher": "The Fly",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-upgraded-lennar-downgraded-133255377.html",
-   "published_unix": 1781011975,
-   "captured_at": "2026-06-09T13:46:27"
-  },
-  {
-   "uuid": "819dda48-8dc0-3b79-8f8c-54a4df795d31",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Comcast Advertising and Affinity Solutions Bring Purchase-Based Precision to TV Advertising",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-advertising-affinity-solutions-bring-131100694.html",
-   "published_unix": 1781010660,
-   "captured_at": "2026-06-09T13:46:18"
-  },
-  {
-   "uuid": "b6128aad-ac65-3fa4-a369-932d9d8cfb94",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Comcast to Expand Reliable, High-Speed Internet to More Areas in Manitowoc and St. Croix County, Wisconsin",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/sectors/technology/articles/comcast-expand-reliable-high-speed-130000277.html",
-   "published_unix": 1781010000,
-   "captured_at": "2026-06-09T13:46:18"
-  },
-  {
-   "uuid": "0d975ef4-b72f-32cd-aec0-d47372aa5972",
-   "tickers": [
-    "SEIC"
-   ],
-   "company": "SEI INVESTMENTS CO",
-   "title": "SEI Names Sneha Shah Chief AI Strategist, Expands Enterprise AI and Data Leadership",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/sectors/technology/articles/sei-names-sneha-shah-chief-130000097.html",
-   "published_unix": 1781010000,
-   "captured_at": "2026-06-09T13:46:29"
-  },
-  {
-   "uuid": "eab54d1e-5d01-3a04-b82b-4806438bbaf3",
-   "tickers": [
-    "DD"
-   ],
-   "company": "DuPont de Nemours, Inc.",
-   "title": "DuPont\u2122 MemCor\u2122 MBR system selected for major Riverstone Water Resource Recovery Facility upgrade in Australia",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/sectors/technology/articles/dupont-memcor-mbr-system-selected-130000502.html",
-   "published_unix": 1781010000,
-   "captured_at": "2026-06-09T13:47:12"
-  },
-  {
-   "uuid": "e86cc941-aa57-3985-98d8-448310d73b00",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Merck, Gilead report mixed outcomes in key lung cancer, HIV studies",
-   "publisher": "BioPharma Dive",
-   "link": "https://finance.yahoo.com/m/e86cc941-aa57-3985-98d8-448310d73b00/merck%2C-gilead-report-mixed.html",
-   "published_unix": 1781007660,
-   "captured_at": "2026-06-09T19:20:24"
-  },
-  {
-   "uuid": "c669612c-7415-3720-8118-bd008cbd426b",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "CAMPBELL'S Co",
-   "title": "UBS Adjusts Price Target on Campbell's to $17 From $19, Maintains Sell Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-price-target-campbell-113953732.html",
-   "published_unix": 1781005193,
-   "captured_at": "2026-06-09T13:46:29"
-  },
-  {
-   "uuid": "89c9a5aa-8823-3e21-a71b-cd910a875396",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "CAMPBELL'S Co",
-   "title": "BNP Paribas Trims Price Target on Campbell's to $14 From $15, Maintains Underperform Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-trims-price-target-112153993.html",
-   "published_unix": 1781004113,
-   "captured_at": "2026-06-09T13:46:29"
-  },
-  {
-   "uuid": "d196c00f-1ab0-3f4f-8655-380506271adf",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Keefe Bruyette & Woods Upgrades Toll Brothers to Outperform From Market Perform, Lifts Price Target to $161 From $158",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/keefe-bruyette-woods-upgrades-toll-112105446.html",
-   "published_unix": 1781004065,
-   "captured_at": "2026-06-09T13:46:27"
-  },
-  {
-   "uuid": "1ef7e30e-69d7-38db-a033-218a9458429b",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "CAMPBELL'S Co",
-   "title": "Deutsche Bank Adjusts Campbell's Price Target to $19 From $20, Maintains Hold Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-adjusts-campbell-apos-110643707.html",
-   "published_unix": 1781003203,
-   "captured_at": "2026-06-09T13:46:29"
-  },
-  {
-   "uuid": "ea73e8a1-706f-33e0-bdac-e4789d4a98f9",
-   "tickers": [
-    "TFX"
-   ],
-   "company": "TELEFLEX INC",
-   "title": "Teleflex Says Study Shows No New Cardiac Events at 4 Years for Freesolve Scaffold",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/teleflex-says-study-shows-no-110633662.html",
-   "published_unix": 1781003193,
-   "captured_at": "2026-06-09T13:46:35"
-  },
-  {
-   "uuid": "2914ccfd-8ae2-3542-b50f-2f29f16f1c7a",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "CAMPBELL'S Co",
-   "title": "RBC Trims Price Target on Campbell's to $21 From $23, Keeps Sector Perform Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-trims-price-target-campbell-110338109.html",
-   "published_unix": 1781003018,
-   "captured_at": "2026-06-09T13:46:29"
-  },
-  {
-   "uuid": "408f0ea6-c760-3126-aa3c-e4bd05e708d8",
-   "tickers": [
-    "WST"
-   ],
-   "company": "WEST PHARMACEUTICAL SERVICES INC",
-   "title": "Barclays Upgrades West Pharmaceutical Services to Overweight From Equalweight, Adjusts PT to $400 From $310",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-upgrades-west-pharmaceutical-services-102727713.html",
-   "published_unix": 1781000847,
-   "captured_at": "2026-06-09T13:46:33"
-  },
-  {
-   "uuid": "5e49b5c0-9f8b-3272-8484-5e9565122c5f",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "CAMPBELL'S Co",
-   "title": "Evercore ISI Adjusts Price Target on Campbell's to $23 From $24, Maintains In Line Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/evercore-isi-adjusts-price-target-095307567.html",
-   "published_unix": 1780998787,
-   "captured_at": "2026-06-09T13:46:29"
-  },
-  {
-   "uuid": "5e260c91-1e7e-3acc-ab11-85b12a82fb89",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "CAMPBELL'S Co",
-   "title": "JPMorgan Adjusts Price Target on Campbell's to $20 From $21, Maintains Neutral Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-adjusts-price-target-campbell-092731832.html",
-   "published_unix": 1780997251,
-   "captured_at": "2026-06-09T13:46:29"
-  },
-  {
-   "uuid": "e4d82883-8924-39b5-a729-527043d7b75d",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "CAMPBELL'S Co",
-   "title": "Bernstein Adjusts Price Target on Campbell's to $18 From $19, Maintains Underperform Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bernstein-adjusts-price-target-campbell-092723425.html",
-   "published_unix": 1780997243,
-   "captured_at": "2026-06-09T13:46:29"
-  },
-  {
-   "uuid": "72361419-f02e-3784-82e4-5acb9eb5abcd",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "CAMPBELL'S Co",
-   "title": "Jefferies Adjusts Price Target on Campbell's to $20 From $19, Maintains Hold Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-adjusts-price-target-campbell-092716073.html",
-   "published_unix": 1780997236,
-   "captured_at": "2026-06-09T13:46:29"
-  },
-  {
-   "uuid": "1b464dbd-74db-39e1-9342-eb822902e7d7",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "CAMPBELL'S Co",
-   "title": "CPB Stock Slips Premarket After Earnings \u2013 But Retail Still Sees Campbell\u2019s As A 'Defensive Play'",
-   "publisher": "Stocktwits",
-   "link": "https://finance.yahoo.com/m/1b464dbd-74db-39e1-9342-eb822902e7d7/cpb-stock-slips-premarket.html",
-   "published_unix": 1780995976,
-   "captured_at": "2026-06-09T13:46:29"
-  },
-  {
-   "uuid": "18faf1d7-1465-3c22-85ba-a1370038f838",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "The Hashgraph Group and Merck Introduce EU Digital Product Passport on Hedera for Regulated Supply Chains",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/sectors/technology/articles/hashgraph-group-merck-introduce-eu-074400010.html",
-   "published_unix": 1780991040,
-   "captured_at": "2026-06-09T13:47:12"
-  },
-  {
-   "uuid": "3915a01f-22da-33cc-ab8a-b0dc420c0f31",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "LEN Vs. TOL: Wall Street Analyst Picks Home Builder Stock With Greater Upside",
-   "publisher": "Stocktwits",
-   "link": "https://finance.yahoo.com/m/3915a01f-22da-33cc-ab8a-b0dc420c0f31/len-vs.-tol%3A-wall-street.html",
-   "published_unix": 1780981142,
-   "captured_at": "2026-06-09T13:46:27"
   }
  ]
 }
