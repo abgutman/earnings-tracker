@@ -1,6 +1,78 @@
 {
- "generated_at": "2026-06-11T14:43:36+00:00",
+ "generated_at": "2026-06-11T18:20:28+00:00",
  "items": [
+  {
+   "uuid": "07c5e083-f8bd-3b6a-95eb-4988ff1d060f",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Why Did Wall Street Misprice JNJ Stock?",
+   "publisher": "Trefis",
+   "link": "https://finance.yahoo.com/m/07c5e083-f8bd-3b6a-95eb-4988ff1d060f/why-did-wall-street-misprice.html",
+   "published_unix": 1781200983,
+   "captured_at": "2026-06-11T18:20:27"
+  },
+  {
+   "uuid": "95353ea1-9d2b-3343-b056-2bc8675b8758",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "American Water Launches 2026 Flow Forward Summer Camp Program to Help Teens Explore the Water Industry Workforce",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/sectors/energy/articles/american-water-launches-2026-flow-165400272.html",
+   "published_unix": 1781196840,
+   "captured_at": "2026-06-11T18:19:53"
+  },
+  {
+   "uuid": "21bbf052-a9cb-31c4-ac8b-0b4b23405e0d",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores, Inc.",
+   "title": "Burlington Stores Poised for Market Share Gains, UBS Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/burlington-stores-poised-market-share-153310179.html",
+   "published_unix": 1781191990,
+   "captured_at": "2026-06-11T18:19:53"
+  },
+  {
+   "uuid": "7f7eab92-3d44-3e25-994a-7a6a07214ddf",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Toll Brothers Announces Last Chance to Buy a New Luxury Home at Venado Valley in Carson City, Nevada",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-announces-last-chance-153100112.html",
+   "published_unix": 1781191860,
+   "captured_at": "2026-06-11T18:19:51"
+  },
+  {
+   "uuid": "57a2563b-bf28-36e0-b16e-031ca843948d",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Toll Brothers at Landmark Community Now Open in Denton, Texas",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-landmark-community-now-153000713.html",
+   "published_unix": 1781191800,
+   "captured_at": "2026-06-11T18:19:51"
+  },
+  {
+   "uuid": "db3f143f-46ef-3d72-b41f-e3f8711ebc50",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark's Data Center Opportunity Could be Larger than Expected, Oppenheimer Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-apos-data-center-opportunity-150421848.html",
+   "published_unix": 1781190261,
+   "captured_at": "2026-06-11T18:19:45"
+  },
   {
    "uuid": "836cc923-718e-37c5-ba58-038bc8d51770",
    "tickers": [
@@ -852,66 +924,6 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-announces-model-home-183400319.html",
    "published_unix": 1781030040,
    "captured_at": "2026-06-09T19:19:42"
-  },
-  {
-   "uuid": "95c13add-681d-33d4-b34a-6a3c8a2bea3d",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers Announces Final Opportunity to Own a New Luxury Home at Toll Brothers at Skye Canyon - Paloma Collection in Las Vegas, Nevada",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-announces-final-opportunity-181700457.html",
-   "published_unix": 1781029020,
-   "captured_at": "2026-06-09T19:19:42"
-  },
-  {
-   "uuid": "ee67ffda-bb93-38f1-aa6c-a93ad003dc84",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "CAMPBELL'S Co",
-   "title": "Campbell's Snacks Business Turnaround to Take Time Amid Demand Headwinds, RBC Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/campbell-apos-snacks-business-turnaround-172833426.html",
-   "published_unix": 1781026113,
-   "captured_at": "2026-06-09T19:19:45"
-  },
-  {
-   "uuid": "f35434f3-f340-352d-b9de-84f4be291523",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "CAMPBELL'S Co",
-   "title": "Campbell's Could See Challenging Fiscal 2027 Amid Inflation, Pricing Pressures, UBS Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/campbell-apos-could-see-challenging-155749241.html",
-   "published_unix": 1781020669,
-   "captured_at": "2026-06-09T16:33:40"
-  },
-  {
-   "uuid": "1e755e4a-afb0-309c-9f51-4df778c5cf21",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "CAMPBELL'S Co",
-   "title": "Update: RBC Trims Price Target on Campbell's to $21 From $23, Keeps Sector Perform Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-trims-price-target-campbell-153526513.html",
-   "published_unix": 1781019326,
-   "captured_at": "2026-06-09T16:33:40"
-  },
-  {
-   "uuid": "4f692b91-5841-3289-81ee-e5300afb6004",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "CAMPBELL'S Co",
-   "title": "Campbell's Demand, Cost Pressures Likely to Persist, RBC Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/campbell-apos-demand-cost-pressures-152049700.html",
-   "published_unix": 1781018449,
-   "captured_at": "2026-06-09T16:33:40"
   }
  ]
 }
