@@ -1,6 +1,30 @@
 {
- "generated_at": "2026-06-12T17:40:29+00:00",
+ "generated_at": "2026-06-12T20:17:51+00:00",
  "items": [
+  {
+   "uuid": "f5244518-4919-31e6-bd62-5c20b1a7890b",
+   "tickers": [
+    "VLGEA"
+   ],
+   "company": "VILLAGE SUPER MARKET INC",
+   "title": "Village Super Market, Inc. Declares Quarterly Dividend",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/village-super-market-inc-declares-195100575.html",
+   "published_unix": 1781293860,
+   "captured_at": "2026-06-12T20:17:26"
+  },
+  {
+   "uuid": "18e74c8c-6e28-38f7-aeca-8cfd9f1345a4",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "JNJ Raised the Bar: So Why Is the Stock Standing Still?",
+   "publisher": "Trefis",
+   "link": "https://finance.yahoo.com/m/18e74c8c-6e28-38f7-aeca-8cfd9f1345a4/jnj-raised-the-bar%3A-so-why-is.html",
+   "published_unix": 1781291663,
+   "captured_at": "2026-06-12T20:17:50"
+  },
   {
    "uuid": "61eecd08-b9e9-3d05-840f-7337d7bf8684",
    "tickers": [
@@ -420,18 +444,6 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-announces-final-opportunity-201800824.html",
    "published_unix": 1781122680,
    "captured_at": "2026-06-10T21:26:55"
-  },
-  {
-   "uuid": "e17430d4-1b50-311d-9d9f-e0b69c664840",
-   "tickers": [
-    "UHT"
-   ],
-   "company": "UNIVERSAL HEALTH REALTY INCOME TRUST",
-   "title": "UNIVERSAL HEALTH REALTY INCOME TRUST ANNOUNCES DIVIDEND INCREASE",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/universal-health-realty-income-trust-201500023.html",
-   "published_unix": 1781122500,
-   "captured_at": "2026-06-10T21:27:12"
   }
  ]
 }
