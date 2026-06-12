@@ -1,0 +1,212 @@
+name: Call Capture — Whisper Transcription
+
+# Checks the watchlist twice per weekday. If a call is scheduled in the
+# current window, captures the audio (live or replay), transcribes with
+# faster-whisper, builds a gated HTML page, and commits.
+#
+# Window math (UTC → EDT, UTC-4):
+#   11:00 UTC = 07:00 ET  → 6-hour window covers calls through 12:59 ET
+#   17:00 UTC = 13:00 ET  → 6-hour window covers calls through 18:59 ET
+#
+# The morning run also retries any pending_replay flags from earlier failures.
+# Each run reads upcoming_dates.json ∩ transcript_watchlist.json.
+# No watchlist call in window → exits in seconds.
+#
+# DISCLAIMER: Whisper transcripts are machine-generated. Pages include a
+# prominent disclaimer and "verify quotes before publishing" warning.
+
+on:
+  workflow_dispatch:
+    inputs:
+      ticker:
+        description: 'Ticker to capture (leave blank for scheduled behavior)'
+        required: false
+        default: ''
+      date:
+        description: 'Date YYYY-MM-DD (leave blank for today)'
+        required: false
+        default: ''
+  schedule:
+    - cron: '0 11 * * 1-5'    # 7:00 AM ET (EDT) — morning window
+    - cron: '0 17 * * 1-5'    # 1:00 PM ET (EDT) — afternoon window
+
+permissions:
+  contents: write
+
+jobs:
+  capture:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360   # 6h — allows sleeping until call time + 90min recording
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install faster-whisper
+          # yt-dlp for webcast capture
+          pip install yt-dlp
+          # ffmpeg for HLS fallback
+          sudo apt-get install -y ffmpeg
+
+      - name: Determine run window (UTC hour)
+        id: window
+        run: |
+          echo "run_hour_utc=$(date -u +%H | sed 's/^0//')" >> $GITHUB_OUTPUT
+
+      - name: Check watchlist + upcoming_dates for calls in window
+        id: check
+        run: |
+          python3 - <<'PYEOF'
+          import json, sys, os, re
+          from datetime import date, datetime, timezone, timedelta
+          from pathlib import Path
+
+          ED = Path("earnings_data")
+          watchlist = json.loads((ED / "transcript_watchlist.json").read_text())
+          upcoming_raw = json.loads((ED / "upcoming_dates.json").read_text()) if (ED / "upcoming_dates.json").exists() else {}
+
+          # Accept manual override from workflow_dispatch inputs
+          manual_ticker = os.environ.get("INPUT_TICKER", "").strip()
+          manual_date = os.environ.get("INPUT_DATE", "").strip()
+          if manual_ticker:
+              print(f"::notice::Manual dispatch for {manual_ticker}")
+              with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+                  f.write(f"ticker={manual_ticker}\n")
+                  f.write(f"call_date={manual_date or date.today().isoformat()}\n")
+                  f.write("should_run=true\n")
+              sys.exit(0)
+
+          # Window math: UTC hour → ET (EDT = UTC-4)
+          run_utc = int(os.environ.get("RUN_HOUR_UTC", "0"))
+          run_et = (run_utc - 4) % 24
+          window_end_et = run_et + 6
+          today_iso = date.today().isoformat()
+
+          def call_in_window(call_time_et_str):
+              m = re.match(r"(\d{1,2}):(\d{2})", call_time_et_str or "")
+              if not m: return False
+              call_hour = int(m.group(1))
+              return run_et <= call_hour < window_end_et
+
+          found_ticker = None
+          found_date = None
+          for ticker, wl_entry in watchlist.items():
+              up = upcoming_raw.get(ticker, {})
+              call_date = up.get("call_date") or wl_entry.get("next_call_date")
+              call_time = up.get("call_time") or wl_entry.get("next_call_time", "")
+              if not call_date or call_date != today_iso:
+                  continue
+              if call_in_window(call_time):
+                  found_ticker = ticker
+                  found_date = call_date
+                  break
+
+          # Check pending_replay flags (morning run retries)
+          if not found_ticker and run_et < 12:
+              state_file = ED / "capture_state.json"
+              state = json.loads(state_file.read_text()) if state_file.exists() else {}
+              for ticker, s in state.items():
+                  if s.get("pending_replay") and ticker in watchlist:
+                      if watchlist[ticker].get("replay_url"):
+                          found_ticker = ticker
+                          found_date = s.get("pending_replay_date", today_iso)
+                          print(f"::notice::Retrying pending_replay for {ticker}")
+                          break
+
+          if found_ticker:
+              with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+                  f.write(f"ticker={found_ticker}\n")
+                  f.write(f"call_date={found_date}\n")
+                  f.write("should_run=true\n")
+              print(f"::notice::Will capture {found_ticker} for {found_date}")
+          else:
+              with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+                  f.write("should_run=false\n")
+              print("::notice::No watchlist calls in this window. Exiting.")
+          PYEOF
+        env:
+          INPUT_TICKER: ${{ github.event.inputs.ticker }}
+          INPUT_DATE: ${{ github.event.inputs.date }}
+          RUN_HOUR_UTC: ${{ steps.window.outputs.run_hour_utc }}
+
+      - name: Sleep until 5 min before call time
+        if: steps.check.outputs.should_run == 'true' && github.event.inputs.ticker == ''
+        run: |
+          python3 - <<'PYEOF'
+          import json, re, time, sys
+          from datetime import datetime, timezone, timedelta
+          from pathlib import Path
+
+          ticker = "${{ steps.check.outputs.ticker }}"
+          call_date = "${{ steps.check.outputs.call_date }}"
+          ED = Path("earnings_data")
+          watchlist = json.loads((ED / "transcript_watchlist.json").read_text())
+          upcoming_raw = json.loads((ED / "upcoming_dates.json").read_text()) if (ED / "upcoming_dates.json").exists() else {}
+
+          up = upcoming_raw.get(ticker, {})
+          wl = watchlist.get(ticker, {})
+          call_time_str = up.get("call_time") or wl.get("next_call_time", "")
+          m = re.match(r"(\d{1,2}):(\d{2})", call_time_str or "")
+          if not m:
+              print("No parseable call time — proceeding immediately")
+              sys.exit(0)
+
+          call_h, call_m = int(m.group(1)), int(m.group(2))
+          # Build a naive ET datetime for today
+          ET = timezone(timedelta(hours=-4))
+          now_et = datetime.now(ET)
+          call_dt_et = now_et.replace(hour=call_h, minute=call_m, second=0, microsecond=0)
+          # 5 minutes early
+          target = call_dt_et - timedelta(minutes=5)
+          sleep_secs = (target - now_et).total_seconds()
+          if sleep_secs > 0:
+              print(f"Sleeping {sleep_secs:.0f}s until 5 min before {call_time_str}...")
+              time.sleep(sleep_secs)
+          else:
+              print("Call time already passed or imminent — proceeding")
+          PYEOF
+
+      - name: Capture audio
+        if: steps.check.outputs.should_run == 'true'
+        run: |
+          python3 capture_call.py capture \
+            --ticker "${{ steps.check.outputs.ticker }}" \
+            --date "${{ steps.check.outputs.call_date }}"
+
+      - name: Transcribe with Whisper
+        if: steps.check.outputs.should_run == 'true'
+        run: |
+          python3 capture_call.py transcribe \
+            --ticker "${{ steps.check.outputs.ticker }}" \
+            --date "${{ steps.check.outputs.call_date }}"
+
+      - name: Publish gated HTML page
+        if: steps.check.outputs.should_run == 'true'
+        run: |
+          python3 capture_call.py publish \
+            --ticker "${{ steps.check.outputs.ticker }}" \
+            --date "${{ steps.check.outputs.call_date }}"
+
+      - name: Commit + push if changed
+        if: steps.check.outputs.should_run == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          TICKER="${{ steps.check.outputs.ticker }}"
+          DATE="${{ steps.check.outputs.call_date }}"
+          git add \
+            "transcript_${TICKER}_${DATE}.html" \
+            "earnings_data/transcripts_raw/${TICKER}_${DATE}.txt" \
+            earnings_data/capture_state.json \
+            2>/dev/null || true
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Auto: Whisper transcript ${TICKER} ${DATE}"
+          git pull --rebase origin main
+          git push

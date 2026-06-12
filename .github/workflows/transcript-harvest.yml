@@ -1,0 +1,62 @@
+name: Transcript Harvest — Motley Fool + Yahoo
+
+# Runs 3x/weekday to catch new transcripts as Fool publishes them.
+# Transcripts are typically posted 1–17 hours after the earnings call.
+# Three windows cover: post-morning calls, afternoon batch, Fool's evening batch.
+#
+# COPYRIGHT: This job stores LINKS ONLY — never transcript text.
+# The repo is public; Fool/Insider Monkey text may not be republished here.
+#
+# Cron times (UTC → ET approximations, EDT = UTC-4):
+#   15:00 UTC = 11:00 AM ET  — catches same-day morning-call transcripts
+#   19:00 UTC = 3:00 PM ET   — mid-day batch
+#   23:00 UTC = 7:00 PM ET   — catches Fool's evening posting batch
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 15 * * 1-5'    # 11:00 AM ET (EDT) weekdays
+    - cron: '0 19 * * 1-5'    # 3:00 PM ET (EDT) weekdays
+    - cron: '0 23 * * 1-5'    # 7:00 PM ET (EDT) weekdays
+
+permissions:
+  contents: write
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install curl-cffi (Chrome TLS fingerprint for Fool)
+        run: pip install curl-cffi
+
+      - name: Run transcript harvester
+        run: python poll_fool_transcripts.py
+
+      - name: Rebuild earnings dashboards
+        run: python simple_dashboard.py
+
+      - name: Commit + push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add \
+            earnings_data/transcripts.json \
+            earnings_data/transcripts_log.txt \
+            recent_earnings.html \
+            upcoming_earnings.html \
+            earnings_notes.html \
+            2>/dev/null || true
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Auto: transcript harvest $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git pull --rebase origin main
+          git push

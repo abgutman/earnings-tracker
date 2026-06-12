@@ -21,12 +21,22 @@ ED = HERE / "earnings_data"
 CACHE_FILE = ED / "cache.json"
 UPCOMING_FILE = ED / "upcoming_dates.json"
 COMPANIES_FILE = ED / "expanded_companies.json"
+TRANSCRIPTS_FILE = ED / "transcripts.json"
 
 from auth_gate import inject_auth
 
 cache = json.loads(CACHE_FILE.read_text())
 upcoming_raw = json.loads(UPCOMING_FILE.read_text()) if UPCOMING_FILE.exists() else {}
 companies = json.loads(COMPANIES_FILE.read_text())
+
+# Load transcripts index: {ticker: [{url, source, title, date_str, found_at}, ...]}
+transcripts_index = {}
+if TRANSCRIPTS_FILE.exists():
+    try:
+        _t = json.loads(TRANSCRIPTS_FILE.read_text())
+        transcripts_index = {k: v for k, v in _t.items() if isinstance(v, list) and v}
+    except Exception:
+        pass
 
 company_by_ticker = {}
 for c in companies:
@@ -115,6 +125,17 @@ def render_recent_row(r):
         tenq_link = ' · <span class="tenq-pending">10-Q pending</span>'
     else:
         tenq_link = ""
+    # Transcript link: most recent entry for this ticker, links-only (no text stored)
+    transcript_link = ""
+    t_entries = transcripts_index.get(r["ticker"], [])
+    if t_entries:
+        te = t_entries[0]
+        source_label = esc(te.get("source") or "Transcript")
+        transcript_link = (
+            f' · <a href="{esc(te["url"])}" target="_blank" rel="noopener"'
+            f' class="transcript-link" title="{source_label}">'
+            f'Transcript ({source_label}) ↗</a>'
+        )
     new_badge = '<span class="badge-new">NEW</span> ' if r.get("is_new") else ""
     row_class = "row-new" if r.get("is_new") else ""
     return f"""
@@ -123,7 +144,7 @@ def render_recent_row(r):
       <td class="tk">{esc(r["ticker"])}</td>
       <td class="nm">{esc(r["name"])}</td>
       <td class="type">{type_badge}</td>
-      <td class="links">{filing_link}{tenq_link} · {yahoo_link}</td>
+      <td class="links">{filing_link}{tenq_link} · {yahoo_link}{transcript_link}</td>
     </tr>"""
 
 def build_recent_page():
@@ -424,6 +445,8 @@ tr.row-new td { border-bottom: 1px solid #ffd966; }
 .badge-8k_202 { background: #e8f4fd; color: #1a5c8a; }
 .badge-8k_701 { background: #fff3cd; color: #856404; }
 .badge-10q    { background: #e8f5e9; color: #2e7d32; }
+.transcript-link { color: #5a4e9b; font-weight: 600; }
+.transcript-link:hover { text-decoration: underline; color: #3b3270; }
 </style>"""
 
 # =================== Write files ===================

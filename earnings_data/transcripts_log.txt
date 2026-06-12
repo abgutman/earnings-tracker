@@ -1,0 +1,59 @@
+[2026-06-12 14:11:36] === Fool transcript harvest start (dry_run=True) ===
+[2026-06-12 14:11:36] Loaded 122 tickers from expanded_companies.json
+[2026-06-12 14:11:36] Recent tickers (last filing within 10 days): ['CABA', 'CPB', 'FIVE', 'FSK', 'QNBC', 'UIS', 'URBN', 'VLGEA']
+[2026-06-12 14:11:36] Fetching Fool transcript index...
+[2026-06-12 14:11:36]   Found 20 transcript links on index page
+[2026-06-12 14:11:36]   Fool index matched tickers: []
+[2026-06-12 14:11:36] Trying direct URL construction for 8 recent tickers not on index page...
+[2026-06-12 14:11:36]   Trying direct URL for URBN (last filing: 2026-06-09)
+[2026-06-12 14:11:57]   MISS [Fool/direct] URBN: no URL found
+[2026-06-12 14:11:57]   Trying direct URL for FIVE (last filing: 2026-06-04)
+[2026-06-12 14:12:17]   MISS [Fool/direct] FIVE: no URL found
+[2026-06-12 14:12:18]   Trying direct URL for UIS (last filing: 2026-06-02)
+[2026-06-12 14:12:40]   MISS [Fool/direct] UIS: no URL found
+[2026-06-12 14:12:40]   Trying direct URL for CPB (last filing: 2026-06-08)
+[2026-06-12 14:13:00]   MISS [Fool/direct] CPB: no URL found
+[2026-06-12 14:13:00]   Trying direct URL for FSK (last filing: 2026-06-08)
+[2026-06-12 14:13:19]   MISS [Fool/direct] FSK: no URL found
+[2026-06-12 14:13:20]   Trying direct URL for VLGEA (last filing: 2026-06-03)
+[2026-06-12 14:13:39]   MISS [Fool/direct] VLGEA: no URL found
+[2026-06-12 14:13:40]   Trying direct URL for CABA (last filing: 2026-06-03)
+[2026-06-12 14:14:11]   MISS [Fool/direct] CABA: no URL found
+[2026-06-12 14:14:12]   Trying direct URL for QNBC (last filing: 2026-06-02)
+[2026-06-12 14:14:32]   MISS [Fool/direct] QNBC: no URL found
+[2026-06-12 14:14:33] Yahoo secondary search for 8 tickers still without transcripts: ['CABA', 'CPB', 'FIVE', 'FSK', 'QNBC', 'UIS', 'URBN', 'VLGEA']
+[2026-06-12 14:14:34]   MISS [Yahoo] URBN: no transcript items
+[2026-06-12 14:14:34]   MISS [Yahoo] FIVE: no transcript items
+[2026-06-12 14:14:35]   MISS [Yahoo] UIS: no transcript items
+[2026-06-12 14:14:35]   MISS [Yahoo] CPB: no transcript items
+[2026-06-12 14:14:36]   MISS [Yahoo] FSK: no transcript items
+[2026-06-12 14:14:36]   MISS [Yahoo] VLGEA: no transcript items
+[2026-06-12 14:14:37]   MISS [Yahoo] CABA: no transcript items
+[2026-06-12 14:14:37]   MISS [Yahoo] QNBC: no transcript items
+[2026-06-12 14:14:37] DRY RUN — would have written 0 tickers to transcripts.json
+[2026-06-12 14:14:38] === Done. 0 new transcript links found. ===
+
+[2026-06-12 14:17:23] === Fool transcript harvest start (dry_run=True) ===
+[2026-06-12 14:17:23] Loaded 122 tickers from expanded_companies.json
+[2026-06-12 14:17:23] Recent tickers (last filing within 14d): ['CABA', 'COR', 'CPB', 'CUBE', 'FIVE', 'FSK', 'IRT', 'QNBC', 'TFX', 'TOL', 'UIS', 'URBN', 'VLGEA', 'WST']
+[2026-06-12 14:17:23] Seed backfill: added 2 entries from transcript_seeds.json
+[2026-06-12 14:17:23] Fetching Fool transcript index: https://www.fool.com/earnings-call-transcripts/
+[2026-06-12 14:17:24]   fetch_html https://www.fool.com/earnings-call-transcripts/: HTTP 429
+[2026-06-12 14:17:24]   WARNING: Could not fetch Fool index (rate-limited or network error)
+[2026-06-12 14:17:24]   Fool index matched tickers: []
+[2026-06-12 14:17:24] Yahoo secondary search for 12 tickers: ['CABA', 'COR', 'CUBE', 'FSK', 'IRT', 'QNBC', 'TFX', 'TOL', 'UIS', 'URBN', 'VLGEA', 'WST']
+[2026-06-12 14:17:24]   MISS [Yahoo] CABA: no transcript items in feed
+[2026-06-12 14:17:25]   MISS [Yahoo] COR: no transcript items in feed
+[2026-06-12 14:17:26]   NEW [Yahoo] CUBE: https://finance.yahoo.com/m/f15f512a-1589-380a-8c5e-9b2bc27708a0/cubesmart-%28cube%29-q2-2025.html (Motley Fool)
+[2026-06-12 14:17:26]   MISS [Yahoo] FSK: no transcript items in feed
+[2026-06-12 14:17:27]   MISS [Yahoo] IRT: no transcript items in feed
+[2026-06-12 14:17:27]   MISS [Yahoo] QNBC: no transcript items in feed
+[2026-06-12 14:17:28]   MISS [Yahoo] TFX: no transcript items in feed
+[2026-06-12 14:17:28]   MISS [Yahoo] TOL: no transcript items in feed
+[2026-06-12 14:17:29]   MISS [Yahoo] UIS: no transcript items in feed
+[2026-06-12 14:17:30]   MISS [Yahoo] URBN: no transcript items in feed
+[2026-06-12 14:17:30]   MISS [Yahoo] VLGEA: no transcript items in feed
+[2026-06-12 14:17:31]   MISS [Yahoo] WST: no transcript items in feed
+[2026-06-12 14:17:31] DRY RUN — not writing to disk
+[2026-06-12 14:17:31] === Done. 1 new transcript links found. ===
+

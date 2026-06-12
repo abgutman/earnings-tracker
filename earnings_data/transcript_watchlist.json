@@ -1,0 +1,13 @@
+{
+ "CMCSA": {
+  "name": "Comcast",
+  "live": false,
+  "live_note": "investors.comcast.com does not resolve (NXDOMAIN). Webcast platform Q4Inc (events.q4inc.com) is a JS-only SPA with auth-gated API. Live stream URL not discoverable without a running browser. Replay path is the pilot.",
+  "webcast_platform": "Q4Inc (events.q4inc.com)",
+  "webcast_url_note": "Event-specific URL disclosed in Business Wire press release ~4 weeks before call. Must be captured manually and added to replay_url when available.",
+  "replay_url": null,
+  "replay_url_note": "Populate with the Q4Inc attendee URL from the July 23 2026 press release once Comcast publishes it.",
+  "next_call_date": "2026-07-23",
+  "next_call_time": "08:30 ET"
+ }
+}
