@@ -1,4 +1,13 @@
 {
+ "COR": [
+  {
+   "date_str": "2026-05-06",
+   "found_at": "2026-06-12T00:00:00",
+   "source": "Motley Fool",
+   "title": "Cencora (COR) Q2 2026 Earnings Transcript | The Motley Fool",
+   "url": "https://www.fool.com/earnings/call-transcripts/2026/05/06/cencora-cor-q2-2026-earnings-transcript/"
+  }
+ ],
  "CPB": [
   {
    "date_str": "2026-06-08",
@@ -15,6 +24,15 @@
    "source": "Motley Fool",
    "title": "Five Below (FIVE) Q1 2026 Earnings Transcript | The Motley Fool",
    "url": "https://www.fool.com/earnings/call-transcripts/2026/06/04/five-below-five-five-q1-2026-earnings-transcript/"
+  }
+ ],
+ "URBN": [
+  {
+   "date_str": "2026-05-20",
+   "found_at": "2026-06-12T00:00:00",
+   "source": "Motley Fool",
+   "title": "Urban Outfitters (URBN) Q1 2027 Earnings Transcript | The Motley Fool",
+   "url": "https://www.fool.com/earnings/call-transcripts/2026/05/20/urbn-q1-2027-earnings-transcript/"
   }
  ]
 }

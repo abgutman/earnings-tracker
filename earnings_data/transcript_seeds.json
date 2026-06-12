@@ -16,5 +16,23 @@
    "date_str": "2026-06-04",
    "found_at": "2026-06-12T00:00:00"
   }
+ ],
+ "URBN": [
+  {
+   "url": "https://www.fool.com/earnings/call-transcripts/2026/05/20/urbn-q1-2027-earnings-transcript/",
+   "source": "Motley Fool",
+   "title": "Urban Outfitters (URBN) Q1 2027 Earnings Transcript | The Motley Fool",
+   "date_str": "2026-05-20",
+   "found_at": "2026-06-12T00:00:00"
+  }
+ ],
+ "COR": [
+  {
+   "url": "https://www.fool.com/earnings/call-transcripts/2026/05/06/cencora-cor-q2-2026-earnings-transcript/",
+   "source": "Motley Fool",
+   "title": "Cencora (COR) Q2 2026 Earnings Transcript | The Motley Fool",
+   "date_str": "2026-05-06",
+   "found_at": "2026-06-12T00:00:00"
+  }
  ]
 }
