@@ -20,6 +20,7 @@ Output: earnings_data/upcoming_dates.json — what the Upcoming page reads
 import json, os, sys, subprocess, re, html, time
 from datetime import datetime, date, timezone, timedelta
 from pathlib import Path
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 from email_utils import send_email, subject_save_the_date, body_save_the_date
 
 HERE = Path(__file__).parent
@@ -56,11 +57,8 @@ EARNINGS_KEYWORDS = {
 NEGATIVE_PHRASES = {
     "earnings preview", "earnings on the horizon", "post-earnings",
     "reports next week", "ahead of the quarter",
-    "non-deal roadshow", "fireside chat", "investor day",
+    "investor conference", "non-deal roadshow", "fireside chat", "investor day",
     "to participate in",
-    # Note: "investor conference" removed — too broad; catches "investor conference call"
-    # which is standard phrasing for earnings calls (e.g., J&J Q2 2026).
-    # Non-earnings conference appearances lack earnings keywords and are filtered there.
 }
 
 def title_matches_earnings(title):
@@ -116,15 +114,35 @@ def normalize_date(month_name, day, year):
     except: return None
 
 def normalize_time(time_str):
-    """'4:30 p.m. Eastern Time' or '9:00am ET' → 'HH:MM ET' 24-hour-ish."""
+    """'4:30 p.m. Eastern Time' or '9:00am ET' → 'HH:MM ET' 24-hour-ish.
+
+    Bug fix: convert only known non-ET zones to ET; don't silently relabel
+    PDT/PST/MDT/MST/CDT/CST as ET without converting the hour.
+    """
     if not time_str: return None
-    m = re.search(r"(\d{1,2}):(\d{2})\s*(a\.?m\.?|p\.?m\.?)", time_str, re.I)
+    m = re.search(r"(\d{1,2}):(\d{2})\s*(a\.?m\.?|p\.?m\.?)\s*([\w./ ]*)", time_str, re.I)
     if not m: return time_str
     h = int(m.group(1)); mn = m.group(2)
     ampm = m.group(3).replace(".","").lower()
+    tz_raw = (m.group(4) or "").strip().upper().replace(" ", "").replace(".", "")
+    # Normalize ET aliases
+    ET_ALIASES = {"ET", "EDT", "EST", "EASTERNTIME", "EASTERN"}
+    # Offset map for non-ET US zones (hours to ADD to get ET)
+    TZ_TO_ET_OFFSET = {
+        "PT": 3, "PDT": 3, "PST": 3,
+        "MT": 2, "MDT": 2, "MST": 2,
+        "CT": 1, "CDT": 1, "CST": 1,
+    }
     if ampm == "pm" and h < 12: h += 12
     if ampm == "am" and h == 12: h = 0
-    return f"{h:02d}:{mn} ET"
+    if not tz_raw or tz_raw in ET_ALIASES:
+        return f"{h:02d}:{mn} ET"
+    elif tz_raw in TZ_TO_ET_OFFSET:
+        h = (h + TZ_TO_ET_OFFSET[tz_raw]) % 24
+        return f"{h:02d}:{mn} ET"
+    else:
+        # Unknown zone — keep original label rather than falsely stamping ET
+        return f"{h:02d}:{mn} {tz_raw}"
 
 def year_disambiguate(month_num, day, publish_unix):
     """If we know the article was published on date X, a date later in the year is THIS year;
@@ -152,7 +170,15 @@ def extract_from_title(title, publish_unix=None):
     }
 
 def extract_from_body(html_text, publish_unix=None):
-    """Parse Yahoo article body for save-the-date language."""
+    """Parse Yahoo article body for save-the-date language.
+
+    Bug fixes:
+    1. Anchors to wire dateline (BUSINESS WIRE / GLOBE NEWSWIRE / PR NEWSWIRE /
+       ACCESS NEWSWIRE) before running patterns, so the Yahoo header/byline is
+       excluded from matching.  Falls back to full text if no dateline found.
+    2. Uses re.finditer for call/release patterns and takes the first match
+       whose date is AFTER the publish date, discarding byline-date matches.
+    """
     if not html_text: return None
     # Strip script/style first to reduce noise
     txt = re.sub(r"<script[^>]*>.*?</script>", " ", html_text, flags=re.S|re.I)
@@ -160,10 +186,42 @@ def extract_from_body(html_text, publish_unix=None):
     txt = html.unescape(re.sub(r"<[^>]+>", " ", txt))
     txt = re.sub(r"\s+", " ", txt)
 
+    # --- Anchor to wire dateline ---
+    # Matches: "--( BUSINESS WIRE )--", "(GLOBE NEWSWIRE)", "(PR NEWSWIRE)", etc.
+    dateline_re = re.compile(
+        r"--\s*\(\s*(?:BUSINESS\s+WIRE|GLOBE\s+NEWSWIRE|PR\s+NEWSWIRE|ACCESS\s+NEWSWIRE)\s*\)--|"
+        r"\(\s*(?:GLOBE\s*NEWSWIRE|PR\s*NEWSWIRE|BUSINESS\s*WIRE|ACCESS\s*NEWSWIRE)\s*\)",
+        re.I
+    )
+    dm = dateline_re.search(txt)
+    if dm:
+        body = txt[dm.end():]
+        # Trim at common wire closers
+        for closer in ("View source version", "Contacts", "CONTACTS", "About "):
+            ci = body.find(closer)
+            if ci > 0:
+                body = body[:ci]
+    else:
+        body = txt  # fallback: full text
+
+    # Compute a cutoff date — matches on/before publish date are byline noise
+    anchor_dt = datetime.fromtimestamp(publish_unix, tz=timezone.utc) if publish_unix else None
+    anchor_date = anchor_dt.date() if anchor_dt else None
+
+    def is_future(date_str):
+        """Return True if date_str is strictly after the publish date."""
+        if not date_str: return False
+        if anchor_date is None: return True
+        try:
+            from datetime import date as _date
+            d = _date.fromisoformat(date_str)
+            return d > anchor_date
+        except Exception:
+            return False
+
     result = {"release_date": None, "call_date": None, "call_time": None}
 
     # ----- Release date -----
-    # "(will release|to release|will report) ... results|earnings ... (after market close|on) DATE"
     rel_patterns = [
         rf"(?:will\s+release|to\s+release|will\s+report|to\s+report|announce)\s+(?:[^.]{{0,80}}?)"
         rf"(?:results|earnings|financial\s+results)\s+(?:[^.]{{0,120}}?)"
@@ -174,27 +232,32 @@ def extract_from_body(html_text, publish_unix=None):
         rf"{DAYNAME_OPT}({MONTHS_RE})\s+(\d{{1,2}}),?\s+(\d{{4}})",
     ]
     for p in rel_patterns:
-        m = re.search(p, txt, re.I)
-        if m:
-            result["release_date"] = normalize_date(m.group(1), m.group(2), m.group(3))
+        for m in re.finditer(p, body, re.I):
+            candidate = normalize_date(m.group(1), m.group(2), m.group(3))
+            if is_future(candidate):
+                result["release_date"] = candidate
+                break
+        if result["release_date"]:
             break
 
     # ----- Call date + time -----
-    # "conference call|earnings call|webcast ... on DATE ... at TIME"
     call_p = rf"(?:conference\s+call|earnings\s+call|webcast)\s+(?:[^.]{{0,200}}?)" \
              rf"(?:on\s+)?{DAYNAME_OPT}({MONTHS_RE})\s+(\d{{1,2}}),?\s+(\d{{4}})" \
              rf"(?:[^.]{{0,80}}?)" \
              rf"(\d{{1,2}}:\d{{2}}\s*[ap]\.?m\.?\s*(?:\([^)]*\))?\s*(?:Eastern\s*Time|ET|EDT|EST)?)"
-    m = re.search(call_p, txt, re.I)
-    if m:
-        result["call_date"] = normalize_date(m.group(1), m.group(2), m.group(3))
-        result["call_time"] = normalize_time(m.group(4))
-    else:
+    for m in re.finditer(call_p, body, re.I):
+        candidate = normalize_date(m.group(1), m.group(2), m.group(3))
+        if is_future(candidate):
+            result["call_date"] = candidate
+            result["call_time"] = normalize_time(m.group(4))
+            break
+
+    if not result["call_date"]:
         # Just a time near 'call' or 'webcast'
         m_time = re.search(
             rf"(?:conference\s+call|earnings\s+call|webcast)\s+(?:[^.]{{0,200}}?)"
             rf"(\d{{1,2}}:\d{{2}}\s*[ap]\.?m\.?\s*(?:\([^)]*\))?\s*(?:Eastern\s*Time|ET|EDT|EST)?)",
-            txt, re.I
+            body, re.I
         )
         if m_time:
             result["call_time"] = normalize_time(m_time.group(1))
@@ -283,6 +346,22 @@ def main():
             if not primary or primary < today_iso:
                 continue
 
+            # Sanity guard: if the only date equals the publish date, it's likely
+            # a byline capture, not the event date. Skip and log.
+            publish_date = None
+            if item.get("providerPublishTime"):
+                try:
+                    publish_date = datetime.fromtimestamp(
+                        item["providerPublishTime"], tz=timezone.utc
+                    ).date().isoformat()
+                except Exception:
+                    pass
+            if publish_date:
+                dates_found = [d for d in (extracted.get("release_date"), extracted.get("call_date")) if d]
+                if dates_found and all(d == publish_date for d in dates_found):
+                    log(f"  ⚠ {ticker}: suspicious extraction — all dates == publish date ({publish_date}), skipping")
+                    continue
+
             # Avoid clobbering manual entries; only add if we don't already have a
             # FUTURE entry for this ticker that's at or sooner than this one.
             cur = upcoming.get(ticker)
@@ -308,7 +387,7 @@ def main():
             if live:
                 try:
                     name = c.get("name","") or c.get("seed_name","") or ticker
-                    send_email(
+                    sent = send_email(
                         subject_save_the_date(name, ticker),
                         body_save_the_date(name, ticker,
                             extracted.get("release_date"), extracted.get("call_date"),
@@ -316,21 +395,25 @@ def main():
                             published_unix=item.get("providerPublishTime")),
                         log_fn=log,
                     )
-                    log(f"  ✉ alert sent for {ticker}")
+                    if sent:
+                        log(f"  ✉ alert sent for {ticker}")
+                    else:
+                        log(f"  ⚠ email skipped for {ticker} (no creds or send_email returned False)")
                 except Exception as e:
                     log(f"  ⚠ email err for {ticker}: {e}")
 
         state[ticker] = seen
 
-    # Cleanup: drop entries where release_date AND call_date are both in the past
+    # Cleanup: drop entries where ALL non-null dates are in the past.
+    # Bug fix: treat missing (None) dates as absent rather than defaulting to
+    # "9999", which caused null-date entries to linger forever.
     removed = 0
     for tk in list(upcoming.keys()):
         if tk.startswith("_"): continue
         entry = upcoming[tk]
         if not isinstance(entry, dict): continue
-        r = entry.get("release_date") or "9999"
-        c = entry.get("call_date") or "9999"
-        if r < today_iso and c < today_iso:
+        dates = [d for d in (entry.get("release_date"), entry.get("call_date")) if d]
+        if dates and max(dates) < today_iso:
             del upcoming[tk]
             removed += 1
     if removed:

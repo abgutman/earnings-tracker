@@ -20,12 +20,12 @@
  },
  "CMCSA": {
   "release_date": null,
-  "call_date": "2026-06-11",
-  "call_time": "05:30 ET",
+  "call_date": "2026-07-23",
+  "call_time": "08:30 ET",
   "source_url": "https://finance.yahoo.com/markets/stocks/articles/comcast-host-second-quarter-2026-123000214.html",
   "source_title": "Comcast to Host Second Quarter 2026 Earnings Conference Call",
   "source_publisher": "Business Wire",
-  "source_type": "yahoo_auto",
+  "source_type": "manual_fix",
   "captured_at": "2026-06-11T23:17:27"
  }
 }
