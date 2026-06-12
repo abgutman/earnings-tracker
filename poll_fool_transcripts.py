@@ -163,10 +163,18 @@ def slug_to_title(slug, ticker):
 
 # ============ YAHOO SECONDARY ============
 
-def yahoo_secondary(ticker):
-    """Query Yahoo Finance news API; return items that are full call transcripts.
+def yahoo_secondary(ticker, cutoff_iso=None):
+    """Query Yahoo Finance news API; return items that are full call transcripts
+    and were published within the lookback window.
+
+    cutoff_iso: ISO date string; skip items published before this date.
+                Defaults to SECONDARY_LOOKBACK_DAYS ago.
     Returns list of {url, title, publisher}.
     """
+    from datetime import timezone as _tz
+    if cutoff_iso is None:
+        cutoff_iso = (date.today() - timedelta(days=SECONDARY_LOOKBACK_DAYS)).isoformat()
+
     api_url = (
         f"https://query1.finance.yahoo.com/v1/finance/search"
         f"?q={ticker}&newsCount=25"
@@ -178,14 +186,25 @@ def yahoo_secondary(ticker):
     results = []
     for item in data.get("news", []):
         title = item.get("title", "")
-        if any(kw in title.lower() for kw in TRANSCRIPT_TITLE_KEYWORDS):
-            url = item.get("link", "")
-            if url:
-                results.append({
-                    "url": url,
-                    "title": title,
-                    "publisher": item.get("publisher", "Yahoo Finance"),
-                })
+        if not any(kw in title.lower() for kw in TRANSCRIPT_TITLE_KEYWORDS):
+            continue
+        url = item.get("link", "")
+        if not url:
+            continue
+        # Date filter: providerPublishTime is a Unix timestamp
+        pub_unix = item.get("providerPublishTime")
+        if pub_unix:
+            try:
+                pub_date = datetime.fromtimestamp(pub_unix, tz=_tz.utc).date().isoformat()
+                if pub_date < cutoff_iso:
+                    continue  # stale transcript from a prior quarter
+            except Exception:
+                pass
+        results.append({
+            "url": url,
+            "title": title,
+            "publisher": item.get("publisher", "Yahoo Finance"),
+        })
     return results
 
 
