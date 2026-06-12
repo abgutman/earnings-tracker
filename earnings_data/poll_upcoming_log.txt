@@ -42,3 +42,7 @@
 [2026-06-11 23:17:29]   ✉ alert sent for CMCSA
 [2026-06-11 23:18:19] === Done. Captured 1 new save-the-dates, cleaned 0 past. ===
 
+[2026-06-12 17:21:24] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-06-12 17:21:24] Polling Yahoo for 106 companies
+[2026-06-12 17:22:17] === Done. Captured 0 new save-the-dates, cleaned 0 past. ===
+
