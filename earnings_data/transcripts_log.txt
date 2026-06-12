@@ -57,3 +57,26 @@
 [2026-06-12 14:17:31] DRY RUN — not writing to disk
 [2026-06-12 14:17:31] === Done. 1 new transcript links found. ===
 
+[2026-06-12 18:26:39] === Fool transcript harvest start (dry_run=False) ===
+[2026-06-12 18:26:39] Loaded 122 tickers from expanded_companies.json
+[2026-06-12 18:26:39] Recent tickers (last filing within 14d): ['CABA', 'COR', 'CPB', 'CUBE', 'FIVE', 'FSK', 'IRT', 'QNBC', 'TFX', 'TOL', 'UIS', 'URBN', 'VLGEA', 'WST']
+[2026-06-12 18:26:39] Seed backfill: all seeds already in state
+[2026-06-12 18:26:39] Fetching Fool transcript index: https://www.fool.com/earnings-call-transcripts/
+[2026-06-12 18:26:40]   Found 20 transcript links on index page
+[2026-06-12 18:26:40]   Fool index matched tickers: []
+[2026-06-12 18:26:40] Yahoo secondary search for 12 tickers: ['CABA', 'COR', 'CUBE', 'FSK', 'IRT', 'QNBC', 'TFX', 'TOL', 'UIS', 'URBN', 'VLGEA', 'WST']
+[2026-06-12 18:26:41]   MISS [Yahoo] CABA: no transcript items in feed
+[2026-06-12 18:26:41]   MISS [Yahoo] COR: no transcript items in feed
+[2026-06-12 18:26:42]   NEW [Yahoo] CUBE: https://finance.yahoo.com/m/f15f512a-1589-380a-8c5e-9b2bc27708a0/cubesmart-%28cube%29-q2-2025.html (Motley Fool)
+[2026-06-12 18:26:42]   MISS [Yahoo] FSK: no transcript items in feed
+[2026-06-12 18:26:43]   MISS [Yahoo] IRT: no transcript items in feed
+[2026-06-12 18:26:43]   MISS [Yahoo] QNBC: no transcript items in feed
+[2026-06-12 18:26:44]   MISS [Yahoo] TFX: no transcript items in feed
+[2026-06-12 18:26:44]   MISS [Yahoo] TOL: no transcript items in feed
+[2026-06-12 18:26:45]   MISS [Yahoo] UIS: no transcript items in feed
+[2026-06-12 18:26:45]   MISS [Yahoo] URBN: no transcript items in feed
+[2026-06-12 18:26:46]   MISS [Yahoo] VLGEA: no transcript items in feed
+[2026-06-12 18:26:46]   MISS [Yahoo] WST: no transcript items in feed
+[2026-06-12 18:26:46] Saved transcripts.json (3 tickers with entries)
+[2026-06-12 18:26:46] === Done. 1 new transcript links found. ===
+
