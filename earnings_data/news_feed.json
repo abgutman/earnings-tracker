@@ -1,6 +1,66 @@
 {
- "generated_at": "2026-06-12T02:31:13+00:00",
+ "generated_at": "2026-06-12T14:12:56+00:00",
  "items": [
+  {
+   "uuid": "89f69755-7491-321f-a628-faf099318974",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Comcast Recognized by VETS Indexes and U.S. Veterans Magazine for Its Military\u2011Ready Workplace",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/sectors/technology/articles/comcast-recognized-vets-indexes-u-140000894.html",
+   "published_unix": 1781272800,
+   "captured_at": "2026-06-12T14:12:02"
+  },
+  {
+   "uuid": "e516ac68-f45e-34eb-a844-964a4326a810",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Peapack, New Jersey",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-announces-luxury-home-135100685.html",
+   "published_unix": 1781272260,
+   "captured_at": "2026-06-12T14:12:10"
+  },
+  {
+   "uuid": "c3fe48db-90b8-33d4-ab59-a4b5a5916ed3",
+   "tickers": [
+    "EXYN"
+   ],
+   "company": "Exyn Technologies, Inc.",
+   "title": "Exyn Technologies, Brag House, and Avalon Advanced Materials Interviews to Air on the RedChip Small Stocks, Big Money(TM) Show on Bloomberg TV",
+   "publisher": "ACCESS Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/exyn-technologies-brag-house-avalon-130000094.html",
+   "published_unix": 1781269200,
+   "captured_at": "2026-06-12T14:12:41"
+  },
+  {
+   "uuid": "a5db390d-6ed8-33bf-a61c-47204b6b9f48",
+   "tickers": [
+    "COBA"
+   ],
+   "company": "Chilean Cobalt Corp.",
+   "title": "Chilean Cobalt Corp. Expands NeoRe Development Program With Exploration Success, Engineering Progress and AI Engagement",
+   "publisher": "ACCESS Newswire",
+   "link": "https://finance.yahoo.com/sectors/energy/articles/chilean-cobalt-corp-expands-neore-130000778.html",
+   "published_unix": 1781269200,
+   "captured_at": "2026-06-12T14:12:52"
+  },
+  {
+   "uuid": "ac16de23-8c2f-37c4-aada-3f8846dae85a",
+   "tickers": [
+    "AVTX"
+   ],
+   "company": "Avalo Therapeutics, Inc.",
+   "title": "BofA Initiates Avalo Therapeutics at Buy With $35 Price Target",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-initiates-avalo-therapeutics-buy-115907697.html",
+   "published_unix": 1781265547,
+   "captured_at": "2026-06-12T14:12:29"
+  },
   {
    "uuid": "37771aba-ba47-34ea-bfb1-70cd47da936b",
    "tickers": [
@@ -360,102 +420,6 @@
    "link": "https://finance.yahoo.com/sectors/technology/articles/vishay-intertechnology-extends-ilhb-series-150000857.html",
    "published_unix": 1781103600,
    "captured_at": "2026-06-10T18:06:19"
-  },
-  {
-   "uuid": "56194a23-a66f-34b5-a4cc-ffc6a06b6c7e",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers at Marsh Harbor Receives Best of Show at the 2026 Northeast Florida Parade of Homes",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-marsh-harbor-receives-134000617.html",
-   "published_unix": 1781098800,
-   "captured_at": "2026-06-10T14:26:49"
-  },
-  {
-   "uuid": "333540d8-603a-314a-a154-44baa1c18a20",
-   "tickers": [
-    "DD"
-   ],
-   "company": "DuPont de Nemours, Inc.",
-   "title": "DuPont Announces Healthcare Solutions U.S.-based Manufacturing Sites Now Powered by 100% Renewable Electricity",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/dupont-announces-healthcare-solutions-u-130000402.html",
-   "published_unix": 1781096400,
-   "captured_at": "2026-06-10T14:27:35"
-  },
-  {
-   "uuid": "05299c5e-8d2a-3f8c-8788-779a0fe811dd",
-   "tickers": [
-    "BURL"
-   ],
-   "company": "Burlington Stores, Inc.",
-   "title": "Burlington bets on ocean contracts to combat elevated freight costs",
-   "publisher": "Supply Chain Dive",
-   "link": "https://finance.yahoo.com/m/05299c5e-8d2a-3f8c-8788-779a0fe811dd/burlington-bets-on-ocean.html",
-   "published_unix": 1781094420,
-   "captured_at": "2026-06-10T21:26:58"
-  },
-  {
-   "uuid": "b7622394-1803-3fc7-a5de-752e60c0deee",
-   "tickers": [
-    "EXYN"
-   ],
-   "company": "Exyn Technologies, Inc.",
-   "title": "Exyn Expands ExynAI Software Capabilities, Strengthening End-to-End Autonomous Mapping and Reality Capture Workflows",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/sectors/technology/articles/exyn-expands-exynai-software-capabilities-120000977.html",
-   "published_unix": 1781092800,
-   "captured_at": "2026-06-10T14:27:21"
-  },
-  {
-   "uuid": "196bd7fb-902f-312b-b3dd-8c740ed97b20",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora, Inc.",
-   "title": "Barclays Cuts Cencora Price Target to $350 From $425, Maintains Overweight Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-cuts-cencora-price-target-114123960.html",
-   "published_unix": 1781091683,
-   "captured_at": "2026-06-10T14:26:51"
-  },
-  {
-   "uuid": "cc86d98c-3952-38a0-9f7c-f8289d8f45c3",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Johnson & Johnson CEO Says Cure for Certain Cancers Is Realistic Goal",
-   "publisher": "The Wall Street Journal",
-   "link": "https://finance.yahoo.com/m/cc86d98c-3952-38a0-9f7c-f8289d8f45c3/johnson-%26-johnson-ceo-says.html",
-   "published_unix": 1781086800,
-   "captured_at": "2026-06-10T14:27:34"
-  },
-  {
-   "uuid": "5678b2b9-5765-365e-9888-872e19a3a4c5",
-   "tickers": [
-    "HSDT"
-   ],
-   "company": "Solana Co",
-   "title": "Solana Institute CEO Pushes Senate to Pass CLARITY Act With Open-Source Protections",
-   "publisher": "Cryptonews",
-   "link": "https://finance.yahoo.com/m/5678b2b9-5765-365e-9888-872e19a3a4c5/solana-institute-ceo-pushes.html",
-   "published_unix": 1781083711,
-   "captured_at": "2026-06-10T14:27:16"
-  },
-  {
-   "uuid": "5de6b1eb-624c-3086-898f-e3b165412aa6",
-   "tickers": [
-    "URBN"
-   ],
-   "company": "URBAN OUTFITTERS INC",
-   "title": "Urban Outfitters to expand in Falls, bring 600 jobs. Here's the plan",
-   "publisher": "Bucks County Courier Times",
-   "link": "https://finance.yahoo.com/m/5de6b1eb-624c-3086-898f-e3b165412aa6/urban-outfitters-to-expand-in.html",
-   "published_unix": 1781081753,
-   "captured_at": "2026-06-10T14:26:42"
   }
  ]
 }
