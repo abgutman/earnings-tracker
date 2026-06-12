@@ -110,16 +110,18 @@ def do_capture(ticker, date_str, watchlist, state):
     AUDIO_DIR.mkdir(parents=True, exist_ok=True)
     out_path = AUDIO_DIR / f"{ticker}_{date_str}"
 
-    # Try yt-dlp first (handles most webcast platforms)
+    # Optional: limit duration (seconds) for rehearsals / testing
+    max_dur = watchlist.get(ticker, {}).get("max_capture_seconds")
+
+    # Try yt-dlp first (handles YouTube, Vimeo, and many webcast platforms)
     log(f"Trying yt-dlp for {ticker}...")
     yt_out = str(out_path) + ".%(ext)s"
-    result = subprocess.run(
-        ["yt-dlp", "-x", "--audio-format", "mp3",
-         "--audio-quality", "0",
-         "-o", yt_out,
-         webcast_url],
-        capture_output=True, text=True, timeout=7200
-    )
+    yt_cmd = ["yt-dlp", "-x", "--audio-format", "mp3", "--audio-quality", "0",
+               "-o", yt_out]
+    if max_dur:
+        yt_cmd += ["--download-sections", f"*0-{max_dur}"]
+    yt_cmd.append(webcast_url)
+    result = subprocess.run(yt_cmd, capture_output=True, text=True, timeout=7200)
     if result.returncode == 0:
         # Find the output file
         for ext in ["mp3", "m4a", "wav", "ogg"]:
