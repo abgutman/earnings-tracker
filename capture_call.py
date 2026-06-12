@@ -124,7 +124,7 @@ def do_capture(ticker, date_str, watchlist, state):
     result = subprocess.run(yt_cmd, capture_output=True, text=True, timeout=7200)
     if result.returncode == 0:
         # Find the output file
-        for ext in ["mp3", "m4a", "wav", "ogg"]:
+        for ext in ["mp3", "m4a", "wav", "ogg", "aiff", "aif"]:
             candidate = out_path.with_suffix(f".{ext}")
             if candidate.exists():
                 log(f"yt-dlp capture succeeded: {candidate}")
@@ -161,7 +161,7 @@ def do_transcribe(ticker, date_str):
 
     # Find audio file
     audio_file = None
-    for ext in ["mp3", "m4a", "wav", "ogg"]:
+    for ext in ["mp3", "m4a", "wav", "ogg", "aiff", "aif"]:
         candidate = AUDIO_DIR / f"{ticker}_{date_str}.{ext}"
         if candidate.exists():
             audio_file = candidate
