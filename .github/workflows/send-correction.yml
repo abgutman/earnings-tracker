@@ -1,0 +1,28 @@
+name: Send Comcast Correction (one-off)
+
+# Manual-dispatch only. Sends the corrected Comcast save-the-date email
+# (call July 23, 2026, 8:30 a.m. ET) to the standard recipient list,
+# correcting the June 11 alert that carried a wrong date.
+# Delete this workflow after the send is confirmed.
+
+on:
+  workflow_dispatch:
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Send corrected save-the-date email
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python3 send_cmcsa_correction.py
