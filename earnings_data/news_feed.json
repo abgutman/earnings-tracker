@@ -1,6 +1,54 @@
 {
- "generated_at": "2026-06-12T14:12:56+00:00",
+ "generated_at": "2026-06-12T17:40:29+00:00",
  "items": [
+  {
+   "uuid": "61eecd08-b9e9-3d05-840f-7337d7bf8684",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Merck's Belzutifan Combination Approved by FDA for Adjuvant Treatment of Renal Cell Carcinoma",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/merck-apos-belzutifan-combination-approved-171325736.html",
+   "published_unix": 1781284405,
+   "captured_at": "2026-06-12T17:40:28"
+  },
+  {
+   "uuid": "0c153b93-1cdb-36ab-82e3-5d1c9dadd81c",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Toll Brothers Seen Benefiting From Luxury Buyer Resilience, RBC Capital Markets Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-seen-benefiting-luxury-150922438.html",
+   "published_unix": 1781276962,
+   "captured_at": "2026-06-12T17:39:45"
+  },
+  {
+   "uuid": "424bb59f-1250-3da1-b715-b467f2c76093",
+   "tickers": [
+    "AVTX"
+   ],
+   "company": "Avalo Therapeutics, Inc.",
+   "title": "Avalo Therapeutics' Lead Drug now a Cleaner Immunology Story, BofA Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/avalo-therapeutics-apos-lead-drug-150028078.html",
+   "published_unix": 1781276428,
+   "captured_at": "2026-06-12T17:40:03"
+  },
+  {
+   "uuid": "9df6611d-f944-3fe7-8d0b-07cfb0c0c173",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "Red-Tail Land Conservancy Receives $75,000 Grant from the American Water Charitable Foundation to Protect Boston Creek Forest in Wayne County",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/sectors/energy/articles/red-tail-land-conservancy-receives-140600982.html",
+   "published_unix": 1781273160,
+   "captured_at": "2026-06-12T17:39:49"
+  },
   {
    "uuid": "89f69755-7491-321f-a628-faf099318974",
    "tickers": [
@@ -384,42 +432,6 @@
    "link": "https://finance.yahoo.com/sectors/healthcare/articles/universal-health-realty-income-trust-201500023.html",
    "published_unix": 1781122500,
    "captured_at": "2026-06-10T21:27:12"
-  },
-  {
-   "uuid": "70c938bc-aa54-36d7-8530-8f2ed40efdae",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Johnson & Johnson Ordered to Pay $32 Million in California Talc Verdict",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/johnson-johnson-ordered-pay-32-160921053.html",
-   "published_unix": 1781107761,
-   "captured_at": "2026-06-10T18:06:59"
-  },
-  {
-   "uuid": "e7baec29-0eb0-3ac5-88a4-77e46eb8c540",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Johnson & Johnson Hit with $32 Million Verdict in Los Angeles Asbestos Trial",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/johnson-johnson-hit-32-million-152200415.html",
-   "published_unix": 1781104920,
-   "captured_at": "2026-06-10T18:06:59"
-  },
-  {
-   "uuid": "44395b0b-407e-308c-891b-bf89371e6b5d",
-   "tickers": [
-    "VSH"
-   ],
-   "company": "VISHAY INTERTECHNOLOGY INC",
-   "title": "Vishay Intertechnology Extends ILHB Series of Automotive Grade Ferrite Beads to Support Wider Range of EMC Noise Reduction Applications",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/sectors/technology/articles/vishay-intertechnology-extends-ilhb-series-150000857.html",
-   "published_unix": 1781103600,
-   "captured_at": "2026-06-10T18:06:19"
   }
  ]
 }
