@@ -1,6 +1,30 @@
 {
- "generated_at": "2026-06-12T22:28:39+00:00",
+ "generated_at": "2026-06-13T00:23:13+00:00",
  "items": [
+  {
+   "uuid": "28c044f5-ccbf-3a45-8609-460950003eba",
+   "tickers": [
+    "TRAW"
+   ],
+   "company": "Traws Pharma, Inc.",
+   "title": "Why Did TRAW Stock Slump 28% After Hours?",
+   "publisher": "Stocktwits",
+   "link": "https://finance.yahoo.com/m/28c044f5-ccbf-3a45-8609-460950003eba/why-did-traw-stock-slump-28%25.html",
+   "published_unix": 1781309257,
+   "captured_at": "2026-06-13T00:23:02"
+  },
+  {
+   "uuid": "52979890-fe8d-3bc3-81d3-24842e5064fe",
+   "tickers": [
+    "ESMR"
+   ],
+   "company": "E-Smart Corp.",
+   "title": "Ops+AI and Arrowhead Strategy Group Announce Strategic Partnership to Help Founders Build Smarter, Stronger, More Scalable Companies",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/sectors/technology/articles/ops-ai-arrowhead-strategy-group-000200745.html",
+   "published_unix": 1781308920,
+   "captured_at": "2026-06-13T00:23:10"
+  },
   {
    "uuid": "4f2b26cd-ec38-3f37-b435-6fcbbeb9f993",
    "tickers": [
@@ -456,18 +480,6 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-cuts-price-target-fmc-104144730.html",
    "published_unix": 1781174504,
    "captured_at": "2026-06-11T14:42:51"
-  },
-  {
-   "uuid": "97690091-0796-39d5-9109-cf89c7fbf154",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Johnson & Johnson bets $1 billion on hard-to-treat cancer",
-   "publisher": "TheStreet",
-   "link": "https://finance.yahoo.com/m/97690091-0796-39d5-9109-cf89c7fbf154/johnson-%26-johnson-bets-%241.html",
-   "published_unix": 1781132400,
-   "captured_at": "2026-06-10T23:39:56"
   }
  ]
 }
