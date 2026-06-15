@@ -1,6 +1,114 @@
 {
- "generated_at": "2026-06-13T02:12:22+00:00",
+ "generated_at": "2026-06-15T12:38:11+00:00",
  "items": [
+  {
+   "uuid": "8256f089-b80f-38ea-bdab-5bfe2f88a554",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark Student Nutrition Announces Nationwide Update to School Menus for 2026\u20132027",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/aramark-student-nutrition-announces-nationwide-113000699.html",
+   "published_unix": 1781523000,
+   "captured_at": "2026-06-15T08:37:18"
+  },
+  {
+   "uuid": "5d42c630-d880-3029-9df4-73072632e42a",
+   "tickers": [
+    "CNTX"
+   ],
+   "company": "Context Therapeutics Inc.",
+   "title": "Context Therapeutics to Proceed With Next Development Phase of CTIM-76 in Ovarian Cancer",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/context-therapeutics-proceed-next-development-111656279.html",
+   "published_unix": 1781522216,
+   "captured_at": "2026-06-15T08:37:50"
+  },
+  {
+   "uuid": "a435f58e-479b-382b-97f1-2cdd9009cc7f",
+   "tickers": [
+    "TRAW"
+   ],
+   "company": "Traws Pharma, Inc.",
+   "title": "Traws Pharma Delays Phase 2 Influenza Study After UK Regulatory Review; Shares Down Pre-Bell",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/traws-pharma-delays-phase-2-104229416.html",
+   "published_unix": 1781520149,
+   "captured_at": "2026-06-15T08:37:59"
+  },
+  {
+   "uuid": "07b6b1ad-89e4-30e5-999f-fffe8c3c23c9",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Johnson & Johnson Invests More Than $1 Billion to Expand Contact Lens Operations in Florida",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/johnson-johnson-invests-more-1-104157834.html",
+   "published_unix": 1781520117,
+   "captured_at": "2026-06-15T08:38:11"
+  },
+  {
+   "uuid": "62c94171-8bd1-3656-a801-52a0872dec20",
+   "tickers": [
+    "CNTX"
+   ],
+   "company": "Context Therapeutics Inc.",
+   "title": "Context Therapeutics Announces Positive Interim Efficacy and Safety Results from Ongoing Phase 1 Clinical Trial for CTIM-76",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/context-therapeutics-announces-positive-interim-103000152.html",
+   "published_unix": 1781519400,
+   "captured_at": "2026-06-15T08:37:50"
+  },
+  {
+   "uuid": "b775bfc6-294e-3246-9e8a-ee7892d2ef9b",
+   "tickers": [
+    "TRAW"
+   ],
+   "company": "Traws Pharma, Inc.",
+   "title": "Traws Pharma Shares Slide After UK Regulator Postpones Influenza Study",
+   "publisher": "InvestorsHub",
+   "link": "https://finance.yahoo.com/m/b775bfc6-294e-3246-9e8a-ee7892d2ef9b/traws-pharma-shares-slide.html",
+   "published_unix": 1781519193,
+   "captured_at": "2026-06-15T08:37:59"
+  },
+  {
+   "uuid": "73713a86-571e-3ab4-b569-90f2cbd5cc8d",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Johnson & Johnson Invests more than $1 Billion to Strengthen U.S. Vision Manufacturing in Jacksonville, Florida",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/johnson-johnson-invests-more-1-100000142.html",
+   "published_unix": 1781517600,
+   "captured_at": "2026-06-15T08:38:11"
+  },
+  {
+   "uuid": "9db5b6bf-cd69-37c4-96db-9aea782f161e",
+   "tickers": [
+    "MLYS"
+   ],
+   "company": "Mineralys Therapeutics, Inc.",
+   "title": "Mineralys Therapeutics Presents Late-Breaking Data on Lorundrostat and Heart Failure Risk Biomarkers at The Endocrine Society Annual Meeting (ENDO 2026)",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/mineralys-therapeutics-presents-breaking-data-140000450.html",
+   "published_unix": 1781445600,
+   "captured_at": "2026-06-15T08:37:38"
+  },
+  {
+   "uuid": "38b87e5c-3155-3a53-8660-2ed819ba29d7",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Comcast offering payouts in $117.5M settlement. Are you eligible?",
+   "publisher": "USA TODAY",
+   "link": "https://finance.yahoo.com/m/38b87e5c-3155-3a53-8660-2ed819ba29d7/comcast-offering-payouts-in.html",
+   "published_unix": 1781428033,
+   "captured_at": "2026-06-15T08:37:18"
+  },
   {
    "uuid": "28c044f5-ccbf-3a45-8609-460950003eba",
    "tickers": [
@@ -480,6 +588,246 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-cuts-price-target-fmc-104144730.html",
    "published_unix": 1781174504,
    "captured_at": "2026-06-11T14:42:51"
+  },
+  {
+   "uuid": "b53200dd-15f7-37cd-9775-2cfdade19d47",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC CORP",
+   "title": "FMC Corporation CEO Pierre Brondeau and CFO Andrew Sandifer to speak at Wolfe Research 3rd Annual Materials of the Future Conference",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-corporation-ceo-pierre-brondeau-203000863.html",
+   "published_unix": 1781123400,
+   "captured_at": "2026-06-15T08:37:18"
+  },
+  {
+   "uuid": "90d2bdab-f491-3c35-8b25-3d31265f7145",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Toll Brothers Announces Final Opportunity to Own a New Luxury Home at University Park in Palm Desert, California",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-announces-final-opportunity-201800824.html",
+   "published_unix": 1781122680,
+   "captured_at": "2026-06-15T08:37:26"
+  },
+  {
+   "uuid": "e17430d4-1b50-311d-9d9f-e0b69c664840",
+   "tickers": [
+    "UHT"
+   ],
+   "company": "UNIVERSAL HEALTH REALTY INCOME TRUST",
+   "title": "UNIVERSAL HEALTH REALTY INCOME TRUST ANNOUNCES DIVIDEND INCREASE",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/universal-health-realty-income-trust-201500023.html",
+   "published_unix": 1781122500,
+   "captured_at": "2026-06-15T08:37:47"
+  },
+  {
+   "uuid": "44395b0b-407e-308c-891b-bf89371e6b5d",
+   "tickers": [
+    "VSH"
+   ],
+   "company": "VISHAY INTERTECHNOLOGY INC",
+   "title": "Vishay Intertechnology Extends ILHB Series of Automotive Grade Ferrite Beads to Support Wider Range of EMC Noise Reduction Applications",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/sectors/technology/articles/vishay-intertechnology-extends-ilhb-series-150000857.html",
+   "published_unix": 1781103600,
+   "captured_at": "2026-06-15T08:37:24"
+  },
+  {
+   "uuid": "56194a23-a66f-34b5-a4cc-ffc6a06b6c7e",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Toll Brothers at Marsh Harbor Receives Best of Show at the 2026 Northeast Florida Parade of Homes",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-marsh-harbor-receives-134000617.html",
+   "published_unix": 1781098800,
+   "captured_at": "2026-06-15T08:37:26"
+  },
+  {
+   "uuid": "333540d8-603a-314a-a154-44baa1c18a20",
+   "tickers": [
+    "DD"
+   ],
+   "company": "DuPont de Nemours, Inc.",
+   "title": "DuPont Announces Healthcare Solutions U.S.-based Manufacturing Sites Now Powered by 100% Renewable Electricity",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/dupont-announces-healthcare-solutions-u-130000402.html",
+   "published_unix": 1781096400,
+   "captured_at": "2026-06-15T08:38:11"
+  },
+  {
+   "uuid": "b7622394-1803-3fc7-a5de-752e60c0deee",
+   "tickers": [
+    "EXYN"
+   ],
+   "company": "Exyn Technologies, Inc.",
+   "title": "Exyn Expands ExynAI Software Capabilities, Strengthening End-to-End Autonomous Mapping and Reality Capture Workflows",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/sectors/technology/articles/exyn-expands-exynai-software-capabilities-120000977.html",
+   "published_unix": 1781092800,
+   "captured_at": "2026-06-15T08:37:57"
+  },
+  {
+   "uuid": "196bd7fb-902f-312b-b3dd-8c740ed97b20",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora, Inc.",
+   "title": "Barclays Cuts Cencora Price Target to $350 From $425, Maintains Overweight Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-cuts-cencora-price-target-114123960.html",
+   "published_unix": 1781091683,
+   "captured_at": "2026-06-15T08:37:28"
+  },
+  {
+   "uuid": "5678b2b9-5765-365e-9888-872e19a3a4c5",
+   "tickers": [
+    "HSDT"
+   ],
+   "company": "Solana Co",
+   "title": "Solana Institute CEO Pushes Senate to Pass CLARITY Act With Open-Source Protections",
+   "publisher": "Cryptonews",
+   "link": "https://finance.yahoo.com/m/5678b2b9-5765-365e-9888-872e19a3a4c5/solana-institute-ceo-pushes.html",
+   "published_unix": 1781083711,
+   "captured_at": "2026-06-15T08:37:54"
+  },
+  {
+   "uuid": "5de6b1eb-624c-3086-898f-e3b165412aa6",
+   "tickers": [
+    "URBN"
+   ],
+   "company": "URBAN OUTFITTERS INC",
+   "title": "Urban Outfitters to expand in Falls, bring 600 jobs. Here's the plan",
+   "publisher": "Bucks County Courier Times",
+   "link": "https://finance.yahoo.com/m/5de6b1eb-624c-3086-898f-e3b165412aa6/urban-outfitters-to-expand-in.html",
+   "published_unix": 1781081753,
+   "captured_at": "2026-06-15T08:37:19"
+  },
+  {
+   "uuid": "166bd71b-9478-3acf-960b-87a4cf3fd2a4",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "American Water's California Unit Reaches Partial Settlement in General Rate Case",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/sectors/energy/articles/american-water-apos-california-unit-205521201.html",
+   "published_unix": 1781038521,
+   "captured_at": "2026-06-15T08:37:29"
+  },
+  {
+   "uuid": "b4b0b91a-2f07-3006-953c-810971e549af",
+   "tickers": [
+    "CNTX"
+   ],
+   "company": "Context Therapeutics Inc.",
+   "title": "Context Therapeutics Announces Inducement Grant Under Nasdaq Listing Rule 5635(c)(4)",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/context-therapeutics-announces-inducement-grant-201000136.html",
+   "published_unix": 1781035800,
+   "captured_at": "2026-06-15T08:37:50"
+  },
+  {
+   "uuid": "ba34a38d-9b7d-3a66-8d24-28a1c8bbdd01",
+   "tickers": [
+    "UVSP"
+   ],
+   "company": "UNIVEST FINANCIAL Corp",
+   "title": "Univest Financial Insider Sold Shares Worth $570,014, According to a Recent SEC Filing",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/univest-financial-insider-sold-shares-190511907.html",
+   "published_unix": 1781031911,
+   "captured_at": "2026-06-15T08:37:44"
+  },
+  {
+   "uuid": "0d975ef4-b72f-32cd-aec0-d47372aa5972",
+   "tickers": [
+    "SEIC"
+   ],
+   "company": "SEI INVESTMENTS CO",
+   "title": "SEI Names Sneha Shah Chief AI Strategist, Expands Enterprise AI and Data Leadership",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/sectors/technology/articles/sei-names-sneha-shah-chief-130000097.html",
+   "published_unix": 1781010000,
+   "captured_at": "2026-06-15T08:37:28"
+  },
+  {
+   "uuid": "eab54d1e-5d01-3a04-b82b-4806438bbaf3",
+   "tickers": [
+    "DD"
+   ],
+   "company": "DuPont de Nemours, Inc.",
+   "title": "DuPont\u2122 MemCor\u2122 MBR system selected for major Riverstone Water Resource Recovery Facility upgrade in Australia",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/sectors/technology/articles/dupont-memcor-mbr-system-selected-130000502.html",
+   "published_unix": 1781010000,
+   "captured_at": "2026-06-15T08:38:11"
+  },
+  {
+   "uuid": "ea73e8a1-706f-33e0-bdac-e4789d4a98f9",
+   "tickers": [
+    "TFX"
+   ],
+   "company": "TELEFLEX INC",
+   "title": "Teleflex Says Study Shows No New Cardiac Events at 4 Years for Freesolve Scaffold",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/teleflex-says-study-shows-no-110633662.html",
+   "published_unix": 1781003193,
+   "captured_at": "2026-06-15T08:37:35"
+  },
+  {
+   "uuid": "69df9a9d-304c-3107-a27f-cfd34662f214",
+   "tickers": [
+    "WHK"
+   ],
+   "company": "WhiteHawk Income Corp",
+   "title": "WhiteHawk Minerals Announces Pricing of Upsized Initial Public Offering",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/whitehawk-minerals-announces-pricing-upsized-231500819.html",
+   "published_unix": 1780960500,
+   "captured_at": "2026-06-15T08:38:04"
+  },
+  {
+   "uuid": "ef91dad7-d1e8-30ce-990a-9e695d237ee2",
+   "tickers": [
+    "FSK"
+   ],
+   "company": "FS KKR Capital Corp",
+   "title": "FS KKR Capital Closes $900 Million Notes Offering",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fs-kkr-capital-closes-900-204248359.html",
+   "published_unix": 1780951368,
+   "captured_at": "2026-06-15T08:37:37"
+  },
+  {
+   "uuid": "694cd1ea-c8fe-3a3f-86ed-90c483f88c42",
+   "tickers": [
+    "FSK"
+   ],
+   "company": "FS KKR Capital Corp",
+   "title": "FSK Completes Public Offering of $900,000,000 7.500% Unsecured Notes Due 2031",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fsk-completes-public-offering-900-202000925.html",
+   "published_unix": 1780950000,
+   "captured_at": "2026-06-15T08:37:37"
+  },
+  {
+   "uuid": "2cb16817-6387-3b1b-ba94-563bec783f00",
+   "tickers": [
+    "MLYS"
+   ],
+   "company": "Mineralys Therapeutics, Inc.",
+   "title": "Mineralys Therapeutics to Participate in the Goldman Sachs 47th Annual Global Healthcare Conference",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/mineralys-therapeutics-participate-goldman-sachs-200500203.html",
+   "published_unix": 1780949100,
+   "captured_at": "2026-06-15T08:37:38"
   }
  ]
 }
