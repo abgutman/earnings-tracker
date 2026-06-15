@@ -146,3 +146,5 @@
 [2026-06-15 22:10:25]     https://www.sec.gov/Archives/edgar/data/1140859/000110465926074102/tm2617954d1_8k.htm
 [2026-06-15 22:10:26]     ✉ alert sent (8k_701)
 [2026-06-15 22:10:47] === EDGAR POLL complete. Fetched 100 companies, 1 new filings. ===
+[2026-06-15 22:55:33] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-06-15 22:55:59] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
