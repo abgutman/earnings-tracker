@@ -1,6 +1,30 @@
 {
- "generated_at": "2026-06-15T16:21:20+00:00",
+ "generated_at": "2026-06-15T20:29:14+00:00",
  "items": [
+  {
+   "uuid": "51172cc9-65a9-3d8a-bcf7-d8e77f7eb8d6",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora, Inc.",
+   "title": "Cencora Announces Samantha Hammock as Chief Human Resources Officer",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/cencora-announces-samantha-hammock-chief-201500246.html",
+   "published_unix": 1781554500,
+   "captured_at": "2026-06-15T20:28:35"
+  },
+  {
+   "uuid": "d8302f1e-5ecc-3e75-81f3-154e0ec1748d",
+   "tickers": [
+    "HSDT"
+   ],
+   "company": "Solana Co",
+   "title": "Solana Treasury Firm Forward Industries Keeps Trying to Acquire Rivals\u2014But Nobody's Biting",
+   "publisher": "decrypt",
+   "link": "https://finance.yahoo.com/m/d8302f1e-5ecc-3e75-81f3-154e0ec1748d/solana-treasury-firm-forward.html",
+   "published_unix": 1781544629,
+   "captured_at": "2026-06-15T20:28:59"
+  },
   {
    "uuid": "18c721c8-76ea-3e37-976d-9b66dc55b4ec",
    "tickers": [
@@ -852,30 +876,6 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/fs-kkr-capital-closes-900-204248359.html",
    "published_unix": 1780951368,
    "captured_at": "2026-06-15T08:37:37"
-  },
-  {
-   "uuid": "694cd1ea-c8fe-3a3f-86ed-90c483f88c42",
-   "tickers": [
-    "FSK"
-   ],
-   "company": "FS KKR Capital Corp",
-   "title": "FSK Completes Public Offering of $900,000,000 7.500% Unsecured Notes Due 2031",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/fsk-completes-public-offering-900-202000925.html",
-   "published_unix": 1780950000,
-   "captured_at": "2026-06-15T08:37:37"
-  },
-  {
-   "uuid": "2cb16817-6387-3b1b-ba94-563bec783f00",
-   "tickers": [
-    "MLYS"
-   ],
-   "company": "Mineralys Therapeutics, Inc.",
-   "title": "Mineralys Therapeutics to Participate in the Goldman Sachs 47th Annual Global Healthcare Conference",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/mineralys-therapeutics-participate-goldman-sachs-200500203.html",
-   "published_unix": 1780949100,
-   "captured_at": "2026-06-15T08:37:38"
   }
  ]
 }
