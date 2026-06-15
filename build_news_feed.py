@@ -36,9 +36,16 @@ def fmt_full_ts(unix):
     dt = datetime.fromtimestamp(unix, tz=timezone.utc).astimezone(ET)
     return dt.strftime("%a %b %-d, %-I:%M %p ET")
 
+def yahoo_news_url(ticker):
+    """Yahoo Finance news page for a US-listed ticker."""
+    return f"https://finance.yahoo.com/quote/{esc(ticker)}/news/"
+
 def render_card(item):
     tickers = item.get("tickers", [])
-    ticker_html = "".join(f'<span class="chip">{esc(t)}</span>' for t in tickers[:6])
+    ticker_html = "".join(
+        f'<a class="chip" href="{yahoo_news_url(t)}" target="_blank" rel="noopener" '
+        f'title="Yahoo Finance news for {esc(t)}">{esc(t)}</a>'
+        for t in tickers[:6])
     if len(tickers) > 6:
         ticker_html += f'<span class="chip more">+{len(tickers)-6}</span>'
     company = ""
@@ -49,8 +56,12 @@ def render_card(item):
     publisher = esc(item.get("publisher",""))
     title = esc(item.get("title",""))
     link = esc(item.get("link",""))
+    blob = esc(" ".join(list(tickers) + [
+        item.get("company") or "", item.get("title") or "",
+        item.get("publisher") or "",
+    ]).lower())
     return f"""
-    <article class="post">
+    <article class="post" data-search="{blob}">
       <div class="post-header">
         <div class="chips">{ticker_html}</div>
         <span class="ts" title="{full_ts}">{ago}</span>
@@ -93,8 +104,13 @@ body {{ font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvet
 
 .post-header {{ display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 8px; }}
 .chips {{ display: flex; gap: 5px; flex-wrap: wrap; }}
-.chip {{ background: #eef0f3; color: #2c5282; font-family: ui-monospace, monospace; font-size: 11.5px; font-weight: 700; padding: 2px 8px; border-radius: 12px; }}
+.chip {{ background: #eef0f3; color: #2c5282; font-family: ui-monospace, monospace; font-size: 11.5px; font-weight: 700; padding: 2px 8px; border-radius: 12px; text-decoration: none; display: inline-block; }}
+a.chip:hover {{ background: #d6e2f2; color: #1c3d5f; }}
 .chip.more {{ background: transparent; color: #6c757d; font-weight: 500; }}
+
+.search-box {{ width: 100%; margin-top: 14px; padding: 9px 13px; border: 1px solid #d0d7de; border-radius: 8px; font-size: 14px; color: #1a1a2e; }}
+.search-box:focus {{ outline: none; border-color: #2c5282; box-shadow: 0 0 0 2px rgba(44,82,130,0.12); }}
+.no-match {{ background: white; padding: 30px; border-radius: 12px; text-align: center; color: #6c757d; font-style: italic; display: none; }}
 .ts {{ color: #6c757d; font-size: 12px; white-space: nowrap; font-variant-numeric: tabular-nums; }}
 
 .headline {{ font-size: 16px; line-height: 1.4; margin: 0 0 10px; font-weight: 600; }}
@@ -121,16 +137,40 @@ body {{ font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvet
 <div class="feed-shell">
   <div class="feed-header">
     <h1>Philly Business News</h1>
-    <p class="sub">Yahoo Finance headlines for the 100+ public companies HQ'd in the 8-county Philadelphia region. Last 48 hours, newest first.</p>
+    <p class="sub">Yahoo Finance headlines for the 100+ public companies HQ'd in the 8-county Philadelphia region. Last 7 days, newest first.</p>
     <div class="counts">
-      <span><b>{len(items)}</b> headlines</span>
+      <span><b id="shown-count">{len(items)}</b> / {len(items)} headlines</span>
       <span><b>{n_companies}</b> companies in news</span>
       <span>Refreshed hourly · last update {esc(gen_display)}</span>
     </div>
+    <input id="search" class="search-box" type="search" autocomplete="off"
+           placeholder="Search headlines, tickers, companies, publishers…">
   </div>
 
-  {posts_html if items else '<div class="empty">No news in the last 48 hours.</div>'}
+  {posts_html if items else '<div class="empty">No news in the last 7 days.</div>'}
+  <div class="no-match" id="no-match">No headlines match your search.</div>
 </div>
+<script>
+(function() {{
+  var box = document.getElementById('search');
+  if (!box) return;
+  var posts = Array.prototype.slice.call(document.querySelectorAll('.post'));
+  var counter = document.getElementById('shown-count');
+  var noMatch = document.getElementById('no-match');
+  function apply() {{
+    var q = box.value.trim().toLowerCase();
+    var n = 0;
+    posts.forEach(function(p) {{
+      var hit = !q || (p.getAttribute('data-search') || '').indexOf(q) !== -1;
+      p.style.display = hit ? '' : 'none';
+      if (hit) n++;
+    }});
+    if (counter) counter.textContent = n;
+    if (noMatch) noMatch.style.display = (posts.length && n === 0) ? 'block' : 'none';
+  }}
+  box.addEventListener('input', apply);
+}})();
+</script>
 </body>
 </html>"""
 

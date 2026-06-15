@@ -9,7 +9,7 @@ For each tracked company:
   1. Query Yahoo Finance: ?q={ticker}&newsCount=25
   2. Add ALL items to news_feed.json (no filter)
   3. Dedupe by UUID — keep the union of associated tickers per article
-  4. Drop entries older than 48 hours so the feed stays focused on "today / yesterday"
+  4. Drop entries older than the lookback window (7 days) so the feed stays current
 """
 import json, os, re, sys, subprocess, time
 from datetime import datetime, timezone, timedelta
@@ -21,7 +21,7 @@ COMPANIES_FILE = ED / "expanded_companies.json"
 FEED_FILE = ED / "news_feed.json"
 LOG_FILE = ED / "news_feed_log.txt"
 
-LOOKBACK_HOURS = 48
+LOOKBACK_HOURS = 168  # 7 days
 
 STRIP_SUFFIXES = re.compile(
     r"\b(Inc\.?|Corp\.?|Co\.?|Ltd\.?|LLC|L\.?P\.?|PLC|N\.?V\.?|S\.?A\.?|"
