@@ -1,6 +1,54 @@
 {
- "generated_at": "2026-06-15T20:29:14+00:00",
+ "generated_at": "2026-06-15T23:06:24+00:00",
  "items": [
+  {
+   "uuid": "9d5c4c71-7132-349e-822a-47d021e96bd1",
+   "tickers": [
+    "ESMR"
+   ],
+   "company": "E-Smart Corp.",
+   "title": "The AI from Skin Analytics that caught 20,000 cancers in the UK is now certified for use on a standard smartphone",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/ai-skin-analytics-caught-20-230100609.html",
+   "published_unix": 1781564460,
+   "captured_at": "2026-06-15T23:06:21"
+  },
+  {
+   "uuid": "770d485f-a6df-3f0b-bb9e-180271662782",
+   "tickers": [
+    "CNTX"
+   ],
+   "company": "Context Therapeutics Inc.",
+   "title": "CNTX Hits Worst Day In History After Ovarian Cancer Trial Data \u2014 But Analysts See Buying Opportunity In Dip",
+   "publisher": "Stocktwits",
+   "link": "https://finance.yahoo.com/m/770d485f-a6df-3f0b-bb9e-180271662782/cntx-hits-worst-day-in.html",
+   "published_unix": 1781558445,
+   "captured_at": "2026-06-15T23:06:02"
+  },
+  {
+   "uuid": "89b49869-9f3f-393f-a8df-31b1947f7f3a",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora, Inc.",
+   "title": "Cencora Appoints Samantha Hammock as Chief Human Resources Officer",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cencora-appoints-samantha-hammock-chief-205355938.html",
+   "published_unix": 1781556835,
+   "captured_at": "2026-06-15T23:05:44"
+  },
+  {
+   "uuid": "05ab50f8-d93b-3710-b3bd-484c7c263be1",
+   "tickers": [
+    "HLNE"
+   ],
+   "company": "Hamilton Lane INC",
+   "title": "Hamilton Lane Insider Bought Shares Worth $1,144,050, According to a Recent SEC Filing",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/hamilton-lane-insider-bought-shares-201746953.html",
+   "published_unix": 1781554666,
+   "captured_at": "2026-06-15T23:05:51"
+  },
   {
    "uuid": "51172cc9-65a9-3d8a-bcf7-d8e77f7eb8d6",
    "tickers": [
@@ -864,18 +912,6 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/whitehawk-minerals-announces-pricing-upsized-231500819.html",
    "published_unix": 1780960500,
    "captured_at": "2026-06-15T08:38:04"
-  },
-  {
-   "uuid": "ef91dad7-d1e8-30ce-990a-9e695d237ee2",
-   "tickers": [
-    "FSK"
-   ],
-   "company": "FS KKR Capital Corp",
-   "title": "FS KKR Capital Closes $900 Million Notes Offering",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/fs-kkr-capital-closes-900-204248359.html",
-   "published_unix": 1780951368,
-   "captured_at": "2026-06-15T08:37:37"
   }
  ]
 }
