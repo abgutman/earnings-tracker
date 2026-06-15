@@ -148,3 +148,26 @@
 [2026-06-13 00:11:39] No new transcripts found; transcripts.json unchanged
 [2026-06-13 00:11:39] === Done. 0 new transcript links found. ===
 
+[2026-06-15 19:06:50] === Fool transcript harvest start (dry_run=False) ===
+[2026-06-15 19:06:50] Loaded 122 tickers from expanded_companies.json
+[2026-06-15 19:06:50] Recent tickers (last filing within 14d): ['CABA', 'CNTX', 'CPB', 'CUBE', 'FIVE', 'FSK', 'IRT', 'QNBC', 'TFX', 'TRAW', 'UIS', 'URBN', 'VLGEA', 'WST']
+[2026-06-15 19:06:50] Seed backfill: all seeds already in state
+[2026-06-15 19:06:50] Fetching Fool transcript index: https://www.fool.com/earnings-call-transcripts/
+[2026-06-15 19:06:51]   Found 20 transcript links on index page
+[2026-06-15 19:06:51]   Fool index matched tickers: []
+[2026-06-15 19:06:51] Yahoo secondary search for 12 tickers: ['CABA', 'CNTX', 'CUBE', 'FSK', 'IRT', 'QNBC', 'TFX', 'TRAW', 'UIS', 'URBN', 'VLGEA', 'WST']
+[2026-06-15 19:06:52]   MISS [Yahoo] CABA: no transcript items in feed
+[2026-06-15 19:06:52]   MISS [Yahoo] CNTX: no transcript items in feed
+[2026-06-15 19:06:52]   MISS [Yahoo] CUBE: no transcript items in feed
+[2026-06-15 19:06:53]   MISS [Yahoo] FSK: no transcript items in feed
+[2026-06-15 19:06:54]   MISS [Yahoo] IRT: no transcript items in feed
+[2026-06-15 19:06:54]   MISS [Yahoo] QNBC: no transcript items in feed
+[2026-06-15 19:06:55]   MISS [Yahoo] TFX: no transcript items in feed
+[2026-06-15 19:06:55]   MISS [Yahoo] TRAW: no transcript items in feed
+[2026-06-15 19:06:56]   MISS [Yahoo] UIS: no transcript items in feed
+[2026-06-15 19:06:56]   MISS [Yahoo] URBN: no transcript items in feed
+[2026-06-15 19:06:57]   MISS [Yahoo] VLGEA: no transcript items in feed
+[2026-06-15 19:06:57]   MISS [Yahoo] WST: no transcript items in feed
+[2026-06-15 19:06:57] No new transcripts found; transcripts.json unchanged
+[2026-06-15 19:06:57] === Done. 0 new transcript links found. ===
+
