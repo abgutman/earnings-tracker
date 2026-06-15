@@ -1300,15 +1300,15 @@
   "name": "Context Therapeutics Inc.",
   "cik": 1842952,
   "priority_tier": 2,
-  "last_event_date": "2026-05-06T20:18:00+00:00",
-  "last_event_title": "Context Therapeutics Reports First Quarter 2026 Operating and Financial Results",
-  "last_event_source": "yahoo",
-  "last_event_url": "https://finance.yahoo.com/sectors/healthcare/articles/context-therapeutics-reports-first-quarter-201800060.html",
+  "last_event_date": "2026-06-15T09:18:44.000Z",
+  "last_event_title": "8k_701 filed 2026-06-15",
+  "last_event_source": "edgar",
+  "last_event_url": "https://www.sec.gov/Archives/edgar/data/1842952/000162828026043042/cntx-20260615.htm",
   "last_event_publisher": "GlobeNewswire",
   "edgar_accession": "0001842952-23-000040",
-  "last_8k_date": "2026-05-18",
-  "last_8k_accession": "0001628280-26-035793",
-  "last_8k_url": "https://www.sec.gov/Archives/edgar/data/1842952/000162828026035793/cntx-20260514.htm",
+  "last_8k_date": "2026-06-15",
+  "last_8k_accession": "0001628280-26-043042",
+  "last_8k_url": "https://www.sec.gov/Archives/edgar/data/1842952/000162828026043042/cntx-20260615.htm",
   "history": [
    {
     "date": "2023-03-22T21:09:27.000Z",
@@ -1317,10 +1317,14 @@
     "url": "https://www.sec.gov/Archives/edgar/data/1842952/000184295223000040/cntx-20230317.htm"
    }
   ],
-  "last_detected_date": "2026-05-18",
-  "last_detected_accession": "0001628280-26-035793",
+  "last_detected_date": "2026-06-15",
+  "last_detected_accession": "0001628280-26-043042",
   "last_detected_type": "8k_701",
-  "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1842952/000162828026035793/cntx-20260514.htm"
+  "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1842952/000162828026043042/cntx-20260615.htm",
+  "last_detected_at": "2026-06-15T16:25:55.309093+00:00",
+  "last_8k_detected_at": "2026-06-15T16:25:55.309093+00:00",
+  "pending_10q_since": "2026-06-15",
+  "last_10q_url": null
  },
  "QNBC": {
   "ticker": "QNBC",
