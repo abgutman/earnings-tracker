@@ -1,6 +1,42 @@
 {
- "generated_at": "2026-06-15T12:38:11+00:00",
+ "generated_at": "2026-06-15T16:21:20+00:00",
  "items": [
+  {
+   "uuid": "18c721c8-76ea-3e37-976d-9b66dc55b4ec",
+   "tickers": [
+    "EPAM"
+   ],
+   "company": "EPAM Systems, Inc.",
+   "title": "EPAM Systems' Weak Demand, AI Risks Limit Upside Potential, Wedbush Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/epam-systems-apos-weak-demand-151015959.html",
+   "published_unix": 1781536215,
+   "captured_at": "2026-06-15T16:20:35"
+  },
+  {
+   "uuid": "5b54ce5d-77e8-3012-afd6-f9528c615db0",
+   "tickers": [
+    "HSDT"
+   ],
+   "company": "Solana Co",
+   "title": "Forward Industries Offers to Acquire Solana, SkyAI; Solana Declines, No Response From SkyAI",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/forward-industries-offers-acquire-solana-143214723.html",
+   "published_unix": 1781533934,
+   "captured_at": "2026-06-15T16:20:57"
+  },
+  {
+   "uuid": "5d2ab4d5-0882-31a1-8722-49ac52f3f0f9",
+   "tickers": [
+    "EXYN"
+   ],
+   "company": "Exyn Technologies, Inc.",
+   "title": "Join Exyn Technologies' Exclusive Live Investor Webinar and Q&A Session on June 30",
+   "publisher": "ACCESS Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/join-exyn-technologies-exclusive-live-130000192.html",
+   "published_unix": 1781528400,
+   "captured_at": "2026-06-15T16:21:01"
+  },
   {
    "uuid": "8256f089-b80f-38ea-bdab-5bfe2f88a554",
    "tickers": [
@@ -84,6 +120,18 @@
    "link": "https://finance.yahoo.com/sectors/healthcare/articles/johnson-johnson-invests-more-1-100000142.html",
    "published_unix": 1781517600,
    "captured_at": "2026-06-15T08:38:11"
+  },
+  {
+   "uuid": "654e5d96-01ea-3540-bdfd-fc055a2b7e60",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores, Inc.",
+   "title": "Burlington Stores Is on a Hot Streak. The Stock Is Still Worth Checking Out.",
+   "publisher": "Barrons.com",
+   "link": "https://finance.yahoo.com/m/654e5d96-01ea-3540-bdfd-fc055a2b7e60/burlington-stores-is-on-a-hot.html",
+   "published_unix": 1781500680,
+   "captured_at": "2026-06-15T16:20:30"
   },
   {
    "uuid": "9db5b6bf-cd69-37c4-96db-9aea782f161e",
