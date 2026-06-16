@@ -37,14 +37,14 @@ async function sha256(msg) {{
 async function checkPw() {{
   const h = await sha256(document.getElementById('auth-pw').value);
   if (h === '{PASSWORD_HASH}') {{
-    sessionStorage.setItem('busybiz_auth','1');
+    localStorage.setItem('busybiz_auth','1');
     document.getElementById('auth-gate').remove();
   }} else {{
     document.getElementById('auth-err').style.display='block';
     document.getElementById('auth-pw').value='';
   }}
 }}
-if (sessionStorage.getItem('busybiz_auth')==='1') {{
+if (localStorage.getItem('busybiz_auth')==='1') {{
   document.getElementById('auth-gate').remove();
 }}
 </script>

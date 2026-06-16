@@ -73,14 +73,14 @@ async function sha256(msg) {
 async function checkPw() {
   const h = await sha256(document.getElementById('auth-pw').value);
   if (h === '6f9b9af28410ba27d402b20770ef7467287ccac76863972d3491feedc75703ac') {
-    sessionStorage.setItem('busybiz_auth','1');
+    localStorage.setItem('busybiz_auth','1');
     document.getElementById('auth-gate').remove();
   } else {
     document.getElementById('auth-err').style.display='block';
     document.getElementById('auth-pw').value='';
   }
 }
-if (sessionStorage.getItem('busybiz_auth')==='1') {
+if (localStorage.getItem('busybiz_auth')==='1') {
   document.getElementById('auth-gate').remove();
 }
 </script>
