@@ -1,6 +1,66 @@
 {
- "generated_at": "2026-06-16T20:14:15+00:00",
+ "generated_at": "2026-06-16T22:56:10+00:00",
  "items": [
+  {
+   "uuid": "287db816-7ccf-3ecc-a728-5d3134a63c5f",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC CORP",
+   "title": "Corteva, FMC Team Up to Expand Access to Rimisoxafen Herbicide Technology",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/corteva-fmc-team-expand-access-213216455.html",
+   "published_unix": 1781645536,
+   "captured_at": "2026-06-16T22:54:31"
+  },
+  {
+   "uuid": "173819b0-ed42-30b3-b8ba-712088063dcd",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores, Inc.",
+   "title": "Burlington Stores Insider Sold Shares Worth $7,144,823, According to a Recent SEC Filing",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/burlington-stores-insider-sold-shares-212332533.html",
+   "published_unix": 1781645012,
+   "captured_at": "2026-06-16T22:54:55"
+  },
+  {
+   "uuid": "d86e8077-2c25-3262-9080-714f83b434b0",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC CORP",
+   "title": "FMC Corporation and Corteva Expand Access to Breakthrough Rimisoxafen Herbicide Technology",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/fmc-corporation-corteva-expand-access-210000240.html",
+   "published_unix": 1781643600,
+   "captured_at": "2026-06-16T22:54:31"
+  },
+  {
+   "uuid": "abac9262-f91f-3264-81d4-377cbe380849",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "FIVE BELOW, INC",
+   "title": "Five Below Names Shake Shack CEO Robert Lynch to Board",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-names-shake-shack-205559449.html",
+   "published_unix": 1781643359,
+   "captured_at": "2026-06-16T22:54:32"
+  },
+  {
+   "uuid": "26c56460-ff91-3b84-afb3-08f24054d3bd",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "FIVE BELOW, INC",
+   "title": "Five Below, Inc. Announces Election of Robert Lynch to its Board of Directors",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-inc-announces-election-203000949.html",
+   "published_unix": 1781641800,
+   "captured_at": "2026-06-16T22:54:32"
+  },
   {
    "uuid": "24b4ebdb-9504-340e-ba93-ccd4cd83d4b8",
    "tickers": [
@@ -1116,18 +1176,6 @@
    "link": "https://finance.yahoo.com/m/5de6b1eb-624c-3086-898f-e3b165412aa6/urban-outfitters-to-expand-in.html",
    "published_unix": 1781081753,
    "captured_at": "2026-06-15T08:37:19"
-  },
-  {
-   "uuid": "166bd71b-9478-3acf-960b-87a4cf3fd2a4",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "American Water's California Unit Reaches Partial Settlement in General Rate Case",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/sectors/energy/articles/american-water-apos-california-unit-205521201.html",
-   "published_unix": 1781038521,
-   "captured_at": "2026-06-15T08:37:29"
   }
  ]
 }

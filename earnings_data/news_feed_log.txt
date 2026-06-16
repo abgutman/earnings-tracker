@@ -169,3 +169,10 @@
 [2026-06-16 20:13:28] === News feed poll start ===
 [2026-06-16 20:13:28] Polling Yahoo for 109 companies
 [2026-06-16 20:14:15] === Done. Fetched 109 companies, 292 new items, 94 total in 168h window ===
+[2026-06-16 22:54:29] === News feed poll start ===
+[2026-06-16 22:54:29] Polling Yahoo for 109 companies
+[2026-06-16 22:54:43]   fetch err: Failed to perform, curl: (56) Recv failure: Connection reset by peer. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+[2026-06-16 22:55:10]   fetch err: Failed to perform, curl: (28) Connection timed out after 12002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+[2026-06-16 22:55:29]   fetch err: Failed to perform, curl: (28) Connection timed out after 12002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+[2026-06-16 22:55:44]   fetch err: Failed to perform, curl: (28) Connection timed out after 12002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+[2026-06-16 22:56:10] === Done. Fetched 105 companies, 281 new items, 98 total in 168h window ===
