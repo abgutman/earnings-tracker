@@ -1,6 +1,18 @@
 {
- "generated_at": "2026-06-15T23:06:24+00:00",
+ "generated_at": "2026-06-16T02:42:16+00:00",
  "items": [
+  {
+   "uuid": "d1b8f12a-1392-381e-8cec-615db24d8492",
+   "tickers": [
+    "ESMR"
+   ],
+   "company": "E-Smart Corp.",
+   "title": "Speediance Becomes Official Smart Fitness Equipment Partner of ATHX",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/technology/articles/speediance-becomes-official-smart-fitness-022200546.html",
+   "published_unix": 1781576520,
+   "captured_at": "2026-06-16T02:42:14"
+  },
   {
    "uuid": "9d5c4c71-7132-349e-822a-47d021e96bd1",
    "tickers": [
@@ -900,18 +912,6 @@
    "link": "https://finance.yahoo.com/sectors/healthcare/articles/teleflex-says-study-shows-no-110633662.html",
    "published_unix": 1781003193,
    "captured_at": "2026-06-15T08:37:35"
-  },
-  {
-   "uuid": "69df9a9d-304c-3107-a27f-cfd34662f214",
-   "tickers": [
-    "WHK"
-   ],
-   "company": "WhiteHawk Income Corp",
-   "title": "WhiteHawk Minerals Announces Pricing of Upsized Initial Public Offering",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/whitehawk-minerals-announces-pricing-upsized-231500819.html",
-   "published_unix": 1780960500,
-   "captured_at": "2026-06-15T08:38:04"
   }
  ]
 }
