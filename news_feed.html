@@ -52,16 +52,17 @@ a.chip:hover { background: #d6e2f2; color: #1c3d5f; }
 </head>
 <body>
 
-<div id="auth-gate" style="position:fixed;inset:0;background:#1a1a2e;z-index:99999;display:flex;align-items:center;justify-content:center;">
-  <div style="background:white;padding:40px;border-radius:12px;text-align:center;max-width:360px;width:90%;box-shadow:0 4px 20px rgba(0,0,0,0.3);">
-    <div style="font-size:28px;margin-bottom:20px;">&#128274;</div>
+<div id="auth-gate" style="position:fixed;inset:0;background:#0d1117;z-index:99999;display:flex;align-items:center;justify-content:center;">
+  <div style="background:#161b22;border:1px solid #21262d;padding:40px;border-radius:12px;text-align:center;max-width:360px;width:90%;box-shadow:0 8px 30px rgba(0,0,0,0.6);">
+    <div style="font-size:22px;font-weight:800;letter-spacing:2px;color:#e6edf3;margin-bottom:4px;">BUSY BIZ</div>
+    <div style="font-size:12px;color:#8b949e;margin-bottom:22px;">Tools to keep biz busy</div>
     <input id="auth-pw" type="password" placeholder="Password" autofocus
-      style="width:100%;padding:12px;border:2px solid #ddd;border-radius:6px;font-size:15px;margin-bottom:12px;box-sizing:border-box;"
+      style="width:100%;padding:12px;border:1px solid #30363d;background:#0d1117;color:#e6edf3;border-radius:6px;font-size:15px;margin-bottom:12px;box-sizing:border-box;"
       onkeydown="if(event.key==='Enter')checkPw()">
     <button onclick="checkPw()"
-      style="width:100%;padding:12px;background:#1a1a2e;color:white;border:none;border-radius:6px;font-size:15px;font-weight:600;cursor:pointer;">
+      style="width:100%;padding:12px;background:#3fb950;color:#0d1117;border:none;border-radius:6px;font-size:15px;font-weight:700;cursor:pointer;">
       Enter</button>
-    <p id="auth-err" style="color:#c0392b;font-size:13px;margin-top:10px;display:none;">Incorrect password</p>
+    <p id="auth-err" style="color:#f85149;font-size:13px;margin-top:10px;display:none;">Incorrect password</p>
   </div>
 </div>
 <script>
@@ -84,7 +85,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
 }
 </script>
 
-<a href="https://abgutman.github.io/av-tools/" style="position:fixed;top:12px;right:12px;z-index:9998;background:#1a1a2e;color:white;padding:6px 14px;border-radius:6px;text-decoration:none;font-size:13px;font-weight:600;box-shadow:0 2px 6px rgba(0,0,0,0.2);">Av's Tools Homepage</a>
+<a href="https://abgutman.github.io/busy-biz/" style="position:fixed;top:12px;right:12px;z-index:9998;background:#161b22;color:#e6edf3;border:1px solid #30363d;padding:6px 14px;border-radius:6px;text-decoration:none;font-size:13px;font-weight:600;box-shadow:0 2px 6px rgba(0,0,0,0.4);">Busy Biz</a>
 <div class="feed-shell">
   <div class="feed-header">
     <h1>Philly Business News</h1>
@@ -102,7 +103,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="hlne hamilton lane inc hamilton lane shares rise after director buys shares worth $1.1 million mt newswires">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/HLNE/news/" target="_blank" rel="noopener" title="Yahoo Finance news for HLNE">HLNE</a></div>
-        <span class="ts" title="Tue Jun 16, 2:32 PM ET">1h</span>
+        <span class="ts" title="Tue Jun 16, 2:32 PM ET">2h</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/hamilton-lane-shares-rise-director-183225760.html" target="_blank" rel="noopener">Hamilton Lane Shares Rise After Director Buys Shares Worth $1.1 Million</a></h3>
       <div class="post-footer">
@@ -113,7 +114,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="awk american water works company, inc. american water provides expertise at 2026 macruc annual education conference pr newswire">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/AWK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for AWK">AWK</a></div>
-        <span class="ts" title="Tue Jun 16, 1:00 PM ET">3h</span>
+        <span class="ts" title="Tue Jun 16, 1:00 PM ET">4h</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/technology/ai/articles/american-water-provides-expertise-2026-170000938.html" target="_blank" rel="noopener">American Water Provides Expertise at 2026 MACRUC Annual Education Conference</a></h3>
       <div class="post-footer">
@@ -124,7 +125,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="tol toll brothers, inc. toll brothers announces final opportunity to purchase a new home at regency at caramella ranch in south reno, nevada globenewswire">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/TOL/news/" target="_blank" rel="noopener" title="Yahoo Finance news for TOL">TOL</a></div>
-        <span class="ts" title="Tue Jun 16, 12:38 PM ET">3h</span>
+        <span class="ts" title="Tue Jun 16, 12:38 PM ET">4h</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-final-opportunity-163800076.html" target="_blank" rel="noopener">Toll Brothers Announces Final Opportunity to Purchase a New Home at Regency at Caramella Ranch in South Reno, Nevada</a></h3>
       <div class="post-footer">
@@ -135,7 +136,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="tol toll brothers, inc. toll brothers offers move-in ready townhomes just minutes from washington, d.c. globenewswire">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/TOL/news/" target="_blank" rel="noopener" title="Yahoo Finance news for TOL">TOL</a></div>
-        <span class="ts" title="Tue Jun 16, 12:37 PM ET">3h</span>
+        <span class="ts" title="Tue Jun 16, 12:37 PM ET">4h</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/real-estate/articles/toll-brothers-offers-move-ready-163700367.html" target="_blank" rel="noopener">Toll Brothers Offers Move-in Ready Townhomes Just Minutes from Washington, D.C.</a></h3>
       <div class="post-footer">
@@ -146,7 +147,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="awk american water works company, inc. illinois american water encourages customers across illinois to practice wise water use this summer pr newswire">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/AWK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for AWK">AWK</a></div>
-        <span class="ts" title="Tue Jun 16, 11:55 AM ET">4h</span>
+        <span class="ts" title="Tue Jun 16, 11:55 AM ET">5h</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/energy/articles/illinois-american-water-encourages-customers-155500724.html" target="_blank" rel="noopener">Illinois American Water Encourages Customers Across Illinois to Practice Wise Water Use This Summer</a></h3>
       <div class="post-footer">
@@ -157,7 +158,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="mrk merck &amp; co., inc. jetstream venture fund secures position in rejuvenate bio, investing alongside industry giant merck pr newswire">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/MRK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for MRK">MRK</a></div>
-        <span class="ts" title="Tue Jun 16, 11:01 AM ET">5h</span>
+        <span class="ts" title="Tue Jun 16, 11:01 AM ET">6h</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/jetstream-venture-fund-secures-position-150100540.html" target="_blank" rel="noopener">Jetstream Venture Fund Secures Position in Rejuvenate Bio, Investing Alongside Industry Giant Merck</a></h3>
       <div class="post-footer">
@@ -168,7 +169,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="vsh vishay intertechnology inc vishay intertechnology releases new 1 a, 2 a, and 3 a gen 7 1200 v fred pt® hyperfast rectifiers in smpc hv package globenewswire">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/VSH/news/" target="_blank" rel="noopener" title="Yahoo Finance news for VSH">VSH</a></div>
-        <span class="ts" title="Tue Jun 16, 11:00 AM ET">5h</span>
+        <span class="ts" title="Tue Jun 16, 11:00 AM ET">6h</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/technology/articles/vishay-intertechnology-releases-1-2-150000251.html" target="_blank" rel="noopener">Vishay Intertechnology Releases New 1 A, 2 A, and 3 A Gen 7 1200 V FRED Pt® Hyperfast Rectifiers in SMPC HV Package</a></h3>
       <div class="post-footer">
@@ -179,7 +180,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="jnj johnson &amp; johnson johnson &amp; johnson ceo says cure for certain cancers is realistic goal the wall street journal">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/JNJ/news/" target="_blank" rel="noopener" title="Yahoo Finance news for JNJ">JNJ</a></div>
-        <span class="ts" title="Tue Jun 16, 10:54 AM ET">5h</span>
+        <span class="ts" title="Tue Jun 16, 10:54 AM ET">6h</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/m/cc86d98c-3952-38a0-9f7c-f8289d8f45c3/johnson-%26-johnson-ceo-says.html" target="_blank" rel="noopener">Johnson &amp; Johnson CEO Says Cure for Certain Cancers Is Realistic Goal</a></h3>
       <div class="post-footer">
@@ -190,7 +191,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="cmcsa comcast corp comcast&#x27;s xfinity launches same-day wifi equipment delivery mt newswires">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/CMCSA/news/" target="_blank" rel="noopener" title="Yahoo Finance news for CMCSA">CMCSA</a></div>
-        <span class="ts" title="Tue Jun 16, 10:16 AM ET">5h</span>
+        <span class="ts" title="Tue Jun 16, 10:16 AM ET">6h</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/technology/articles/comcast-apos-xfinity-launches-same-141610312.html" target="_blank" rel="noopener">Comcast&#x27;s Xfinity Launches Same-Day WiFi Equipment Delivery</a></h3>
       <div class="post-footer">
@@ -201,7 +202,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="dd dupont de nemours, inc. personal protective equipment market to reach usd 34.22 billion by 2031 | 3m, dupont, ansell, msa, and 37 key players profiled | arizton pr newswire">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/DD/news/" target="_blank" rel="noopener" title="Yahoo Finance news for DD">DD</a></div>
-        <span class="ts" title="Tue Jun 16, 10:11 AM ET">6h</span>
+        <span class="ts" title="Tue Jun 16, 10:11 AM ET">7h</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/personal-protective-equipment-market-reach-141100034.html" target="_blank" rel="noopener">Personal Protective Equipment Market to Reach USD 34.22 Billion by 2031 | 3M, DuPont, Ansell, MSA, and 37 Key Players Profiled | Arizton</a></h3>
       <div class="post-footer">
@@ -212,7 +213,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="avtx avalo therapeutics, inc. avalo therapeutics plans ind application for avtx-010 in h1 2027 mt newswires">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/AVTX/news/" target="_blank" rel="noopener" title="Yahoo Finance news for AVTX">AVTX</a></div>
-        <span class="ts" title="Tue Jun 16, 9:19 AM ET">6h</span>
+        <span class="ts" title="Tue Jun 16, 9:19 AM ET">7h</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/avalo-therapeutics-plans-ind-application-131925464.html" target="_blank" rel="noopener">Avalo Therapeutics Plans IND Application for AVTX-010 in H1 2027</a></h3>
       <div class="post-footer">
@@ -223,7 +224,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="mrk merck &amp; co., inc. merck signs drug discovery, licensing deal with protillion biosciences mt newswires">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/MRK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for MRK">MRK</a></div>
-        <span class="ts" title="Tue Jun 16, 9:04 AM ET">7h</span>
+        <span class="ts" title="Tue Jun 16, 9:04 AM ET">8h</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/merck-signs-drug-discovery-licensing-130416581.html" target="_blank" rel="noopener">Merck Signs Drug Discovery, Licensing Deal With Protillion Biosciences</a></h3>
       <div class="post-footer">
@@ -234,7 +235,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="seic sei investments co sei introduces technology and ai to boost investment manager efficiency pr newswire">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/SEIC/news/" target="_blank" rel="noopener" title="Yahoo Finance news for SEIC">SEIC</a></div>
-        <span class="ts" title="Tue Jun 16, 8:00 AM ET">8h</span>
+        <span class="ts" title="Tue Jun 16, 8:00 AM ET">9h</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/technology/ai/articles/sei-introduces-technology-ai-boost-120000080.html" target="_blank" rel="noopener">SEI Introduces Technology and AI to Boost Investment Manager Efficiency</a></h3>
       <div class="post-footer">
@@ -245,7 +246,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="awk american water works company, inc. missouri american water proudly recognizes american water charitable foundation state strategic impact grantees pr newswire">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/AWK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for AWK">AWK</a></div>
-        <span class="ts" title="Tue Jun 16, 8:00 AM ET">8h</span>
+        <span class="ts" title="Tue Jun 16, 8:00 AM ET">9h</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/missouri-american-water-proudly-recognizes-120000797.html" target="_blank" rel="noopener">Missouri American Water Proudly Recognizes American Water Charitable Foundation State Strategic Impact Grantees</a></h3>
       <div class="post-footer">
@@ -256,7 +257,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="awk american water works company, inc. pennsylvania american water launches 2026 flow forward summer camp program to help teens explore the water industry workforce pr newswire">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/AWK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for AWK">AWK</a></div>
-        <span class="ts" title="Tue Jun 16, 8:00 AM ET">8h</span>
+        <span class="ts" title="Tue Jun 16, 8:00 AM ET">9h</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/small-business/articles/pennsylvania-american-water-launches-2026-120000655.html" target="_blank" rel="noopener">Pennsylvania American Water Launches 2026 Flow Forward Summer Camp Program to Help Teens Explore the Water Industry Workforce</a></h3>
       <div class="post-footer">
@@ -267,7 +268,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="mrk merck &amp; co., inc. protillion biosciences announces drug discovery collaboration with merck business wire">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/MRK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for MRK">MRK</a></div>
-        <span class="ts" title="Tue Jun 16, 8:00 AM ET">8h</span>
+        <span class="ts" title="Tue Jun 16, 8:00 AM ET">9h</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/protillion-biosciences-announces-drug-discovery-120000783.html" target="_blank" rel="noopener">Protillion Biosciences Announces Drug Discovery Collaboration with Merck</a></h3>
       <div class="post-footer">
@@ -278,7 +279,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="hsdt solana co solana company rejects unsolicited acquisition offer from forward industries mt newswires">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/HSDT/news/" target="_blank" rel="noopener" title="Yahoo Finance news for HSDT">HSDT</a></div>
-        <span class="ts" title="Tue Jun 16, 7:59 AM ET">8h</span>
+        <span class="ts" title="Tue Jun 16, 7:59 AM ET">9h</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/solana-company-rejects-unsolicited-acquisition-115926753.html" target="_blank" rel="noopener">Solana Company Rejects Unsolicited Acquisition Offer From Forward Industries</a></h3>
       <div class="post-footer">
@@ -289,7 +290,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="cmcsa comcast corp transunion names former comcast executive as chief marketing and communications officer mt newswires">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/CMCSA/news/" target="_blank" rel="noopener" title="Yahoo Finance news for CMCSA">CMCSA</a></div>
-        <span class="ts" title="Tue Jun 16, 7:33 AM ET">8h</span>
+        <span class="ts" title="Tue Jun 16, 7:33 AM ET">9h</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/transunion-names-former-comcast-executive-113320728.html" target="_blank" rel="noopener">TransUnion Names Former Comcast Executive as Chief Marketing and Communications Officer</a></h3>
       <div class="post-footer">
@@ -300,7 +301,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="hsdt solana co solana news: forward industries struck out on all three solana acquisition bids cryptonews">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/HSDT/news/" target="_blank" rel="noopener" title="Yahoo Finance news for HSDT">HSDT</a></div>
-        <span class="ts" title="Tue Jun 16, 7:32 AM ET">8h</span>
+        <span class="ts" title="Tue Jun 16, 7:32 AM ET">9h</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/m/250896a4-d7ea-385c-be0e-ba2a037b049e/solana-news%3A-forward.html" target="_blank" rel="noopener">Solana News: Forward Industries Struck Out on All Three Solana Acquisition Bids</a></h3>
       <div class="post-footer">
@@ -311,7 +312,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="avtx avalo therapeutics, inc. avalo therapeutics expands pipeline with avtx-010, a long-acting next-generation anti-il-1β antibody globenewswire">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/AVTX/news/" target="_blank" rel="noopener" title="Yahoo Finance news for AVTX">AVTX</a></div>
-        <span class="ts" title="Tue Jun 16, 7:00 AM ET">9h</span>
+        <span class="ts" title="Tue Jun 16, 7:00 AM ET">10h</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/avalo-therapeutics-expands-pipeline-avtx-110000212.html" target="_blank" rel="noopener">Avalo Therapeutics Expands Pipeline with AVTX-010, a Long-Acting Next-Generation Anti-IL-1β Antibody</a></h3>
       <div class="post-footer">
@@ -322,7 +323,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="cmcsa comcast corp moffettnathanson adjusts price target on comcast to $52 from $53, maintains buy rating mt newswires">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/CMCSA/news/" target="_blank" rel="noopener" title="Yahoo Finance news for CMCSA">CMCSA</a></div>
-        <span class="ts" title="Tue Jun 16, 6:41 AM ET">9h</span>
+        <span class="ts" title="Tue Jun 16, 6:41 AM ET">10h</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/moffettnathanson-adjusts-price-target-comcast-104108035.html" target="_blank" rel="noopener">MoffettNathanson Adjusts Price Target on Comcast to $52 From $53, Maintains Buy Rating</a></h3>
       <div class="post-footer">
@@ -333,7 +334,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="dd dupont de nemours, inc. dupont to unveil new tyvek® innovation at safe@work 2026 in thailand pr newswire">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/DD/news/" target="_blank" rel="noopener" title="Yahoo Finance news for DD">DD</a></div>
-        <span class="ts" title="Tue Jun 16, 4:39 AM ET">11h</span>
+        <span class="ts" title="Tue Jun 16, 4:39 AM ET">12h</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/dupont-unveil-tyvek-innovation-safe-083900860.html" target="_blank" rel="noopener">DuPont to Unveil New Tyvek® Innovation at Safe@Work 2026 in Thailand</a></h3>
       <div class="post-footer">
@@ -344,7 +345,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="hsdt solana co forward industries presses solana on decision to reject all-stock business combination mt newswires">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/HSDT/news/" target="_blank" rel="noopener" title="Yahoo Finance news for HSDT">HSDT</a></div>
-        <span class="ts" title="Tue Jun 16, 4:03 AM ET">12h</span>
+        <span class="ts" title="Tue Jun 16, 4:03 AM ET">13h</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/forward-industries-presses-solana-decision-080336891.html" target="_blank" rel="noopener">Forward Industries Presses Solana on Decision to Reject All-Stock Business Combination</a></h3>
       <div class="post-footer">
@@ -355,7 +356,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="esmr e-smart corp. speediance becomes official smart fitness equipment partner of athx globenewswire">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/ESMR/news/" target="_blank" rel="noopener" title="Yahoo Finance news for ESMR">ESMR</a></div>
-        <span class="ts" title="Mon Jun 15, 10:22 PM ET">17h</span>
+        <span class="ts" title="Mon Jun 15, 10:22 PM ET">18h</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/technology/articles/speediance-becomes-official-smart-fitness-022200546.html" target="_blank" rel="noopener">Speediance Becomes Official Smart Fitness Equipment Partner of ATHX</a></h3>
       <div class="post-footer">
@@ -366,7 +367,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="esmr e-smart corp. the ai from skin analytics that caught 20,000 cancers in the uk is now certified for use on a standard smartphone pr newswire">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/ESMR/news/" target="_blank" rel="noopener" title="Yahoo Finance news for ESMR">ESMR</a></div>
-        <span class="ts" title="Mon Jun 15, 7:01 PM ET">21h</span>
+        <span class="ts" title="Mon Jun 15, 7:01 PM ET">22h</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/ai-skin-analytics-caught-20-230100609.html" target="_blank" rel="noopener">The AI from Skin Analytics that caught 20,000 cancers in the UK is now certified for use on a standard smartphone</a></h3>
       <div class="post-footer">
@@ -377,7 +378,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="cntx context therapeutics inc. cntx hits worst day in history after ovarian cancer trial data — but analysts see buying opportunity in dip stocktwits">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/CNTX/news/" target="_blank" rel="noopener" title="Yahoo Finance news for CNTX">CNTX</a></div>
-        <span class="ts" title="Mon Jun 15, 5:20 PM ET">22h</span>
+        <span class="ts" title="Mon Jun 15, 5:20 PM ET">23h</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/m/770d485f-a6df-3f0b-bb9e-180271662782/cntx-hits-worst-day-in.html" target="_blank" rel="noopener">CNTX Hits Worst Day In History After Ovarian Cancer Trial Data — But Analysts See Buying Opportunity In Dip</a></h3>
       <div class="post-footer">
@@ -388,7 +389,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="cor cencora, inc. cencora appoints samantha hammock as chief human resources officer mt newswires">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/COR/news/" target="_blank" rel="noopener" title="Yahoo Finance news for COR">COR</a></div>
-        <span class="ts" title="Mon Jun 15, 4:53 PM ET">23h</span>
+        <span class="ts" title="Mon Jun 15, 4:53 PM ET">1d</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/cencora-appoints-samantha-hammock-chief-205355938.html" target="_blank" rel="noopener">Cencora Appoints Samantha Hammock as Chief Human Resources Officer</a></h3>
       <div class="post-footer">
@@ -399,7 +400,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="hlne hamilton lane inc hamilton lane insider bought shares worth $1,144,050, according to a recent sec filing mt newswires">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/HLNE/news/" target="_blank" rel="noopener" title="Yahoo Finance news for HLNE">HLNE</a></div>
-        <span class="ts" title="Mon Jun 15, 4:17 PM ET">23h</span>
+        <span class="ts" title="Mon Jun 15, 4:17 PM ET">1d</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/hamilton-lane-insider-bought-shares-201746953.html" target="_blank" rel="noopener">Hamilton Lane Insider Bought Shares Worth $1,144,050, According to a Recent SEC Filing</a></h3>
       <div class="post-footer">
@@ -410,7 +411,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="cor cencora, inc. cencora announces samantha hammock as chief human resources officer business wire">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/COR/news/" target="_blank" rel="noopener" title="Yahoo Finance news for COR">COR</a></div>
-        <span class="ts" title="Mon Jun 15, 4:15 PM ET">23h</span>
+        <span class="ts" title="Mon Jun 15, 4:15 PM ET">1d</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/sectors/healthcare/articles/cencora-announces-samantha-hammock-chief-201500246.html" target="_blank" rel="noopener">Cencora Announces Samantha Hammock as Chief Human Resources Officer</a></h3>
       <div class="post-footer">
@@ -630,7 +631,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="jnj johnson &amp; johnson what could push jnj stock higher from here? trefis">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/JNJ/news/" target="_blank" rel="noopener" title="Yahoo Finance news for JNJ">JNJ</a></div>
-        <span class="ts" title="Fri Jun 12, 4:53 PM ET">3d</span>
+        <span class="ts" title="Fri Jun 12, 4:53 PM ET">4d</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/m/1654f55c-ac56-3656-ac72-33646aba2847/what-could-push-jnj-stock.html" target="_blank" rel="noopener">What Could Push JNJ Stock Higher From Here?</a></h3>
       <div class="post-footer">
@@ -773,7 +774,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="oflx omega flex, inc. omega flex, inc. announces regular quarterly dividend for the second quarter 2026 globenewswire">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/OFLX/news/" target="_blank" rel="noopener" title="Yahoo Finance news for OFLX">OFLX</a></div>
-        <span class="ts" title="Thu Jun 11, 4:45 PM ET">4d</span>
+        <span class="ts" title="Thu Jun 11, 4:45 PM ET">5d</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/omega-flex-inc-announces-regular-204500055.html" target="_blank" rel="noopener">Omega Flex, Inc. Announces Regular Quarterly Dividend for the Second Quarter 2026</a></h3>
       <div class="post-footer">
@@ -784,7 +785,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="bv brightview holdings, inc. brightview declares tenth consecutive cash dividend payment on preferred stock business wire">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/BV/news/" target="_blank" rel="noopener" title="Yahoo Finance news for BV">BV</a></div>
-        <span class="ts" title="Thu Jun 11, 4:15 PM ET">4d</span>
+        <span class="ts" title="Thu Jun 11, 4:15 PM ET">5d</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/brightview-declares-tenth-consecutive-cash-201500274.html" target="_blank" rel="noopener">BrightView Declares Tenth Consecutive Cash Dividend Payment on Preferred Stock</a></h3>
       <div class="post-footer">
@@ -1015,7 +1016,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="fmc fmc corp fmc corporation ceo pierre brondeau and cfo andrew sandifer to speak at wolfe research 3rd annual materials of the future conference pr newswire">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/FMC/news/" target="_blank" rel="noopener" title="Yahoo Finance news for FMC">FMC</a></div>
-        <span class="ts" title="Wed Jun 10, 4:30 PM ET">5d</span>
+        <span class="ts" title="Wed Jun 10, 4:30 PM ET">6d</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/fmc-corporation-ceo-pierre-brondeau-203000863.html" target="_blank" rel="noopener">FMC Corporation CEO Pierre Brondeau and CFO Andrew Sandifer to speak at Wolfe Research 3rd Annual Materials of the Future Conference</a></h3>
       <div class="post-footer">
@@ -1026,7 +1027,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="tol toll brothers, inc. toll brothers announces final opportunity to own a new luxury home at university park in palm desert, california globenewswire">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/TOL/news/" target="_blank" rel="noopener" title="Yahoo Finance news for TOL">TOL</a></div>
-        <span class="ts" title="Wed Jun 10, 4:18 PM ET">5d</span>
+        <span class="ts" title="Wed Jun 10, 4:18 PM ET">6d</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/toll-brothers-announces-final-opportunity-201800824.html" target="_blank" rel="noopener">Toll Brothers Announces Final Opportunity to Own a New Luxury Home at University Park in Palm Desert, California</a></h3>
       <div class="post-footer">
@@ -1037,7 +1038,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="uht universal health realty income trust universal health realty income trust announces dividend increase pr newswire">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/UHT/news/" target="_blank" rel="noopener" title="Yahoo Finance news for UHT">UHT</a></div>
-        <span class="ts" title="Wed Jun 10, 4:15 PM ET">5d</span>
+        <span class="ts" title="Wed Jun 10, 4:15 PM ET">6d</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/sectors/healthcare/articles/universal-health-realty-income-trust-201500023.html" target="_blank" rel="noopener">UNIVERSAL HEALTH REALTY INCOME TRUST ANNOUNCES DIVIDEND INCREASE</a></h3>
       <div class="post-footer">
@@ -1125,7 +1126,7 @@ if (sessionStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="awk american water works company, inc. american water&#x27;s california unit reaches partial settlement in general rate case mt newswires">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/AWK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for AWK">AWK</a></div>
-        <span class="ts" title="Tue Jun 9, 4:55 PM ET">6d</span>
+        <span class="ts" title="Tue Jun 9, 4:55 PM ET">7d</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/sectors/energy/articles/american-water-apos-california-unit-205521201.html" target="_blank" rel="noopener">American Water&#x27;s California Unit Reaches Partial Settlement in General Rate Case</a></h3>
       <div class="post-footer">
