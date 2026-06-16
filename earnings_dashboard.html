@@ -20,15 +20,15 @@ async function sha256(msg) {
 }
 async function checkPw() {
   const h = await sha256(document.getElementById('auth-pw').value);
-  if (h === 'c93289ef40f052d7086625037e113760e055ec65d162906acc0d8645fcbbd336') {
-    sessionStorage.setItem('court_auth','1');
+  if (h === '6f9b9af28410ba27d402b20770ef7467287ccac76863972d3491feedc75703ac') {
+    sessionStorage.setItem('busybiz_auth','1');
     document.getElementById('auth-gate').remove();
   } else {
     document.getElementById('auth-err').style.display='block';
     document.getElementById('auth-pw').value='';
   }
 }
-if (sessionStorage.getItem('court_auth')==='1') {
+if (sessionStorage.getItem('busybiz_auth')==='1') {
   document.getElementById('auth-gate').remove();
 }
 </script>
