@@ -1,6 +1,222 @@
 {
- "generated_at": "2026-06-16T02:42:16+00:00",
+ "generated_at": "2026-06-16T16:01:48+00:00",
  "items": [
+  {
+   "uuid": "c141c761-ef6b-32e9-a3fc-c8b8df7163bc",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Jetstream Venture Fund Secures Position in Rejuvenate Bio, Investing Alongside Industry Giant Merck",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/jetstream-venture-fund-secures-position-150100540.html",
+   "published_unix": 1781622060,
+   "captured_at": "2026-06-16T16:01:48"
+  },
+  {
+   "uuid": "825c0f2e-0eed-328d-93f4-4bda817e9be3",
+   "tickers": [
+    "VSH"
+   ],
+   "company": "VISHAY INTERTECHNOLOGY INC",
+   "title": "Vishay Intertechnology Releases New 1 A, 2 A, and 3 A Gen 7 1200\u00a0V FRED Pt\u00ae Hyperfast Rectifiers in SMPC HV Package",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/technology/articles/vishay-intertechnology-releases-1-2-150000251.html",
+   "published_unix": 1781622000,
+   "captured_at": "2026-06-16T16:00:47"
+  },
+  {
+   "uuid": "cc86d98c-3952-38a0-9f7c-f8289d8f45c3",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Johnson & Johnson CEO Says Cure for Certain Cancers Is Realistic Goal",
+   "publisher": "The Wall Street Journal",
+   "link": "https://finance.yahoo.com/m/cc86d98c-3952-38a0-9f7c-f8289d8f45c3/johnson-%26-johnson-ceo-says.html",
+   "published_unix": 1781621640,
+   "captured_at": "2026-06-16T16:01:46"
+  },
+  {
+   "uuid": "86f4393f-4299-3ff6-b45a-bdbda9ea6f90",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Comcast's Xfinity Launches Same-Day WiFi Equipment Delivery",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/technology/articles/comcast-apos-xfinity-launches-same-141610312.html",
+   "published_unix": 1781619370,
+   "captured_at": "2026-06-16T16:00:43"
+  },
+  {
+   "uuid": "8cb47998-56d4-3686-a676-7e832b83f23a",
+   "tickers": [
+    "DD"
+   ],
+   "company": "DuPont de Nemours, Inc.",
+   "title": "Personal Protective Equipment Market to Reach USD 34.22 Billion by 2031 | 3M, DuPont, Ansell, MSA, and 37 Key Players Profiled | Arizton",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/personal-protective-equipment-market-reach-141100034.html",
+   "published_unix": 1781619060,
+   "captured_at": "2026-06-16T16:01:48"
+  },
+  {
+   "uuid": "075e91d3-bdc8-3a46-a868-c2240d55caa8",
+   "tickers": [
+    "AVTX"
+   ],
+   "company": "Avalo Therapeutics, Inc.",
+   "title": "Avalo Therapeutics Plans IND Application for AVTX-010 in H1 2027",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/avalo-therapeutics-plans-ind-application-131925464.html",
+   "published_unix": 1781615965,
+   "captured_at": "2026-06-16T16:01:14"
+  },
+  {
+   "uuid": "ded8d4b5-7e79-3daf-ad52-fec90b384bf5",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Merck Signs Drug Discovery, Licensing Deal With Protillion Biosciences",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/merck-signs-drug-discovery-licensing-130416581.html",
+   "published_unix": 1781615056,
+   "captured_at": "2026-06-16T16:01:48"
+  },
+  {
+   "uuid": "fc8cd060-bc28-34da-97fe-ac8d1ae14440",
+   "tickers": [
+    "SEIC"
+   ],
+   "company": "SEI INVESTMENTS CO",
+   "title": "SEI Introduces Technology and AI to Boost Investment Manager Efficiency",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/technology/ai/articles/sei-introduces-technology-ai-boost-120000080.html",
+   "published_unix": 1781611200,
+   "captured_at": "2026-06-16T16:00:53"
+  },
+  {
+   "uuid": "c125fafd-1979-3d66-a6e0-81edb5d0c305",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "Missouri American Water Proudly Recognizes American Water Charitable Foundation State Strategic Impact Grantees",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/missouri-american-water-proudly-recognizes-120000797.html",
+   "published_unix": 1781611200,
+   "captured_at": "2026-06-16T16:00:55"
+  },
+  {
+   "uuid": "a8536675-e5f5-3378-9ebf-5d276ca935ef",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "Pennsylvania American Water Launches 2026 Flow Forward Summer Camp Program to Help Teens Explore the Water Industry Workforce",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/pennsylvania-american-water-launches-2026-120000655.html",
+   "published_unix": 1781611200,
+   "captured_at": "2026-06-16T16:00:55"
+  },
+  {
+   "uuid": "135a2483-75c5-34a5-ade0-23e435aa4c07",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Protillion Biosciences Announces Drug Discovery Collaboration with Merck",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/healthcare/articles/protillion-biosciences-announces-drug-discovery-120000783.html",
+   "published_unix": 1781611200,
+   "captured_at": "2026-06-16T16:01:48"
+  },
+  {
+   "uuid": "74f15dbc-f89b-39db-8804-a92ce4cb33c9",
+   "tickers": [
+    "HSDT"
+   ],
+   "company": "Solana Co",
+   "title": "Solana Company Rejects Unsolicited Acquisition Offer From Forward Industries",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/solana-company-rejects-unsolicited-acquisition-115926753.html",
+   "published_unix": 1781611166,
+   "captured_at": "2026-06-16T16:01:24"
+  },
+  {
+   "uuid": "b89189c2-ad85-3625-a89c-c740ff5a4528",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "TransUnion Names Former Comcast Executive as Chief Marketing and Communications Officer",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/transunion-names-former-comcast-executive-113320728.html",
+   "published_unix": 1781609600,
+   "captured_at": "2026-06-16T16:00:43"
+  },
+  {
+   "uuid": "250896a4-d7ea-385c-be0e-ba2a037b049e",
+   "tickers": [
+    "HSDT"
+   ],
+   "company": "Solana Co",
+   "title": "Solana News: Forward Industries Struck Out on All Three Solana Acquisition Bids",
+   "publisher": "Cryptonews",
+   "link": "https://finance.yahoo.com/m/250896a4-d7ea-385c-be0e-ba2a037b049e/solana-news%3A-forward.html",
+   "published_unix": 1781609542,
+   "captured_at": "2026-06-16T16:01:24"
+  },
+  {
+   "uuid": "49d5e9ab-e191-3bf3-b05f-067f8e202d0c",
+   "tickers": [
+    "AVTX"
+   ],
+   "company": "Avalo Therapeutics, Inc.",
+   "title": "Avalo Therapeutics Expands Pipeline with AVTX-010, a Long-Acting Next-Generation Anti-IL-1\u03b2 Antibody",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/avalo-therapeutics-expands-pipeline-avtx-110000212.html",
+   "published_unix": 1781607600,
+   "captured_at": "2026-06-16T16:01:14"
+  },
+  {
+   "uuid": "b8adea11-4f37-3020-a8db-7dffbe5879bb",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "MoffettNathanson Adjusts Price Target on Comcast to $52 From $53, Maintains Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/moffettnathanson-adjusts-price-target-comcast-104108035.html",
+   "published_unix": 1781606468,
+   "captured_at": "2026-06-16T16:00:43"
+  },
+  {
+   "uuid": "5ca0bb71-0443-39d8-b9f8-e928465d43bc",
+   "tickers": [
+    "DD"
+   ],
+   "company": "DuPont de Nemours, Inc.",
+   "title": "DuPont to Unveil New Tyvek\u00ae Innovation at Safe@Work 2026 in Thailand",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/dupont-unveil-tyvek-innovation-safe-083900860.html",
+   "published_unix": 1781599140,
+   "captured_at": "2026-06-16T16:01:48"
+  },
+  {
+   "uuid": "a2acae61-b5bb-3535-954c-155c6fd53ef3",
+   "tickers": [
+    "HSDT"
+   ],
+   "company": "Solana Co",
+   "title": "Forward Industries Presses Solana on Decision to Reject All-Stock Business Combination",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/forward-industries-presses-solana-decision-080336891.html",
+   "published_unix": 1781597016,
+   "captured_at": "2026-06-16T16:01:24"
+  },
   {
    "uuid": "d1b8f12a-1392-381e-8cec-615db24d8492",
    "tickers": [
@@ -876,42 +1092,6 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/univest-financial-insider-sold-shares-190511907.html",
    "published_unix": 1781031911,
    "captured_at": "2026-06-15T08:37:44"
-  },
-  {
-   "uuid": "0d975ef4-b72f-32cd-aec0-d47372aa5972",
-   "tickers": [
-    "SEIC"
-   ],
-   "company": "SEI INVESTMENTS CO",
-   "title": "SEI Names Sneha Shah Chief AI Strategist, Expands Enterprise AI and Data Leadership",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/sectors/technology/articles/sei-names-sneha-shah-chief-130000097.html",
-   "published_unix": 1781010000,
-   "captured_at": "2026-06-15T08:37:28"
-  },
-  {
-   "uuid": "eab54d1e-5d01-3a04-b82b-4806438bbaf3",
-   "tickers": [
-    "DD"
-   ],
-   "company": "DuPont de Nemours, Inc.",
-   "title": "DuPont\u2122 MemCor\u2122 MBR system selected for major Riverstone Water Resource Recovery Facility upgrade in Australia",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/sectors/technology/articles/dupont-memcor-mbr-system-selected-130000502.html",
-   "published_unix": 1781010000,
-   "captured_at": "2026-06-15T08:38:11"
-  },
-  {
-   "uuid": "ea73e8a1-706f-33e0-bdac-e4789d4a98f9",
-   "tickers": [
-    "TFX"
-   ],
-   "company": "TELEFLEX INC",
-   "title": "Teleflex Says Study Shows No New Cardiac Events at 4 Years for Freesolve Scaffold",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/teleflex-says-study-shows-no-110633662.html",
-   "published_unix": 1781003193,
-   "captured_at": "2026-06-15T08:37:35"
   }
  ]
 }
