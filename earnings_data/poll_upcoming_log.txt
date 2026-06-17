@@ -59,3 +59,7 @@
 [2026-06-16 23:19:37]   fetch_json err: Failed to perform, curl: (56) Recv failure: Connection reset by peer. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
 [2026-06-16 23:20:17] === Done. Captured 0 new save-the-dates, cleaned 0 past. ===
 
+[2026-06-17 23:18:51] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-06-17 23:18:51] Polling Yahoo for 106 companies
+[2026-06-17 23:19:43] === Done. Captured 0 new save-the-dates, cleaned 0 past. ===
+
