@@ -1,6 +1,102 @@
 {
- "generated_at": "2026-06-17T20:21:56+00:00",
+ "generated_at": "2026-06-17T22:48:15+00:00",
  "items": [
+  {
+   "uuid": "5aa439a8-c535-37f5-a729-fe5b4d9a89d7",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "FIVE BELOW, INC",
+   "title": "Five Below Names Chief Retail Officer, Chief Legal Officer",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-names-chief-retail-210857215.html",
+   "published_unix": 1781730537,
+   "captured_at": "2026-06-17T22:47:22"
+  },
+  {
+   "uuid": "a31c5638-473a-3f05-9571-822325f943d2",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Toll Brothers Announces Magnolia Square at Princeton is Now Open in Princeton, New Jersey",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-magnolia-square-210800530.html",
+   "published_unix": 1781730480,
+   "captured_at": "2026-06-17T22:47:27"
+  },
+  {
+   "uuid": "d6e6ec14-9cd5-39d3-b9c2-9e76faaad06c",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "CAMPBELL'S Co",
+   "title": "Campbell's Names New Transformation and Communications Chiefs as Veterans Retire",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/campbell-apos-names-transformation-communications-210127148.html",
+   "published_unix": 1781730087,
+   "captured_at": "2026-06-17T22:47:30"
+  },
+  {
+   "uuid": "7bb96dc2-c8b1-310d-88c6-3b807f5ee92d",
+   "tickers": [
+    "CERT"
+   ],
+   "company": "Certara, Inc.",
+   "title": "Certara CFO John Gallagher to Resign, Faiz Mohammed Named Interim CFO",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/certara-cfo-john-gallagher-resign-205615365.html",
+   "published_unix": 1781729775,
+   "captured_at": "2026-06-17T22:47:47"
+  },
+  {
+   "uuid": "7063a244-a109-313c-9ce5-951c7b48ec3b",
+   "tickers": [
+    "CERT"
+   ],
+   "company": "Certara, Inc.",
+   "title": "CONMED Names Former Certara CFO John Gallagher as Finance Chief",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/conmed-names-former-certara-cfo-205249907.html",
+   "published_unix": 1781729569,
+   "captured_at": "2026-06-17T22:47:47"
+  },
+  {
+   "uuid": "e662b031-cffb-34cb-9f0e-f47d8bbe9ac7",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "FIVE BELOW, INC",
+   "title": "Five Below Announces Leadership Appointments",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-announces-leadership-appointments-204200015.html",
+   "published_unix": 1781728920,
+   "captured_at": "2026-06-17T22:47:22"
+  },
+  {
+   "uuid": "b1ad3419-7b55-308b-bffe-3e4f8b5799a8",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Toll Brothers Announces Cash Dividend",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-announces-cash-dividend-203000560.html",
+   "published_unix": 1781728200,
+   "captured_at": "2026-06-17T22:47:27"
+  },
+  {
+   "uuid": "422c523c-f95a-3e14-81b7-6346e1301c5d",
+   "tickers": [
+    "CERT"
+   ],
+   "company": "Certara, Inc.",
+   "title": "Certara Announces CFO Transition",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/certara-announces-cfo-transition-203000893.html",
+   "published_unix": 1781728200,
+   "captured_at": "2026-06-17T22:47:47"
+  },
   {
    "uuid": "ff77a8c8-9e92-3668-aea8-2adad95ea948",
    "tickers": [
@@ -1188,18 +1284,6 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-cuts-price-target-fmc-104144730.html",
    "published_unix": 1781174504,
    "captured_at": "2026-06-11T14:42:51"
-  },
-  {
-   "uuid": "b53200dd-15f7-37cd-9775-2cfdade19d47",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC CORP",
-   "title": "FMC Corporation CEO Pierre Brondeau and CFO Andrew Sandifer to speak at Wolfe Research 3rd Annual Materials of the Future Conference",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-corporation-ceo-pierre-brondeau-203000863.html",
-   "published_unix": 1781123400,
-   "captured_at": "2026-06-15T08:37:18"
   }
  ]
 }
