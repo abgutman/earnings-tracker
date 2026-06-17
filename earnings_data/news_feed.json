@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-06-17T17:51:28+00:00",
+ "generated_at": "2026-06-17T20:21:56+00:00",
  "items": [
   {
    "uuid": "ff77a8c8-9e92-3668-aea8-2adad95ea948",
@@ -1200,30 +1200,6 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-corporation-ceo-pierre-brondeau-203000863.html",
    "published_unix": 1781123400,
    "captured_at": "2026-06-15T08:37:18"
-  },
-  {
-   "uuid": "90d2bdab-f491-3c35-8b25-3d31265f7145",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers Announces Final Opportunity to Own a New Luxury Home at University Park in Palm Desert, California",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-announces-final-opportunity-201800824.html",
-   "published_unix": 1781122680,
-   "captured_at": "2026-06-15T08:37:26"
-  },
-  {
-   "uuid": "e17430d4-1b50-311d-9d9f-e0b69c664840",
-   "tickers": [
-    "UHT"
-   ],
-   "company": "UNIVERSAL HEALTH REALTY INCOME TRUST",
-   "title": "UNIVERSAL HEALTH REALTY INCOME TRUST ANNOUNCES DIVIDEND INCREASE",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/universal-health-realty-income-trust-201500023.html",
-   "published_unix": 1781122500,
-   "captured_at": "2026-06-15T08:37:47"
   }
  ]
 }
