@@ -1,6 +1,90 @@
 {
- "generated_at": "2026-06-17T02:40:49+00:00",
+ "generated_at": "2026-06-17T14:28:29+00:00",
  "items": [
+  {
+   "uuid": "9a90ac95-b430-3a16-9c91-bce1db6a1d89",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "Alper Yegin, CEO of the LoRa Alliance\u00ae, and IoT Technology Leaders to Discuss How LoRaWAN\u00ae Connectivity Is Enabling Smart Water Management",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/articles/alper-yegin-ceo-lora-alliance-135600097.html",
+   "published_unix": 1781704560,
+   "captured_at": "2026-06-17T14:27:57"
+  },
+  {
+   "uuid": "a5c362be-352e-38d8-8635-b93b0edd6770",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora, Inc.",
+   "title": "Cencora Launches Next-Generation Nucleus\u00ae Solution with Multi-Site Pilot Across Specialty Physician Practices",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/healthcare/articles/cencora-launches-next-generation-nucleus-120000440.html",
+   "published_unix": 1781697600,
+   "captured_at": "2026-06-17T14:27:56"
+  },
+  {
+   "uuid": "945fc8ad-71e4-3b33-b34a-71f4491a6a74",
+   "tickers": [
+    "FSK"
+   ],
+   "company": "FS KKR Capital Corp",
+   "title": "Market Chatter: Blackstone, Apollo, FS KKR to Invest $150 Million in Medallia",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-blackstone-apollo-fs-113343588.html",
+   "published_unix": 1781696023,
+   "captured_at": "2026-06-17T14:28:03"
+  },
+  {
+   "uuid": "033f8d5c-6e66-3761-8a3d-93c9f98d5578",
+   "tickers": [
+    "FSK"
+   ],
+   "company": "FS KKR Capital Corp",
+   "title": "Medallia Announces Milestone Agreement with Group Led by Blackstone, Apollo, and FSK to Transition Ownership and Position Company for Next Era of Growth",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/ai/articles/medallia-announces-milestone-agreement-group-113000080.html",
+   "published_unix": 1781695800,
+   "captured_at": "2026-06-17T14:28:03"
+  },
+  {
+   "uuid": "f9c8ff99-7c8e-3840-82ab-f5d3c2f7cec4",
+   "tickers": [
+    "BV"
+   ],
+   "company": "BrightView Holdings, Inc.",
+   "title": "Oppenheimer Initiates Coverage on BrightView With Outperform Rating, $17 Price Target",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-initiates-coverage-brightview-outperform-112447108.html",
+   "published_unix": 1781695487,
+   "captured_at": "2026-06-17T14:28:08"
+  },
+  {
+   "uuid": "5c1cf778-9388-3c66-9366-5872bfb8af79",
+   "tickers": [
+    "CUBE"
+   ],
+   "company": "CubeSmart",
+   "title": "Truist Securities Adjusts Price Target on CubeSmart to $43 From $41, Maintains Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/truist-securities-adjusts-price-target-104534049.html",
+   "published_unix": 1781693134,
+   "captured_at": "2026-06-17T14:28:00"
+  },
+  {
+   "uuid": "6ee50885-fbd0-3ddb-b9a1-0278ffa47b9f",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "VODA.ai Launches AI-Powered Revenue Recovery Solution to Help Water Utilities Capture Revenue Hidden in Degrading Meters",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/technology/ai/articles/voda-ai-launches-ai-powered-090000663.html",
+   "published_unix": 1781686800,
+   "captured_at": "2026-06-17T14:27:57"
+  },
   {
    "uuid": "287db816-7ccf-3ecc-a728-5d3134a63c5f",
    "tickers": [
@@ -1104,78 +1188,6 @@
    "link": "https://finance.yahoo.com/sectors/technology/articles/vishay-intertechnology-extends-ilhb-series-150000857.html",
    "published_unix": 1781103600,
    "captured_at": "2026-06-15T08:37:24"
-  },
-  {
-   "uuid": "56194a23-a66f-34b5-a4cc-ffc6a06b6c7e",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers at Marsh Harbor Receives Best of Show at the 2026 Northeast Florida Parade of Homes",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-marsh-harbor-receives-134000617.html",
-   "published_unix": 1781098800,
-   "captured_at": "2026-06-15T08:37:26"
-  },
-  {
-   "uuid": "333540d8-603a-314a-a154-44baa1c18a20",
-   "tickers": [
-    "DD"
-   ],
-   "company": "DuPont de Nemours, Inc.",
-   "title": "DuPont Announces Healthcare Solutions U.S.-based Manufacturing Sites Now Powered by 100% Renewable Electricity",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/dupont-announces-healthcare-solutions-u-130000402.html",
-   "published_unix": 1781096400,
-   "captured_at": "2026-06-15T08:38:11"
-  },
-  {
-   "uuid": "b7622394-1803-3fc7-a5de-752e60c0deee",
-   "tickers": [
-    "EXYN"
-   ],
-   "company": "Exyn Technologies, Inc.",
-   "title": "Exyn Expands ExynAI Software Capabilities, Strengthening End-to-End Autonomous Mapping and Reality Capture Workflows",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/sectors/technology/articles/exyn-expands-exynai-software-capabilities-120000977.html",
-   "published_unix": 1781092800,
-   "captured_at": "2026-06-15T08:37:57"
-  },
-  {
-   "uuid": "196bd7fb-902f-312b-b3dd-8c740ed97b20",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora, Inc.",
-   "title": "Barclays Cuts Cencora Price Target to $350 From $425, Maintains Overweight Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-cuts-cencora-price-target-114123960.html",
-   "published_unix": 1781091683,
-   "captured_at": "2026-06-15T08:37:28"
-  },
-  {
-   "uuid": "5678b2b9-5765-365e-9888-872e19a3a4c5",
-   "tickers": [
-    "HSDT"
-   ],
-   "company": "Solana Co",
-   "title": "Solana Institute CEO Pushes Senate to Pass CLARITY Act With Open-Source Protections",
-   "publisher": "Cryptonews",
-   "link": "https://finance.yahoo.com/m/5678b2b9-5765-365e-9888-872e19a3a4c5/solana-institute-ceo-pushes.html",
-   "published_unix": 1781083711,
-   "captured_at": "2026-06-15T08:37:54"
-  },
-  {
-   "uuid": "5de6b1eb-624c-3086-898f-e3b165412aa6",
-   "tickers": [
-    "URBN"
-   ],
-   "company": "URBAN OUTFITTERS INC",
-   "title": "Urban Outfitters to expand in Falls, bring 600 jobs. Here's the plan",
-   "publisher": "Bucks County Courier Times",
-   "link": "https://finance.yahoo.com/m/5de6b1eb-624c-3086-898f-e3b165412aa6/urban-outfitters-to-expand-in.html",
-   "published_unix": 1781081753,
-   "captured_at": "2026-06-15T08:37:19"
   }
  ]
 }
