@@ -177,3 +177,13 @@
 [2026-06-17 18:26:22] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
 [2026-06-17 20:07:27] === EDGAR POLL: scanning for new earnings filings (live=True) ===
 [2026-06-17 20:07:56] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
+[2026-06-17 21:53:08] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-06-17 21:53:39]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001468929.json'
+[2026-06-17 21:53:39]   ★ NEW 8k_701 for NXGL (NEXGEL, INC.) filed 2026-06-17
+[2026-06-17 21:53:39]     https://www.sec.gov/Archives/edgar/data/1468929/000149315226029100/form8-k.htm
+[2026-06-17 21:53:41]     ✉ alert sent (8k_701)
+[2026-06-17 21:53:44]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001355096.json'
+[2026-06-17 21:53:44]   ★ NEW 8k_701 for QVCAQ (QVC Group, Inc.) filed 2026-06-17
+[2026-06-17 21:53:44]     https://www.sec.gov/Archives/edgar/data/1355096/000110465926075187/tm2618149d1_8k.htm
+[2026-06-17 21:53:45]     ✉ alert sent (8k_701)
+[2026-06-17 21:53:47] === EDGAR POLL complete. Fetched 100 companies, 2 new filings. ===

@@ -98,7 +98,7 @@ if (localStorage.getItem('busybiz_auth')==='1') {
 
 <a href="https://abgutman.github.io/busy-biz/" style="position:fixed;top:12px;right:12px;z-index:9998;background:#161b22;color:#e6edf3;border:1px solid #30363d;padding:6px 14px;border-radius:6px;text-decoration:none;font-size:13px;font-weight:600;box-shadow:0 2px 6px rgba(0,0,0,0.4);">Busy Biz</a><div class="container">
   <h1>Recent earnings reports</h1>
-  <p class="meta">Each company's most recent SEC 8-K item 2.02 filing (the actual quarterly earnings release), if filed in the last 90 days. EDGAR source of truth. Newest first. Updated 2026-06-17 17:01 ET.</p>
+  <p class="meta">Each company's most recent SEC 8-K item 2.02 filing (the actual quarterly earnings release), if filed in the last 90 days. EDGAR source of truth. Newest first. Updated 2026-06-17 17:53 ET.</p>
   
   <div class="tabs">
     <a href="recent_earnings.html" class="active">Recent earnings</a>
@@ -107,9 +107,23 @@ if (localStorage.getItem('busybiz_auth')==='1') {
   </div>
   <div class="stats">
     <div class="stat"><b>96</b> companies filed in last 90 days</div>
-    
+    <div class="stat new-stat"><b>2</b> new in last 24h</div>
   </div>
   <table><thead><tr><th>Filed</th><th>Ticker</th><th>Company</th><th>Type</th><th>Links</th></tr></thead><tbody>
+    <tr class="row-new">
+      <td class="date"><span class="badge-new">NEW</span> <b>Jun 17, 2026</b><br><span class="dim">0d ago</span></td>
+      <td class="tk">NXGL</td>
+      <td class="nm">NEXGEL, INC.</td>
+      <td class="type"><span class="badge-type badge-8k_701">8-K 7.01</span> </td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1468929/000149315226029100/form8-k.htm" target="_blank" rel="noopener">8-K 7.01 filing</a> · <span class="tenq-pending">10-Q pending</span> · <a href="https://finance.yahoo.com/quote/NXGL/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
+    <tr class="row-new">
+      <td class="date"><span class="badge-new">NEW</span> <b>Jun 17, 2026</b><br><span class="dim">0d ago</span></td>
+      <td class="tk">QVCAQ</td>
+      <td class="nm">QVC Group, Inc.</td>
+      <td class="type"><span class="badge-type badge-8k_701">8-K 7.01</span> </td>
+      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1355096/000110465926075187/tm2618149d1_8k.htm" target="_blank" rel="noopener">8-K 7.01 filing</a> · <span class="tenq-pending">10-Q pending</span> · <a href="https://finance.yahoo.com/quote/QVCAQ/news" target="_blank" rel="noopener">Yahoo News</a></td>
+    </tr>
     <tr class="">
       <td class="date"><b>Jun 15, 2026</b><br><span class="dim">2d ago</span></td>
       <td class="tk">COR</td>
@@ -370,13 +384,6 @@ if (localStorage.getItem('busybiz_auth')==='1') {
       <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1829280/000114036126021394/ef20070478_10q.htm" target="_blank" rel="noopener">10-Q filing</a> · <a href="https://finance.yahoo.com/quote/FORA/news" target="_blank" rel="noopener">Yahoo News</a></td>
     </tr>
     <tr class="">
-      <td class="date"><b>May 15, 2026</b><br><span class="dim">33d ago</span></td>
-      <td class="tk">QVCAQ</td>
-      <td class="nm">QVC Group, Inc.</td>
-      <td class="type"><span class="badge-type badge-10q">10-Q</span> </td>
-      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1355096/000135509626000019/qvcga-20260331.htm" target="_blank" rel="noopener">10-Q filing</a> · <a href="https://finance.yahoo.com/quote/QVCAQ/news" target="_blank" rel="noopener">Yahoo News</a></td>
-    </tr>
-    <tr class="">
       <td class="date"><b>May 14, 2026</b><br><span class="dim">34d ago</span></td>
       <td class="tk">OCGN</td>
       <td class="nm">Ocugen, Inc.</td>
@@ -417,13 +424,6 @@ if (localStorage.getItem('busybiz_auth')==='1') {
       <td class="nm">Galera Therapeutics, Inc.</td>
       <td class="type"><span class="badge-type badge-10q">10-Q</span> </td>
       <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1563577/000156357726000014/grtx-20260331.htm" target="_blank" rel="noopener">10-Q filing</a> · <a href="https://finance.yahoo.com/quote/GRTX/news" target="_blank" rel="noopener">Yahoo News</a></td>
-    </tr>
-    <tr class="">
-      <td class="date"><b>May 14, 2026</b><br><span class="dim">34d ago</span></td>
-      <td class="tk">NXGL</td>
-      <td class="nm">NEXGEL, INC.</td>
-      <td class="type"><span class="badge-type badge-10q">10-Q</span> </td>
-      <td class="links"><a href="https://www.sec.gov/Archives/edgar/data/1468929/000149315226023207/form10-q.htm" target="_blank" rel="noopener">10-Q filing</a> · <a href="https://finance.yahoo.com/quote/NXGL/news" target="_blank" rel="noopener">Yahoo News</a></td>
     </tr>
     <tr class="">
       <td class="date"><b>May 13, 2026</b><br><span class="dim">35d ago</span></td>
@@ -784,9 +784,9 @@ if (localStorage.getItem('busybiz_auth')==='1') {
     </tr></tbody></table>
   
     <details class="dormant">
-      <summary>Filers with no 8-K item 2.02 in 90+ days (17)</summary>
+      <summary>Filers with no 8-K item 2.02 in 90+ days (15)</summary>
       <p class="dim" style="margin: 6px 0 10px; font-size: 12px;">These are companies in our list whose last SEC quarterly-earnings filing is over 90 days old — may be inactive, delinquent, or off the typical cadence (e.g., 20-F filers, micro-caps). Listed compactly so we don't lose track of them but they don't clutter the upcoming view.</p>
-      <div class="dormant-grid"><span class="dormant-item"><b>ESMC</b> ESCALON MEDICAL CORP <span class="dim">(5740d)</span></span><span class="dormant-item"><b>RPMT</b> REGO PAYMENT ARCHITECTURES, INC. <span class="dim">(4146d)</span></span><span class="dormant-item"><b>URBN</b> URBAN OUTFITTERS INC <span class="dim">(3493d)</span></span><span class="dormant-item"><b>DWAY</b> Driveitaway Holdings, Inc. <span class="dim">(2333d)</span></span><span class="dormant-item"><b>GMER</b> GOOD GAMING, INC. <span class="dim">(1671d)</span></span><span class="dormant-item"><b>INVU</b> Investview, Inc. <span class="dim">(1311d)</span></span><span class="dormant-item"><b>VLGEA</b> VILLAGE SUPER MARKET INC <span class="dim">(981d)</span></span><span class="dormant-item"><b>SFES</b> SAFEGUARD SCIENTIFICS INC <span class="dim">(958d)</span></span><span class="dormant-item"><b>GRTX</b> Galera Therapeutics, Inc. <span class="dim">(672d)</span></span><span class="dormant-item"><b>WINT</b> WINDTREE THERAPEUTICS INC /DE/ <span class="dim">(397d)</span></span><span class="dormant-item"><b>QVCAQ</b> QVC Group, Inc. <span class="dim">(224d)</span></span><span class="dormant-item"><b>NXGL</b> NEXGEL, INC. <span class="dim">(217d)</span></span><span class="dormant-item"><b>SSKN</b> STRATA Skin Sciences, Inc. <span class="dim">(182d)</span></span><span class="dormant-item"><b>BV</b> BrightView Holdings, Inc. <span class="dim">(134d)</span></span><span class="dormant-item"><b>PASG</b> Passage BIO, Inc. <span class="dim">(106d)</span></span><span class="dormant-item"><b>AXR</b> AMREP CORP. <span class="dim">(97d)</span></span><span class="dormant-item"><b>XHLD</b> TEN Holdings, Inc. <span class="dim">(91d)</span></span></div>
+      <div class="dormant-grid"><span class="dormant-item"><b>ESMC</b> ESCALON MEDICAL CORP <span class="dim">(5740d)</span></span><span class="dormant-item"><b>RPMT</b> REGO PAYMENT ARCHITECTURES, INC. <span class="dim">(4146d)</span></span><span class="dormant-item"><b>URBN</b> URBAN OUTFITTERS INC <span class="dim">(3493d)</span></span><span class="dormant-item"><b>DWAY</b> Driveitaway Holdings, Inc. <span class="dim">(2333d)</span></span><span class="dormant-item"><b>GMER</b> GOOD GAMING, INC. <span class="dim">(1671d)</span></span><span class="dormant-item"><b>INVU</b> Investview, Inc. <span class="dim">(1311d)</span></span><span class="dormant-item"><b>VLGEA</b> VILLAGE SUPER MARKET INC <span class="dim">(981d)</span></span><span class="dormant-item"><b>SFES</b> SAFEGUARD SCIENTIFICS INC <span class="dim">(958d)</span></span><span class="dormant-item"><b>GRTX</b> Galera Therapeutics, Inc. <span class="dim">(672d)</span></span><span class="dormant-item"><b>WINT</b> WINDTREE THERAPEUTICS INC /DE/ <span class="dim">(397d)</span></span><span class="dormant-item"><b>SSKN</b> STRATA Skin Sciences, Inc. <span class="dim">(182d)</span></span><span class="dormant-item"><b>BV</b> BrightView Holdings, Inc. <span class="dim">(134d)</span></span><span class="dormant-item"><b>PASG</b> Passage BIO, Inc. <span class="dim">(106d)</span></span><span class="dormant-item"><b>AXR</b> AMREP CORP. <span class="dim">(97d)</span></span><span class="dormant-item"><b>XHLD</b> TEN Holdings, Inc. <span class="dim">(91d)</span></span></div>
       <p class="dim" style="font-size: 11px; margin-top: 8px;"></p>
     </details>
 </div></body></html>
