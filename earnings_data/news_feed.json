@@ -1,6 +1,78 @@
 {
- "generated_at": "2026-06-18T18:08:28+00:00",
+ "generated_at": "2026-06-18T21:23:58+00:00",
  "items": [
+  {
+   "uuid": "62c2f98d-46b4-36bc-8ec5-f6bc5fc2a309",
+   "tickers": [
+    "BV"
+   ],
+   "company": "BrightView Holdings, Inc.",
+   "title": "BrightView Extends Term Loans, Receivables Financing Facility Maturities",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/brightview-extends-term-loans-receivables-203035353.html",
+   "published_unix": 1781814635,
+   "captured_at": "2026-06-18T21:23:35"
+  },
+  {
+   "uuid": "bd122057-5254-3c10-b25d-dbbcb33ebde3",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "California American Water Encourages Customers to Practice Wise Water Use as Hotter, Drier Summer Conditions Approach",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/california-american-water-encourages-customers-202800043.html",
+   "published_unix": 1781814480,
+   "captured_at": "2026-06-18T21:23:18"
+  },
+  {
+   "uuid": "42d795e4-3cc4-31f9-a6a9-b3b128904fa1",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Toll Brothers Insider Sold Shares Worth $12,206,375, According to a Recent SEC Filing",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-insider-sold-shares-201450737.html",
+   "published_unix": 1781813690,
+   "captured_at": "2026-06-18T21:23:15"
+  },
+  {
+   "uuid": "749d78a7-b645-3813-8d9d-01a9b496a258",
+   "tickers": [
+    "BV"
+   ],
+   "company": "BrightView Holdings, Inc.",
+   "title": "BrightView Announces Extension of Term Loan and Receivables Financing Maturities",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/brightview-announces-extension-term-loan-201000544.html",
+   "published_unix": 1781813400,
+   "captured_at": "2026-06-18T21:23:35"
+  },
+  {
+   "uuid": "ceeb7408-ed90-3920-bea3-0357b8ca6da0",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Toll Brothers Announces New Luxury Home Community Now Open in Germantown, Maryland",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-185500688.html",
+   "published_unix": 1781808900,
+   "captured_at": "2026-06-18T21:23:15"
+  },
+  {
+   "uuid": "3abece4e-0b05-345b-960d-fd6940c956f8",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Toll Brothers at Heardmont Farms Community Now Open in Cumming, Georgia",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-heardmont-farms-community-185400056.html",
+   "published_unix": 1781808840,
+   "captured_at": "2026-06-18T21:23:15"
+  },
   {
    "uuid": "1945bdfc-b5e6-3aa9-b81a-931c0526eced",
    "tickers": [
@@ -1152,30 +1224,6 @@
    "link": "https://finance.yahoo.com/m/37771aba-ba47-34ea-bfb1-70cd47da936b/is-hca-healthcare-stock-a.html",
    "published_unix": 1781219059,
    "captured_at": "2026-06-11T23:40:20"
-  },
-  {
-   "uuid": "cd3ccac6-8565-3111-97e5-1fdbde00fee5",
-   "tickers": [
-    "OFLX"
-   ],
-   "company": "Omega Flex, Inc.",
-   "title": "Omega Flex, Inc. Announces Regular Quarterly Dividend for the Second Quarter 2026",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/omega-flex-inc-announces-regular-204500055.html",
-   "published_unix": 1781210700,
-   "captured_at": "2026-06-11T21:25:15"
-  },
-  {
-   "uuid": "9cf4e029-d70b-38b6-a83c-e1a0dc62d9e4",
-   "tickers": [
-    "BV"
-   ],
-   "company": "BrightView Holdings, Inc.",
-   "title": "BrightView Declares Tenth Consecutive Cash Dividend Payment on Preferred Stock",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/brightview-declares-tenth-consecutive-cash-201500274.html",
-   "published_unix": 1781208900,
-   "captured_at": "2026-06-11T21:25:33"
   }
  ]
 }
