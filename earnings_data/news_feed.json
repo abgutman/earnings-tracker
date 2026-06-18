@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-06-18T21:23:58+00:00",
+ "generated_at": "2026-06-18T23:49:51+00:00",
  "items": [
   {
    "uuid": "62c2f98d-46b4-36bc-8ec5-f6bc5fc2a309",
@@ -1212,18 +1212,6 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-initiates-avalo-therapeutics-buy-115907697.html",
    "published_unix": 1781265547,
    "captured_at": "2026-06-12T14:12:29"
-  },
-  {
-   "uuid": "37771aba-ba47-34ea-bfb1-70cd47da936b",
-   "tickers": [
-    "UHS"
-   ],
-   "company": "UNIVERSAL HEALTH SERVICES INC",
-   "title": "Is HCA Healthcare Stock A Trap Or A Missed Opportunity?",
-   "publisher": "Trefis",
-   "link": "https://finance.yahoo.com/m/37771aba-ba47-34ea-bfb1-70cd47da936b/is-hca-healthcare-stock-a.html",
-   "published_unix": 1781219059,
-   "captured_at": "2026-06-11T23:40:20"
   }
  ]
 }
