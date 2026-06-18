@@ -1,6 +1,18 @@
 {
- "generated_at": "2026-06-18T14:14:26+00:00",
+ "generated_at": "2026-06-18T18:08:28+00:00",
  "items": [
+  {
+   "uuid": "1945bdfc-b5e6-3aa9-b81a-931c0526eced",
+   "tickers": [
+    "VSH"
+   ],
+   "company": "VISHAY INTERTECHNOLOGY INC",
+   "title": "Vishay Intertechnology Releases 1.5 kV Automotive and Commercial IHDV Inductors in Compact Sizes Starting with 20 mm x 14 mm x 14 mm",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/technology/articles/vishay-intertechnology-releases-1-5-172000549.html",
+   "published_unix": 1781803200,
+   "captured_at": "2026-06-18T18:07:43"
+  },
   {
    "uuid": "29cd4317-1af5-3942-8f82-4629f90e919b",
    "tickers": [
@@ -1164,90 +1176,6 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/brightview-declares-tenth-consecutive-cash-201500274.html",
    "published_unix": 1781208900,
    "captured_at": "2026-06-11T21:25:33"
-  },
-  {
-   "uuid": "07c5e083-f8bd-3b6a-95eb-4988ff1d060f",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Why Did Wall Street Misprice JNJ Stock?",
-   "publisher": "Trefis",
-   "link": "https://finance.yahoo.com/m/07c5e083-f8bd-3b6a-95eb-4988ff1d060f/why-did-wall-street-misprice.html",
-   "published_unix": 1781200983,
-   "captured_at": "2026-06-11T18:20:27"
-  },
-  {
-   "uuid": "95353ea1-9d2b-3343-b056-2bc8675b8758",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "American Water Launches 2026 Flow Forward Summer Camp Program to Help Teens Explore the Water Industry Workforce",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/sectors/energy/articles/american-water-launches-2026-flow-165400272.html",
-   "published_unix": 1781196840,
-   "captured_at": "2026-06-11T18:19:53"
-  },
-  {
-   "uuid": "21bbf052-a9cb-31c4-ac8b-0b4b23405e0d",
-   "tickers": [
-    "BURL"
-   ],
-   "company": "Burlington Stores, Inc.",
-   "title": "Burlington Stores Poised for Market Share Gains, UBS Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/burlington-stores-poised-market-share-153310179.html",
-   "published_unix": 1781191990,
-   "captured_at": "2026-06-11T18:19:53"
-  },
-  {
-   "uuid": "7f7eab92-3d44-3e25-994a-7a6a07214ddf",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers Announces Last Chance to Buy a New Luxury Home at Venado Valley in Carson City, Nevada",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-announces-last-chance-153100112.html",
-   "published_unix": 1781191860,
-   "captured_at": "2026-06-11T18:19:51"
-  },
-  {
-   "uuid": "57a2563b-bf28-36e0-b16e-031ca843948d",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers at Landmark Community Now Open in Denton, Texas",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-landmark-community-now-153000713.html",
-   "published_unix": 1781191800,
-   "captured_at": "2026-06-11T18:19:51"
-  },
-  {
-   "uuid": "db3f143f-46ef-3d72-b41f-e3f8711ebc50",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Aramark's Data Center Opportunity Could be Larger than Expected, Oppenheimer Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-apos-data-center-opportunity-150421848.html",
-   "published_unix": 1781190261,
-   "captured_at": "2026-06-11T18:19:45"
-  },
-  {
-   "uuid": "836cc923-718e-37c5-ba58-038bc8d51770",
-   "tickers": [
-    "SEIC"
-   ],
-   "company": "SEI INVESTMENTS CO",
-   "title": "Sei Investments Insider Sold Shares Worth $452,500, According to a Recent SEC Filing",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/sei-investments-insider-sold-shares-142603119.html",
-   "published_unix": 1781187963,
-   "captured_at": "2026-06-11T14:42:58"
   }
  ]
 }
