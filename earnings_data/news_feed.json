@@ -1,6 +1,126 @@
 {
- "generated_at": "2026-06-18T02:37:01+00:00",
+ "generated_at": "2026-06-18T14:14:26+00:00",
  "items": [
+  {
+   "uuid": "29cd4317-1af5-3942-8f82-4629f90e919b",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "American Water Provides Tips for Conserving Water This Summer",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/american-water-provides-tips-conserving-140300147.html",
+   "published_unix": 1781791380,
+   "captured_at": "2026-06-18T14:13:46"
+  },
+  {
+   "uuid": "82da1f80-0103-3170-9923-f21bffed42ee",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Comcast Beats Network Energy Efficiency Goal Five Years Early",
+   "publisher": "ACCESS Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/comcast-beats-network-energy-efficiency-133000190.html",
+   "published_unix": 1781789400,
+   "captured_at": "2026-06-18T14:13:35"
+  },
+  {
+   "uuid": "a1094fd0-5455-3bbf-b5cd-a5e422a0af9a",
+   "tickers": [
+    "SEIC"
+   ],
+   "company": "SEI INVESTMENTS CO",
+   "title": "SEI Appoints Matt Provencher as Global Head of Enterprise Professional Services",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/technology/articles/sei-appoints-matt-provencher-global-130000618.html",
+   "published_unix": 1781787600,
+   "captured_at": "2026-06-18T14:13:45"
+  },
+  {
+   "uuid": "8089ba25-e7c4-398f-8688-67d72fc143fb",
+   "tickers": [
+    "HLNE"
+   ],
+   "company": "Hamilton Lane INC",
+   "title": "Oppenheimer Adjusts Hamilton Lane Price Target to $176 From $179, Maintains Outperform Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-adjusts-hamilton-lane-price-124827691.html",
+   "published_unix": 1781786907,
+   "captured_at": "2026-06-18T14:13:52"
+  },
+  {
+   "uuid": "edea54f1-54cd-37ac-9353-f78fda03deb1",
+   "tickers": [
+    "PKBK"
+   ],
+   "company": "PARKE BANCORP, INC.",
+   "title": "PARKE BANCORP, INC. ANNOUNCES CASH DIVIDEND",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/parke-bancorp-inc-announces-cash-124500057.html",
+   "published_unix": 1781786700,
+   "captured_at": "2026-06-18T14:14:04"
+  },
+  {
+   "uuid": "2681d00e-e0b8-3c4a-a9c3-24d0c441aa46",
+   "tickers": [
+    "EXYN"
+   ],
+   "company": "Exyn Technologies, Inc.",
+   "title": "Exyn Technologies to Participate in the iAccess Alpha Virtual Best Ideas Summer Investment Conference 2026 on June 23\u201324, 2026",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/exyn-technologies-participate-iaccess-alpha-123000950.html",
+   "published_unix": 1781785800,
+   "captured_at": "2026-06-18T14:14:12"
+  },
+  {
+   "uuid": "17e10025-bf8a-3101-bd9a-f41f95093ea1",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Merck Says FDA Approved Capvaxive in High-Risk Pediatric Patients",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/merck-says-fda-approved-capvaxive-111504473.html",
+   "published_unix": 1781781304,
+   "captured_at": "2026-06-18T14:14:25"
+  },
+  {
+   "uuid": "ae2b0e12-6633-3487-ace6-d7e2ba2717a8",
+   "tickers": [
+    "BSY"
+   ],
+   "company": "BENTLEY SYSTEMS INC",
+   "title": "BNP Paribas Initiates Bentley Systems at Outperform With $40 Price Target",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-initiates-bentley-systems-110704408.html",
+   "published_unix": 1781780824,
+   "captured_at": "2026-06-18T14:13:40"
+  },
+  {
+   "uuid": "ff634f3b-8ca3-3162-a86b-ed7b16fce929",
+   "tickers": [
+    "PHIO"
+   ],
+   "company": "Phio Pharmaceuticals Corp.",
+   "title": "Phio Pharmaceuticals Announces Participation in the Life Sciences Investor Forum on June 24-25, 2026",
+   "publisher": "TMX Newsfile",
+   "link": "https://finance.yahoo.com/healthcare/articles/phio-pharmaceuticals-announces-participation-life-110000745.html",
+   "published_unix": 1781780400,
+   "captured_at": "2026-06-18T14:14:16"
+  },
+  {
+   "uuid": "82d61ef9-a68b-38ca-87a6-0fc78b479b41",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "CMCSA Stock Slumps To Nearly 13-Year Low: Retail Touts \u2018Lifetime Opportunity To Get Rich\u2019",
+   "publisher": "Stocktwits",
+   "link": "https://finance.yahoo.com/m/82d61ef9-a68b-38ca-87a6-0fc78b479b41/cmcsa-stock-slumps-to-nearly.html",
+   "published_unix": 1781756274,
+   "captured_at": "2026-06-18T14:13:35"
+  },
   {
    "uuid": "5aa439a8-c535-37f5-a729-fe5b4d9a89d7",
    "tickers": [
@@ -1128,162 +1248,6 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/sei-investments-insider-sold-shares-142603119.html",
    "published_unix": 1781187963,
    "captured_at": "2026-06-11T14:42:58"
-  },
-  {
-   "uuid": "1f4dbafb-d37e-389b-b562-b7ff04aa2ddb",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Comcast Business Makes Cybersecurity Simple for Small Businesses with Nationwide Launch of SecurityEdge\u2122 Preferred",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/sectors/technology/articles/comcast-business-makes-cybersecurity-simple-140000093.html",
-   "published_unix": 1781186400,
-   "captured_at": "2026-06-11T14:42:50"
-  },
-  {
-   "uuid": "2cb8cf70-796c-31f7-b957-44f3b256f213",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Johnson & Johnson Reports Strong Late-Stage Results for Rare Blood Disorder Therapy (JNJ)",
-   "publisher": "InvestorsHub",
-   "link": "https://finance.yahoo.com/m/2cb8cf70-796c-31f7-b957-44f3b256f213/johnson-%26-johnson-reports.html",
-   "published_unix": 1781181616,
-   "captured_at": "2026-06-11T14:43:35"
-  },
-  {
-   "uuid": "08e2abd0-3470-3277-994d-9d3cd1159c84",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Oppenheimer Adjusts Aramark Price Target to $60 From $50, Maintains Outperform Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-adjusts-aramark-price-target-123831277.html",
-   "published_unix": 1781181511,
-   "captured_at": "2026-06-11T14:42:51"
-  },
-  {
-   "uuid": "8a31a773-411c-3fd3-b16b-519e8ab46a43",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "BofA Securities Adjusts American Water Works Price Target to $133 From $134",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-securities-adjusts-american-water-123806391.html",
-   "published_unix": 1781181486,
-   "captured_at": "2026-06-11T14:43:00"
-  },
-  {
-   "uuid": "11e8b029-da92-3a2b-922c-184f4330fa99",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Comcast to Host Second Quarter 2026 Earnings Conference Call",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-host-second-quarter-2026-123000214.html",
-   "published_unix": 1781181000,
-   "captured_at": "2026-06-11T14:42:50"
-  },
-  {
-   "uuid": "306129d5-7eaa-3fac-a3de-b1a0de662752",
-   "tickers": [
-    "UIS"
-   ],
-   "company": "UNISYS CORP",
-   "title": "Unisys Earns 2026 Global Alliances Americas Data Center Partner of the Year from Dell Technologies",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/sectors/technology/articles/unisys-earns-2026-global-alliances-123000016.html",
-   "published_unix": 1781181000,
-   "captured_at": "2026-06-11T14:42:57"
-  },
-  {
-   "uuid": "1ecf1ca3-1e48-379b-ac0c-82a6d78f1af5",
-   "tickers": [
-    "HRMY"
-   ],
-   "company": "Harmony Biosciences Holdings, Inc.",
-   "title": "Harmony Biosciences Announces Poster Presentations at 2026 SLEEP Annual Meeting",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/harmony-biosciences-announces-poster-presentations-120500839.html",
-   "published_unix": 1781179500,
-   "captured_at": "2026-06-11T14:43:02"
-  },
-  {
-   "uuid": "35ac44d1-2fe4-3165-aa74-23d1488bfb43",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Johnson & Johnson Expands U.S. Availability of TECNIS PureSee IOL, an Advanced Lens Option for Cataract Surgeons and Patients",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/johnson-johnson-expands-u-availability-114500019.html",
-   "published_unix": 1781178300,
-   "captured_at": "2026-06-11T14:43:35"
-  },
-  {
-   "uuid": "1ea00bef-14a0-3b3a-89de-b3923cdf94ed",
-   "tickers": [
-    "PPL"
-   ],
-   "company": "PPL Corp",
-   "title": "Market Digest: RY, AAP, AZO, PPL, UNP, DASH",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/1ea00bef-14a0-3b3a-89de-b3923cdf94ed/market-digest%3A-ry%2C-aap%2C-azo%2C.html",
-   "published_unix": 1781176044,
-   "captured_at": "2026-06-11T14:43:35"
-  },
-  {
-   "uuid": "0f567b0c-13a9-3e4b-8881-8a2e361480ef",
-   "tickers": [
-    "PPL"
-   ],
-   "company": "PPL Corp",
-   "title": "Analyst Report: PPL Corp",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/0f567b0c-13a9-3e4b-8881-8a2e361480ef/analyst-report%3A-ppl-corp.html",
-   "published_unix": 1781176044,
-   "captured_at": "2026-06-11T14:43:35"
-  },
-  {
-   "uuid": "2af8cc6b-d5c9-39e7-8b93-7630af656386",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Merck to Acquire Poultry Biodevice Firm Targan to Expand Animal Health Tech",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/merck-acquire-poultry-biodevice-firm-105553918.html",
-   "published_unix": 1781175353,
-   "captured_at": "2026-06-11T14:43:36"
-  },
-  {
-   "uuid": "79f7176b-a02f-3f67-8499-5ecf99482769",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Merck Animal Health to Acquire TARGAN",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/merck-animal-health-acquire-targan-104500863.html",
-   "published_unix": 1781174700,
-   "captured_at": "2026-06-11T14:43:36"
-  },
-  {
-   "uuid": "85ba2a28-7dbc-3118-b4d2-7520b555541f",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC CORP",
-   "title": "RBC Cuts Price Target on FMC to $14 From $17, Keeps Sector Perform Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-cuts-price-target-fmc-104144730.html",
-   "published_unix": 1781174504,
-   "captured_at": "2026-06-11T14:42:51"
   }
  ]
 }
