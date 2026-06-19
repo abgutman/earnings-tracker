@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-06-19T19:55:34+00:00",
+ "generated_at": "2026-06-19T21:13:44+00:00",
  "items": [
   {
    "uuid": "23e04d22-2006-3d75-919b-7c177fd9f9b6",
@@ -1139,18 +1139,6 @@
    "publisher": "MT Newswires",
    "link": "https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-insider-sold-shares-212930232.html",
    "published_unix": 1781299770,
-   "captured_at": "2026-06-12T22:28:38"
-  },
-  {
-   "uuid": "1654f55c-ac56-3656-ac72-33646aba2847",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "What Could Push JNJ Stock Higher From Here?",
-   "publisher": "Trefis",
-   "link": "https://finance.yahoo.com/m/1654f55c-ac56-3656-ac72-33646aba2847/what-could-push-jnj-stock.html",
-   "published_unix": 1781297590,
    "captured_at": "2026-06-12T22:28:38"
   }
  ]
