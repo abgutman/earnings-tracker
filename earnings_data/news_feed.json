@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-06-19T02:52:58+00:00",
+ "generated_at": "2026-06-19T14:15:35+00:00",
  "items": [
   {
    "uuid": "bc14c461-62ac-36b2-bf7d-b58c35dcf6f2",
@@ -1152,78 +1152,6 @@
    "link": "https://finance.yahoo.com/sectors/healthcare/articles/avalo-therapeutics-apos-lead-drug-150028078.html",
    "published_unix": 1781276428,
    "captured_at": "2026-06-12T17:40:03"
-  },
-  {
-   "uuid": "9df6611d-f944-3fe7-8d0b-07cfb0c0c173",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "Red-Tail Land Conservancy Receives $75,000 Grant from the American Water Charitable Foundation to Protect Boston Creek Forest in Wayne County",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/sectors/energy/articles/red-tail-land-conservancy-receives-140600982.html",
-   "published_unix": 1781273160,
-   "captured_at": "2026-06-12T17:39:49"
-  },
-  {
-   "uuid": "89f69755-7491-321f-a628-faf099318974",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Comcast Recognized by VETS Indexes and U.S. Veterans Magazine for Its Military\u2011Ready Workplace",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/sectors/technology/articles/comcast-recognized-vets-indexes-u-140000894.html",
-   "published_unix": 1781272800,
-   "captured_at": "2026-06-12T14:12:02"
-  },
-  {
-   "uuid": "e516ac68-f45e-34eb-a844-964a4326a810",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Peapack, New Jersey",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-announces-luxury-home-135100685.html",
-   "published_unix": 1781272260,
-   "captured_at": "2026-06-12T14:12:10"
-  },
-  {
-   "uuid": "c3fe48db-90b8-33d4-ab59-a4b5a5916ed3",
-   "tickers": [
-    "EXYN"
-   ],
-   "company": "Exyn Technologies, Inc.",
-   "title": "Exyn Technologies, Brag House, and Avalon Advanced Materials Interviews to Air on the RedChip Small Stocks, Big Money(TM) Show on Bloomberg TV",
-   "publisher": "ACCESS Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/exyn-technologies-brag-house-avalon-130000094.html",
-   "published_unix": 1781269200,
-   "captured_at": "2026-06-12T14:12:41"
-  },
-  {
-   "uuid": "a5db390d-6ed8-33bf-a61c-47204b6b9f48",
-   "tickers": [
-    "COBA"
-   ],
-   "company": "Chilean Cobalt Corp.",
-   "title": "Chilean Cobalt Corp. Expands NeoRe Development Program With Exploration Success, Engineering Progress and AI Engagement",
-   "publisher": "ACCESS Newswire",
-   "link": "https://finance.yahoo.com/sectors/energy/articles/chilean-cobalt-corp-expands-neore-130000778.html",
-   "published_unix": 1781269200,
-   "captured_at": "2026-06-12T14:12:52"
-  },
-  {
-   "uuid": "ac16de23-8c2f-37c4-aada-3f8846dae85a",
-   "tickers": [
-    "AVTX"
-   ],
-   "company": "Avalo Therapeutics, Inc.",
-   "title": "BofA Initiates Avalo Therapeutics at Buy With $35 Price Target",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-initiates-avalo-therapeutics-buy-115907697.html",
-   "published_unix": 1781265547,
-   "captured_at": "2026-06-12T14:12:29"
   }
  ]
 }
