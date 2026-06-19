@@ -1,6 +1,18 @@
 {
- "generated_at": "2026-06-18T23:49:51+00:00",
+ "generated_at": "2026-06-19T02:52:58+00:00",
  "items": [
+  {
+   "uuid": "bc14c461-62ac-36b2-bf7d-b58c35dcf6f2",
+   "tickers": [
+    "EPAM"
+   ],
+   "company": "EPAM Systems, Inc.",
+   "title": "Analyst Report: EPAM Systems, Inc.",
+   "publisher": "Morningstar Research",
+   "link": "https://finance.yahoo.com/m/bc14c461-62ac-36b2-bf7d-b58c35dcf6f2/analyst-report%3A-epam-systems%2C.html",
+   "published_unix": 1781822004,
+   "captured_at": "2026-06-19T02:52:27"
+  },
   {
    "uuid": "62c2f98d-46b4-36bc-8ec5-f6bc5fc2a309",
    "tickers": [
