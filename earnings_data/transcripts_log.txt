@@ -382,3 +382,22 @@
 [2026-06-19 00:18:05] No new transcripts found; transcripts.json unchanged
 [2026-06-19 00:18:05] === Done. 0 new transcript links found. ===
 
+[2026-06-19 17:22:22] === Fool transcript harvest start (dry_run=False) ===
+[2026-06-19 17:22:22] Loaded 122 tickers from expanded_companies.json
+[2026-06-19 17:22:22] Recent tickers (last filing within 14d): ['BV', 'CNTX', 'COR', 'CPB', 'FSK', 'NXGL', 'QVCAQ', 'TRAW', 'URBN']
+[2026-06-19 17:22:22] Seed backfill: all seeds already in state
+[2026-06-19 17:22:22] Fetching Fool transcript index: https://www.fool.com/earnings-call-transcripts/
+[2026-06-19 17:22:23]   Found 20 transcript links on index page
+[2026-06-19 17:22:23]   Fool index matched tickers: []
+[2026-06-19 17:22:23] Yahoo secondary search for 8 tickers: ['BV', 'CNTX', 'COR', 'FSK', 'NXGL', 'QVCAQ', 'TRAW', 'URBN']
+[2026-06-19 17:22:23]   MISS [Yahoo] BV: no transcript items in feed
+[2026-06-19 17:22:24]   MISS [Yahoo] CNTX: no transcript items in feed
+[2026-06-19 17:22:24]   MISS [Yahoo] COR: no transcript items in feed
+[2026-06-19 17:22:25]   MISS [Yahoo] FSK: no transcript items in feed
+[2026-06-19 17:22:25]   MISS [Yahoo] NXGL: no transcript items in feed
+[2026-06-19 17:22:26]   MISS [Yahoo] QVCAQ: no transcript items in feed
+[2026-06-19 17:22:26]   MISS [Yahoo] TRAW: no transcript items in feed
+[2026-06-19 17:22:27]   MISS [Yahoo] URBN: no transcript items in feed
+[2026-06-19 17:22:27] No new transcripts found; transcripts.json unchanged
+[2026-06-19 17:22:27] === Done. 0 new transcript links found. ===
+
