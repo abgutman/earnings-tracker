@@ -1,6 +1,30 @@
 {
- "generated_at": "2026-06-19T17:22:17+00:00",
+ "generated_at": "2026-06-19T19:55:34+00:00",
  "items": [
+  {
+   "uuid": "23e04d22-2006-3d75-919b-7c177fd9f9b6",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "Illinois American Water Reminds Motorists to Move Over for Safety",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/illinois-american-water-reminds-motorists-185900798.html",
+   "published_unix": 1781895540,
+   "captured_at": "2026-06-19T19:55:00"
+  },
+  {
+   "uuid": "dbf3b9fb-277c-3bd6-97ca-6e91e474e253",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "Kentucky American Water Upgrading Water Infrastructure in Owen County Through Nearly $3 Million Investment",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/economy/policy/articles/kentucky-american-water-upgrading-water-181400155.html",
+   "published_unix": 1781892840,
+   "captured_at": "2026-06-19T19:55:00"
+  },
   {
    "uuid": "59860d70-f685-3d6e-8061-47bc01ee893f",
    "tickers": [
@@ -1128,30 +1152,6 @@
    "link": "https://finance.yahoo.com/m/1654f55c-ac56-3656-ac72-33646aba2847/what-could-push-jnj-stock.html",
    "published_unix": 1781297590,
    "captured_at": "2026-06-12T22:28:38"
-  },
-  {
-   "uuid": "f5244518-4919-31e6-bd62-5c20b1a7890b",
-   "tickers": [
-    "VLGEA"
-   ],
-   "company": "VILLAGE SUPER MARKET INC",
-   "title": "Village Super Market, Inc. Declares Quarterly Dividend",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/village-super-market-inc-declares-195100575.html",
-   "published_unix": 1781293860,
-   "captured_at": "2026-06-12T20:17:26"
-  },
-  {
-   "uuid": "18e74c8c-6e28-38f7-aeca-8cfd9f1345a4",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "JNJ Raised the Bar: So Why Is the Stock Standing Still?",
-   "publisher": "Trefis",
-   "link": "https://finance.yahoo.com/m/18e74c8c-6e28-38f7-aeca-8cfd9f1345a4/jnj-raised-the-bar%3A-so-why-is.html",
-   "published_unix": 1781291663,
-   "captured_at": "2026-06-12T20:17:50"
   }
  ]
 }
