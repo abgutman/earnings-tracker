@@ -1,6 +1,42 @@
 {
- "generated_at": "2026-06-19T14:15:35+00:00",
+ "generated_at": "2026-06-19T17:22:17+00:00",
  "items": [
+  {
+   "uuid": "59860d70-f685-3d6e-8061-47bc01ee893f",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Toll Brothers Announces New Luxury Townhome Community Coming Soon to Doylestown, Pennsylvania",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-townhome-144400471.html",
+   "published_unix": 1781880240,
+   "captured_at": "2026-06-19T17:21:35"
+  },
+  {
+   "uuid": "9d25ae6b-c7f0-3c33-bafa-6ceeee878bdf",
+   "tickers": [
+    "HSY"
+   ],
+   "company": "HERSHEY CO",
+   "title": "Hershey embraces protein trend with new Reese\u2019s snack bars",
+   "publisher": "Just Food",
+   "link": "https://finance.yahoo.com/m/9d25ae6b-c7f0-3c33-bafa-6ceeee878bdf/hershey-embraces-protein.html",
+   "published_unix": 1781878596,
+   "captured_at": "2026-06-19T17:22:16"
+  },
+  {
+   "uuid": "f9b49f28-1754-32e3-bc55-8fdc512785ed",
+   "tickers": [
+    "JJSF"
+   ],
+   "company": "J&J SNACK FOODS CORP",
+   "title": "Gerald Shreiber, Who Turned the Soft Pretzel Into a Ubiquitous Stadium Snack, Dies at 84",
+   "publisher": "The Wall Street Journal",
+   "link": "https://finance.yahoo.com/m/f9b49f28-1754-32e3-bc55-8fdc512785ed/gerald-shreiber%2C-who-turned.html",
+   "published_unix": 1781877600,
+   "captured_at": "2026-06-19T17:21:50"
+  },
   {
    "uuid": "bc14c461-62ac-36b2-bf7d-b58c35dcf6f2",
    "tickers": [
@@ -1116,42 +1152,6 @@
    "link": "https://finance.yahoo.com/m/18e74c8c-6e28-38f7-aeca-8cfd9f1345a4/jnj-raised-the-bar%3A-so-why-is.html",
    "published_unix": 1781291663,
    "captured_at": "2026-06-12T20:17:50"
-  },
-  {
-   "uuid": "61eecd08-b9e9-3d05-840f-7337d7bf8684",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Merck's Belzutifan Combination Approved by FDA for Adjuvant Treatment of Renal Cell Carcinoma",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/merck-apos-belzutifan-combination-approved-171325736.html",
-   "published_unix": 1781284405,
-   "captured_at": "2026-06-12T17:40:28"
-  },
-  {
-   "uuid": "0c153b93-1cdb-36ab-82e3-5d1c9dadd81c",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers Seen Benefiting From Luxury Buyer Resilience, RBC Capital Markets Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-seen-benefiting-luxury-150922438.html",
-   "published_unix": 1781276962,
-   "captured_at": "2026-06-12T17:39:45"
-  },
-  {
-   "uuid": "424bb59f-1250-3da1-b715-b467f2c76093",
-   "tickers": [
-    "AVTX"
-   ],
-   "company": "Avalo Therapeutics, Inc.",
-   "title": "Avalo Therapeutics' Lead Drug now a Cleaner Immunology Story, BofA Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/avalo-therapeutics-apos-lead-drug-150028078.html",
-   "published_unix": 1781276428,
-   "captured_at": "2026-06-12T17:40:03"
   }
  ]
 }
