@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-06-19T21:13:44+00:00",
+ "generated_at": "2026-06-19T23:03:24+00:00",
  "items": [
   {
    "uuid": "23e04d22-2006-3d75-919b-7c177fd9f9b6",
@@ -1104,42 +1104,6 @@
    "link": "https://finance.yahoo.com/sectors/technology/articles/ops-ai-arrowhead-strategy-group-000200745.html",
    "published_unix": 1781308920,
    "captured_at": "2026-06-13T00:23:10"
-  },
-  {
-   "uuid": "4f2b26cd-ec38-3f37-b435-6fcbbeb9f993",
-   "tickers": [
-    "ESMR"
-   ],
-   "company": "E-Smart Corp.",
-   "title": "Amazon's smart tower fan is an energy-efficient way to stay cool for just $90",
-   "publisher": "TheStreet",
-   "link": "https://finance.yahoo.com/m/4f2b26cd-ec38-3f37-b435-6fcbbeb9f993/amazon%27s-smart-tower-fan-is.html",
-   "published_unix": 1781302500,
-   "captured_at": "2026-06-12T22:28:35"
-  },
-  {
-   "uuid": "b4e140a3-e213-360f-b5ff-a4742893d973",
-   "tickers": [
-    "TRAW"
-   ],
-   "company": "Traws Pharma, Inc.",
-   "title": "Traws Pharma Provides Regulatory Update on Influenza Program",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/traws-pharma-provides-regulatory-influenza-213000779.html",
-   "published_unix": 1781299800,
-   "captured_at": "2026-06-12T22:28:26"
-  },
-  {
-   "uuid": "d07a3a40-c748-3be0-9af0-eae723de1b2d",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Johnson & Johnson Insider Sold Shares Worth $2,411,500, According to a Recent SEC Filing",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-insider-sold-shares-212930232.html",
-   "published_unix": 1781299770,
-   "captured_at": "2026-06-12T22:28:38"
   }
  ]
 }
