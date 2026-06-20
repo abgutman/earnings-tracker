@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-06-19T23:03:24+00:00",
+ "generated_at": "2026-06-20T02:13:47+00:00",
  "items": [
   {
    "uuid": "23e04d22-2006-3d75-919b-7c177fd9f9b6",
@@ -1080,30 +1080,6 @@
    "link": "https://finance.yahoo.com/m/38b87e5c-3155-3a53-8660-2ed819ba29d7/comcast-offering-payouts-in.html",
    "published_unix": 1781428033,
    "captured_at": "2026-06-15T08:37:18"
-  },
-  {
-   "uuid": "28c044f5-ccbf-3a45-8609-460950003eba",
-   "tickers": [
-    "TRAW"
-   ],
-   "company": "Traws Pharma, Inc.",
-   "title": "Why Did TRAW Stock Slump 28% After Hours?",
-   "publisher": "Stocktwits",
-   "link": "https://finance.yahoo.com/m/28c044f5-ccbf-3a45-8609-460950003eba/why-did-traw-stock-slump-28%25.html",
-   "published_unix": 1781309257,
-   "captured_at": "2026-06-13T00:23:02"
-  },
-  {
-   "uuid": "52979890-fe8d-3bc3-81d3-24842e5064fe",
-   "tickers": [
-    "ESMR"
-   ],
-   "company": "E-Smart Corp.",
-   "title": "Ops+AI and Arrowhead Strategy Group Announce Strategic Partnership to Help Founders Build Smarter, Stronger, More Scalable Companies",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/sectors/technology/articles/ops-ai-arrowhead-strategy-group-000200745.html",
-   "published_unix": 1781308920,
-   "captured_at": "2026-06-13T00:23:10"
   }
  ]
 }
