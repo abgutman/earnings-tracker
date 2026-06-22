@@ -1,6 +1,42 @@
 {
- "generated_at": "2026-06-22T15:58:23+00:00",
+ "generated_at": "2026-06-22T19:38:42+00:00",
  "items": [
+  {
+   "uuid": "2bcfc139-13fb-34fa-9a2b-48a7cc544a2b",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "New Toll Brothers Gated Luxury Home Community Coming Soon to Palm Desert, California",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-gated-luxury-home-192700043.html",
+   "published_unix": 1782156420,
+   "captured_at": "2026-06-22T19:37:54"
+  },
+  {
+   "uuid": "2892a083-14f3-3d4e-a66b-7ab81a2cc62d",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "Indiana American Water Encourages Customers to Practice Wise Water Use as Hotter, Drier Summer Days are Ahead",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/indiana-american-water-encourages-customers-192100661.html",
+   "published_unix": 1782156060,
+   "captured_at": "2026-06-22T19:37:58"
+  },
+  {
+   "uuid": "4052b1c5-395a-3010-846c-5ce5ae0e5112",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "New Jersey American Water and Salem City Mark Two-Year Anniversary of Water and Wastewater System Acquisition",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/jersey-american-water-salem-city-161500474.html",
+   "published_unix": 1782144900,
+   "captured_at": "2026-06-22T19:37:58"
+  },
   {
    "uuid": "696c6f65-6d46-305a-a944-bb3723b3fa8e",
    "tickers": [
@@ -1080,18 +1116,6 @@
    "link": "https://finance.yahoo.com/sectors/healthcare/articles/cencora-announces-samantha-hammock-chief-201500246.html",
    "published_unix": 1781554500,
    "captured_at": "2026-06-15T20:28:35"
-  },
-  {
-   "uuid": "d8302f1e-5ecc-3e75-81f3-154e0ec1748d",
-   "tickers": [
-    "HSDT"
-   ],
-   "company": "Solana Co",
-   "title": "Solana Treasury Firm Forward Industries Keeps Trying to Acquire Rivals\u2014But Nobody's Biting",
-   "publisher": "decrypt",
-   "link": "https://finance.yahoo.com/m/d8302f1e-5ecc-3e75-81f3-154e0ec1748d/solana-treasury-firm-forward.html",
-   "published_unix": 1781544629,
-   "captured_at": "2026-06-15T20:28:59"
   }
  ]
 }
