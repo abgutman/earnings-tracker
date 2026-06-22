@@ -1,6 +1,174 @@
 {
- "generated_at": "2026-06-20T02:13:47+00:00",
+ "generated_at": "2026-06-22T15:58:23+00:00",
  "items": [
+  {
+   "uuid": "696c6f65-6d46-305a-a944-bb3723b3fa8e",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Merck Stock\u2019s New Drugs Were Already Answering The Big Question",
+   "publisher": "Trefis",
+   "link": "https://finance.yahoo.com/m/696c6f65-6d46-305a-a944-bb3723b3fa8e/merck-stock%E2%80%99s-new-drugs-were.html",
+   "published_unix": 1782139584,
+   "captured_at": "2026-06-22T15:58:23"
+  },
+  {
+   "uuid": "e35a513d-fafe-39ef-ad2b-1f06d824720c",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "American Water Brings Industry Expertise and Forward-Looking Solutions to ACE26",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/american-water-brings-industry-expertise-133500900.html",
+   "published_unix": 1782135300,
+   "captured_at": "2026-06-22T15:57:49"
+  },
+  {
+   "uuid": "b662e6d6-87d1-3eeb-a15e-d7f33c62a031",
+   "tickers": [
+    "VRCA"
+   ],
+   "company": "Verrica Pharmaceuticals Inc.",
+   "title": "Verrica Pharmaceuticals' Doses First US Patient in Phase 3 Trial Evaluating Ycanth to Treat Common Warts",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/verrica-pharmaceuticals-apos-doses-first-125039705.html",
+   "published_unix": 1782132639,
+   "captured_at": "2026-06-22T15:58:09"
+  },
+  {
+   "uuid": "17f2294f-16a4-3f0f-aeba-22d85293dff3",
+   "tickers": [
+    "PVLA"
+   ],
+   "company": "PALVELLA THERAPEUTICS, INC.",
+   "title": "Palvella Shares Advance After FDA Grants Rolling Review for Rare Disease Therapy",
+   "publisher": "InvestorsHub",
+   "link": "https://finance.yahoo.com/m/17f2294f-16a4-3f0f-aeba-22d85293dff3/palvella-shares-advance-after.html",
+   "published_unix": 1782132545,
+   "captured_at": "2026-06-22T15:57:57"
+  },
+  {
+   "uuid": "3bac3f75-d480-334b-aa4b-4b3ed2354453",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "MARS Company Announces Compliance with New ANSI/AWWA M6 Standards for Water Meter Testing",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/technology/articles/mars-company-announces-compliance-ansi-124100043.html",
+   "published_unix": 1782132060,
+   "captured_at": "2026-06-22T15:57:49"
+  },
+  {
+   "uuid": "f5a86624-2e89-3dec-ba10-141f136ed6c7",
+   "tickers": [
+    "PVLA"
+   ],
+   "company": "PALVELLA THERAPEUTICS, INC.",
+   "title": "Palvella Therapeutics' Qtorin Granted FDA Rolling Review; Shares Rise Pre-Bell",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/palvella-therapeutics-apos-qtorin-granted-122601831.html",
+   "published_unix": 1782131161,
+   "captured_at": "2026-06-22T15:57:57"
+  },
+  {
+   "uuid": "c8c0cb64-024f-3525-aaa3-ce204d7c4a88",
+   "tickers": [
+    "TRAW"
+   ],
+   "company": "Traws Pharma, Inc.",
+   "title": "Traws Pharma Says Updated Toxicology Data Being Developed on Influenza Prophylaxis Program",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/traws-pharma-says-updated-toxicology-122355728.html",
+   "published_unix": 1782131035,
+   "captured_at": "2026-06-22T15:58:13"
+  },
+  {
+   "uuid": "a1fd2714-6b2f-3ca0-b071-f69cf444f3b2",
+   "tickers": [
+    "VRCA"
+   ],
+   "company": "Verrica Pharmaceuticals Inc.",
+   "title": "Verrica Pharmaceuticals Announces First U.S. Patient Dosed in the Second Pivotal Clinical Trial (COVE-3) of its Phase 3 Program Evaluating YCANTH\u00ae (VP-102) for the Treatment of Common Warts",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/verrica-pharmaceuticals-announces-first-u-120500426.html",
+   "published_unix": 1782129900,
+   "captured_at": "2026-06-22T15:58:09"
+  },
+  {
+   "uuid": "5e867374-fa17-3e03-a4da-6fa5be89e004",
+   "tickers": [
+    "PVLA"
+   ],
+   "company": "PALVELLA THERAPEUTICS, INC.",
+   "title": "FDA Grants Rolling Review of Palvella\u2019s QTORIN\u2122 Rapamycin NDA for Microcystic Lymphatic Malformations",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/fda-grants-rolling-review-palvella-113000180.html",
+   "published_unix": 1782127800,
+   "captured_at": "2026-06-22T15:57:57"
+  },
+  {
+   "uuid": "96cd8c91-4307-3140-a31a-96be78239b82",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Sanofi swaps R&D leaders; Merck\u2019s Prometheus deal pays dividends",
+   "publisher": "BioPharma Dive",
+   "link": "https://finance.yahoo.com/m/96cd8c91-4307-3140-a31a-96be78239b82/sanofi-swaps-r%26d-leaders%3B.html",
+   "published_unix": 1782126720,
+   "captured_at": "2026-06-22T15:58:23"
+  },
+  {
+   "uuid": "2540db46-0cb2-3b5a-9cc8-1854aa9345d8",
+   "tickers": [
+    "UHS"
+   ],
+   "company": "UNIVERSAL HEALTH SERVICES INC",
+   "title": "TD Cowen Adjusts Price Target on Universal Health Services to $197 From $230, Maintains Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/td-cowen-adjusts-price-target-110639080.html",
+   "published_unix": 1782126399,
+   "captured_at": "2026-06-22T15:57:46"
+  },
+  {
+   "uuid": "096cde05-03bf-32cc-ad90-2987b93186bc",
+   "tickers": [
+    "TRAW"
+   ],
+   "company": "Traws Pharma, Inc.",
+   "title": "Traws Pharma Provides Updated Guidance on Influenza Prophylaxis Program",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/traws-pharma-provides-updated-guidance-110000916.html",
+   "published_unix": 1782126000,
+   "captured_at": "2026-06-22T15:58:13"
+  },
+  {
+   "uuid": "7c2d974e-5535-3598-92f9-9d49938f8de1",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Merck\u2019s Tulisokibart Met Primary and Key Secondary Endpoints in the Phase 3 ATLAS-UC Induction-only Study in Patients With Moderately to Severely Active Ulcerative Colitis (UC)",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/healthcare/articles/merck-tulisokibart-met-primary-key-104500137.html",
+   "published_unix": 1782125100,
+   "captured_at": "2026-06-22T15:58:23"
+  },
+  {
+   "uuid": "9914f6f5-fc8e-32ba-86b4-af36ec239769",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Berenberg Adjusts Price Target on Merck & Co. to $125 From $115, Maintains Hold Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/berenberg-adjusts-price-target-merck-102310569.html",
+   "published_unix": 1782123790,
+   "captured_at": "2026-06-22T15:58:23"
+  },
   {
    "uuid": "23e04d22-2006-3d75-919b-7c177fd9f9b6",
    "tickers": [
@@ -924,162 +1092,6 @@
    "link": "https://finance.yahoo.com/m/d8302f1e-5ecc-3e75-81f3-154e0ec1748d/solana-treasury-firm-forward.html",
    "published_unix": 1781544629,
    "captured_at": "2026-06-15T20:28:59"
-  },
-  {
-   "uuid": "18c721c8-76ea-3e37-976d-9b66dc55b4ec",
-   "tickers": [
-    "EPAM"
-   ],
-   "company": "EPAM Systems, Inc.",
-   "title": "EPAM Systems' Weak Demand, AI Risks Limit Upside Potential, Wedbush Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/epam-systems-apos-weak-demand-151015959.html",
-   "published_unix": 1781536215,
-   "captured_at": "2026-06-15T16:20:35"
-  },
-  {
-   "uuid": "5b54ce5d-77e8-3012-afd6-f9528c615db0",
-   "tickers": [
-    "HSDT"
-   ],
-   "company": "Solana Co",
-   "title": "Forward Industries Offers to Acquire Solana, SkyAI; Solana Declines, No Response From SkyAI",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/forward-industries-offers-acquire-solana-143214723.html",
-   "published_unix": 1781533934,
-   "captured_at": "2026-06-15T16:20:57"
-  },
-  {
-   "uuid": "5d2ab4d5-0882-31a1-8722-49ac52f3f0f9",
-   "tickers": [
-    "EXYN"
-   ],
-   "company": "Exyn Technologies, Inc.",
-   "title": "Join Exyn Technologies' Exclusive Live Investor Webinar and Q&A Session on June 30",
-   "publisher": "ACCESS Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/join-exyn-technologies-exclusive-live-130000192.html",
-   "published_unix": 1781528400,
-   "captured_at": "2026-06-15T16:21:01"
-  },
-  {
-   "uuid": "8256f089-b80f-38ea-bdab-5bfe2f88a554",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Aramark Student Nutrition Announces Nationwide Update to School Menus for 2026\u20132027",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/aramark-student-nutrition-announces-nationwide-113000699.html",
-   "published_unix": 1781523000,
-   "captured_at": "2026-06-15T08:37:18"
-  },
-  {
-   "uuid": "5d42c630-d880-3029-9df4-73072632e42a",
-   "tickers": [
-    "CNTX"
-   ],
-   "company": "Context Therapeutics Inc.",
-   "title": "Context Therapeutics to Proceed With Next Development Phase of CTIM-76 in Ovarian Cancer",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/context-therapeutics-proceed-next-development-111656279.html",
-   "published_unix": 1781522216,
-   "captured_at": "2026-06-15T08:37:50"
-  },
-  {
-   "uuid": "a435f58e-479b-382b-97f1-2cdd9009cc7f",
-   "tickers": [
-    "TRAW"
-   ],
-   "company": "Traws Pharma, Inc.",
-   "title": "Traws Pharma Delays Phase 2 Influenza Study After UK Regulatory Review; Shares Down Pre-Bell",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/traws-pharma-delays-phase-2-104229416.html",
-   "published_unix": 1781520149,
-   "captured_at": "2026-06-15T08:37:59"
-  },
-  {
-   "uuid": "07b6b1ad-89e4-30e5-999f-fffe8c3c23c9",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Johnson & Johnson Invests More Than $1 Billion to Expand Contact Lens Operations in Florida",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/johnson-johnson-invests-more-1-104157834.html",
-   "published_unix": 1781520117,
-   "captured_at": "2026-06-15T08:38:11"
-  },
-  {
-   "uuid": "62c94171-8bd1-3656-a801-52a0872dec20",
-   "tickers": [
-    "CNTX"
-   ],
-   "company": "Context Therapeutics Inc.",
-   "title": "Context Therapeutics Announces Positive Interim Efficacy and Safety Results from Ongoing Phase 1 Clinical Trial for CTIM-76",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/context-therapeutics-announces-positive-interim-103000152.html",
-   "published_unix": 1781519400,
-   "captured_at": "2026-06-15T08:37:50"
-  },
-  {
-   "uuid": "b775bfc6-294e-3246-9e8a-ee7892d2ef9b",
-   "tickers": [
-    "TRAW"
-   ],
-   "company": "Traws Pharma, Inc.",
-   "title": "Traws Pharma Shares Slide After UK Regulator Postpones Influenza Study",
-   "publisher": "InvestorsHub",
-   "link": "https://finance.yahoo.com/m/b775bfc6-294e-3246-9e8a-ee7892d2ef9b/traws-pharma-shares-slide.html",
-   "published_unix": 1781519193,
-   "captured_at": "2026-06-15T08:37:59"
-  },
-  {
-   "uuid": "73713a86-571e-3ab4-b569-90f2cbd5cc8d",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Johnson & Johnson Invests more than $1 Billion to Strengthen U.S. Vision Manufacturing in Jacksonville, Florida",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/johnson-johnson-invests-more-1-100000142.html",
-   "published_unix": 1781517600,
-   "captured_at": "2026-06-15T08:38:11"
-  },
-  {
-   "uuid": "654e5d96-01ea-3540-bdfd-fc055a2b7e60",
-   "tickers": [
-    "BURL"
-   ],
-   "company": "Burlington Stores, Inc.",
-   "title": "Burlington Stores Is on a Hot Streak. The Stock Is Still Worth Checking Out.",
-   "publisher": "Barrons.com",
-   "link": "https://finance.yahoo.com/m/654e5d96-01ea-3540-bdfd-fc055a2b7e60/burlington-stores-is-on-a-hot.html",
-   "published_unix": 1781500680,
-   "captured_at": "2026-06-15T16:20:30"
-  },
-  {
-   "uuid": "9db5b6bf-cd69-37c4-96db-9aea782f161e",
-   "tickers": [
-    "MLYS"
-   ],
-   "company": "Mineralys Therapeutics, Inc.",
-   "title": "Mineralys Therapeutics Presents Late-Breaking Data on Lorundrostat and Heart Failure Risk Biomarkers at The Endocrine Society Annual Meeting (ENDO 2026)",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/mineralys-therapeutics-presents-breaking-data-140000450.html",
-   "published_unix": 1781445600,
-   "captured_at": "2026-06-15T08:37:38"
-  },
-  {
-   "uuid": "38b87e5c-3155-3a53-8660-2ed819ba29d7",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Comcast offering payouts in $117.5M settlement. Are you eligible?",
-   "publisher": "USA TODAY",
-   "link": "https://finance.yahoo.com/m/38b87e5c-3155-3a53-8660-2ed819ba29d7/comcast-offering-payouts-in.html",
-   "published_unix": 1781428033,
-   "captured_at": "2026-06-15T08:37:18"
   }
  ]
 }
