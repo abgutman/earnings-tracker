@@ -227,3 +227,9 @@
 [2026-06-19 21:58:19] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
 [2026-06-19 22:50:44] === CHECK-10Q: scanning for pending 10-Q filings ===
 [2026-06-19 22:50:47] === CHECK-10Q complete. Checked 6, found 0, cleared 0 stale. ===
+[2026-06-22 16:10:02] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-06-22 16:10:26]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001130598.json'
+[2026-06-22 16:10:26]   ★ NEW 8k_701 for TRAW (Traws Pharma, Inc.) filed 2026-06-22
+[2026-06-22 16:10:26]     https://www.sec.gov/Archives/edgar/data/1130598/000110465926076058/tm2618195d1_8k.htm
+[2026-06-22 16:10:28]     ✉ alert sent (8k_701)
+[2026-06-22 16:10:33] === EDGAR POLL complete. Fetched 100 companies, 1 new filings. ===
