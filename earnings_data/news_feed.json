@@ -1,6 +1,56 @@
 {
- "generated_at": "2026-06-22T19:38:42+00:00",
+ "generated_at": "2026-06-22T22:08:28+00:00",
  "items": [
+  {
+   "uuid": "65ca5d96-9deb-38c0-b59d-bd4eeb25a2d5",
+   "tickers": [
+    "WTRG",
+    "AWK"
+   ],
+   "company": "Essential Utilities, Inc.",
+   "title": "Virginia Regulator Approves American Water-Essential Utilities Merger",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/virginia-regulator-approves-american-water-204203293.html",
+   "published_unix": 1782160923,
+   "captured_at": "2026-06-22T22:07:48"
+  },
+  {
+   "uuid": "c621b7e4-bace-3ee6-beff-950a6e5d62f5",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC CORP",
+   "title": "FMC Corporation announces date for second quarter 2026 earnings release and webcast conference call",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-corporation-announces-date-second-203000901.html",
+   "published_unix": 1782160200,
+   "captured_at": "2026-06-22T22:07:41"
+  },
+  {
+   "uuid": "7ef443b7-644c-376e-ade5-4204cd88a421",
+   "tickers": [
+    "AME"
+   ],
+   "company": "AMETEK INC/",
+   "title": "Is AMETEK Stock Just More Market Exposure?",
+   "publisher": "Trefis",
+   "link": "https://finance.yahoo.com/m/7ef443b7-644c-376e-ade5-4204cd88a421/is-ametek-stock-just-more.html",
+   "published_unix": 1782159707,
+   "captured_at": "2026-06-22T22:07:45"
+  },
+  {
+   "uuid": "fee447ed-f617-345e-b1be-bc1b40ba495d",
+   "tickers": [
+    "WTRG",
+    "AWK"
+   ],
+   "company": "Essential Utilities, Inc.",
+   "title": "American Water and Essential Utilities Proposed Merger Progresses with Approval from the Virginia State Corporation Commission",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/american-water-essential-utilities-proposed-201500373.html",
+   "published_unix": 1782159300,
+   "captured_at": "2026-06-22T22:07:48"
+  },
   {
    "uuid": "2bcfc139-13fb-34fa-9a2b-48a7cc544a2b",
    "tickers": [
@@ -1068,54 +1118,6 @@
    "link": "https://finance.yahoo.com/healthcare/articles/ai-skin-analytics-caught-20-230100609.html",
    "published_unix": 1781564460,
    "captured_at": "2026-06-15T23:06:21"
-  },
-  {
-   "uuid": "770d485f-a6df-3f0b-bb9e-180271662782",
-   "tickers": [
-    "CNTX"
-   ],
-   "company": "Context Therapeutics Inc.",
-   "title": "CNTX Hits Worst Day In History After Ovarian Cancer Trial Data \u2014 But Analysts See Buying Opportunity In Dip",
-   "publisher": "Stocktwits",
-   "link": "https://finance.yahoo.com/m/770d485f-a6df-3f0b-bb9e-180271662782/cntx-hits-worst-day-in.html",
-   "published_unix": 1781558445,
-   "captured_at": "2026-06-15T23:06:02"
-  },
-  {
-   "uuid": "89b49869-9f3f-393f-a8df-31b1947f7f3a",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora, Inc.",
-   "title": "Cencora Appoints Samantha Hammock as Chief Human Resources Officer",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/cencora-appoints-samantha-hammock-chief-205355938.html",
-   "published_unix": 1781556835,
-   "captured_at": "2026-06-15T23:05:44"
-  },
-  {
-   "uuid": "05ab50f8-d93b-3710-b3bd-484c7c263be1",
-   "tickers": [
-    "HLNE"
-   ],
-   "company": "Hamilton Lane INC",
-   "title": "Hamilton Lane Insider Bought Shares Worth $1,144,050, According to a Recent SEC Filing",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/hamilton-lane-insider-bought-shares-201746953.html",
-   "published_unix": 1781554666,
-   "captured_at": "2026-06-15T23:05:51"
-  },
-  {
-   "uuid": "51172cc9-65a9-3d8a-bcf7-d8e77f7eb8d6",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora, Inc.",
-   "title": "Cencora Announces Samantha Hammock as Chief Human Resources Officer",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/cencora-announces-samantha-hammock-chief-201500246.html",
-   "published_unix": 1781554500,
-   "captured_at": "2026-06-15T20:28:35"
   }
  ]
 }
