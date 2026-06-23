@@ -463,7 +463,6 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1140859/000110465926074102/tm2617954d1_8k.htm",
   "last_detected_at": "2026-06-15T22:10:18.852594+00:00",
   "last_8k_detected_at": "2026-06-15T22:10:18.852594+00:00",
-  "pending_10q_since": "2026-06-15",
   "last_10q_url": null
  },
  "CPB": {
@@ -1330,7 +1329,6 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1842952/000162828026043042/cntx-20260615.htm",
   "last_detected_at": "2026-06-15T16:25:55.309093+00:00",
   "last_8k_detected_at": "2026-06-15T16:25:55.309093+00:00",
-  "pending_10q_since": "2026-06-15",
   "last_10q_url": null
  },
  "QNBC": {
