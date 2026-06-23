@@ -1,6 +1,138 @@
 {
- "generated_at": "2026-06-23T02:08:22+00:00",
+ "generated_at": "2026-06-23T13:45:19+00:00",
  "items": [
+  {
+   "uuid": "fbc23b0b-dd68-3850-8805-f1683469e0d5",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Alpharetta, Georgia",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-133000221.html",
+   "published_unix": 1782221400,
+   "captured_at": "2026-06-23T13:44:34"
+  },
+  {
+   "uuid": "80013182-933f-3c5f-a07a-22e948ae23c1",
+   "tickers": [
+    "HLNE"
+   ],
+   "company": "Hamilton Lane INC",
+   "title": "Gridline Announces Strategic Integration With Hamilton Lane, Expanding Private Markets Benchmarking Capabilities",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/gridline-announces-strategic-integration-hamilton-130800001.html",
+   "published_unix": 1782220080,
+   "captured_at": "2026-06-23T13:44:44"
+  },
+  {
+   "uuid": "44a4e0e6-5582-31d7-834b-9c06418df099",
+   "tickers": [
+    "SEIC"
+   ],
+   "company": "SEI INVESTMENTS CO",
+   "title": "Rob Wrzesniewski to Lead Technology Enablement and Integration Across Stratos and SEI Asset Management Platforms",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/technology/articles/rob-wrzesniewski-lead-technology-enablement-130000817.html",
+   "published_unix": 1782219600,
+   "captured_at": "2026-06-23T13:44:36"
+  },
+  {
+   "uuid": "ccebd173-d2c2-316a-8b91-8df341967415",
+   "tickers": [
+    "UIS"
+   ],
+   "company": "UNISYS CORP",
+   "title": "Unisys Named to The Economist's 2026 Global Top 100 Most Loved Workplaces\u00ae",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/technology/articles/unisys-named-economists-2026-global-123000077.html",
+   "published_unix": 1782217800,
+   "captured_at": "2026-06-23T13:44:35"
+  },
+  {
+   "uuid": "30a0145c-c0e3-3190-b4c1-ab5fe7555df9",
+   "tickers": [
+    "NVRI"
+   ],
+   "company": "ENVIRI Corp",
+   "title": "Enviri Rings the NYSE Closing Bell\u00ae, Signaling the Start of Its Next Chapter",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/enviri-rings-nyse-closing-bell-120000169.html",
+   "published_unix": 1782216000,
+   "captured_at": "2026-06-23T13:44:48"
+  },
+  {
+   "uuid": "0a904bff-1dd2-37c0-bc63-3149c92d5ac4",
+   "tickers": [
+    "EXYN"
+   ],
+   "company": "Exyn Technologies, Inc.",
+   "title": "Exyn Technologies Rebrands Range Subsidiary as Exyn Defense",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/technology/ai/articles/exyn-technologies-rebrands-range-subsidiary-120000916.html",
+   "published_unix": 1782216000,
+   "captured_at": "2026-06-23T13:45:05"
+  },
+  {
+   "uuid": "64641c89-4727-3081-a53e-393768ff662e",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC CORP",
+   "title": "FMC Corporation Announces $114 Million Sale-Leaseback of Newark, Delaware Property",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/fmc-corporation-announces-114-million-113000318.html",
+   "published_unix": 1782214200,
+   "captured_at": "2026-06-23T13:44:26"
+  },
+  {
+   "uuid": "3ea8d6a0-f27f-368b-a6f8-46b9f5268e35",
+   "tickers": [
+    "TFX"
+   ],
+   "company": "TELEFLEX INC",
+   "title": "Teleflex Starts Patient Enrollment for BIOMAG-III Study of Freesolve Resorbable Magnesium Scaffold",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/teleflex-starts-patient-enrollment-biomag-111354973.html",
+   "published_unix": 1782213234,
+   "captured_at": "2026-06-23T13:44:43"
+  },
+  {
+   "uuid": "437dc25d-eb01-3eeb-aa0e-3d73b3ec9431",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "CAMPBELL'S Co",
+   "title": "William Blair Initiates Campbell's at Market Perform",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/william-blair-initiates-campbell-apos-110516969.html",
+   "published_unix": 1782212716,
+   "captured_at": "2026-06-23T13:44:37"
+  },
+  {
+   "uuid": "f4331c5b-2c9e-3e5a-9654-be5c40b779f3",
+   "tickers": [
+    "AVTX"
+   ],
+   "company": "Avalo Therapeutics, Inc.",
+   "title": "Avalo Therapeutics Appoints Ron Philip to Board of Directors",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/avalo-therapeutics-appoints-ron-philip-110000635.html",
+   "published_unix": 1782212400,
+   "captured_at": "2026-06-23T13:44:52"
+  },
+  {
+   "uuid": "3e8eee2a-f4ae-3dc0-a1e6-bc043685f159",
+   "tickers": [
+    "TFX"
+   ],
+   "company": "TELEFLEX INC",
+   "title": "Teleflex Initiates Enrollment in Global BIOMAG\u2122\u2011III Pivotal Trial of Freesolve\u2122 Resorbable Magnesium Scaffold",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/healthcare/articles/teleflex-initiates-enrollment-global-biomag-103000665.html",
+   "published_unix": 1782210600,
+   "captured_at": "2026-06-23T13:44:43"
+  },
   {
    "uuid": "65ca5d96-9deb-38c0-b59d-bd4eeb25a2d5",
    "tickers": [
@@ -938,174 +1070,6 @@
    "link": "https://finance.yahoo.com/healthcare/articles/personal-protective-equipment-market-reach-141100034.html",
    "published_unix": 1781619060,
    "captured_at": "2026-06-16T16:01:48"
-  },
-  {
-   "uuid": "075e91d3-bdc8-3a46-a868-c2240d55caa8",
-   "tickers": [
-    "AVTX"
-   ],
-   "company": "Avalo Therapeutics, Inc.",
-   "title": "Avalo Therapeutics Plans IND Application for AVTX-010 in H1 2027",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/avalo-therapeutics-plans-ind-application-131925464.html",
-   "published_unix": 1781615965,
-   "captured_at": "2026-06-16T16:01:14"
-  },
-  {
-   "uuid": "ded8d4b5-7e79-3daf-ad52-fec90b384bf5",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Merck Signs Drug Discovery, Licensing Deal With Protillion Biosciences",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/merck-signs-drug-discovery-licensing-130416581.html",
-   "published_unix": 1781615056,
-   "captured_at": "2026-06-16T16:01:48"
-  },
-  {
-   "uuid": "fc8cd060-bc28-34da-97fe-ac8d1ae14440",
-   "tickers": [
-    "SEIC"
-   ],
-   "company": "SEI INVESTMENTS CO",
-   "title": "SEI Introduces Technology and AI to Boost Investment Manager Efficiency",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/technology/ai/articles/sei-introduces-technology-ai-boost-120000080.html",
-   "published_unix": 1781611200,
-   "captured_at": "2026-06-16T16:00:53"
-  },
-  {
-   "uuid": "c125fafd-1979-3d66-a6e0-81edb5d0c305",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "Missouri American Water Proudly Recognizes American Water Charitable Foundation State Strategic Impact Grantees",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/missouri-american-water-proudly-recognizes-120000797.html",
-   "published_unix": 1781611200,
-   "captured_at": "2026-06-16T16:00:55"
-  },
-  {
-   "uuid": "a8536675-e5f5-3378-9ebf-5d276ca935ef",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "Pennsylvania American Water Launches 2026 Flow Forward Summer Camp Program to Help Teens Explore the Water Industry Workforce",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/small-business/articles/pennsylvania-american-water-launches-2026-120000655.html",
-   "published_unix": 1781611200,
-   "captured_at": "2026-06-16T16:00:55"
-  },
-  {
-   "uuid": "135a2483-75c5-34a5-ade0-23e435aa4c07",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Protillion Biosciences Announces Drug Discovery Collaboration with Merck",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/healthcare/articles/protillion-biosciences-announces-drug-discovery-120000783.html",
-   "published_unix": 1781611200,
-   "captured_at": "2026-06-16T16:01:48"
-  },
-  {
-   "uuid": "74f15dbc-f89b-39db-8804-a92ce4cb33c9",
-   "tickers": [
-    "HSDT"
-   ],
-   "company": "Solana Co",
-   "title": "Solana Company Rejects Unsolicited Acquisition Offer From Forward Industries",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/solana-company-rejects-unsolicited-acquisition-115926753.html",
-   "published_unix": 1781611166,
-   "captured_at": "2026-06-16T16:01:24"
-  },
-  {
-   "uuid": "b89189c2-ad85-3625-a89c-c740ff5a4528",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "TransUnion Names Former Comcast Executive as Chief Marketing and Communications Officer",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/transunion-names-former-comcast-executive-113320728.html",
-   "published_unix": 1781609600,
-   "captured_at": "2026-06-16T16:00:43"
-  },
-  {
-   "uuid": "250896a4-d7ea-385c-be0e-ba2a037b049e",
-   "tickers": [
-    "HSDT"
-   ],
-   "company": "Solana Co",
-   "title": "Solana News: Forward Industries Struck Out on All Three Solana Acquisition Bids",
-   "publisher": "Cryptonews",
-   "link": "https://finance.yahoo.com/m/250896a4-d7ea-385c-be0e-ba2a037b049e/solana-news%3A-forward.html",
-   "published_unix": 1781609542,
-   "captured_at": "2026-06-16T16:01:24"
-  },
-  {
-   "uuid": "49d5e9ab-e191-3bf3-b05f-067f8e202d0c",
-   "tickers": [
-    "AVTX"
-   ],
-   "company": "Avalo Therapeutics, Inc.",
-   "title": "Avalo Therapeutics Expands Pipeline with AVTX-010, a Long-Acting Next-Generation Anti-IL-1\u03b2 Antibody",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/avalo-therapeutics-expands-pipeline-avtx-110000212.html",
-   "published_unix": 1781607600,
-   "captured_at": "2026-06-16T16:01:14"
-  },
-  {
-   "uuid": "b8adea11-4f37-3020-a8db-7dffbe5879bb",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "MoffettNathanson Adjusts Price Target on Comcast to $52 From $53, Maintains Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/moffettnathanson-adjusts-price-target-comcast-104108035.html",
-   "published_unix": 1781606468,
-   "captured_at": "2026-06-16T16:00:43"
-  },
-  {
-   "uuid": "5ca0bb71-0443-39d8-b9f8-e928465d43bc",
-   "tickers": [
-    "DD"
-   ],
-   "company": "DuPont de Nemours, Inc.",
-   "title": "DuPont to Unveil New Tyvek\u00ae Innovation at Safe@Work 2026 in Thailand",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/dupont-unveil-tyvek-innovation-safe-083900860.html",
-   "published_unix": 1781599140,
-   "captured_at": "2026-06-16T16:01:48"
-  },
-  {
-   "uuid": "a2acae61-b5bb-3535-954c-155c6fd53ef3",
-   "tickers": [
-    "HSDT"
-   ],
-   "company": "Solana Co",
-   "title": "Forward Industries Presses Solana on Decision to Reject All-Stock Business Combination",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/forward-industries-presses-solana-decision-080336891.html",
-   "published_unix": 1781597016,
-   "captured_at": "2026-06-16T16:01:24"
-  },
-  {
-   "uuid": "d1b8f12a-1392-381e-8cec-615db24d8492",
-   "tickers": [
-    "ESMR"
-   ],
-   "company": "E-Smart Corp.",
-   "title": "Speediance Becomes Official Smart Fitness Equipment Partner of ATHX",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/technology/articles/speediance-becomes-official-smart-fitness-022200546.html",
-   "published_unix": 1781576520,
-   "captured_at": "2026-06-16T02:42:14"
   }
  ]
 }
