@@ -1,6 +1,54 @@
 {
- "generated_at": "2026-06-23T19:11:24+00:00",
+ "generated_at": "2026-06-23T21:46:24+00:00",
  "items": [
+  {
+   "uuid": "83576b74-3e5c-3d13-92b3-1d5f970a6ff9",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "The $50B Plan Merck Stock Was Broadcasting",
+   "publisher": "Trefis",
+   "link": "https://finance.yahoo.com/m/83576b74-3e5c-3d13-92b3-1d5f970a6ff9/the-%2450b-plan-merck-stock-was.html",
+   "published_unix": 1782244632,
+   "captured_at": "2026-06-23T21:46:24"
+  },
+  {
+   "uuid": "be513222-870b-3438-a72a-59fe4dffc862",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Comcast Q2 Results to Reflect Broadband Weakness, Softer Parks, UBS Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-q2-results-reflect-broadband-192139346.html",
+   "published_unix": 1782242499,
+   "captured_at": "2026-06-23T21:45:33"
+  },
+  {
+   "uuid": "899627cb-ee81-3dec-96f6-cd95bf226074",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Toll Brothers Announces Model Grand Opening at Toll Brothers at Thornebrook in Bulverde, Texas",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-model-grand-192000140.html",
+   "published_unix": 1782242400,
+   "captured_at": "2026-06-23T21:45:41"
+  },
+  {
+   "uuid": "01893566-45a8-3f26-994e-09dac5de3c93",
+   "tickers": [
+    "HSDT"
+   ],
+   "company": "Solana Co",
+   "title": "Ethereum Foundation Cuts Another 40% But Solana Founder Calls It Bullish",
+   "publisher": "BeInCrypto",
+   "link": "https://finance.yahoo.com/m/01893566-45a8-3f26-994e-09dac5de3c93/ethereum-foundation-cuts.html",
+   "published_unix": 1782241933,
+   "captured_at": "2026-06-23T21:46:07"
+  },
   {
    "uuid": "2163122f-4eb7-319b-8791-d72f258be758",
    "tickers": [
@@ -974,66 +1022,6 @@
    "link": "https://finance.yahoo.com/technology/ai/articles/voda-ai-launches-ai-powered-090000663.html",
    "published_unix": 1781686800,
    "captured_at": "2026-06-17T14:27:57"
-  },
-  {
-   "uuid": "287db816-7ccf-3ecc-a728-5d3134a63c5f",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC CORP",
-   "title": "Corteva, FMC Team Up to Expand Access to Rimisoxafen Herbicide Technology",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/corteva-fmc-team-expand-access-213216455.html",
-   "published_unix": 1781645536,
-   "captured_at": "2026-06-16T22:54:31"
-  },
-  {
-   "uuid": "173819b0-ed42-30b3-b8ba-712088063dcd",
-   "tickers": [
-    "BURL"
-   ],
-   "company": "Burlington Stores, Inc.",
-   "title": "Burlington Stores Insider Sold Shares Worth $7,144,823, According to a Recent SEC Filing",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/burlington-stores-insider-sold-shares-212332533.html",
-   "published_unix": 1781645012,
-   "captured_at": "2026-06-16T22:54:55"
-  },
-  {
-   "uuid": "d86e8077-2c25-3262-9080-714f83b434b0",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC CORP",
-   "title": "FMC Corporation and Corteva Expand Access to Breakthrough Rimisoxafen Herbicide Technology",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/fmc-corporation-corteva-expand-access-210000240.html",
-   "published_unix": 1781643600,
-   "captured_at": "2026-06-16T22:54:31"
-  },
-  {
-   "uuid": "abac9262-f91f-3264-81d4-377cbe380849",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "FIVE BELOW, INC",
-   "title": "Five Below Names Shake Shack CEO Robert Lynch to Board",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-names-shake-shack-205559449.html",
-   "published_unix": 1781643359,
-   "captured_at": "2026-06-16T22:54:32"
-  },
-  {
-   "uuid": "26c56460-ff91-3b84-afb3-08f24054d3bd",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "FIVE BELOW, INC",
-   "title": "Five Below, Inc. Announces Election of Robert Lynch to its Board of Directors",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-inc-announces-election-203000949.html",
-   "published_unix": 1781641800,
-   "captured_at": "2026-06-16T22:54:32"
   }
  ]
 }
