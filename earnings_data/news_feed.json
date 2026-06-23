@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-06-22T22:08:28+00:00",
+ "generated_at": "2026-06-23T00:13:34+00:00",
  "items": [
   {
    "uuid": "65ca5d96-9deb-38c0-b59d-bd4eeb25a2d5",
@@ -1106,18 +1106,6 @@
    "link": "https://finance.yahoo.com/technology/articles/speediance-becomes-official-smart-fitness-022200546.html",
    "published_unix": 1781576520,
    "captured_at": "2026-06-16T02:42:14"
-  },
-  {
-   "uuid": "9d5c4c71-7132-349e-822a-47d021e96bd1",
-   "tickers": [
-    "ESMR"
-   ],
-   "company": "E-Smart Corp.",
-   "title": "The AI from Skin Analytics that caught 20,000 cancers in the UK is now certified for use on a standard smartphone",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/ai-skin-analytics-caught-20-230100609.html",
-   "published_unix": 1781564460,
-   "captured_at": "2026-06-15T23:06:21"
   }
  ]
 }
