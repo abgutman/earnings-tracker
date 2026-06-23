@@ -1,6 +1,18 @@
 {
- "generated_at": "2026-06-23T21:46:24+00:00",
+ "generated_at": "2026-06-23T23:12:15+00:00",
  "items": [
+  {
+   "uuid": "9c58d57b-a920-3545-a615-9f4fc14981b1",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "American Water Charitable Foundation & Illinois American Water Launch 2026 Hydration Station Grant Program on National Hydration Day",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/american-water-charitable-foundation-illinois-223000465.html",
+   "published_unix": 1782253800,
+   "captured_at": "2026-06-23T23:11:41"
+  },
   {
    "uuid": "83576b74-3e5c-3d13-92b3-1d5f970a6ff9",
    "tickers": [
