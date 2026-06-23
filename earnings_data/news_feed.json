@@ -1,6 +1,30 @@
 {
- "generated_at": "2026-06-23T16:29:40+00:00",
+ "generated_at": "2026-06-23T19:11:24+00:00",
  "items": [
+  {
+   "uuid": "2163122f-4eb7-319b-8791-d72f258be758",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "CAMPBELL'S Co",
+   "title": "Analyst Report: Campbell's Company/The",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/2163122f-4eb7-319b-8791-d72f258be758/analyst-report%3A-campbell%27s.html",
+   "published_unix": 1782237365,
+   "captured_at": "2026-06-23T19:10:47"
+  },
+  {
+   "uuid": "445adcbc-81e9-3012-8e05-d8cc9d3215ce",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "CAMPBELL'S Co",
+   "title": "Market Update: CPB, ROK, SW",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/445adcbc-81e9-3012-8e05-d8cc9d3215ce/market-update%3A-cpb%2C-rok%2C-sw.html",
+   "published_unix": 1782236465,
+   "captured_at": "2026-06-23T19:10:47"
+  },
   {
    "uuid": "b752ac23-a207-3b8d-8976-9c78195afb89",
    "tickers": [
@@ -1010,54 +1034,6 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-inc-announces-election-203000949.html",
    "published_unix": 1781641800,
    "captured_at": "2026-06-16T22:54:32"
-  },
-  {
-   "uuid": "24b4ebdb-9504-340e-ba93-ccd4cd83d4b8",
-   "tickers": [
-    "HLNE"
-   ],
-   "company": "Hamilton Lane INC",
-   "title": "Hamilton Lane Shares Rise After Director Buys Shares Worth $1.1 Million",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/hamilton-lane-shares-rise-director-183225760.html",
-   "published_unix": 1781634745,
-   "captured_at": "2026-06-16T20:13:45"
-  },
-  {
-   "uuid": "cc3c7a0b-3fe0-37ae-b441-28247bcfc07a",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "American Water Provides Expertise at 2026 MACRUC Annual Education Conference",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/technology/ai/articles/american-water-provides-expertise-2026-170000938.html",
-   "published_unix": 1781629200,
-   "captured_at": "2026-06-16T20:13:38"
-  },
-  {
-   "uuid": "6e4f014f-4a36-3887-8eb3-ec32c8efcfdc",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers Announces Final Opportunity to Purchase a New Home at Regency at Caramella Ranch in South Reno, Nevada",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-final-opportunity-163800076.html",
-   "published_unix": 1781627880,
-   "captured_at": "2026-06-16T20:13:35"
-  },
-  {
-   "uuid": "406ad920-30c1-3275-89bb-c8d5e043101f",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers Offers Move-in Ready Townhomes Just Minutes from Washington, D.C.",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-offers-move-ready-163700367.html",
-   "published_unix": 1781627820,
-   "captured_at": "2026-06-16T20:13:35"
   }
  ]
 }
