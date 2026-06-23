@@ -1,6 +1,66 @@
 {
- "generated_at": "2026-06-23T13:45:19+00:00",
+ "generated_at": "2026-06-23T16:29:40+00:00",
  "items": [
+  {
+   "uuid": "b752ac23-a207-3b8d-8976-9c78195afb89",
+   "tickers": [
+    "VSH"
+   ],
+   "company": "VISHAY INTERTECHNOLOGY INC",
+   "title": "Vishay Intertechnology Automotive Grade Ambient Light Sensors Deliver Accurate Visible Light Measurement with no IR Bump",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/technology/articles/vishay-intertechnology-automotive-grade-ambient-150000265.html",
+   "published_unix": 1782226800,
+   "captured_at": "2026-06-23T16:28:44"
+  },
+  {
+   "uuid": "5dbc0c02-3f8b-3050-aa93-67260baeb667",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "27 American Water Drinking Water Treatment Plants Earn National Recognition by Partnership for Safe Water",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/27-american-water-drinking-water-142600223.html",
+   "published_unix": 1782224760,
+   "captured_at": "2026-06-23T16:28:50"
+  },
+  {
+   "uuid": "0c23e32d-33af-395a-a874-0493ece378a6",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "25 Years of Consistent Excellence: Indiana American Water Treatment Plants Earn National Recognition",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/25-years-consistent-excellence-indiana-142300286.html",
+   "published_unix": 1782224580,
+   "captured_at": "2026-06-23T16:28:50"
+  },
+  {
+   "uuid": "94380e9f-3618-3d8c-9a65-ca0d3d14f29a",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Comcast Business Strengthens Enterprise Networking Leadership with Top Industry Rankings Across SD-WAN, SASE, and Managed Services",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/articles/comcast-business-strengthens-enterprise-networking-140000218.html",
+   "published_unix": 1782223200,
+   "captured_at": "2026-06-23T16:28:39"
+  },
+  {
+   "uuid": "4a593eef-a6ab-3351-a82a-01fe9df84c1a",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "Tap Water You Can Trust: Five Missouri American Water Drinking Water Treatment Plants Earn National Recognition",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/tap-water-trust-five-missouri-134500330.html",
+   "published_unix": 1782222300,
+   "captured_at": "2026-06-23T16:28:50"
+  },
   {
    "uuid": "fbc23b0b-dd68-3850-8805-f1683469e0d5",
    "tickers": [
@@ -998,78 +1058,6 @@
    "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-offers-move-ready-163700367.html",
    "published_unix": 1781627820,
    "captured_at": "2026-06-16T20:13:35"
-  },
-  {
-   "uuid": "c40763a8-10ff-3b14-b238-6e7154eeac44",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "Illinois American Water Encourages Customers Across Illinois to Practice Wise Water Use This Summer",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/illinois-american-water-encourages-customers-155500724.html",
-   "published_unix": 1781625300,
-   "captured_at": "2026-06-16T20:13:38"
-  },
-  {
-   "uuid": "c141c761-ef6b-32e9-a3fc-c8b8df7163bc",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Jetstream Venture Fund Secures Position in Rejuvenate Bio, Investing Alongside Industry Giant Merck",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/jetstream-venture-fund-secures-position-150100540.html",
-   "published_unix": 1781622060,
-   "captured_at": "2026-06-16T16:01:48"
-  },
-  {
-   "uuid": "825c0f2e-0eed-328d-93f4-4bda817e9be3",
-   "tickers": [
-    "VSH"
-   ],
-   "company": "VISHAY INTERTECHNOLOGY INC",
-   "title": "Vishay Intertechnology Releases New 1 A, 2 A, and 3 A Gen 7 1200\u00a0V FRED Pt\u00ae Hyperfast Rectifiers in SMPC HV Package",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/technology/articles/vishay-intertechnology-releases-1-2-150000251.html",
-   "published_unix": 1781622000,
-   "captured_at": "2026-06-16T16:00:47"
-  },
-  {
-   "uuid": "cc86d98c-3952-38a0-9f7c-f8289d8f45c3",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Johnson & Johnson CEO Says Cure for Certain Cancers Is Realistic Goal",
-   "publisher": "The Wall Street Journal",
-   "link": "https://finance.yahoo.com/m/cc86d98c-3952-38a0-9f7c-f8289d8f45c3/johnson-%26-johnson-ceo-says.html",
-   "published_unix": 1781621640,
-   "captured_at": "2026-06-16T16:01:46"
-  },
-  {
-   "uuid": "86f4393f-4299-3ff6-b45a-bdbda9ea6f90",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Comcast's Xfinity Launches Same-Day WiFi Equipment Delivery",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/technology/articles/comcast-apos-xfinity-launches-same-141610312.html",
-   "published_unix": 1781619370,
-   "captured_at": "2026-06-16T16:00:43"
-  },
-  {
-   "uuid": "8cb47998-56d4-3686-a676-7e832b83f23a",
-   "tickers": [
-    "DD"
-   ],
-   "company": "DuPont de Nemours, Inc.",
-   "title": "Personal Protective Equipment Market to Reach USD 34.22 Billion by 2031 | 3M, DuPont, Ansell, MSA, and 37 Key Players Profiled | Arizton",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/personal-protective-equipment-market-reach-141100034.html",
-   "published_unix": 1781619060,
-   "captured_at": "2026-06-16T16:01:48"
   }
  ]
 }
