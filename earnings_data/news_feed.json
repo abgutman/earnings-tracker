@@ -1,6 +1,18 @@
 {
- "generated_at": "2026-06-24T16:25:59+00:00",
+ "generated_at": "2026-06-24T18:54:47+00:00",
  "items": [
+  {
+   "uuid": "4b2ad45b-674e-3172-abdc-c630705a4820",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora, Inc.",
+   "title": "Market Update: COR, ADM, NI",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/4b2ad45b-674e-3172-abdc-c630705a4820/market-update%3A-cor%2C-adm%2C-ni.html",
+   "published_unix": 1782323593,
+   "captured_at": "2026-06-24T18:53:59"
+  },
   {
    "uuid": "6fc88523-22ab-3570-a2e3-8af341ca6ae7",
    "tickers": [
@@ -1058,30 +1070,6 @@
    "link": "https://finance.yahoo.com/healthcare/articles/certara-announces-cfo-transition-203000893.html",
    "published_unix": 1781728200,
    "captured_at": "2026-06-17T22:47:47"
-  },
-  {
-   "uuid": "ff77a8c8-9e92-3668-aea8-2adad95ea948",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers Announces Model Grand Opening at\u00a0The Loughton\u00a0in Las Vegas, Nevada",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-model-grand-173100168.html",
-   "published_unix": 1781717460,
-   "captured_at": "2026-06-17T17:50:52"
-  },
-  {
-   "uuid": "46f8c801-b841-3ace-ba03-dd88c45412ec",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "The Number That Could Test Johnson & Johnson Stock",
-   "publisher": "Trefis",
-   "link": "https://finance.yahoo.com/m/46f8c801-b841-3ace-ba03-dd88c45412ec/the-number-that-could-test.html",
-   "published_unix": 1781716091,
-   "captured_at": "2026-06-17T17:51:28"
   }
  ]
 }
