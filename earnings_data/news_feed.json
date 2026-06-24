@@ -1,6 +1,114 @@
 {
- "generated_at": "2026-06-24T02:10:49+00:00",
+ "generated_at": "2026-06-24T13:26:28+00:00",
  "items": [
+  {
+   "uuid": "b405d943-02c9-3a67-8f33-8e3af85c5b24",
+   "tickers": [
+    "HSY"
+   ],
+   "company": "HERSHEY CO",
+   "title": "The Hershey Company Names Heather Hoytink President, US",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/hershey-company-names-heather-hoytink-125900324.html",
+   "published_unix": 1782305940,
+   "captured_at": "2026-06-24T13:26:26"
+  },
+  {
+   "uuid": "e6b86b26-e6b1-3ec9-8e58-a97d9406d214",
+   "tickers": [
+    "AXTA"
+   ],
+   "company": "Axalta Coating Systems Ltd.",
+   "title": "Axalta to Hold Special Meeting of Stockholders on Proposed Merger with AkzoNobel on August 5, 2026",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/axalta-hold-special-meeting-stockholders-121900372.html",
+   "published_unix": 1782303540,
+   "captured_at": "2026-06-24T13:25:39"
+  },
+  {
+   "uuid": "41e5680d-07ba-3946-adc7-46adfa03ceda",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora, Inc.",
+   "title": "BofA Adjusts Price Target on Cencora to $285 From $280",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-adjusts-price-target-cencora-115839938.html",
+   "published_unix": 1782302319,
+   "captured_at": "2026-06-24T13:25:46"
+  },
+  {
+   "uuid": "fccf906e-90f6-3da5-a7b0-c3f76f79237e",
+   "tickers": [
+    "PPL"
+   ],
+   "company": "PPL Corp",
+   "title": "Morgan Stanley Adjusts PPL Price Target to $42 From $40, Maintains Overweight Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-ppl-price-114057862.html",
+   "published_unix": 1782301257,
+   "captured_at": "2026-06-24T13:26:26"
+  },
+  {
+   "uuid": "fcf8dce0-a161-3948-88ad-b35cbc4e1cd3",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Merck Wins European Commission Approval for KEYTRUDA Plus Padcev in Bladder Cancer",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/merck-wins-european-commission-approval-112803571.html",
+   "published_unix": 1782300483,
+   "captured_at": "2026-06-24T13:26:27"
+  },
+  {
+   "uuid": "5a4a4c71-91a2-3bf3-ae47-3dfd0293631a",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "CICC Research Initiates Coverage on Merck With Outperform Rating, $138 Price Target",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cicc-research-initiates-coverage-merck-111700770.html",
+   "published_unix": 1782299820,
+   "captured_at": "2026-06-24T13:26:27"
+  },
+  {
+   "uuid": "540178da-7f3c-3e77-8244-d430cd656d1d",
+   "tickers": [
+    "PHIO"
+   ],
+   "company": "Phio Pharmaceuticals Corp.",
+   "title": "Phio Pharmaceuticals Reaches Key Milestone in Advancing Lead Candidate PH-762",
+   "publisher": "TMX Newsfile",
+   "link": "https://finance.yahoo.com/healthcare/articles/phio-pharmaceuticals-reaches-key-milestone-110000133.html",
+   "published_unix": 1782298800,
+   "captured_at": "2026-06-24T13:26:18"
+  },
+  {
+   "uuid": "62506a6d-d09e-3715-b0d5-313facea93a9",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "CICC Initiates Merck & Co. at Outperform With $138 Price Target",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cicc-initiates-merck-co-outperform-091913633.html",
+   "published_unix": 1782292753,
+   "captured_at": "2026-06-24T13:26:27"
+  },
+  {
+   "uuid": "9906eabe-f58f-3167-ba19-15bddf72e40a",
+   "tickers": [
+    "DD"
+   ],
+   "company": "DuPont de Nemours, Inc.",
+   "title": "DuPont Launches Tyvek\u00ae APX\u2122 in ASEAN Market",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/dupont-launches-tyvek-apx-asean-070000114.html",
+   "published_unix": 1782284400,
+   "captured_at": "2026-06-24T13:26:28"
+  },
   {
    "uuid": "ee20bcbd-1110-3863-b661-c56e6f07205d",
    "tickers": [
@@ -985,78 +1093,6 @@
    "publisher": "Business Wire",
    "link": "https://finance.yahoo.com/technology/articles/alper-yegin-ceo-lora-alliance-135600097.html",
    "published_unix": 1781704560,
-   "captured_at": "2026-06-17T14:27:57"
-  },
-  {
-   "uuid": "a5c362be-352e-38d8-8635-b93b0edd6770",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora, Inc.",
-   "title": "Cencora Launches Next-Generation Nucleus\u00ae Solution with Multi-Site Pilot Across Specialty Physician Practices",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/healthcare/articles/cencora-launches-next-generation-nucleus-120000440.html",
-   "published_unix": 1781697600,
-   "captured_at": "2026-06-17T14:27:56"
-  },
-  {
-   "uuid": "945fc8ad-71e4-3b33-b34a-71f4491a6a74",
-   "tickers": [
-    "FSK"
-   ],
-   "company": "FS KKR Capital Corp",
-   "title": "Market Chatter: Blackstone, Apollo, FS KKR to Invest $150 Million in Medallia",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-blackstone-apollo-fs-113343588.html",
-   "published_unix": 1781696023,
-   "captured_at": "2026-06-17T14:28:03"
-  },
-  {
-   "uuid": "033f8d5c-6e66-3761-8a3d-93c9f98d5578",
-   "tickers": [
-    "FSK"
-   ],
-   "company": "FS KKR Capital Corp",
-   "title": "Medallia Announces Milestone Agreement with Group Led by Blackstone, Apollo, and FSK to Transition Ownership and Position Company for Next Era of Growth",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/ai/articles/medallia-announces-milestone-agreement-group-113000080.html",
-   "published_unix": 1781695800,
-   "captured_at": "2026-06-17T14:28:03"
-  },
-  {
-   "uuid": "f9c8ff99-7c8e-3840-82ab-f5d3c2f7cec4",
-   "tickers": [
-    "BV"
-   ],
-   "company": "BrightView Holdings, Inc.",
-   "title": "Oppenheimer Initiates Coverage on BrightView With Outperform Rating, $17 Price Target",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-initiates-coverage-brightview-outperform-112447108.html",
-   "published_unix": 1781695487,
-   "captured_at": "2026-06-17T14:28:08"
-  },
-  {
-   "uuid": "5c1cf778-9388-3c66-9366-5872bfb8af79",
-   "tickers": [
-    "CUBE"
-   ],
-   "company": "CubeSmart",
-   "title": "Truist Securities Adjusts Price Target on CubeSmart to $43 From $41, Maintains Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/truist-securities-adjusts-price-target-104534049.html",
-   "published_unix": 1781693134,
-   "captured_at": "2026-06-17T14:28:00"
-  },
-  {
-   "uuid": "6ee50885-fbd0-3ddb-b9a1-0278ffa47b9f",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "VODA.ai Launches AI-Powered Revenue Recovery Solution to Help Water Utilities Capture Revenue Hidden in Degrading Meters",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/technology/ai/articles/voda-ai-launches-ai-powered-090000663.html",
-   "published_unix": 1781686800,
    "captured_at": "2026-06-17T14:27:57"
   }
  ]
