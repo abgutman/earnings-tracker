@@ -1,6 +1,30 @@
 {
- "generated_at": "2026-06-24T13:26:28+00:00",
+ "generated_at": "2026-06-24T16:25:59+00:00",
  "items": [
+  {
+   "uuid": "6fc88523-22ab-3570-a2e3-8af341ca6ae7",
+   "tickers": [
+    "DD"
+   ],
+   "company": "DuPont de Nemours, Inc.",
+   "title": "Chemours to pay $450M in first federal \"forever chemicals\" settlement",
+   "publisher": "CBS News",
+   "link": "https://finance.yahoo.com/m/6fc88523-22ab-3570-a2e3-8af341ca6ae7/chemours-to-pay-%24450m-in.html",
+   "published_unix": 1782316539,
+   "captured_at": "2026-06-24T16:25:59"
+  },
+  {
+   "uuid": "57b4679b-9f96-36e8-8641-e933829abe81",
+   "tickers": [
+    "DD"
+   ],
+   "company": "DuPont de Nemours, Inc.",
+   "title": "Analyst Report: DuPont de Nemours, Inc.",
+   "publisher": "Morningstar Research",
+   "link": "https://finance.yahoo.com/m/57b4679b-9f96-36e8-8641-e933829abe81/analyst-report%3A-dupont-de.html",
+   "published_unix": 1782312150,
+   "captured_at": "2026-06-24T16:25:59"
+  },
   {
    "uuid": "b405d943-02c9-3a67-8f33-8e3af85c5b24",
    "tickers": [
@@ -1058,42 +1082,6 @@
    "link": "https://finance.yahoo.com/m/46f8c801-b841-3ace-ba03-dd88c45412ec/the-number-that-could-test.html",
    "published_unix": 1781716091,
    "captured_at": "2026-06-17T17:51:28"
-  },
-  {
-   "uuid": "f2b36dff-b2f9-3705-bd3a-a99f70e9e007",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers Announces Model Home Grand Opening at 3131 Camino in Santa Clara, California",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-model-home-162200743.html",
-   "published_unix": 1781713320,
-   "captured_at": "2026-06-17T17:50:52"
-  },
-  {
-   "uuid": "cbd3b081-b686-3e52-a1c7-677b8947903f",
-   "tickers": [
-    "BV"
-   ],
-   "company": "BrightView Holdings, Inc.",
-   "title": "BrightView Delivering Improvements in Key Operating Metrics, Oppenheimer Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/brightview-delivering-improvements-key-operating-145144935.html",
-   "published_unix": 1781707904,
-   "captured_at": "2026-06-17T17:51:06"
-  },
-  {
-   "uuid": "9a90ac95-b430-3a16-9c91-bce1db6a1d89",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "Alper Yegin, CEO of the LoRa Alliance\u00ae, and IoT Technology Leaders to Discuss How LoRaWAN\u00ae Connectivity Is Enabling Smart Water Management",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/articles/alper-yegin-ceo-lora-alliance-135600097.html",
-   "published_unix": 1781704560,
-   "captured_at": "2026-06-17T14:27:57"
   }
  ]
 }
