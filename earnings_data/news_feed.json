@@ -1,6 +1,30 @@
 {
- "generated_at": "2026-06-23T23:12:15+00:00",
+ "generated_at": "2026-06-24T02:10:49+00:00",
  "items": [
+  {
+   "uuid": "ee20bcbd-1110-3863-b661-c56e6f07205d",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "California State Lands Commission Approves Slant Well Lease Application for Monterey Peninsula Water Supply Project",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/california-state-lands-commission-approves-002400829.html",
+   "published_unix": 1782260640,
+   "captured_at": "2026-06-24T02:09:59"
+  },
+  {
+   "uuid": "64be941c-2dc6-3d4e-989d-c84bf4230321",
+   "tickers": [
+    "BSY"
+   ],
+   "company": "BENTLEY SYSTEMS INC",
+   "title": "Analyst Report: Bentley Systems, Incorporated",
+   "publisher": "Morningstar Research",
+   "link": "https://finance.yahoo.com/m/64be941c-2dc6-3d4e-989d-c84bf4230321/analyst-report%3A-bentley.html",
+   "published_unix": 1782254815,
+   "captured_at": "2026-06-24T02:09:52"
+  },
   {
    "uuid": "9c58d57b-a920-3545-a615-9f4fc14981b1",
    "tickers": [
