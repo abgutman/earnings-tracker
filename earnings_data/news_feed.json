@@ -1,6 +1,66 @@
 {
- "generated_at": "2026-06-24T18:54:47+00:00",
+ "generated_at": "2026-06-24T20:51:15+00:00",
  "items": [
+  {
+   "uuid": "270f9ee7-54d7-3072-ada2-42e6fc87bfd3",
+   "tickers": [
+    "DD"
+   ],
+   "company": "DuPont de Nemours, Inc.",
+   "title": "DuPont Announces Regular Quarterly Dividend on Common Stock",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/dupont-announces-regular-quarterly-dividend-203000619.html",
+   "published_unix": 1782333000,
+   "captured_at": "2026-06-24T20:51:15"
+  },
+  {
+   "uuid": "629f44ed-ccb3-3689-8071-b16f6dbbbb2a",
+   "tickers": [
+    "PASG"
+   ],
+   "company": "Passage BIO, Inc.",
+   "title": "Passage Bio and\u00a0Remix Therapeutics Announce Merger Agreement",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/passage-bio-remix-therapeutics-announce-200500170.html",
+   "published_unix": 1782331500,
+   "captured_at": "2026-06-24T20:50:33"
+  },
+  {
+   "uuid": "d3e4c34f-7f75-35bd-8295-35cf5c5cb9cc",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "Tap Water You Can Trust: Two Illinois American Water Drinking Water Treatment Plants Earn National Recognition",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/tap-water-trust-two-illinois-195200676.html",
+   "published_unix": 1782330720,
+   "captured_at": "2026-06-24T20:50:31"
+  },
+  {
+   "uuid": "9149c723-e78e-3a05-a834-73933952b5cc",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora, Inc.",
+   "title": "Argus Adjusts Price Target on Cencora to $340 From $4000, Maintains Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/argus-adjusts-price-target-cencora-185707764.html",
+   "published_unix": 1782327427,
+   "captured_at": "2026-06-24T20:50:31"
+  },
+  {
+   "uuid": "acb9e101-7e43-3be0-8356-bf67b5755eb2",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora, Inc.",
+   "title": "Analyst Report: Cencora Inc",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/acb9e101-7e43-3be0-8356-bf67b5755eb2/analyst-report%3A-cencora-inc.html",
+   "published_unix": 1782324493,
+   "captured_at": "2026-06-24T20:50:31"
+  },
   {
    "uuid": "4b2ad45b-674e-3172-abdc-c630705a4820",
    "tickers": [
@@ -1033,42 +1093,6 @@
    "publisher": "MT Newswires",
    "link": "https://finance.yahoo.com/markets/stocks/articles/conmed-names-former-certara-cfo-205249907.html",
    "published_unix": 1781729569,
-   "captured_at": "2026-06-17T22:47:47"
-  },
-  {
-   "uuid": "e662b031-cffb-34cb-9f0e-f47d8bbe9ac7",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "FIVE BELOW, INC",
-   "title": "Five Below Announces Leadership Appointments",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-announces-leadership-appointments-204200015.html",
-   "published_unix": 1781728920,
-   "captured_at": "2026-06-17T22:47:22"
-  },
-  {
-   "uuid": "b1ad3419-7b55-308b-bffe-3e4f8b5799a8",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers Announces Cash Dividend",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-announces-cash-dividend-203000560.html",
-   "published_unix": 1781728200,
-   "captured_at": "2026-06-17T22:47:27"
-  },
-  {
-   "uuid": "422c523c-f95a-3e14-81b7-6346e1301c5d",
-   "tickers": [
-    "CERT"
-   ],
-   "company": "Certara, Inc.",
-   "title": "Certara Announces CFO Transition",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/certara-announces-cfo-transition-203000893.html",
-   "published_unix": 1781728200,
    "captured_at": "2026-06-17T22:47:47"
   }
  ]
