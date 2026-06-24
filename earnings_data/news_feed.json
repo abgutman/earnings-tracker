@@ -1,6 +1,30 @@
 {
- "generated_at": "2026-06-24T20:51:15+00:00",
+ "generated_at": "2026-06-24T22:23:08+00:00",
  "items": [
+  {
+   "uuid": "f9a533b8-de23-3814-8224-bfe0ffe9c5fc",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "Indiana American Water Proudly Recognizes Terre Haute's Riverscape, American Water Charitable Foundation 2026 Water and Environment Grant Recipient",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/indiana-american-water-proudly-recognizes-213000260.html",
+   "published_unix": 1782336600,
+   "captured_at": "2026-06-24T22:22:15"
+  },
+  {
+   "uuid": "a132ec6d-f1ad-35ac-9589-94aeea58e326",
+   "tickers": [
+    "PASG"
+   ],
+   "company": "Passage BIO, Inc.",
+   "title": "Passage Bio, Remix Therapeutics Plan All-Stock Merger",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/passage-bio-remix-therapeutics-plan-210438270.html",
+   "published_unix": 1782335078,
+   "captured_at": "2026-06-24T22:22:17"
+  },
   {
    "uuid": "270f9ee7-54d7-3072-ada2-42e6fc87bfd3",
    "tickers": [
@@ -216,6 +240,366 @@
    "link": "https://finance.yahoo.com/energy/articles/california-state-lands-commission-approves-002400829.html",
    "published_unix": 1782260640,
    "captured_at": "2026-06-24T02:09:59"
+  },
+  {
+   "uuid": "5f48507b-b528-3760-99de-b6d7d8bdf7ca",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "ARMK: Lowering target price to $56.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/5f48507b-b528-3760-99de-b6d7d8bdf7ca/armk%3A-lowering-target-price.html",
+   "published_unix": 1782259200,
+   "captured_at": "2026-06-24T22:22:04"
+  },
+  {
+   "uuid": "45076376-39f2-30ed-a112-cc89454f02b0",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC CORP",
+   "title": "FMC: Lowering target price to $9.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/45076376-39f2-30ed-a112-cc89454f02b0/fmc%3A-lowering-target-price-to.html",
+   "published_unix": 1782259200,
+   "captured_at": "2026-06-24T22:22:05"
+  },
+  {
+   "uuid": "0310b758-d9e0-35e8-bec1-687d4e393070",
+   "tickers": [
+    "URBN"
+   ],
+   "company": "URBAN OUTFITTERS INC",
+   "title": "URBN: Lowering target price to $75.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/0310b758-d9e0-35e8-bec1-687d4e393070/urbn%3A-lowering-target-price.html",
+   "published_unix": 1782259200,
+   "captured_at": "2026-06-24T22:22:05"
+  },
+  {
+   "uuid": "b91b711a-7fa3-3f1d-b0de-341b53e090c2",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "FIVE BELOW, INC",
+   "title": "FIVE: Lowering target price to $177.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/b91b711a-7fa3-3f1d-b0de-341b53e090c2/five%3A-lowering-target-price.html",
+   "published_unix": 1782259200,
+   "captured_at": "2026-06-24T22:22:06"
+  },
+  {
+   "uuid": "8f46a89f-dbd5-378e-bdf0-b074b4b84055",
+   "tickers": [
+    "IRT"
+   ],
+   "company": "INDEPENDENCE REALTY TRUST, INC.",
+   "title": "IRT: Lowering target price to $15.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/8f46a89f-dbd5-378e-bdf0-b074b4b84055/irt%3A-lowering-target-price-to.html",
+   "published_unix": 1782259200,
+   "captured_at": "2026-06-24T22:22:06"
+  },
+  {
+   "uuid": "69b7b075-14cd-3dc7-beac-c239cba7e12c",
+   "tickers": [
+    "AXTA"
+   ],
+   "company": "Axalta Coating Systems Ltd.",
+   "title": "AXTA: What does Argus have to say about AXTA?",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/69b7b075-14cd-3dc7-beac-c239cba7e12c/axta%3A-what-does-argus-have-to.html",
+   "published_unix": 1782259200,
+   "captured_at": "2026-06-24T22:22:07"
+  },
+  {
+   "uuid": "be5c72d7-062d-3fc3-a68c-851550d62811",
+   "tickers": [
+    "RDN"
+   ],
+   "company": "RADIAN GROUP INC",
+   "title": "RDN: What does Argus have to say about RDN?",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/be5c72d7-062d-3fc3-a68c-851550d62811/rdn%3A-what-does-argus-have-to.html",
+   "published_unix": 1782259200,
+   "captured_at": "2026-06-24T22:22:07"
+  },
+  {
+   "uuid": "0dec77ad-b98f-3525-a603-d35d9e4a5179",
+   "tickers": [
+    "LNC"
+   ],
+   "company": "LINCOLN NATIONAL CORP",
+   "title": "LNC: What does Argus have to say about LNC?",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/0dec77ad-b98f-3525-a603-d35d9e4a5179/lnc%3A-what-does-argus-have-to.html",
+   "published_unix": 1782259200,
+   "captured_at": "2026-06-24T22:22:08"
+  },
+  {
+   "uuid": "b9c03c14-4f3b-3f87-b55d-08f86098d25f",
+   "tickers": [
+    "BSY"
+   ],
+   "company": "BENTLEY SYSTEMS INC",
+   "title": "BSY: Rating decreased to a HOLD",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/b9c03c14-4f3b-3f87-b55d-08f86098d25f/bsy%3A-rating-decreased-to-a.html",
+   "published_unix": 1782259200,
+   "captured_at": "2026-06-24T22:22:08"
+  },
+  {
+   "uuid": "ba266169-ef89-3ce7-882d-459107f8b36c",
+   "tickers": [
+    "AME"
+   ],
+   "company": "AMETEK INC/",
+   "title": "AME: Raising target price to $257.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/ba266169-ef89-3ce7-882d-459107f8b36c/ame%3A-raising-target-price-to.html",
+   "published_unix": 1782259200,
+   "captured_at": "2026-06-24T22:22:09"
+  },
+  {
+   "uuid": "059926fe-5cfc-3162-aa36-7016d0089f64",
+   "tickers": [
+    "UHS"
+   ],
+   "company": "UNIVERSAL HEALTH SERVICES INC",
+   "title": "UHS: Lowering target price to $139.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/059926fe-5cfc-3162-aa36-7016d0089f64/uhs%3A-lowering-target-price-to.html",
+   "published_unix": 1782259200,
+   "captured_at": "2026-06-24T22:22:11"
+  },
+  {
+   "uuid": "945884e8-2c7f-3352-a867-a32661a5fee0",
+   "tickers": [
+    "UGI"
+   ],
+   "company": "UGI CORP /PA/",
+   "title": "UGI: What does Argus have to say about UGI?",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/945884e8-2c7f-3352-a867-a32661a5fee0/ugi%3A-what-does-argus-have-to.html",
+   "published_unix": 1782259200,
+   "captured_at": "2026-06-24T22:22:13"
+  },
+  {
+   "uuid": "d2767396-fa34-3046-9d9d-f36466477b5a",
+   "tickers": [
+    "SEIC"
+   ],
+   "company": "SEI INVESTMENTS CO",
+   "title": "SEIC: Lowering target price to $99.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/d2767396-fa34-3046-9d9d-f36466477b5a/seic%3A-lowering-target-price.html",
+   "published_unix": 1782259200,
+   "captured_at": "2026-06-24T22:22:13"
+  },
+  {
+   "uuid": "fa345371-d151-3442-a9c5-2a7b5a15ef58",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores, Inc.",
+   "title": "BURL: Lowering target price to $349.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/fa345371-d151-3442-a9c5-2a7b5a15ef58/burl%3A-lowering-target-price.html",
+   "published_unix": 1782259200,
+   "captured_at": "2026-06-24T22:22:16"
+  },
+  {
+   "uuid": "06125026-2816-3338-8daa-c8e4347c4380",
+   "tickers": [
+    "HRMY"
+   ],
+   "company": "Harmony Biosciences Holdings, Inc.",
+   "title": "HRMY: What does Argus have to say about HRMY?",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/06125026-2816-3338-8daa-c8e4347c4380/hrmy%3A-what-does-argus-have-to.html",
+   "published_unix": 1782259200,
+   "captured_at": "2026-06-24T22:22:19"
+  },
+  {
+   "uuid": "f44647e6-9c6a-34a3-8fd6-acd401fb9c7e",
+   "tickers": [
+    "CRS"
+   ],
+   "company": "CARPENTER TECHNOLOGY CORP",
+   "title": "CRS: Raising target price to $657.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/f44647e6-9c6a-34a3-8fd6-acd401fb9c7e/crs%3A-raising-target-price-to.html",
+   "published_unix": 1782259200,
+   "captured_at": "2026-06-24T22:22:19"
+  },
+  {
+   "uuid": "df21adc7-fda3-3563-a0f6-1d644a2a33b3",
+   "tickers": [
+    "WST"
+   ],
+   "company": "WEST PHARMACEUTICAL SERVICES INC",
+   "title": "WST: Raising target price to $370.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/df21adc7-fda3-3563-a0f6-1d644a2a33b3/wst%3A-raising-target-price-to.html",
+   "published_unix": 1782259200,
+   "captured_at": "2026-06-24T22:22:21"
+  },
+  {
+   "uuid": "2ca2f3fc-37f3-3f17-84ee-9aced244fd60",
+   "tickers": [
+    "GMED"
+   ],
+   "company": "GLOBUS MEDICAL INC",
+   "title": "GMED: Raising target price to $88.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/2ca2f3fc-37f3-3f17-84ee-9aced244fd60/gmed%3A-raising-target-price-to.html",
+   "published_unix": 1782259200,
+   "captured_at": "2026-06-24T22:22:21"
+  },
+  {
+   "uuid": "f50934c6-51c0-359c-9a09-11550c90eaa7",
+   "tickers": [
+    "CUBE"
+   ],
+   "company": "CubeSmart",
+   "title": "CUBE: What does Argus have to say about CUBE?",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/f50934c6-51c0-359c-9a09-11550c90eaa7/cube%3A-what-does-argus-have-to.html",
+   "published_unix": 1782259200,
+   "captured_at": "2026-06-24T22:22:22"
+  },
+  {
+   "uuid": "dedbbacb-eda1-3b6e-bbcf-760e1ad0dd24",
+   "tickers": [
+    "VSNT"
+   ],
+   "company": "Versant Media Group, Inc.",
+   "title": "VSNT: Lowering target price to $40.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/dedbbacb-eda1-3b6e-bbcf-760e1ad0dd24/vsnt%3A-lowering-target-price.html",
+   "published_unix": 1782259200,
+   "captured_at": "2026-06-24T22:22:23"
+  },
+  {
+   "uuid": "4677b4ec-862d-3838-a4cc-de10702bafb2",
+   "tickers": [
+    "TFX"
+   ],
+   "company": "TELEFLEX INC",
+   "title": "TFX: Lowering target price to $130.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/4677b4ec-862d-3838-a4cc-de10702bafb2/tfx%3A-lowering-target-price-to.html",
+   "published_unix": 1782259200,
+   "captured_at": "2026-06-24T22:22:23"
+  },
+  {
+   "uuid": "c6c838ef-7302-3ec1-a8ad-3bc5c83eb2ed",
+   "tickers": [
+    "AVTR"
+   ],
+   "company": "Avantor, Inc.",
+   "title": "AVTR: What does Argus have to say about AVTR?",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/c6c838ef-7302-3ec1-a8ad-3bc5c83eb2ed/avtr%3A-what-does-argus-have-to.html",
+   "published_unix": 1782259200,
+   "captured_at": "2026-06-24T22:22:24"
+  },
+  {
+   "uuid": "469a0186-c6b3-3988-afce-6972e7166b8b",
+   "tickers": [
+    "EPAM"
+   ],
+   "company": "EPAM Systems, Inc.",
+   "title": "EPAM: Lowering target price to $73.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/469a0186-c6b3-3988-afce-6972e7166b8b/epam%3A-lowering-target-price.html",
+   "published_unix": 1782259200,
+   "captured_at": "2026-06-24T22:22:24"
+  },
+  {
+   "uuid": "f2d5b172-4388-340a-903f-b11fff02f09f",
+   "tickers": [
+    "HLNE"
+   ],
+   "company": "Hamilton Lane INC",
+   "title": "HLNE: Lowering target price to $84.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/f2d5b172-4388-340a-903f-b11fff02f09f/hlne%3A-lowering-target-price.html",
+   "published_unix": 1782259200,
+   "captured_at": "2026-06-24T22:22:26"
+  },
+  {
+   "uuid": "75dd460f-ed48-394b-acaa-c35b4dbae963",
+   "tickers": [
+    "DORM"
+   ],
+   "company": "Dorman Products, Inc.",
+   "title": "DORM: Raising target price to $135.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/75dd460f-ed48-394b-acaa-c35b4dbae963/dorm%3A-raising-target-price-to.html",
+   "published_unix": 1782259200,
+   "captured_at": "2026-06-24T22:22:26"
+  },
+  {
+   "uuid": "3e1d3784-8f6b-3287-84a9-8cd0736092ee",
+   "tickers": [
+    "KWR"
+   ],
+   "company": "QUAKER CHEMICAL CORP",
+   "title": "KWR: Lowering target price to $154.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/3e1d3784-8f6b-3287-84a9-8cd0736092ee/kwr%3A-lowering-target-price-to.html",
+   "published_unix": 1782259200,
+   "captured_at": "2026-06-24T22:22:27"
+  },
+  {
+   "uuid": "5204d541-52ed-30cb-a26b-92a129e8380e",
+   "tickers": [
+    "AHCO"
+   ],
+   "company": "AdaptHealth Corp.",
+   "title": "AHCO: Lowering target price to $9.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/5204d541-52ed-30cb-a26b-92a129e8380e/ahco%3A-lowering-target-price.html",
+   "published_unix": 1782259200,
+   "captured_at": "2026-06-24T22:22:31"
+  },
+  {
+   "uuid": "50ebcca4-3633-3e05-9621-441db2459e11",
+   "tickers": [
+    "JJSF"
+   ],
+   "company": "J&J SNACK FOODS CORP",
+   "title": "JJSF: Lowering target price to $69.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/50ebcca4-3633-3e05-9621-441db2459e11/jjsf%3A-lowering-target-price.html",
+   "published_unix": 1782259200,
+   "captured_at": "2026-06-24T22:22:33"
+  },
+  {
+   "uuid": "90dcc5af-08fb-3957-b0a6-0ae3f9423089",
+   "tickers": [
+    "HCSG"
+   ],
+   "company": "HEALTHCARE SERVICES GROUP INC",
+   "title": "HCSG: What does Argus have to say about HCSG?",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/90dcc5af-08fb-3957-b0a6-0ae3f9423089/hcsg%3A-what-does-argus-have-to.html",
+   "published_unix": 1782259200,
+   "captured_at": "2026-06-24T22:22:33"
+  },
+  {
+   "uuid": "c896a896-1b44-3e6b-a4d3-436c55c7db5e",
+   "tickers": [
+    "CERT"
+   ],
+   "company": "Certara, Inc.",
+   "title": "CERT: Lowering target price to $4.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/c896a896-1b44-3e6b-a4d3-436c55c7db5e/cert%3A-lowering-target-price.html",
+   "published_unix": 1782259200,
+   "captured_at": "2026-06-24T22:22:37"
   },
   {
    "uuid": "64be941c-2dc6-3d4e-989d-c84bf4230321",
@@ -1034,66 +1418,6 @@
    "link": "https://finance.yahoo.com/m/82d61ef9-a68b-38ca-87a6-0fc78b479b41/cmcsa-stock-slumps-to-nearly.html",
    "published_unix": 1781756274,
    "captured_at": "2026-06-18T14:13:35"
-  },
-  {
-   "uuid": "5aa439a8-c535-37f5-a729-fe5b4d9a89d7",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "FIVE BELOW, INC",
-   "title": "Five Below Names Chief Retail Officer, Chief Legal Officer",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-names-chief-retail-210857215.html",
-   "published_unix": 1781730537,
-   "captured_at": "2026-06-17T22:47:22"
-  },
-  {
-   "uuid": "a31c5638-473a-3f05-9571-822325f943d2",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers Announces Magnolia Square at Princeton is Now Open in Princeton, New Jersey",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-magnolia-square-210800530.html",
-   "published_unix": 1781730480,
-   "captured_at": "2026-06-17T22:47:27"
-  },
-  {
-   "uuid": "d6e6ec14-9cd5-39d3-b9c2-9e76faaad06c",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "CAMPBELL'S Co",
-   "title": "Campbell's Names New Transformation and Communications Chiefs as Veterans Retire",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/campbell-apos-names-transformation-communications-210127148.html",
-   "published_unix": 1781730087,
-   "captured_at": "2026-06-17T22:47:30"
-  },
-  {
-   "uuid": "7bb96dc2-c8b1-310d-88c6-3b807f5ee92d",
-   "tickers": [
-    "CERT"
-   ],
-   "company": "Certara, Inc.",
-   "title": "Certara CFO John Gallagher to Resign, Faiz Mohammed Named Interim CFO",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/certara-cfo-john-gallagher-resign-205615365.html",
-   "published_unix": 1781729775,
-   "captured_at": "2026-06-17T22:47:47"
-  },
-  {
-   "uuid": "7063a244-a109-313c-9ce5-951c7b48ec3b",
-   "tickers": [
-    "CERT"
-   ],
-   "company": "Certara, Inc.",
-   "title": "CONMED Names Former Certara CFO John Gallagher as Finance Chief",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/conmed-names-former-certara-cfo-205249907.html",
-   "published_unix": 1781729569,
-   "captured_at": "2026-06-17T22:47:47"
   }
  ]
 }
