@@ -265,3 +265,5 @@
 [2026-06-23 23:04:13]   COR: pending_10q_since=2026-06-15 is 8d old — clearing stale flag
 [2026-06-23 23:04:13]   CNTX: pending_10q_since=2026-06-15 is 8d old — clearing stale flag
 [2026-06-23 23:04:14] === CHECK-10Q complete. Checked 4, found 0, cleared 2 stale. ===
+[2026-06-24 13:34:46] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-06-24 13:35:18] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
