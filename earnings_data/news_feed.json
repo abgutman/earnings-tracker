@@ -1,6 +1,42 @@
 {
- "generated_at": "2026-06-25T16:29:44+00:00",
+ "generated_at": "2026-06-25T19:09:01+00:00",
  "items": [
+  {
+   "uuid": "b1524737-6716-31a5-98fe-802128ae6ee1",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Comcast launches new service to win back internet customers",
+   "publisher": "TheStreet",
+   "link": "https://finance.yahoo.com/m/b1524737-6716-31a5-98fe-802128ae6ee1/comcast-launches-new-service.html",
+   "published_unix": 1782410580,
+   "captured_at": "2026-06-25T19:08:08"
+  },
+  {
+   "uuid": "7872c4ab-9ba9-39a2-891e-e644ebe23df3",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Toll Brothers Announces Opening of Vinova in Rancho Cucamonga, California",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-opening-vinova-164700819.html",
+   "published_unix": 1782406020,
+   "captured_at": "2026-06-25T19:08:14"
+  },
+  {
+   "uuid": "6931ea2f-e32d-36b7-95a8-58820026e02e",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Germany\u2019s Merck to Boost Lab-Tools Business With $11 Billion Bio-Techne Deal",
+   "publisher": "The Wall Street Journal",
+   "link": "https://finance.yahoo.com/m/6931ea2f-e32d-36b7-95a8-58820026e02e/germany%E2%80%99s-merck-to-boost.html",
+   "published_unix": 1782403740,
+   "captured_at": "2026-06-25T19:09:01"
+  },
   {
    "uuid": "813845b4-4a25-377d-9ea4-06fbbda29ee1",
    "tickers": [
@@ -1562,42 +1598,6 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/brightview-announces-extension-term-loan-201000544.html",
    "published_unix": 1781813400,
    "captured_at": "2026-06-18T21:23:35"
-  },
-  {
-   "uuid": "ceeb7408-ed90-3920-bea3-0357b8ca6da0",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers Announces New Luxury Home Community Now Open in Germantown, Maryland",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-185500688.html",
-   "published_unix": 1781808900,
-   "captured_at": "2026-06-18T21:23:15"
-  },
-  {
-   "uuid": "3abece4e-0b05-345b-960d-fd6940c956f8",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers at Heardmont Farms Community Now Open in Cumming, Georgia",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-heardmont-farms-community-185400056.html",
-   "published_unix": 1781808840,
-   "captured_at": "2026-06-18T21:23:15"
-  },
-  {
-   "uuid": "1945bdfc-b5e6-3aa9-b81a-931c0526eced",
-   "tickers": [
-    "VSH"
-   ],
-   "company": "VISHAY INTERTECHNOLOGY INC",
-   "title": "Vishay Intertechnology Releases 1.5 kV Automotive and Commercial IHDV Inductors in Compact Sizes Starting with 20 mm x 14 mm x 14 mm",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/technology/articles/vishay-intertechnology-releases-1-5-172000549.html",
-   "published_unix": 1781803200,
-   "captured_at": "2026-06-18T18:07:43"
   }
  ]
 }
