@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-06-25T21:48:59+00:00",
+ "generated_at": "2026-06-25T23:23:02+00:00",
  "items": [
   {
    "uuid": "efb72c3d-ebe2-3bd0-8feb-f6cc4c5984b3",
@@ -1562,18 +1562,6 @@
    "link": "https://finance.yahoo.com/m/f9b49f28-1754-32e3-bc55-8fdc512785ed/gerald-shreiber%2C-who-turned.html",
    "published_unix": 1781877600,
    "captured_at": "2026-06-19T17:21:50"
-  },
-  {
-   "uuid": "bc14c461-62ac-36b2-bf7d-b58c35dcf6f2",
-   "tickers": [
-    "EPAM"
-   ],
-   "company": "EPAM Systems, Inc.",
-   "title": "Analyst Report: EPAM Systems, Inc.",
-   "publisher": "Morningstar Research",
-   "link": "https://finance.yahoo.com/m/bc14c461-62ac-36b2-bf7d-b58c35dcf6f2/analyst-report%3A-epam-systems%2C.html",
-   "published_unix": 1781822004,
-   "captured_at": "2026-06-19T02:52:27"
   }
  ]
 }
