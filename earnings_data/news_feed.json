@@ -1,6 +1,90 @@
 {
- "generated_at": "2026-06-25T13:23:24+00:00",
+ "generated_at": "2026-06-25T16:29:44+00:00",
  "items": [
+  {
+   "uuid": "813845b4-4a25-377d-9ea4-06fbbda29ee1",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Top Midday Stories: Micron Shares Soar After Estimate-Topping Earnings Results; Bio-Techne to be Acquired by Merck for $11.3 Billion",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-micron-shares-154056953.html",
+   "published_unix": 1782402056,
+   "captured_at": "2026-06-25T16:29:44"
+  },
+  {
+   "uuid": "2004716e-e048-3f76-903a-0e436f02d474",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "Tennessee American Water Recognizes 250th Birthday of U.S.",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/tennessee-american-water-recognizes-250th-151600300.html",
+   "published_unix": 1782400560,
+   "captured_at": "2026-06-25T16:29:08"
+  },
+  {
+   "uuid": "88e0ad4a-cd3a-3f85-8651-7ebb8a67eb2b",
+   "tickers": [
+    "VSH"
+   ],
+   "company": "VISHAY INTERTECHNOLOGY INC",
+   "title": "Vishay Intertechnology Automotive Grade Phototransistor Optocoupler Delivers High Isolation Voltage Ratings for 800\u00a0V EV Batteries",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/technology/articles/vishay-intertechnology-automotive-grade-phototransistor-150000843.html",
+   "published_unix": 1782399600,
+   "captured_at": "2026-06-25T16:29:04"
+  },
+  {
+   "uuid": "e578dab3-f700-3351-ba87-29fb89a26354",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Merck KGaA to buy Bio-Techne for $11.3bn in life science footprint expansion",
+   "publisher": "Medical Device Network",
+   "link": "https://finance.yahoo.com/m/e578dab3-f700-3351-ba87-29fb89a26354/merck-kgaa-to-buy-bio-techne.html",
+   "published_unix": 1782397344,
+   "captured_at": "2026-06-25T16:29:44"
+  },
+  {
+   "uuid": "9d95b279-888f-305c-acd4-32efbdd08a37",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "American Water Named to TIME's World's Most Sustainable Companies 2026 List",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/american-water-named-times-worlds-140700407.html",
+   "published_unix": 1782396420,
+   "captured_at": "2026-06-25T16:29:08"
+  },
+  {
+   "uuid": "36f95beb-bc18-3f37-8dcf-14575937940e",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "New Phase of Luxury Homes Now Open at Toll Brothers at Woodburn in Leesburg, Virginia",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/phase-luxury-homes-now-open-134500550.html",
+   "published_unix": 1782395100,
+   "captured_at": "2026-06-25T16:29:05"
+  },
+  {
+   "uuid": "518aa627-3126-3357-8dbb-8f1e4e901d74",
+   "tickers": [
+    "HSY"
+   ],
+   "company": "HERSHEY CO",
+   "title": "Hershey taps PepsiCo executive for US president role",
+   "publisher": "Just Food",
+   "link": "https://finance.yahoo.com/m/518aa627-3126-3357-8dbb-8f1e4e901d74/hershey-taps-pepsico.html",
+   "published_unix": 1782392832,
+   "captured_at": "2026-06-25T16:29:43"
+  },
   {
    "uuid": "9b007ed3-c8a0-3bf2-80fa-bf98db899e4f",
    "tickers": [
@@ -84,6 +168,18 @@
    "link": "https://finance.yahoo.com/m/81d5702c-9a73-396f-bcfb-4b6f8419d8c5/germany%E2%80%99s-merck-to-acquire.html",
    "published_unix": 1782385056,
    "captured_at": "2026-06-25T13:23:23"
+  },
+  {
+   "uuid": "71df56e6-34a2-3ac7-bc9e-bdb67e786088",
+   "tickers": [
+    "PASG"
+   ],
+   "company": "Passage BIO, Inc.",
+   "title": "Remix to go public in reverse merger with once high-flying Passage Bio",
+   "publisher": "BioPharma Dive",
+   "link": "https://finance.yahoo.com/m/71df56e6-34a2-3ac7-bc9e-bdb67e786088/remix-to-go-public-in-reverse.html",
+   "published_unix": 1782384908,
+   "captured_at": "2026-06-25T16:29:10"
   },
   {
    "uuid": "f678620d-2c0c-3be5-9e44-685b390732a2",
@@ -1502,30 +1598,6 @@
    "link": "https://finance.yahoo.com/technology/articles/vishay-intertechnology-releases-1-5-172000549.html",
    "published_unix": 1781803200,
    "captured_at": "2026-06-18T18:07:43"
-  },
-  {
-   "uuid": "29cd4317-1af5-3942-8f82-4629f90e919b",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "American Water Provides Tips for Conserving Water This Summer",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/american-water-provides-tips-conserving-140300147.html",
-   "published_unix": 1781791380,
-   "captured_at": "2026-06-18T14:13:46"
-  },
-  {
-   "uuid": "82da1f80-0103-3170-9923-f21bffed42ee",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Comcast Beats Network Energy Efficiency Goal Five Years Early",
-   "publisher": "ACCESS Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/comcast-beats-network-energy-efficiency-133000190.html",
-   "published_unix": 1781789400,
-   "captured_at": "2026-06-18T14:13:35"
   }
  ]
 }
