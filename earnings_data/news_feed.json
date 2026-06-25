@@ -1,6 +1,30 @@
 {
- "generated_at": "2026-06-25T00:18:24+00:00",
+ "generated_at": "2026-06-25T02:10:09+00:00",
  "items": [
+  {
+   "uuid": "96dde714-60d1-3771-b461-ce6c104c5bc4",
+   "tickers": [
+    "PASG"
+   ],
+   "company": "Passage BIO, Inc.",
+   "title": "SPRY, PASG, BOXL: Why These Stocks Plunged Double Digits In After-Hours Trading Today",
+   "publisher": "Stocktwits",
+   "link": "https://finance.yahoo.com/m/96dde714-60d1-3771-b461-ce6c104c5bc4/spry%2C-pasg%2C-boxl%3A-why-these.html",
+   "published_unix": 1782351781,
+   "captured_at": "2026-06-25T02:09:31"
+  },
+  {
+   "uuid": "172e3628-f390-3cd7-b0ec-4b2a1b098ef1",
+   "tickers": [
+    "DD"
+   ],
+   "company": "DuPont de Nemours, Inc.",
+   "title": "Analyst Report: DuPont de Nemours, Inc.",
+   "publisher": "Morningstar Research",
+   "link": "https://finance.yahoo.com/m/172e3628-f390-3cd7-b0ec-4b2a1b098ef1/analyst-report%3A-dupont-de.html",
+   "published_unix": 1782342827,
+   "captured_at": "2026-06-25T02:10:09"
+  },
   {
    "uuid": "b72fe9d6-40bb-36de-b40b-88d7243ed149",
    "tickers": [
