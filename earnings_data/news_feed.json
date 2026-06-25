@@ -1,6 +1,30 @@
 {
- "generated_at": "2026-06-25T19:09:01+00:00",
+ "generated_at": "2026-06-25T21:48:59+00:00",
  "items": [
+  {
+   "uuid": "efb72c3d-ebe2-3bd0-8feb-f6cc4c5984b3",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Peoria, Arizona",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-203700939.html",
+   "published_unix": 1782419820,
+   "captured_at": "2026-06-25T21:47:59"
+  },
+  {
+   "uuid": "4311830c-e5c8-3be7-98e0-ddb18c31c75c",
+   "tickers": [
+    "KWR"
+   ],
+   "company": "QUAKER CHEMICAL CORP",
+   "title": "Quaker Houghton Opens New Manufacturing Site and Expanded Lab in China",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/technology/articles/quaker-houghton-opens-manufacturing-expanded-203000380.html",
+   "published_unix": 1782419400,
+   "captured_at": "2026-06-25T21:48:14"
+  },
   {
    "uuid": "b1524737-6716-31a5-98fe-802128ae6ee1",
    "tickers": [
@@ -1550,54 +1574,6 @@
    "link": "https://finance.yahoo.com/m/bc14c461-62ac-36b2-bf7d-b58c35dcf6f2/analyst-report%3A-epam-systems%2C.html",
    "published_unix": 1781822004,
    "captured_at": "2026-06-19T02:52:27"
-  },
-  {
-   "uuid": "62c2f98d-46b4-36bc-8ec5-f6bc5fc2a309",
-   "tickers": [
-    "BV"
-   ],
-   "company": "BrightView Holdings, Inc.",
-   "title": "BrightView Extends Term Loans, Receivables Financing Facility Maturities",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/brightview-extends-term-loans-receivables-203035353.html",
-   "published_unix": 1781814635,
-   "captured_at": "2026-06-18T21:23:35"
-  },
-  {
-   "uuid": "bd122057-5254-3c10-b25d-dbbcb33ebde3",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "California American Water Encourages Customers to Practice Wise Water Use as Hotter, Drier Summer Conditions Approach",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/california-american-water-encourages-customers-202800043.html",
-   "published_unix": 1781814480,
-   "captured_at": "2026-06-18T21:23:18"
-  },
-  {
-   "uuid": "42d795e4-3cc4-31f9-a6a9-b3b128904fa1",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers Insider Sold Shares Worth $12,206,375, According to a Recent SEC Filing",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-insider-sold-shares-201450737.html",
-   "published_unix": 1781813690,
-   "captured_at": "2026-06-18T21:23:15"
-  },
-  {
-   "uuid": "749d78a7-b645-3813-8d9d-01a9b496a258",
-   "tickers": [
-    "BV"
-   ],
-   "company": "BrightView Holdings, Inc.",
-   "title": "BrightView Announces Extension of Term Loan and Receivables Financing Maturities",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/brightview-announces-extension-term-loan-201000544.html",
-   "published_unix": 1781813400,
-   "captured_at": "2026-06-18T21:23:35"
   }
  ]
 }
