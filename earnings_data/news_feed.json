@@ -1,6 +1,18 @@
 {
- "generated_at": "2026-06-26T18:56:25+00:00",
+ "generated_at": "2026-06-26T20:50:02+00:00",
  "items": [
+  {
+   "uuid": "11662b52-4e79-3fe4-9305-e96865cca9cf",
+   "tickers": [
+    "LRMR"
+   ],
+   "company": "Larimar Therapeutics, Inc.",
+   "title": "Larimar Therapeutics Announces Investor Event on the Nomlabofusp Program for Friedreich\u2019s Ataxia",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/larimar-therapeutics-announces-investor-event-200500879.html",
+   "published_unix": 1782504300,
+   "captured_at": "2026-06-26T20:49:15"
+  },
   {
    "uuid": "e8e3b7bb-9152-3c3e-ae5c-2fe573ac261d",
    "tickers": [
@@ -1670,18 +1682,6 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/berenberg-adjusts-price-target-merck-102310569.html",
    "published_unix": 1782123790,
    "captured_at": "2026-06-22T15:58:23"
-  },
-  {
-   "uuid": "23e04d22-2006-3d75-919b-7c177fd9f9b6",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "Illinois American Water Reminds Motorists to Move Over for Safety",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/illinois-american-water-reminds-motorists-185900798.html",
-   "published_unix": 1781895540,
-   "captured_at": "2026-06-19T19:55:00"
   }
  ]
 }
