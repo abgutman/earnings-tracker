@@ -1,6 +1,30 @@
 {
- "generated_at": "2026-06-26T20:50:02+00:00",
+ "generated_at": "2026-06-26T22:18:21+00:00",
  "items": [
+  {
+   "uuid": "199a2773-c3ba-3900-9f1b-a87f06a72355",
+   "tickers": [
+    "XHLD"
+   ],
+   "company": "TEN Holdings, Inc.",
+   "title": "TEN Holdings, Inc. Announces Pricing of $7.5 Million Offering",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ten-holdings-inc-announces-pricing-211300125.html",
+   "published_unix": 1782508380,
+   "captured_at": "2026-06-26T22:18:14"
+  },
+  {
+   "uuid": "145bab56-3a8f-31f0-af73-01c661f11aa7",
+   "tickers": [
+    "URBN"
+   ],
+   "company": "URBAN OUTFITTERS INC",
+   "title": "Analyst Report: Urban Outfitters, Inc.",
+   "publisher": "Morningstar Research",
+   "link": "https://finance.yahoo.com/m/145bab56-3a8f-31f0-af73-01c661f11aa7/analyst-report%3A-urban.html",
+   "published_unix": 1782507056,
+   "captured_at": "2026-06-26T22:17:41"
+  },
   {
    "uuid": "11662b52-4e79-3fe4-9305-e96865cca9cf",
    "tickers": [
@@ -12,6 +36,18 @@
    "link": "https://finance.yahoo.com/healthcare/articles/larimar-therapeutics-announces-investor-event-200500879.html",
    "published_unix": 1782504300,
    "captured_at": "2026-06-26T20:49:15"
+  },
+  {
+   "uuid": "ab1a71d1-30bb-3cbb-a751-6162847ac6e9",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "CAMPBELL'S Co",
+   "title": "Analyst Report: The Campbell's Company",
+   "publisher": "Morningstar Research",
+   "link": "https://finance.yahoo.com/m/ab1a71d1-30bb-3cbb-a751-6162847ac6e9/analyst-report%3A-the.html",
+   "published_unix": 1782503456,
+   "captured_at": "2026-06-26T22:17:48"
   },
   {
    "uuid": "e8e3b7bb-9152-3c3e-ae5c-2fe573ac261d",
