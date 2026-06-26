@@ -1,6 +1,30 @@
 {
- "generated_at": "2026-06-25T23:23:02+00:00",
+ "generated_at": "2026-06-26T02:11:58+00:00",
  "items": [
+  {
+   "uuid": "d99a7f38-95aa-3fb2-ab0e-2a05bc134ad2",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Analyst Report: Johnson & Johnson",
+   "publisher": "Morningstar Research",
+   "link": "https://finance.yahoo.com/m/d99a7f38-95aa-3fb2-ab0e-2a05bc134ad2/analyst-report%3A-johnson-%26.html",
+   "published_unix": 1782429241,
+   "captured_at": "2026-06-26T02:11:56"
+  },
+  {
+   "uuid": "7a5235af-cc45-3f5f-b036-8773f931ddf1",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Analyst Report: Merck & Co., Inc.",
+   "publisher": "Morningstar Research",
+   "link": "https://finance.yahoo.com/m/7a5235af-cc45-3f5f-b036-8773f931ddf1/analyst-report%3A-merck-%26-co.%2C.html",
+   "published_unix": 1782428376,
+   "captured_at": "2026-06-26T02:11:57"
+  },
   {
    "uuid": "efb72c3d-ebe2-3bd0-8feb-f6cc4c5984b3",
    "tickers": [
