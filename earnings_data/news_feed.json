@@ -1,6 +1,54 @@
 {
- "generated_at": "2026-06-26T16:21:38+00:00",
+ "generated_at": "2026-06-26T18:56:25+00:00",
  "items": [
+  {
+   "uuid": "e8e3b7bb-9152-3c3e-ae5c-2fe573ac261d",
+   "tickers": [
+    "URBN"
+   ],
+   "company": "URBAN OUTFITTERS INC",
+   "title": "URBAN OUTFITTERS AND DOORDASH CELEBRATE THE CLASS OF 2030 WITH THE ULTIMATE GRADUATION CELEBRATION",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/media-advertising/articles/urban-outfitters-doordash-celebrate-class-170000949.html",
+   "published_unix": 1782493200,
+   "captured_at": "2026-06-26T18:55:42"
+  },
+  {
+   "uuid": "d02429de-2731-3161-9093-8734573652a0",
+   "tickers": [
+    "DD"
+   ],
+   "company": "DuPont de Nemours, Inc.",
+   "title": "Analyst Report: DuPont de Nemours Inc",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/d02429de-2731-3161-9093-8734573652a0/analyst-report%3A-dupont-de.html",
+   "published_unix": 1782493027,
+   "captured_at": "2026-06-26T18:56:25"
+  },
+  {
+   "uuid": "84deaa86-2c3a-3fe7-a24c-f685f47852ea",
+   "tickers": [
+    "DD"
+   ],
+   "company": "DuPont de Nemours, Inc.",
+   "title": "Market Update: BDX, DD",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/84deaa86-2c3a-3fe7-a24c-f685f47852ea/market-update%3A-bdx%2C-dd.html",
+   "published_unix": 1782492127,
+   "captured_at": "2026-06-26T18:56:25"
+  },
+  {
+   "uuid": "a10c5d55-fee3-3392-8874-49dc18ad654d",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Johnson & Johnson presents new IMAAVY\u00ae (nipocalimab-aahu) data at European Academy of Neurology (EAN) 2026 Congress reinforcing sustained disease control in generalized myasthenia gravis",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-presents-imaavy-nipocalimab-163500549.html",
+   "published_unix": 1782491700,
+   "captured_at": "2026-06-26T18:56:24"
+  },
   {
    "uuid": "a9ad7c2c-77a7-31c1-8756-2853a6b1b0e4",
    "tickers": [
@@ -84,6 +132,18 @@
    "link": "https://finance.yahoo.com/m/8c082c4e-cfbd-31c5-b112-6e66a4d50b45/analyst-report%3A-merck-kgaa.html",
    "published_unix": 1782452216,
    "captured_at": "2026-06-26T13:15:31"
+  },
+  {
+   "uuid": "76574f1d-1c8b-3270-8086-cfd6e55b3d46",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Germany\u2019s Merck Pumps Up Life Sciences Biz with $11.3B Bio-Techne Deal",
+   "publisher": "The Daily Upside",
+   "link": "https://finance.yahoo.com/m/76574f1d-1c8b-3270-8086-cfd6e55b3d46/germany%E2%80%99s-merck-pumps-up-life.html",
+   "published_unix": 1782446460,
+   "captured_at": "2026-06-26T18:56:25"
   },
   {
    "uuid": "d99a7f38-95aa-3fb2-ab0e-2a05bc134ad2",
@@ -1621,18 +1681,6 @@
    "publisher": "PR Newswire",
    "link": "https://finance.yahoo.com/healthcare/articles/illinois-american-water-reminds-motorists-185900798.html",
    "published_unix": 1781895540,
-   "captured_at": "2026-06-19T19:55:00"
-  },
-  {
-   "uuid": "dbf3b9fb-277c-3bd6-97ca-6e91e474e253",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "Kentucky American Water Upgrading Water Infrastructure in Owen County Through Nearly $3 Million Investment",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/economy/policy/articles/kentucky-american-water-upgrading-water-181400155.html",
-   "published_unix": 1781892840,
    "captured_at": "2026-06-19T19:55:00"
   }
  ]
