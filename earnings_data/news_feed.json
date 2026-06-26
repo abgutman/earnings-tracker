@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-06-26T13:15:31+00:00",
+ "generated_at": "2026-06-26T16:21:38+00:00",
  "items": [
   {
    "uuid": "a9ad7c2c-77a7-31c1-8756-2853a6b1b0e4",
@@ -48,6 +48,18 @@
    "link": "https://finance.yahoo.com/healthcare/articles/phio-pharmaceuticals-announces-participation-renmark-110000551.html",
    "published_unix": 1782471600,
    "captured_at": "2026-06-26T13:15:23"
+  },
+  {
+   "uuid": "ef32a3e8-d1f5-3d26-b154-5605824d3ded",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "FIVE BELOW, INC",
+   "title": "The Weekly Closeout: Adidas gets into PPE, Five Below fills out C-suite",
+   "publisher": "Retail Dive",
+   "link": "https://finance.yahoo.com/m/ef32a3e8-d1f5-3d26-b154-5605824d3ded/the-weekly-closeout%3A-adidas.html",
+   "published_unix": 1782471300,
+   "captured_at": "2026-06-26T16:20:58"
   },
   {
    "uuid": "58225877-1362-34f2-b7ff-0decfc972d6d",
@@ -1622,42 +1634,6 @@
    "link": "https://finance.yahoo.com/economy/policy/articles/kentucky-american-water-upgrading-water-181400155.html",
    "published_unix": 1781892840,
    "captured_at": "2026-06-19T19:55:00"
-  },
-  {
-   "uuid": "59860d70-f685-3d6e-8061-47bc01ee893f",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers Announces New Luxury Townhome Community Coming Soon to Doylestown, Pennsylvania",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-townhome-144400471.html",
-   "published_unix": 1781880240,
-   "captured_at": "2026-06-19T17:21:35"
-  },
-  {
-   "uuid": "9d25ae6b-c7f0-3c33-bafa-6ceeee878bdf",
-   "tickers": [
-    "HSY"
-   ],
-   "company": "HERSHEY CO",
-   "title": "Hershey embraces protein trend with new Reese\u2019s snack bars",
-   "publisher": "Just Food",
-   "link": "https://finance.yahoo.com/m/9d25ae6b-c7f0-3c33-bafa-6ceeee878bdf/hershey-embraces-protein.html",
-   "published_unix": 1781878596,
-   "captured_at": "2026-06-19T17:22:16"
-  },
-  {
-   "uuid": "f9b49f28-1754-32e3-bc55-8fdc512785ed",
-   "tickers": [
-    "JJSF"
-   ],
-   "company": "J&J SNACK FOODS CORP",
-   "title": "Gerald Shreiber, Who Turned the Soft Pretzel Into a Ubiquitous Stadium Snack, Dies at 84",
-   "publisher": "The Wall Street Journal",
-   "link": "https://finance.yahoo.com/m/f9b49f28-1754-32e3-bc55-8fdc512785ed/gerald-shreiber%2C-who-turned.html",
-   "published_unix": 1781877600,
-   "captured_at": "2026-06-19T17:21:50"
   }
  ]
 }
