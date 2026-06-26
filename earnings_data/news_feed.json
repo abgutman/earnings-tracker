@@ -1,6 +1,78 @@
 {
- "generated_at": "2026-06-26T02:11:58+00:00",
+ "generated_at": "2026-06-26T13:15:31+00:00",
  "items": [
+  {
+   "uuid": "a9ad7c2c-77a7-31c1-8756-2853a6b1b0e4",
+   "tickers": [
+    "COBA"
+   ],
+   "company": "Chilean Cobalt Corp.",
+   "title": "Chilean Cobalt Corp. Announces First Rare Earth Carbonate Concentrate Production, Advances Separation Pilot Plant, and Expands Strategic Partner Engagement for NeoRe Project",
+   "publisher": "ACCESS Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/chilean-cobalt-corp-announces-first-130000164.html",
+   "published_unix": 1782478800,
+   "captured_at": "2026-06-26T13:15:29"
+  },
+  {
+   "uuid": "04d27b47-59b9-341b-9c10-f2db7cb17956",
+   "tickers": [
+    "AVTX"
+   ],
+   "company": "Avalo Therapeutics, Inc.",
+   "title": "Avalo Therapeutics to Join Russell 2000, Russell 3000 Indexes",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/avalo-therapeutics-join-russell-2000-113926502.html",
+   "published_unix": 1782473966,
+   "captured_at": "2026-06-26T13:15:10"
+  },
+  {
+   "uuid": "558bf0a6-468b-3479-87de-d610d25a5f80",
+   "tickers": [
+    "AVTX"
+   ],
+   "company": "Avalo Therapeutics, Inc.",
+   "title": "Avalo Therapeutics to Join the Russell 2000\u00ae and Russell 3000\u00ae Indexes",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/avalo-therapeutics-join-russell-2000-110000872.html",
+   "published_unix": 1782471600,
+   "captured_at": "2026-06-26T13:15:10"
+  },
+  {
+   "uuid": "71d5e0cb-c78f-3ceb-b2a4-1431b574f1cf",
+   "tickers": [
+    "PHIO"
+   ],
+   "company": "Phio Pharmaceuticals Corp.",
+   "title": "Phio Pharmaceuticals Announces Participation in the Renmark Financial Communications Live Virtual Non-Deal Roadshow Series",
+   "publisher": "TMX Newsfile",
+   "link": "https://finance.yahoo.com/healthcare/articles/phio-pharmaceuticals-announces-participation-renmark-110000551.html",
+   "published_unix": 1782471600,
+   "captured_at": "2026-06-26T13:15:23"
+  },
+  {
+   "uuid": "58225877-1362-34f2-b7ff-0decfc972d6d",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Guggenheim Adjusts Price Target on Johnson & Johnson to $270 From $266, Maintains Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/guggenheim-adjusts-price-target-johnson-092836429.html",
+   "published_unix": 1782466116,
+   "captured_at": "2026-06-26T13:15:31"
+  },
+  {
+   "uuid": "8c082c4e-cfbd-31c5-b112-6e66a4d50b45",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Analyst Report: Merck KGaA",
+   "publisher": "Morningstar Research",
+   "link": "https://finance.yahoo.com/m/8c082c4e-cfbd-31c5-b112-6e66a4d50b45/analyst-report%3A-merck-kgaa.html",
+   "published_unix": 1782452216,
+   "captured_at": "2026-06-26T13:15:31"
+  },
   {
    "uuid": "d99a7f38-95aa-3fb2-ab0e-2a05bc134ad2",
    "tickers": [
