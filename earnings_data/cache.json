@@ -1765,15 +1765,15 @@
   "name": "TEN Holdings, Inc.",
   "cik": 2030954,
   "priority_tier": 2,
-  "last_event_date": "2026-05-15T20:35:00+00:00",
-  "last_event_title": "TEN Holdings Reports First Quarter 2026 Financial Results",
-  "last_event_source": "yahoo",
-  "last_event_url": "https://finance.yahoo.com/markets/stocks/articles/ten-holdings-reports-first-quarter-203500923.html",
+  "last_event_date": "2026-06-26T17:21:46.000Z",
+  "last_event_title": "8k_701 filed 2026-06-26",
+  "last_event_source": "edgar",
+  "last_event_url": "https://www.sec.gov/Archives/edgar/data/2030954/000149315226030347/form8-k.htm",
   "last_event_publisher": "PR Newswire",
   "edgar_accession": "0001493152-26-011256",
-  "last_8k_date": "2026-03-18",
-  "last_8k_accession": "0001493152-26-011256",
-  "last_8k_url": "https://www.sec.gov/Archives/edgar/data/2030954/000149315226011256/form8-k.htm",
+  "last_8k_date": "2026-06-26",
+  "last_8k_accession": "0001493152-26-030347",
+  "last_8k_url": "https://www.sec.gov/Archives/edgar/data/2030954/000149315226030347/form8-k.htm",
   "history": [
    {
     "date": "2026-03-18T20:35:18.000Z",
@@ -1782,10 +1782,14 @@
     "url": "https://www.sec.gov/Archives/edgar/data/2030954/000149315226011256/form8-k.htm"
    }
   ],
-  "last_detected_date": "2026-05-15",
-  "last_detected_accession": "0001493152-26-023745",
-  "last_detected_type": "10q",
-  "last_detected_url": "https://www.sec.gov/Archives/edgar/data/2030954/000149315226023745/form10-q.htm"
+  "last_detected_date": "2026-06-26",
+  "last_detected_accession": "0001493152-26-030347",
+  "last_detected_type": "8k_701",
+  "last_detected_url": "https://www.sec.gov/Archives/edgar/data/2030954/000149315226030347/form8-k.htm",
+  "last_detected_at": "2026-06-26T22:02:30.630880+00:00",
+  "last_8k_detected_at": "2026-06-26T22:02:30.630880+00:00",
+  "pending_10q_since": "2026-06-26",
+  "last_10q_url": null
  },
  "NXGL": {
   "ticker": "NXGL",
