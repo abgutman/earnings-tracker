@@ -1,6 +1,30 @@
 {
- "generated_at": "2026-06-27T00:14:01+00:00",
+ "generated_at": "2026-06-27T02:06:37+00:00",
  "items": [
+  {
+   "uuid": "d76589e0-2380-3c12-84f9-9c5c85985fc8",
+   "tickers": [
+    "WST"
+   ],
+   "company": "WEST PHARMACEUTICAL SERVICES INC",
+   "title": "Analyst Report: West Pharmaceutical Services, Inc.",
+   "publisher": "Morningstar Research",
+   "link": "https://finance.yahoo.com/m/d76589e0-2380-3c12-84f9-9c5c85985fc8/analyst-report%3A-west.html",
+   "published_unix": 1782515554,
+   "captured_at": "2026-06-27T02:06:06"
+  },
+  {
+   "uuid": "a00b45fa-f26b-38df-ba74-33c1c30240d7",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Analyst Report: Aramark",
+   "publisher": "Morningstar Research",
+   "link": "https://finance.yahoo.com/m/a00b45fa-f26b-38df-ba74-33c1c30240d7/analyst-report%3A-aramark.html",
+   "published_unix": 1782513916,
+   "captured_at": "2026-06-27T02:05:53"
+  },
   {
    "uuid": "199a2773-c3ba-3900-9f1b-a87f06a72355",
    "tickers": [
