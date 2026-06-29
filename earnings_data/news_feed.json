@@ -1,6 +1,66 @@
 {
- "generated_at": "2026-06-29T14:50:39+00:00",
+ "generated_at": "2026-06-29T17:43:34+00:00",
  "items": [
+  {
+   "uuid": "78ea25aa-b7c2-3a07-9a87-60932b4df06d",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "\ud83d\udcac Money Quote: Comcast\u2019s Change",
+   "publisher": "The Wall Street Journal",
+   "link": "https://finance.yahoo.com/m/78ea25aa-b7c2-3a07-9a87-60932b4df06d/%F0%9F%92%AC-money-quote%3A-comcast%E2%80%99s.html",
+   "published_unix": 1782752023,
+   "captured_at": "2026-06-29T17:42:35"
+  },
+  {
+   "uuid": "99a9779b-f122-310c-88e8-b9fa8420467d",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Comcast Spinoff Could Spark Next Wave of Media Deals",
+   "publisher": "Barrons.com",
+   "link": "https://finance.yahoo.com/m/99a9779b-f122-310c-88e8-b9fa8420467d/comcast-spinoff-could-spark.html",
+   "published_unix": 1782750540,
+   "captured_at": "2026-06-29T17:42:35"
+  },
+  {
+   "uuid": "b10bddbf-cf12-31c1-a4b9-c8359ab511df",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Comcast, Charter, Rocket Lab, SpaceX, Tesla, and More Stocks That Explain Today\u2019s Market",
+   "publisher": "Barrons.com",
+   "link": "https://finance.yahoo.com/m/b10bddbf-cf12-31c1-a4b9-c8359ab511df/comcast%2C-charter%2C-rocket-lab%2C.html",
+   "published_unix": 1782749460,
+   "captured_at": "2026-06-29T17:42:35"
+  },
+  {
+   "uuid": "0fa97d01-eaf7-3c01-9910-88f6fc1bdf2f",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark Seen Delivering Strong Fiscal Q3 Results, Oppenheimer Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-seen-delivering-strong-fiscal-155608247.html",
+   "published_unix": 1782748568,
+   "captured_at": "2026-06-29T17:42:35"
+  },
+  {
+   "uuid": "51db6467-becb-3965-a4bf-510cf4447e2b",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark Poised for Solid Third Quarter Amid Revenue Outperformance, Oppenheimer Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-poised-solid-third-quarter-151110803.html",
+   "published_unix": 1782745870,
+   "captured_at": "2026-06-29T17:42:35"
+  },
   {
    "uuid": "8291ef1c-597c-4fff-be67-beb8ef1cf6e9",
    "tickers": [
@@ -1849,18 +1909,6 @@
    "publisher": "PR Newswire",
    "link": "https://finance.yahoo.com/energy/articles/indiana-american-water-encourages-customers-192100661.html",
    "published_unix": 1782156060,
-   "captured_at": "2026-06-22T19:37:58"
-  },
-  {
-   "uuid": "4052b1c5-395a-3010-846c-5ce5ae0e5112",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "New Jersey American Water and Salem City Mark Two-Year Anniversary of Water and Wastewater System Acquisition",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/jersey-american-water-salem-city-161500474.html",
-   "published_unix": 1782144900,
    "captured_at": "2026-06-22T19:37:58"
   }
  ]
