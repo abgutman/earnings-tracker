@@ -1,6 +1,102 @@
 {
- "generated_at": "2026-06-29T20:06:07+00:00",
+ "generated_at": "2026-06-29T22:13:10+00:00",
  "items": [
+  {
+   "uuid": "35cd4fe1-d008-3692-8f16-aebd58c4908f",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Market Chatter: NBCUniversal Weighs Digital Gaming Opportunities After Comcast Split",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/media-advertising/articles/market-chatter-nbcuniversal-weighs-digital-214017967.html",
+   "published_unix": 1782769217,
+   "captured_at": "2026-06-29T22:12:12"
+  },
+  {
+   "uuid": "bf5d41cc-7a52-3fc6-a249-a166163d9e05",
+   "tickers": [
+    "VSH"
+   ],
+   "company": "VISHAY INTERTECHNOLOGY INC",
+   "title": "Vishay Intertechnology Launches $750 Million Stock Offering",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/vishay-intertechnology-launches-750-million-205829157.html",
+   "published_unix": 1782766709,
+   "captured_at": "2026-06-29T22:12:17"
+  },
+  {
+   "uuid": "44dd6a74-f435-384a-b86a-783b1c6b2de9",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Analyst Report: Comcast Corporation",
+   "publisher": "Morningstar Research",
+   "link": "https://finance.yahoo.com/m/44dd6a74-f435-384a-b86a-783b1c6b2de9/analyst-report%3A-comcast.html",
+   "published_unix": 1782766492,
+   "captured_at": "2026-06-29T22:12:12"
+  },
+  {
+   "uuid": "bbf02f07-e274-3e8b-9627-0da31fed8159",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Exclusive-NBCUniversal may enter video game business after Comcast split, sources say",
+   "publisher": "Reuters",
+   "link": "https://finance.yahoo.com/media-advertising/articles/exclusive-nbcuniversal-may-enter-video-203348865.html",
+   "published_unix": 1782765228,
+   "captured_at": "2026-06-29T22:12:12"
+  },
+  {
+   "uuid": "db116ae8-dc44-3a2b-bce0-5f073c311cd0",
+   "tickers": [
+    "VSH"
+   ],
+   "company": "VISHAY INTERTECHNOLOGY INC",
+   "title": "Vishay Intertechnology Announces Proposed Offering of $750 Million of Common Stock",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/vishay-intertechnology-announces-proposed-offering-202000872.html",
+   "published_unix": 1782764400,
+   "captured_at": "2026-06-29T22:12:17"
+  },
+  {
+   "uuid": "ade41359-09fa-3459-9742-b63cb118230c",
+   "tickers": [
+    "FSK"
+   ],
+   "company": "FS KKR Capital Corp",
+   "title": "FS KKR Capital Corp. Closes $150 Million Convertible Preferred Stock Issuance in Connection with Strategic Value Enhancement Actions",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fs-kkr-capital-corp-closes-202000956.html",
+   "published_unix": 1782764400,
+   "captured_at": "2026-06-29T22:12:30"
+  },
+  {
+   "uuid": "3609be4e-2dc4-3833-9586-8ea00d4d1705",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Comcast Stock Rises on Split Plans",
+   "publisher": "The Wall Street Journal",
+   "link": "https://finance.yahoo.com/m/3609be4e-2dc4-3833-9586-8ea00d4d1705/comcast-stock-rises-on-split.html",
+   "published_unix": 1782764106,
+   "captured_at": "2026-06-29T22:12:12"
+  },
+  {
+   "uuid": "e1568e16-3a9a-3b6e-bfc8-21e04d401884",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Charter bonds surge on SpaceX deal chatter, Comcast spinoff news",
+   "publisher": "Pitchbook",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/charter-bonds-surge-spacex-deal-200011796.html",
+   "published_unix": 1782763211,
+   "captured_at": "2026-06-29T22:12:12"
+  },
   {
    "uuid": "4a182eaa-e6ad-4e65-a4e1-4bda0b8a72d6",
    "tickers": [
@@ -1896,56 +1992,6 @@
    "link": "https://finance.yahoo.com/healthcare/articles/teleflex-initiates-enrollment-global-biomag-103000665.html",
    "published_unix": 1782210600,
    "captured_at": "2026-06-23T13:44:43"
-  },
-  {
-   "uuid": "65ca5d96-9deb-38c0-b59d-bd4eeb25a2d5",
-   "tickers": [
-    "WTRG",
-    "AWK"
-   ],
-   "company": "Essential Utilities, Inc.",
-   "title": "Virginia Regulator Approves American Water-Essential Utilities Merger",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/virginia-regulator-approves-american-water-204203293.html",
-   "published_unix": 1782160923,
-   "captured_at": "2026-06-22T22:07:48"
-  },
-  {
-   "uuid": "c621b7e4-bace-3ee6-beff-950a6e5d62f5",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC CORP",
-   "title": "FMC Corporation announces date for second quarter 2026 earnings release and webcast conference call",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-corporation-announces-date-second-203000901.html",
-   "published_unix": 1782160200,
-   "captured_at": "2026-06-22T22:07:41"
-  },
-  {
-   "uuid": "7ef443b7-644c-376e-ade5-4204cd88a421",
-   "tickers": [
-    "AME"
-   ],
-   "company": "AMETEK INC/",
-   "title": "Is AMETEK Stock Just More Market Exposure?",
-   "publisher": "Trefis",
-   "link": "https://finance.yahoo.com/m/7ef443b7-644c-376e-ade5-4204cd88a421/is-ametek-stock-just-more.html",
-   "published_unix": 1782159707,
-   "captured_at": "2026-06-22T22:07:45"
-  },
-  {
-   "uuid": "fee447ed-f617-345e-b1be-bc1b40ba495d",
-   "tickers": [
-    "WTRG",
-    "AWK"
-   ],
-   "company": "Essential Utilities, Inc.",
-   "title": "American Water and Essential Utilities Proposed Merger Progresses with Approval from the Virginia State Corporation Commission",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/american-water-essential-utilities-proposed-201500373.html",
-   "published_unix": 1782159300,
-   "captured_at": "2026-06-22T22:07:48"
   }
  ]
 }
