@@ -749,3 +749,23 @@
 [2026-06-29 20:47:07] No new transcripts found; transcripts.json unchanged
 [2026-06-29 20:47:07] === Done. 0 new transcript links found. ===
 
+[2026-06-29 23:50:32] === Fool transcript harvest start (dry_run=False) ===
+[2026-06-29 23:50:32] Loaded 122 tickers from expanded_companies.json
+[2026-06-29 23:50:32] Recent tickers (last filing within 14d): ['BV', 'CNTX', 'COR', 'FSK', 'NXGL', 'PASG', 'QVCAQ', 'TRAW', 'XHLD']
+[2026-06-29 23:50:32] Seed backfill: all seeds already in state
+[2026-06-29 23:50:32] Fetching Fool transcript index: https://www.fool.com/earnings-call-transcripts/
+[2026-06-29 23:50:33]   Found 20 transcript links on index page
+[2026-06-29 23:50:33]   Fool index matched tickers: []
+[2026-06-29 23:50:33] Yahoo secondary search for 9 tickers: ['BV', 'CNTX', 'COR', 'FSK', 'NXGL', 'PASG', 'QVCAQ', 'TRAW', 'XHLD']
+[2026-06-29 23:50:34]   MISS [Yahoo] BV: no transcript items in feed
+[2026-06-29 23:50:34]   MISS [Yahoo] CNTX: no transcript items in feed
+[2026-06-29 23:50:35]   MISS [Yahoo] COR: no transcript items in feed
+[2026-06-29 23:50:35]   MISS [Yahoo] FSK: no transcript items in feed
+[2026-06-29 23:50:36]   MISS [Yahoo] NXGL: no transcript items in feed
+[2026-06-29 23:50:36]   MISS [Yahoo] PASG: no transcript items in feed
+[2026-06-29 23:50:37]   MISS [Yahoo] QVCAQ: no transcript items in feed
+[2026-06-29 23:50:37]   MISS [Yahoo] TRAW: no transcript items in feed
+[2026-06-29 23:50:38]   MISS [Yahoo] XHLD: no transcript items in feed
+[2026-06-29 23:50:38] No new transcripts found; transcripts.json unchanged
+[2026-06-29 23:50:38] === Done. 0 new transcript links found. ===
+
