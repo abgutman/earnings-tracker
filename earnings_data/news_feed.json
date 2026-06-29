@@ -1,6 +1,294 @@
 {
- "generated_at": "2026-06-27T02:06:37+00:00",
+ "generated_at": "2026-06-29T14:50:39+00:00",
  "items": [
+  {
+   "uuid": "8291ef1c-597c-4fff-be67-beb8ef1cf6e9",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Why Comcast is spinning off NBCUniversal",
+   "publisher": "Yahoo Finance Video",
+   "link": "https://finance.yahoo.com/video/why-comcast-spinning-off-nbcuniversal-143500057.html",
+   "published_unix": 1782743700,
+   "captured_at": "2026-06-29T14:49:34"
+  },
+  {
+   "uuid": "cc8650a0-d8c3-39c9-ace8-d9e0c52cb207",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Comcast plans to split into 2 companies, spinning off NBCUniversal",
+   "publisher": "CBS News",
+   "link": "https://finance.yahoo.com/m/cc8650a0-d8c3-39c9-ace8-d9e0c52cb207/comcast-plans-to-split-into-2.html",
+   "published_unix": 1782743529,
+   "captured_at": "2026-06-29T14:49:34"
+  },
+  {
+   "uuid": "bdfe34af-11e3-3b6c-a506-ab02a7c322d6",
+   "tickers": [
+    "SEIC"
+   ],
+   "company": "SEI INVESTMENTS CO",
+   "title": "SEI Canada Makes Changes in Risk Ratings",
+   "publisher": "CNW Group",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/sei-canada-makes-changes-risk-143000550.html",
+   "published_unix": 1782743400,
+   "captured_at": "2026-06-29T14:49:43"
+  },
+  {
+   "uuid": "3689cdb9-0587-39ad-ad3a-790394e1e2ca",
+   "tickers": [
+    "UIS"
+   ],
+   "company": "UNISYS CORP",
+   "title": "Unisys, Antenna Collaborate To Provide Data-Driven Insights for AI-Assisted Software Development",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/technology/ai/articles/unisys-antenna-collaborate-data-driven-142003362.html",
+   "published_unix": 1782742803,
+   "captured_at": "2026-06-29T14:49:42"
+  },
+  {
+   "uuid": "9584f5b7-9984-3349-a393-dd139d8782b4",
+   "tickers": [
+    "QNBC"
+   ],
+   "company": "QNB CORP.",
+   "title": "QNB Corp\u2019s Banking Division, QNB Bank, Announces  Successful Victory Bank Systems Integration",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/small-business/articles/qnb-corp-banking-division-qnb-140900020.html",
+   "published_unix": 1782742140,
+   "captured_at": "2026-06-29T14:50:10"
+  },
+  {
+   "uuid": "ab079482-47ad-32fe-8297-8fa492addb82",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Liberty Broadband Shares Jump as Comcast Announces Media Business Separation (LBRDK)",
+   "publisher": "InvestorsHub",
+   "link": "https://finance.yahoo.com/m/ab079482-47ad-32fe-8297-8fa492addb82/liberty-broadband-shares-jump.html",
+   "published_unix": 1782742053,
+   "captured_at": "2026-06-29T14:49:34"
+  },
+  {
+   "uuid": "65de6d75-0f86-3fbd-a511-ae9ae4897eac",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Wall St indexes climb as US, Iran halt attacks; Comcast surges on spin-off plan",
+   "publisher": "Reuters",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-lead-wall-st-094159548.html",
+   "published_unix": 1782742041,
+   "captured_at": "2026-06-29T14:49:34"
+  },
+  {
+   "uuid": "5a242320-4eba-304d-882e-ca28af1a5d0d",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Comcast Pares Gains Amid Company Split. Is More M&A Coming?",
+   "publisher": "Investor's Business Daily",
+   "link": "https://finance.yahoo.com/m/5a242320-4eba-304d-882e-ca28af1a5d0d/comcast-pares-gains-amid.html",
+   "published_unix": 1782741821,
+   "captured_at": "2026-06-29T14:49:34"
+  },
+  {
+   "uuid": "2d4cbb2f-8756-320d-9abd-8adbca00d763",
+   "tickers": [
+    "LRMR"
+   ],
+   "company": "Larimar Therapeutics, Inc.",
+   "title": "Larimar Therapeutics Shares Drop Following Clinical Update and Regulatory Filing (LRMR)",
+   "publisher": "InvestorsHub",
+   "link": "https://finance.yahoo.com/m/2d4cbb2f-8756-320d-9abd-8adbca00d763/larimar-therapeutics-shares.html",
+   "published_unix": 1782741636,
+   "captured_at": "2026-06-29T14:49:45"
+  },
+  {
+   "uuid": "91fa97e2-0f8e-35b9-8e2b-652d1de59798",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Charter Communications Shares Jump as Comcast Unveils Major Corporate Split (CHTR)",
+   "publisher": "InvestorsHub",
+   "link": "https://finance.yahoo.com/m/91fa97e2-0f8e-35b9-8e2b-652d1de59798/charter-communications-shares.html",
+   "published_unix": 1782741267,
+   "captured_at": "2026-06-29T14:49:34"
+  },
+  {
+   "uuid": "9a24406e-61d0-3daa-b1e5-6c1cabb0f412",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Comcast to Separate NBCUniversal and Sky into Standalone Public Company",
+   "publisher": "InvestorsHub",
+   "link": "https://finance.yahoo.com/m/9a24406e-61d0-3daa-b1e5-6c1cabb0f412/comcast-to-separate.html",
+   "published_unix": 1782741214,
+   "captured_at": "2026-06-29T14:49:34"
+  },
+  {
+   "uuid": "8431514d-8da4-3ec4-ab59-1b7818906d27",
+   "tickers": [
+    "VSNT"
+   ],
+   "company": "Versant Media Group, Inc.",
+   "title": "Comcast to Separate Media and Technology Businesses in Spinoff",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-separate-media-technology-businesses-131249775.html",
+   "published_unix": 1782738769,
+   "captured_at": "2026-06-29T14:49:51"
+  },
+  {
+   "uuid": "87e6ded4-1b18-3c42-bde2-9561f831fa37",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Oppenheimer Adjusts Price Target on Aramark to $65 From $60, Maintains Outperform Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-adjusts-price-target-aramark-130949159.html",
+   "published_unix": 1782738589,
+   "captured_at": "2026-06-29T14:49:34"
+  },
+  {
+   "uuid": "de2c88a5-b734-3bae-aed5-f64e27f65f8a",
+   "tickers": [
+    "LRMR"
+   ],
+   "company": "Larimar Therapeutics, Inc.",
+   "title": "Larimar's Rare Disease Push Just Hit A Key Inflection Point \u2014 What Investors Need To Know",
+   "publisher": "Stocktwits",
+   "link": "https://finance.yahoo.com/m/de2c88a5-b734-3bae-aed5-f64e27f65f8a/larimar%27s-rare-disease-push.html",
+   "published_unix": 1782738168,
+   "captured_at": "2026-06-29T14:49:45"
+  },
+  {
+   "uuid": "21885cbd-044c-3a8a-8d50-a5a251723e2c",
+   "tickers": [
+    "ISSC"
+   ],
+   "company": "INNOVATIVE SOLUTIONS & SUPPORT INC",
+   "title": "Innovative Aerosystems to Join U.S. Small-Cap Russell 2000\u00ae Index",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/innovative-aerosystems-join-u-small-123000980.html",
+   "published_unix": 1782736200,
+   "captured_at": "2026-06-29T14:50:08"
+  },
+  {
+   "uuid": "7d749f8c-0b9b-37d5-9e73-fa0130d91ccd",
+   "tickers": [
+    "LRMR"
+   ],
+   "company": "Larimar Therapeutics, Inc.",
+   "title": "Larimar Therapeutics Files First Module of BLA With US FDA for Nomlabofusp",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/larimar-therapeutics-files-first-module-122659781.html",
+   "published_unix": 1782736019,
+   "captured_at": "2026-06-29T14:49:45"
+  },
+  {
+   "uuid": "64107d9c-8533-3b1a-8de5-474fa3b6ba8c",
+   "tickers": [
+    "OBIO"
+   ],
+   "company": "Orchestra BioMed Holdings, Inc.",
+   "title": "Orchestra BioMed Joins Russell 3000\u00ae and Russell 2000\u00ae Indexes",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/orchestra-biomed-joins-russell-3000-120000252.html",
+   "published_unix": 1782734400,
+   "captured_at": "2026-06-29T14:50:09"
+  },
+  {
+   "uuid": "e5667c38-5364-3812-8492-ed60b59791d4",
+   "tickers": [
+    "ECVT"
+   ],
+   "company": "Ecovyst Inc.",
+   "title": "Ecovyst Issues 2025 Corporate Sustainability Report",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/ecovyst-issues-2025-corporate-sustainability-115600828.html",
+   "published_unix": 1782734160,
+   "captured_at": "2026-06-29T14:49:56"
+  },
+  {
+   "uuid": "28127548-0da7-3e62-add2-c717869fdcd9",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Deutsche Bank Raises Price Target on Aramark to $65 From $54, Keeps Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-raises-price-target-114816097.html",
+   "published_unix": 1782733696,
+   "captured_at": "2026-06-29T14:49:34"
+  },
+  {
+   "uuid": "1ce3a30b-49f7-3930-9c02-c65adf4f58d3",
+   "tickers": [
+    "PVLA"
+   ],
+   "company": "PALVELLA THERAPEUTICS, INC.",
+   "title": "Palvella Therapeutics Submits First Module of Rolling New Drug Application to FDA for QTORIN\u2122 Rapamycin for the Treatment of Microcystic Lymphatic Malformations",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/palvella-therapeutics-submits-first-module-113000891.html",
+   "published_unix": 1782732600,
+   "captured_at": "2026-06-29T14:49:55"
+  },
+  {
+   "uuid": "ca7f0695-9bbf-3530-987a-181dc7dcd010",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Merck Agrees With ADAP Crisis Task Force to Provide Access to HIV Treatment Idvynso",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/merck-agrees-adap-crisis-task-112619136.html",
+   "published_unix": 1782732379,
+   "captured_at": "2026-06-29T14:50:38"
+  },
+  {
+   "uuid": "d01cf692-d98a-36a7-8b43-c1abe5ff8fa2",
+   "tickers": [
+    "VERX"
+   ],
+   "company": "Vertex, Inc.",
+   "title": "TD Cowen Initiates Vertex at Buy With $14 Price Target",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-initiates-vertex-buy-105647738.html",
+   "published_unix": 1782730607,
+   "captured_at": "2026-06-29T14:49:55"
+  },
+  {
+   "uuid": "26bc1d6d-70fa-39ba-bb55-1b0934a913ae",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Merck Announces New Agreement with ADAP Crisis Task Force to Improve Access and Care for People Living with HIV",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/healthcare/articles/merck-announces-agreement-adap-crisis-104500806.html",
+   "published_unix": 1782729900,
+   "captured_at": "2026-06-29T14:50:38"
+  },
+  {
+   "uuid": "7674fef0-15d6-3d6c-b333-f8ce0a6abf48",
+   "tickers": [
+    "LRMR"
+   ],
+   "company": "Larimar Therapeutics, Inc.",
+   "title": "Larimar Therapeutics Reports Positive Open Label Data and Submission of First Module of Rolling BLA for Accelerated Approval of Nomlabofusp for Friedreich\u2019s Ataxia",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/larimar-therapeutics-reports-positive-open-103000000.html",
+   "published_unix": 1782729000,
+   "captured_at": "2026-06-29T14:49:45"
+  },
   {
    "uuid": "d76589e0-2380-3c12-84f9-9c5c85985fc8",
    "tickers": [
@@ -1574,174 +1862,6 @@
    "link": "https://finance.yahoo.com/energy/articles/jersey-american-water-salem-city-161500474.html",
    "published_unix": 1782144900,
    "captured_at": "2026-06-22T19:37:58"
-  },
-  {
-   "uuid": "696c6f65-6d46-305a-a944-bb3723b3fa8e",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Merck Stock\u2019s New Drugs Were Already Answering The Big Question",
-   "publisher": "Trefis",
-   "link": "https://finance.yahoo.com/m/696c6f65-6d46-305a-a944-bb3723b3fa8e/merck-stock%E2%80%99s-new-drugs-were.html",
-   "published_unix": 1782139584,
-   "captured_at": "2026-06-22T15:58:23"
-  },
-  {
-   "uuid": "e35a513d-fafe-39ef-ad2b-1f06d824720c",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "American Water Brings Industry Expertise and Forward-Looking Solutions to ACE26",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/american-water-brings-industry-expertise-133500900.html",
-   "published_unix": 1782135300,
-   "captured_at": "2026-06-22T15:57:49"
-  },
-  {
-   "uuid": "b662e6d6-87d1-3eeb-a15e-d7f33c62a031",
-   "tickers": [
-    "VRCA"
-   ],
-   "company": "Verrica Pharmaceuticals Inc.",
-   "title": "Verrica Pharmaceuticals' Doses First US Patient in Phase 3 Trial Evaluating Ycanth to Treat Common Warts",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/verrica-pharmaceuticals-apos-doses-first-125039705.html",
-   "published_unix": 1782132639,
-   "captured_at": "2026-06-22T15:58:09"
-  },
-  {
-   "uuid": "17f2294f-16a4-3f0f-aeba-22d85293dff3",
-   "tickers": [
-    "PVLA"
-   ],
-   "company": "PALVELLA THERAPEUTICS, INC.",
-   "title": "Palvella Shares Advance After FDA Grants Rolling Review for Rare Disease Therapy",
-   "publisher": "InvestorsHub",
-   "link": "https://finance.yahoo.com/m/17f2294f-16a4-3f0f-aeba-22d85293dff3/palvella-shares-advance-after.html",
-   "published_unix": 1782132545,
-   "captured_at": "2026-06-22T15:57:57"
-  },
-  {
-   "uuid": "3bac3f75-d480-334b-aa4b-4b3ed2354453",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "MARS Company Announces Compliance with New ANSI/AWWA M6 Standards for Water Meter Testing",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/technology/articles/mars-company-announces-compliance-ansi-124100043.html",
-   "published_unix": 1782132060,
-   "captured_at": "2026-06-22T15:57:49"
-  },
-  {
-   "uuid": "f5a86624-2e89-3dec-ba10-141f136ed6c7",
-   "tickers": [
-    "PVLA"
-   ],
-   "company": "PALVELLA THERAPEUTICS, INC.",
-   "title": "Palvella Therapeutics' Qtorin Granted FDA Rolling Review; Shares Rise Pre-Bell",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/palvella-therapeutics-apos-qtorin-granted-122601831.html",
-   "published_unix": 1782131161,
-   "captured_at": "2026-06-22T15:57:57"
-  },
-  {
-   "uuid": "c8c0cb64-024f-3525-aaa3-ce204d7c4a88",
-   "tickers": [
-    "TRAW"
-   ],
-   "company": "Traws Pharma, Inc.",
-   "title": "Traws Pharma Says Updated Toxicology Data Being Developed on Influenza Prophylaxis Program",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/traws-pharma-says-updated-toxicology-122355728.html",
-   "published_unix": 1782131035,
-   "captured_at": "2026-06-22T15:58:13"
-  },
-  {
-   "uuid": "a1fd2714-6b2f-3ca0-b071-f69cf444f3b2",
-   "tickers": [
-    "VRCA"
-   ],
-   "company": "Verrica Pharmaceuticals Inc.",
-   "title": "Verrica Pharmaceuticals Announces First U.S. Patient Dosed in the Second Pivotal Clinical Trial (COVE-3) of its Phase 3 Program Evaluating YCANTH\u00ae (VP-102) for the Treatment of Common Warts",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/verrica-pharmaceuticals-announces-first-u-120500426.html",
-   "published_unix": 1782129900,
-   "captured_at": "2026-06-22T15:58:09"
-  },
-  {
-   "uuid": "5e867374-fa17-3e03-a4da-6fa5be89e004",
-   "tickers": [
-    "PVLA"
-   ],
-   "company": "PALVELLA THERAPEUTICS, INC.",
-   "title": "FDA Grants Rolling Review of Palvella\u2019s QTORIN\u2122 Rapamycin NDA for Microcystic Lymphatic Malformations",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/fda-grants-rolling-review-palvella-113000180.html",
-   "published_unix": 1782127800,
-   "captured_at": "2026-06-22T15:57:57"
-  },
-  {
-   "uuid": "96cd8c91-4307-3140-a31a-96be78239b82",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Sanofi swaps R&D leaders; Merck\u2019s Prometheus deal pays dividends",
-   "publisher": "BioPharma Dive",
-   "link": "https://finance.yahoo.com/m/96cd8c91-4307-3140-a31a-96be78239b82/sanofi-swaps-r%26d-leaders%3B.html",
-   "published_unix": 1782126720,
-   "captured_at": "2026-06-22T15:58:23"
-  },
-  {
-   "uuid": "2540db46-0cb2-3b5a-9cc8-1854aa9345d8",
-   "tickers": [
-    "UHS"
-   ],
-   "company": "UNIVERSAL HEALTH SERVICES INC",
-   "title": "TD Cowen Adjusts Price Target on Universal Health Services to $197 From $230, Maintains Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/td-cowen-adjusts-price-target-110639080.html",
-   "published_unix": 1782126399,
-   "captured_at": "2026-06-22T15:57:46"
-  },
-  {
-   "uuid": "096cde05-03bf-32cc-ad90-2987b93186bc",
-   "tickers": [
-    "TRAW"
-   ],
-   "company": "Traws Pharma, Inc.",
-   "title": "Traws Pharma Provides Updated Guidance on Influenza Prophylaxis Program",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/traws-pharma-provides-updated-guidance-110000916.html",
-   "published_unix": 1782126000,
-   "captured_at": "2026-06-22T15:58:13"
-  },
-  {
-   "uuid": "7c2d974e-5535-3598-92f9-9d49938f8de1",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Merck\u2019s Tulisokibart Met Primary and Key Secondary Endpoints in the Phase 3 ATLAS-UC Induction-only Study in Patients With Moderately to Severely Active Ulcerative Colitis (UC)",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/healthcare/articles/merck-tulisokibart-met-primary-key-104500137.html",
-   "published_unix": 1782125100,
-   "captured_at": "2026-06-22T15:58:23"
-  },
-  {
-   "uuid": "9914f6f5-fc8e-32ba-86b4-af36ec239769",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Berenberg Adjusts Price Target on Merck & Co. to $125 From $115, Maintains Hold Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/berenberg-adjusts-price-target-merck-102310569.html",
-   "published_unix": 1782123790,
-   "captured_at": "2026-06-22T15:58:23"
   }
  ]
 }
