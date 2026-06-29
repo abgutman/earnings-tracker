@@ -1,6 +1,66 @@
 {
- "generated_at": "2026-06-29T17:43:34+00:00",
+ "generated_at": "2026-06-29T20:06:07+00:00",
  "items": [
+  {
+   "uuid": "4a182eaa-e6ad-4e65-a4e1-4bda0b8a72d6",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Alphabet joins the Dow, Verizon-BT deal, Comcast plans split into 2 companies",
+   "publisher": "Yahoo Finance Video",
+   "link": "https://finance.yahoo.com/video/alphabet-joins-dow-verizon-bt-193230190.html",
+   "published_unix": 1782761550,
+   "captured_at": "2026-06-29T20:05:19"
+  },
+  {
+   "uuid": "f09e44e5-75d2-3d24-a413-c960372d4f03",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Stock Market Today: Dow Climbs; Rocket Lab Surges; Comcast Backs Off, But SpaceX Soars (Live Coverage)",
+   "publisher": "Investor's Business Daily",
+   "link": "https://finance.yahoo.com/m/f09e44e5-75d2-3d24-a413-c960372d4f03/stock-market-today%3A-dow.html",
+   "published_unix": 1782760886,
+   "captured_at": "2026-06-29T20:05:19"
+  },
+  {
+   "uuid": "d9781ddc-7293-3da6-82ef-1ef8869b2b6a",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "NBCUniversal to be split from Comcast in latest media shakeup",
+   "publisher": "Reuters Videos",
+   "link": "https://finance.yahoo.com/video/nbcuniversal-split-comcast-latest-media-185003154.html",
+   "published_unix": 1782759003,
+   "captured_at": "2026-06-29T20:05:19"
+  },
+  {
+   "uuid": "504cb1c5-a0eb-35c6-830c-299271ab6470",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Scotiabank Raises Merck Price Target to $155 From $136, Sector Outperform Rating Kept",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/scotiabank-raises-merck-price-target-184439872.html",
+   "published_unix": 1782758679,
+   "captured_at": "2026-06-29T20:06:06"
+  },
+  {
+   "uuid": "287d4ef6-c560-36cf-b1b9-df187ad696d7",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Splitting Comcast, NBCU: Advertising Implications?",
+   "publisher": "MediaPost",
+   "link": "https://finance.yahoo.com/m/287d4ef6-c560-36cf-b1b9-df187ad696d7/splitting-comcast%2C-nbcu%3A.html",
+   "published_unix": 1782756162,
+   "captured_at": "2026-06-29T20:05:19"
+  },
   {
    "uuid": "78ea25aa-b7c2-3a07-9a87-60932b4df06d",
    "tickers": [
@@ -1886,30 +1946,6 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/american-water-essential-utilities-proposed-201500373.html",
    "published_unix": 1782159300,
    "captured_at": "2026-06-22T22:07:48"
-  },
-  {
-   "uuid": "2bcfc139-13fb-34fa-9a2b-48a7cc544a2b",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "New Toll Brothers Gated Luxury Home Community Coming Soon to Palm Desert, California",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-gated-luxury-home-192700043.html",
-   "published_unix": 1782156420,
-   "captured_at": "2026-06-22T19:37:54"
-  },
-  {
-   "uuid": "2892a083-14f3-3d4e-a66b-7ab81a2cc62d",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "Indiana American Water Encourages Customers to Practice Wise Water Use as Hotter, Drier Summer Days are Ahead",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/indiana-american-water-encourages-customers-192100661.html",
-   "published_unix": 1782156060,
-   "captured_at": "2026-06-22T19:37:58"
   }
  ]
 }
