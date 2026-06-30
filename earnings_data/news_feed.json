@@ -1,6 +1,42 @@
 {
- "generated_at": "2026-06-30T19:00:16+00:00",
+ "generated_at": "2026-06-30T21:03:09+00:00",
  "items": [
+  {
+   "uuid": "1f6dd069-0e8b-3484-a6cf-e77dab147c74",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Why Is JNJ Stock Defying The Market\u2019s Daily Mood Swings?",
+   "publisher": "Trefis",
+   "link": "https://finance.yahoo.com/m/1f6dd069-0e8b-3484-a6cf-e77dab147c74/why-is-jnj-stock-defying-the.html",
+   "published_unix": 1782851051,
+   "captured_at": "2026-06-30T21:03:08"
+  },
+  {
+   "uuid": "349615ee-f929-3710-93ed-4a121479e3c1",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "New Jersey American Water Completes Acquisition of Hopewell Borough Water System",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/jersey-american-water-completes-acquisition-202000249.html",
+   "published_unix": 1782850800,
+   "captured_at": "2026-06-30T21:02:35"
+  },
+  {
+   "uuid": "4c9a6ad4-1471-383a-9095-6c5d3fb80fdc",
+   "tickers": [
+    "LNC"
+   ],
+   "company": "LINCOLN NATIONAL CORP",
+   "title": "Lincoln Financial to Report 2026 Second Quarter Results on July 30",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/lincoln-financial-report-2026-second-201500356.html",
+   "published_unix": 1782850500,
+   "captured_at": "2026-06-30T21:02:29"
+  },
   {
    "uuid": "19a9744f-798d-3fd2-a158-a4845884d183",
    "tickers": [
@@ -12,6 +48,18 @@
    "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-grand-opens-model-183800979.html",
    "published_unix": 1782844680,
    "captured_at": "2026-06-30T18:59:38"
+  },
+  {
+   "uuid": "4e4b171b-5337-3ab1-96b9-0d6b1b20777f",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "The Comcast-NBCUniversal Spinoff News Could Mean More 'Supersized' Media M&A in 2026",
+   "publisher": "Investopedia",
+   "link": "https://finance.yahoo.com/m/4e4b171b-5337-3ab1-96b9-0d6b1b20777f/the-comcast-nbcuniversal.html",
+   "published_unix": 1782842809,
+   "captured_at": "2026-06-30T21:02:25"
   },
   {
    "uuid": "5758e3fa-605c-301d-aca7-be551f01f33e",
@@ -96,6 +144,18 @@
    "link": "https://finance.yahoo.com/energy/articles/ecovyst-completes-acquisition-calabrian-expanding-150000065.html",
    "published_unix": 1782831600,
    "captured_at": "2026-06-30T16:24:45"
+  },
+  {
+   "uuid": "69760548-416a-3282-9334-354cb9773403",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Comcast brings back former CFO for CEO ahead of planned split",
+   "publisher": "CFO Dive",
+   "link": "https://finance.yahoo.com/m/69760548-416a-3282-9334-354cb9773403/comcast-brings-back-former.html",
+   "published_unix": 1782830404,
+   "captured_at": "2026-06-30T21:02:25"
   },
   {
    "uuid": "7eb06a10-1465-3f9c-ac5e-3625f944b3ac",
@@ -2160,54 +2220,6 @@
    "link": "https://finance.yahoo.com/healthcare/articles/american-water-charitable-foundation-illinois-223000465.html",
    "published_unix": 1782253800,
    "captured_at": "2026-06-23T23:11:41"
-  },
-  {
-   "uuid": "83576b74-3e5c-3d13-92b3-1d5f970a6ff9",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "The $50B Plan Merck Stock Was Broadcasting",
-   "publisher": "Trefis",
-   "link": "https://finance.yahoo.com/m/83576b74-3e5c-3d13-92b3-1d5f970a6ff9/the-%2450b-plan-merck-stock-was.html",
-   "published_unix": 1782244632,
-   "captured_at": "2026-06-23T21:46:24"
-  },
-  {
-   "uuid": "be513222-870b-3438-a72a-59fe4dffc862",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Comcast Q2 Results to Reflect Broadband Weakness, Softer Parks, UBS Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-q2-results-reflect-broadband-192139346.html",
-   "published_unix": 1782242499,
-   "captured_at": "2026-06-23T21:45:33"
-  },
-  {
-   "uuid": "899627cb-ee81-3dec-96f6-cd95bf226074",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers Announces Model Grand Opening at Toll Brothers at Thornebrook in Bulverde, Texas",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-model-grand-192000140.html",
-   "published_unix": 1782242400,
-   "captured_at": "2026-06-23T21:45:41"
-  },
-  {
-   "uuid": "01893566-45a8-3f26-994e-09dac5de3c93",
-   "tickers": [
-    "HSDT"
-   ],
-   "company": "Solana Co",
-   "title": "Ethereum Foundation Cuts Another 40% But Solana Founder Calls It Bullish",
-   "publisher": "BeInCrypto",
-   "link": "https://finance.yahoo.com/m/01893566-45a8-3f26-994e-09dac5de3c93/ethereum-foundation-cuts.html",
-   "published_unix": 1782241933,
-   "captured_at": "2026-06-23T21:46:07"
   }
  ]
 }
