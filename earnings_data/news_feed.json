@@ -1,6 +1,42 @@
 {
- "generated_at": "2026-06-30T21:03:09+00:00",
+ "generated_at": "2026-06-30T23:18:07+00:00",
  "items": [
+  {
+   "uuid": "f4d23ce0-b0dd-30f0-9723-26bd206619bb",
+   "tickers": [
+    "XHLD"
+   ],
+   "company": "TEN Holdings, Inc.",
+   "title": "TEN Closes $7.5 Million Common Stock Offering",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ten-closes-7-5-million-215125827.html",
+   "published_unix": 1782856285,
+   "captured_at": "2026-06-30T23:17:56"
+  },
+  {
+   "uuid": "554e9327-a432-3a12-a6fe-d0032ff441e5",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "American Water Works Unit Acquires Hopewell Borough Water System in New Jersey",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/real-estate/articles/american-water-works-unit-acquires-210932445.html",
+   "published_unix": 1782853772,
+   "captured_at": "2026-06-30T23:17:28"
+  },
+  {
+   "uuid": "7fdd1b12-f3b2-3b36-b38c-13546daed5ce",
+   "tickers": [
+    "XHLD"
+   ],
+   "company": "TEN Holdings, Inc.",
+   "title": "TEN Holdings, Inc. Announces Closing of $7.5 Million Offering",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ten-holdings-inc-announces-closing-205700646.html",
+   "published_unix": 1782853020,
+   "captured_at": "2026-06-30T23:17:56"
+  },
   {
    "uuid": "1f6dd069-0e8b-3484-a6cf-e77dab147c74",
    "tickers": [
@@ -2196,30 +2232,6 @@
    "link": "https://finance.yahoo.com/m/c896a896-1b44-3e6b-a4d3-436c55c7db5e/cert%3A-lowering-target-price.html",
    "published_unix": 1782259200,
    "captured_at": "2026-06-24T22:22:37"
-  },
-  {
-   "uuid": "64be941c-2dc6-3d4e-989d-c84bf4230321",
-   "tickers": [
-    "BSY"
-   ],
-   "company": "BENTLEY SYSTEMS INC",
-   "title": "Analyst Report: Bentley Systems, Incorporated",
-   "publisher": "Morningstar Research",
-   "link": "https://finance.yahoo.com/m/64be941c-2dc6-3d4e-989d-c84bf4230321/analyst-report%3A-bentley.html",
-   "published_unix": 1782254815,
-   "captured_at": "2026-06-24T02:09:52"
-  },
-  {
-   "uuid": "9c58d57b-a920-3545-a615-9f4fc14981b1",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "American Water Charitable Foundation & Illinois American Water Launch 2026 Hydration Station Grant Program on National Hydration Day",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/american-water-charitable-foundation-illinois-223000465.html",
-   "published_unix": 1782253800,
-   "captured_at": "2026-06-23T23:11:41"
   }
  ]
 }
