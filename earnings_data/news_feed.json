@@ -1,6 +1,66 @@
 {
- "generated_at": "2026-06-29T22:13:10+00:00",
+ "generated_at": "2026-06-30T00:10:50+00:00",
  "items": [
+  {
+   "uuid": "b8f2ba56-a895-3ddc-91b9-52b5819ebecd",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Comcast's NBCUniversal spinoff just transformed streaming wars",
+   "publisher": "TheStreet",
+   "link": "https://finance.yahoo.com/m/b8f2ba56-a895-3ddc-91b9-52b5819ebecd/comcast%27s-nbcuniversal.html",
+   "published_unix": 1782775020,
+   "captured_at": "2026-06-30T00:09:55"
+  },
+  {
+   "uuid": "154fa854-9f7d-34bc-92c6-b66f54c1dae2",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Comcast\u2019s NBC Spinoff Raises Questions About Businesses\u2019 Future",
+   "publisher": "Bloomberg",
+   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-nbc-spinoff-raises-questions-222705754.html",
+   "published_unix": 1782772025,
+   "captured_at": "2026-06-30T00:09:55"
+  },
+  {
+   "uuid": "15ae86db-1538-3ca0-8d81-678818ff761d",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Comcast says it will spin off NBCUniversal",
+   "publisher": "CNN Business",
+   "link": "https://finance.yahoo.com/m/15ae86db-1538-3ca0-8d81-678818ff761d/comcast-says-it-will-spin-off.html",
+   "published_unix": 1782771904,
+   "captured_at": "2026-06-30T00:09:55"
+  },
+  {
+   "uuid": "48548393-f712-3fa4-8b1d-33442f276fa2",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Comcast split could drive deals, though not necessarily for PE",
+   "publisher": "Pitchbook",
+   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-split-could-drive-deals-221558362.html",
+   "published_unix": 1782771358,
+   "captured_at": "2026-06-30T00:09:55"
+  },
+  {
+   "uuid": "7f3eb520-ff55-35aa-90d3-70016586cad3",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "S&P 500, Nasdaq End Higher To Record Best Quarter Since 2020, While Alphabet Debut Drives Dow \u2014 VZ, CMCSA, RKLB, SMCI, BATL, GOOGL In Focus",
+   "publisher": "Stocktwits",
+   "link": "https://finance.yahoo.com/m/7f3eb520-ff55-35aa-90d3-70016586cad3/s%26p-500%2C-nasdaq-end-higher-to.html",
+   "published_unix": 1782770261,
+   "captured_at": "2026-06-30T00:09:55"
+  },
   {
    "uuid": "35cd4fe1-d008-3692-8f16-aebd58c4908f",
    "tickers": [
