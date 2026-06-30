@@ -98,3 +98,10 @@
 [2026-06-29 22:50:13] Polling Yahoo for 106 companies
 [2026-06-29 22:51:06] === Done. Captured 0 new save-the-dates, cleaned 0 past. ===
 
+[2026-06-30 23:05:11] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-06-30 23:05:11] Polling Yahoo for 106 companies
+[2026-06-30 23:05:17]   + LNC: release=2026-07-30 call=None None
+[2026-06-30 23:05:17]     via: Lincoln Financial to Report 2026 Second Quarter Results on July 30
+[2026-06-30 23:05:18]   ✉ alert sent for LNC
+[2026-06-30 23:06:12] === Done. Captured 1 new save-the-dates, cleaned 0 past. ===
+
