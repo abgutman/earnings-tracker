@@ -1,6 +1,54 @@
 {
- "generated_at": "2026-06-30T16:25:14+00:00",
+ "generated_at": "2026-06-30T19:00:16+00:00",
  "items": [
+  {
+   "uuid": "19a9744f-798d-3fd2-a158-a4845884d183",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Toll Brothers Grand Opens New Model Home at Camas Meadows Crossing in Camas, Washington",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-grand-opens-model-183800979.html",
+   "published_unix": 1782844680,
+   "captured_at": "2026-06-30T18:59:38"
+  },
+  {
+   "uuid": "5758e3fa-605c-301d-aca7-be551f01f33e",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Comcast Split Seen Boosting Deal Potential, UBS Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-split-seen-boosting-deal-170154678.html",
+   "published_unix": 1782838914,
+   "captured_at": "2026-06-30T18:59:31"
+  },
+  {
+   "uuid": "493d0e03-94e3-3561-a3fd-ae14a8b9eced",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Wall Street dealmaker Roger Altman delivers candid Comcast verdict",
+   "publisher": "TheStreet",
+   "link": "https://finance.yahoo.com/m/493d0e03-94e3-3561-a3fd-ae14a8b9eced/wall-street-dealmaker-roger.html",
+   "published_unix": 1782836547,
+   "captured_at": "2026-06-30T18:59:31"
+  },
+  {
+   "uuid": "90708b47-7f4f-31ae-80ed-d90b2a9f7004",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Merck, AbbVie probed by US lawmakers over China clinical trials: report",
+   "publisher": "Proactive",
+   "link": "https://finance.yahoo.com/m/90708b47-7f4f-31ae-80ed-d90b2a9f7004/merck%2C-abbvie-probed-by-us.html",
+   "published_unix": 1782836340,
+   "captured_at": "2026-06-30T19:00:15"
+  },
   {
    "uuid": "67226b5b-e626-3dcc-88a0-13426a306388",
    "tickers": [
@@ -2160,30 +2208,6 @@
    "link": "https://finance.yahoo.com/m/01893566-45a8-3f26-994e-09dac5de3c93/ethereum-foundation-cuts.html",
    "published_unix": 1782241933,
    "captured_at": "2026-06-23T21:46:07"
-  },
-  {
-   "uuid": "2163122f-4eb7-319b-8791-d72f258be758",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "CAMPBELL'S Co",
-   "title": "Analyst Report: Campbell's Company/The",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/2163122f-4eb7-319b-8791-d72f258be758/analyst-report%3A-campbell%27s.html",
-   "published_unix": 1782237365,
-   "captured_at": "2026-06-23T19:10:47"
-  },
-  {
-   "uuid": "445adcbc-81e9-3012-8e05-d8cc9d3215ce",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "CAMPBELL'S Co",
-   "title": "Market Update: CPB, ROK, SW",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/445adcbc-81e9-3012-8e05-d8cc9d3215ce/market-update%3A-cpb%2C-rok%2C-sw.html",
-   "published_unix": 1782236465,
-   "captured_at": "2026-06-23T19:10:47"
   }
  ]
 }
