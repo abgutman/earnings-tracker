@@ -1,6 +1,90 @@
 {
- "generated_at": "2026-06-30T13:11:18+00:00",
+ "generated_at": "2026-06-30T16:25:14+00:00",
  "items": [
+  {
+   "uuid": "67226b5b-e626-3dcc-88a0-13426a306388",
+   "tickers": [
+    "HSDT"
+   ],
+   "company": "Solana Co",
+   "title": "Solana Company Partners With Alatau City to Advance Central Asia Blockchain Push",
+   "publisher": "CryptoProwl",
+   "link": "https://finance.yahoo.com/m/67226b5b-e626-3dcc-88a0-13426a306388/solana-company-partners-with.html",
+   "published_unix": 1782834900,
+   "captured_at": "2026-06-30T16:24:57"
+  },
+  {
+   "uuid": "ab7cc8cc-8fa1-3e1b-9dc4-084a77c29484",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Merck's Lung Cancer Drug Seen Boosting Sales Potential, BofA Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/merck-apos-lung-cancer-drug-150733620.html",
+   "published_unix": 1782832053,
+   "captured_at": "2026-06-30T16:25:14"
+  },
+  {
+   "uuid": "675dc82e-d5d5-334c-aa8c-3e7662cc994a",
+   "tickers": [
+    "VSH"
+   ],
+   "company": "VISHAY INTERTECHNOLOGY INC",
+   "title": "Vishay Intertechnology SMD Polymer PTC Thermistors Deliver Fast Resettable Overcurrent Protection While Improving Efficiency",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/technology/articles/vishay-intertechnology-smd-polymer-ptc-150000394.html",
+   "published_unix": 1782831600,
+   "captured_at": "2026-06-30T16:24:29"
+  },
+  {
+   "uuid": "d49e3337-8f26-34b9-b370-09b4351f9d69",
+   "tickers": [
+    "ECVT"
+   ],
+   "company": "Ecovyst Inc.",
+   "title": "Ecovyst Completes Acquisition of Calabrian, Expanding Position as a Leading Provider of Sulfur-Based Chemistries and Technologies",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/ecovyst-completes-acquisition-calabrian-expanding-150000065.html",
+   "published_unix": 1782831600,
+   "captured_at": "2026-06-30T16:24:45"
+  },
+  {
+   "uuid": "7eb06a10-1465-3f9c-ac5e-3625f944b3ac",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora, Inc.",
+   "title": "Cencora Pick of the Week at Smart Insider Following Chairman's Share Purchase",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cencora-pick-week-smart-insider-134146124.html",
+   "published_unix": 1782826906,
+   "captured_at": "2026-06-30T16:24:34"
+  },
+  {
+   "uuid": "c2cc67b7-48ee-3f96-86cc-982deb9f03fc",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "Pennsylvania American Water Encourages Customers to Practice Wise Water Use as Hotter, Drier Conditions Raise Drought Concerns Across Commonwealth",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/pennsylvania-american-water-encourages-customers-133700156.html",
+   "published_unix": 1782826620,
+   "captured_at": "2026-06-30T16:24:35"
+  },
+  {
+   "uuid": "838b1d96-5d53-31f2-bf03-547a9a4f72c8",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Comcast's NBCU split makes Wall Street's math easier",
+   "publisher": "Axios Media",
+   "link": "https://finance.yahoo.com/m/838b1d96-5d53-31f2-bf03-547a9a4f72c8/comcast%27s-nbcu-split-makes.html",
+   "published_unix": 1782824941,
+   "captured_at": "2026-06-30T16:24:24"
+  },
   {
    "uuid": "ef4252aa-e21b-3ec0-97c0-98a95b82ca50",
    "tickers": [
@@ -2100,78 +2184,6 @@
    "link": "https://finance.yahoo.com/m/445adcbc-81e9-3012-8e05-d8cc9d3215ce/market-update%3A-cpb%2C-rok%2C-sw.html",
    "published_unix": 1782236465,
    "captured_at": "2026-06-23T19:10:47"
-  },
-  {
-   "uuid": "b752ac23-a207-3b8d-8976-9c78195afb89",
-   "tickers": [
-    "VSH"
-   ],
-   "company": "VISHAY INTERTECHNOLOGY INC",
-   "title": "Vishay Intertechnology Automotive Grade Ambient Light Sensors Deliver Accurate Visible Light Measurement with no IR Bump",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/technology/articles/vishay-intertechnology-automotive-grade-ambient-150000265.html",
-   "published_unix": 1782226800,
-   "captured_at": "2026-06-23T16:28:44"
-  },
-  {
-   "uuid": "5dbc0c02-3f8b-3050-aa93-67260baeb667",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "27 American Water Drinking Water Treatment Plants Earn National Recognition by Partnership for Safe Water",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/27-american-water-drinking-water-142600223.html",
-   "published_unix": 1782224760,
-   "captured_at": "2026-06-23T16:28:50"
-  },
-  {
-   "uuid": "0c23e32d-33af-395a-a874-0493ece378a6",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "25 Years of Consistent Excellence: Indiana American Water Treatment Plants Earn National Recognition",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/25-years-consistent-excellence-indiana-142300286.html",
-   "published_unix": 1782224580,
-   "captured_at": "2026-06-23T16:28:50"
-  },
-  {
-   "uuid": "94380e9f-3618-3d8c-9a65-ca0d3d14f29a",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Comcast Business Strengthens Enterprise Networking Leadership with Top Industry Rankings Across SD-WAN, SASE, and Managed Services",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/articles/comcast-business-strengthens-enterprise-networking-140000218.html",
-   "published_unix": 1782223200,
-   "captured_at": "2026-06-23T16:28:39"
-  },
-  {
-   "uuid": "4a593eef-a6ab-3351-a82a-01fe9df84c1a",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "Tap Water You Can Trust: Five Missouri American Water Drinking Water Treatment Plants Earn National Recognition",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/tap-water-trust-five-missouri-134500330.html",
-   "published_unix": 1782222300,
-   "captured_at": "2026-06-23T16:28:50"
-  },
-  {
-   "uuid": "fbc23b0b-dd68-3850-8805-f1683469e0d5",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Alpharetta, Georgia",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-133000221.html",
-   "published_unix": 1782221400,
-   "captured_at": "2026-06-23T13:44:34"
   }
  ]
 }
