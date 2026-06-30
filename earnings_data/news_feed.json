@@ -1,6 +1,222 @@
 {
- "generated_at": "2026-06-30T02:12:26+00:00",
+ "generated_at": "2026-06-30T13:11:18+00:00",
  "items": [
+  {
+   "uuid": "ef4252aa-e21b-3ec0-97c0-98a95b82ca50",
+   "tickers": [
+    "SEIC"
+   ],
+   "company": "SEI INVESTMENTS CO",
+   "title": "SEI Expands SEC-Registered Transfer Agency",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/sei-expands-sec-registered-transfer-130000656.html",
+   "published_unix": 1782824400,
+   "captured_at": "2026-06-30T13:10:37"
+  },
+  {
+   "uuid": "ace61e8f-f0a0-3572-a783-b1d4fb5c8130",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Merck, AbbVie investigated over China military hospital drug trials",
+   "publisher": "Quartz",
+   "link": "https://finance.yahoo.com/m/ace61e8f-f0a0-3572-a783-b1d4fb5c8130/merck%2C-abbvie-investigated.html",
+   "published_unix": 1782824140,
+   "captured_at": "2026-06-30T13:11:18"
+  },
+  {
+   "uuid": "d1360d10-fa48-30d4-a50d-028ecc3d77c3",
+   "tickers": [
+    "PPL"
+   ],
+   "company": "PPL Corp",
+   "title": "Ken Hartwick, former Ontario Power Generation CEO, to join PPL Board of Directors",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/ken-hartwick-former-ontario-power-123000795.html",
+   "published_unix": 1782822600,
+   "captured_at": "2026-06-30T13:11:16"
+  },
+  {
+   "uuid": "f529f929-f783-33b1-ae9f-0b0a758f2a89",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "BofA Securities Adjusts Merck Price Target to $141 From $130, Maintains Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-securities-adjusts-merck-price-121924705.html",
+   "published_unix": 1782821964,
+   "captured_at": "2026-06-30T13:11:18"
+  },
+  {
+   "uuid": "3d95605a-26e0-3646-92d0-0ad935838264",
+   "tickers": [
+    "EPAM"
+   ],
+   "company": "EPAM Systems, Inc.",
+   "title": "EPAM Awarded 2026 Databricks Consulting and Systems Integrator AI Partner of the Year for Helping Enterprises Scale AI into Measurable Business Impact",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/technology/ai/articles/epam-awarded-2026-databricks-consulting-120200612.html",
+   "published_unix": 1782820920,
+   "captured_at": "2026-06-30T13:10:43"
+  },
+  {
+   "uuid": "5eeb98e1-2298-35cd-9169-a1137d27984b",
+   "tickers": [
+    "HSY"
+   ],
+   "company": "HERSHEY CO",
+   "title": "BNP Paribas Adjusts Price Target on Hershey Company to $245 From $240, Maintains Outperform Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-adjusts-price-target-115118611.html",
+   "published_unix": 1782820278,
+   "captured_at": "2026-06-30T13:11:15"
+  },
+  {
+   "uuid": "8d27a251-f12e-3112-aa84-50cb6f732efe",
+   "tickers": [
+    "HSDT"
+   ],
+   "company": "Solana Co",
+   "title": "Solana to Establish Blockchain Partnership With Kazakhstan's Alatau City",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/solana-establish-blockchain-partnership-kazakhstan-114123078.html",
+   "published_unix": 1782819683,
+   "captured_at": "2026-06-30T13:11:01"
+  },
+  {
+   "uuid": "fbe622ab-e590-334b-a9db-d929f15f772d",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Market Chatter: AbbVie, Merck Investigated by US House Committee Over Clinical Trials in China",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/market-chatter-abbvie-merck-investigated-113304381.html",
+   "published_unix": 1782819184,
+   "captured_at": "2026-06-30T13:11:18"
+  },
+  {
+   "uuid": "f6b3c157-2012-3dcb-8f9a-270eb4fc2332",
+   "tickers": [
+    "PVLA"
+   ],
+   "company": "PALVELLA THERAPEUTICS, INC.",
+   "title": "Palvella Therapeutics Appoints Accomplished Rare Disease Biotech Executive and Commercial Leader Matt Pauls, J.D., M.B.A., to Board of Directors",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/palvella-therapeutics-appoints-accomplished-rare-113000906.html",
+   "published_unix": 1782819000,
+   "captured_at": "2026-06-30T13:10:47"
+  },
+  {
+   "uuid": "354f087a-2f7b-371e-9dd4-48c324cb619c",
+   "tickers": [
+    "HRMY"
+   ],
+   "company": "Harmony Biosciences Holdings, Inc.",
+   "title": "Deutsche Bank Adjusts Price Target on Harmony Biosciences to $36 From $30, Maintains Hold Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-adjusts-price-target-112548460.html",
+   "published_unix": 1782818748,
+   "captured_at": "2026-06-30T13:10:39"
+  },
+  {
+   "uuid": "80429882-5279-3458-9aec-1d5a2c358763",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "The Unflappable Dealmaker Tasked With Crafting Comcast\u2019s Next Act",
+   "publisher": "The Wall Street Journal",
+   "link": "https://finance.yahoo.com/m/80429882-5279-3458-9aec-1d5a2c358763/the-unflappable-dealmaker.html",
+   "published_unix": 1782817200,
+   "captured_at": "2026-06-30T13:10:28"
+  },
+  {
+   "uuid": "5102b07b-2342-30b6-8006-6648f56945f0",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Rosenblatt Upgrades Comcast to Buy From Neutral, Adjusts Price Target to $31 From $24",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rosenblatt-upgrades-comcast-buy-neutral-105422400.html",
+   "published_unix": 1782816862,
+   "captured_at": "2026-06-30T13:10:28"
+  },
+  {
+   "uuid": "393a41e5-4ee2-3a38-9776-130261dac6ed",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Could Netflix Make A Move After Comcast's Breakup? Morningstar Sees The Possibility",
+   "publisher": "Stocktwits",
+   "link": "https://finance.yahoo.com/m/393a41e5-4ee2-3a38-9776-130261dac6ed/could-netflix-make-a-move.html",
+   "published_unix": 1782815865,
+   "captured_at": "2026-06-30T13:10:28"
+  },
+  {
+   "uuid": "ad888f0d-2d31-376a-ad65-b8608031add9",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Exclusive-US House committee opens investigation into Merck, AbbVie China drug trials",
+   "publisher": "Reuters",
+   "link": "https://finance.yahoo.com/news/exclusive-us-house-committee-opens-100330881.html",
+   "published_unix": 1782814867,
+   "captured_at": "2026-06-30T13:11:18"
+  },
+  {
+   "uuid": "0eb5696a-362c-3a7e-bdce-d77c9ff8484d",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Comcast\u2019s \u2018amicable divorce\u2019 is latest episode in Hollywood drama",
+   "publisher": "Financial Times",
+   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-amicable-divorce-latest-episode-100005853.html",
+   "published_unix": 1782813605,
+   "captured_at": "2026-06-30T13:10:28"
+  },
+  {
+   "uuid": "731285f4-f002-3318-be01-6474392da65d",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Comcast\u2019s Breakup Is Overdue. It Shouldn\u2019t Rush Into a New Marriage.",
+   "publisher": "The Wall Street Journal",
+   "link": "https://finance.yahoo.com/m/731285f4-f002-3318-be01-6474392da65d/comcast%E2%80%99s-breakup-is-overdue..html",
+   "published_unix": 1782811800,
+   "captured_at": "2026-06-30T13:10:28"
+  },
+  {
+   "uuid": "f9d227b1-8125-35af-a981-9f58bff319c6",
+   "tickers": [
+    "VSH"
+   ],
+   "company": "VISHAY INTERTECHNOLOGY INC",
+   "title": "Vishay Intertechnology Prices $750 Million Common Stock Offering",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/vishay-intertechnology-prices-750-million-082229446.html",
+   "published_unix": 1782807749,
+   "captured_at": "2026-06-30T13:10:33"
+  },
+  {
+   "uuid": "c6eecd11-acb0-35ba-b1d6-17896948914d",
+   "tickers": [
+    "VSH"
+   ],
+   "company": "VISHAY INTERTECHNOLOGY INC",
+   "title": "Vishay Intertechnology Announces Pricing of Public Offering of Common Stock",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/news/vishay-intertechnology-announces-pricing-public-022400885.html",
+   "published_unix": 1782786240,
+   "captured_at": "2026-06-30T13:10:33"
+  },
   {
    "uuid": "5398143a-3819-3502-84ff-6a0c4b91cdf6",
    "tickers": [
@@ -1956,126 +2172,6 @@
    "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-133000221.html",
    "published_unix": 1782221400,
    "captured_at": "2026-06-23T13:44:34"
-  },
-  {
-   "uuid": "80013182-933f-3c5f-a07a-22e948ae23c1",
-   "tickers": [
-    "HLNE"
-   ],
-   "company": "Hamilton Lane INC",
-   "title": "Gridline Announces Strategic Integration With Hamilton Lane, Expanding Private Markets Benchmarking Capabilities",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/gridline-announces-strategic-integration-hamilton-130800001.html",
-   "published_unix": 1782220080,
-   "captured_at": "2026-06-23T13:44:44"
-  },
-  {
-   "uuid": "44a4e0e6-5582-31d7-834b-9c06418df099",
-   "tickers": [
-    "SEIC"
-   ],
-   "company": "SEI INVESTMENTS CO",
-   "title": "Rob Wrzesniewski to Lead Technology Enablement and Integration Across Stratos and SEI Asset Management Platforms",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/technology/articles/rob-wrzesniewski-lead-technology-enablement-130000817.html",
-   "published_unix": 1782219600,
-   "captured_at": "2026-06-23T13:44:36"
-  },
-  {
-   "uuid": "ccebd173-d2c2-316a-8b91-8df341967415",
-   "tickers": [
-    "UIS"
-   ],
-   "company": "UNISYS CORP",
-   "title": "Unisys Named to The Economist's 2026 Global Top 100 Most Loved Workplaces\u00ae",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/technology/articles/unisys-named-economists-2026-global-123000077.html",
-   "published_unix": 1782217800,
-   "captured_at": "2026-06-23T13:44:35"
-  },
-  {
-   "uuid": "30a0145c-c0e3-3190-b4c1-ab5fe7555df9",
-   "tickers": [
-    "NVRI"
-   ],
-   "company": "ENVIRI Corp",
-   "title": "Enviri Rings the NYSE Closing Bell\u00ae, Signaling the Start of Its Next Chapter",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/enviri-rings-nyse-closing-bell-120000169.html",
-   "published_unix": 1782216000,
-   "captured_at": "2026-06-23T13:44:48"
-  },
-  {
-   "uuid": "0a904bff-1dd2-37c0-bc63-3149c92d5ac4",
-   "tickers": [
-    "EXYN"
-   ],
-   "company": "Exyn Technologies, Inc.",
-   "title": "Exyn Technologies Rebrands Range Subsidiary as Exyn Defense",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/technology/ai/articles/exyn-technologies-rebrands-range-subsidiary-120000916.html",
-   "published_unix": 1782216000,
-   "captured_at": "2026-06-23T13:45:05"
-  },
-  {
-   "uuid": "64641c89-4727-3081-a53e-393768ff662e",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC CORP",
-   "title": "FMC Corporation Announces $114 Million Sale-Leaseback of Newark, Delaware Property",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/fmc-corporation-announces-114-million-113000318.html",
-   "published_unix": 1782214200,
-   "captured_at": "2026-06-23T13:44:26"
-  },
-  {
-   "uuid": "3ea8d6a0-f27f-368b-a6f8-46b9f5268e35",
-   "tickers": [
-    "TFX"
-   ],
-   "company": "TELEFLEX INC",
-   "title": "Teleflex Starts Patient Enrollment for BIOMAG-III Study of Freesolve Resorbable Magnesium Scaffold",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/teleflex-starts-patient-enrollment-biomag-111354973.html",
-   "published_unix": 1782213234,
-   "captured_at": "2026-06-23T13:44:43"
-  },
-  {
-   "uuid": "437dc25d-eb01-3eeb-aa0e-3d73b3ec9431",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "CAMPBELL'S Co",
-   "title": "William Blair Initiates Campbell's at Market Perform",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/william-blair-initiates-campbell-apos-110516969.html",
-   "published_unix": 1782212716,
-   "captured_at": "2026-06-23T13:44:37"
-  },
-  {
-   "uuid": "f4331c5b-2c9e-3e5a-9654-be5c40b779f3",
-   "tickers": [
-    "AVTX"
-   ],
-   "company": "Avalo Therapeutics, Inc.",
-   "title": "Avalo Therapeutics Appoints Ron Philip to Board of Directors",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/avalo-therapeutics-appoints-ron-philip-110000635.html",
-   "published_unix": 1782212400,
-   "captured_at": "2026-06-23T13:44:52"
-  },
-  {
-   "uuid": "3e8eee2a-f4ae-3dc0-a1e6-bc043685f159",
-   "tickers": [
-    "TFX"
-   ],
-   "company": "TELEFLEX INC",
-   "title": "Teleflex Initiates Enrollment in Global BIOMAG\u2122\u2011III Pivotal Trial of Freesolve\u2122 Resorbable Magnesium Scaffold",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/healthcare/articles/teleflex-initiates-enrollment-global-biomag-103000665.html",
-   "published_unix": 1782210600,
-   "captured_at": "2026-06-23T13:44:43"
   }
  ]
 }
