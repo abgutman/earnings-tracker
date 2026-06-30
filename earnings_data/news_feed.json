@@ -1,6 +1,30 @@
 {
- "generated_at": "2026-06-30T00:10:50+00:00",
+ "generated_at": "2026-06-30T02:12:26+00:00",
  "items": [
+  {
+   "uuid": "5398143a-3819-3502-84ff-6a0c4b91cdf6",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Comcast\u2019s NBCUniversal Spinoff Gives Hollywood Its Next Major Deal Target",
+   "publisher": "The Wall Street Journal",
+   "link": "https://finance.yahoo.com/m/5398143a-3819-3502-84ff-6a0c4b91cdf6/comcast%E2%80%99s-nbcuniversal.html",
+   "published_unix": 1782781200,
+   "captured_at": "2026-06-30T02:11:37"
+  },
+  {
+   "uuid": "3fee5de2-2ed2-349e-8c07-1289ff0ea9fc",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "NBCUniversal Reportedly Eyes Move Into Video Games Following Comcast Separation",
+   "publisher": "Stocktwits",
+   "link": "https://finance.yahoo.com/m/3fee5de2-2ed2-349e-8c07-1289ff0ea9fc/nbcuniversal-reportedly-eyes.html",
+   "published_unix": 1782777332,
+   "captured_at": "2026-06-30T02:11:37"
+  },
   {
    "uuid": "b8f2ba56-a895-3ddc-91b9-52b5819ebecd",
    "tickers": [
