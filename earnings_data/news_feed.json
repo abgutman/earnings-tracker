@@ -1,6 +1,150 @@
 {
- "generated_at": "2026-07-01T02:29:43+00:00",
+ "generated_at": "2026-07-01T13:36:05+00:00",
  "items": [
+  {
+   "uuid": "05252746-d2e1-3568-b67a-0179f663b8b1",
+   "tickers": [
+    "AXTA"
+   ],
+   "company": "Axalta Coating Systems Ltd.",
+   "title": "Mizuho Adjusts Price Target on Axalta Coating Systems to $39 From $32, Maintains Outperform Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/mizuho-adjusts-price-target-axalta-131349345.html",
+   "published_unix": 1782911629,
+   "captured_at": "2026-07-01T13:35:24"
+  },
+  {
+   "uuid": "232904b6-1995-3571-95f7-1ee8372c1233",
+   "tickers": [
+    "CRS"
+   ],
+   "company": "CARPENTER TECHNOLOGY CORP",
+   "title": "Carpenter Technology Announces Conference Call and Webcast",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/carpenter-technology-announces-conference-call-130000003.html",
+   "published_unix": 1782910800,
+   "captured_at": "2026-07-01T13:35:33"
+  },
+  {
+   "uuid": "caa294b1-2895-3386-8447-4ebc9991bfff",
+   "tickers": [
+    "AVTR"
+   ],
+   "company": "Avantor, Inc.",
+   "title": "Avantor\u00ae to Report Second Quarter 2026 Earnings on Wednesday, July 29, 2026",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/avantor-report-second-quarter-2026-120500471.html",
+   "published_unix": 1782907500,
+   "captured_at": "2026-07-01T13:35:35"
+  },
+  {
+   "uuid": "64262922-6fa9-3fd9-bbb7-1e6f1817403c",
+   "tickers": [
+    "HLNE"
+   ],
+   "company": "Hamilton Lane INC",
+   "title": "Hamilton Lane Holds Final Close of Sixth Direct Equity Fund, Raising $3.8 Billion in and alongside the Fund",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/hamilton-lane-holds-final-close-120000980.html",
+   "published_unix": 1782907200,
+   "captured_at": "2026-07-01T13:35:36"
+  },
+  {
+   "uuid": "a5095cdf-778f-3b1d-912c-ac55b7cf4f80",
+   "tickers": [
+    "ANVS"
+   ],
+   "company": "Annovis Bio, Inc.",
+   "title": "Annovis Appoints Cheng Fang, Ph.D., as Chief Scientific Officer",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/annovis-appoints-cheng-fang-ph-120000112.html",
+   "published_unix": 1782907200,
+   "captured_at": "2026-07-01T13:35:51"
+  },
+  {
+   "uuid": "62a84312-0d03-3eeb-ac88-8a97ce797df7",
+   "tickers": [
+    "EXYN"
+   ],
+   "company": "Exyn Technologies, Inc.",
+   "title": "Exyn Technologies to Host Webinar to Demonstrate AI-Powered Autonomous Mapping for the Construction Industry",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/technology/ai/articles/exyn-technologies-host-webinar-demonstrate-120000455.html",
+   "published_unix": 1782907200,
+   "captured_at": "2026-07-01T13:35:53"
+  },
+  {
+   "uuid": "a2f9bc9b-b6c2-3fd1-9919-21617e3720e3",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "Jefferies Adjusts American Water Works Price Target to $134 From $127, Maintains Hold Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-adjusts-american-water-works-114028275.html",
+   "published_unix": 1782906028,
+   "captured_at": "2026-07-01T13:35:30"
+  },
+  {
+   "uuid": "32571329-93e0-3706-82b4-53d4de5c74ce",
+   "tickers": [
+    "OCGN"
+   ],
+   "company": "Ocugen, Inc.",
+   "title": "Ocugen to Participate in Upcoming July Industry Conferences",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/ocugen-participate-upcoming-july-industry-110000950.html",
+   "published_unix": 1782903600,
+   "captured_at": "2026-07-01T13:35:26"
+  },
+  {
+   "uuid": "113ad4cc-61f5-33cf-a93b-e02e5071acb0",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Merck to Hold Second-Quarter 2026 Sales and Earnings Conference Call Aug. 4",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/healthcare/articles/merck-hold-second-quarter-2026-104500240.html",
+   "published_unix": 1782902700,
+   "captured_at": "2026-07-01T13:36:05"
+  },
+  {
+   "uuid": "4e5591fa-057c-3214-a2cc-4b8199381d7e",
+   "tickers": [
+    "MLYS"
+   ],
+   "company": "Mineralys Therapeutics, Inc.",
+   "title": "Mineralys Therapeutics Insider Sold Shares Worth $2,696,322, According to a Recent SEC Filing",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/mineralys-therapeutics-insider-sold-shares-081054086.html",
+   "published_unix": 1782893454,
+   "captured_at": "2026-07-01T13:35:37"
+  },
+  {
+   "uuid": "9e0c4717-33e5-3d8e-8a96-76d79d7b6011",
+   "tickers": [
+    "MLYS"
+   ],
+   "company": "Mineralys Therapeutics, Inc.",
+   "title": "Mineralys Therapeutics Insider Sold Shares Worth $1,960,601, According to a Recent SEC Filing",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/mineralys-therapeutics-insider-sold-shares-081032321.html",
+   "published_unix": 1782893432,
+   "captured_at": "2026-07-01T13:35:37"
+  },
+  {
+   "uuid": "ea2979ec-116c-326d-98dc-58a5cf72c45f",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC CORP",
+   "title": "FMC to Sell $400 Million of Common to Tessenderlo Group at $13.30 Each",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-sell-400-million-common-074535663.html",
+   "published_unix": 1782891935,
+   "captured_at": "2026-07-01T13:35:22"
+  },
   {
    "uuid": "05a04ff1-11eb-3930-a668-09f58259abec",
    "tickers": [
@@ -132,6 +276,18 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-split-seen-boosting-deal-170154678.html",
    "published_unix": 1782838914,
    "captured_at": "2026-06-30T18:59:31"
+  },
+  {
+   "uuid": "d159ac84-9d46-3511-b472-432e3eba518b",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "CAMPBELL'S Co",
+   "title": "Analyst Report: The Campbell's Company",
+   "publisher": "Morningstar Research",
+   "link": "https://finance.yahoo.com/m/d159ac84-9d46-3511-b472-432e3eba518b/analyst-report%3A-the.html",
+   "published_unix": 1782838257,
+   "captured_at": "2026-07-01T13:35:30"
   },
   {
    "uuid": "493d0e03-94e3-3561-a3fd-ae14a8b9eced",
@@ -1776,114 +1932,6 @@
    "link": "https://finance.yahoo.com/m/57b4679b-9f96-36e8-8641-e933829abe81/analyst-report%3A-dupont-de.html",
    "published_unix": 1782312150,
    "captured_at": "2026-06-24T16:25:59"
-  },
-  {
-   "uuid": "b405d943-02c9-3a67-8f33-8e3af85c5b24",
-   "tickers": [
-    "HSY"
-   ],
-   "company": "HERSHEY CO",
-   "title": "The Hershey Company Names Heather Hoytink President, US",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/hershey-company-names-heather-hoytink-125900324.html",
-   "published_unix": 1782305940,
-   "captured_at": "2026-06-24T13:26:26"
-  },
-  {
-   "uuid": "e6b86b26-e6b1-3ec9-8e58-a97d9406d214",
-   "tickers": [
-    "AXTA"
-   ],
-   "company": "Axalta Coating Systems Ltd.",
-   "title": "Axalta to Hold Special Meeting of Stockholders on Proposed Merger with AkzoNobel on August 5, 2026",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/axalta-hold-special-meeting-stockholders-121900372.html",
-   "published_unix": 1782303540,
-   "captured_at": "2026-06-24T13:25:39"
-  },
-  {
-   "uuid": "41e5680d-07ba-3946-adc7-46adfa03ceda",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora, Inc.",
-   "title": "BofA Adjusts Price Target on Cencora to $285 From $280",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-adjusts-price-target-cencora-115839938.html",
-   "published_unix": 1782302319,
-   "captured_at": "2026-06-24T13:25:46"
-  },
-  {
-   "uuid": "fccf906e-90f6-3da5-a7b0-c3f76f79237e",
-   "tickers": [
-    "PPL"
-   ],
-   "company": "PPL Corp",
-   "title": "Morgan Stanley Adjusts PPL Price Target to $42 From $40, Maintains Overweight Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-ppl-price-114057862.html",
-   "published_unix": 1782301257,
-   "captured_at": "2026-06-24T13:26:26"
-  },
-  {
-   "uuid": "fcf8dce0-a161-3948-88ad-b35cbc4e1cd3",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Merck Wins European Commission Approval for KEYTRUDA Plus Padcev in Bladder Cancer",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/merck-wins-european-commission-approval-112803571.html",
-   "published_unix": 1782300483,
-   "captured_at": "2026-06-24T13:26:27"
-  },
-  {
-   "uuid": "5a4a4c71-91a2-3bf3-ae47-3dfd0293631a",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "CICC Research Initiates Coverage on Merck With Outperform Rating, $138 Price Target",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/cicc-research-initiates-coverage-merck-111700770.html",
-   "published_unix": 1782299820,
-   "captured_at": "2026-06-24T13:26:27"
-  },
-  {
-   "uuid": "540178da-7f3c-3e77-8244-d430cd656d1d",
-   "tickers": [
-    "PHIO"
-   ],
-   "company": "Phio Pharmaceuticals Corp.",
-   "title": "Phio Pharmaceuticals Reaches Key Milestone in Advancing Lead Candidate PH-762",
-   "publisher": "TMX Newsfile",
-   "link": "https://finance.yahoo.com/healthcare/articles/phio-pharmaceuticals-reaches-key-milestone-110000133.html",
-   "published_unix": 1782298800,
-   "captured_at": "2026-06-24T13:26:18"
-  },
-  {
-   "uuid": "62506a6d-d09e-3715-b0d5-313facea93a9",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "CICC Initiates Merck & Co. at Outperform With $138 Price Target",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/cicc-initiates-merck-co-outperform-091913633.html",
-   "published_unix": 1782292753,
-   "captured_at": "2026-06-24T13:26:27"
-  },
-  {
-   "uuid": "9906eabe-f58f-3167-ba19-15bddf72e40a",
-   "tickers": [
-    "DD"
-   ],
-   "company": "DuPont de Nemours, Inc.",
-   "title": "DuPont Launches Tyvek\u00ae APX\u2122 in ASEAN Market",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/dupont-launches-tyvek-apx-asean-070000114.html",
-   "published_unix": 1782284400,
-   "captured_at": "2026-06-24T13:26:28"
   }
  ]
 }
