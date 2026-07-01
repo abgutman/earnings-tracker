@@ -365,3 +365,13 @@
 [2026-06-30 23:06:12] === CHECK-10Q: scanning for pending 10-Q filings ===
 [2026-06-30 23:06:13]   TRAW: pending_10q_since=2026-06-22 is 8d old — clearing stale flag
 [2026-06-30 23:06:14] === CHECK-10Q complete. Checked 4, found 0, cleared 1 stale. ===
+[2026-07-01 13:43:59] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-07-01 13:44:00]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0000037785.json'
+[2026-07-01 13:44:00]   ★ NEW 8k_701 for FMC (FMC CORP) filed 2026-07-01
+[2026-07-01 13:44:00]     https://www.sec.gov/Archives/edgar/data/37785/000095010326009902/dp249374_8k.htm
+[2026-07-01 13:44:02]     ✉ alert sent (8k_701)
+[2026-07-01 13:44:27]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001436229.json'
+[2026-07-01 13:44:27]   ★ NEW 8k_701 for BTCS (BTCS Inc.) filed 2026-07-01
+[2026-07-01 13:44:27]     https://www.sec.gov/Archives/edgar/data/1436229/000149315226031440/form8-k.htm
+[2026-07-01 13:44:28]     ✉ alert sent (8k_701)
+[2026-07-01 13:44:37] === EDGAR POLL complete. Fetched 100 companies, 2 new filings. ===
