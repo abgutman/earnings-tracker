@@ -47,5 +47,35 @@
   "source_publisher": "Business Wire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-06-30T23:05:17"
+ },
+ "COR": {
+  "release_date": "2026-08-05",
+  "call_date": null,
+  "call_time": "08:30 ET",
+  "source_url": "https://finance.yahoo.com/healthcare/articles/cencora-announces-date-time-third-203000029.html",
+  "source_title": "Cencora Announces Date and Time for Third Quarter Fiscal 2026 Earnings Release",
+  "source_publisher": "Business Wire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-07-01T23:07:18"
+ },
+ "CRS": {
+  "release_date": "2026-07-30",
+  "call_date": "2026-07-30",
+  "call_time": "10:00 ET",
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/carpenter-technology-announces-conference-call-130000003.html",
+  "source_title": "Carpenter Technology Announces Conference Call and Webcast",
+  "source_publisher": "GlobeNewswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-07-01T23:07:24"
+ },
+ "AVTR": {
+  "release_date": "2026-07-29",
+  "call_date": null,
+  "call_time": null,
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/avantor-report-second-quarter-2026-120500471.html",
+  "source_title": "Avantor\u00ae to Report Second Quarter 2026 Earnings on Wednesday, July 29, 2026",
+  "source_publisher": "PR Newswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-07-01T23:07:29"
  }
 }

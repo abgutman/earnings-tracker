@@ -105,3 +105,16 @@
 [2026-06-30 23:05:18]   ✉ alert sent for LNC
 [2026-06-30 23:06:12] === Done. Captured 1 new save-the-dates, cleaned 0 past. ===
 
+[2026-07-01 23:07:07] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-07-01 23:07:07] Polling Yahoo for 106 companies
+[2026-07-01 23:07:18]   + COR: release=2026-08-05 call=None 08:30 ET
+[2026-07-01 23:07:18]     via: Cencora Announces Date and Time for Third Quarter Fiscal 2026 Earnings Release
+[2026-07-01 23:07:19]   ✉ alert sent for COR
+[2026-07-01 23:07:24]   + CRS: release=2026-07-30 call=2026-07-30 10:00 ET
+[2026-07-01 23:07:24]     via: Carpenter Technology Announces Conference Call and Webcast
+[2026-07-01 23:07:26]   ✉ alert sent for CRS
+[2026-07-01 23:07:29]   + AVTR: release=2026-07-29 call=None None
+[2026-07-01 23:07:29]     via: Avantor® to Report Second Quarter 2026 Earnings on Wednesday, July 29, 2026
+[2026-07-01 23:07:30]   ✉ alert sent for AVTR
+[2026-07-01 23:08:06] === Done. Captured 3 new save-the-dates, cleaned 0 past. ===
+
