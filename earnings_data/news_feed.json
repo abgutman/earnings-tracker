@@ -1,6 +1,78 @@
 {
- "generated_at": "2026-07-01T19:01:30+00:00",
+ "generated_at": "2026-07-01T21:41:36+00:00",
  "items": [
+  {
+   "uuid": "46280080-fd64-36ac-a687-8bb1f204f93b",
+   "tickers": [
+    "WST"
+   ],
+   "company": "WEST PHARMACEUTICAL SERVICES INC",
+   "title": "West Pharmaceutical Services Completes Sale of SmartDose 3.5mL Manufacturing Rights",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/west-pharmaceutical-services-completes-sale-212822883.html",
+   "published_unix": 1782941302,
+   "captured_at": "2026-07-01T21:40:55"
+  },
+  {
+   "uuid": "b97d9ed4-5332-326f-9922-d492554f661d",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora, Inc.",
+   "title": "Cencora Announces Date and Time for Third Quarter Fiscal 2026 Earnings Release",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/healthcare/articles/cencora-announces-date-time-third-203000029.html",
+   "published_unix": 1782937800,
+   "captured_at": "2026-07-01T21:40:51"
+  },
+  {
+   "uuid": "4613c1cb-1736-3989-9709-d538d7ffb86c",
+   "tickers": [
+    "WST"
+   ],
+   "company": "WEST PHARMACEUTICAL SERVICES INC",
+   "title": "West Completes Sale and Transfer of the Manufacturing and Supply Rights for SmartDose\u00ae 3.5mL On-Body Delivery System",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/west-completes-sale-transfer-manufacturing-203000732.html",
+   "published_unix": 1782937800,
+   "captured_at": "2026-07-01T21:40:55"
+  },
+  {
+   "uuid": "926298b0-764a-3860-9c12-b6dde4711eab",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "Missouri American Water Files Rate Request Driven by Approximately $1.6 Billion in Investments to Provide Safe, Clean, Reliable and Affordable Service",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/economy/policy/articles/missouri-american-water-files-rate-201000955.html",
+   "published_unix": 1782936600,
+   "captured_at": "2026-07-01T21:40:52"
+  },
+  {
+   "uuid": "8da2c5e2-3749-3e29-bf75-4a069058136f",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Toll Brothers Announces New Home Sites in Regency at Santa Rita Ranch 55+ Community Near Austin",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-home-sites-191200167.html",
+   "published_unix": 1782933120,
+   "captured_at": "2026-07-01T21:40:48"
+  },
+  {
+   "uuid": "a7070449-ff8a-3f51-881e-34bcee1308df",
+   "tickers": [
+    "LNC"
+   ],
+   "company": "LINCOLN NATIONAL CORP",
+   "title": "AM Best Assigns Indicative Issue Credit Rating to Lincoln National Corporation\u2019s Subordinated Notes",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/am-best-assigns-indicative-issue-190800607.html",
+   "published_unix": 1782932880,
+   "captured_at": "2026-07-01T21:40:45"
+  },
   {
    "uuid": "0a1aba5a-fad0-3982-9dee-aaba1aa65b1d",
    "tickers": [
@@ -1848,66 +1920,6 @@
    "link": "https://finance.yahoo.com/m/b72fe9d6-40bb-36de-b40b-88d7243ed149/pasg-stock-slumps-16%25.html",
    "published_unix": 1782341267,
    "captured_at": "2026-06-25T00:17:39"
-  },
-  {
-   "uuid": "f9a533b8-de23-3814-8224-bfe0ffe9c5fc",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "Indiana American Water Proudly Recognizes Terre Haute's Riverscape, American Water Charitable Foundation 2026 Water and Environment Grant Recipient",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/indiana-american-water-proudly-recognizes-213000260.html",
-   "published_unix": 1782336600,
-   "captured_at": "2026-06-24T22:22:15"
-  },
-  {
-   "uuid": "a132ec6d-f1ad-35ac-9589-94aeea58e326",
-   "tickers": [
-    "PASG"
-   ],
-   "company": "Passage BIO, Inc.",
-   "title": "Passage Bio, Remix Therapeutics Plan All-Stock Merger",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/passage-bio-remix-therapeutics-plan-210438270.html",
-   "published_unix": 1782335078,
-   "captured_at": "2026-06-24T22:22:17"
-  },
-  {
-   "uuid": "270f9ee7-54d7-3072-ada2-42e6fc87bfd3",
-   "tickers": [
-    "DD"
-   ],
-   "company": "DuPont de Nemours, Inc.",
-   "title": "DuPont Announces Regular Quarterly Dividend on Common Stock",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/dupont-announces-regular-quarterly-dividend-203000619.html",
-   "published_unix": 1782333000,
-   "captured_at": "2026-06-24T20:51:15"
-  },
-  {
-   "uuid": "629f44ed-ccb3-3689-8071-b16f6dbbbb2a",
-   "tickers": [
-    "PASG"
-   ],
-   "company": "Passage BIO, Inc.",
-   "title": "Passage Bio and\u00a0Remix Therapeutics Announce Merger Agreement",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/passage-bio-remix-therapeutics-announce-200500170.html",
-   "published_unix": 1782331500,
-   "captured_at": "2026-06-24T20:50:33"
-  },
-  {
-   "uuid": "d3e4c34f-7f75-35bd-8295-35cf5c5cb9cc",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "Tap Water You Can Trust: Two Illinois American Water Drinking Water Treatment Plants Earn National Recognition",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/tap-water-trust-two-illinois-195200676.html",
-   "published_unix": 1782330720,
-   "captured_at": "2026-06-24T20:50:31"
   }
  ]
 }
