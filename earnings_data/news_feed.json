@@ -1,6 +1,18 @@
 {
- "generated_at": "2026-07-01T21:41:36+00:00",
+ "generated_at": "2026-07-01T23:20:20+00:00",
  "items": [
+  {
+   "uuid": "74815f3d-dde5-3df3-a55a-60d605d5c822",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "MRK, NEUP Stocks Drop As Merck Scraps Another Alzheimer\u2019s Drug Trial Under Neuphoria Partnership",
+   "publisher": "Stocktwits",
+   "link": "https://finance.yahoo.com/m/74815f3d-dde5-3df3-a55a-60d605d5c822/mrk%2C-neup-stocks-drop-as.html",
+   "published_unix": 1782943304,
+   "captured_at": "2026-07-01T23:20:20"
+  },
   {
    "uuid": "46280080-fd64-36ac-a687-8bb1f204f93b",
    "tickers": [
@@ -264,6 +276,366 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-corporation-reaches-agreement-400-020500932.html",
    "published_unix": 1782871500,
    "captured_at": "2026-07-01T02:28:47"
+  },
+  {
+   "uuid": "dc923181-7dd0-315f-bd66-91d657592967",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "ARMK: Raising target price to $60.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/dc923181-7dd0-315f-bd66-91d657592967/armk%3A-raising-target-price-to.html",
+   "published_unix": 1782864000,
+   "captured_at": "2026-07-01T23:19:36"
+  },
+  {
+   "uuid": "c0424ec3-cf80-3e11-98e7-ff1731c6ea97",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC CORP",
+   "title": "FMC: Raising target price to $10.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/c0424ec3-cf80-3e11-98e7-ff1731c6ea97/fmc%3A-raising-target-price-to.html",
+   "published_unix": 1782864000,
+   "captured_at": "2026-07-01T23:19:36"
+  },
+  {
+   "uuid": "65feef55-462b-33c8-ab9c-161c1790d723",
+   "tickers": [
+    "URBN"
+   ],
+   "company": "URBAN OUTFITTERS INC",
+   "title": "URBN: Lowering target price to $74.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/65feef55-462b-33c8-ab9c-161c1790d723/urbn%3A-lowering-target-price.html",
+   "published_unix": 1782864000,
+   "captured_at": "2026-07-01T23:19:36"
+  },
+  {
+   "uuid": "d8be2077-0a58-3834-bdc0-0765c27c6068",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "FIVE BELOW, INC",
+   "title": "FIVE: Lowering target price to $171.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/d8be2077-0a58-3834-bdc0-0765c27c6068/five%3A-lowering-target-price.html",
+   "published_unix": 1782864000,
+   "captured_at": "2026-07-01T23:19:37"
+  },
+  {
+   "uuid": "e448bff6-3338-352b-9c4f-9f442f4ec1ce",
+   "tickers": [
+    "IRT"
+   ],
+   "company": "INDEPENDENCE REALTY TRUST, INC.",
+   "title": "IRT: Raising target price to $18.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/e448bff6-3338-352b-9c4f-9f442f4ec1ce/irt%3A-raising-target-price-to.html",
+   "published_unix": 1782864000,
+   "captured_at": "2026-07-01T23:19:37"
+  },
+  {
+   "uuid": "e1be9055-86b6-3f30-b635-d1dafc4e9647",
+   "tickers": [
+    "AXTA"
+   ],
+   "company": "Axalta Coating Systems Ltd.",
+   "title": "AXTA: Raising target price to $38.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/e1be9055-86b6-3f30-b635-d1dafc4e9647/axta%3A-raising-target-price-to.html",
+   "published_unix": 1782864000,
+   "captured_at": "2026-07-01T23:19:38"
+  },
+  {
+   "uuid": "052eda38-b7f2-3f9c-b1a6-5dfa7a9d9b1f",
+   "tickers": [
+    "RDN"
+   ],
+   "company": "RADIAN GROUP INC",
+   "title": "RDN: Raising target price to $40.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/052eda38-b7f2-3f9c-b1a6-5dfa7a9d9b1f/rdn%3A-raising-target-price-to.html",
+   "published_unix": 1782864000,
+   "captured_at": "2026-07-01T23:19:38"
+  },
+  {
+   "uuid": "c795c5da-2df8-3af1-bcde-fd788d8b4ba1",
+   "tickers": [
+    "LNC"
+   ],
+   "company": "LINCOLN NATIONAL CORP",
+   "title": "LNC: Lowering target price to $34.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/c795c5da-2df8-3af1-bcde-fd788d8b4ba1/lnc%3A-lowering-target-price-to.html",
+   "published_unix": 1782864000,
+   "captured_at": "2026-07-01T23:19:38"
+  },
+  {
+   "uuid": "41024de1-f851-3b67-a00b-b8ff9c0c2be1",
+   "tickers": [
+    "BSY"
+   ],
+   "company": "BENTLEY SYSTEMS INC",
+   "title": "BSY: Raising target price to $28.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/41024de1-f851-3b67-a00b-b8ff9c0c2be1/bsy%3A-raising-target-price-to.html",
+   "published_unix": 1782864000,
+   "captured_at": "2026-07-01T23:19:39"
+  },
+  {
+   "uuid": "647d3ebf-b08f-34e6-be16-3c3b3512e19f",
+   "tickers": [
+    "AME"
+   ],
+   "company": "AMETEK INC/",
+   "title": "AME: Raising target price to $266.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/647d3ebf-b08f-34e6-be16-3c3b3512e19f/ame%3A-raising-target-price-to.html",
+   "published_unix": 1782864000,
+   "captured_at": "2026-07-01T23:19:39"
+  },
+  {
+   "uuid": "674881a6-e001-3f21-9517-531de4a8acfd",
+   "tickers": [
+    "UHS"
+   ],
+   "company": "UNIVERSAL HEALTH SERVICES INC",
+   "title": "UHS: Raising target price to $141.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/674881a6-e001-3f21-9517-531de4a8acfd/uhs%3A-raising-target-price-to.html",
+   "published_unix": 1782864000,
+   "captured_at": "2026-07-01T23:19:41"
+  },
+  {
+   "uuid": "cceab9ff-adc7-3c4a-a0ae-96c4df628b54",
+   "tickers": [
+    "UGI"
+   ],
+   "company": "UGI CORP /PA/",
+   "title": "UGI: What does Argus have to say about UGI?",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/cceab9ff-adc7-3c4a-a0ae-96c4df628b54/ugi%3A-what-does-argus-have-to.html",
+   "published_unix": 1782864000,
+   "captured_at": "2026-07-01T23:19:43"
+  },
+  {
+   "uuid": "f53d96b2-eac0-3687-8874-e4f48b143244",
+   "tickers": [
+    "SEIC"
+   ],
+   "company": "SEI INVESTMENTS CO",
+   "title": "SEIC: Lowering target price to $96.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/f53d96b2-eac0-3687-8874-e4f48b143244/seic%3A-lowering-target-price.html",
+   "published_unix": 1782864000,
+   "captured_at": "2026-07-01T23:19:43"
+  },
+  {
+   "uuid": "fb56cfd3-f78f-378d-8394-84866e207273",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores, Inc.",
+   "title": "BURL: Lowering target price to $333.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/fb56cfd3-f78f-378d-8394-84866e207273/burl%3A-lowering-target-price.html",
+   "published_unix": 1782864000,
+   "captured_at": "2026-07-01T23:19:46"
+  },
+  {
+   "uuid": "06e85ce3-4355-3a8c-b364-ad96778cc46a",
+   "tickers": [
+    "HRMY"
+   ],
+   "company": "Harmony Biosciences Holdings, Inc.",
+   "title": "HRMY: Raising target price to $38.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/06e85ce3-4355-3a8c-b364-ad96778cc46a/hrmy%3A-raising-target-price-to.html",
+   "published_unix": 1782864000,
+   "captured_at": "2026-07-01T23:19:47"
+  },
+  {
+   "uuid": "993e9a33-bc5d-35f7-ab64-3cd54ba36233",
+   "tickers": [
+    "CRS"
+   ],
+   "company": "CARPENTER TECHNOLOGY CORP",
+   "title": "CRS: Raising target price to $702.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/993e9a33-bc5d-35f7-ab64-3cd54ba36233/crs%3A-raising-target-price-to.html",
+   "published_unix": 1782864000,
+   "captured_at": "2026-07-01T23:19:47"
+  },
+  {
+   "uuid": "6d6e2941-e914-3f7e-a1aa-0ac08684f84e",
+   "tickers": [
+    "WST"
+   ],
+   "company": "WEST PHARMACEUTICAL SERVICES INC",
+   "title": "WST: Raising target price to $395.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/6d6e2941-e914-3f7e-a1aa-0ac08684f84e/wst%3A-raising-target-price-to.html",
+   "published_unix": 1782864000,
+   "captured_at": "2026-07-01T23:19:48"
+  },
+  {
+   "uuid": "e0339771-d150-31bd-9436-0f7b4507a662",
+   "tickers": [
+    "GMED"
+   ],
+   "company": "GLOBUS MEDICAL INC",
+   "title": "GMED: Lowering target price to $87.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/e0339771-d150-31bd-9436-0f7b4507a662/gmed%3A-lowering-target-price.html",
+   "published_unix": 1782864000,
+   "captured_at": "2026-07-01T23:19:48"
+  },
+  {
+   "uuid": "6a14f281-28e3-3bb1-8ff3-d3299ea6db53",
+   "tickers": [
+    "CUBE"
+   ],
+   "company": "CubeSmart",
+   "title": "CUBE: Lowering target price to $44.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/6a14f281-28e3-3bb1-8ff3-d3299ea6db53/cube%3A-lowering-target-price.html",
+   "published_unix": 1782864000,
+   "captured_at": "2026-07-01T23:19:48"
+  },
+  {
+   "uuid": "3c9d0073-2fcd-37f9-bf96-bf8fd040afb9",
+   "tickers": [
+    "VSNT"
+   ],
+   "company": "Versant Media Group, Inc.",
+   "title": "VSNT: Lowering target price to $38.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/3c9d0073-2fcd-37f9-bf96-bf8fd040afb9/vsnt%3A-lowering-target-price.html",
+   "published_unix": 1782864000,
+   "captured_at": "2026-07-01T23:19:49"
+  },
+  {
+   "uuid": "43b2c429-8fde-34ed-aead-c7787fd040d8",
+   "tickers": [
+    "TFX"
+   ],
+   "company": "TELEFLEX INC",
+   "title": "TFX: Raising target price to $133.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/43b2c429-8fde-34ed-aead-c7787fd040d8/tfx%3A-raising-target-price-to.html",
+   "published_unix": 1782864000,
+   "captured_at": "2026-07-01T23:19:50"
+  },
+  {
+   "uuid": "12ac3535-3aec-32ed-94fd-9a0eb2ca1217",
+   "tickers": [
+    "AVTR"
+   ],
+   "company": "Avantor, Inc.",
+   "title": "AVTR: What does Argus have to say about AVTR?",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/12ac3535-3aec-32ed-94fd-9a0eb2ca1217/avtr%3A-what-does-argus-have-to.html",
+   "published_unix": 1782864000,
+   "captured_at": "2026-07-01T23:19:50"
+  },
+  {
+   "uuid": "d94ceb60-515f-3f06-b8d0-8b774b3ba3b4",
+   "tickers": [
+    "EPAM"
+   ],
+   "company": "EPAM Systems, Inc.",
+   "title": "EPAM: Raising target price to $75.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/d94ceb60-515f-3f06-b8d0-8b774b3ba3b4/epam%3A-raising-target-price-to.html",
+   "published_unix": 1782864000,
+   "captured_at": "2026-07-01T23:19:51"
+  },
+  {
+   "uuid": "d4f518f1-64df-37c3-99a4-ef0ce5908e9d",
+   "tickers": [
+    "HLNE"
+   ],
+   "company": "Hamilton Lane INC",
+   "title": "HLNE: Raising target price to $88.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/d4f518f1-64df-37c3-99a4-ef0ce5908e9d/hlne%3A-raising-target-price-to.html",
+   "published_unix": 1782864000,
+   "captured_at": "2026-07-01T23:19:52"
+  },
+  {
+   "uuid": "ccd4b3db-89e8-396a-84af-7a23eaf4d3af",
+   "tickers": [
+    "DORM"
+   ],
+   "company": "Dorman Products, Inc.",
+   "title": "DORM: Raising target price to $143.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/ccd4b3db-89e8-396a-84af-7a23eaf4d3af/dorm%3A-raising-target-price-to.html",
+   "published_unix": 1782864000,
+   "captured_at": "2026-07-01T23:19:52"
+  },
+  {
+   "uuid": "1f5e7946-0bc4-3c32-b615-fd2d8b01783c",
+   "tickers": [
+    "KWR"
+   ],
+   "company": "QUAKER CHEMICAL CORP",
+   "title": "KWR: Raising target price to $167.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/1f5e7946-0bc4-3c32-b615-fd2d8b01783c/kwr%3A-raising-target-price-to.html",
+   "published_unix": 1782864000,
+   "captured_at": "2026-07-01T23:19:53"
+  },
+  {
+   "uuid": "8670eb13-27df-3d50-9ea8-c0aef699e8bd",
+   "tickers": [
+    "AHCO"
+   ],
+   "company": "AdaptHealth Corp.",
+   "title": "AHCO: Raising target price to $11.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/8670eb13-27df-3d50-9ea8-c0aef699e8bd/ahco%3A-raising-target-price-to.html",
+   "published_unix": 1782864000,
+   "captured_at": "2026-07-01T23:19:55"
+  },
+  {
+   "uuid": "5c1febe9-8c3b-3fe0-83d6-6a113ec4606f",
+   "tickers": [
+    "JJSF"
+   ],
+   "company": "J&J SNACK FOODS CORP",
+   "title": "JJSF: Raising target price to $70.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/5c1febe9-8c3b-3fe0-83d6-6a113ec4606f/jjsf%3A-raising-target-price-to.html",
+   "published_unix": 1782864000,
+   "captured_at": "2026-07-01T23:19:56"
+  },
+  {
+   "uuid": "55ee43e5-80a4-3ee8-9ba4-0f01cf5fb19e",
+   "tickers": [
+    "HCSG"
+   ],
+   "company": "HEALTHCARE SERVICES GROUP INC",
+   "title": "HCSG: Raising target price to $26.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/55ee43e5-80a4-3ee8-9ba4-0f01cf5fb19e/hcsg%3A-raising-target-price-to.html",
+   "published_unix": 1782864000,
+   "captured_at": "2026-07-01T23:19:57"
+  },
+  {
+   "uuid": "bf5922d3-819d-39ca-bf16-d95ba9baf8b2",
+   "tickers": [
+    "CERT"
+   ],
+   "company": "Certara, Inc.",
+   "title": "CERT: Raising target price to $5.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/bf5922d3-819d-39ca-bf16-d95ba9baf8b2/cert%3A-raising-target-price-to.html",
+   "published_unix": 1782864000,
+   "captured_at": "2026-07-01T23:19:59"
   },
   {
    "uuid": "4d474a28-7dca-30d6-ac04-92ea77408f08",
@@ -1896,30 +2268,6 @@
    "link": "https://finance.yahoo.com/m/96dde714-60d1-3771-b461-ce6c104c5bc4/spry%2C-pasg%2C-boxl%3A-why-these.html",
    "published_unix": 1782351781,
    "captured_at": "2026-06-25T02:09:31"
-  },
-  {
-   "uuid": "172e3628-f390-3cd7-b0ec-4b2a1b098ef1",
-   "tickers": [
-    "DD"
-   ],
-   "company": "DuPont de Nemours, Inc.",
-   "title": "Analyst Report: DuPont de Nemours, Inc.",
-   "publisher": "Morningstar Research",
-   "link": "https://finance.yahoo.com/m/172e3628-f390-3cd7-b0ec-4b2a1b098ef1/analyst-report%3A-dupont-de.html",
-   "published_unix": 1782342827,
-   "captured_at": "2026-06-25T02:10:09"
-  },
-  {
-   "uuid": "b72fe9d6-40bb-36de-b40b-88d7243ed149",
-   "tickers": [
-    "PASG"
-   ],
-   "company": "Passage BIO, Inc.",
-   "title": "PASG Stock Slumps 16% After-Hours \u2014 What\u2019s Driving The Selloff?",
-   "publisher": "Stocktwits",
-   "link": "https://finance.yahoo.com/m/b72fe9d6-40bb-36de-b40b-88d7243ed149/pasg-stock-slumps-16%25.html",
-   "published_unix": 1782341267,
-   "captured_at": "2026-06-25T00:17:39"
   }
  ]
 }

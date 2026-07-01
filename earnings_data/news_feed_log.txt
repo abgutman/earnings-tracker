@@ -380,3 +380,6 @@
 [2026-07-01 21:40:41] === News feed poll start ===
 [2026-07-01 21:40:41] Polling Yahoo for 109 companies
 [2026-07-01 21:41:36] === Done. Fetched 109 companies, 281 new items, 160 total in 168h window ===
+[2026-07-01 23:19:35] === News feed poll start ===
+[2026-07-01 23:19:35] Polling Yahoo for 109 companies
+[2026-07-01 23:20:20] === Done. Fetched 109 companies, 304 new items, 189 total in 168h window ===
