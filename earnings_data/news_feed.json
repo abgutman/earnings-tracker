@@ -1,6 +1,30 @@
 {
- "generated_at": "2026-07-01T13:36:05+00:00",
+ "generated_at": "2026-07-01T16:30:13+00:00",
  "items": [
+  {
+   "uuid": "87bc6d04-9a1e-3e5f-b049-a1552ecb0d7b",
+   "tickers": [
+    "OFLX"
+   ],
+   "company": "Omega Flex, Inc.",
+   "title": "Omega Flex Re-Engineers Flexible Gas Piping Fittings for Superior Installation Experience",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/technology/articles/omega-flex-engineers-flexible-gas-141300387.html",
+   "published_unix": 1782915180,
+   "captured_at": "2026-07-01T16:29:30"
+  },
+  {
+   "uuid": "27139779-3adc-3138-8287-9b742a9685f9",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC CORP",
+   "title": "FMC shares surge after Tessenderlo agrees to acquire 20% stake (FMC)",
+   "publisher": "InvestorsHub",
+   "link": "https://finance.yahoo.com/m/27139779-3adc-3138-8287-9b742a9685f9/fmc-shares-surge-after.html",
+   "published_unix": 1782915031,
+   "captured_at": "2026-07-01T16:29:25"
+  },
   {
    "uuid": "05252746-d2e1-3568-b67a-0179f663b8b1",
    "tickers": [
@@ -1908,30 +1932,6 @@
    "link": "https://finance.yahoo.com/m/4b2ad45b-674e-3172-abdc-c630705a4820/market-update%3A-cor%2C-adm%2C-ni.html",
    "published_unix": 1782323593,
    "captured_at": "2026-06-24T18:53:59"
-  },
-  {
-   "uuid": "6fc88523-22ab-3570-a2e3-8af341ca6ae7",
-   "tickers": [
-    "DD"
-   ],
-   "company": "DuPont de Nemours, Inc.",
-   "title": "Chemours to pay $450M in first federal \"forever chemicals\" settlement",
-   "publisher": "CBS News",
-   "link": "https://finance.yahoo.com/m/6fc88523-22ab-3570-a2e3-8af341ca6ae7/chemours-to-pay-%24450m-in.html",
-   "published_unix": 1782316539,
-   "captured_at": "2026-06-24T16:25:59"
-  },
-  {
-   "uuid": "57b4679b-9f96-36e8-8641-e933829abe81",
-   "tickers": [
-    "DD"
-   ],
-   "company": "DuPont de Nemours, Inc.",
-   "title": "Analyst Report: DuPont de Nemours, Inc.",
-   "publisher": "Morningstar Research",
-   "link": "https://finance.yahoo.com/m/57b4679b-9f96-36e8-8641-e933829abe81/analyst-report%3A-dupont-de.html",
-   "published_unix": 1782312150,
-   "captured_at": "2026-06-24T16:25:59"
   }
  ]
 }
