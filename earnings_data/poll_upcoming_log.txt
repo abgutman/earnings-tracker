@@ -118,3 +118,10 @@
 [2026-07-01 23:07:30]   ✉ alert sent for AVTR
 [2026-07-01 23:08:06] === Done. Captured 3 new save-the-dates, cleaned 0 past. ===
 
+[2026-07-02 22:59:08] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-07-02 22:59:08] Polling Yahoo for 106 companies
+[2026-07-02 22:59:54]   + TSEOF: release=2026-07-31 call=None None
+[2026-07-02 22:59:54]     via: Banco Itaú Chile Schedules Second Quarter 2026 Financial Results Conference Call
+[2026-07-02 22:59:55]   ✉ alert sent for TSEOF
+[2026-07-02 23:00:01] === Done. Captured 1 new save-the-dates, cleaned 0 past. ===
+
