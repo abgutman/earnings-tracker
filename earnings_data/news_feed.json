@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-01T23:20:20+00:00",
+ "generated_at": "2026-07-02T02:08:56+00:00",
  "items": [
   {
    "uuid": "74815f3d-dde5-3df3-a55a-60d605d5c822",
@@ -2256,18 +2256,6 @@
    "link": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-advances-cardiac-ablation-090000134.html",
    "published_unix": 1782378000,
    "captured_at": "2026-06-25T13:23:23"
-  },
-  {
-   "uuid": "96dde714-60d1-3771-b461-ce6c104c5bc4",
-   "tickers": [
-    "PASG"
-   ],
-   "company": "Passage BIO, Inc.",
-   "title": "SPRY, PASG, BOXL: Why These Stocks Plunged Double Digits In After-Hours Trading Today",
-   "publisher": "Stocktwits",
-   "link": "https://finance.yahoo.com/m/96dde714-60d1-3771-b461-ce6c104c5bc4/spry%2C-pasg%2C-boxl%3A-why-these.html",
-   "published_unix": 1782351781,
-   "captured_at": "2026-06-25T02:09:31"
   }
  ]
 }
