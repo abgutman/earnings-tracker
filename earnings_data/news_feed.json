@@ -1,6 +1,54 @@
 {
- "generated_at": "2026-07-02T02:08:56+00:00",
+ "generated_at": "2026-07-02T13:01:39+00:00",
  "items": [
+  {
+   "uuid": "108d2d75-5166-3963-9278-13b988e77434",
+   "tickers": [
+    "HLNE"
+   ],
+   "company": "Hamilton Lane INC",
+   "title": "Market Chatter: Hamilton Lane Eyes Debut Yuan Fund Focused on China Assets",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-hamilton-lane-eyes-093651748.html",
+   "published_unix": 1782985011,
+   "captured_at": "2026-07-02T13:01:04"
+  },
+  {
+   "uuid": "4962128e-c5a7-37c5-81e1-6f0edd71a9c3",
+   "tickers": [
+    "DD"
+   ],
+   "company": "DuPont de Nemours, Inc.",
+   "title": "Citigroup Adjusts Price Target on DuPont de Nemours to $170 From $168, Maintains Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/citigroup-adjusts-price-target-dupont-093313899.html",
+   "published_unix": 1782984793,
+   "captured_at": "2026-07-02T13:01:39"
+  },
+  {
+   "uuid": "afff8b51-f16b-388d-ba78-d4ee70d14c5a",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Goldman Sachs Adjusts Price Target on Comcast to $26 From $29, Maintains Neutral Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-adjusts-price-target-093256418.html",
+   "published_unix": 1782984776,
+   "captured_at": "2026-07-02T13:00:44"
+  },
+  {
+   "uuid": "a66f60b2-4749-3eda-84c0-8911aac593c6",
+   "tickers": [
+    "WST"
+   ],
+   "company": "WEST PHARMACEUTICAL SERVICES INC",
+   "title": "KeyBanc Adjusts PT on West Pharmaceutical Services to $390 From $350, Maintains Overweight Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/keybanc-adjusts-pt-west-pharmaceutical-092730870.html",
+   "published_unix": 1782984450,
+   "captured_at": "2026-07-02T13:01:00"
+  },
   {
    "uuid": "74815f3d-dde5-3df3-a55a-60d605d5c822",
    "tickers": [
@@ -2087,174 +2135,6 @@
    "publisher": "MT Newswires",
    "link": "https://finance.yahoo.com/healthcare/articles/bio-techne-acquired-germany-apos-130708967.html",
    "published_unix": 1782392828,
-   "captured_at": "2026-06-25T13:23:23"
-  },
-  {
-   "uuid": "ddf20713-faa4-3b33-b92f-7d622dd13991",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Germany\u2019s Merck Is Buying Bio-Techne for $11.3 Billion",
-   "publisher": "Barrons.com",
-   "link": "https://finance.yahoo.com/m/ddf20713-faa4-3b33-b92f-7d622dd13991/germany%E2%80%99s-merck-is-buying.html",
-   "published_unix": 1782392040,
-   "captured_at": "2026-06-25T13:23:23"
-  },
-  {
-   "uuid": "ef45c490-9ff0-31eb-aa15-5c86e6d8647d",
-   "tickers": [
-    "HSY"
-   ],
-   "company": "HERSHEY CO",
-   "title": "BofA Trims Price Target on Hershey to $200 From $220",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-trims-price-target-hershey-120059949.html",
-   "published_unix": 1782388859,
-   "captured_at": "2026-06-25T13:23:22"
-  },
-  {
-   "uuid": "18910a72-1f9b-3e74-84d6-0a1037d5b723",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "New Street Trims Price Target on Comcast to $30 From $31, Maintains Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/street-trims-price-target-comcast-114132195.html",
-   "published_unix": 1782387692,
-   "captured_at": "2026-06-25T13:22:33"
-  },
-  {
-   "uuid": "491b1215-61b4-3d55-bf34-6de8ccc87bfa",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Merck Gains FDA Approval for Keytruda Plus Trodelvy in PD-L1 Positive Breast Cancer",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/merck-gains-fda-approval-keytruda-112546058.html",
-   "published_unix": 1782386746,
-   "captured_at": "2026-06-25T13:23:23"
-  },
-  {
-   "uuid": "372b4cc2-4415-3899-8a1c-67522a998362",
-   "tickers": [
-    "PHIO"
-   ],
-   "company": "Phio Pharmaceuticals Corp.",
-   "title": "Phio Pharmaceuticals Announces \"How siRNA Therapy can Change the Course of Cancer Treatment\" in a Fireside Chat with Force Family Office on Monday, June 29, 2026",
-   "publisher": "TMX Newsfile",
-   "link": "https://finance.yahoo.com/healthcare/articles/phio-pharmaceuticals-announces-sirna-therapy-110000386.html",
-   "published_unix": 1782385200,
-   "captured_at": "2026-06-25T13:23:14"
-  },
-  {
-   "uuid": "81d5702c-9a73-396f-bcfb-4b6f8419d8c5",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Germany\u2019s Merck to Acquire Bio-Techne in $11.3 Billion Deal",
-   "publisher": "InvestorsHub",
-   "link": "https://finance.yahoo.com/m/81d5702c-9a73-396f-bcfb-4b6f8419d8c5/germany%E2%80%99s-merck-to-acquire.html",
-   "published_unix": 1782385056,
-   "captured_at": "2026-06-25T13:23:23"
-  },
-  {
-   "uuid": "71df56e6-34a2-3ac7-bc9e-bdb67e786088",
-   "tickers": [
-    "PASG"
-   ],
-   "company": "Passage BIO, Inc.",
-   "title": "Remix to go public in reverse merger with once high-flying Passage Bio",
-   "publisher": "BioPharma Dive",
-   "link": "https://finance.yahoo.com/m/71df56e6-34a2-3ac7-bc9e-bdb67e786088/remix-to-go-public-in-reverse.html",
-   "published_unix": 1782384908,
-   "captured_at": "2026-06-25T16:29:10"
-  },
-  {
-   "uuid": "f678620d-2c0c-3be5-9e44-685b390732a2",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Germany's Merck to buy Bio-Techne for $11.3 billion",
-   "publisher": "Reuters",
-   "link": "https://finance.yahoo.com/news/germanys-merck-buy-bio-techne-102620018.html",
-   "published_unix": 1782383180,
-   "captured_at": "2026-06-25T13:23:23"
-  },
-  {
-   "uuid": "4fbcda73-692a-3ba3-bd59-28b2a84fa760",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Merck KGaA, Darmstadt, Germany, Agrees to Acquire Bio-Techne, Strengthening Leadership Position in Fast-Growing Life Sciences Markets",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/merck-kgaa-darmstadt-germany-agrees-101000920.html",
-   "published_unix": 1782382200,
-   "captured_at": "2026-06-25T13:23:23"
-  },
-  {
-   "uuid": "f40b3f41-6919-340f-9bce-26828c92ad98",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Germany\u2019s Merck to Buy Bio-Techne for $11 Billion",
-   "publisher": "The Wall Street Journal",
-   "link": "https://finance.yahoo.com/m/f40b3f41-6919-340f-9bce-26828c92ad98/germany%E2%80%99s-merck-to-buy.html",
-   "published_unix": 1782382080,
-   "captured_at": "2026-06-25T13:23:23"
-  },
-  {
-   "uuid": "bf0205bc-3b60-3d4b-9113-39c32e67bffa",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Merck Reviews Regional Distribution Hub Plan In Abu Dhabi",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/merck-reviews-regional-distribution-hub-100754738.html",
-   "published_unix": 1782382074,
-   "captured_at": "2026-06-25T13:23:23"
-  },
-  {
-   "uuid": "b1557443-d8ef-3558-99c8-ad8fe787bab5",
-   "tickers": [
-    "DD"
-   ],
-   "company": "DuPont de Nemours, Inc.",
-   "title": "Goldman Sachs Adjusts Price Target on DuPont de Nemours to $159 From $53, Maintains Neutral Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-adjusts-price-target-095652773.html",
-   "published_unix": 1782381412,
-   "captured_at": "2026-06-25T13:23:24"
-  },
-  {
-   "uuid": "4dfbe00a-d1cf-3a1c-bbe7-b6a20c51bad9",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Market Chatter: Comcast-Owned Sky Agrees Terms to Buy ITV Broadcasting Unit",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/media-advertising/articles/market-chatter-comcast-owned-sky-094220737.html",
-   "published_unix": 1782380540,
-   "captured_at": "2026-06-25T13:22:33"
-  },
-  {
-   "uuid": "f350805d-c273-35fa-86d5-517e8a6c1c1e",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Johnson & Johnson Advances Cardiac Ablation Technology in Europe with Availability of Dual Energy THERMOCOOL SMARTTOUCH SF Platform",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-advances-cardiac-ablation-090000134.html",
-   "published_unix": 1782378000,
    "captured_at": "2026-06-25T13:23:23"
   }
  ]
