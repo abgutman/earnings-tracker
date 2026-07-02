@@ -1,6 +1,42 @@
 {
- "generated_at": "2026-07-02T16:07:33+00:00",
+ "generated_at": "2026-07-02T18:28:21+00:00",
  "items": [
+  {
+   "uuid": "8f54e43f-fa4e-3a81-9d3c-ae3b09b7f327",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Merck Stock, JPMorgan And Two Others Hit New Highs",
+   "publisher": "Investor's Business Daily",
+   "link": "https://finance.yahoo.com/m/8f54e43f-fa4e-3a81-9d3c-ae3b09b7f327/merck-stock%2C-jpmorgan-and-two.html",
+   "published_unix": 1783015478,
+   "captured_at": "2026-07-02T18:28:21"
+  },
+  {
+   "uuid": "67d0d870-2f67-3c47-858c-89153017f823",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "JNJ Stock Management Sees A Breakout, The Market Sees A Standoff",
+   "publisher": "Trefis",
+   "link": "https://finance.yahoo.com/m/67d0d870-2f67-3c47-858c-89153017f823/jnj-stock-management-sees-a.html",
+   "published_unix": 1783013373,
+   "captured_at": "2026-07-02T18:28:20"
+  },
+  {
+   "uuid": "729b2edf-1c3d-358a-b6df-bc3defc7b23b",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "House committee investigates Merck, AbbVie over China trials",
+   "publisher": "TheStreet",
+   "link": "https://finance.yahoo.com/m/729b2edf-1c3d-358a-b6df-bc3defc7b23b/house-committee-investigates.html",
+   "published_unix": 1783008180,
+   "captured_at": "2026-07-02T18:28:21"
+  },
   {
    "uuid": "08ba5d27-def9-3dae-9db2-59e3d47eb5e1",
    "tickers": [
@@ -12,6 +48,18 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/westpark-capital-announces-closing-7-155900817.html",
    "published_unix": 1783007940,
    "captured_at": "2026-07-02T16:07:25"
+  },
+  {
+   "uuid": "38346e9f-6397-3eef-95d8-7123a72a0a86",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Comcast Spinoff Could Rejuvenate Its Depressed Stock",
+   "publisher": "Barrons.com",
+   "link": "https://finance.yahoo.com/m/38346e9f-6397-3eef-95d8-7123a72a0a86/comcast-spinoff-could.html",
+   "published_unix": 1783004880,
+   "captured_at": "2026-07-02T18:27:28"
   },
   {
    "uuid": "74a7104c-5a7d-36d0-a9e5-985c3dcf959f",
@@ -2028,42 +2076,6 @@
    "link": "https://finance.yahoo.com/technology/articles/quaker-houghton-opens-manufacturing-expanded-203000380.html",
    "published_unix": 1782419400,
    "captured_at": "2026-06-25T21:48:14"
-  },
-  {
-   "uuid": "b1524737-6716-31a5-98fe-802128ae6ee1",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Comcast launches new service to win back internet customers",
-   "publisher": "TheStreet",
-   "link": "https://finance.yahoo.com/m/b1524737-6716-31a5-98fe-802128ae6ee1/comcast-launches-new-service.html",
-   "published_unix": 1782410580,
-   "captured_at": "2026-06-25T19:08:08"
-  },
-  {
-   "uuid": "7872c4ab-9ba9-39a2-891e-e644ebe23df3",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers Announces Opening of Vinova in Rancho Cucamonga, California",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-opening-vinova-164700819.html",
-   "published_unix": 1782406020,
-   "captured_at": "2026-06-25T19:08:14"
-  },
-  {
-   "uuid": "6931ea2f-e32d-36b7-95a8-58820026e02e",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Germany\u2019s Merck to Boost Lab-Tools Business With $11 Billion Bio-Techne Deal",
-   "publisher": "The Wall Street Journal",
-   "link": "https://finance.yahoo.com/m/6931ea2f-e32d-36b7-95a8-58820026e02e/germany%E2%80%99s-merck-to-boost.html",
-   "published_unix": 1782403740,
-   "captured_at": "2026-06-25T19:09:01"
   }
  ]
 }
