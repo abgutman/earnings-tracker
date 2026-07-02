@@ -1,6 +1,42 @@
 {
- "generated_at": "2026-07-02T20:22:31+00:00",
+ "generated_at": "2026-07-02T22:11:59+00:00",
  "items": [
+  {
+   "uuid": "42ecc8df-2168-3ae8-b759-5c8efb453f78",
+   "tickers": [
+    "INO"
+   ],
+   "company": "INOVIO PHARMACEUTICALS, INC.",
+   "title": "Inovio Pharmaceuticals Files $300 Million Mixed Shelf Offering",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/inovio-pharmaceuticals-files-300-million-211949776.html",
+   "published_unix": 1783027189,
+   "captured_at": "2026-07-02T22:11:29"
+  },
+  {
+   "uuid": "ce5aa78f-ec1f-393e-b6f6-458048bc9a1f",
+   "tickers": [
+    "AHCO"
+   ],
+   "company": "AdaptHealth Corp.",
+   "title": "AdaptHealth Reports Material Cybersecurity Incident",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/adapthealth-reports-material-cybersecurity-incident-210029487.html",
+   "published_unix": 1783026029,
+   "captured_at": "2026-07-02T22:11:36"
+  },
+  {
+   "uuid": "68e53f64-7416-349e-9fd4-a946b15d6088",
+   "tickers": [
+    "LRMR"
+   ],
+   "company": "Larimar Therapeutics, Inc.",
+   "title": "LRMR Shares Hold Steady As Wall Street Optimism Offsets Drug Safety Concerns",
+   "publisher": "Stocktwits",
+   "link": "https://finance.yahoo.com/m/68e53f64-7416-349e-9fd4-a946b15d6088/lrmr-shares-hold-steady-as.html",
+   "published_unix": 1783024372,
+   "captured_at": "2026-07-02T22:11:28"
+  },
   {
    "uuid": "8f54e43f-fa4e-3a81-9d3c-ae3b09b7f327",
    "tickers": [
@@ -2052,30 +2088,6 @@
    "link": "https://finance.yahoo.com/m/7a5235af-cc45-3f5f-b036-8773f931ddf1/analyst-report%3A-merck-%26-co.%2C.html",
    "published_unix": 1782428376,
    "captured_at": "2026-06-26T02:11:57"
-  },
-  {
-   "uuid": "efb72c3d-ebe2-3bd0-8feb-f6cc4c5984b3",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Peoria, Arizona",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-203700939.html",
-   "published_unix": 1782419820,
-   "captured_at": "2026-06-25T21:47:59"
-  },
-  {
-   "uuid": "4311830c-e5c8-3be7-98e0-ddb18c31c75c",
-   "tickers": [
-    "KWR"
-   ],
-   "company": "QUAKER CHEMICAL CORP",
-   "title": "Quaker Houghton Opens New Manufacturing Site and Expanded Lab in China",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/technology/articles/quaker-houghton-opens-manufacturing-expanded-203000380.html",
-   "published_unix": 1782419400,
-   "captured_at": "2026-06-25T21:48:14"
   }
  ]
 }
