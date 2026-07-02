@@ -1,6 +1,30 @@
 {
- "generated_at": "2026-07-02T13:01:39+00:00",
+ "generated_at": "2026-07-02T16:07:33+00:00",
  "items": [
+  {
+   "uuid": "08ba5d27-def9-3dae-9db2-59e3d47eb5e1",
+   "tickers": [
+    "XHLD"
+   ],
+   "company": "TEN Holdings, Inc.",
+   "title": "WestPark Capital Announces Closing of $7.5 Million Follow On Offering for TEN Holdings, Inc. (Nasdaq: XHLD)",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/westpark-capital-announces-closing-7-155900817.html",
+   "published_unix": 1783007940,
+   "captured_at": "2026-07-02T16:07:25"
+  },
+  {
+   "uuid": "74a7104c-5a7d-36d0-a9e5-985c3dcf959f",
+   "tickers": [
+    "VSH"
+   ],
+   "company": "VISHAY INTERTECHNOLOGY INC",
+   "title": "Vishay Intertechnology 34\u00a0PHE Multi-Turn Absolute Position Sensor Delivers High Accuracy and Stability at a Reduced Cost",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/technology/articles/vishay-intertechnology-34-phe-multi-150000415.html",
+   "published_unix": 1783004400,
+   "captured_at": "2026-07-02T16:06:53"
+  },
   {
    "uuid": "108d2d75-5166-3963-9278-13b988e77434",
    "tickers": [
@@ -2040,102 +2064,6 @@
    "link": "https://finance.yahoo.com/m/6931ea2f-e32d-36b7-95a8-58820026e02e/germany%E2%80%99s-merck-to-boost.html",
    "published_unix": 1782403740,
    "captured_at": "2026-06-25T19:09:01"
-  },
-  {
-   "uuid": "813845b4-4a25-377d-9ea4-06fbbda29ee1",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Top Midday Stories: Micron Shares Soar After Estimate-Topping Earnings Results; Bio-Techne to be Acquired by Merck for $11.3 Billion",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-micron-shares-154056953.html",
-   "published_unix": 1782402056,
-   "captured_at": "2026-06-25T16:29:44"
-  },
-  {
-   "uuid": "2004716e-e048-3f76-903a-0e436f02d474",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "Tennessee American Water Recognizes 250th Birthday of U.S.",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/tennessee-american-water-recognizes-250th-151600300.html",
-   "published_unix": 1782400560,
-   "captured_at": "2026-06-25T16:29:08"
-  },
-  {
-   "uuid": "88e0ad4a-cd3a-3f85-8651-7ebb8a67eb2b",
-   "tickers": [
-    "VSH"
-   ],
-   "company": "VISHAY INTERTECHNOLOGY INC",
-   "title": "Vishay Intertechnology Automotive Grade Phototransistor Optocoupler Delivers High Isolation Voltage Ratings for 800\u00a0V EV Batteries",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/technology/articles/vishay-intertechnology-automotive-grade-phototransistor-150000843.html",
-   "published_unix": 1782399600,
-   "captured_at": "2026-06-25T16:29:04"
-  },
-  {
-   "uuid": "e578dab3-f700-3351-ba87-29fb89a26354",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Merck KGaA to buy Bio-Techne for $11.3bn in life science footprint expansion",
-   "publisher": "Medical Device Network",
-   "link": "https://finance.yahoo.com/m/e578dab3-f700-3351-ba87-29fb89a26354/merck-kgaa-to-buy-bio-techne.html",
-   "published_unix": 1782397344,
-   "captured_at": "2026-06-25T16:29:44"
-  },
-  {
-   "uuid": "9d95b279-888f-305c-acd4-32efbdd08a37",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "American Water Named to TIME's World's Most Sustainable Companies 2026 List",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/american-water-named-times-worlds-140700407.html",
-   "published_unix": 1782396420,
-   "captured_at": "2026-06-25T16:29:08"
-  },
-  {
-   "uuid": "36f95beb-bc18-3f37-8dcf-14575937940e",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "New Phase of Luxury Homes Now Open at Toll Brothers at Woodburn in Leesburg, Virginia",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/phase-luxury-homes-now-open-134500550.html",
-   "published_unix": 1782395100,
-   "captured_at": "2026-06-25T16:29:05"
-  },
-  {
-   "uuid": "518aa627-3126-3357-8dbb-8f1e4e901d74",
-   "tickers": [
-    "HSY"
-   ],
-   "company": "HERSHEY CO",
-   "title": "Hershey taps PepsiCo executive for US president role",
-   "publisher": "Just Food",
-   "link": "https://finance.yahoo.com/m/518aa627-3126-3357-8dbb-8f1e4e901d74/hershey-taps-pepsico.html",
-   "published_unix": 1782392832,
-   "captured_at": "2026-06-25T16:29:43"
-  },
-  {
-   "uuid": "9b007ed3-c8a0-3bf2-80fa-bf98db899e4f",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Bio-Techne to Be Acquired by Germany's Merck in $11.3 Billion Deal",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/bio-techne-acquired-germany-apos-130708967.html",
-   "published_unix": 1782392828,
-   "captured_at": "2026-06-25T13:23:23"
   }
  ]
 }
