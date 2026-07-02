@@ -401,3 +401,5 @@
 [2026-07-02 19:17:57] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
 [2026-07-02 20:53:57] === EDGAR POLL: scanning for new earnings filings (live=True) ===
 [2026-07-02 20:54:33] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
+[2026-07-02 21:59:00] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-07-02 21:59:29] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
