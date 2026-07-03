@@ -125,3 +125,7 @@
 [2026-07-02 22:59:55]   ✉ alert sent for TSEOF
 [2026-07-02 23:00:01] === Done. Captured 1 new save-the-dates, cleaned 0 past. ===
 
+[2026-07-03 22:57:03] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-07-03 22:57:03] Polling Yahoo for 106 companies
+[2026-07-03 22:57:59] === Done. Captured 0 new save-the-dates, cleaned 0 past. ===
+
