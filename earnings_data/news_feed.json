@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-03T12:59:52+00:00",
+ "generated_at": "2026-07-03T15:20:27+00:00",
  "items": [
   {
    "uuid": "fe2655d5-9d9f-3e3c-bbe1-919763299950",
@@ -1992,18 +1992,6 @@
    "link": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-presents-imaavy-nipocalimab-163500549.html",
    "published_unix": 1782491700,
    "captured_at": "2026-06-26T18:56:24"
-  },
-  {
-   "uuid": "a9ad7c2c-77a7-31c1-8756-2853a6b1b0e4",
-   "tickers": [
-    "COBA"
-   ],
-   "company": "Chilean Cobalt Corp.",
-   "title": "Chilean Cobalt Corp. Announces First Rare Earth Carbonate Concentrate Production, Advances Separation Pilot Plant, and Expands Strategic Partner Engagement for NeoRe Project",
-   "publisher": "ACCESS Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/chilean-cobalt-corp-announces-first-130000164.html",
-   "published_unix": 1782478800,
-   "captured_at": "2026-06-26T13:15:29"
   }
  ]
 }
