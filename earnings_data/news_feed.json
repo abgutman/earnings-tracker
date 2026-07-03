@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-03T15:20:27+00:00",
+ "generated_at": "2026-07-03T19:37:16+00:00",
  "items": [
   {
    "uuid": "fe2655d5-9d9f-3e3c-bbe1-919763299950",
@@ -1944,54 +1944,6 @@
    "link": "https://finance.yahoo.com/m/ab1a71d1-30bb-3cbb-a751-6162847ac6e9/analyst-report%3A-the.html",
    "published_unix": 1782503456,
    "captured_at": "2026-06-26T22:17:48"
-  },
-  {
-   "uuid": "e8e3b7bb-9152-3c3e-ae5c-2fe573ac261d",
-   "tickers": [
-    "URBN"
-   ],
-   "company": "URBAN OUTFITTERS INC",
-   "title": "URBAN OUTFITTERS AND DOORDASH CELEBRATE THE CLASS OF 2030 WITH THE ULTIMATE GRADUATION CELEBRATION",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/media-advertising/articles/urban-outfitters-doordash-celebrate-class-170000949.html",
-   "published_unix": 1782493200,
-   "captured_at": "2026-06-26T18:55:42"
-  },
-  {
-   "uuid": "d02429de-2731-3161-9093-8734573652a0",
-   "tickers": [
-    "DD"
-   ],
-   "company": "DuPont de Nemours, Inc.",
-   "title": "Analyst Report: DuPont de Nemours Inc",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/d02429de-2731-3161-9093-8734573652a0/analyst-report%3A-dupont-de.html",
-   "published_unix": 1782493027,
-   "captured_at": "2026-06-26T18:56:25"
-  },
-  {
-   "uuid": "84deaa86-2c3a-3fe7-a24c-f685f47852ea",
-   "tickers": [
-    "DD"
-   ],
-   "company": "DuPont de Nemours, Inc.",
-   "title": "Market Update: BDX, DD",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/84deaa86-2c3a-3fe7-a24c-f685f47852ea/market-update%3A-bdx%2C-dd.html",
-   "published_unix": 1782492127,
-   "captured_at": "2026-06-26T18:56:25"
-  },
-  {
-   "uuid": "a10c5d55-fee3-3392-8874-49dc18ad654d",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Johnson & Johnson presents new IMAAVY\u00ae (nipocalimab-aahu) data at European Academy of Neurology (EAN) 2026 Congress reinforcing sustained disease control in generalized myasthenia gravis",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-presents-imaavy-nipocalimab-163500549.html",
-   "published_unix": 1782491700,
-   "captured_at": "2026-06-26T18:56:24"
   }
  ]
 }
