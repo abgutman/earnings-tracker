@@ -1,6 +1,30 @@
 {
- "generated_at": "2026-07-03T00:11:28+00:00",
+ "generated_at": "2026-07-03T01:53:04+00:00",
  "items": [
+  {
+   "uuid": "fe2655d5-9d9f-3e3c-bbe1-919763299950",
+   "tickers": [
+    "BSY"
+   ],
+   "company": "BENTLEY SYSTEMS INC",
+   "title": "Analyst Report: Bentley Systems, Incorporated",
+   "publisher": "Morningstar Research",
+   "link": "https://finance.yahoo.com/m/fe2655d5-9d9f-3e3c-bbe1-919763299950/analyst-report%3A-bentley.html",
+   "published_unix": 1783033764,
+   "captured_at": "2026-07-03T01:52:17"
+  },
+  {
+   "uuid": "5bab9813-01bc-3097-ab30-3640f9af5e87",
+   "tickers": [
+    "EPAM"
+   ],
+   "company": "EPAM Systems, Inc.",
+   "title": "Analyst Report: EPAM Systems, Inc.",
+   "publisher": "Morningstar Research",
+   "link": "https://finance.yahoo.com/m/5bab9813-01bc-3097-ab30-3640f9af5e87/analyst-report%3A-epam-systems%2C.html",
+   "published_unix": 1783033133,
+   "captured_at": "2026-07-03T01:52:32"
+  },
   {
    "uuid": "42ecc8df-2168-3ae8-b759-5c8efb453f78",
    "tickers": [
