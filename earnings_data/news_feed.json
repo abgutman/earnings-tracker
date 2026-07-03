@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-03T01:53:04+00:00",
+ "generated_at": "2026-07-03T12:59:52+00:00",
  "items": [
   {
    "uuid": "fe2655d5-9d9f-3e3c-bbe1-919763299950",
@@ -2004,90 +2004,6 @@
    "link": "https://finance.yahoo.com/energy/articles/chilean-cobalt-corp-announces-first-130000164.html",
    "published_unix": 1782478800,
    "captured_at": "2026-06-26T13:15:29"
-  },
-  {
-   "uuid": "04d27b47-59b9-341b-9c10-f2db7cb17956",
-   "tickers": [
-    "AVTX"
-   ],
-   "company": "Avalo Therapeutics, Inc.",
-   "title": "Avalo Therapeutics to Join Russell 2000, Russell 3000 Indexes",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/avalo-therapeutics-join-russell-2000-113926502.html",
-   "published_unix": 1782473966,
-   "captured_at": "2026-06-26T13:15:10"
-  },
-  {
-   "uuid": "558bf0a6-468b-3479-87de-d610d25a5f80",
-   "tickers": [
-    "AVTX"
-   ],
-   "company": "Avalo Therapeutics, Inc.",
-   "title": "Avalo Therapeutics to Join the Russell 2000\u00ae and Russell 3000\u00ae Indexes",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/avalo-therapeutics-join-russell-2000-110000872.html",
-   "published_unix": 1782471600,
-   "captured_at": "2026-06-26T13:15:10"
-  },
-  {
-   "uuid": "71d5e0cb-c78f-3ceb-b2a4-1431b574f1cf",
-   "tickers": [
-    "PHIO"
-   ],
-   "company": "Phio Pharmaceuticals Corp.",
-   "title": "Phio Pharmaceuticals Announces Participation in the Renmark Financial Communications Live Virtual Non-Deal Roadshow Series",
-   "publisher": "TMX Newsfile",
-   "link": "https://finance.yahoo.com/healthcare/articles/phio-pharmaceuticals-announces-participation-renmark-110000551.html",
-   "published_unix": 1782471600,
-   "captured_at": "2026-06-26T13:15:23"
-  },
-  {
-   "uuid": "ef32a3e8-d1f5-3d26-b154-5605824d3ded",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "FIVE BELOW, INC",
-   "title": "The Weekly Closeout: Adidas gets into PPE, Five Below fills out C-suite",
-   "publisher": "Retail Dive",
-   "link": "https://finance.yahoo.com/m/ef32a3e8-d1f5-3d26-b154-5605824d3ded/the-weekly-closeout%3A-adidas.html",
-   "published_unix": 1782471300,
-   "captured_at": "2026-06-26T16:20:58"
-  },
-  {
-   "uuid": "58225877-1362-34f2-b7ff-0decfc972d6d",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Guggenheim Adjusts Price Target on Johnson & Johnson to $270 From $266, Maintains Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/guggenheim-adjusts-price-target-johnson-092836429.html",
-   "published_unix": 1782466116,
-   "captured_at": "2026-06-26T13:15:31"
-  },
-  {
-   "uuid": "8c082c4e-cfbd-31c5-b112-6e66a4d50b45",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Analyst Report: Merck KGaA",
-   "publisher": "Morningstar Research",
-   "link": "https://finance.yahoo.com/m/8c082c4e-cfbd-31c5-b112-6e66a4d50b45/analyst-report%3A-merck-kgaa.html",
-   "published_unix": 1782452216,
-   "captured_at": "2026-06-26T13:15:31"
-  },
-  {
-   "uuid": "76574f1d-1c8b-3270-8086-cfd6e55b3d46",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Germany\u2019s Merck Pumps Up Life Sciences Biz with $11.3B Bio-Techne Deal",
-   "publisher": "The Daily Upside",
-   "link": "https://finance.yahoo.com/m/76574f1d-1c8b-3270-8086-cfd6e55b3d46/germany%E2%80%99s-merck-pumps-up-life.html",
-   "published_unix": 1782446460,
-   "captured_at": "2026-06-26T18:56:25"
   }
  ]
 }
