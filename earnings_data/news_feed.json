@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-02T22:11:59+00:00",
+ "generated_at": "2026-07-03T00:11:28+00:00",
  "items": [
   {
    "uuid": "42ecc8df-2168-3ae8-b759-5c8efb453f78",
@@ -2064,30 +2064,6 @@
    "link": "https://finance.yahoo.com/m/76574f1d-1c8b-3270-8086-cfd6e55b3d46/germany%E2%80%99s-merck-pumps-up-life.html",
    "published_unix": 1782446460,
    "captured_at": "2026-06-26T18:56:25"
-  },
-  {
-   "uuid": "d99a7f38-95aa-3fb2-ab0e-2a05bc134ad2",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Analyst Report: Johnson & Johnson",
-   "publisher": "Morningstar Research",
-   "link": "https://finance.yahoo.com/m/d99a7f38-95aa-3fb2-ab0e-2a05bc134ad2/analyst-report%3A-johnson-%26.html",
-   "published_unix": 1782429241,
-   "captured_at": "2026-06-26T02:11:56"
-  },
-  {
-   "uuid": "7a5235af-cc45-3f5f-b036-8773f931ddf1",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Analyst Report: Merck & Co., Inc.",
-   "publisher": "Morningstar Research",
-   "link": "https://finance.yahoo.com/m/7a5235af-cc45-3f5f-b036-8773f931ddf1/analyst-report%3A-merck-%26-co.%2C.html",
-   "published_unix": 1782428376,
-   "captured_at": "2026-06-26T02:11:57"
   }
  ]
 }
