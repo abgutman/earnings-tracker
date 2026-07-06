@@ -83,6 +83,35 @@ def resolve_date(ticker, date_arg, state):
 
 # ============ CAPTURE ============
 
+def _resolved_stream_fresh(ticker, state, max_age_hours=12):
+    """Return resolved_stream_url from capture_state if resolved within max_age_hours, else None."""
+    ts_str = state.get(ticker, {}).get("resolved_at")
+    url = state.get(ticker, {}).get("resolved_stream_url")
+    if not (ts_str and url):
+        return None
+    try:
+        from datetime import timezone as _tz
+        resolved_at = datetime.fromisoformat(ts_str)
+        if resolved_at.tzinfo is None:
+            resolved_at = resolved_at.replace(tzinfo=_tz.utc)
+        age_hours = (datetime.now(_tz.utc) - resolved_at).total_seconds() / 3600
+        if age_hours <= max_age_hours:
+            return url
+    except Exception:
+        pass
+    return None
+
+
+def _is_hls_or_mediaserver(url):
+    """True when ffmpeg should be primary: .m3u8 URL or media-server.com host."""
+    return ".m3u8" in url or "media-server.com" in url
+
+
+def _is_youtube(url):
+    """True for youtube.com or youtu.be URLs — skip yt-dlp (bot-detection on CI)."""
+    return "youtube.com" in url or "youtu.be" in url
+
+
 def do_capture(ticker, date_str, watchlist, state):
     """Try to capture the earnings call audio. Returns path to audio file or None."""
     entry = watchlist.get(ticker)
@@ -90,7 +119,12 @@ def do_capture(ticker, date_str, watchlist, state):
         log(f"ERROR: {ticker} not in watchlist")
         return None
 
-    if entry.get("live"):
+    # Check capture_state for a recently resolved stream URL (from resolve_webcast.py)
+    resolved_url = _resolved_stream_fresh(ticker, state)
+    if resolved_url:
+        log(f"Using resolved_stream_url from capture_state (resolved within 12h): {resolved_url}")
+        webcast_url = resolved_url
+    elif entry.get("live"):
         webcast_url = entry.get("webcast_url")
         if webcast_url:
             log(f"Attempting live stream capture for {ticker} from {webcast_url}")
@@ -113,39 +147,79 @@ def do_capture(ticker, date_str, watchlist, state):
     # Optional: limit duration (seconds) for rehearsals / testing
     max_dur = watchlist.get(ticker, {}).get("max_capture_seconds")
 
-    # Try yt-dlp first (handles YouTube, Vimeo, and many webcast platforms)
-    log(f"Trying yt-dlp for {ticker}...")
-    yt_out = str(out_path) + ".%(ext)s"
-    yt_cmd = ["yt-dlp", "-x", "--audio-format", "mp3", "--audio-quality", "0",
-               "-o", yt_out]
-    if max_dur:
-        yt_cmd += ["--download-sections", f"*0-{max_dur}"]
-    yt_cmd.append(webcast_url)
-    result = subprocess.run(yt_cmd, capture_output=True, text=True, timeout=7200)
-    if result.returncode == 0:
-        # Find the output file
-        for ext in ["mp3", "m4a", "wav", "ogg", "aiff", "aif"]:
-            candidate = out_path.with_suffix(f".{ext}")
-            if candidate.exists():
-                log(f"yt-dlp capture succeeded: {candidate}")
-                return candidate
-    else:
-        log(f"yt-dlp failed: {result.stderr[-500:] if result.stderr else 'no output'}")
+    # For HLS/media-server streams, ffmpeg is primary (yt-dlp can't handle these).
+    # Also skip yt-dlp entirely for YouTube URLs (bot-detection on CI).
+    use_ffmpeg_first = _is_hls_or_mediaserver(webcast_url)
+    skip_ytdlp = _is_youtube(webcast_url) or use_ffmpeg_first
 
-    # Fallback: ffmpeg direct stream (HLS/MP3)
-    log("Trying ffmpeg direct stream capture...")
+    # Hard cap: 2.5 hours for live streams to prevent runaway jobs
+    LIVE_HARD_CAP = 9000
+
+    if not skip_ytdlp:
+        # Try yt-dlp first (handles Vimeo and many webcast platforms)
+        log(f"Trying yt-dlp for {ticker}...")
+        yt_out = str(out_path) + ".%(ext)s"
+        yt_cmd = ["yt-dlp", "-x", "--audio-format", "mp3", "--audio-quality", "0",
+                   "-o", yt_out]
+        if max_dur:
+            yt_cmd += ["--download-sections", f"*0-{max_dur}"]
+        yt_cmd.append(webcast_url)
+        result = subprocess.run(yt_cmd, capture_output=True, text=True, timeout=7200)
+        if result.returncode == 0:
+            # Find the output file
+            for ext in ["mp3", "m4a", "wav", "ogg", "aiff", "aif"]:
+                candidate = out_path.with_suffix(f".{ext}")
+                if candidate.exists():
+                    log(f"yt-dlp capture succeeded: {candidate}")
+                    return candidate
+        else:
+            log(f"yt-dlp failed: {result.stderr[-500:] if result.stderr else 'no output'}")
+    else:
+        if _is_youtube(webcast_url):
+            log(f"Skipping yt-dlp for YouTube URL (bot-detection on CI): {webcast_url}")
+
+    # ffmpeg direct stream (primary for HLS/media-server, fallback otherwise)
+    if use_ffmpeg_first:
+        log(f"ffmpeg primary capture (HLS/media-server stream)...")
+    else:
+        log("Trying ffmpeg direct stream capture (fallback)...")
     mp3_path = out_path.with_suffix(".mp3")
-    result2 = subprocess.run(
-        ["ffmpeg", "-y", "-i", webcast_url,
-         "-acodec", "libmp3lame", "-ar", "16000", "-ac", "1",
-         str(mp3_path)],
-        capture_output=True, text=True, timeout=7200
-    )
+    ffmpeg_cmd = ["ffmpeg", "-y",
+                  "-reconnect", "1", "-reconnect_streamed", "1", "-reconnect_delay_max", "10",
+                  "-i", webcast_url,
+                  "-acodec", "libmp3lame", "-ar", "16000", "-ac", "1"]
+    # Duration cap: explicit max_dur takes precedence; live streams get hard cap
+    cap_secs = max_dur or (LIVE_HARD_CAP if entry.get("live") else None)
+    if cap_secs:
+        ffmpeg_cmd += ["-t", str(cap_secs)]
+    ffmpeg_cmd.append(str(mp3_path))
+    result2 = subprocess.run(ffmpeg_cmd, capture_output=True, text=True, timeout=10800)
     if result2.returncode == 0 and mp3_path.exists():
         log(f"ffmpeg capture succeeded: {mp3_path}")
         return mp3_path
 
     log(f"ffmpeg failed: {result2.stderr[-500:] if result2.stderr else 'no output'}")
+
+    # If ffmpeg was primary and failed, try yt-dlp as last-ditch fallback
+    # (unless it's a YouTube URL or we already tried it above)
+    if use_ffmpeg_first and not _is_youtube(webcast_url):
+        log(f"ffmpeg primary failed — trying yt-dlp as last-ditch fallback...")
+        yt_out = str(out_path) + ".%(ext)s"
+        yt_cmd = ["yt-dlp", "-x", "--audio-format", "mp3", "--audio-quality", "0",
+                   "-o", yt_out]
+        if max_dur:
+            yt_cmd += ["--download-sections", f"*0-{max_dur}"]
+        yt_cmd.append(webcast_url)
+        result3 = subprocess.run(yt_cmd, capture_output=True, text=True, timeout=7200)
+        if result3.returncode == 0:
+            for ext in ["mp3", "m4a", "wav", "ogg", "aiff", "aif"]:
+                candidate = out_path.with_suffix(f".{ext}")
+                if candidate.exists():
+                    log(f"yt-dlp fallback capture succeeded: {candidate}")
+                    return candidate
+        else:
+            log(f"yt-dlp fallback failed: {result3.stderr[-500:] if result3.stderr else 'no output'}")
+
     log(f"All capture methods failed for {ticker}. Setting pending_replay flag.")
     state.setdefault(ticker, {})["pending_replay"] = True
     state[ticker]["pending_replay_date"] = date_str

@@ -53,9 +53,12 @@ jobs:
       - name: Install dependencies
         run: |
           pip install faster-whisper
-          # yt-dlp for webcast capture
+          # yt-dlp for webcast capture (non-HLS sources)
           pip install yt-dlp
-          # ffmpeg for HLS fallback
+          # curl_cffi for Akamai-protected IR pages; playwright for stream sniffing
+          pip install curl_cffi playwright
+          python3 -m playwright install --with-deps chromium
+          # ffmpeg for HLS primary capture
           sudo apt-get install -y ffmpeg
 
       - name: Determine run window (UTC hour)
@@ -176,22 +179,45 @@ jobs:
               print("Call time already passed or imminent — proceeding")
           PYEOF
 
-      - name: Capture audio
+      - name: Check if live run already captured transcript (afternoon guard)
+        id: guard
         if: steps.check.outputs.should_run == 'true'
+        run: |
+          TICKER="${{ steps.check.outputs.ticker }}"
+          DATE="${{ steps.check.outputs.call_date }}"
+          RAW="earnings_data/transcripts_raw/${TICKER}_${DATE}.txt"
+          if [ -f "$RAW" ]; then
+            echo "already_captured=true" >> $GITHUB_OUTPUT
+            echo "::notice::Live run already captured transcript for ${TICKER} ${DATE} — skipping resolve+capture"
+          else
+            echo "already_captured=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Resolve webcast stream URL
+        if: steps.check.outputs.should_run == 'true' && steps.guard.outputs.already_captured != 'true'
+        run: |
+          TICKER="${{ steps.check.outputs.ticker }}"
+          # Mode = 'live' when the run hour is 11 UTC (morning window), else 'replay'
+          RUN_H="${{ steps.window.outputs.run_hour_utc }}"
+          if [ "$RUN_H" = "11" ]; then MODE="live"; else MODE="replay"; fi
+          python3 resolve_webcast.py --ticker "$TICKER" --mode "$MODE"
+
+      - name: Capture audio
+        if: steps.check.outputs.should_run == 'true' && steps.guard.outputs.already_captured != 'true'
         run: |
           python3 capture_call.py capture \
             --ticker "${{ steps.check.outputs.ticker }}" \
             --date "${{ steps.check.outputs.call_date }}"
 
       - name: Transcribe with Whisper
-        if: steps.check.outputs.should_run == 'true'
+        if: steps.check.outputs.should_run == 'true' && steps.guard.outputs.already_captured != 'true'
         run: |
           python3 capture_call.py transcribe \
             --ticker "${{ steps.check.outputs.ticker }}" \
             --date "${{ steps.check.outputs.call_date }}"
 
       - name: Publish gated HTML page
-        if: steps.check.outputs.should_run == 'true'
+        if: steps.check.outputs.should_run == 'true' && steps.guard.outputs.already_captured != 'true'
         run: |
           python3 capture_call.py publish \
             --ticker "${{ steps.check.outputs.ticker }}" \
@@ -209,6 +235,8 @@ jobs:
             "earnings_data/transcripts_raw/${TICKER}_${DATE}.txt" \
             earnings_data/capture_state.json \
             2>/dev/null || true
+          # Also commit transcripts.json if resolve added a transcript_pdf_url
+          git add earnings_data/transcripts.json 2>/dev/null || true
           git diff --cached --quiet && echo "No changes" && exit 0
           git commit -m "Auto: Whisper transcript ${TICKER} ${DATE}"
           ok=0
