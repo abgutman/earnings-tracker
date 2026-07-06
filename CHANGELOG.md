@@ -1,5 +1,31 @@
 # Earnings tracker changelog
 
+## 2026-07-06 — Webcast resolve stage: earnings-call capture is now fully automated
+
+### What changed
+
+**New:** `resolve_webcast.py` — the missing link between "we know a call is happening" and "we have audio to transcribe."
+
+- **Stage A** fetches the company's IR events page (`ir_events_url` in the watchlist) with curl_cffi Chrome impersonation (plain requests are Akamai-blocked), finds the event matching the reported quarter (a July call is the Q2 call — the matcher tries reported quarter first, calendar quarter as fiscal-year fallback), and extracts the webcast player URL, any direct MP3, and official transcript PDFs.
+- **Stage B** opens the player in headless Playwright chromium, auto-fills the soft registration form, and sniffs the HLS audio manifest URL from the browser's network responses. Platform-agnostic: it never parses the player's API, it just watches what the browser fetches.
+- Results land in `capture_state.json` (`resolved_stream_url` etc.); official transcript PDFs are also linked into `transcripts.json` as source "Company IR" so the dashboard shows them next to Motley Fool links.
+
+**Changed:** `capture_call.py` prefers a fresh (<12h) resolved stream URL; ffmpeg is primary for HLS/media-server streams (reconnect flags, 2.5h live hard cap); YouTube is dropped as a source entirely (PO-token enforcement + datacenter-IP flagging make yt-dlp unreliable on CI). `call-capture.yml` installs chromium, runs resolve before capture (mode=live on the 11 UTC run, replay otherwise), and skips the afternoon pass when the morning live capture already produced a transcript.
+
+**Corrected:** Comcast's IR site is `www.cmcsa.com` (Notified/gcs-web, server-rendered) — the June notes saying "investors.comcast.com is NXDOMAIN / Q4Inc JS-only SPA" pointed at the wrong domain. The Q2 2026 player URL was already published on the events page weeks before the call.
+
+### Cloud rehearsal (run 28825876604, 2026-07-06) — full pipeline green on GitHub Actions
+
+Dispatched against the real Q1 2026 replay: **resolve 10s → capture 50-min replay 38s → Whisper transcribe 682s → publish + commit. 13.3 minutes total, unattended.** Notified/Akamai served the GitHub datacenter IP without blocking — no local fallback needed. Spot-check of the Whisper output against Comcast's official LSEG StreetEvents transcript PDF: distinctive phrases match verbatim (proper names garble occasionally — that's what the verify-quotes disclaimer is for). Artifacts: `transcript_CMCSA_2026-04-23.html` (password-gated), `earnings_data/transcripts_raw/CMCSA_2026-04-23.txt`.
+
+### July 23 (Q2 call, 8:30 a.m. ET) is now fully automatic
+
+Morning run (11:03 UTC) sleeps to 8:25, resolves the live stream, captures, transcribes, publishes. Afternoon run (17:03 UTC) catches the replay (posted ~11:30 a.m. ET) if the live pass failed. No manual steps.
+
+### Expanding to more companies
+
+Add a watchlist entry with `ir_events_url` + `next_call_date`/`next_call_time`. Two platform families verified scrapeable so far: Notified/gcs-web (Comcast) and Q4 (`*.q4web.com` — JNJ, FMC, CRS; events page server-rendered, player registration flow not yet sniff-tested).
+
 ## 2026-07-06 — EDGAR firehose detection + cron de-clash
 
 ### EDGAR firehose (primary detection, ~2-minute lag)
