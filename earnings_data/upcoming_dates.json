@@ -87,5 +87,45 @@
   "source_publisher": "GlobeNewswire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-07-02T22:59:54"
+ },
+ "UHS": {
+  "release_date": "2026-07-27",
+  "call_date": "2026-07-28",
+  "call_time": "09:00 ET",
+  "source_url": "https://finance.yahoo.com/healthcare/articles/universal-health-services-inc-announces-201500141.html",
+  "source_title": "UNIVERSAL HEALTH SERVICES, INC. ANNOUNCES DATE FOR SECOND QUARTER 2026 EARNINGS RELEASE AND CONFERENCE CALL",
+  "source_publisher": "PR Newswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-07-06T23:50:39"
+ },
+ "UGI": {
+  "release_date": "2026-08-06",
+  "call_date": null,
+  "call_time": null,
+  "source_url": "https://finance.yahoo.com/energy/articles/ugi-corporation-hold-fiscal-2026-201500080.html",
+  "source_title": "UGI Corporation to Hold Fiscal 2026 Third Quarter Earnings Conference Call on Thursday, August 6",
+  "source_publisher": "Business Wire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-07-06T23:50:42"
+ },
+ "CUBE": {
+  "release_date": "2026-07-30",
+  "call_date": null,
+  "call_time": "11:00 ET",
+  "source_url": "https://finance.yahoo.com/real-estate/articles/cubesmart-announces-date-second-quarter-201500276.html",
+  "source_title": "CubeSmart Announces the Date of Its Second Quarter 2026 Earnings Release and Conference Call",
+  "source_publisher": "GlobeNewswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-07-06T23:50:51"
+ },
+ "VSNT": {
+  "release_date": "2026-08-06",
+  "call_date": null,
+  "call_time": "08:00 ET",
+  "source_url": "https://finance.yahoo.com/media-advertising/articles/versant-report-second-quarter-2026-203000522.html",
+  "source_title": "Versant to Report Second Quarter 2026 Operating and Financial Results",
+  "source_publisher": "Business Wire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-07-06T23:50:54"
  }
 }

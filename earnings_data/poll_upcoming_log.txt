@@ -129,3 +129,19 @@
 [2026-07-03 22:57:03] Polling Yahoo for 106 companies
 [2026-07-03 22:57:59] === Done. Captured 0 new save-the-dates, cleaned 0 past. ===
 
+[2026-07-06 23:50:28] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-07-06 23:50:28] Polling Yahoo for 106 companies
+[2026-07-06 23:50:39]   + UHS: release=2026-07-27 call=2026-07-28 09:00 ET
+[2026-07-06 23:50:39]     via: UNIVERSAL HEALTH SERVICES, INC. ANNOUNCES DATE FOR SECOND QUARTER 2026 EARNINGS RELEASE AND CONFEREN
+[2026-07-06 23:50:40]   ✉ alert sent for UHS
+[2026-07-06 23:50:42]   + UGI: release=2026-08-06 call=None None
+[2026-07-06 23:50:42]     via: UGI Corporation to Hold Fiscal 2026 Third Quarter Earnings Conference Call on Thursday, August 6
+[2026-07-06 23:50:43]   ✉ alert sent for UGI
+[2026-07-06 23:50:51]   + CUBE: release=2026-07-30 call=None 11:00 ET
+[2026-07-06 23:50:51]     via: CubeSmart Announces the Date of Its Second Quarter 2026 Earnings Release and Conference Call
+[2026-07-06 23:50:53]   ✉ alert sent for CUBE
+[2026-07-06 23:50:54]   + VSNT: release=2026-08-06 call=None 08:00 ET
+[2026-07-06 23:50:54]     via: Versant to Report Second Quarter 2026 Operating and Financial Results
+[2026-07-06 23:50:55]   ✉ alert sent for VSNT
+[2026-07-06 23:51:39] === Done. Captured 4 new save-the-dates, cleaned 0 past. ===
+
