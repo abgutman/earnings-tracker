@@ -1,6 +1,198 @@
 {
- "generated_at": "2026-07-04T01:52:13+00:00",
+ "generated_at": "2026-07-06T14:30:18+00:00",
  "items": [
+  {
+   "uuid": "8d0abc6e-fb92-3450-95c4-1b1d4ab44031",
+   "tickers": [
+    "WST"
+   ],
+   "company": "WEST PHARMACEUTICAL SERVICES INC",
+   "title": "Evercore ISI Adjusts Price Target on West Pharmaceutical Services to $410 From $390",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/evercore-isi-adjusts-price-target-131018841.html",
+   "published_unix": 1783343418,
+   "captured_at": "2026-07-06T14:29:45"
+  },
+  {
+   "uuid": "75078c9c-b0b6-3830-80ef-2a20eb3fcc8b",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Comcast Gives Up Old-School TV Media Model: Fox-Roku Steps In",
+   "publisher": "MediaPost",
+   "link": "https://finance.yahoo.com/m/75078c9c-b0b6-3830-80ef-2a20eb3fcc8b/comcast-gives-up-old-school.html",
+   "published_unix": 1783342800,
+   "captured_at": "2026-07-06T14:29:33"
+  },
+  {
+   "uuid": "699f8152-7b23-3fdf-bca7-8c0bbc1c5307",
+   "tickers": [
+    "COBA"
+   ],
+   "company": "Chilean Cobalt Corp.",
+   "title": "Chilean Cobalt Corp. Announces Memorandum of Understanding With Subsidiary of Key Mining Corp, for Long-Term Desalinated Water Supply to Support Responsible Development of La Cobaltera and El Cofre Projects",
+   "publisher": "ACCESS Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/chilean-cobalt-corp-announces-memorandum-130000911.html",
+   "published_unix": 1783342800,
+   "captured_at": "2026-07-06T14:30:16"
+  },
+  {
+   "uuid": "825d12e5-1ed9-3bff-8f11-01f1b891bb97",
+   "tickers": [
+    "STIM"
+   ],
+   "company": "Neuronetics, Inc.",
+   "title": "Neuronetics to Participate in a Panel Discussion at B. Riley Securities' Mind, Muscle & Vision Summit on July 16, 2026",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/neuronetics-participate-panel-discussion-b-123000655.html",
+   "published_unix": 1783341000,
+   "captured_at": "2026-07-06T14:30:03"
+  },
+  {
+   "uuid": "612ef4cc-9e20-347a-8175-061c60e9c177",
+   "tickers": [
+    "VSNT"
+   ],
+   "company": "Versant Media Group, Inc.",
+   "title": "Versant Media to Acquire Sports Technology Firm Full Swing for About $530 Million",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/media-advertising/articles/versant-media-acquire-sports-technology-122738151.html",
+   "published_unix": 1783340858,
+   "captured_at": "2026-07-06T14:29:47"
+  },
+  {
+   "uuid": "3f674484-9c43-3955-b82a-fc080ceb641d",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Comcast's Soon-To-Be-Spun-Off Sky Buying U.K.'s ITV Operations",
+   "publisher": "MediaPost",
+   "link": "https://finance.yahoo.com/m/3f674484-9c43-3955-b82a-fc080ceb641d/comcast%27s-soon-to-be-spun-off.html",
+   "published_unix": 1783340630,
+   "captured_at": "2026-07-06T14:29:33"
+  },
+  {
+   "uuid": "544c0860-a841-3ac7-8d22-3f39c6cc585b",
+   "tickers": [
+    "VSH"
+   ],
+   "company": "VISHAY INTERTECHNOLOGY INC",
+   "title": "Vishay Intertechnology, Inc. Announces Conversion Period for 2.25% Convertible Senior Notes due 2030",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/vishay-intertechnology-inc-announces-conversion-121500635.html",
+   "published_unix": 1783340100,
+   "captured_at": "2026-07-06T14:29:37"
+  },
+  {
+   "uuid": "8723ffc2-3f47-38cc-b470-ca5930d436b8",
+   "tickers": [
+    "AXTA"
+   ],
+   "company": "Axalta Coating Systems Ltd.",
+   "title": "Axalta Schedules Second Quarter 2026 Earnings Conference Call",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/axalta-schedules-second-quarter-2026-120000104.html",
+   "published_unix": 1783339200,
+   "captured_at": "2026-07-06T14:29:36"
+  },
+  {
+   "uuid": "be07555c-9617-3b68-ac49-49ff307a73dc",
+   "tickers": [
+    "VSNT"
+   ],
+   "company": "Versant Media Group, Inc.",
+   "title": "Versant Announces Agreement to Acquire Full Swing",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/media-advertising/articles/versant-announces-agreement-acquire-full-115900388.html",
+   "published_unix": 1783339140,
+   "captured_at": "2026-07-06T14:29:47"
+  },
+  {
+   "uuid": "e6e9a3f7-df9f-3fde-9f5e-3b161c311984",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "HSBC Adjusts Price Target on Johnson & Johnson to $290 From $280",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-adjusts-price-target-johnson-113356148.html",
+   "published_unix": 1783337636,
+   "captured_at": "2026-07-06T14:30:17"
+  },
+  {
+   "uuid": "39ba6f85-23ed-37b0-8e7a-4257b23c401e",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "HSBC Adjusts Price Target on Merck & Co to $150 From $135",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-adjusts-price-target-merck-113340454.html",
+   "published_unix": 1783337620,
+   "captured_at": "2026-07-06T14:30:17"
+  },
+  {
+   "uuid": "055433c9-a560-3ac3-a067-e01d8cc864cd",
+   "tickers": [
+    "AHCO"
+   ],
+   "company": "AdaptHealth Corp.",
+   "title": "AdaptHealth discloses June cyberattack resulting in patient data exposure",
+   "publisher": "Medical Device Network",
+   "link": "https://finance.yahoo.com/m/055433c9-a560-3ac3-a067-e01d8cc864cd/adapthealth-discloses-june.html",
+   "published_unix": 1783336793,
+   "captured_at": "2026-07-06T14:29:53"
+  },
+  {
+   "uuid": "e15fea81-d2f5-3d31-83b0-20c7ac4020d5",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Rothschild & Co Redburn Adjusts Price Target on Merck to $145 From $140",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rothschild-co-redburn-adjusts-price-103713997.html",
+   "published_unix": 1783334233,
+   "captured_at": "2026-07-06T14:30:17"
+  },
+  {
+   "uuid": "0401fb8a-b79c-33d8-b363-364189067670",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Comcast's Sky Agrees to Acquire ITV Media and Entertainment Business for up to $2.13 Billion",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-apos-sky-agrees-acquire-085545800.html",
+   "published_unix": 1783328145,
+   "captured_at": "2026-07-06T14:29:33"
+  },
+  {
+   "uuid": "94ccd3dc-6ea0-3ce5-8a7c-1eb574856ab6",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores, Inc.",
+   "title": "EXCLUSIVE: Burlington\u2019s Transformation: Downsizing Stores and Growing",
+   "publisher": "WWD",
+   "link": "https://finance.yahoo.com/m/94ccd3dc-6ea0-3ce5-8a7c-1eb574856ab6/exclusive%3A-burlington%E2%80%99s.html",
+   "published_unix": 1783310460,
+   "captured_at": "2026-07-06T14:29:43"
+  },
+  {
+   "uuid": "e782d54e-b538-33ff-b2a4-8b0769d8cb93",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "NAVN, JNJ, CRWD Stocks Hit 52-Week Highs Last Week: What's Driving The Surge?",
+   "publisher": "Stocktwits",
+   "link": "https://finance.yahoo.com/m/e782d54e-b538-33ff-b2a4-8b0769d8cb93/navn%2C-jnj%2C-crwd-stocks-hit.html",
+   "published_unix": 1783309610,
+   "captured_at": "2026-07-06T14:30:17"
+  },
   {
    "uuid": "fe2655d5-9d9f-3e3c-bbe1-919763299950",
    "tickers": [
@@ -1608,270 +1800,6 @@
    "link": "https://finance.yahoo.com/m/cc8650a0-d8c3-39c9-ace8-d9e0c52cb207/comcast-plans-to-split-into-2.html",
    "published_unix": 1782743529,
    "captured_at": "2026-06-29T14:49:34"
-  },
-  {
-   "uuid": "bdfe34af-11e3-3b6c-a506-ab02a7c322d6",
-   "tickers": [
-    "SEIC"
-   ],
-   "company": "SEI INVESTMENTS CO",
-   "title": "SEI Canada Makes Changes in Risk Ratings",
-   "publisher": "CNW Group",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/sei-canada-makes-changes-risk-143000550.html",
-   "published_unix": 1782743400,
-   "captured_at": "2026-06-29T14:49:43"
-  },
-  {
-   "uuid": "3689cdb9-0587-39ad-ad3a-790394e1e2ca",
-   "tickers": [
-    "UIS"
-   ],
-   "company": "UNISYS CORP",
-   "title": "Unisys, Antenna Collaborate To Provide Data-Driven Insights for AI-Assisted Software Development",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/technology/ai/articles/unisys-antenna-collaborate-data-driven-142003362.html",
-   "published_unix": 1782742803,
-   "captured_at": "2026-06-29T14:49:42"
-  },
-  {
-   "uuid": "9584f5b7-9984-3349-a393-dd139d8782b4",
-   "tickers": [
-    "QNBC"
-   ],
-   "company": "QNB CORP.",
-   "title": "QNB Corp\u2019s Banking Division, QNB Bank, Announces  Successful Victory Bank Systems Integration",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/small-business/articles/qnb-corp-banking-division-qnb-140900020.html",
-   "published_unix": 1782742140,
-   "captured_at": "2026-06-29T14:50:10"
-  },
-  {
-   "uuid": "ab079482-47ad-32fe-8297-8fa492addb82",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Liberty Broadband Shares Jump as Comcast Announces Media Business Separation (LBRDK)",
-   "publisher": "InvestorsHub",
-   "link": "https://finance.yahoo.com/m/ab079482-47ad-32fe-8297-8fa492addb82/liberty-broadband-shares-jump.html",
-   "published_unix": 1782742053,
-   "captured_at": "2026-06-29T14:49:34"
-  },
-  {
-   "uuid": "65de6d75-0f86-3fbd-a511-ae9ae4897eac",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Wall St indexes climb as US, Iran halt attacks; Comcast surges on spin-off plan",
-   "publisher": "Reuters",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-lead-wall-st-094159548.html",
-   "published_unix": 1782742041,
-   "captured_at": "2026-06-29T14:49:34"
-  },
-  {
-   "uuid": "5a242320-4eba-304d-882e-ca28af1a5d0d",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Comcast Pares Gains Amid Company Split. Is More M&A Coming?",
-   "publisher": "Investor's Business Daily",
-   "link": "https://finance.yahoo.com/m/5a242320-4eba-304d-882e-ca28af1a5d0d/comcast-pares-gains-amid.html",
-   "published_unix": 1782741821,
-   "captured_at": "2026-06-29T14:49:34"
-  },
-  {
-   "uuid": "2d4cbb2f-8756-320d-9abd-8adbca00d763",
-   "tickers": [
-    "LRMR"
-   ],
-   "company": "Larimar Therapeutics, Inc.",
-   "title": "Larimar Therapeutics Shares Drop Following Clinical Update and Regulatory Filing (LRMR)",
-   "publisher": "InvestorsHub",
-   "link": "https://finance.yahoo.com/m/2d4cbb2f-8756-320d-9abd-8adbca00d763/larimar-therapeutics-shares.html",
-   "published_unix": 1782741636,
-   "captured_at": "2026-06-29T14:49:45"
-  },
-  {
-   "uuid": "91fa97e2-0f8e-35b9-8e2b-652d1de59798",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Charter Communications Shares Jump as Comcast Unveils Major Corporate Split (CHTR)",
-   "publisher": "InvestorsHub",
-   "link": "https://finance.yahoo.com/m/91fa97e2-0f8e-35b9-8e2b-652d1de59798/charter-communications-shares.html",
-   "published_unix": 1782741267,
-   "captured_at": "2026-06-29T14:49:34"
-  },
-  {
-   "uuid": "9a24406e-61d0-3daa-b1e5-6c1cabb0f412",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Comcast to Separate NBCUniversal and Sky into Standalone Public Company",
-   "publisher": "InvestorsHub",
-   "link": "https://finance.yahoo.com/m/9a24406e-61d0-3daa-b1e5-6c1cabb0f412/comcast-to-separate.html",
-   "published_unix": 1782741214,
-   "captured_at": "2026-06-29T14:49:34"
-  },
-  {
-   "uuid": "8431514d-8da4-3ec4-ab59-1b7818906d27",
-   "tickers": [
-    "VSNT"
-   ],
-   "company": "Versant Media Group, Inc.",
-   "title": "Comcast to Separate Media and Technology Businesses in Spinoff",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-separate-media-technology-businesses-131249775.html",
-   "published_unix": 1782738769,
-   "captured_at": "2026-06-29T14:49:51"
-  },
-  {
-   "uuid": "87e6ded4-1b18-3c42-bde2-9561f831fa37",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Oppenheimer Adjusts Price Target on Aramark to $65 From $60, Maintains Outperform Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-adjusts-price-target-aramark-130949159.html",
-   "published_unix": 1782738589,
-   "captured_at": "2026-06-29T14:49:34"
-  },
-  {
-   "uuid": "de2c88a5-b734-3bae-aed5-f64e27f65f8a",
-   "tickers": [
-    "LRMR"
-   ],
-   "company": "Larimar Therapeutics, Inc.",
-   "title": "Larimar's Rare Disease Push Just Hit A Key Inflection Point \u2014 What Investors Need To Know",
-   "publisher": "Stocktwits",
-   "link": "https://finance.yahoo.com/m/de2c88a5-b734-3bae-aed5-f64e27f65f8a/larimar%27s-rare-disease-push.html",
-   "published_unix": 1782738168,
-   "captured_at": "2026-06-29T14:49:45"
-  },
-  {
-   "uuid": "21885cbd-044c-3a8a-8d50-a5a251723e2c",
-   "tickers": [
-    "ISSC"
-   ],
-   "company": "INNOVATIVE SOLUTIONS & SUPPORT INC",
-   "title": "Innovative Aerosystems to Join U.S. Small-Cap Russell 2000\u00ae Index",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/innovative-aerosystems-join-u-small-123000980.html",
-   "published_unix": 1782736200,
-   "captured_at": "2026-06-29T14:50:08"
-  },
-  {
-   "uuid": "7d749f8c-0b9b-37d5-9e73-fa0130d91ccd",
-   "tickers": [
-    "LRMR"
-   ],
-   "company": "Larimar Therapeutics, Inc.",
-   "title": "Larimar Therapeutics Files First Module of BLA With US FDA for Nomlabofusp",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/larimar-therapeutics-files-first-module-122659781.html",
-   "published_unix": 1782736019,
-   "captured_at": "2026-06-29T14:49:45"
-  },
-  {
-   "uuid": "64107d9c-8533-3b1a-8de5-474fa3b6ba8c",
-   "tickers": [
-    "OBIO"
-   ],
-   "company": "Orchestra BioMed Holdings, Inc.",
-   "title": "Orchestra BioMed Joins Russell 3000\u00ae and Russell 2000\u00ae Indexes",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/orchestra-biomed-joins-russell-3000-120000252.html",
-   "published_unix": 1782734400,
-   "captured_at": "2026-06-29T14:50:09"
-  },
-  {
-   "uuid": "e5667c38-5364-3812-8492-ed60b59791d4",
-   "tickers": [
-    "ECVT"
-   ],
-   "company": "Ecovyst Inc.",
-   "title": "Ecovyst Issues 2025 Corporate Sustainability Report",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/ecovyst-issues-2025-corporate-sustainability-115600828.html",
-   "published_unix": 1782734160,
-   "captured_at": "2026-06-29T14:49:56"
-  },
-  {
-   "uuid": "28127548-0da7-3e62-add2-c717869fdcd9",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Deutsche Bank Raises Price Target on Aramark to $65 From $54, Keeps Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-raises-price-target-114816097.html",
-   "published_unix": 1782733696,
-   "captured_at": "2026-06-29T14:49:34"
-  },
-  {
-   "uuid": "1ce3a30b-49f7-3930-9c02-c65adf4f58d3",
-   "tickers": [
-    "PVLA"
-   ],
-   "company": "PALVELLA THERAPEUTICS, INC.",
-   "title": "Palvella Therapeutics Submits First Module of Rolling New Drug Application to FDA for QTORIN\u2122 Rapamycin for the Treatment of Microcystic Lymphatic Malformations",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/palvella-therapeutics-submits-first-module-113000891.html",
-   "published_unix": 1782732600,
-   "captured_at": "2026-06-29T14:49:55"
-  },
-  {
-   "uuid": "ca7f0695-9bbf-3530-987a-181dc7dcd010",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Merck Agrees With ADAP Crisis Task Force to Provide Access to HIV Treatment Idvynso",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/merck-agrees-adap-crisis-task-112619136.html",
-   "published_unix": 1782732379,
-   "captured_at": "2026-06-29T14:50:38"
-  },
-  {
-   "uuid": "d01cf692-d98a-36a7-8b43-c1abe5ff8fa2",
-   "tickers": [
-    "VERX"
-   ],
-   "company": "Vertex, Inc.",
-   "title": "TD Cowen Initiates Vertex at Buy With $14 Price Target",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-initiates-vertex-buy-105647738.html",
-   "published_unix": 1782730607,
-   "captured_at": "2026-06-29T14:49:55"
-  },
-  {
-   "uuid": "26bc1d6d-70fa-39ba-bb55-1b0934a913ae",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Merck Announces New Agreement with ADAP Crisis Task Force to Improve Access and Care for People Living with HIV",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/healthcare/articles/merck-announces-agreement-adap-crisis-104500806.html",
-   "published_unix": 1782729900,
-   "captured_at": "2026-06-29T14:50:38"
-  },
-  {
-   "uuid": "7674fef0-15d6-3d6c-b333-f8ce0a6abf48",
-   "tickers": [
-    "LRMR"
-   ],
-   "company": "Larimar Therapeutics, Inc.",
-   "title": "Larimar Therapeutics Reports Positive Open Label Data and Submission of First Module of Rolling BLA for Accelerated Approval of Nomlabofusp for Friedreich\u2019s Ataxia",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/larimar-therapeutics-reports-positive-open-103000000.html",
-   "published_unix": 1782729000,
-   "captured_at": "2026-06-29T14:49:45"
   }
  ]
 }
