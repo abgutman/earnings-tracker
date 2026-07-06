@@ -1,1 +1,9 @@
-{}
+{
+ "CMCSA": {
+  "resolved_stream_url": "https://media.main.pro2.mas.media-server.com/65de114480e6490993311065978e200a/x7urh68z_en_enc1_audio_part1.m3u8",
+  "resolved_player_url": "https://edge.media-server.com/mmc/p/6tkch4qc/",
+  "resolved_at": "2026-07-06T21:55:35+00:00",
+  "resolve_mode": "replay",
+  "transcript_pdf_url": "https://www.cmcsa.com/static-files/9d924deb-f862-43f0-9aae-555f34957b9f"
+ }
+}
