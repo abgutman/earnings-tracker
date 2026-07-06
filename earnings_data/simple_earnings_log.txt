@@ -428,3 +428,12 @@
 [2026-07-06 14:42:13]     https://www.sec.gov/Archives/edgar/data/2067876/000206787626000034/vsnt-20260706.htm
 [2026-07-06 14:42:14]     ✉ alert sent (8k_701)
 [2026-07-06 14:42:31] === EDGAR POLL complete. Fetched 100 companies, 1 new filings. ===
+[2026-07-06 15:24:31] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-07-06 15:24:32]   firehose: 8-K feed — 100 entries parsed
+[2026-07-06 15:24:32]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-07-06 15:24:32]   firehose: 8-K page 2 — 100 entries
+[2026-07-06 15:24:35]   firehose: 10-Q feed — 17 entries parsed
+[2026-07-06 15:24:35]   firehose: all 10-Q entries newer than watermark — fetching page 2
+[2026-07-06 15:24:37]   firehose: 10-Q page 2 — 0 entries
+[2026-07-06 15:24:37]   firehose: 100 watched CIKs, 217 total feed entries
+[2026-07-06 15:24:37] === EDGAR FIREHOSE complete. 0 new detections. ===
