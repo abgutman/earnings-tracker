@@ -1,6 +1,18 @@
 {
- "generated_at": "2026-07-06T14:30:18+00:00",
+ "generated_at": "2026-07-06T18:24:18+00:00",
  "items": [
+  {
+   "uuid": "c6d816d0-e8b8-32c8-a2a3-4b8b08e469ed",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Johnson & Johnson, IBD Stock Of The Day, In Buy Zone Heading Into Earnings",
+   "publisher": "Investor's Business Daily",
+   "link": "https://finance.yahoo.com/m/c6d816d0-e8b8-32c8-a2a3-4b8b08e469ed/johnson-%26-johnson%2C-ibd-stock.html",
+   "published_unix": 1783352496,
+   "captured_at": "2026-07-06T18:24:17"
+  },
   {
    "uuid": "8d0abc6e-fb92-3450-95c4-1b1d4ab44031",
    "tickers": [
@@ -1704,102 +1716,6 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/scotiabank-raises-merck-price-target-184439872.html",
    "published_unix": 1782758679,
    "captured_at": "2026-06-29T20:06:06"
-  },
-  {
-   "uuid": "287d4ef6-c560-36cf-b1b9-df187ad696d7",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Splitting Comcast, NBCU: Advertising Implications?",
-   "publisher": "MediaPost",
-   "link": "https://finance.yahoo.com/m/287d4ef6-c560-36cf-b1b9-df187ad696d7/splitting-comcast%2C-nbcu%3A.html",
-   "published_unix": 1782756162,
-   "captured_at": "2026-06-29T20:05:19"
-  },
-  {
-   "uuid": "78ea25aa-b7c2-3a07-9a87-60932b4df06d",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "\ud83d\udcac Money Quote: Comcast\u2019s Change",
-   "publisher": "The Wall Street Journal",
-   "link": "https://finance.yahoo.com/m/78ea25aa-b7c2-3a07-9a87-60932b4df06d/%F0%9F%92%AC-money-quote%3A-comcast%E2%80%99s.html",
-   "published_unix": 1782752023,
-   "captured_at": "2026-06-29T17:42:35"
-  },
-  {
-   "uuid": "99a9779b-f122-310c-88e8-b9fa8420467d",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Comcast Spinoff Could Spark Next Wave of Media Deals",
-   "publisher": "Barrons.com",
-   "link": "https://finance.yahoo.com/m/99a9779b-f122-310c-88e8-b9fa8420467d/comcast-spinoff-could-spark.html",
-   "published_unix": 1782750540,
-   "captured_at": "2026-06-29T17:42:35"
-  },
-  {
-   "uuid": "b10bddbf-cf12-31c1-a4b9-c8359ab511df",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Comcast, Charter, Rocket Lab, SpaceX, Tesla, and More Stocks That Explain Today\u2019s Market",
-   "publisher": "Barrons.com",
-   "link": "https://finance.yahoo.com/m/b10bddbf-cf12-31c1-a4b9-c8359ab511df/comcast%2C-charter%2C-rocket-lab%2C.html",
-   "published_unix": 1782749460,
-   "captured_at": "2026-06-29T17:42:35"
-  },
-  {
-   "uuid": "0fa97d01-eaf7-3c01-9910-88f6fc1bdf2f",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Aramark Seen Delivering Strong Fiscal Q3 Results, Oppenheimer Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-seen-delivering-strong-fiscal-155608247.html",
-   "published_unix": 1782748568,
-   "captured_at": "2026-06-29T17:42:35"
-  },
-  {
-   "uuid": "51db6467-becb-3965-a4bf-510cf4447e2b",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Aramark Poised for Solid Third Quarter Amid Revenue Outperformance, Oppenheimer Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-poised-solid-third-quarter-151110803.html",
-   "published_unix": 1782745870,
-   "captured_at": "2026-06-29T17:42:35"
-  },
-  {
-   "uuid": "8291ef1c-597c-4fff-be67-beb8ef1cf6e9",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Why Comcast is spinning off NBCUniversal",
-   "publisher": "Yahoo Finance Video",
-   "link": "https://finance.yahoo.com/video/why-comcast-spinning-off-nbcuniversal-143500057.html",
-   "published_unix": 1782743700,
-   "captured_at": "2026-06-29T14:49:34"
-  },
-  {
-   "uuid": "cc8650a0-d8c3-39c9-ace8-d9e0c52cb207",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Comcast plans to split into 2 companies, spinning off NBCUniversal",
-   "publisher": "CBS News",
-   "link": "https://finance.yahoo.com/m/cc8650a0-d8c3-39c9-ace8-d9e0c52cb207/comcast-plans-to-split-into-2.html",
-   "published_unix": 1782743529,
-   "captured_at": "2026-06-29T14:49:34"
   }
  ]
 }
