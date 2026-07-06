@@ -1,5 +1,28 @@
 # Earnings tracker changelog
 
+## 2026-07-06 — EDGAR firehose detection + cron de-clash
+
+### EDGAR firehose (primary detection, ~2-minute lag)
+
+**New:** `edgar-firehose` mode in `simple_earnings.py` + `edgar-firehose.yml` workflow.
+
+**Why:** The submissions API (`data.sec.gov/submissions/`) indexes filings hours after SEC acceptance (observed June 3: accepted 12:25 PM ET, indexed ~4:30 PM). EDGAR's "latest filings" Atom feed (`browse-edgar?action=getcurrent`) shows new filings ~2 minutes after acceptance and one request covers the whole market.
+
+**How it works:**
+- Fetches the 8-K and 10-Q Atom feeds (100 entries each; 2–3 requests/run vs. the old ~100), filters entries client-side against the ~100 watched CIKs from `cache.json`.
+- Classifies exactly like `find_latest_earnings_filing`: 8-K Item 2.02, 8-K Items 7.01+9.01, bare 10-Q. Exact form matches only — amended 8-K/A and 10-Q/A are ignored, same as the submissions path.
+- Dedups on `last_detected_accession` (shared with edgar-poll, so the two modes can never double-email).
+- On a hit, tries one submissions-API confirm for the primary-doc URL; if not yet indexed (common, given the lag), links the filing index page from the feed instead.
+- Watermark in `earnings_data/firehose_state.json` (10-min overlap; fetches page 2 via `&start=100` when page 1 is entirely new — handles the 4:00–4:15 PM avalanche).
+- Shared helper `process_new_filing()` extracted from `edgar_poll()` so cache updates and typed emails are identical in both modes.
+
+**Schedule:** every 10 min pre/post-market (11–13, 20–21 UTC), every 30 min midday, weekdays. `edgar-poll-recent.yml` demoted to a 3x/day reconciliation sweep (`23 13,18,21 * * 1-5`) as the safety net.
+
+### Cron de-clash + push hardening (all workflows)
+
+- Every workflow moved off GitHub's high-load minutes (:00/:15/:30/:45), each on its own minute: news-feed :11, edgar-poll :23, transcript-harvest :43, yahoo-upcoming :53, call-capture :03, firehose :07/:17/.../:57. (Also: busy-biz quotes → :09/:39, bankruptcy-tracker → :21.) GitHub documents that top-of-hour schedules get delayed or skipped under load — the June 13–15 news-feed stall was likely this.
+- Every workflow got `concurrency: group: ${{ github.workflow }}` (no overlapping runs of the same workflow) and a 3-attempt `git pull --rebase && git push` retry loop with backoff (absorbs cross-workflow push races).
+
 ## 2026-06-12 — Transcript link harvester + Whisper capture pipeline
 
 ### Phase 1 — Transcript link harvester

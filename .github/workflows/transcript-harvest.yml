@@ -15,9 +15,11 @@ name: Transcript Harvest — Motley Fool + Yahoo
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 15 * * 1-5'    # 11:00 AM ET (EDT) weekdays
-    - cron: '0 19 * * 1-5'    # 3:00 PM ET (EDT) weekdays
-    - cron: '0 23 * * 1-5'    # 7:00 PM ET (EDT) weekdays
+    - cron: '43 15,19,23 * * 1-5'   # 11:43 AM, 3:43 PM, 7:43 PM ET (EDT) weekdays
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -58,5 +60,9 @@ jobs:
             2>/dev/null || true
           git diff --cached --quiet && echo "No changes" && exit 0
           git commit -m "Auto: transcript harvest $(date -u +'%Y-%m-%d %H:%M UTC')"
-          git pull --rebase origin main
-          git push
+          ok=0
+          for i in 1 2 3; do
+            if git pull --rebase origin main && git push; then ok=1; break; fi
+            sleep $((i * 7))
+          done
+          if [ "$ok" != "1" ]; then echo "push failed after 3 attempts" >&2; exit 1; fi

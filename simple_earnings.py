@@ -22,13 +22,15 @@ is the next event in the company's cycle.
 State: cache.json (single file, all companies, all tracked events).
 
 Usage:
-  python3 simple_earnings.py init           # build baseline from EDGAR cache
-  python3 simple_earnings.py poll           # poll Yahoo for new save-the-dates / press
-  python3 simple_earnings.py edgar-poll     # refetch EDGAR submissions, detect new 8-K item 2.02 filings
-  python3 simple_earnings.py check-10q      # check EDGAR for 10-Q filings for any pending company
-  python3 simple_earnings.py poll --live    # also send emails
+  python3 simple_earnings.py init             # build baseline from EDGAR cache
+  python3 simple_earnings.py poll             # poll Yahoo for new save-the-dates / press
+  python3 simple_earnings.py edgar-poll       # refetch EDGAR submissions, detect new 8-K item 2.02 filings
+  python3 simple_earnings.py edgar-firehose   # scan EDGAR Atom feeds for near-real-time detection
+  python3 simple_earnings.py check-10q        # check EDGAR for 10-Q filings for any pending company
+  python3 simple_earnings.py poll --live      # also send emails
 """
-import json, os, sys, subprocess, time
+import json, os, re, sys, subprocess, time
+import xml.etree.ElementTree as XMLTree
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
@@ -39,6 +41,7 @@ SUBMISSIONS_CACHE = ED_DIR / "submissions_cache"
 CACHE_FILE = ED_DIR / "cache.json"
 OVERRIDES_FILE = ED_DIR / "manual_overrides.json"
 LOG_FILE = ED_DIR / "simple_earnings_log.txt"
+FIREHOSE_STATE_FILE = ED_DIR / "firehose_state.json"
 
 UA = "Inquirer Newsroom agutman@inquirer.com"
 ET = timezone(timedelta(hours=-4))  # EDT (June)
@@ -266,6 +269,64 @@ def fetch_edgar_submissions(cik):
         log(f"  edgar fetch err for CIK {cik}: {e}")
         return None
 
+def process_new_filing(ticker, info, filing, url, live, now):
+    """Update cache entry and send typed email alert for a newly detected EDGAR filing.
+
+    Parameters
+    ----------
+    ticker  : str  — ticker symbol (cache key)
+    info    : dict — mutable cache entry for this ticker (modified in place)
+    filing  : dict — filing dict with keys: filing_type, accession, filing_date, date, primary_doc
+    url     : str  — direct URL to the filing document (or filing index page from Atom)
+    live    : bool — if True, send email; if False, log what would be sent
+    now     : str  — ISO timestamp for detected_at bookkeeping
+    """
+    ft = filing["filing_type"]  # "8k_202", "8k_701", or "10q"
+    # Canonical detected fields (any type)
+    info["last_detected_date"] = filing["filing_date"]
+    info["last_detected_accession"] = filing["accession"]
+    info["last_detected_type"] = ft
+    info["last_detected_url"] = url
+    info["last_detected_at"] = now
+    # 8-K-specific fields + 10-Q watch (only for press-release types)
+    if ft in ("8k_202", "8k_701"):
+        info["last_8k_date"] = filing["filing_date"]
+        info["last_8k_accession"] = filing["accession"]
+        info["last_8k_url"] = url
+        info["last_8k_detected_at"] = now
+        info["pending_10q_since"] = filing["filing_date"]
+        info["last_10q_url"] = None
+    # Update last_event display anchor
+    if filing["date"] > info.get("last_event_date", ""):
+        info["last_event_date"] = filing["date"]
+        info["last_event_title"] = f"{ft} filed {filing['filing_date']}"
+        info["last_event_source"] = "edgar"
+        info["last_event_url"] = url
+    log(f"  ★ NEW {ft} for {ticker} ({info.get('name','')[:40]}) filed {filing['filing_date']}")
+    log(f"    {url}")
+    name = info.get("name", ticker)
+    if ft == "8k_202":
+        subj = subject_new_report(name, ticker)
+        body = body_new_report_edgar(name, ticker, filing["filing_date"], url,
+                   accepted_at=filing["date"], detected_at=now)
+    elif ft == "8k_701":
+        subj = subject_new_report_701(name, ticker)
+        body = body_new_report_edgar_701(name, ticker, filing["filing_date"], url,
+                   accepted_at=filing["date"], detected_at=now)
+    else:  # 10q
+        subj = subject_10q_filed(name, ticker)
+        body = body_new_report_10q(name, ticker, filing["filing_date"], url,
+                   accepted_at=filing["date"], detected_at=now)
+    if live:
+        try:
+            send_email(subj, body, log_fn=log)
+            log(f"    ✉ alert sent ({ft})")
+        except Exception as e:
+            log(f"    ⚠ email err: {e}")
+    else:
+        log(f"    [no-email] would send: {subj}")
+
+
 def edgar_poll(live=False):
     """For each tracked company, fetch fresh EDGAR submissions. Detect new filings of any
     earnings type (8-K 2.02, 8-K 7.01+9.01, or bare 10-Q). Update cache and send typed alert."""
@@ -290,59 +351,309 @@ def edgar_poll(live=False):
         prev_accession = info.get("last_detected_accession") or info.get("last_8k_accession")
         if latest["accession"] == prev_accession:
             continue  # nothing new
-        # NEW FILING DETECTED
-        ft = latest["filing_type"]  # "8k_202", "8k_701", or "10q"
+        # NEW FILING DETECTED — build URL then delegate to shared helper
         cik_no_pad = int(cik)
         acc_no_clean = latest["accession"].replace("-", "")
         url = f"https://www.sec.gov/Archives/edgar/data/{cik_no_pad}/{acc_no_clean}/{latest['primary_doc']}"
-        # Canonical detected fields (any type)
-        info["last_detected_date"] = latest["filing_date"]
-        info["last_detected_accession"] = latest["accession"]
-        info["last_detected_type"] = ft
-        info["last_detected_url"] = url
-        info["last_detected_at"] = now
-        # 8-K-specific fields + 10-Q watch (only for press-release types)
-        if ft in ("8k_202", "8k_701"):
-            info["last_8k_date"] = latest["filing_date"]
-            info["last_8k_accession"] = latest["accession"]
-            info["last_8k_url"] = url
-            info["last_8k_detected_at"] = now
-            info["pending_10q_since"] = latest["filing_date"]
-            info["last_10q_url"] = None
-        # Update last_event display anchor
-        if latest["date"] > info.get("last_event_date", ""):
-            info["last_event_date"] = latest["date"]
-            info["last_event_title"] = f"{ft} filed {latest['filing_date']}"
-            info["last_event_source"] = "edgar"
-            info["last_event_url"] = url
+        process_new_filing(ticker, info, latest, url, live, now)
         # Update submissions cache on disk
         cf = SUBMISSIONS_CACHE / f"CIK{cik_padded(cik)}.json"
         try: cf.write_text(json.dumps(sub))
         except Exception as e: log(f"  cache write err: {e}")
         new_count += 1
-        log(f"  ★ NEW {ft} for {ticker} ({info.get('name','')[:40]}) filed {latest['filing_date']}")
-        log(f"    {url}")
-        if live:
-            try:
-                name = info.get("name", ticker)
-                if ft == "8k_202":
-                    subj = subject_new_report(name, ticker)
-                    body = body_new_report_edgar(name, ticker, latest["filing_date"], url,
-                               accepted_at=latest["date"], detected_at=now)
-                elif ft == "8k_701":
-                    subj = subject_new_report_701(name, ticker)
-                    body = body_new_report_edgar_701(name, ticker, latest["filing_date"], url,
-                               accepted_at=latest["date"], detected_at=now)
-                else:  # 10q
-                    subj = subject_10q_filed(name, ticker)
-                    body = body_new_report_10q(name, ticker, latest["filing_date"], url,
-                               accepted_at=latest["date"], detected_at=now)
-                send_email(subj, body, log_fn=log)
-                log(f"    ✉ alert sent ({ft})")
-            except Exception as e:
-                log(f"    ⚠ email err: {e}")
     CACHE_FILE.write_text(json.dumps(cache, indent=1))
     log(f"=== EDGAR POLL complete. Fetched {fetched} companies, {new_count} new filings. ===")
+
+# ============ EDGAR FIREHOSE ============
+
+def _fetch_atom_feed(feed_type, start=0):
+    """Fetch an EDGAR 'latest filings' Atom feed. feed_type is '8-K' or '10-Q'.
+    Returns raw XML bytes or None on failure."""
+    url = (f"https://www.sec.gov/cgi-bin/browse-edgar"
+           f"?action=getcurrent&type={feed_type}&count=100&output=atom&start={start}")
+    try:
+        out = subprocess.run(
+            ["curl", "-s", "-A", UA, "-L", "--max-time", "20", url],
+            capture_output=True, timeout=25,
+        )
+        if out.returncode == 0 and out.stdout:
+            return out.stdout
+        log(f"  firehose: {feed_type} feed fetch failed (rc={out.returncode})")
+        return None
+    except Exception as e:
+        log(f"  firehose: {feed_type} feed fetch err: {e}")
+        return None
+
+
+def _parse_atom_entries(xml_bytes):
+    """Parse an Atom feed. Returns list of dicts with keys:
+       cik (zero-padded 10-digit str), accession (with dashes), form, items,
+       updated (ISO str), link (str), filing_date (YYYY-MM-DD str), title (str).
+    """
+    ATOM_NS = "http://www.w3.org/2005/Atom"
+    entries = []
+    try:
+        root = XMLTree.fromstring(xml_bytes)
+    except XMLTree.ParseError as e:
+        log(f"  firehose: XML parse error: {e}")
+        return entries
+
+    for entry in root.findall(f"{{{ATOM_NS}}}entry"):
+        title_el = entry.find(f"{{{ATOM_NS}}}title")
+        title_text = (title_el.text or "") if title_el is not None else ""
+
+        # CIK: extract 10-digit number from title "(0001234567) (Filer)" pattern
+        cik = None
+        m = re.search(r'\((\d{10})\)', title_text)
+        if m:
+            cik = m.group(1)  # already 10-digit from the feed
+        else:
+            # Fallback: try any run of digits that looks like a CIK
+            m2 = re.search(r'\((\d+)\)', title_text)
+            if m2:
+                raw = m2.group(1)
+                try:
+                    cik = f"{int(raw):010d}"
+                except ValueError:
+                    pass
+        if not cik:
+            continue
+
+        # Accession number: from <id> or <summary>
+        id_el = entry.find(f"{{{ATOM_NS}}}id")
+        id_text = (id_el.text or "") if id_el is not None else ""
+        # EDGAR id looks like: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=...&type=8-K...
+        # Accession is also in <summary> as something like "Accession Number: 0001234567-26-000123"
+        summary_el = entry.find(f"{{{ATOM_NS}}}summary")
+        summary_text = (summary_el.text or "") if summary_el is not None else ""
+
+        acc_m = re.search(r'(\d{10}-\d{2}-\d{6})', summary_text + " " + id_text)
+        accession = acc_m.group(1) if acc_m else ""
+
+        # Form type from <category term="8-K"> or similar
+        cat_el = entry.find(f"{{{ATOM_NS}}}category")
+        form = ""
+        if cat_el is not None:
+            form = cat_el.get("term", "") or cat_el.get("label", "")
+        # Also try from title (e.g. "COMPANY NAME (0001234567) (Filer)")
+        # The title contains the form type sometimes; rely on category
+
+        # Items: from <summary> text, e.g. "Items 2.02, 9.01"
+        items_m = re.findall(r'Item\s+(\d+\.\d+)', summary_text, re.IGNORECASE)
+        items = ", ".join(items_m)
+
+        # Updated timestamp
+        updated_el = entry.find(f"{{{ATOM_NS}}}updated")
+        updated = (updated_el.text or "") if updated_el is not None else ""
+
+        # Filing date: derive from updated (YYYY-MM-DD portion), good enough
+        filing_date = updated[:10] if updated else ""
+
+        # Link: <link href="...">
+        link_el = entry.find(f"{{{ATOM_NS}}}link")
+        link = ""
+        if link_el is not None:
+            link = link_el.get("href", "")
+
+        entries.append({
+            "cik": cik,
+            "accession": accession,
+            "form": form,
+            "items": items,
+            "updated": updated,
+            "filing_date": filing_date,
+            "link": link,
+            "title": title_text,
+        })
+    return entries
+
+
+def _classify_atom_entry(entry):
+    """Classify an Atom entry exactly like find_latest_earnings_filing.
+    Returns 'skip', '8k_202', '8k_701', or '10q'."""
+    form = entry.get("form", "")
+    items = entry.get("items", "")
+    # Exact form matches — mirrors find_latest_earnings_filing, which ignores
+    # amended filings (8-K/A, 10-Q/A) so the firehose can't alert on them either
+    if form == "8-K":
+        if "2.02" in items:
+            return "8k_202"
+        if "7.01" in items and "9.01" in items:
+            return "8k_701"
+        return "skip"
+    if form == "10-Q":
+        return "10q"
+    return "skip"
+
+
+def edgar_firehose(live=False):
+    """Scan EDGAR latest-filings Atom feeds for near-real-time detection (~2 min lag).
+    Classifies 8-K and 10-Q entries exactly like edgar-poll. Skips entries already
+    in cache (accession dedup). Updates cache and sends typed alerts via process_new_filing."""
+    log(f"=== EDGAR FIREHOSE: scanning Atom feeds (live={live}) ===")
+    if not CACHE_FILE.exists():
+        log("  ⚠ cache.json missing — run `init` first")
+        return
+
+    cache = json.loads(CACHE_FILE.read_text())
+    now = datetime.now(timezone.utc)
+    now_iso = now.isoformat()
+
+    # Build watched map: zero-padded 10-digit CIK → ticker
+    watched = {}
+    for ticker, info in cache.items():
+        cik_raw = info.get("cik")
+        if not cik_raw:
+            continue
+        try:
+            padded = f"{int(cik_raw):010d}"
+        except (ValueError, TypeError):
+            continue
+        watched[padded] = ticker
+
+    # Load watermark state
+    firehose_state = {}
+    if FIREHOSE_STATE_FILE.exists():
+        try:
+            firehose_state = json.loads(FIREHOSE_STATE_FILE.read_text())
+        except Exception:
+            pass
+    last_seen_str = firehose_state.get("last_updated_seen", "")
+    if last_seen_str:
+        try:
+            last_seen_dt = datetime.fromisoformat(last_seen_str)
+            if last_seen_dt.tzinfo is None:
+                last_seen_dt = last_seen_dt.replace(tzinfo=timezone.utc)
+        except ValueError:
+            last_seen_dt = datetime.min.replace(tzinfo=timezone.utc)
+    else:
+        last_seen_dt = datetime.min.replace(tzinfo=timezone.utc)
+
+    # 10-minute overlap to avoid gaps at boundary (skip if watermark is the epoch sentinel)
+    if last_seen_dt == datetime.min.replace(tzinfo=timezone.utc):
+        cutoff_dt = last_seen_dt
+    else:
+        cutoff_dt = last_seen_dt - timedelta(minutes=10)
+
+    def _parse_updated(s):
+        if not s:
+            return datetime.min.replace(tzinfo=timezone.utc)
+        try:
+            dt = datetime.fromisoformat(s)
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            return dt
+        except ValueError:
+            return datetime.min.replace(tzinfo=timezone.utc)
+
+    all_entries = []
+    max_updated = last_seen_dt  # will track new maximum
+
+    for feed_type in ("8-K", "10-Q"):
+        xml_bytes = _fetch_atom_feed(feed_type)
+        if xml_bytes is None:
+            continue
+        entries = _parse_atom_entries(xml_bytes)
+        log(f"  firehose: {feed_type} feed — {len(entries)} entries parsed")
+
+        # If EVERY entry on page 1 is newer than the watermark, fetch page 2 as well
+        if entries and all(_parse_updated(e["updated"]) > last_seen_dt for e in entries):
+            log(f"  firehose: all {feed_type} entries newer than watermark — fetching page 2")
+            xml2 = _fetch_atom_feed(feed_type, start=100)
+            if xml2:
+                page2 = _parse_atom_entries(xml2)
+                log(f"  firehose: {feed_type} page 2 — {len(page2)} entries")
+                entries.extend(page2)
+
+        all_entries.extend(entries)
+
+    log(f"  firehose: {len(watched)} watched CIKs, {len(all_entries)} total feed entries")
+
+    new_detections = 0
+    for entry in all_entries:
+        entry_dt = _parse_updated(entry["updated"])
+
+        # Skip entries older than cutoff (with overlap)
+        if entry_dt <= cutoff_dt:
+            continue
+
+        # Track max updated seen this run
+        if entry_dt > max_updated:
+            max_updated = entry_dt
+
+        # Skip if not a watched company
+        cik = entry["cik"]
+        if cik not in watched:
+            continue
+
+        ticker = watched[cik]
+        info = cache[ticker]
+
+        # Classify
+        filing_type = _classify_atom_entry(entry)
+        if filing_type == "skip":
+            continue
+
+        # Accession dedup — shared key with edgar-poll prevents double-email
+        prev_accession = info.get("last_detected_accession") or info.get("last_8k_accession")
+        if entry["accession"] and entry["accession"] == prev_accession:
+            continue  # already known
+
+        # NEW match — try EDGAR submissions API to get primary doc URL
+        sub = fetch_edgar_submissions(cik)
+        time.sleep(0.12)
+
+        filing = None
+        url = entry["link"]  # fallback: filing index page from Atom
+
+        if sub:
+            # Try to find this exact accession in the live submissions
+            rec = sub.get("filings", {}).get("recent", {}) or {}
+            accessions_live = rec.get("accessionNumber", [])
+            acc_formatted = entry["accession"]  # with dashes
+            if acc_formatted in accessions_live:
+                idx = accessions_live.index(acc_formatted)
+                docs = rec.get("primaryDocument", [])
+                filing_dates = rec.get("filingDate", [])
+                acceptance = rec.get("acceptanceDateTime", [])
+                primary_doc = docs[idx] if idx < len(docs) else ""
+                fd = filing_dates[idx] if idx < len(filing_dates) else entry["filing_date"]
+                acc_dt = acceptance[idx] if idx < len(acceptance) else entry["updated"]
+                if primary_doc:
+                    cik_no_pad = int(cik)
+                    acc_no_clean = acc_formatted.replace("-", "")
+                    url = f"https://www.sec.gov/Archives/edgar/data/{cik_no_pad}/{acc_no_clean}/{primary_doc}"
+                filing = {
+                    "filing_type": filing_type,
+                    "accession": acc_formatted,
+                    "filing_date": fd,
+                    "date": acc_dt,
+                    "primary_doc": primary_doc,
+                }
+
+        if filing is None:
+            # Not yet indexed in submissions API — build from Atom entry
+            filing = {
+                "filing_type": filing_type,
+                "accession": entry["accession"],
+                "filing_date": entry["filing_date"],
+                "date": entry["updated"],
+                "primary_doc": "",
+            }
+
+        process_new_filing(ticker, info, filing, url, live, now_iso)
+        new_detections += 1
+
+    # Save updated cache
+    CACHE_FILE.write_text(json.dumps(cache, indent=1))
+
+    # Write watermark
+    firehose_state["last_updated_seen"] = max_updated.isoformat() if max_updated != datetime.min.replace(tzinfo=timezone.utc) else ""
+    firehose_state["last_run"] = now_iso
+    FIREHOSE_STATE_FILE.write_text(json.dumps(firehose_state, indent=1))
+
+    log(f"=== EDGAR FIREHOSE complete. {new_detections} new detections. ===")
+
 
 # ============ 10-Q WATCH ============
 
@@ -514,6 +825,8 @@ def main():
         poll_all(live=live)
     elif cmd == "edgar-poll":
         edgar_poll(live=live)
+    elif cmd == "edgar-firehose":
+        edgar_firehose(live=live)
     elif cmd == "check-10q":
         check_pending_10qs()
     else:

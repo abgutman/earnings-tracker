@@ -15,7 +15,11 @@ name: Yahoo Poll — Upcoming Earnings
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 22 * * 1-5'   # 6:00 PM ET (EDT) weekdays
+    - cron: '53 22 * * 1-5'   # 6:53 PM ET (EDT) weekdays
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -53,5 +57,9 @@ jobs:
           git add earnings_data/upcoming_dates.json earnings_data/yahoo_upcoming_state.json earnings_data/poll_upcoming_log.txt earnings_data/cache.json earnings_data/simple_earnings_log.txt upcoming_earnings.html recent_earnings.html earnings_notes.html 2>/dev/null || true
           git diff --cached --quiet && echo "No changes" && exit 0
           git commit -m "Auto: Yahoo upcoming poll $(date -u +'%Y-%m-%d %H:%M UTC')"
-          git pull --rebase origin main
-          git push
+          ok=0
+          for i in 1 2 3; do
+            if git pull --rebase origin main && git push; then ok=1; break; fi
+            sleep $((i * 7))
+          done
+          if [ "$ok" != "1" ]; then echo "push failed after 3 attempts" >&2; exit 1; fi

@@ -1,12 +1,14 @@
-name: EDGAR Poll — Recent Earnings
+name: EDGAR Firehose — latest-filings feed
 
-# Schedule: reconciliation sweep — primary detection is edgar-firehose.yml
-# 3x/weekday at offset minutes to avoid GitHub's high-load :00/:15/:30/:45 slots.
+# Primary real-time detection of new earnings filings (8-K 2.02, 8-K 7.01+9.01, 10-Q).
+# Runs every 10 min during pre/post-market windows and every 30 min midday.
+# edgar-poll-recent.yml serves as a 3x/day reconciliation sweep.
 
 on:
-  workflow_dispatch:  # also runs on manual trigger
+  workflow_dispatch:
   schedule:
-    - cron: '23 13,18,21 * * 1-5'   # reconciliation sweep — primary detection is edgar-firehose.yml
+    - cron: '7,17,27,37,47,57 11,12,13,20,21 * * 1-5'   # pre/post-market: every 10 min
+    - cron: '7,37 14-19 * * 1-5'                         # midday: every 30 min
 
 concurrency:
   group: ${{ github.workflow }}
@@ -18,7 +20,7 @@ permissions:
 jobs:
   poll:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
 
     steps:
       - name: Checkout repo
@@ -29,21 +31,24 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Run EDGAR poll
+      - name: Run EDGAR firehose poll
         env:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
         run: |
-          python simple_earnings.py edgar-poll --live
-          python simple_dashboard.py
+          python simple_earnings.py edgar-firehose --live
+
+      - name: Rebuild dashboard if cache changed
+        run: |
+          git diff --quiet earnings_data/cache.json || python simple_dashboard.py
 
       - name: Commit + push if anything changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add earnings_data/cache.json recent_earnings.html upcoming_earnings.html earnings_data/simple_earnings_log.txt 2>/dev/null || true
+          git add earnings_data/cache.json earnings_data/firehose_state.json earnings_data/simple_earnings_log.txt recent_earnings.html 2>/dev/null || true
           git diff --cached --quiet && echo "No changes" && exit 0
-          git commit -m "Auto: EDGAR poll $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git commit -m "Auto: edgar firehose $(date -u +'%Y-%m-%d %H:%M UTC')"
           ok=0
           for i in 1 2 3; do
             if git pull --rebase origin main && git push; then ok=1; break; fi

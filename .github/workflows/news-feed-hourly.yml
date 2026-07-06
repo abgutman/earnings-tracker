@@ -7,9 +7,13 @@ name: News Feed — Hourly
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 11-23 * * 1-5'   # 7 AM through 7 PM ET, weekdays
-    - cron: '0 0 * * 2-6'        # 8 PM ET — fires under "next day" UTC, hence 2-6
+    - cron: '11 11-23 * * 1-5'   # 7 AM through 7 PM ET, weekdays (offset from :00)
+    - cron: '11 0 * * 2-6'       # 8 PM ET — fires under "next day" UTC, hence 2-6
     # The two cron lines together cover 11 AM - midnight UTC = 7 AM - 8 PM ET each weekday.
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -43,5 +47,9 @@ jobs:
           git add earnings_data/news_feed.json news_feed.html earnings_data/news_feed_log.txt 2>/dev/null || true
           git diff --cached --quiet && echo "No changes" && exit 0
           git commit -m "Auto: news feed $(date -u +'%Y-%m-%d %H:%M UTC')"
-          git pull --rebase origin main
-          git push
+          ok=0
+          for i in 1 2 3; do
+            if git pull --rebase origin main && git push; then ok=1; break; fi
+            sleep $((i * 7))
+          done
+          if [ "$ok" != "1" ]; then echo "push failed after 3 attempts" >&2; exit 1; fi
