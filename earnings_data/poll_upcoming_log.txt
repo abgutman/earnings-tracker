@@ -145,3 +145,19 @@
 [2026-07-06 23:50:55]   ✉ alert sent for VSNT
 [2026-07-06 23:51:39] === Done. Captured 4 new save-the-dates, cleaned 0 past. ===
 
+[2026-07-07 23:40:21] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-07-07 23:40:21] Polling Yahoo for 106 companies
+[2026-07-07 23:40:28]   + VSH: release=2026-08-05 call=None None
+[2026-07-07 23:40:28]     via: Vishay Intertechnology to Announce Second Quarter Results on Wednesday, August 5
+[2026-07-07 23:40:30]   ✉ alert sent for VSH
+[2026-07-07 23:40:40]   + WST: release=2026-07-23 call=None 05:00 ET
+[2026-07-07 23:40:40]     via: West to Host Second-Quarter 2026 Conference Call
+[2026-07-07 23:40:41]   ✉ alert sent for WST
+[2026-07-07 23:40:45]   + HLNE: release=2026-08-04 call=None None
+[2026-07-07 23:40:45]     via: Hamilton Lane Incorporated to Announce First Quarter Fiscal 2027 Results on August 4, 2026
+[2026-07-07 23:40:46]   ✉ alert sent for HLNE
+[2026-07-07 23:40:55]   + UVSP: release=None call=2026-07-23 09:00 ET
+[2026-07-07 23:40:55]     via: Univest Financial Corporation to Hold Second Quarter 2026 Earnings Call
+[2026-07-07 23:40:56]   ✉ alert sent for UVSP
+[2026-07-07 23:41:25] === Done. Captured 4 new save-the-dates, cleaned 0 past. ===
+

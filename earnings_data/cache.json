@@ -846,8 +846,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1422183/000110465926078916/tm2619102d1_8k.htm",
   "last_detected_at": "2026-06-29T21:16:54.364536+00:00",
   "last_8k_detected_at": "2026-06-29T21:16:54.364536+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-06-29"
+  "last_10q_url": null
  },
  "KWR": {
   "ticker": "KWR",

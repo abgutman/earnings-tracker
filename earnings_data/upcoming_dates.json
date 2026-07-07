@@ -127,5 +127,45 @@
   "source_publisher": "Business Wire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-07-06T23:50:54"
+ },
+ "VSH": {
+  "release_date": "2026-08-05",
+  "call_date": null,
+  "call_time": null,
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/vishay-intertechnology-announce-second-quarter-201500514.html",
+  "source_title": "Vishay Intertechnology to Announce Second Quarter Results on Wednesday, August 5",
+  "source_publisher": "GlobeNewswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-07-07T23:40:28"
+ },
+ "WST": {
+  "release_date": "2026-07-23",
+  "call_date": null,
+  "call_time": "05:00 ET",
+  "source_url": "https://finance.yahoo.com/healthcare/articles/west-host-second-quarter-2026-100000024.html",
+  "source_title": "West to Host Second-Quarter 2026 Conference Call",
+  "source_publisher": "PR Newswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-07-07T23:40:40"
+ },
+ "HLNE": {
+  "release_date": "2026-08-04",
+  "call_date": null,
+  "call_time": null,
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/hamilton-lane-incorporated-announce-first-110000690.html",
+  "source_title": "Hamilton Lane Incorporated to Announce First Quarter Fiscal 2027 Results on August 4, 2026",
+  "source_publisher": "PR Newswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-07-07T23:40:45"
+ },
+ "UVSP": {
+  "release_date": null,
+  "call_date": "2026-07-23",
+  "call_time": "09:00 ET",
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/univest-financial-corporation-hold-second-155000757.html",
+  "source_title": "Univest Financial Corporation to Hold Second Quarter 2026 Earnings Call",
+  "source_publisher": "GlobeNewswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-07-07T23:40:55"
  }
 }
