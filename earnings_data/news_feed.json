@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-07T21:41:09+00:00",
+ "generated_at": "2026-07-07T23:14:50+00:00",
  "items": [
   {
    "uuid": "3fc6cc0d-ce0d-33f7-b3dd-5320ae8d38da",
@@ -1428,30 +1428,6 @@
    "link": "https://finance.yahoo.com/m/bf5922d3-819d-39ca-bf16-d95ba9baf8b2/cert%3A-raising-target-price-to.html",
    "published_unix": 1782864000,
    "captured_at": "2026-07-01T23:19:59"
-  },
-  {
-   "uuid": "4d474a28-7dca-30d6-ac04-92ea77408f08",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "NBCUniversal eyes video games as it preps for life after Comcast",
-   "publisher": "TheStreet",
-   "link": "https://finance.yahoo.com/m/4d474a28-7dca-30d6-ac04-92ea77408f08/nbcuniversal-eyes-video-games.html",
-   "published_unix": 1782860400,
-   "captured_at": "2026-07-01T02:28:46"
-  },
-  {
-   "uuid": "f4d23ce0-b0dd-30f0-9723-26bd206619bb",
-   "tickers": [
-    "XHLD"
-   ],
-   "company": "TEN Holdings, Inc.",
-   "title": "TEN Closes $7.5 Million Common Stock Offering",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ten-closes-7-5-million-215125827.html",
-   "published_unix": 1782856285,
-   "captured_at": "2026-06-30T23:17:56"
   }
  ]
 }
