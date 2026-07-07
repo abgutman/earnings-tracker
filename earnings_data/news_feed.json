@@ -1,6 +1,18 @@
 {
- "generated_at": "2026-07-07T00:20:27+00:00",
+ "generated_at": "2026-07-07T04:14:04+00:00",
  "items": [
+  {
+   "uuid": "67e7f79d-9e76-34a6-ab42-79e38ec66792",
+   "tickers": [
+    "HSY"
+   ],
+   "company": "HERSHEY CO",
+   "title": "Analyst Report: The Hershey Company",
+   "publisher": "Morningstar Research",
+   "link": "https://finance.yahoo.com/m/67e7f79d-9e76-34a6-ab42-79e38ec66792/analyst-report%3A-the-hershey.html",
+   "published_unix": 1783383183,
+   "captured_at": "2026-07-07T04:14:02"
+  },
   {
    "uuid": "92d9dff9-f6ae-3cb2-9416-2d040514ff20",
    "tickers": [
@@ -1620,30 +1632,6 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/vishay-intertechnology-prices-750-million-082229446.html",
    "published_unix": 1782807749,
    "captured_at": "2026-06-30T13:10:33"
-  },
-  {
-   "uuid": "c6eecd11-acb0-35ba-b1d6-17896948914d",
-   "tickers": [
-    "VSH"
-   ],
-   "company": "VISHAY INTERTECHNOLOGY INC",
-   "title": "Vishay Intertechnology Announces Pricing of Public Offering of Common Stock",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/news/vishay-intertechnology-announces-pricing-public-022400885.html",
-   "published_unix": 1782786240,
-   "captured_at": "2026-06-30T13:10:33"
-  },
-  {
-   "uuid": "5398143a-3819-3502-84ff-6a0c4b91cdf6",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Comcast\u2019s NBCUniversal Spinoff Gives Hollywood Its Next Major Deal Target",
-   "publisher": "The Wall Street Journal",
-   "link": "https://finance.yahoo.com/m/5398143a-3819-3502-84ff-6a0c4b91cdf6/comcast%E2%80%99s-nbcuniversal.html",
-   "published_unix": 1782781200,
-   "captured_at": "2026-06-30T02:11:37"
   }
  ]
 }
