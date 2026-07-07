@@ -1,6 +1,30 @@
 {
- "generated_at": "2026-07-07T16:42:30+00:00",
+ "generated_at": "2026-07-07T19:15:00+00:00",
  "items": [
+  {
+   "uuid": "98c3c763-8131-3110-b50b-b0d07e7fd0ed",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Toll Brothers Opens Two New Townhome Collections at The Crossing at Coal Mountain in Cumming, Georgia",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-opens-two-townhome-182300077.html",
+   "published_unix": 1783448580,
+   "captured_at": "2026-07-07T19:14:18"
+  },
+  {
+   "uuid": "71e97635-e9ed-32d3-ac63-ca6f5075bd44",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Toll Brothers Announces Model Home for Sale at Regency at Ten Trails in Black Diamond, Washington",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-model-home-182300676.html",
+   "published_unix": 1783448580,
+   "captured_at": "2026-07-07T19:14:18"
+  },
   {
    "uuid": "c262426e-cce1-373c-b32c-555dc2e6e385",
    "tickers": [
@@ -1476,54 +1500,6 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/lincoln-financial-report-2026-second-201500356.html",
    "published_unix": 1782850500,
    "captured_at": "2026-06-30T21:02:29"
-  },
-  {
-   "uuid": "19a9744f-798d-3fd2-a158-a4845884d183",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers Grand Opens New Model Home at Camas Meadows Crossing in Camas, Washington",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-grand-opens-model-183800979.html",
-   "published_unix": 1782844680,
-   "captured_at": "2026-06-30T18:59:38"
-  },
-  {
-   "uuid": "4e4b171b-5337-3ab1-96b9-0d6b1b20777f",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "The Comcast-NBCUniversal Spinoff News Could Mean More 'Supersized' Media M&A in 2026",
-   "publisher": "Investopedia",
-   "link": "https://finance.yahoo.com/m/4e4b171b-5337-3ab1-96b9-0d6b1b20777f/the-comcast-nbcuniversal.html",
-   "published_unix": 1782842809,
-   "captured_at": "2026-06-30T21:02:25"
-  },
-  {
-   "uuid": "5758e3fa-605c-301d-aca7-be551f01f33e",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Comcast Split Seen Boosting Deal Potential, UBS Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-split-seen-boosting-deal-170154678.html",
-   "published_unix": 1782838914,
-   "captured_at": "2026-06-30T18:59:31"
-  },
-  {
-   "uuid": "d159ac84-9d46-3511-b472-432e3eba518b",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "CAMPBELL'S Co",
-   "title": "Analyst Report: The Campbell's Company",
-   "publisher": "Morningstar Research",
-   "link": "https://finance.yahoo.com/m/d159ac84-9d46-3511-b472-432e3eba518b/analyst-report%3A-the.html",
-   "published_unix": 1782838257,
-   "captured_at": "2026-07-01T13:35:30"
   }
  ]
 }
