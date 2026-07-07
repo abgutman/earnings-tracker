@@ -1,6 +1,18 @@
 {
- "generated_at": "2026-07-07T19:15:00+00:00",
+ "generated_at": "2026-07-07T21:41:09+00:00",
  "items": [
+  {
+   "uuid": "3fc6cc0d-ce0d-33f7-b3dd-5320ae8d38da",
+   "tickers": [
+    "VSH"
+   ],
+   "company": "VISHAY INTERTECHNOLOGY INC",
+   "title": "Vishay Intertechnology to Announce Second Quarter Results on Wednesday, August 5",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/vishay-intertechnology-announce-second-quarter-201500514.html",
+   "published_unix": 1783455300,
+   "captured_at": "2026-07-07T21:40:21"
+  },
   {
    "uuid": "98c3c763-8131-3110-b50b-b0d07e7fd0ed",
    "tickers": [
@@ -1440,66 +1452,6 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/ten-closes-7-5-million-215125827.html",
    "published_unix": 1782856285,
    "captured_at": "2026-06-30T23:17:56"
-  },
-  {
-   "uuid": "554e9327-a432-3a12-a6fe-d0032ff441e5",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "American Water Works Unit Acquires Hopewell Borough Water System in New Jersey",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/real-estate/articles/american-water-works-unit-acquires-210932445.html",
-   "published_unix": 1782853772,
-   "captured_at": "2026-06-30T23:17:28"
-  },
-  {
-   "uuid": "7fdd1b12-f3b2-3b36-b38c-13546daed5ce",
-   "tickers": [
-    "XHLD"
-   ],
-   "company": "TEN Holdings, Inc.",
-   "title": "TEN Holdings, Inc. Announces Closing of $7.5 Million Offering",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ten-holdings-inc-announces-closing-205700646.html",
-   "published_unix": 1782853020,
-   "captured_at": "2026-06-30T23:17:56"
-  },
-  {
-   "uuid": "1f6dd069-0e8b-3484-a6cf-e77dab147c74",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Why Is JNJ Stock Defying The Market\u2019s Daily Mood Swings?",
-   "publisher": "Trefis",
-   "link": "https://finance.yahoo.com/m/1f6dd069-0e8b-3484-a6cf-e77dab147c74/why-is-jnj-stock-defying-the.html",
-   "published_unix": 1782851051,
-   "captured_at": "2026-06-30T21:03:08"
-  },
-  {
-   "uuid": "349615ee-f929-3710-93ed-4a121479e3c1",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "New Jersey American Water Completes Acquisition of Hopewell Borough Water System",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/jersey-american-water-completes-acquisition-202000249.html",
-   "published_unix": 1782850800,
-   "captured_at": "2026-06-30T21:02:35"
-  },
-  {
-   "uuid": "4c9a6ad4-1471-383a-9095-6c5d3fb80fdc",
-   "tickers": [
-    "LNC"
-   ],
-   "company": "LINCOLN NATIONAL CORP",
-   "title": "Lincoln Financial to Report 2026 Second Quarter Results on July 30",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/lincoln-financial-report-2026-second-201500356.html",
-   "published_unix": 1782850500,
-   "captured_at": "2026-06-30T21:02:29"
   }
  ]
 }
