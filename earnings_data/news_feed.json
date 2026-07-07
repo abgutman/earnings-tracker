@@ -1,6 +1,162 @@
 {
- "generated_at": "2026-07-07T04:14:04+00:00",
+ "generated_at": "2026-07-07T13:26:58+00:00",
  "items": [
+  {
+   "uuid": "8a76c25c-c04b-3995-b917-fd7be91c17da",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Comcast Reaches Construction Milestone in Greater Phillipsburg Expansion, Bringing Xfinity and Comcast Business Services to More New Jersey Communities",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/articles/comcast-reaches-construction-milestone-greater-130000666.html",
+   "published_unix": 1783429200,
+   "captured_at": "2026-07-07T13:26:13"
+  },
+  {
+   "uuid": "1806ddc8-7492-3334-96ab-5de0bc407511",
+   "tickers": [
+    "CERT"
+   ],
+   "company": "Certara, Inc.",
+   "title": "Certara teams up with Nvidia to strengthen AI platform with BioNeMo toolkit (CERT)",
+   "publisher": "InvestorsHub",
+   "link": "https://finance.yahoo.com/m/1806ddc8-7492-3334-96ab-5de0bc407511/certara-teams-up-with-nvidia.html",
+   "published_unix": 1783428863,
+   "captured_at": "2026-07-07T13:26:34"
+  },
+  {
+   "uuid": "c70fa3a0-91c6-3c4f-b095-fb91c0258eac",
+   "tickers": [
+    "WHK"
+   ],
+   "company": "WhiteHawk Income Corp",
+   "title": "Raymond James Initiates WhiteHawk Minerals at Strong Buy With $34 Price Target",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/raymond-james-initiates-whitehawk-minerals-122741828.html",
+   "published_unix": 1783427261,
+   "captured_at": "2026-07-07T13:26:52"
+  },
+  {
+   "uuid": "aac50017-43b5-3705-ab9b-8b1f8042432e",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "What The Selloff In CMCSA Ignores About Its Cash",
+   "publisher": "Trefis",
+   "link": "https://finance.yahoo.com/m/aac50017-43b5-3705-ab9b-8b1f8042432e/what-the-selloff-in-cmcsa.html",
+   "published_unix": 1783427218,
+   "captured_at": "2026-07-07T13:26:13"
+  },
+  {
+   "uuid": "55149e09-c4bd-3bf4-a9dc-d05b86fdfb85",
+   "tickers": [
+    "CERT"
+   ],
+   "company": "Certara, Inc.",
+   "title": "Certara Accelerates Drug Discovery and Development with NVIDIA BioNeMo Agent Toolkit",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/certara-accelerates-drug-discovery-development-120000829.html",
+   "published_unix": 1783425600,
+   "captured_at": "2026-07-07T13:26:34"
+  },
+  {
+   "uuid": "45262c4b-f904-3a64-9436-fc8c995b8e43",
+   "tickers": [
+    "ANVS"
+   ],
+   "company": "Annovis Bio, Inc.",
+   "title": "Annovis Bio Completes Patient Enrollment for Phase 3 Study of Buntanetap in Alzheimer's Disease",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/annovis-bio-completes-patient-enrollment-111840099.html",
+   "published_unix": 1783423120,
+   "captured_at": "2026-07-07T13:26:43"
+  },
+  {
+   "uuid": "c1be0bf1-b967-3b01-aff9-88d93d1e64c2",
+   "tickers": [
+    "HLNE"
+   ],
+   "company": "Hamilton Lane INC",
+   "title": "Hamilton Lane Incorporated to Announce First Quarter Fiscal 2027 Results on August 4, 2026",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/hamilton-lane-incorporated-announce-first-110000690.html",
+   "published_unix": 1783422000,
+   "captured_at": "2026-07-07T13:26:28"
+  },
+  {
+   "uuid": "3ed7b6d1-fb39-39d7-a1ba-bc961f8e8702",
+   "tickers": [
+    "AVTX"
+   ],
+   "company": "Avalo Therapeutics, Inc.",
+   "title": "Avalo Therapeutics to Participate in the Leerink Partners Therapeutics Forum",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/avalo-therapeutics-participate-leerink-partners-110000058.html",
+   "published_unix": 1783422000,
+   "captured_at": "2026-07-07T13:26:34"
+  },
+  {
+   "uuid": "2144fe86-6425-3faa-8591-9da2f23da897",
+   "tickers": [
+    "ANVS"
+   ],
+   "company": "Annovis Bio, Inc.",
+   "title": "Annovis Reaches Full Enrollment in Pivotal Phase 3 Trial of Buntanetap for Early Alzheimer\u2019s Disease",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/annovis-reaches-full-enrollment-pivotal-110000823.html",
+   "published_unix": 1783422000,
+   "captured_at": "2026-07-07T13:26:43"
+  },
+  {
+   "uuid": "7bb805c8-258d-3567-8d9a-c5d17b78189f",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Morgan Stanley Adjusts Price Target on Comcast to $30 From $33",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-price-target-104225943.html",
+   "published_unix": 1783420945,
+   "captured_at": "2026-07-07T13:26:13"
+  },
+  {
+   "uuid": "9b4d7aa6-fc22-3feb-95a4-f1ab0a8ded80",
+   "tickers": [
+    "TFX"
+   ],
+   "company": "TELEFLEX INC",
+   "title": "Teleflex Publishes 2025 Global Impact Report",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/healthcare/articles/teleflex-publishes-2025-global-impact-103000320.html",
+   "published_unix": 1783420200,
+   "captured_at": "2026-07-07T13:26:27"
+  },
+  {
+   "uuid": "a93b23b3-aa05-3a91-b818-300c43d3d280",
+   "tickers": [
+    "WST"
+   ],
+   "company": "WEST PHARMACEUTICAL SERVICES INC",
+   "title": "West to Host Second-Quarter 2026 Conference Call",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/west-host-second-quarter-2026-100000024.html",
+   "published_unix": 1783418400,
+   "captured_at": "2026-07-07T13:26:24"
+  },
+  {
+   "uuid": "c60c7f52-57e8-3fc3-922b-a34056c26394",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Wells Fargo Adjusts Price Target on Comcast to $28 From $29",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-adjusts-price-target-093942804.html",
+   "published_unix": 1783417182,
+   "captured_at": "2026-07-07T13:26:13"
+  },
   {
    "uuid": "67e7f79d-9e76-34a6-ab42-79e38ec66792",
    "tickers": [
@@ -1416,222 +1572,6 @@
    "link": "https://finance.yahoo.com/energy/articles/pennsylvania-american-water-encourages-customers-133700156.html",
    "published_unix": 1782826620,
    "captured_at": "2026-06-30T16:24:35"
-  },
-  {
-   "uuid": "838b1d96-5d53-31f2-bf03-547a9a4f72c8",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Comcast's NBCU split makes Wall Street's math easier",
-   "publisher": "Axios Media",
-   "link": "https://finance.yahoo.com/m/838b1d96-5d53-31f2-bf03-547a9a4f72c8/comcast%27s-nbcu-split-makes.html",
-   "published_unix": 1782824941,
-   "captured_at": "2026-06-30T16:24:24"
-  },
-  {
-   "uuid": "ef4252aa-e21b-3ec0-97c0-98a95b82ca50",
-   "tickers": [
-    "SEIC"
-   ],
-   "company": "SEI INVESTMENTS CO",
-   "title": "SEI Expands SEC-Registered Transfer Agency",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/sei-expands-sec-registered-transfer-130000656.html",
-   "published_unix": 1782824400,
-   "captured_at": "2026-06-30T13:10:37"
-  },
-  {
-   "uuid": "ace61e8f-f0a0-3572-a783-b1d4fb5c8130",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Merck, AbbVie investigated over China military hospital drug trials",
-   "publisher": "Quartz",
-   "link": "https://finance.yahoo.com/m/ace61e8f-f0a0-3572-a783-b1d4fb5c8130/merck%2C-abbvie-investigated.html",
-   "published_unix": 1782824140,
-   "captured_at": "2026-06-30T13:11:18"
-  },
-  {
-   "uuid": "d1360d10-fa48-30d4-a50d-028ecc3d77c3",
-   "tickers": [
-    "PPL"
-   ],
-   "company": "PPL Corp",
-   "title": "Ken Hartwick, former Ontario Power Generation CEO, to join PPL Board of Directors",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/ken-hartwick-former-ontario-power-123000795.html",
-   "published_unix": 1782822600,
-   "captured_at": "2026-06-30T13:11:16"
-  },
-  {
-   "uuid": "f529f929-f783-33b1-ae9f-0b0a758f2a89",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "BofA Securities Adjusts Merck Price Target to $141 From $130, Maintains Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-securities-adjusts-merck-price-121924705.html",
-   "published_unix": 1782821964,
-   "captured_at": "2026-06-30T13:11:18"
-  },
-  {
-   "uuid": "3d95605a-26e0-3646-92d0-0ad935838264",
-   "tickers": [
-    "EPAM"
-   ],
-   "company": "EPAM Systems, Inc.",
-   "title": "EPAM Awarded 2026 Databricks Consulting and Systems Integrator AI Partner of the Year for Helping Enterprises Scale AI into Measurable Business Impact",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/technology/ai/articles/epam-awarded-2026-databricks-consulting-120200612.html",
-   "published_unix": 1782820920,
-   "captured_at": "2026-06-30T13:10:43"
-  },
-  {
-   "uuid": "5eeb98e1-2298-35cd-9169-a1137d27984b",
-   "tickers": [
-    "HSY"
-   ],
-   "company": "HERSHEY CO",
-   "title": "BNP Paribas Adjusts Price Target on Hershey Company to $245 From $240, Maintains Outperform Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-adjusts-price-target-115118611.html",
-   "published_unix": 1782820278,
-   "captured_at": "2026-06-30T13:11:15"
-  },
-  {
-   "uuid": "8d27a251-f12e-3112-aa84-50cb6f732efe",
-   "tickers": [
-    "HSDT"
-   ],
-   "company": "Solana Co",
-   "title": "Solana to Establish Blockchain Partnership With Kazakhstan's Alatau City",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/solana-establish-blockchain-partnership-kazakhstan-114123078.html",
-   "published_unix": 1782819683,
-   "captured_at": "2026-06-30T13:11:01"
-  },
-  {
-   "uuid": "fbe622ab-e590-334b-a9db-d929f15f772d",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Market Chatter: AbbVie, Merck Investigated by US House Committee Over Clinical Trials in China",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/market-chatter-abbvie-merck-investigated-113304381.html",
-   "published_unix": 1782819184,
-   "captured_at": "2026-06-30T13:11:18"
-  },
-  {
-   "uuid": "f6b3c157-2012-3dcb-8f9a-270eb4fc2332",
-   "tickers": [
-    "PVLA"
-   ],
-   "company": "PALVELLA THERAPEUTICS, INC.",
-   "title": "Palvella Therapeutics Appoints Accomplished Rare Disease Biotech Executive and Commercial Leader Matt Pauls, J.D., M.B.A., to Board of Directors",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/palvella-therapeutics-appoints-accomplished-rare-113000906.html",
-   "published_unix": 1782819000,
-   "captured_at": "2026-06-30T13:10:47"
-  },
-  {
-   "uuid": "354f087a-2f7b-371e-9dd4-48c324cb619c",
-   "tickers": [
-    "HRMY"
-   ],
-   "company": "Harmony Biosciences Holdings, Inc.",
-   "title": "Deutsche Bank Adjusts Price Target on Harmony Biosciences to $36 From $30, Maintains Hold Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-adjusts-price-target-112548460.html",
-   "published_unix": 1782818748,
-   "captured_at": "2026-06-30T13:10:39"
-  },
-  {
-   "uuid": "80429882-5279-3458-9aec-1d5a2c358763",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "The Unflappable Dealmaker Tasked With Crafting Comcast\u2019s Next Act",
-   "publisher": "The Wall Street Journal",
-   "link": "https://finance.yahoo.com/m/80429882-5279-3458-9aec-1d5a2c358763/the-unflappable-dealmaker.html",
-   "published_unix": 1782817200,
-   "captured_at": "2026-06-30T13:10:28"
-  },
-  {
-   "uuid": "5102b07b-2342-30b6-8006-6648f56945f0",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Rosenblatt Upgrades Comcast to Buy From Neutral, Adjusts Price Target to $31 From $24",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rosenblatt-upgrades-comcast-buy-neutral-105422400.html",
-   "published_unix": 1782816862,
-   "captured_at": "2026-06-30T13:10:28"
-  },
-  {
-   "uuid": "393a41e5-4ee2-3a38-9776-130261dac6ed",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Could Netflix Make A Move After Comcast's Breakup? Morningstar Sees The Possibility",
-   "publisher": "Stocktwits",
-   "link": "https://finance.yahoo.com/m/393a41e5-4ee2-3a38-9776-130261dac6ed/could-netflix-make-a-move.html",
-   "published_unix": 1782815865,
-   "captured_at": "2026-06-30T13:10:28"
-  },
-  {
-   "uuid": "ad888f0d-2d31-376a-ad65-b8608031add9",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Exclusive-US House committee opens investigation into Merck, AbbVie China drug trials",
-   "publisher": "Reuters",
-   "link": "https://finance.yahoo.com/news/exclusive-us-house-committee-opens-100330881.html",
-   "published_unix": 1782814867,
-   "captured_at": "2026-06-30T13:11:18"
-  },
-  {
-   "uuid": "0eb5696a-362c-3a7e-bdce-d77c9ff8484d",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Comcast\u2019s \u2018amicable divorce\u2019 is latest episode in Hollywood drama",
-   "publisher": "Financial Times",
-   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-amicable-divorce-latest-episode-100005853.html",
-   "published_unix": 1782813605,
-   "captured_at": "2026-06-30T13:10:28"
-  },
-  {
-   "uuid": "731285f4-f002-3318-be01-6474392da65d",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Comcast\u2019s Breakup Is Overdue. It Shouldn\u2019t Rush Into a New Marriage.",
-   "publisher": "The Wall Street Journal",
-   "link": "https://finance.yahoo.com/m/731285f4-f002-3318-be01-6474392da65d/comcast%E2%80%99s-breakup-is-overdue..html",
-   "published_unix": 1782811800,
-   "captured_at": "2026-06-30T13:10:28"
-  },
-  {
-   "uuid": "f9d227b1-8125-35af-a981-9f58bff319c6",
-   "tickers": [
-    "VSH"
-   ],
-   "company": "VISHAY INTERTECHNOLOGY INC",
-   "title": "Vishay Intertechnology Prices $750 Million Common Stock Offering",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/vishay-intertechnology-prices-750-million-082229446.html",
-   "published_unix": 1782807749,
-   "captured_at": "2026-06-30T13:10:33"
   }
  ]
 }
