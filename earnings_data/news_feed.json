@@ -1,6 +1,54 @@
 {
- "generated_at": "2026-07-07T13:26:58+00:00",
+ "generated_at": "2026-07-07T16:42:30+00:00",
  "items": [
+  {
+   "uuid": "c262426e-cce1-373c-b32c-555dc2e6e385",
+   "tickers": [
+    "UVSP"
+   ],
+   "company": "UNIVEST FINANCIAL Corp",
+   "title": "Univest Financial Corporation to Hold Second Quarter 2026 Earnings Call",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/univest-financial-corporation-hold-second-155000757.html",
+   "published_unix": 1783439400,
+   "captured_at": "2026-07-07T16:42:08"
+  },
+  {
+   "uuid": "ab9e8461-c3c6-34ad-94f5-348983c5e3c0",
+   "tickers": [
+    "VSH"
+   ],
+   "company": "VISHAY INTERTECHNOLOGY INC",
+   "title": "Vishay Intertechnology Standard-Level 40 V MOSFETs Prevent False Triggering and Reduce Noise in Motor Control Circuits",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/technology/articles/vishay-intertechnology-standard-level-40-150000240.html",
+   "published_unix": 1783436400,
+   "captured_at": "2026-07-07T16:41:52"
+  },
+  {
+   "uuid": "06ab9f24-de36-3e8b-a5b1-0e46b5fbb48c",
+   "tickers": [
+    "ANVS"
+   ],
+   "company": "Annovis Bio, Inc.",
+   "title": "Annovis Bio Enrolls Over 850 Patients for Its Next Alzheimer's Disease Trial",
+   "publisher": "NYSE",
+   "link": "https://finance.yahoo.com/video/annovis-bio-enrolls-over-850-145156212.html",
+   "published_unix": 1783435916,
+   "captured_at": "2026-07-07T16:42:17"
+  },
+  {
+   "uuid": "7d40b84d-ab15-37d5-9870-8c9f64f4d6bd",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora, Inc.",
+   "title": "Evercore ISI Adjusts Price Target on Cencora to $330 From $300",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/evercore-isi-adjusts-price-target-131756525.html",
+   "published_unix": 1783430276,
+   "captured_at": "2026-07-07T16:41:55"
+  },
   {
    "uuid": "8a76c25c-c04b-3995-b917-fd7be91c17da",
    "tickers": [
@@ -60,6 +108,18 @@
    "link": "https://finance.yahoo.com/healthcare/articles/certara-accelerates-drug-discovery-development-120000829.html",
    "published_unix": 1783425600,
    "captured_at": "2026-07-07T13:26:34"
+  },
+  {
+   "uuid": "48bdf2c8-0a7d-3cad-9a20-f4d313eb41f5",
+   "tickers": [
+    "AHCO"
+   ],
+   "company": "AdaptHealth Corp.",
+   "title": "AdaptHealth discloses patient data was stolen in cyberattack",
+   "publisher": "MedTech Dive",
+   "link": "https://finance.yahoo.com/m/48bdf2c8-0a7d-3cad-9a20-f4d313eb41f5/adapthealth-discloses-patient.html",
+   "published_unix": 1783423146,
+   "captured_at": "2026-07-07T16:42:05"
   },
   {
    "uuid": "45262c4b-f904-3a64-9436-fc8c995b8e43",
@@ -1464,114 +1524,6 @@
    "link": "https://finance.yahoo.com/m/d159ac84-9d46-3511-b472-432e3eba518b/analyst-report%3A-the.html",
    "published_unix": 1782838257,
    "captured_at": "2026-07-01T13:35:30"
-  },
-  {
-   "uuid": "493d0e03-94e3-3561-a3fd-ae14a8b9eced",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Wall Street dealmaker Roger Altman delivers candid Comcast verdict",
-   "publisher": "TheStreet",
-   "link": "https://finance.yahoo.com/m/493d0e03-94e3-3561-a3fd-ae14a8b9eced/wall-street-dealmaker-roger.html",
-   "published_unix": 1782836547,
-   "captured_at": "2026-06-30T18:59:31"
-  },
-  {
-   "uuid": "90708b47-7f4f-31ae-80ed-d90b2a9f7004",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Merck, AbbVie probed by US lawmakers over China clinical trials: report",
-   "publisher": "Proactive",
-   "link": "https://finance.yahoo.com/m/90708b47-7f4f-31ae-80ed-d90b2a9f7004/merck%2C-abbvie-probed-by-us.html",
-   "published_unix": 1782836340,
-   "captured_at": "2026-06-30T19:00:15"
-  },
-  {
-   "uuid": "67226b5b-e626-3dcc-88a0-13426a306388",
-   "tickers": [
-    "HSDT"
-   ],
-   "company": "Solana Co",
-   "title": "Solana Company Partners With Alatau City to Advance Central Asia Blockchain Push",
-   "publisher": "CryptoProwl",
-   "link": "https://finance.yahoo.com/m/67226b5b-e626-3dcc-88a0-13426a306388/solana-company-partners-with.html",
-   "published_unix": 1782834900,
-   "captured_at": "2026-06-30T16:24:57"
-  },
-  {
-   "uuid": "ab7cc8cc-8fa1-3e1b-9dc4-084a77c29484",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Merck's Lung Cancer Drug Seen Boosting Sales Potential, BofA Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/merck-apos-lung-cancer-drug-150733620.html",
-   "published_unix": 1782832053,
-   "captured_at": "2026-06-30T16:25:14"
-  },
-  {
-   "uuid": "675dc82e-d5d5-334c-aa8c-3e7662cc994a",
-   "tickers": [
-    "VSH"
-   ],
-   "company": "VISHAY INTERTECHNOLOGY INC",
-   "title": "Vishay Intertechnology SMD Polymer PTC Thermistors Deliver Fast Resettable Overcurrent Protection While Improving Efficiency",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/technology/articles/vishay-intertechnology-smd-polymer-ptc-150000394.html",
-   "published_unix": 1782831600,
-   "captured_at": "2026-06-30T16:24:29"
-  },
-  {
-   "uuid": "d49e3337-8f26-34b9-b370-09b4351f9d69",
-   "tickers": [
-    "ECVT"
-   ],
-   "company": "Ecovyst Inc.",
-   "title": "Ecovyst Completes Acquisition of Calabrian, Expanding Position as a Leading Provider of Sulfur-Based Chemistries and Technologies",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/ecovyst-completes-acquisition-calabrian-expanding-150000065.html",
-   "published_unix": 1782831600,
-   "captured_at": "2026-06-30T16:24:45"
-  },
-  {
-   "uuid": "69760548-416a-3282-9334-354cb9773403",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Comcast brings back former CFO for CEO ahead of planned split",
-   "publisher": "CFO Dive",
-   "link": "https://finance.yahoo.com/m/69760548-416a-3282-9334-354cb9773403/comcast-brings-back-former.html",
-   "published_unix": 1782830404,
-   "captured_at": "2026-06-30T21:02:25"
-  },
-  {
-   "uuid": "7eb06a10-1465-3f9c-ac5e-3625f944b3ac",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora, Inc.",
-   "title": "Cencora Pick of the Week at Smart Insider Following Chairman's Share Purchase",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/cencora-pick-week-smart-insider-134146124.html",
-   "published_unix": 1782826906,
-   "captured_at": "2026-06-30T16:24:34"
-  },
-  {
-   "uuid": "c2cc67b7-48ee-3f96-86cc-982deb9f03fc",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "Pennsylvania American Water Encourages Customers to Practice Wise Water Use as Hotter, Drier Conditions Raise Drought Concerns Across Commonwealth",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/pennsylvania-american-water-encourages-customers-133700156.html",
-   "published_unix": 1782826620,
-   "captured_at": "2026-06-30T16:24:35"
   }
  ]
 }
