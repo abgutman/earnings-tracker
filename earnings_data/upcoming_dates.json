@@ -167,5 +167,25 @@
   "source_publisher": "GlobeNewswire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-07-07T23:40:55"
+ },
+ "BSY": {
+  "release_date": "2026-08-06",
+  "call_date": null,
+  "call_time": null,
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/bentley-systems-announce-second-quarter-200100614.html",
+  "source_title": "Bentley Systems to Announce Second Quarter 2026 Results on August 6, 2026",
+  "source_publisher": "Business Wire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-07-08T23:52:35"
+ },
+ "SEIC": {
+  "release_date": "2026-07-22",
+  "call_date": null,
+  "call_time": null,
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/sei-announce-second-quarter-2026-130000496.html",
+  "source_title": "SEI to Announce Second-Quarter 2026 Earnings on Wednesday, July 22, 2026",
+  "source_publisher": "PR Newswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-07-08T23:52:41"
  }
 }

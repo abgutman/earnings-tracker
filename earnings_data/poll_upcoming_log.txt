@@ -161,3 +161,13 @@
 [2026-07-07 23:40:56]   ✉ alert sent for UVSP
 [2026-07-07 23:41:25] === Done. Captured 4 new save-the-dates, cleaned 0 past. ===
 
+[2026-07-08 23:52:29] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-07-08 23:52:29] Polling Yahoo for 106 companies
+[2026-07-08 23:52:35]   + BSY: release=2026-08-06 call=None None
+[2026-07-08 23:52:35]     via: Bentley Systems to Announce Second Quarter 2026 Results on August 6, 2026
+[2026-07-08 23:52:36]   ✉ alert sent for BSY
+[2026-07-08 23:52:41]   + SEIC: release=2026-07-22 call=None None
+[2026-07-08 23:52:41]     via: SEI to Announce Second-Quarter 2026 Earnings on Wednesday, July 22, 2026
+[2026-07-08 23:52:42]   ✉ alert sent for SEIC
+[2026-07-08 23:53:26] === Done. Captured 2 new save-the-dates, cleaned 0 past. ===
+
