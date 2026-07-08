@@ -1,6 +1,114 @@
 {
- "generated_at": "2026-07-08T03:39:23+00:00",
+ "generated_at": "2026-07-08T12:51:40+00:00",
  "items": [
+  {
+   "uuid": "c6733787-ad37-3b93-a8ed-2782fc47512e",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "JPMorgan Adjusts Price Target on American Water Works to $147 From $138",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-adjusts-price-target-american-122823046.html",
+   "published_unix": 1783513703,
+   "captured_at": "2026-07-08T12:51:07"
+  },
+  {
+   "uuid": "de442017-0936-3af8-a6ee-302747a81faa",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Johnson & Johnson's Dual Energy Thermocool Smarttouch SF Platform Receives FDA Approval",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-apos-dual-energy-122057570.html",
+   "published_unix": 1783513257,
+   "captured_at": "2026-07-08T12:51:39"
+  },
+  {
+   "uuid": "cb4e2242-5a1d-3eb3-851d-65c0a343053f",
+   "tickers": [
+    "UHS"
+   ],
+   "company": "UNIVERSAL HEALTH SERVICES INC",
+   "title": "Barclays Downgrades Universal Health Services to Equal Weight From Overweight, Adjusts PT to $179 From $238",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/barclays-downgrades-universal-health-services-120322879.html",
+   "published_unix": 1783512202,
+   "captured_at": "2026-07-08T12:51:04"
+  },
+  {
+   "uuid": "e06d309b-fed1-3f33-a343-0851d63dd038",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Morgan Stanley Lifts Price Target on Merck to $113 From $112, Keeps Equalweight Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-lifts-price-target-115645536.html",
+   "published_unix": 1783511805,
+   "captured_at": "2026-07-08T12:51:39"
+  },
+  {
+   "uuid": "360f5fa4-fb9c-3c24-8c52-48c8c4a93958",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Johnson & Johnson Announces FDA Approval for the Dual Energy THERMOCOOL SMARTTOUCH SF Platform",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-announces-fda-approval-114500120.html",
+   "published_unix": 1783511100,
+   "captured_at": "2026-07-08T12:51:39"
+  },
+  {
+   "uuid": "33bb246f-272b-3996-8134-7cfc9d35c654",
+   "tickers": [
+    "AXTA"
+   ],
+   "company": "Axalta Coating Systems Ltd.",
+   "title": "RBC Capital Adjusts Axalta Coating Systems Price Target to $36 From $34, Maintains Sector Perform Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-capital-adjusts-axalta-coating-111721788.html",
+   "published_unix": 1783509441,
+   "captured_at": "2026-07-08T12:51:01"
+  },
+  {
+   "uuid": "72df25cc-aaec-3f9e-803f-fc3d7657fda5",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Former Merck and NASA Leaders Bring Strategic Expertise to SpaceMD Amid Rising Demand for its In-Space Pharmaceutical Development Capabilities",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/healthcare/articles/former-merck-nasa-leaders-bring-110000237.html",
+   "published_unix": 1783508400,
+   "captured_at": "2026-07-08T12:51:39"
+  },
+  {
+   "uuid": "441b51ff-eeb1-346e-ab68-f4870e1faf5b",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Wells Fargo Adjusts Price Target on Merck to $150 From $145",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-adjusts-price-target-101130283.html",
+   "published_unix": 1783505490,
+   "captured_at": "2026-07-08T12:51:39"
+  },
+  {
+   "uuid": "dfdd2f3f-01c5-3f04-a661-5984e55022ea",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Morgan Stanley Adjusts Price Target Johnson & Johnson to $284 From $283, Maintains Overweight Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-price-target-093058050.html",
+   "published_unix": 1783503058,
+   "captured_at": "2026-07-08T12:51:39"
+  },
   {
    "uuid": "3fc6cc0d-ce0d-33f7-b3dd-5320ae8d38da",
    "tickers": [
@@ -936,126 +1044,6 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/carpenter-technology-announces-conference-call-130000003.html",
    "published_unix": 1782910800,
    "captured_at": "2026-07-01T13:35:33"
-  },
-  {
-   "uuid": "caa294b1-2895-3386-8447-4ebc9991bfff",
-   "tickers": [
-    "AVTR"
-   ],
-   "company": "Avantor, Inc.",
-   "title": "Avantor\u00ae to Report Second Quarter 2026 Earnings on Wednesday, July 29, 2026",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/avantor-report-second-quarter-2026-120500471.html",
-   "published_unix": 1782907500,
-   "captured_at": "2026-07-01T13:35:35"
-  },
-  {
-   "uuid": "64262922-6fa9-3fd9-bbb7-1e6f1817403c",
-   "tickers": [
-    "HLNE"
-   ],
-   "company": "Hamilton Lane INC",
-   "title": "Hamilton Lane Holds Final Close of Sixth Direct Equity Fund, Raising $3.8 Billion in and alongside the Fund",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/hamilton-lane-holds-final-close-120000980.html",
-   "published_unix": 1782907200,
-   "captured_at": "2026-07-01T13:35:36"
-  },
-  {
-   "uuid": "a5095cdf-778f-3b1d-912c-ac55b7cf4f80",
-   "tickers": [
-    "ANVS"
-   ],
-   "company": "Annovis Bio, Inc.",
-   "title": "Annovis Appoints Cheng Fang, Ph.D., as Chief Scientific Officer",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/annovis-appoints-cheng-fang-ph-120000112.html",
-   "published_unix": 1782907200,
-   "captured_at": "2026-07-01T13:35:51"
-  },
-  {
-   "uuid": "62a84312-0d03-3eeb-ac88-8a97ce797df7",
-   "tickers": [
-    "EXYN"
-   ],
-   "company": "Exyn Technologies, Inc.",
-   "title": "Exyn Technologies to Host Webinar to Demonstrate AI-Powered Autonomous Mapping for the Construction Industry",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/technology/ai/articles/exyn-technologies-host-webinar-demonstrate-120000455.html",
-   "published_unix": 1782907200,
-   "captured_at": "2026-07-01T13:35:53"
-  },
-  {
-   "uuid": "a2f9bc9b-b6c2-3fd1-9919-21617e3720e3",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "Jefferies Adjusts American Water Works Price Target to $134 From $127, Maintains Hold Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-adjusts-american-water-works-114028275.html",
-   "published_unix": 1782906028,
-   "captured_at": "2026-07-01T13:35:30"
-  },
-  {
-   "uuid": "32571329-93e0-3706-82b4-53d4de5c74ce",
-   "tickers": [
-    "OCGN"
-   ],
-   "company": "Ocugen, Inc.",
-   "title": "Ocugen to Participate in Upcoming July Industry Conferences",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/ocugen-participate-upcoming-july-industry-110000950.html",
-   "published_unix": 1782903600,
-   "captured_at": "2026-07-01T13:35:26"
-  },
-  {
-   "uuid": "113ad4cc-61f5-33cf-a93b-e02e5071acb0",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Merck to Hold Second-Quarter 2026 Sales and Earnings Conference Call Aug. 4",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/healthcare/articles/merck-hold-second-quarter-2026-104500240.html",
-   "published_unix": 1782902700,
-   "captured_at": "2026-07-01T13:36:05"
-  },
-  {
-   "uuid": "4e5591fa-057c-3214-a2cc-4b8199381d7e",
-   "tickers": [
-    "MLYS"
-   ],
-   "company": "Mineralys Therapeutics, Inc.",
-   "title": "Mineralys Therapeutics Insider Sold Shares Worth $2,696,322, According to a Recent SEC Filing",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/mineralys-therapeutics-insider-sold-shares-081054086.html",
-   "published_unix": 1782893454,
-   "captured_at": "2026-07-01T13:35:37"
-  },
-  {
-   "uuid": "9e0c4717-33e5-3d8e-8a96-76d79d7b6011",
-   "tickers": [
-    "MLYS"
-   ],
-   "company": "Mineralys Therapeutics, Inc.",
-   "title": "Mineralys Therapeutics Insider Sold Shares Worth $1,960,601, According to a Recent SEC Filing",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/mineralys-therapeutics-insider-sold-shares-081032321.html",
-   "published_unix": 1782893432,
-   "captured_at": "2026-07-01T13:35:37"
-  },
-  {
-   "uuid": "ea2979ec-116c-326d-98dc-58a5cf72c45f",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC CORP",
-   "title": "FMC to Sell $400 Million of Common to Tessenderlo Group at $13.30 Each",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-sell-400-million-common-074535663.html",
-   "published_unix": 1782891935,
-   "captured_at": "2026-07-01T13:35:22"
   }
  ]
 }
