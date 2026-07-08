@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-08T21:31:03+00:00",
+ "generated_at": "2026-07-08T23:30:49+00:00",
  "items": [
   {
    "uuid": "09538e51-082c-3e99-bf2f-88bdd730c4fc",
@@ -1512,18 +1512,6 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/keybanc-adjusts-pt-west-pharmaceutical-092730870.html",
    "published_unix": 1782984450,
    "captured_at": "2026-07-02T13:01:00"
-  },
-  {
-   "uuid": "74815f3d-dde5-3df3-a55a-60d605d5c822",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "MRK, NEUP Stocks Drop As Merck Scraps Another Alzheimer\u2019s Drug Trial Under Neuphoria Partnership",
-   "publisher": "Stocktwits",
-   "link": "https://finance.yahoo.com/m/74815f3d-dde5-3df3-a55a-60d605d5c822/mrk%2C-neup-stocks-drop-as.html",
-   "published_unix": 1782943304,
-   "captured_at": "2026-07-01T23:20:20"
   }
  ]
 }
