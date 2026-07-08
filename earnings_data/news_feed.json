@@ -1,6 +1,54 @@
 {
- "generated_at": "2026-07-08T15:33:46+00:00",
+ "generated_at": "2026-07-08T17:52:13+00:00",
  "items": [
+  {
+   "uuid": "f60c446f-3777-3d58-9f6c-b2a16fb11e0c",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Former Merck and NASA Veterans Join SpaceMD as Space Pharma Momentum Builds",
+   "publisher": "IPO-Edge.com",
+   "link": "https://finance.yahoo.com/healthcare/articles/former-merck-nasa-veterans-join-171622916.html",
+   "published_unix": 1783530982,
+   "captured_at": "2026-07-08T17:52:13"
+  },
+  {
+   "uuid": "49454542-5094-30f2-b8b1-a9ebf0374469",
+   "tickers": [
+    "DD"
+   ],
+   "company": "DuPont de Nemours, Inc.",
+   "title": "McNICHOLS CO. Announces Appointment of Mateus Panosso as President",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/mcnichols-co-announces-appointment-mateus-170700833.html",
+   "published_unix": 1783530420,
+   "captured_at": "2026-07-08T17:52:13"
+  },
+  {
+   "uuid": "c6710564-c0d0-34eb-b007-c81da9880b7d",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "American Water Charitable Foundation Provides $30,000 for Northwest Indiana Storm Recovery Efforts",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/american-water-charitable-foundation-provides-164900341.html",
+   "published_unix": 1783529340,
+   "captured_at": "2026-07-08T17:51:38"
+  },
+  {
+   "uuid": "e226aeaa-56e4-3928-b2f1-7636cc8789a5",
+   "tickers": [
+    "AVTR"
+   ],
+   "company": "Avantor, Inc.",
+   "title": "Cell Culture Media Market worth $12.9 billion by 2033: Biologics Manufacturing and Cell Therapy Expansion Accelerate Growth for Avantor, Thermo Fisher Scientific, and Lonza Group AG",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/cell-culture-media-market-worth-155400901.html",
+   "published_unix": 1783526040,
+   "captured_at": "2026-07-08T17:51:43"
+  },
   {
    "uuid": "e6aa55aa-f74b-3f72-891f-4cd104b037aa",
    "tickers": [
