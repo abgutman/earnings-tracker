@@ -1,6 +1,78 @@
 {
- "generated_at": "2026-07-08T17:52:13+00:00",
+ "generated_at": "2026-07-08T19:55:33+00:00",
  "items": [
+  {
+   "uuid": "15e8f465-3e19-3b79-a749-9ca4fc4ea963",
+   "tickers": [
+    "UHS"
+   ],
+   "company": "UNIVERSAL HEALTH SERVICES INC",
+   "title": "Sector Update: Healthcare Stocks Decline Late Afternoon",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-decline-afternoon-194112083.html",
+   "published_unix": 1783539672,
+   "captured_at": "2026-07-08T19:54:57"
+  },
+  {
+   "uuid": "aa0f3cd6-c3c3-3a29-9577-9b94170e2c40",
+   "tickers": [
+    "UHS"
+   ],
+   "company": "UNIVERSAL HEALTH SERVICES INC",
+   "title": "Universal Health Services Shares Fall After Downgrade From Barclays",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/universal-health-services-shares-fall-190448504.html",
+   "published_unix": 1783537488,
+   "captured_at": "2026-07-08T19:54:57"
+  },
+  {
+   "uuid": "a3ec468c-6206-3307-8ef9-79ffc8cc6152",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Comcast targets frustrated T-Mobile customers with free offer",
+   "publisher": "TheStreet",
+   "link": "https://finance.yahoo.com/m/a3ec468c-6206-3307-8ef9-79ffc8cc6152/comcast-targets-frustrated.html",
+   "published_unix": 1783536420,
+   "captured_at": "2026-07-08T19:54:51"
+  },
+  {
+   "uuid": "74eeb49d-0fd5-3b50-ace1-d12287e897c0",
+   "tickers": [
+    "UIS"
+   ],
+   "company": "UNISYS CORP",
+   "title": "Unisys Announces Dates of Second-Quarter 2026 Financial Results and Conference Call, and Participation in Upcoming Investor Conference",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/unisys-announces-dates-second-quarter-180000168.html",
+   "published_unix": 1783533600,
+   "captured_at": "2026-07-08T19:54:58"
+  },
+  {
+   "uuid": "61008171-eb23-321c-84c9-2dc3b5eaff8a",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Market Update: CMCSA, GAP",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/61008171-eb23-321c-84c9-2dc3b5eaff8a/market-update%3A-cmcsa%2C-gap.html",
+   "published_unix": 1783532732,
+   "captured_at": "2026-07-08T19:54:51"
+  },
+  {
+   "uuid": "d15acbab-1f26-37c3-b3f9-64f079382e80",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Analyst Report: Comcast Corp",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/d15acbab-1f26-37c3-b3f9-64f079382e80/analyst-report%3A-comcast-corp.html",
+   "published_unix": 1783532732,
+   "captured_at": "2026-07-08T19:54:51"
+  },
   {
    "uuid": "f60c446f-3777-3d58-9f6c-b2a16fb11e0c",
    "tickers": [
@@ -1104,42 +1176,6 @@
    "link": "https://finance.yahoo.com/economy/policy/articles/missouri-american-water-files-rate-201000955.html",
    "published_unix": 1782936600,
    "captured_at": "2026-07-01T21:40:52"
-  },
-  {
-   "uuid": "8da2c5e2-3749-3e29-bf75-4a069058136f",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers Announces New Home Sites in Regency at Santa Rita Ranch 55+ Community Near Austin",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-home-sites-191200167.html",
-   "published_unix": 1782933120,
-   "captured_at": "2026-07-01T21:40:48"
-  },
-  {
-   "uuid": "a7070449-ff8a-3f51-881e-34bcee1308df",
-   "tickers": [
-    "LNC"
-   ],
-   "company": "LINCOLN NATIONAL CORP",
-   "title": "AM Best Assigns Indicative Issue Credit Rating to Lincoln National Corporation\u2019s Subordinated Notes",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/am-best-assigns-indicative-issue-190800607.html",
-   "published_unix": 1782932880,
-   "captured_at": "2026-07-01T21:40:45"
-  },
-  {
-   "uuid": "0a1aba5a-fad0-3982-9dee-aaba1aa65b1d",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "Kentucky American Water   Shares Wise Water Tips for Hot Summer Weather",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/kentucky-american-water-shares-wise-183000805.html",
-   "published_unix": 1782930600,
-   "captured_at": "2026-07-01T19:00:57"
   }
  ]
 }
