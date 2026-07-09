@@ -187,5 +187,35 @@
   "source_publisher": "PR Newswire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-07-08T23:52:41"
+ },
+ "AWK": {
+  "release_date": "2026-07-30",
+  "call_date": null,
+  "call_time": null,
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/american-waters-2026-second-quarter-140000885.html",
+  "source_title": "American Water's 2026 Second Quarter Conference Call Scheduled for July 30, 2026",
+  "source_publisher": "PR Newswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-07-09T23:54:23"
+ },
+ "FSK": {
+  "release_date": "2026-08-06",
+  "call_date": "2026-08-06",
+  "call_time": "09:00 ET",
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/fsk-announces-earnings-release-conference-202000490.html",
+  "source_title": "FSK Announces Earnings Release and Conference Call Schedule for Second Quarter 2026",
+  "source_publisher": "PR Newswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-07-09T23:54:32"
+ },
+ "HSY": {
+  "release_date": "2026-07-30",
+  "call_date": null,
+  "call_time": "09:00 ET",
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/hershey-webcast-second-quarter-conference-130000108.html",
+  "source_title": "Hershey to Webcast Second-Quarter Conference Call",
+  "source_publisher": "PR Newswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-07-09T23:55:13"
  }
 }

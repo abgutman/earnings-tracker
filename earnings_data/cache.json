@@ -60,7 +60,6 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/37785/000095010326009902/dp249374_8k.htm",
   "last_detected_at": "2026-07-01T13:43:59.810833+00:00",
   "last_8k_detected_at": "2026-07-01T13:43:59.810833+00:00",
-  "pending_10q_since": "2026-07-01",
   "last_10q_url": null
  },
  "URBN": {
@@ -1584,7 +1583,6 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1436229/000149315226031440/form8-k.htm",
   "last_detected_at": "2026-07-01T13:43:59.810833+00:00",
   "last_8k_detected_at": "2026-07-01T13:43:59.810833+00:00",
-  "pending_10q_since": "2026-07-01",
   "last_10q_url": null
  },
  "QNTO": {

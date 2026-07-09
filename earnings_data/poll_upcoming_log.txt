@@ -171,3 +171,17 @@
 [2026-07-08 23:52:42]   ✉ alert sent for SEIC
 [2026-07-08 23:53:26] === Done. Captured 2 new save-the-dates, cleaned 0 past. ===
 
+[2026-07-09 23:53:56] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-07-09 23:53:56] Polling Yahoo for 106 companies
+[2026-07-09 23:54:13]   fetch_json err: Failed to perform, curl: (28) Operation timed out after 15001 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+[2026-07-09 23:54:23]   + AWK: release=2026-07-30 call=None None
+[2026-07-09 23:54:23]     via: American Water's 2026 Second Quarter Conference Call Scheduled for July 30, 2026
+[2026-07-09 23:54:23]   ✉ alert sent for AWK
+[2026-07-09 23:54:32]   + FSK: release=2026-08-06 call=2026-08-06 09:00 ET
+[2026-07-09 23:54:32]     via: FSK Announces Earnings Release and Conference Call Schedule for Second Quarter 2026
+[2026-07-09 23:54:33]   ✉ alert sent for FSK
+[2026-07-09 23:55:13]   + HSY: release=2026-07-30 call=None 09:00 ET
+[2026-07-09 23:55:13]     via: Hershey to Webcast Second-Quarter Conference Call
+[2026-07-09 23:55:13]   ✉ alert sent for HSY
+[2026-07-09 23:55:15] === Done. Captured 3 new save-the-dates, cleaned 0 past. ===
+
