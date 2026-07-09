@@ -1,6 +1,18 @@
 {
- "generated_at": "2026-07-09T20:56:45+00:00",
+ "generated_at": "2026-07-09T22:43:18+00:00",
  "items": [
+  {
+   "uuid": "cc766194-4a3f-3f81-b1e5-f085c14b7382",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Bickford Ranch, California",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-210000618.html",
+   "published_unix": 1783630800,
+   "captured_at": "2026-07-09T22:42:44"
+  },
   {
    "uuid": "39adacf6-ed15-3897-bb31-06291b9152aa",
    "tickers": [
@@ -24,6 +36,18 @@
    "link": "https://finance.yahoo.com/technology/articles/ten-holdings-inc-outlines-growth-200100153.html",
    "published_unix": 1783627260,
    "captured_at": "2026-07-09T20:56:38"
+  },
+  {
+   "uuid": "ea4cb727-412e-32c0-9f7f-e8279d19b324",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora, Inc.",
+   "title": "Analyst Report: Cencora, Inc.",
+   "publisher": "Morningstar Research",
+   "link": "https://finance.yahoo.com/m/ea4cb727-412e-32c0-9f7f-e8279d19b324/analyst-report%3A-cencora%2C-inc..html",
+   "published_unix": 1783625974,
+   "captured_at": "2026-07-09T22:42:46"
   },
   {
    "uuid": "f81d7570-6a84-3329-89e8-ebe43a7d1473",
@@ -1620,30 +1644,6 @@
    "link": "https://finance.yahoo.com/m/5bab9813-01bc-3097-ab30-3640f9af5e87/analyst-report%3A-epam-systems%2C.html",
    "published_unix": 1783033133,
    "captured_at": "2026-07-03T01:52:32"
-  },
-  {
-   "uuid": "42ecc8df-2168-3ae8-b759-5c8efb453f78",
-   "tickers": [
-    "INO"
-   ],
-   "company": "INOVIO PHARMACEUTICALS, INC.",
-   "title": "Inovio Pharmaceuticals Files $300 Million Mixed Shelf Offering",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/inovio-pharmaceuticals-files-300-million-211949776.html",
-   "published_unix": 1783027189,
-   "captured_at": "2026-07-02T22:11:29"
-  },
-  {
-   "uuid": "ce5aa78f-ec1f-393e-b6f6-458048bc9a1f",
-   "tickers": [
-    "AHCO"
-   ],
-   "company": "AdaptHealth Corp.",
-   "title": "AdaptHealth Reports Material Cybersecurity Incident",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/adapthealth-reports-material-cybersecurity-incident-210029487.html",
-   "published_unix": 1783026029,
-   "captured_at": "2026-07-02T22:11:36"
   }
  ]
 }
