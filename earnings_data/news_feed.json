@@ -1,6 +1,126 @@
 {
- "generated_at": "2026-07-09T04:15:21+00:00",
+ "generated_at": "2026-07-09T13:59:44+00:00",
  "items": [
+  {
+   "uuid": "dec3359a-949c-386a-b0b8-3447baa49513",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "FIVE BELOW, INC",
+   "title": "Tractor Supply downgrade, Five Below upgraded: Wall Street's top analyst calls",
+   "publisher": "The Fly",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/micron-downgraded-five-below-upgraded-133947861.html",
+   "published_unix": 1783604831,
+   "captured_at": "2026-07-09T13:58:45"
+  },
+  {
+   "uuid": "b3428653-be39-3875-827d-1cb00fe73254",
+   "tickers": [
+    "HSY"
+   ],
+   "company": "HERSHEY CO",
+   "title": "Piper Sandler Adjusts Price Target on Hershey  to $200 From $249",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/piper-sandler-adjusts-price-target-132623636.html",
+   "published_unix": 1783603583,
+   "captured_at": "2026-07-09T13:59:43"
+  },
+  {
+   "uuid": "81e02dc4-c0d5-3c3c-a66c-a00d151bbd8c",
+   "tickers": [
+    "HSY"
+   ],
+   "company": "HERSHEY CO",
+   "title": "Hershey to Webcast Second-Quarter Conference Call",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/hershey-webcast-second-quarter-conference-130000108.html",
+   "published_unix": 1783602000,
+   "captured_at": "2026-07-09T13:59:43"
+  },
+  {
+   "uuid": "cc0f4614-5217-3786-b3cf-8a3413a40015",
+   "tickers": [
+    "TFX"
+   ],
+   "company": "TELEFLEX INC",
+   "title": "BMO Captal Initiates Coverage on Teleflex With Outperform Rating, $159 Price Target",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bmo-captal-initiates-coverage-teleflex-123906093.html",
+   "published_unix": 1783600746,
+   "captured_at": "2026-07-09T13:59:01"
+  },
+  {
+   "uuid": "3aedab0b-48c3-37e4-b320-cee453d415ba",
+   "tickers": [
+    "GMED"
+   ],
+   "company": "GLOBUS MEDICAL INC",
+   "title": "BMO Capital Initiates Globus Medical at Outperform With $94 Price Target",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bmo-capital-initiates-globus-medical-123348674.html",
+   "published_unix": 1783600428,
+   "captured_at": "2026-07-09T13:58:59"
+  },
+  {
+   "uuid": "fe2433be-5290-304b-b442-9841a82d152c",
+   "tickers": [
+    "UIS"
+   ],
+   "company": "UNISYS CORP",
+   "title": "Unisys Innovation Program Announces the Winners of Its 17th Competition",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/technology/ai/articles/unisys-innovation-program-announces-winners-121500756.html",
+   "published_unix": 1783599300,
+   "captured_at": "2026-07-09T13:58:51"
+  },
+  {
+   "uuid": "66061fcf-8d0d-35be-b3ca-9c5ed18fcc9c",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "FIVE BELOW, INC",
+   "title": "Five Below Celebrates 2,000\u1d57\u02b0 Store With a Mega Grand Opening Party",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/small-business/articles/five-below-celebrates-2-000-120000596.html",
+   "published_unix": 1783598400,
+   "captured_at": "2026-07-09T13:58:45"
+  },
+  {
+   "uuid": "c19504f1-305f-3024-ac4d-912f514ea672",
+   "tickers": [
+    "IPSC"
+   ],
+   "company": "Century Therapeutics, Inc.",
+   "title": "Century Therapeutics Selected for Oral Presentations of CNTY-813 Preclinical Data at EASD 2026 and Breakthrough T1D\u00ae Clinical & Research Congress 2026",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/century-therapeutics-selected-oral-presentations-120000354.html",
+   "published_unix": 1783598400,
+   "captured_at": "2026-07-09T13:59:16"
+  },
+  {
+   "uuid": "29483f2b-7623-3c5f-819a-e685d3b2650b",
+   "tickers": [
+    "DD"
+   ],
+   "company": "DuPont de Nemours, Inc.",
+   "title": "DuPont Launches Multi-Technology Water Treatment Design Tool",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/technology/articles/dupont-launches-multi-technology-water-120000499.html",
+   "published_unix": 1783598400,
+   "captured_at": "2026-07-09T13:59:44"
+  },
+  {
+   "uuid": "00780b31-e0ec-360f-bd19-9e2a127e1a0d",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "FIVE BELOW, INC",
+   "title": "Mizuho Upgrades Five Below to Outperform From Neutral, Cuts Price Target to $220 From $225",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/mizuho-upgrades-five-below-outperform-114622501.html",
+   "published_unix": 1783597582,
+   "captured_at": "2026-07-09T13:58:45"
+  },
   {
    "uuid": "8fa3d674-ddf3-3002-8fb5-f61c2c8f234d",
    "tickers": [
@@ -1476,54 +1596,6 @@
    "link": "https://finance.yahoo.com/technology/articles/vishay-intertechnology-34-phe-multi-150000415.html",
    "published_unix": 1783004400,
    "captured_at": "2026-07-02T16:06:53"
-  },
-  {
-   "uuid": "108d2d75-5166-3963-9278-13b988e77434",
-   "tickers": [
-    "HLNE"
-   ],
-   "company": "Hamilton Lane INC",
-   "title": "Market Chatter: Hamilton Lane Eyes Debut Yuan Fund Focused on China Assets",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-hamilton-lane-eyes-093651748.html",
-   "published_unix": 1782985011,
-   "captured_at": "2026-07-02T13:01:04"
-  },
-  {
-   "uuid": "4962128e-c5a7-37c5-81e1-6f0edd71a9c3",
-   "tickers": [
-    "DD"
-   ],
-   "company": "DuPont de Nemours, Inc.",
-   "title": "Citigroup Adjusts Price Target on DuPont de Nemours to $170 From $168, Maintains Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/citigroup-adjusts-price-target-dupont-093313899.html",
-   "published_unix": 1782984793,
-   "captured_at": "2026-07-02T13:01:39"
-  },
-  {
-   "uuid": "afff8b51-f16b-388d-ba78-d4ee70d14c5a",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Goldman Sachs Adjusts Price Target on Comcast to $26 From $29, Maintains Neutral Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-adjusts-price-target-093256418.html",
-   "published_unix": 1782984776,
-   "captured_at": "2026-07-02T13:00:44"
-  },
-  {
-   "uuid": "a66f60b2-4749-3eda-84c0-8911aac593c6",
-   "tickers": [
-    "WST"
-   ],
-   "company": "WEST PHARMACEUTICAL SERVICES INC",
-   "title": "KeyBanc Adjusts PT on West Pharmaceutical Services to $390 From $350, Maintains Overweight Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/keybanc-adjusts-pt-west-pharmaceutical-092730870.html",
-   "published_unix": 1782984450,
-   "captured_at": "2026-07-02T13:01:00"
   }
  ]
 }
