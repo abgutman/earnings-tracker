@@ -1,6 +1,30 @@
 {
- "generated_at": "2026-07-09T16:40:35+00:00",
+ "generated_at": "2026-07-09T19:00:21+00:00",
  "items": [
+  {
+   "uuid": "4a4dafa0-1a9a-3307-b47a-da25244cd086",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "New Jersey American Water Launches 2026 Flow Forward Summer Camp Program to Help Camden Teens Explore Water Industry Careers",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/jersey-american-water-launches-2026-182700470.html",
+   "published_unix": 1783621620,
+   "captured_at": "2026-07-09T18:59:47"
+  },
+  {
+   "uuid": "22da3084-0120-3fb9-83a6-1b4136df40ff",
+   "tickers": [
+    "DD"
+   ],
+   "company": "DuPont de Nemours, Inc.",
+   "title": "3M, DuPont, Corteva, Chemours Sued by New York AG Over Toxic Pollution From Consumer Products",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/3m-dupont-corteva-chemours-sued-164728663.html",
+   "published_unix": 1783615648,
+   "captured_at": "2026-07-09T19:00:21"
+  },
   {
    "uuid": "610772c3-d307-313e-819c-dd7fc964eb8b",
    "tickers": [
@@ -1596,30 +1620,6 @@
    "link": "https://finance.yahoo.com/m/68e53f64-7416-349e-9fd4-a946b15d6088/lrmr-shares-hold-steady-as.html",
    "published_unix": 1783024372,
    "captured_at": "2026-07-02T22:11:28"
-  },
-  {
-   "uuid": "8f54e43f-fa4e-3a81-9d3c-ae3b09b7f327",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Merck Stock, JPMorgan And Two Others Hit New Highs",
-   "publisher": "Investor's Business Daily",
-   "link": "https://finance.yahoo.com/m/8f54e43f-fa4e-3a81-9d3c-ae3b09b7f327/merck-stock%2C-jpmorgan-and-two.html",
-   "published_unix": 1783015478,
-   "captured_at": "2026-07-02T18:28:21"
-  },
-  {
-   "uuid": "67d0d870-2f67-3c47-858c-89153017f823",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "JNJ Stock Management Sees A Breakout, The Market Sees A Standoff",
-   "publisher": "Trefis",
-   "link": "https://finance.yahoo.com/m/67d0d870-2f67-3c47-858c-89153017f823/jnj-stock-management-sees-a.html",
-   "published_unix": 1783013373,
-   "captured_at": "2026-07-02T18:28:20"
   }
  ]
 }
