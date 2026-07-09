@@ -1,6 +1,78 @@
 {
- "generated_at": "2026-07-09T13:59:44+00:00",
+ "generated_at": "2026-07-09T16:40:35+00:00",
  "items": [
+  {
+   "uuid": "610772c3-d307-313e-819c-dd7fc964eb8b",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Southeast Asia Oncology Drug Access Market Now Available; Profiles Roche, AstraZeneca, Merck, and Other Key Peers",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/southeast-asia-oncology-drug-access-155300715.html",
+   "published_unix": 1783612380,
+   "captured_at": "2026-07-09T16:40:34"
+  },
+  {
+   "uuid": "3f4c5ae2-cb32-3ca8-b01a-a9fe634ec13d",
+   "tickers": [
+    "VSH"
+   ],
+   "company": "VISHAY INTERTECHNOLOGY INC",
+   "title": "Vishay Intertechnology Automotive Optocoupler in SOP-5 Package With 3.6 mm Width Saves Space While Improving Signal Transmission",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/technology/articles/vishay-intertechnology-automotive-optocoupler-sop-150000157.html",
+   "published_unix": 1783609200,
+   "captured_at": "2026-07-09T16:39:57"
+  },
+  {
+   "uuid": "83899036-e1f1-3676-b566-5b9d2991522e",
+   "tickers": [
+    "WST"
+   ],
+   "company": "WEST PHARMACEUTICAL SERVICES INC",
+   "title": "Morgan Stanley Adjusts Price Target on West Pharmaceutical Services to $365 From $325",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-price-target-144832374.html",
+   "published_unix": 1783608512,
+   "captured_at": "2026-07-09T16:40:04"
+  },
+  {
+   "uuid": "d0a853cd-8524-372c-b44b-b68a04adadab",
+   "tickers": [
+    "UHS"
+   ],
+   "company": "UNIVERSAL HEALTH SERVICES INC",
+   "title": "Stephens Adjusts Price Target on Universal Health Services to $170 From $205",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/stephens-adjusts-price-target-universal-143552123.html",
+   "published_unix": 1783607752,
+   "captured_at": "2026-07-09T16:39:58"
+  },
+  {
+   "uuid": "9a1d2766-4982-30af-a703-e2af6858de10",
+   "tickers": [
+    "DD"
+   ],
+   "company": "DuPont de Nemours, Inc.",
+   "title": "UBS Adjusts Price Target on DuPont de Nemours to $175 From $177",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-price-target-dupont-140841496.html",
+   "published_unix": 1783606121,
+   "captured_at": "2026-07-09T16:40:35"
+  },
+  {
+   "uuid": "b0ca199d-0858-35c6-ae09-2d307b6b7695",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "American Water's 2026 Second Quarter Conference Call Scheduled for July 30, 2026",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/american-waters-2026-second-quarter-140000885.html",
+   "published_unix": 1783605600,
+   "captured_at": "2026-07-09T16:40:01"
+  },
   {
    "uuid": "dec3359a-949c-386a-b0b8-3447baa49513",
    "tickers": [
@@ -1548,54 +1620,6 @@
    "link": "https://finance.yahoo.com/m/67d0d870-2f67-3c47-858c-89153017f823/jnj-stock-management-sees-a.html",
    "published_unix": 1783013373,
    "captured_at": "2026-07-02T18:28:20"
-  },
-  {
-   "uuid": "729b2edf-1c3d-358a-b6df-bc3defc7b23b",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "House committee investigates Merck, AbbVie over China trials",
-   "publisher": "TheStreet",
-   "link": "https://finance.yahoo.com/m/729b2edf-1c3d-358a-b6df-bc3defc7b23b/house-committee-investigates.html",
-   "published_unix": 1783008180,
-   "captured_at": "2026-07-02T18:28:21"
-  },
-  {
-   "uuid": "08ba5d27-def9-3dae-9db2-59e3d47eb5e1",
-   "tickers": [
-    "XHLD"
-   ],
-   "company": "TEN Holdings, Inc.",
-   "title": "WestPark Capital Announces Closing of $7.5 Million Follow On Offering for TEN Holdings, Inc. (Nasdaq: XHLD)",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/westpark-capital-announces-closing-7-155900817.html",
-   "published_unix": 1783007940,
-   "captured_at": "2026-07-02T16:07:25"
-  },
-  {
-   "uuid": "38346e9f-6397-3eef-95d8-7123a72a0a86",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Comcast Spinoff Could Rejuvenate Its Depressed Stock",
-   "publisher": "Barrons.com",
-   "link": "https://finance.yahoo.com/m/38346e9f-6397-3eef-95d8-7123a72a0a86/comcast-spinoff-could.html",
-   "published_unix": 1783004880,
-   "captured_at": "2026-07-02T18:27:28"
-  },
-  {
-   "uuid": "74a7104c-5a7d-36d0-a9e5-985c3dcf959f",
-   "tickers": [
-    "VSH"
-   ],
-   "company": "VISHAY INTERTECHNOLOGY INC",
-   "title": "Vishay Intertechnology 34\u00a0PHE Multi-Turn Absolute Position Sensor Delivers High Accuracy and Stability at a Reduced Cost",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/technology/articles/vishay-intertechnology-34-phe-multi-150000415.html",
-   "published_unix": 1783004400,
-   "captured_at": "2026-07-02T16:06:53"
   }
  ]
 }
