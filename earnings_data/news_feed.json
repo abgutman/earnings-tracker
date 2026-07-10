@@ -1,6 +1,30 @@
 {
- "generated_at": "2026-07-10T16:34:27+00:00",
+ "generated_at": "2026-07-10T18:45:13+00:00",
  "items": [
+  {
+   "uuid": "7174d29c-167c-3e25-ba1f-bc76db1440dd",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Thousand Oaks, California",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-171200877.html",
+   "published_unix": 1783703520,
+   "captured_at": "2026-07-10T18:44:25"
+  },
+  {
+   "uuid": "3a021489-9d4b-367f-b286-69e558b87556",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Toll Brothers Announces New Phase of Home Sites Coming to Saddlecrest at Windermere in Fall 2026",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-phase-home-164500206.html",
+   "published_unix": 1783701900,
+   "captured_at": "2026-07-10T18:44:25"
+  },
   {
    "uuid": "205844d0-5bc3-3cd5-a6d6-df9f9ee33d41",
    "tickers": [
