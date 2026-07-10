@@ -1,6 +1,18 @@
 {
- "generated_at": "2026-07-10T20:42:55+00:00",
+ "generated_at": "2026-07-10T22:15:42+00:00",
  "items": [
+  {
+   "uuid": "9b070936-c2c2-3fb1-aa85-b5761e705f0c",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Illinois Appellate Court Affirms $45 Million Mesothelioma Verdict Against Johnson & Johnson and Kenvue",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/healthcare/articles/illinois-appellate-court-affirms-45-203000724.html",
+   "published_unix": 1783715400,
+   "captured_at": "2026-07-10T22:15:42"
+  },
   {
    "uuid": "1c6806ab-fe31-3c28-9848-5a51620c94a7",
    "tickers": [
