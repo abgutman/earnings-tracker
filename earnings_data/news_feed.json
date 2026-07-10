@@ -1,6 +1,66 @@
 {
- "generated_at": "2026-07-10T04:09:45+00:00",
+ "generated_at": "2026-07-10T13:19:59+00:00",
  "items": [
+  {
+   "uuid": "e0b98923-c384-3928-8317-aceb1712c0ea",
+   "tickers": [
+    "AME"
+   ],
+   "company": "AMETEK INC/",
+   "title": "Morgan Stanley Adjusts Price Target on AMETEK to $245 From $235",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-price-target-122152938.html",
+   "published_unix": 1783686112,
+   "captured_at": "2026-07-10T13:19:05"
+  },
+  {
+   "uuid": "6eb2d505-fc2d-31c6-bd35-452c6f8c926e",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "JNJ Stock Keeps Climbing. Should You Climb On?",
+   "publisher": "Trefis",
+   "link": "https://finance.yahoo.com/m/6eb2d505-fc2d-31c6-bd35-452c6f8c926e/jnj-stock-keeps-climbing..html",
+   "published_unix": 1783684953,
+   "captured_at": "2026-07-10T13:19:59"
+  },
+  {
+   "uuid": "58a33fd6-4b5d-3cc5-a3ef-7f8f541f4cca",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "--Citigroup Upgrades Toll Brothers to Buy From Neutral, Adjusts PT to $176 From $146",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/citigroup-upgrades-toll-brothers-buy-115453578.html",
+   "published_unix": 1783684493,
+   "captured_at": "2026-07-10T13:19:09"
+  },
+  {
+   "uuid": "68d774a5-d5a0-30ca-a745-e60d381194b8",
+   "tickers": [
+    "CUBE"
+   ],
+   "company": "CubeSmart",
+   "title": "Barclays Upgrades CubeSmart to Overweight From Equal Weight, Raises Price Target to $46 From $45",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-upgrades-cubesmart-overweight-equal-113419952.html",
+   "published_unix": 1783683259,
+   "captured_at": "2026-07-10T13:19:16"
+  },
+  {
+   "uuid": "26d1fbfc-14e3-32ee-9318-8e2a2eef6d11",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Berenberg Adjusts Price Target on Merck to $127 From $125, Keeps Hold Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/berenberg-adjusts-price-target-merck-093418041.html",
+   "published_unix": 1783676058,
+   "captured_at": "2026-07-10T13:19:59"
+  },
   {
    "uuid": "cc766194-4a3f-3f81-b1e5-f085c14b7382",
    "tickers": [
