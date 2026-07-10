@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-09T22:43:18+00:00",
+ "generated_at": "2026-07-10T00:19:09+00:00",
  "items": [
   {
    "uuid": "cc766194-4a3f-3f81-b1e5-f085c14b7382",
@@ -1620,30 +1620,6 @@
    "link": "https://finance.yahoo.com/m/e782d54e-b538-33ff-b2a4-8b0769d8cb93/navn%2C-jnj%2C-crwd-stocks-hit.html",
    "published_unix": 1783309610,
    "captured_at": "2026-07-06T14:30:17"
-  },
-  {
-   "uuid": "fe2655d5-9d9f-3e3c-bbe1-919763299950",
-   "tickers": [
-    "BSY"
-   ],
-   "company": "BENTLEY SYSTEMS INC",
-   "title": "Analyst Report: Bentley Systems, Incorporated",
-   "publisher": "Morningstar Research",
-   "link": "https://finance.yahoo.com/m/fe2655d5-9d9f-3e3c-bbe1-919763299950/analyst-report%3A-bentley.html",
-   "published_unix": 1783033764,
-   "captured_at": "2026-07-03T01:52:17"
-  },
-  {
-   "uuid": "5bab9813-01bc-3097-ab30-3640f9af5e87",
-   "tickers": [
-    "EPAM"
-   ],
-   "company": "EPAM Systems, Inc.",
-   "title": "Analyst Report: EPAM Systems, Inc.",
-   "publisher": "Morningstar Research",
-   "link": "https://finance.yahoo.com/m/5bab9813-01bc-3097-ab30-3640f9af5e87/analyst-report%3A-epam-systems%2C.html",
-   "published_unix": 1783033133,
-   "captured_at": "2026-07-03T01:52:32"
   }
  ]
 }
