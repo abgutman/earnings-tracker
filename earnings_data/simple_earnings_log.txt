@@ -601,3 +601,8 @@
 [2026-07-09 23:55:15]   FMC: pending_10q_since=2026-07-01 is 8d old — clearing stale flag
 [2026-07-09 23:55:16]   BTCS: pending_10q_since=2026-07-01 is 8d old — clearing stale flag
 [2026-07-09 23:55:16] === CHECK-10Q complete. Checked 2, found 0, cleared 2 stale. ===
+[2026-07-10 13:17:37] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-07-10 13:17:37]   firehose: 8-K feed — 100 entries parsed
+[2026-07-10 13:17:37]   firehose: 10-Q feed — 30 entries parsed
+[2026-07-10 13:17:37]   firehose: 100 watched CIKs, 130 total feed entries
+[2026-07-10 13:17:37] === EDGAR FIREHOSE complete. 0 new detections. ===
