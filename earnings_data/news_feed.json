@@ -1,6 +1,42 @@
 {
- "generated_at": "2026-07-10T13:19:59+00:00",
+ "generated_at": "2026-07-10T16:34:27+00:00",
  "items": [
+  {
+   "uuid": "205844d0-5bc3-3cd5-a6d6-df9f9ee33d41",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "Pennsylvania American Water Asks Customers in Nine Counties to Reduce Nonessential Water Use During Drought Watch Declaration",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/pennsylvania-american-water-asks-customers-152400593.html",
+   "published_unix": 1783697040,
+   "captured_at": "2026-07-10T16:33:49"
+  },
+  {
+   "uuid": "35667335-a25c-3e7a-a826-03f02b548cea",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "BofA Securities Adjusts Johnson & Johnson Price Target to $263 From $254",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-securities-adjusts-johnson-johnson-142254466.html",
+   "published_unix": 1783693374,
+   "captured_at": "2026-07-10T16:34:26"
+  },
+  {
+   "uuid": "b44e5eb9-0ce7-384c-bd73-bc2984519174",
+   "tickers": [
+    "CUBE"
+   ],
+   "company": "CubeSmart",
+   "title": "UBS Adjusts CubeSmart Price Target to $43 From $41, Maintains Neutral Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-cubesmart-price-target-132824484.html",
+   "published_unix": 1783690104,
+   "captured_at": "2026-07-10T16:33:53"
+  },
   {
    "uuid": "e0b98923-c384-3928-8317-aceb1712c0ea",
    "tickers": [
