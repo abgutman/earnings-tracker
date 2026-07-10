@@ -1,6 +1,54 @@
 {
- "generated_at": "2026-07-10T18:45:13+00:00",
+ "generated_at": "2026-07-10T20:42:55+00:00",
  "items": [
+  {
+   "uuid": "1c6806ab-fe31-3c28-9848-5a51620c94a7",
+   "tickers": [
+    "CNTX"
+   ],
+   "company": "Context Therapeutics Inc.",
+   "title": "Context Therapeutics Announces Inducement Grant Under Nasdaq Listing Rule 5635(c)(4)",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/context-therapeutics-announces-inducement-grant-200500887.html",
+   "published_unix": 1783713900,
+   "captured_at": "2026-07-10T20:42:39"
+  },
+  {
+   "uuid": "dfb20d79-a7bb-366a-9d99-9a76ef4711e9",
+   "tickers": [
+    "COHN"
+   ],
+   "company": "Cohen & Co Inc.",
+   "title": "Columbus Circle Capital Corp. III and Cohen & Company Inc. Announce Completion of $230,000,000 Initial Public Offering",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/columbus-circle-capital-corp-iii-200500561.html",
+   "published_unix": 1783713900,
+   "captured_at": "2026-07-10T20:42:45"
+  },
+  {
+   "uuid": "92da00d0-668d-3c09-bd51-7fc818ad09f8",
+   "tickers": [
+    "CRS"
+   ],
+   "company": "CARPENTER TECHNOLOGY CORP",
+   "title": "Carpenter Stock: Demand Surge Powers Earnings Acceleration As Stock Takes Off",
+   "publisher": "Investor's Business Daily",
+   "link": "https://finance.yahoo.com/m/92da00d0-668d-3c09-bd51-7fc818ad09f8/carpenter-stock%3A-demand-surge.html",
+   "published_unix": 1783709850,
+   "captured_at": "2026-07-10T20:42:26"
+  },
+  {
+   "uuid": "39b2b676-b30c-386f-b069-e79fa93fc5eb",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Toll Brothers Shares Rise After Citigroup Upgrade",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-shares-rise-citigroup-185304843.html",
+   "published_unix": 1783709584,
+   "captured_at": "2026-07-10T20:42:20"
+  },
   {
    "uuid": "7174d29c-167c-3e25-ba1f-bc76db1440dd",
    "tickers": [
