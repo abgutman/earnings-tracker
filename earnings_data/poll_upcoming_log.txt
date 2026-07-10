@@ -185,3 +185,7 @@
 [2026-07-09 23:55:13]   ✉ alert sent for HSY
 [2026-07-09 23:55:15] === Done. Captured 3 new save-the-dates, cleaned 0 past. ===
 
+[2026-07-10 23:42:07] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-07-10 23:42:07] Polling Yahoo for 106 companies
+[2026-07-10 23:43:09] === Done. Captured 0 new save-the-dates, cleaned 0 past. ===
+
