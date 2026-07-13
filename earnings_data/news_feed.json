@@ -1,6 +1,18 @@
 {
- "generated_at": "2026-07-13T16:43:57+00:00",
+ "generated_at": "2026-07-13T18:50:33+00:00",
  "items": [
+  {
+   "uuid": "7a1c3d9d-2178-34ea-9d73-e6fdc7554c32",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark's Intra-Quarter Contract Wins Could Strengthen Fiscal 2027 Growth Outlook, UBS Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-apos-intra-quarter-contract-165444802.html",
+   "published_unix": 1783961684,
+   "captured_at": "2026-07-13T18:49:37"
+  },
   {
    "uuid": "bb63412e-9191-3724-babf-08d57862a7f4",
    "tickers": [
@@ -1824,42 +1836,6 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/epam-announces-date-second-quarter-200000164.html",
    "published_unix": 1783368000,
    "captured_at": "2026-07-06T22:36:44"
-  },
-  {
-   "uuid": "ada5fbd6-a607-3507-934f-715d4aafd5b5",
-   "tickers": [
-    "LNC"
-   ],
-   "company": "LINCOLN NATIONAL CORP",
-   "title": "Lincoln National Shares Rise After Barclays Upgrade",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/lincoln-national-shares-rise-barclays-184914261.html",
-   "published_unix": 1783363754,
-   "captured_at": "2026-07-06T21:00:45"
-  },
-  {
-   "uuid": "8bedb295-7716-3b60-a62c-41ba08148393",
-   "tickers": [
-    "VSNT"
-   ],
-   "company": "Versant Media Group, Inc.",
-   "title": "CNBC Parent Versant Media to Acquire Sports Technology Platform Full Swing",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/media-advertising/articles/cnbc-parent-versant-media-acquire-184908331.html",
-   "published_unix": 1783363748,
-   "captured_at": "2026-07-06T22:36:43"
-  },
-  {
-   "uuid": "77a18d2b-a1d7-3333-9af6-79f06c167913",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Comcast's Sky to buy Britain's ITV in $2.1-billion deal",
-   "publisher": "LA Times",
-   "link": "https://finance.yahoo.com/media-advertising/articles/comcasts-sky-buy-britains-itv-182055043.html",
-   "published_unix": 1783362055,
-   "captured_at": "2026-07-06T21:00:41"
   }
  ]
 }
