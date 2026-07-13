@@ -1,6 +1,186 @@
 {
- "generated_at": "2026-07-11T03:36:34+00:00",
+ "generated_at": "2026-07-13T13:32:35+00:00",
  "items": [
+  {
+   "uuid": "be50aa02-1fd0-31b1-9860-17dc3a72c53b",
+   "tickers": [
+    "UIS"
+   ],
+   "company": "UNISYS CORP",
+   "title": "Unisys Named to TIME's America's Best Companies 2026 List",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/technology/articles/unisys-named-times-americas-best-123000331.html",
+   "published_unix": 1783945800,
+   "captured_at": "2026-07-13T13:31:40"
+  },
+  {
+   "uuid": "e284ee1b-0fb7-37fb-839a-9b04d88fee66",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Bernstein Adjusts Price Target on Comcast to $28 From $32, Maintains Market Perform Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bernstein-adjusts-price-target-comcast-122750110.html",
+   "published_unix": 1783945670,
+   "captured_at": "2026-07-13T13:31:30"
+  },
+  {
+   "uuid": "d83f7760-28a3-3002-8a04-17081687ec7a",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "RBC Raises Price Target on Johnson & Johnson to $287 From $265, Keeps Outperform Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-raises-price-target-johnson-120109850.html",
+   "published_unix": 1783944069,
+   "captured_at": "2026-07-13T13:32:34"
+  },
+  {
+   "uuid": "d22665eb-2395-325a-bdaa-bfa022da7243",
+   "tickers": [
+    "WST"
+   ],
+   "company": "WEST PHARMACEUTICAL SERVICES INC",
+   "title": "BNP Paribas Initiates West Pharmaceutical Services at Outperform With $447 Price Target",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-initiates-west-pharmaceutical-120004051.html",
+   "published_unix": 1783944004,
+   "captured_at": "2026-07-13T13:31:45"
+  },
+  {
+   "uuid": "2851c88b-fa7a-3e97-9525-9ac5e4b15832",
+   "tickers": [
+    "IRT"
+   ],
+   "company": "INDEPENDENCE REALTY TRUST, INC.",
+   "title": "IRT Announces Dates for Second Quarter 2026 Earnings Release and Conference Call",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/real-estate/articles/irt-announces-dates-second-quarter-120000610.html",
+   "published_unix": 1783944000,
+   "captured_at": "2026-07-13T13:31:34"
+  },
+  {
+   "uuid": "263ba6bd-4b56-3994-8be1-423dd6e87fd9",
+   "tickers": [
+    "NVRI"
+   ],
+   "company": "ENVIRI Corp",
+   "title": "Enviri Corporation Announces Timing of Second Quarter 2026 Results and Conference Call",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/enviri-corporation-announces-timing-second-120000169.html",
+   "published_unix": 1783944000,
+   "captured_at": "2026-07-13T13:31:53"
+  },
+  {
+   "uuid": "513e2a56-5295-31e6-980a-b5eef70f1a8b",
+   "tickers": [
+    "GMED"
+   ],
+   "company": "GLOBUS MEDICAL INC",
+   "title": "RBC Lowers Price Target on Globus Medical to $115 From $120, Keeps Outperform Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-lowers-price-target-globus-115507699.html",
+   "published_unix": 1783943707,
+   "captured_at": "2026-07-13T13:31:46"
+  },
+  {
+   "uuid": "782e23cc-82d1-3ca9-91eb-019b68f8796b",
+   "tickers": [
+    "OCGN"
+   ],
+   "company": "Ocugen, Inc.",
+   "title": "Ocugen Signs Term Sheet to License Retinitis Pigmentosa Gene Therapy to Roots Pharmaceutical, Al-Dhow in MENA Region",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/ocugen-signs-term-sheet-license-115121579.html",
+   "published_unix": 1783943481,
+   "captured_at": "2026-07-13T13:31:37"
+  },
+  {
+   "uuid": "f1f0edb5-bd0b-38f7-b373-78c41722e890",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "TIME Names Aramark Among America's Best Companies 2026",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/time-names-aramark-among-americas-113000960.html",
+   "published_unix": 1783942200,
+   "captured_at": "2026-07-13T13:31:31"
+  },
+  {
+   "uuid": "63bb830a-adcd-33f2-ae87-568c1b98e5ef",
+   "tickers": [
+    "OCGN"
+   ],
+   "company": "Ocugen, Inc.",
+   "title": "Ocugen, Inc. Announces Binding Term Sheet with Roots Pharmaceutical to License OCU400 Modifier Gene Therapy for Retinitis Pigmentosa in the Middle East and North Africa",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/ocugen-inc-announces-binding-term-110200535.html",
+   "published_unix": 1783940520,
+   "captured_at": "2026-07-13T13:31:37"
+  },
+  {
+   "uuid": "dd8318b3-fe8c-35d2-8b2c-5da8f6077d5d",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "JPMorgan Adjusts Price Target on Merck to $140 From $135, Maintains Overweight Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-adjusts-price-target-merck-105956357.html",
+   "published_unix": 1783940396,
+   "captured_at": "2026-07-13T13:32:35"
+  },
+  {
+   "uuid": "91a85117-8d02-3693-859a-dbf6234d1e59",
+   "tickers": [
+    "UHS"
+   ],
+   "company": "UNIVERSAL HEALTH SERVICES INC",
+   "title": "Mizuho Adjusts Price Target on Universal Health Services to $200 From $230, Maintains Outperform Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/mizuho-adjusts-price-target-universal-100553929.html",
+   "published_unix": 1783937153,
+   "captured_at": "2026-07-13T13:31:38"
+  },
+  {
+   "uuid": "03ac1a60-d423-36bf-bf33-ae17e09ed1d3",
+   "tickers": [
+    "UHS"
+   ],
+   "company": "UNIVERSAL HEALTH SERVICES INC",
+   "title": "Wells Fargo Adjusts PT on Universal Health Services to $166 From $165, Maintains Equalweight Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/wells-fargo-adjusts-pt-universal-100546035.html",
+   "published_unix": 1783937146,
+   "captured_at": "2026-07-13T13:31:38"
+  },
+  {
+   "uuid": "4e647aef-631c-328a-a41a-80bf09f00d52",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "SLS Vs MLTX: Retail Traders Race To Pick Merck\u2019s Next Biotech Buyout As Keytruda\u2019s $31.7B Patent Cliff Nears",
+   "publisher": "Stocktwits",
+   "link": "https://finance.yahoo.com/m/4e647aef-631c-328a-a41a-80bf09f00d52/sls-vs-mltx%3A-retail-traders.html",
+   "published_unix": 1783910910,
+   "captured_at": "2026-07-13T13:32:35"
+  },
+  {
+   "uuid": "f9ba20ee-52b3-36a2-9599-34cc9564a65e",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Nasdaq, S&P 500, Dow Futures Fall After Trump Directs Strikes \u2018To Hold Iranian Forces Accountable\u2019: NVDA, SLS, MRK, SKHYV, QS Stocks In Focus",
+   "publisher": "Stocktwits",
+   "link": "https://finance.yahoo.com/m/f9ba20ee-52b3-36a2-9599-34cc9564a65e/nasdaq%2C-s%26p-500%2C-dow-futures.html",
+   "published_unix": 1783906437,
+   "captured_at": "2026-07-13T13:32:35"
+  },
   {
    "uuid": "9b070936-c2c2-3fb1-aa85-b5761e705f0c",
    "tickers": [
@@ -1608,198 +1788,6 @@
    "link": "https://finance.yahoo.com/m/c6d816d0-e8b8-32c8-a2a3-4b8b08e469ed/johnson-%26-johnson%2C-ibd-stock.html",
    "published_unix": 1783352496,
    "captured_at": "2026-07-06T18:24:17"
-  },
-  {
-   "uuid": "8d0abc6e-fb92-3450-95c4-1b1d4ab44031",
-   "tickers": [
-    "WST"
-   ],
-   "company": "WEST PHARMACEUTICAL SERVICES INC",
-   "title": "Evercore ISI Adjusts Price Target on West Pharmaceutical Services to $410 From $390",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/evercore-isi-adjusts-price-target-131018841.html",
-   "published_unix": 1783343418,
-   "captured_at": "2026-07-06T14:29:45"
-  },
-  {
-   "uuid": "75078c9c-b0b6-3830-80ef-2a20eb3fcc8b",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Comcast Gives Up Old-School TV Media Model: Fox-Roku Steps In",
-   "publisher": "MediaPost",
-   "link": "https://finance.yahoo.com/m/75078c9c-b0b6-3830-80ef-2a20eb3fcc8b/comcast-gives-up-old-school.html",
-   "published_unix": 1783342800,
-   "captured_at": "2026-07-06T14:29:33"
-  },
-  {
-   "uuid": "699f8152-7b23-3fdf-bca7-8c0bbc1c5307",
-   "tickers": [
-    "COBA"
-   ],
-   "company": "Chilean Cobalt Corp.",
-   "title": "Chilean Cobalt Corp. Announces Memorandum of Understanding With Subsidiary of Key Mining Corp, for Long-Term Desalinated Water Supply to Support Responsible Development of La Cobaltera and El Cofre Projects",
-   "publisher": "ACCESS Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/chilean-cobalt-corp-announces-memorandum-130000911.html",
-   "published_unix": 1783342800,
-   "captured_at": "2026-07-06T14:30:16"
-  },
-  {
-   "uuid": "825d12e5-1ed9-3bff-8f11-01f1b891bb97",
-   "tickers": [
-    "STIM"
-   ],
-   "company": "Neuronetics, Inc.",
-   "title": "Neuronetics to Participate in a Panel Discussion at B. Riley Securities' Mind, Muscle & Vision Summit on July 16, 2026",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/neuronetics-participate-panel-discussion-b-123000655.html",
-   "published_unix": 1783341000,
-   "captured_at": "2026-07-06T14:30:03"
-  },
-  {
-   "uuid": "612ef4cc-9e20-347a-8175-061c60e9c177",
-   "tickers": [
-    "VSNT"
-   ],
-   "company": "Versant Media Group, Inc.",
-   "title": "Versant Media to Acquire Sports Technology Firm Full Swing for About $530 Million",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/media-advertising/articles/versant-media-acquire-sports-technology-122738151.html",
-   "published_unix": 1783340858,
-   "captured_at": "2026-07-06T14:29:47"
-  },
-  {
-   "uuid": "3f674484-9c43-3955-b82a-fc080ceb641d",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Comcast's Soon-To-Be-Spun-Off Sky Buying U.K.'s ITV Operations",
-   "publisher": "MediaPost",
-   "link": "https://finance.yahoo.com/m/3f674484-9c43-3955-b82a-fc080ceb641d/comcast%27s-soon-to-be-spun-off.html",
-   "published_unix": 1783340630,
-   "captured_at": "2026-07-06T14:29:33"
-  },
-  {
-   "uuid": "544c0860-a841-3ac7-8d22-3f39c6cc585b",
-   "tickers": [
-    "VSH"
-   ],
-   "company": "VISHAY INTERTECHNOLOGY INC",
-   "title": "Vishay Intertechnology, Inc. Announces Conversion Period for 2.25% Convertible Senior Notes due 2030",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/vishay-intertechnology-inc-announces-conversion-121500635.html",
-   "published_unix": 1783340100,
-   "captured_at": "2026-07-06T14:29:37"
-  },
-  {
-   "uuid": "8723ffc2-3f47-38cc-b470-ca5930d436b8",
-   "tickers": [
-    "AXTA"
-   ],
-   "company": "Axalta Coating Systems Ltd.",
-   "title": "Axalta Schedules Second Quarter 2026 Earnings Conference Call",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/axalta-schedules-second-quarter-2026-120000104.html",
-   "published_unix": 1783339200,
-   "captured_at": "2026-07-06T14:29:36"
-  },
-  {
-   "uuid": "be07555c-9617-3b68-ac49-49ff307a73dc",
-   "tickers": [
-    "VSNT"
-   ],
-   "company": "Versant Media Group, Inc.",
-   "title": "Versant Announces Agreement to Acquire Full Swing",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/media-advertising/articles/versant-announces-agreement-acquire-full-115900388.html",
-   "published_unix": 1783339140,
-   "captured_at": "2026-07-06T14:29:47"
-  },
-  {
-   "uuid": "e6e9a3f7-df9f-3fde-9f5e-3b161c311984",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "HSBC Adjusts Price Target on Johnson & Johnson to $290 From $280",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-adjusts-price-target-johnson-113356148.html",
-   "published_unix": 1783337636,
-   "captured_at": "2026-07-06T14:30:17"
-  },
-  {
-   "uuid": "39ba6f85-23ed-37b0-8e7a-4257b23c401e",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "HSBC Adjusts Price Target on Merck & Co to $150 From $135",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-adjusts-price-target-merck-113340454.html",
-   "published_unix": 1783337620,
-   "captured_at": "2026-07-06T14:30:17"
-  },
-  {
-   "uuid": "055433c9-a560-3ac3-a067-e01d8cc864cd",
-   "tickers": [
-    "AHCO"
-   ],
-   "company": "AdaptHealth Corp.",
-   "title": "AdaptHealth discloses June cyberattack resulting in patient data exposure",
-   "publisher": "Medical Device Network",
-   "link": "https://finance.yahoo.com/m/055433c9-a560-3ac3-a067-e01d8cc864cd/adapthealth-discloses-june.html",
-   "published_unix": 1783336793,
-   "captured_at": "2026-07-06T14:29:53"
-  },
-  {
-   "uuid": "e15fea81-d2f5-3d31-83b0-20c7ac4020d5",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Rothschild & Co Redburn Adjusts Price Target on Merck to $145 From $140",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rothschild-co-redburn-adjusts-price-103713997.html",
-   "published_unix": 1783334233,
-   "captured_at": "2026-07-06T14:30:17"
-  },
-  {
-   "uuid": "0401fb8a-b79c-33d8-b363-364189067670",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Comcast's Sky Agrees to Acquire ITV Media and Entertainment Business for up to $2.13 Billion",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-apos-sky-agrees-acquire-085545800.html",
-   "published_unix": 1783328145,
-   "captured_at": "2026-07-06T14:29:33"
-  },
-  {
-   "uuid": "94ccd3dc-6ea0-3ce5-8a7c-1eb574856ab6",
-   "tickers": [
-    "BURL"
-   ],
-   "company": "Burlington Stores, Inc.",
-   "title": "EXCLUSIVE: Burlington\u2019s Transformation: Downsizing Stores and Growing",
-   "publisher": "WWD",
-   "link": "https://finance.yahoo.com/m/94ccd3dc-6ea0-3ce5-8a7c-1eb574856ab6/exclusive%3A-burlington%E2%80%99s.html",
-   "published_unix": 1783310460,
-   "captured_at": "2026-07-06T14:29:43"
-  },
-  {
-   "uuid": "e782d54e-b538-33ff-b2a4-8b0769d8cb93",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "NAVN, JNJ, CRWD Stocks Hit 52-Week Highs Last Week: What's Driving The Surge?",
-   "publisher": "Stocktwits",
-   "link": "https://finance.yahoo.com/m/e782d54e-b538-33ff-b2a4-8b0769d8cb93/navn%2C-jnj%2C-crwd-stocks-hit.html",
-   "published_unix": 1783309610,
-   "captured_at": "2026-07-06T14:30:17"
   }
  ]
 }

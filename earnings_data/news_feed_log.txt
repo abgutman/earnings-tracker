@@ -524,3 +524,7 @@
 [2026-07-11 03:35:51] === News feed poll start ===
 [2026-07-11 03:35:51] Polling Yahoo for 109 companies
 [2026-07-11 03:36:34] === Done. Fetched 109 companies, 273 new items, 150 total in 168h window ===
+[2026-07-13 13:31:30] === News feed poll start ===
+[2026-07-13 13:31:30] Polling Yahoo for 109 companies
+[2026-07-13 13:32:33]   fetch err: Failed to perform, curl: (28) Operation timed out after 12002 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+[2026-07-13 13:32:35] === Done. Fetched 108 companies, 292 new items, 149 total in 168h window ===
