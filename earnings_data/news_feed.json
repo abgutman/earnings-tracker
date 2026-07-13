@@ -1,6 +1,78 @@
 {
- "generated_at": "2026-07-13T13:32:35+00:00",
+ "generated_at": "2026-07-13T16:43:57+00:00",
  "items": [
+  {
+   "uuid": "bb63412e-9191-3724-babf-08d57862a7f4",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "UBS Adjusts Price Target on Aramark to $67 From $56, Maintains Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-price-target-aramark-150541900.html",
+   "published_unix": 1783955141,
+   "captured_at": "2026-07-13T16:43:03"
+  },
+  {
+   "uuid": "9751a72d-79f2-37a7-a8d1-4861af5da773",
+   "tickers": [
+    "WST"
+   ],
+   "company": "WEST PHARMACEUTICAL SERVICES INC",
+   "title": "BNP Paribas Initiates West Pharmaceutical Services at Outperform With $447 Price Target",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-initiates-west-pharmaceutical-145849515.html",
+   "published_unix": 1783954729,
+   "captured_at": "2026-07-13T16:43:16"
+  },
+  {
+   "uuid": "58f59a67-85d7-3522-8b51-160cdeb313c4",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "TD Cowen Adjusts Price Target on Johnson & Johnson to $300 From $250, Maintains Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-adjusts-price-target-141532220.html",
+   "published_unix": 1783952132,
+   "captured_at": "2026-07-13T16:43:56"
+  },
+  {
+   "uuid": "7ce53427-2a18-3e8b-aa8b-385d48555fd8",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "BMO Capital Adjusts Price Target on Merck & Co to $142 From $135, Maintains Outperform Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bmo-capital-adjusts-price-target-141401632.html",
+   "published_unix": 1783952041,
+   "captured_at": "2026-07-13T16:43:56"
+  },
+  {
+   "uuid": "bf256bef-0bf2-3003-ba6a-8e3415e9603f",
+   "tickers": [
+    "EXYN"
+   ],
+   "company": "Exyn Technologies, Inc.",
+   "title": "Exyn COO Ben Williams to Discuss the Future of Autonomous Robotics in Live Industry Interview: The Future of 3D Scanning is Autonomous",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/technology/ai/articles/exyn-coo-ben-williams-discuss-140500327.html",
+   "published_unix": 1783951500,
+   "captured_at": "2026-07-13T16:43:44"
+  },
+  {
+   "uuid": "7777117e-1dcb-341f-93fd-b71d45e2bd66",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Xfinity and Comcast Business High-Speed Internet Now Available to More Than 1,500 Homes and Businesses in Flagler Estates",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/articles/xfinity-comcast-business-high-speed-130000894.html",
+   "published_unix": 1783947600,
+   "captured_at": "2026-07-13T16:43:03"
+  },
   {
    "uuid": "be50aa02-1fd0-31b1-9860-17dc3a72c53b",
    "tickers": [
@@ -120,6 +192,18 @@
    "link": "https://finance.yahoo.com/healthcare/articles/ocugen-inc-announces-binding-term-110200535.html",
    "published_unix": 1783940520,
    "captured_at": "2026-07-13T13:31:37"
+  },
+  {
+   "uuid": "2f1d8290-08a3-36dd-92a6-fec0828be941",
+   "tickers": [
+    "HSY"
+   ],
+   "company": "HERSHEY CO",
+   "title": "JPMorgan Cuts Price Target on Hershey to $191 From $204, Maintains Neutral Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-cuts-price-target-hershey-110159961.html",
+   "published_unix": 1783940519,
+   "captured_at": "2026-07-13T16:43:55"
   },
   {
    "uuid": "dd8318b3-fe8c-35d2-8b2c-5da8f6077d5d",
@@ -1776,18 +1860,6 @@
    "link": "https://finance.yahoo.com/media-advertising/articles/comcasts-sky-buy-britains-itv-182055043.html",
    "published_unix": 1783362055,
    "captured_at": "2026-07-06T21:00:41"
-  },
-  {
-   "uuid": "c6d816d0-e8b8-32c8-a2a3-4b8b08e469ed",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Johnson & Johnson, IBD Stock Of The Day, In Buy Zone Heading Into Earnings",
-   "publisher": "Investor's Business Daily",
-   "link": "https://finance.yahoo.com/m/c6d816d0-e8b8-32c8-a2a3-4b8b08e469ed/johnson-%26-johnson%2C-ibd-stock.html",
-   "published_unix": 1783352496,
-   "captured_at": "2026-07-06T18:24:17"
   }
  ]
 }
