@@ -1,6 +1,18 @@
 {
- "generated_at": "2026-07-13T20:34:55+00:00",
+ "generated_at": "2026-07-13T22:09:20+00:00",
  "items": [
+  {
+   "uuid": "3dba9d6a-f788-32eb-98c1-83395f7dd631",
+   "tickers": [
+    "DORM"
+   ],
+   "company": "Dorman Products, Inc.",
+   "title": "Dorman Products, Inc. Announces Date to Report Second Quarter 2026 Financial Results",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/dorman-products-inc-announces-date-203000209.html",
+   "published_unix": 1783974600,
+   "captured_at": "2026-07-13T22:08:49"
+  },
   {
    "uuid": "f78d5338-a2bc-3d3c-adec-ad11bc54e0df",
    "tickers": [
@@ -1740,30 +1752,6 @@
    "link": "https://finance.yahoo.com/m/67e7f79d-9e76-34a6-ab42-79e38ec66792/analyst-report%3A-the-hershey.html",
    "published_unix": 1783383183,
    "captured_at": "2026-07-07T04:14:02"
-  },
-  {
-   "uuid": "92d9dff9-f6ae-3cb2-9416-2d040514ff20",
-   "tickers": [
-    "HLNE"
-   ],
-   "company": "Hamilton Lane INC",
-   "title": "Hamilton Lane Raises $3.8 Billion Fund Targeting Mid-Market Private Equity Deals",
-   "publisher": "Bloomberg",
-   "link": "https://finance.yahoo.com/video/hamilton-lane-raises-3-8-214910144.html",
-   "published_unix": 1783374550,
-   "captured_at": "2026-07-06T22:36:44"
-  },
-  {
-   "uuid": "c7fb84ff-d17a-3d1f-a334-b77698d00d3d",
-   "tickers": [
-    "EXYN"
-   ],
-   "company": "Exyn Technologies, Inc.",
-   "title": "Exyn Technologies Reports First Quarter 2026 Financial Results Successfully Completed Initial Public Offering, and Continued Expansion of ExynAI Across Commercial and Government Markets",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/exyn-technologies-reports-first-quarter-213500565.html",
-   "published_unix": 1783373700,
-   "captured_at": "2026-07-06T22:37:00"
   }
  ]
 }
