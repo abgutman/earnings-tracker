@@ -1,6 +1,18 @@
 {
- "generated_at": "2026-07-13T18:50:33+00:00",
+ "generated_at": "2026-07-13T20:34:55+00:00",
  "items": [
+  {
+   "uuid": "f78d5338-a2bc-3d3c-adec-ad11bc54e0df",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Toll Brothers Announces Grand Opening of Torrente in Eagle, Idaho",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-grand-opening-195300751.html",
+   "published_unix": 1783972380,
+   "captured_at": "2026-07-13T20:34:09"
+  },
   {
    "uuid": "7a1c3d9d-2178-34ea-9d73-e6fdc7554c32",
    "tickers": [
@@ -1752,90 +1764,6 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/exyn-technologies-reports-first-quarter-213500565.html",
    "published_unix": 1783373700,
    "captured_at": "2026-07-06T22:37:00"
-  },
-  {
-   "uuid": "4be4f7c9-e12d-300d-a6cd-15ca67aa1a2a",
-   "tickers": [
-    "VSNT"
-   ],
-   "company": "Versant Media Group, Inc.",
-   "title": "Versant to Report Second Quarter 2026 Operating and Financial Results",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/media-advertising/articles/versant-report-second-quarter-2026-203000522.html",
-   "published_unix": 1783369800,
-   "captured_at": "2026-07-06T22:36:43"
-  },
-  {
-   "uuid": "03a07422-33d0-311d-93d0-d03fea2271d0",
-   "tickers": [
-    "CNTX"
-   ],
-   "company": "Context Therapeutics Inc.",
-   "title": "Context Therapeutics Joins Russell 2000, Russell 3000 Indexes",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/context-therapeutics-joins-russell-2000-201755800.html",
-   "published_unix": 1783369075,
-   "captured_at": "2026-07-06T22:36:55"
-  },
-  {
-   "uuid": "ff0aafce-7c3c-338c-a734-99fc23f14885",
-   "tickers": [
-    "UHS"
-   ],
-   "company": "UNIVERSAL HEALTH SERVICES INC",
-   "title": "UNIVERSAL HEALTH SERVICES, INC. ANNOUNCES DATE FOR SECOND QUARTER 2026 EARNINGS RELEASE AND CONFERENCE CALL",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/universal-health-services-inc-announces-201500141.html",
-   "published_unix": 1783368900,
-   "captured_at": "2026-07-06T21:00:48"
-  },
-  {
-   "uuid": "c3379a25-1e38-3a8b-8093-6ff6e302d9d0",
-   "tickers": [
-    "UGI"
-   ],
-   "company": "UGI CORP /PA/",
-   "title": "UGI Corporation to Hold Fiscal 2026 Third Quarter Earnings Conference Call on Thursday, August 6",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/energy/articles/ugi-corporation-hold-fiscal-2026-201500080.html",
-   "published_unix": 1783368900,
-   "captured_at": "2026-07-06T22:36:38"
-  },
-  {
-   "uuid": "316bc1f4-af7a-313f-8210-17b4fca17eec",
-   "tickers": [
-    "CUBE"
-   ],
-   "company": "CubeSmart",
-   "title": "CubeSmart Announces the Date of Its Second Quarter 2026 Earnings Release and Conference Call",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/cubesmart-announces-date-second-quarter-201500276.html",
-   "published_unix": 1783368900,
-   "captured_at": "2026-07-06T22:36:43"
-  },
-  {
-   "uuid": "98e508fd-d9b4-3165-aa64-dd5dd00c0b60",
-   "tickers": [
-    "CNTX"
-   ],
-   "company": "Context Therapeutics Inc.",
-   "title": "Context Therapeutics Added to Russell 2000\u00ae and Russell 3000\u00ae Indexes",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/context-therapeutics-added-russell-2000-200700840.html",
-   "published_unix": 1783368420,
-   "captured_at": "2026-07-06T22:36:55"
-  },
-  {
-   "uuid": "5358ce1e-edf2-3c93-b9d0-c0d0f59641e4",
-   "tickers": [
-    "EPAM"
-   ],
-   "company": "EPAM Systems, Inc.",
-   "title": "EPAM Announces Date for Second Quarter Earnings Release and Conference Call",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/epam-announces-date-second-quarter-200000164.html",
-   "published_unix": 1783368000,
-   "captured_at": "2026-07-06T22:36:44"
   }
  ]
 }
