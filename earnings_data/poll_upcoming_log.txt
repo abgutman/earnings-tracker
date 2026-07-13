@@ -189,3 +189,16 @@
 [2026-07-10 23:42:07] Polling Yahoo for 106 companies
 [2026-07-10 23:43:09] === Done. Captured 0 new save-the-dates, cleaned 0 past. ===
 
+[2026-07-13 23:37:46] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-07-13 23:37:46] Polling Yahoo for 106 companies
+[2026-07-13 23:37:52]   + IRT: release=None call=2026-08-04 09:00 ET
+[2026-07-13 23:37:52]     via: IRT Announces Dates for Second Quarter 2026 Earnings Release and Conference Call
+[2026-07-13 23:37:54]   ✉ alert sent for IRT
+[2026-07-13 23:38:12]   + DORM: release=2026-08-03 call=2026-08-04 08:00 ET
+[2026-07-13 23:38:12]     via: Dorman Products, Inc. Announces Date to Report Second Quarter 2026 Financial Results
+[2026-07-13 23:38:13]   ✉ alert sent for DORM
+[2026-07-13 23:38:18]   + NVRI: release=None call=2026-08-11 09:00 ET
+[2026-07-13 23:38:18]     via: Enviri Corporation Announces Timing of Second Quarter 2026 Results and Conference Call
+[2026-07-13 23:38:20]   ✉ alert sent for NVRI
+[2026-07-13 23:38:54] === Done. Captured 3 new save-the-dates, cleaned 0 past. ===
+

@@ -217,5 +217,35 @@
   "source_publisher": "PR Newswire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-07-09T23:55:13"
+ },
+ "IRT": {
+  "release_date": null,
+  "call_date": "2026-08-04",
+  "call_time": "09:00 ET",
+  "source_url": "https://finance.yahoo.com/real-estate/articles/irt-announces-dates-second-quarter-120000610.html",
+  "source_title": "IRT Announces Dates for Second Quarter 2026 Earnings Release and Conference Call",
+  "source_publisher": "Business Wire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-07-13T23:37:52"
+ },
+ "DORM": {
+  "release_date": "2026-08-03",
+  "call_date": "2026-08-04",
+  "call_time": "08:00 ET",
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/dorman-products-inc-announces-date-203000209.html",
+  "source_title": "Dorman Products, Inc. Announces Date to Report Second Quarter 2026 Financial Results",
+  "source_publisher": "GlobeNewswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-07-13T23:38:12"
+ },
+ "NVRI": {
+  "release_date": null,
+  "call_date": "2026-08-11",
+  "call_time": "09:00 ET",
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/enviri-corporation-announces-timing-second-120000169.html",
+  "source_title": "Enviri Corporation Announces Timing of Second Quarter 2026 Results and Conference Call",
+  "source_publisher": "GlobeNewswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-07-13T23:38:18"
  }
 }
