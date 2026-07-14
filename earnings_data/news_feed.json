@@ -1,6 +1,18 @@
 {
- "generated_at": "2026-07-14T16:38:32+00:00",
+ "generated_at": "2026-07-14T18:16:47+00:00",
  "items": [
+  {
+   "uuid": "c8e1af74-a7f0-389b-81ad-7f69e4950967",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "West Virginia American Water Opens Firefighting Grant Program to Support Local Departments",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/west-virginia-american-water-opens-180400007.html",
+   "published_unix": 1784052240,
+   "captured_at": "2026-07-14T18:16:02"
+  },
   {
    "uuid": "51dda229-8298-3e12-b563-c3a649ce6f39",
    "tickers": [
