@@ -1,6 +1,18 @@
 {
- "generated_at": "2026-07-13T23:14:41+00:00",
+ "generated_at": "2026-07-14T03:28:06+00:00",
  "items": [
+  {
+   "uuid": "8c0fd298-2fbe-395d-855f-404b5e4c99aa",
+   "tickers": [
+    "LNC"
+   ],
+   "company": "LINCOLN NATIONAL CORP",
+   "title": "LNC Stock Pops On Report Of Lincoln National\u2019s Potential $5B Reinsurance Deal With Talcott",
+   "publisher": "Stocktwits",
+   "link": "https://finance.yahoo.com/m/8c0fd298-2fbe-395d-855f-404b5e4c99aa/lnc-stock-pops-on-report-of.html",
+   "published_unix": 1783986582,
+   "captured_at": "2026-07-14T03:27:25"
+  },
   {
    "uuid": "3dba9d6a-f788-32eb-98c1-83395f7dd631",
    "tickers": [
@@ -1740,18 +1752,6 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-adjusts-price-target-093942804.html",
    "published_unix": 1783417182,
    "captured_at": "2026-07-07T13:26:13"
-  },
-  {
-   "uuid": "67e7f79d-9e76-34a6-ab42-79e38ec66792",
-   "tickers": [
-    "HSY"
-   ],
-   "company": "HERSHEY CO",
-   "title": "Analyst Report: The Hershey Company",
-   "publisher": "Morningstar Research",
-   "link": "https://finance.yahoo.com/m/67e7f79d-9e76-34a6-ab42-79e38ec66792/analyst-report%3A-the-hershey.html",
-   "published_unix": 1783383183,
-   "captured_at": "2026-07-07T04:14:02"
   }
  ]
 }
