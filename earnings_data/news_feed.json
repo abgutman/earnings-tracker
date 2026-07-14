@@ -1,6 +1,42 @@
 {
- "generated_at": "2026-07-14T15:03:54+00:00",
+ "generated_at": "2026-07-14T16:38:32+00:00",
  "items": [
+  {
+   "uuid": "51dda229-8298-3e12-b563-c3a649ce6f39",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "American Water Named One of America's Best Companies to Work For by U.S. News & World Report",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/american-water-named-one-americas-161600985.html",
+   "published_unix": 1784045760,
+   "captured_at": "2026-07-14T16:37:59"
+  },
+  {
+   "uuid": "bf5d74f6-8213-3fee-9a82-4964a948a492",
+   "tickers": [
+    "SEIC"
+   ],
+   "company": "SEI INVESTMENTS CO",
+   "title": "SEI Expands ETF Platform with SEI QiM U.S. Equity Factor Allocation Active ETF (SEUS)",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/sei-expands-etf-platform-sei-160000434.html",
+   "published_unix": 1784044800,
+   "captured_at": "2026-07-14T16:37:57"
+  },
+  {
+   "uuid": "75061a80-4cc3-38b3-8551-1c7bae0b73ed",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "FIVE BELOW, INC",
+   "title": "Five Below's Momentum Remains Strong as Pricing, Traffic and Customer Engagement Stay Healthy, UBS Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-apos-momentum-remains-152322125.html",
+   "published_unix": 1784042602,
+   "captured_at": "2026-07-14T16:37:51"
+  },
   {
    "uuid": "e11ed5ee-54e9-3689-bd04-e56c68e34579",
    "tickers": [
@@ -1704,18 +1740,6 @@
    "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-model-home-182300676.html",
    "published_unix": 1783448580,
    "captured_at": "2026-07-07T19:14:18"
-  },
-  {
-   "uuid": "c262426e-cce1-373c-b32c-555dc2e6e385",
-   "tickers": [
-    "UVSP"
-   ],
-   "company": "UNIVEST FINANCIAL Corp",
-   "title": "Univest Financial Corporation to Hold Second Quarter 2026 Earnings Call",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/univest-financial-corporation-hold-second-155000757.html",
-   "published_unix": 1783439400,
-   "captured_at": "2026-07-07T16:42:08"
   }
  ]
 }
