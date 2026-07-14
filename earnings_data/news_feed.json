@@ -1,6 +1,54 @@
 {
- "generated_at": "2026-07-14T20:22:32+00:00",
+ "generated_at": "2026-07-14T22:12:09+00:00",
  "items": [
+  {
+   "uuid": "f349fb4b-c156-307d-902a-ec06f7395199",
+   "tickers": [
+    "VSNT"
+   ],
+   "company": "Versant Media Group, Inc.",
+   "title": "USA Sports and Bundesliga Announce Exclusive Multi-Year U.S. Media Rights Agreement",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/media-advertising/articles/usa-sports-bundesliga-announce-exclusive-220300585.html",
+   "published_unix": 1784066580,
+   "captured_at": "2026-07-14T22:11:30"
+  },
+  {
+   "uuid": "7d9d8cf0-6443-3a0c-84d3-9734757666fe",
+   "tickers": [
+    "WHK"
+   ],
+   "company": "WhiteHawk Income Corp",
+   "title": "WhiteHawk Minerals Corp. Announces Second Quarter 2026 Earnings Conference Call for August 13, 2026",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/whitehawk-minerals-corp-announces-second-210000526.html",
+   "published_unix": 1784062800,
+   "captured_at": "2026-07-14T22:12:03"
+  },
+  {
+   "uuid": "f1228fc6-3288-3ade-b26a-a08ddeba2560",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Comcast eyes acquisition of 33-year-old rival amid struggles",
+   "publisher": "TheStreet",
+   "link": "https://finance.yahoo.com/m/f1228fc6-3288-3ade-b26a-a08ddeba2560/comcast-eyes-acquisition-of.html",
+   "published_unix": 1784061180,
+   "captured_at": "2026-07-14T22:11:15"
+  },
+  {
+   "uuid": "f03c0ec1-5fea-3967-a6e6-25c39d1b2539",
+   "tickers": [
+    "VERX"
+   ],
+   "company": "Vertex, Inc.",
+   "title": "Vertex to Announce Second Quarter 2026 Financial Results on Monday, August 3, 2026",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/vertex-announce-second-quarter-2026-203000297.html",
+   "published_unix": 1784061000,
+   "captured_at": "2026-07-14T22:11:35"
+  },
   {
    "uuid": "dac28e50-8991-3943-bf46-15d1c0223a36",
    "tickers": [
