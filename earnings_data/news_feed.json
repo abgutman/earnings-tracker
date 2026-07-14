@@ -1,6 +1,114 @@
 {
- "generated_at": "2026-07-14T03:28:06+00:00",
+ "generated_at": "2026-07-14T12:40:05+00:00",
  "items": [
+  {
+   "uuid": "704bf81c-51d2-32f1-9160-afc89e4f8720",
+   "tickers": [
+    "EXYN"
+   ],
+   "company": "Exyn Technologies, Inc.",
+   "title": "Exyn Defense to Showcase Mission-Ready Autonomous Robotics at the 2026 Pennsylvania Defense & Innovation Summit",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/technology/ai/articles/exyn-defense-showcase-mission-ready-123000600.html",
+   "published_unix": 1784032200,
+   "captured_at": "2026-07-14T12:39:55"
+  },
+  {
+   "uuid": "8f3a4521-7b4f-34c2-8163-9051ee1b7894",
+   "tickers": [
+    "AVTR"
+   ],
+   "company": "Avantor, Inc.",
+   "title": "Avantor's\u00ae NuSil\u00ae Brand Expands Partnership with the Population Council to Develop Long-Acting HIV Prevention Product",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/avantors-nusil-brand-expands-partnership-120500772.html",
+   "published_unix": 1784030700,
+   "captured_at": "2026-07-14T12:39:38"
+  },
+  {
+   "uuid": "8f7b7a98-a575-3f4b-8156-9d00c53a1857",
+   "tickers": [
+    "PPL"
+   ],
+   "company": "PPL Corp",
+   "title": "Barclays Adjusts PPL Price Target to $41 From $39, Maintains Overweight Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-adjusts-ppl-price-target-115408943.html",
+   "published_unix": 1784030048,
+   "captured_at": "2026-07-14T12:40:04"
+  },
+  {
+   "uuid": "789175db-b674-3c89-9e40-b98eb384f23d",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "BNP Paribas Adjusts Comcast Price Target to $22 From $25, Maintains Underperform Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-adjusts-comcast-price-113843149.html",
+   "published_unix": 1784029123,
+   "captured_at": "2026-07-14T12:39:25"
+  },
+  {
+   "uuid": "9a6ae0e4-90fe-3d94-a7e6-ec0ea2c8467d",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark to Host Conference Call on Third Quarter Fiscal 2026 Results",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-host-conference-call-third-113000173.html",
+   "published_unix": 1784028600,
+   "captured_at": "2026-07-14T12:39:26"
+  },
+  {
+   "uuid": "c9da9918-67ef-32ef-8649-d1a988b42c8c",
+   "tickers": [
+    "DD"
+   ],
+   "company": "DuPont de Nemours, Inc.",
+   "title": "DuPont Schedules Second Quarter 2026 Earnings Conference Call",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/dupont-schedules-second-quarter-2026-110000852.html",
+   "published_unix": 1784026800,
+   "captured_at": "2026-07-14T12:40:05"
+  },
+  {
+   "uuid": "9805e800-98d6-3137-866c-61935f6720fd",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "You could be owed cash in the Comcast data breach settlement",
+   "publisher": "USA TODAY",
+   "link": "https://finance.yahoo.com/m/9805e800-98d6-3137-866c-61935f6720fd/you-could-be-owed-cash-in-the.html",
+   "published_unix": 1784023666,
+   "captured_at": "2026-07-14T12:39:25"
+  },
+  {
+   "uuid": "7a9e8a5c-989b-3cc3-a3b0-c60247cfbd87",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Advancements in CKD Care: How New Therapies from AstraZeneca, Johnson & Johnson, Novartis, Bayer, and Amgen Are Changing the Landscape",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/advancements-ckd-care-therapies-astrazeneca-081600303.html",
+   "published_unix": 1784016960,
+   "captured_at": "2026-07-14T12:40:05"
+  },
+  {
+   "uuid": "92858d7b-2579-3830-a74e-bc964b0b25d2",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Bernstein Slashes Targets On VZ, CHTR, T, CMCSA, TMUS Stocks: What\u2019s The SpaceX Connection?",
+   "publisher": "Stocktwits",
+   "link": "https://finance.yahoo.com/m/92858d7b-2579-3830-a74e-bc964b0b25d2/bernstein-slashes-targets-on.html",
+   "published_unix": 1784010367,
+   "captured_at": "2026-07-14T12:39:25"
+  },
   {
    "uuid": "8c0fd298-2fbe-395d-855f-404b5e4c99aa",
    "tickers": [
@@ -72,6 +180,18 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-initiates-west-pharmaceutical-145849515.html",
    "published_unix": 1783954729,
    "captured_at": "2026-07-13T16:43:16"
+  },
+  {
+   "uuid": "36f589ec-db4d-366f-9472-8254e09e6663",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "CAMPBELL'S Co",
+   "title": "Analyst Report: The Campbell's Company",
+   "publisher": "Morningstar Research",
+   "link": "https://finance.yahoo.com/m/36f589ec-db4d-366f-9472-8254e09e6663/analyst-report%3A-the.html",
+   "published_unix": 1783953906,
+   "captured_at": "2026-07-14T12:39:33"
   },
   {
    "uuid": "58f59a67-85d7-3522-8b51-160cdeb313c4",
@@ -1608,150 +1728,6 @@
    "link": "https://finance.yahoo.com/m/1806ddc8-7492-3334-96ab-5de0bc407511/certara-teams-up-with-nvidia.html",
    "published_unix": 1783428863,
    "captured_at": "2026-07-07T13:26:34"
-  },
-  {
-   "uuid": "c70fa3a0-91c6-3c4f-b095-fb91c0258eac",
-   "tickers": [
-    "WHK"
-   ],
-   "company": "WhiteHawk Income Corp",
-   "title": "Raymond James Initiates WhiteHawk Minerals at Strong Buy With $34 Price Target",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/raymond-james-initiates-whitehawk-minerals-122741828.html",
-   "published_unix": 1783427261,
-   "captured_at": "2026-07-07T13:26:52"
-  },
-  {
-   "uuid": "aac50017-43b5-3705-ab9b-8b1f8042432e",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "What The Selloff In CMCSA Ignores About Its Cash",
-   "publisher": "Trefis",
-   "link": "https://finance.yahoo.com/m/aac50017-43b5-3705-ab9b-8b1f8042432e/what-the-selloff-in-cmcsa.html",
-   "published_unix": 1783427218,
-   "captured_at": "2026-07-07T13:26:13"
-  },
-  {
-   "uuid": "55149e09-c4bd-3bf4-a9dc-d05b86fdfb85",
-   "tickers": [
-    "CERT"
-   ],
-   "company": "Certara, Inc.",
-   "title": "Certara Accelerates Drug Discovery and Development with NVIDIA BioNeMo Agent Toolkit",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/certara-accelerates-drug-discovery-development-120000829.html",
-   "published_unix": 1783425600,
-   "captured_at": "2026-07-07T13:26:34"
-  },
-  {
-   "uuid": "48bdf2c8-0a7d-3cad-9a20-f4d313eb41f5",
-   "tickers": [
-    "AHCO"
-   ],
-   "company": "AdaptHealth Corp.",
-   "title": "AdaptHealth discloses patient data was stolen in cyberattack",
-   "publisher": "MedTech Dive",
-   "link": "https://finance.yahoo.com/m/48bdf2c8-0a7d-3cad-9a20-f4d313eb41f5/adapthealth-discloses-patient.html",
-   "published_unix": 1783423146,
-   "captured_at": "2026-07-07T16:42:05"
-  },
-  {
-   "uuid": "45262c4b-f904-3a64-9436-fc8c995b8e43",
-   "tickers": [
-    "ANVS"
-   ],
-   "company": "Annovis Bio, Inc.",
-   "title": "Annovis Bio Completes Patient Enrollment for Phase 3 Study of Buntanetap in Alzheimer's Disease",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/annovis-bio-completes-patient-enrollment-111840099.html",
-   "published_unix": 1783423120,
-   "captured_at": "2026-07-07T13:26:43"
-  },
-  {
-   "uuid": "c1be0bf1-b967-3b01-aff9-88d93d1e64c2",
-   "tickers": [
-    "HLNE"
-   ],
-   "company": "Hamilton Lane INC",
-   "title": "Hamilton Lane Incorporated to Announce First Quarter Fiscal 2027 Results on August 4, 2026",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/hamilton-lane-incorporated-announce-first-110000690.html",
-   "published_unix": 1783422000,
-   "captured_at": "2026-07-07T13:26:28"
-  },
-  {
-   "uuid": "3ed7b6d1-fb39-39d7-a1ba-bc961f8e8702",
-   "tickers": [
-    "AVTX"
-   ],
-   "company": "Avalo Therapeutics, Inc.",
-   "title": "Avalo Therapeutics to Participate in the Leerink Partners Therapeutics Forum",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/avalo-therapeutics-participate-leerink-partners-110000058.html",
-   "published_unix": 1783422000,
-   "captured_at": "2026-07-07T13:26:34"
-  },
-  {
-   "uuid": "2144fe86-6425-3faa-8591-9da2f23da897",
-   "tickers": [
-    "ANVS"
-   ],
-   "company": "Annovis Bio, Inc.",
-   "title": "Annovis Reaches Full Enrollment in Pivotal Phase 3 Trial of Buntanetap for Early Alzheimer\u2019s Disease",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/annovis-reaches-full-enrollment-pivotal-110000823.html",
-   "published_unix": 1783422000,
-   "captured_at": "2026-07-07T13:26:43"
-  },
-  {
-   "uuid": "7bb805c8-258d-3567-8d9a-c5d17b78189f",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Morgan Stanley Adjusts Price Target on Comcast to $30 From $33",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-price-target-104225943.html",
-   "published_unix": 1783420945,
-   "captured_at": "2026-07-07T13:26:13"
-  },
-  {
-   "uuid": "9b4d7aa6-fc22-3feb-95a4-f1ab0a8ded80",
-   "tickers": [
-    "TFX"
-   ],
-   "company": "TELEFLEX INC",
-   "title": "Teleflex Publishes 2025 Global Impact Report",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/healthcare/articles/teleflex-publishes-2025-global-impact-103000320.html",
-   "published_unix": 1783420200,
-   "captured_at": "2026-07-07T13:26:27"
-  },
-  {
-   "uuid": "a93b23b3-aa05-3a91-b818-300c43d3d280",
-   "tickers": [
-    "WST"
-   ],
-   "company": "WEST PHARMACEUTICAL SERVICES INC",
-   "title": "West to Host Second-Quarter 2026 Conference Call",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/west-host-second-quarter-2026-100000024.html",
-   "published_unix": 1783418400,
-   "captured_at": "2026-07-07T13:26:24"
-  },
-  {
-   "uuid": "c60c7f52-57e8-3fc3-922b-a34056c26394",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Wells Fargo Adjusts Price Target on Comcast to $28 From $29",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-adjusts-price-target-093942804.html",
-   "published_unix": 1783417182,
-   "captured_at": "2026-07-07T13:26:13"
   }
  ]
 }
