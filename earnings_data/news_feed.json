@@ -1,6 +1,18 @@
 {
- "generated_at": "2026-07-14T18:16:47+00:00",
+ "generated_at": "2026-07-14T20:22:32+00:00",
  "items": [
+  {
+   "uuid": "dac28e50-8991-3943-bf46-15d1c0223a36",
+   "tickers": [
+    "AHCO"
+   ],
+   "company": "AdaptHealth Corp.",
+   "title": "AdaptHealth Corp. Announces Second Quarter 2026 Earnings Release Date and Conference Call",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/healthcare/articles/adapthealth-corp-announces-second-quarter-200500934.html",
+   "published_unix": 1784059500,
+   "captured_at": "2026-07-14T20:22:00"
+  },
   {
    "uuid": "c8e1af74-a7f0-389b-81ad-7f69e4950967",
    "tickers": [
@@ -1716,42 +1728,6 @@
    "link": "https://finance.yahoo.com/m/277c67d1-e078-3026-b235-7ce321196f4b/cert%3A-raising-target-price-to.html",
    "published_unix": 1783468800,
    "captured_at": "2026-07-08T21:30:32"
-  },
-  {
-   "uuid": "3fc6cc0d-ce0d-33f7-b3dd-5320ae8d38da",
-   "tickers": [
-    "VSH"
-   ],
-   "company": "VISHAY INTERTECHNOLOGY INC",
-   "title": "Vishay Intertechnology to Announce Second Quarter Results on Wednesday, August 5",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/vishay-intertechnology-announce-second-quarter-201500514.html",
-   "published_unix": 1783455300,
-   "captured_at": "2026-07-07T21:40:21"
-  },
-  {
-   "uuid": "98c3c763-8131-3110-b50b-b0d07e7fd0ed",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers Opens Two New Townhome Collections at The Crossing at Coal Mountain in Cumming, Georgia",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-opens-two-townhome-182300077.html",
-   "published_unix": 1783448580,
-   "captured_at": "2026-07-07T19:14:18"
-  },
-  {
-   "uuid": "71e97635-e9ed-32d3-ac63-ca6f5075bd44",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers Announces Model Home for Sale at Regency at Ten Trails in Black Diamond, Washington",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-model-home-182300676.html",
-   "published_unix": 1783448580,
-   "captured_at": "2026-07-07T19:14:18"
   }
  ]
 }
