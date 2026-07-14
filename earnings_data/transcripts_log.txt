@@ -1328,3 +1328,19 @@
 [2026-07-14 16:49:43] No new transcripts found; transcripts.json unchanged
 [2026-07-14 16:49:43] === Done. 0 new transcript links found. ===
 
+[2026-07-14 20:42:21] === Fool transcript harvest start (dry_run=False) ===
+[2026-07-14 20:42:21] Loaded 122 tickers from expanded_companies.json
+[2026-07-14 20:42:21] Recent tickers (last filing within 14d): ['BTCS', 'FMC', 'FSK', 'PPL', 'VSNT']
+[2026-07-14 20:42:21] Seed backfill: all seeds already in state
+[2026-07-14 20:42:21] Fetching Fool transcript index: https://www.fool.com/earnings-call-transcripts/
+[2026-07-14 20:42:22]   Found 20 transcript links on index page
+[2026-07-14 20:42:22]   Fool index matched tickers: []
+[2026-07-14 20:42:22] Yahoo secondary search for 5 tickers: ['BTCS', 'FMC', 'FSK', 'PPL', 'VSNT']
+[2026-07-14 20:42:23]   MISS [Yahoo] BTCS: no transcript items in feed
+[2026-07-14 20:42:23]   MISS [Yahoo] FMC: no transcript items in feed
+[2026-07-14 20:42:24]   MISS [Yahoo] FSK: no transcript items in feed
+[2026-07-14 20:42:24]   MISS [Yahoo] PPL: no transcript items in feed
+[2026-07-14 20:42:25]   MISS [Yahoo] VSNT: no transcript items in feed
+[2026-07-14 20:42:25] No new transcripts found; transcripts.json unchanged
+[2026-07-14 20:42:25] === Done. 0 new transcript links found. ===
+
