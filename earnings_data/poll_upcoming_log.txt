@@ -202,3 +202,19 @@
 [2026-07-13 23:38:20]   ✉ alert sent for NVRI
 [2026-07-13 23:38:54] === Done. Captured 3 new save-the-dates, cleaned 0 past. ===
 
+[2026-07-14 23:37:05] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-07-14 23:37:05] Polling Yahoo for 106 companies
+[2026-07-14 23:37:09]   + ARMK: release=None call=2026-08-11 08:30 ET
+[2026-07-14 23:37:09]     via: Aramark to Host Conference Call on Third Quarter Fiscal 2026 Results
+[2026-07-14 23:37:10]   ✉ alert sent for ARMK
+[2026-07-14 23:37:34]   + VERX: release=2026-08-03 call=None None
+[2026-07-14 23:37:34]     via: Vertex to Announce Second Quarter 2026 Financial Results on Monday, August 3, 2026
+[2026-07-14 23:37:35]   ✉ alert sent for VERX
+[2026-07-14 23:37:40]   + AHCO: release=2026-08-04 call=None None
+[2026-07-14 23:37:40]     via: AdaptHealth Corp. Announces Second Quarter 2026 Earnings Release Date and Conference Call
+[2026-07-14 23:37:41]   ✉ alert sent for AHCO
+[2026-07-14 23:38:07]   + WHK: release=2026-08-13 call=None None
+[2026-07-14 23:38:07]     via: WhiteHawk Minerals Corp. Announces Second Quarter 2026 Earnings Conference Call for August 13, 2026
+[2026-07-14 23:38:09]   ✉ alert sent for WHK
+[2026-07-14 23:38:22] === Done. Captured 4 new save-the-dates, cleaned 0 past. ===
+
