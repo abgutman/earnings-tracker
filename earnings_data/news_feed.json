@@ -1,6 +1,54 @@
 {
- "generated_at": "2026-07-14T12:40:05+00:00",
+ "generated_at": "2026-07-14T15:03:54+00:00",
  "items": [
+  {
+   "uuid": "e11ed5ee-54e9-3689-bd04-e56c68e34579",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "Indiana American Water Investing $15 Million in New Elevated Water Tank and System Upgrades in Noblesville",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/economy/policy/articles/indiana-american-water-investing-15-134900665.html",
+   "published_unix": 1784036940,
+   "captured_at": "2026-07-14T15:02:59"
+  },
+  {
+   "uuid": "01046ec8-f0de-380f-b412-4c5ebf5db5dc",
+   "tickers": [
+    "AVTR"
+   ],
+   "company": "Avantor, Inc.",
+   "title": "Avantor's NuSil Brand Expands HIV Prevention Collaboration With Population Council",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/avantor-apos-nusil-brand-expands-132615396.html",
+   "published_unix": 1784035575,
+   "captured_at": "2026-07-14T15:03:06"
+  },
+  {
+   "uuid": "8eb23a00-7609-3514-8fef-5435f690f93f",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "CAMPBELL'S Co",
+   "title": "Campbell's\u00ae Cooks Up New Soup Lineup with 20g of Protein Per Can",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/campbells-cooks-soup-lineup-20g-130000839.html",
+   "published_unix": 1784034000,
+   "captured_at": "2026-07-14T15:02:59"
+  },
+  {
+   "uuid": "02cdf65e-c751-3820-a8d8-cdbed923dd34",
+   "tickers": [
+    "COBA"
+   ],
+   "company": "Chilean Cobalt Corp.",
+   "title": "Chilean Cobalt Corp. Announces Completion of Phase 1 Work Program at NeoRe Rare Earth Project and Execution of Phase 2 Development Activities",
+   "publisher": "ACCESS Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/chilean-cobalt-corp-announces-completion-130000964.html",
+   "published_unix": 1784034000,
+   "captured_at": "2026-07-14T15:03:51"
+  },
   {
    "uuid": "704bf81c-51d2-32f1-9160-afc89e4f8720",
    "tickers": [
@@ -1668,66 +1716,6 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/univest-financial-corporation-hold-second-155000757.html",
    "published_unix": 1783439400,
    "captured_at": "2026-07-07T16:42:08"
-  },
-  {
-   "uuid": "ab9e8461-c3c6-34ad-94f5-348983c5e3c0",
-   "tickers": [
-    "VSH"
-   ],
-   "company": "VISHAY INTERTECHNOLOGY INC",
-   "title": "Vishay Intertechnology Standard-Level 40 V MOSFETs Prevent False Triggering and Reduce Noise in Motor Control Circuits",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/technology/articles/vishay-intertechnology-standard-level-40-150000240.html",
-   "published_unix": 1783436400,
-   "captured_at": "2026-07-07T16:41:52"
-  },
-  {
-   "uuid": "06ab9f24-de36-3e8b-a5b1-0e46b5fbb48c",
-   "tickers": [
-    "ANVS"
-   ],
-   "company": "Annovis Bio, Inc.",
-   "title": "Annovis Bio Enrolls Over 850 Patients for Its Next Alzheimer's Disease Trial",
-   "publisher": "NYSE",
-   "link": "https://finance.yahoo.com/video/annovis-bio-enrolls-over-850-145156212.html",
-   "published_unix": 1783435916,
-   "captured_at": "2026-07-07T16:42:17"
-  },
-  {
-   "uuid": "7d40b84d-ab15-37d5-9870-8c9f64f4d6bd",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora, Inc.",
-   "title": "Evercore ISI Adjusts Price Target on Cencora to $330 From $300",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/evercore-isi-adjusts-price-target-131756525.html",
-   "published_unix": 1783430276,
-   "captured_at": "2026-07-07T16:41:55"
-  },
-  {
-   "uuid": "8a76c25c-c04b-3995-b917-fd7be91c17da",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Comcast Reaches Construction Milestone in Greater Phillipsburg Expansion, Bringing Xfinity and Comcast Business Services to More New Jersey Communities",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/articles/comcast-reaches-construction-milestone-greater-130000666.html",
-   "published_unix": 1783429200,
-   "captured_at": "2026-07-07T13:26:13"
-  },
-  {
-   "uuid": "1806ddc8-7492-3334-96ab-5de0bc407511",
-   "tickers": [
-    "CERT"
-   ],
-   "company": "Certara, Inc.",
-   "title": "Certara teams up with Nvidia to strengthen AI platform with BioNeMo toolkit (CERT)",
-   "publisher": "InvestorsHub",
-   "link": "https://finance.yahoo.com/m/1806ddc8-7492-3334-96ab-5de0bc407511/certara-teams-up-with-nvidia.html",
-   "published_unix": 1783428863,
-   "captured_at": "2026-07-07T13:26:34"
   }
  ]
 }
