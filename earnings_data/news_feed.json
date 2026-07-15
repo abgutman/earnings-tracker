@@ -1,6 +1,102 @@
 {
- "generated_at": "2026-07-15T03:27:46+00:00",
+ "generated_at": "2026-07-15T12:42:37+00:00",
  "items": [
+  {
+   "uuid": "a2d9f9e7-4eab-3af3-ac2d-5604f6ac48b5",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Johnson & Johnson Q2 2026 earnings beat on medicines unit strength",
+   "publisher": "Quartz",
+   "link": "https://finance.yahoo.com/m/a2d9f9e7-4eab-3af3-ac2d-5604f6ac48b5/johnson-%26-johnson-q2-2026.html",
+   "published_unix": 1784116917,
+   "captured_at": "2026-07-15T12:42:36"
+  },
+  {
+   "uuid": "19d72058-945e-3ace-93bb-bcb7f658ea8a",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Why Johnson & Johnson Stock Is Falling Even After a Guidance Hike",
+   "publisher": "Barrons.com",
+   "link": "https://finance.yahoo.com/m/19d72058-945e-3ace-93bb-bcb7f658ea8a/why-johnson-%26-johnson-stock.html",
+   "published_unix": 1784115480,
+   "captured_at": "2026-07-15T12:42:36"
+  },
+  {
+   "uuid": "7f6124a8-3d38-32d3-beb1-d4745f652359",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Intel, Johnson & Johnson, ASML, and More Stocks That Explain Today\u2019s Market",
+   "publisher": "Barrons.com",
+   "link": "https://finance.yahoo.com/m/7f6124a8-3d38-32d3-beb1-d4745f652359/intel%2C-johnson-%26-johnson%2C.html",
+   "published_unix": 1784114820,
+   "captured_at": "2026-07-15T12:42:36"
+  },
+  {
+   "uuid": "5cf3fd00-e83a-3588-9c9f-21b60436f019",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Johnson & Johnson tops second-quarter forecasts and lifts guidance despite premarket decline (JNJ)",
+   "publisher": "InvestorsHub",
+   "link": "https://finance.yahoo.com/m/5cf3fd00-e83a-3588-9c9f-21b60436f019/johnson-%26-johnson-tops.html",
+   "published_unix": 1784114094,
+   "captured_at": "2026-07-15T12:42:36"
+  },
+  {
+   "uuid": "bb52b508-0cc2-311e-99e0-93f143ce0214",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Merck's Keytruda Meets Main Goal in Phase 3 Endometrial Cancer Trial",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/merck-apos-keytruda-meets-main-111006548.html",
+   "published_unix": 1784113806,
+   "captured_at": "2026-07-15T12:42:36"
+  },
+  {
+   "uuid": "804cae80-ee02-3e25-959a-a20c91328526",
+   "tickers": [
+    "PHIO"
+   ],
+   "company": "Phio Pharmaceuticals Corp.",
+   "title": "Phio Pharmaceuticals Announces Patent Milestone with Multiple Notices of Allowance and Grant Decision",
+   "publisher": "TMX Newsfile",
+   "link": "https://finance.yahoo.com/healthcare/articles/phio-pharmaceuticals-announces-patent-milestone-110000398.html",
+   "published_unix": 1784113200,
+   "captured_at": "2026-07-15T12:42:27"
+  },
+  {
+   "uuid": "9828d042-d7da-3b7a-b5e7-3e88d3b60e11",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Merck to Present New Data on Daily, Weekly, and Monthly Options Across its HIV Treatment and Prevention Pipeline at AIDS 2026",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/healthcare/articles/merck-present-data-daily-weekly-110000569.html",
+   "published_unix": 1784113200,
+   "captured_at": "2026-07-15T12:42:36"
+  },
+  {
+   "uuid": "d812181c-3468-302a-a43e-2e0c6ab3c0fd",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Analyst Report: Comcast Corporation",
+   "publisher": "Morningstar Research",
+   "link": "https://finance.yahoo.com/m/d812181c-3468-302a-a43e-2e0c6ab3c0fd/analyst-report%3A-comcast.html",
+   "published_unix": 1784084036,
+   "captured_at": "2026-07-15T12:41:43"
+  },
   {
    "uuid": "f349fb4b-c156-307d-902a-ec06f7395199",
    "tickers": [
@@ -1308,114 +1404,6 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/sei-announce-second-quarter-2026-130000496.html",
    "published_unix": 1783515600,
    "captured_at": "2026-07-08T15:33:07"
-  },
-  {
-   "uuid": "c6733787-ad37-3b93-a8ed-2782fc47512e",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "JPMorgan Adjusts Price Target on American Water Works to $147 From $138",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-adjusts-price-target-american-122823046.html",
-   "published_unix": 1783513703,
-   "captured_at": "2026-07-08T12:51:07"
-  },
-  {
-   "uuid": "de442017-0936-3af8-a6ee-302747a81faa",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Johnson & Johnson's Dual Energy Thermocool Smarttouch SF Platform Receives FDA Approval",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-apos-dual-energy-122057570.html",
-   "published_unix": 1783513257,
-   "captured_at": "2026-07-08T12:51:39"
-  },
-  {
-   "uuid": "cb4e2242-5a1d-3eb3-851d-65c0a343053f",
-   "tickers": [
-    "UHS"
-   ],
-   "company": "UNIVERSAL HEALTH SERVICES INC",
-   "title": "Barclays Downgrades Universal Health Services to Equal Weight From Overweight, Adjusts PT to $179 From $238",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/barclays-downgrades-universal-health-services-120322879.html",
-   "published_unix": 1783512202,
-   "captured_at": "2026-07-08T12:51:04"
-  },
-  {
-   "uuid": "e06d309b-fed1-3f33-a343-0851d63dd038",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Morgan Stanley Lifts Price Target on Merck to $113 From $112, Keeps Equalweight Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-lifts-price-target-115645536.html",
-   "published_unix": 1783511805,
-   "captured_at": "2026-07-08T12:51:39"
-  },
-  {
-   "uuid": "360f5fa4-fb9c-3c24-8c52-48c8c4a93958",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Johnson & Johnson Announces FDA Approval for the Dual Energy THERMOCOOL SMARTTOUCH SF Platform",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-announces-fda-approval-114500120.html",
-   "published_unix": 1783511100,
-   "captured_at": "2026-07-08T12:51:39"
-  },
-  {
-   "uuid": "33bb246f-272b-3996-8134-7cfc9d35c654",
-   "tickers": [
-    "AXTA"
-   ],
-   "company": "Axalta Coating Systems Ltd.",
-   "title": "RBC Capital Adjusts Axalta Coating Systems Price Target to $36 From $34, Maintains Sector Perform Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-capital-adjusts-axalta-coating-111721788.html",
-   "published_unix": 1783509441,
-   "captured_at": "2026-07-08T12:51:01"
-  },
-  {
-   "uuid": "72df25cc-aaec-3f9e-803f-fc3d7657fda5",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Former Merck and NASA Leaders Bring Strategic Expertise to SpaceMD Amid Rising Demand for its In-Space Pharmaceutical Development Capabilities",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/healthcare/articles/former-merck-nasa-leaders-bring-110000237.html",
-   "published_unix": 1783508400,
-   "captured_at": "2026-07-08T12:51:39"
-  },
-  {
-   "uuid": "441b51ff-eeb1-346e-ab68-f4870e1faf5b",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Wells Fargo Adjusts Price Target on Merck to $150 From $145",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-adjusts-price-target-101130283.html",
-   "published_unix": 1783505490,
-   "captured_at": "2026-07-08T12:51:39"
-  },
-  {
-   "uuid": "dfdd2f3f-01c5-3f04-a661-5984e55022ea",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Morgan Stanley Adjusts Price Target Johnson & Johnson to $284 From $283, Maintains Overweight Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-price-target-093058050.html",
-   "published_unix": 1783503058,
-   "captured_at": "2026-07-08T12:51:39"
   }
  ]
 }
