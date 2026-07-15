@@ -1,6 +1,54 @@
 {
- "generated_at": "2026-07-15T20:18:52+00:00",
+ "generated_at": "2026-07-15T22:12:40+00:00",
  "items": [
+  {
+   "uuid": "2b491cd6-c52c-35f4-8ba7-84150b444f6b",
+   "tickers": [
+    "ECVT"
+   ],
+   "company": "Ecovyst Inc.",
+   "title": "Ecovyst to Host Second Quarter 2026 Earnings Conference Call and Webcast on Wednesday, August 5, 2026, at 11:00 a.m. ET",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ecovyst-host-second-quarter-2026-213000555.html",
+   "published_unix": 1784151000,
+   "captured_at": "2026-07-15T22:12:07"
+  },
+  {
+   "uuid": "6a5a0e64-3321-3db5-9600-b00df303ffb8",
+   "tickers": [
+    "WTRG"
+   ],
+   "company": "Essential Utilities, Inc.",
+   "title": "Essential Utilities Unit Secures $74.3 Million to Advance Treatment Plant Projects",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/essential-utilities-unit-secures-74-212139520.html",
+   "published_unix": 1784150499,
+   "captured_at": "2026-07-15T22:11:53"
+  },
+  {
+   "uuid": "2b9ac8c2-707e-37b0-b154-14cf6e7e049b",
+   "tickers": [
+    "UHS"
+   ],
+   "company": "UNIVERSAL HEALTH SERVICES INC",
+   "title": "UNIVERSAL HEALTH SERVICES, INC. ANNOUNCES DIVIDEND",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/universal-health-services-inc-announces-202000123.html",
+   "published_unix": 1784146800,
+   "captured_at": "2026-07-15T22:11:51"
+  },
+  {
+   "uuid": "3f136141-88a3-34d2-b29b-e57558c518ef",
+   "tickers": [
+    "CERT"
+   ],
+   "company": "Certara, Inc.",
+   "title": "Certara to Report Second Quarter 2026 Financial Results on August 4th, 2026",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/certara-report-second-quarter-2026-201500967.html",
+   "published_unix": 1784146500,
+   "captured_at": "2026-07-15T22:12:10"
+  },
   {
    "uuid": "88267bd0-6a3a-39ab-b075-ee505a7aadcc",
    "tickers": [
@@ -24,6 +72,18 @@
    "link": "https://finance.yahoo.com/m/b46303ae-6f2d-3169-bd32-7f48f6cdbef5/johnson-%26-johnson%E2%80%99s-spravato.html",
    "published_unix": 1784144040,
    "captured_at": "2026-07-15T20:18:52"
+  },
+  {
+   "uuid": "411fd9fb-c994-3b9f-8344-15d007c46ec9",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Analyst Report: Johnson & Johnson",
+   "publisher": "Morningstar Research",
+   "link": "https://finance.yahoo.com/m/411fd9fb-c994-3b9f-8344-15d007c46ec9/analyst-report%3A-johnson-%26.html",
+   "published_unix": 1784142340,
+   "captured_at": "2026-07-15T22:12:40"
   },
   {
    "uuid": "c2ae6591-c7c6-3779-9af5-886441ef3c78",
@@ -1740,30 +1800,6 @@
    "link": "https://finance.yahoo.com/m/8fa3d674-ddf3-3002-8fb5-f61c2c8f234d/lrmr-stock-edges-up-after.html",
    "published_unix": 1783550675,
    "captured_at": "2026-07-09T04:14:33"
-  },
-  {
-   "uuid": "09538e51-082c-3e99-bf2f-88bdd730c4fc",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC CORP",
-   "title": "FMC Files First Global Regulatory Submission for Rimisoxafen to US EPA",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/fmc-files-first-global-regulatory-205739916.html",
-   "published_unix": 1783544259,
-   "captured_at": "2026-07-08T21:30:05"
-  },
-  {
-   "uuid": "d4097f21-704d-387c-a48f-175b3f1f8cde",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC CORP",
-   "title": "FMC Corporation Files First Global Regulatory Submission for Rimisoxafen with United States Environmental Protection Agency",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/fmc-corporation-files-first-global-203000662.html",
-   "published_unix": 1783542600,
-   "captured_at": "2026-07-08T21:30:05"
   }
  ]
 }
