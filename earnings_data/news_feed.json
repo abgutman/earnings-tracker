@@ -1,6 +1,54 @@
 {
- "generated_at": "2026-07-15T15:02:13+00:00",
+ "generated_at": "2026-07-15T16:44:49+00:00",
  "items": [
+  {
+   "uuid": "8fc582f5-82a5-3c4a-880a-d8b669efdc79",
+   "tickers": [
+    "WST"
+   ],
+   "company": "WEST PHARMACEUTICAL SERVICES INC",
+   "title": "TD Cowen Adjusts Price Target on West Pharmaceutical Services to $410 From $365, Maintains Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-adjusts-price-target-152438913.html",
+   "published_unix": 1784129078,
+   "captured_at": "2026-07-15T16:44:11"
+  },
+  {
+   "uuid": "6d68525f-4ac0-35a5-983f-7d292c25e7f8",
+   "tickers": [
+    "PHIO"
+   ],
+   "company": "Phio Pharmaceuticals Corp.",
+   "title": "Phio Pharmaceuticals Expands Global Patent Portfolio With New International Patent Milestones",
+   "publisher": "InvestorsHub",
+   "link": "https://finance.yahoo.com/m/6d68525f-4ac0-35a5-983f-7d292c25e7f8/phio-pharmaceuticals-expands.html",
+   "published_unix": 1784128010,
+   "captured_at": "2026-07-15T16:44:39"
+  },
+  {
+   "uuid": "1b6de1fd-1c1d-385a-bd2c-e0358c4237e4",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "Tap Water You Can Trust: West Virginia American Water Treatment Plant Earns National Recognition",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/tap-water-trust-west-virginia-150300916.html",
+   "published_unix": 1784127780,
+   "captured_at": "2026-07-15T16:44:09"
+  },
+  {
+   "uuid": "d1d31d30-50b0-3376-a9cb-f05d47048662",
+   "tickers": [
+    "VSH"
+   ],
+   "company": "VISHAY INTERTECHNOLOGY INC",
+   "title": "Vishay Achieves CMMC Level 2 Certification for Secure Support of U.S. Defense Programs",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/technology/ai/articles/vishay-achieves-cmmc-level-2-150000874.html",
+   "published_unix": 1784127600,
+   "captured_at": "2026-07-15T16:44:04"
+  },
   {
    "uuid": "176d5a8d-4aca-302e-b797-57e783d1c70a",
    "tickers": [
@@ -12,6 +60,30 @@
    "link": "https://finance.yahoo.com/energy/articles/california-american-water-highlights-successful-144500474.html",
    "published_unix": 1784126700,
    "captured_at": "2026-07-15T15:01:36"
+  },
+  {
+   "uuid": "5c2a54d7-cbd1-3c3f-905d-d13492b2bf34",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Johnson & Johnson beats Q2 estimates, raises full-year 2026 guidance",
+   "publisher": "Proactive",
+   "link": "https://finance.yahoo.com/m/5c2a54d7-cbd1-3c3f-905d-d13492b2bf34/johnson-%26-johnson-beats-q2.html",
+   "published_unix": 1784126520,
+   "captured_at": "2026-07-15T16:44:48"
+  },
+  {
+   "uuid": "e47265d1-bab2-3edb-9266-0741591feb3e",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "Scotiabank Adjusts Comcast's PT to $32.75 From $36, Keeps Sector Perform Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/scotiabank-adjusts-comcast-apos-pt-143852214.html",
+   "published_unix": 1784126332,
+   "captured_at": "2026-07-15T16:43:59"
   },
   {
    "uuid": "25a49450-41a6-379d-a68a-7f3b6c5f4eb7",
@@ -96,6 +168,18 @@
    "link": "https://finance.yahoo.com/m/a2d9f9e7-4eab-3af3-ac2d-5604f6ac48b5/johnson-%26-johnson-q2-2026.html",
    "published_unix": 1784116917,
    "captured_at": "2026-07-15T12:42:36"
+  },
+  {
+   "uuid": "73f08153-2b56-3419-b4dd-0bf68713b36d",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Merck ADC, in China study, shows potential to replace chemo in lung cancer",
+   "publisher": "BioPharma Dive",
+   "link": "https://finance.yahoo.com/m/73f08153-2b56-3419-b4dd-0bf68713b36d/merck-adc%2C-in-china-study%2C.html",
+   "published_unix": 1784115660,
+   "captured_at": "2026-07-15T16:44:49"
   },
   {
    "uuid": "19d72058-945e-3ace-93bb-bcb7f658ea8a",
@@ -1380,30 +1464,6 @@
    "link": "https://finance.yahoo.com/small-business/articles/american-water-charitable-foundation-provides-164900341.html",
    "published_unix": 1783529340,
    "captured_at": "2026-07-08T17:51:38"
-  },
-  {
-   "uuid": "e226aeaa-56e4-3928-b2f1-7636cc8789a5",
-   "tickers": [
-    "AVTR"
-   ],
-   "company": "Avantor, Inc.",
-   "title": "Cell Culture Media Market worth $12.9 billion by 2033: Biologics Manufacturing and Cell Therapy Expansion Accelerate Growth for Avantor, Thermo Fisher Scientific, and Lonza Group AG",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/cell-culture-media-market-worth-155400901.html",
-   "published_unix": 1783526040,
-   "captured_at": "2026-07-08T17:51:43"
-  },
-  {
-   "uuid": "e6aa55aa-f74b-3f72-891f-4cd104b037aa",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Merck Likely to Post Inline Q2 Revenue, RBC Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/merck-likely-post-inline-q2-152605242.html",
-   "published_unix": 1783524365,
-   "captured_at": "2026-07-08T15:33:46"
   }
  ]
 }
