@@ -1,6 +1,90 @@
 {
- "generated_at": "2026-07-15T12:42:37+00:00",
+ "generated_at": "2026-07-15T15:02:13+00:00",
  "items": [
+  {
+   "uuid": "176d5a8d-4aca-302e-b797-57e783d1c70a",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "California American Water Highlights Successful Vegetation Reduction Efforts Protecting Critical Water Infrastructure in Sonoma County",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/california-american-water-highlights-successful-144500474.html",
+   "published_unix": 1784126700,
+   "captured_at": "2026-07-15T15:01:36"
+  },
+  {
+   "uuid": "25a49450-41a6-379d-a68a-7f3b6c5f4eb7",
+   "tickers": [
+    "DD"
+   ],
+   "company": "DuPont de Nemours, Inc.",
+   "title": "Personal Protective Equipment (PPE) Global Market Forecast to 2031 Featuring 3M, Protective Industrial Products, Ansell, DuPont de Nemours, MSA Worldwide and Other Key Players",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/personal-protective-equipment-ppe-global-141000471.html",
+   "published_unix": 1784124600,
+   "captured_at": "2026-07-15T15:02:13"
+  },
+  {
+   "uuid": "0eb0220c-f485-354e-8327-3ee801afd998",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Johnson & Johnson Lifts Full-Year Outlook Following Second-Quarter Beat",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-lifts-full-outlook-135041248.html",
+   "published_unix": 1784123441,
+   "captured_at": "2026-07-15T15:02:12"
+  },
+  {
+   "uuid": "82eab843-d997-318a-a066-c70ea26988a5",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Dow Jones' Merck Scores A Win With Cancer Smart Bomb",
+   "publisher": "Investor's Business Daily",
+   "link": "https://finance.yahoo.com/m/82eab843-d997-318a-a066-c70ea26988a5/dow-jones%27-merck-scores-a-win.html",
+   "published_unix": 1784122701,
+   "captured_at": "2026-07-15T15:02:13"
+  },
+  {
+   "uuid": "bcb071ea-ee70-3f89-8e12-02b6855176c5",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "COMCAST CORP",
+   "title": "JPMorgan Adjusts Price Target on Comcast to $29 From $33, Maintains Neutral Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-adjusts-price-target-comcast-133034589.html",
+   "published_unix": 1784122234,
+   "captured_at": "2026-07-15T15:01:27"
+  },
+  {
+   "uuid": "c6c2a238-a09c-3391-90df-eb06be8cfbd9",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "Barclays Adjusts Price Target on American Water Works to $130 From $124, Maintains Underweight Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-adjusts-price-target-american-132533073.html",
+   "published_unix": 1784121933,
+   "captured_at": "2026-07-15T15:01:36"
+  },
+  {
+   "uuid": "f300c547-3e27-37d3-99e6-f0cea3f97d47",
+   "tickers": [
+    "DD"
+   ],
+   "company": "DuPont de Nemours, Inc.",
+   "title": "DuPont Launches End-to-End Portfolio to Advance Direct Lithium Extraction",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/dupont-launches-end-end-portfolio-130000615.html",
+   "published_unix": 1784120400,
+   "captured_at": "2026-07-15T15:02:13"
+  },
   {
    "uuid": "a2d9f9e7-4eab-3af3-ac2d-5604f6ac48b5",
    "tickers": [
@@ -1320,90 +1404,6 @@
    "link": "https://finance.yahoo.com/healthcare/articles/merck-likely-post-inline-q2-152605242.html",
    "published_unix": 1783524365,
    "captured_at": "2026-07-08T15:33:46"
-  },
-  {
-   "uuid": "d1086ffe-6240-3bfb-8d8e-3042842daab6",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers Opens New Collections of Luxury Homes within Established Community in Berthoud, Colorado",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-opens-collections-luxury-141500950.html",
-   "published_unix": 1783520100,
-   "captured_at": "2026-07-08T15:33:05"
-  },
-  {
-   "uuid": "479cc76c-607f-30f3-81f0-66c96a69521e",
-   "tickers": [
-    "HCSG"
-   ],
-   "company": "HEALTHCARE SERVICES GROUP INC",
-   "title": "UBS Adjusts Price Target on Healthcare Services Group to $30 From $27, Maintains Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/ubs-adjusts-price-target-healthcare-140714198.html",
-   "published_unix": 1783519634,
-   "captured_at": "2026-07-08T15:33:21"
-  },
-  {
-   "uuid": "aa2b9d82-da0d-3afc-b92a-84e8b0356829",
-   "tickers": [
-    "LNC"
-   ],
-   "company": "LINCOLN NATIONAL CORP",
-   "title": "UBS Adjusts Price Target on Lincoln National to $44 From $39, Maintains Neutral Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-price-target-lincoln-140654241.html",
-   "published_unix": 1783519614,
-   "captured_at": "2026-07-08T15:33:01"
-  },
-  {
-   "uuid": "56963ca2-133c-361a-9a64-bae4f435a57d",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "American Water Spotlights Environmental Success Stories in Wastewater Solutions White Paper",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/american-water-spotlights-environmental-success-140300597.html",
-   "published_unix": 1783519380,
-   "captured_at": "2026-07-08T15:33:08"
-  },
-  {
-   "uuid": "2d8d7aba-efb7-3dc3-8316-8937391635ed",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Citigroup Adjusts Johnson & Johnson Price Target to $298 From $285",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/citigroup-adjusts-johnson-johnson-price-131117621.html",
-   "published_unix": 1783516277,
-   "captured_at": "2026-07-08T15:33:45"
-  },
-  {
-   "uuid": "44bf5517-79f7-382a-90c4-9ea5f4a223d4",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Sierra Madre, California",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-130200204.html",
-   "published_unix": 1783515720,
-   "captured_at": "2026-07-08T15:33:05"
-  },
-  {
-   "uuid": "dd4c98f4-a53a-3d69-bd11-0dbc825bfee8",
-   "tickers": [
-    "SEIC"
-   ],
-   "company": "SEI INVESTMENTS CO",
-   "title": "SEI to Announce Second-Quarter 2026 Earnings on Wednesday, July 22, 2026",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/sei-announce-second-quarter-2026-130000496.html",
-   "published_unix": 1783515600,
-   "captured_at": "2026-07-08T15:33:07"
   }
  ]
 }
