@@ -1,6 +1,18 @@
 {
- "generated_at": "2026-07-15T16:44:49+00:00",
+ "generated_at": "2026-07-15T18:19:49+00:00",
  "items": [
+  {
+   "uuid": "63c75b59-5d4c-3196-8015-9a1914ad25c1",
+   "tickers": [
+    "VPG"
+   ],
+   "company": "Vishay Precision Group, Inc.",
+   "title": "Vishay Precision Group Announces Date for its Second Quarter Fiscal 2026 Earnings Conference Call",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/vishay-precision-group-announces-date-170000777.html",
+   "published_unix": 1784134800,
+   "captured_at": "2026-07-15T18:19:18"
+  },
   {
    "uuid": "8fc582f5-82a5-3c4a-880a-d8b669efdc79",
    "tickers": [
@@ -192,6 +204,18 @@
    "link": "https://finance.yahoo.com/m/19d72058-945e-3ace-93bb-bcb7f658ea8a/why-johnson-%26-johnson-stock.html",
    "published_unix": 1784115480,
    "captured_at": "2026-07-15T12:42:36"
+  },
+  {
+   "uuid": "5534accc-1c99-38f2-81a7-7338f16caf2a",
+   "tickers": [
+    "CRS"
+   ],
+   "company": "CARPENTER TECHNOLOGY CORP",
+   "title": "Sales Gains Send Carpenter Technology Higher Before Earnings Report",
+   "publisher": "FX Empire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/sales-gains-send-carpenter-technology-113733690.html",
+   "published_unix": 1784115453,
+   "captured_at": "2026-07-15T18:19:11"
   },
   {
    "uuid": "7f6124a8-3d38-32d3-beb1-d4745f652359",
@@ -1392,78 +1416,6 @@
    "link": "https://finance.yahoo.com/m/a3ec468c-6206-3307-8ef9-79ffc8cc6152/comcast-targets-frustrated.html",
    "published_unix": 1783536420,
    "captured_at": "2026-07-08T19:54:51"
-  },
-  {
-   "uuid": "74eeb49d-0fd5-3b50-ace1-d12287e897c0",
-   "tickers": [
-    "UIS"
-   ],
-   "company": "UNISYS CORP",
-   "title": "Unisys Announces Dates of Second-Quarter 2026 Financial Results and Conference Call, and Participation in Upcoming Investor Conference",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/unisys-announces-dates-second-quarter-180000168.html",
-   "published_unix": 1783533600,
-   "captured_at": "2026-07-08T19:54:58"
-  },
-  {
-   "uuid": "61008171-eb23-321c-84c9-2dc3b5eaff8a",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Market Update: CMCSA, GAP",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/61008171-eb23-321c-84c9-2dc3b5eaff8a/market-update%3A-cmcsa%2C-gap.html",
-   "published_unix": 1783532732,
-   "captured_at": "2026-07-08T19:54:51"
-  },
-  {
-   "uuid": "d15acbab-1f26-37c3-b3f9-64f079382e80",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Analyst Report: Comcast Corp",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/d15acbab-1f26-37c3-b3f9-64f079382e80/analyst-report%3A-comcast-corp.html",
-   "published_unix": 1783532732,
-   "captured_at": "2026-07-08T19:54:51"
-  },
-  {
-   "uuid": "f60c446f-3777-3d58-9f6c-b2a16fb11e0c",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Former Merck and NASA Veterans Join SpaceMD as Space Pharma Momentum Builds",
-   "publisher": "IPO-Edge.com",
-   "link": "https://finance.yahoo.com/healthcare/articles/former-merck-nasa-veterans-join-171622916.html",
-   "published_unix": 1783530982,
-   "captured_at": "2026-07-08T17:52:13"
-  },
-  {
-   "uuid": "49454542-5094-30f2-b8b1-a9ebf0374469",
-   "tickers": [
-    "DD"
-   ],
-   "company": "DuPont de Nemours, Inc.",
-   "title": "McNICHOLS CO. Announces Appointment of Mateus Panosso as President",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/mcnichols-co-announces-appointment-mateus-170700833.html",
-   "published_unix": 1783530420,
-   "captured_at": "2026-07-08T17:52:13"
-  },
-  {
-   "uuid": "c6710564-c0d0-34eb-b007-c81da9880b7d",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "American Water Charitable Foundation Provides $30,000 for Northwest Indiana Storm Recovery Efforts",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/small-business/articles/american-water-charitable-foundation-provides-164900341.html",
-   "published_unix": 1783529340,
-   "captured_at": "2026-07-08T17:51:38"
   }
  ]
 }
