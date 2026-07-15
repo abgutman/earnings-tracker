@@ -287,5 +287,35 @@
   "source_publisher": "Business Wire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-07-14T23:38:07"
+ },
+ "VPG": {
+  "release_date": "2026-08-05",
+  "call_date": "2026-08-05",
+  "call_time": "09:00 ET",
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/vishay-precision-group-announces-date-170000777.html",
+  "source_title": "Vishay Precision Group Announces Date for its Second Quarter Fiscal 2026 Earnings Conference Call",
+  "source_publisher": "GlobeNewswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-07-15T23:44:16"
+ },
+ "ECVT": {
+  "release_date": "2026-08-05",
+  "call_date": null,
+  "call_time": null,
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/ecovyst-host-second-quarter-2026-213000555.html",
+  "source_title": "Ecovyst to Host Second Quarter 2026 Earnings Conference Call and Webcast on Wednesday, August 5, 2026, at 11:00 a.m. ET",
+  "source_publisher": "PR Newswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-07-15T23:44:19"
+ },
+ "CERT": {
+  "release_date": "2026-08-04",
+  "call_date": null,
+  "call_time": null,
+  "source_url": "https://finance.yahoo.com/healthcare/articles/certara-report-second-quarter-2026-201500967.html",
+  "source_title": "Certara to Report Second Quarter 2026 Financial Results on August 4th, 2026",
+  "source_publisher": "GlobeNewswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-07-15T23:44:23"
  }
 }

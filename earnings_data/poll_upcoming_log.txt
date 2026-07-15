@@ -218,3 +218,16 @@
 [2026-07-14 23:38:09]   ✉ alert sent for WHK
 [2026-07-14 23:38:22] === Done. Captured 4 new save-the-dates, cleaned 0 past. ===
 
+[2026-07-15 23:43:54] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-07-15 23:43:54] Polling Yahoo for 106 companies
+[2026-07-15 23:44:16]   + VPG: release=2026-08-05 call=2026-08-05 09:00 ET
+[2026-07-15 23:44:16]     via: Vishay Precision Group Announces Date for its Second Quarter Fiscal 2026 Earnings Conference Call
+[2026-07-15 23:44:18]   ✉ alert sent for VPG
+[2026-07-15 23:44:19]   + ECVT: release=2026-08-05 call=None None
+[2026-07-15 23:44:19]     via: Ecovyst to Host Second Quarter 2026 Earnings Conference Call and Webcast on Wednesday, August 5, 202
+[2026-07-15 23:44:20]   ✉ alert sent for ECVT
+[2026-07-15 23:44:23]   + CERT: release=2026-08-04 call=None None
+[2026-07-15 23:44:23]     via: Certara to Report Second Quarter 2026 Financial Results on August 4th, 2026
+[2026-07-15 23:44:24]   ✉ alert sent for CERT
+[2026-07-15 23:44:49] === Done. Captured 3 new save-the-dates, cleaned 0 past. ===
+
