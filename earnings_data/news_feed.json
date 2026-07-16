@@ -1,6 +1,126 @@
 {
- "generated_at": "2026-07-16T12:50:52+00:00",
+ "generated_at": "2026-07-16T15:13:53+00:00",
  "items": [
+  {
+   "uuid": "c98d5e32-0ca7-35e5-9a31-103a660b43b7",
+   "tickers": [
+    "HSY"
+   ],
+   "company": "HERSHEY CO",
+   "title": "Jefferies Adjusts Price Target on Hershey to $190 From $199, Maintains Hold Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-adjusts-price-target-hershey-144403767.html",
+   "published_unix": 1784213043,
+   "captured_at": "2026-07-16T15:13:51"
+  },
+  {
+   "uuid": "b2be03c8-16dc-3ea5-b6c1-e1911dcc2a61",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "Pennsylvania American Water Awarded PENNVEST Funding Totaling $64+ Million for Water Infrastructure Improvement Projects in Allegheny, Cumberland and Susquehanna Counties",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/pennsylvania-american-water-awarded-pennvest-143900697.html",
+   "published_unix": 1784212740,
+   "captured_at": "2026-07-16T15:13:12"
+  },
+  {
+   "uuid": "9ea30e3b-d353-3868-9c82-6e73d9beef36",
+   "tickers": [
+    "HRMY"
+   ],
+   "company": "Harmony Biosciences Holdings, Inc.",
+   "title": "Harmony Biosciences Announces Preliminary Q2 Revenue, CFO Transition \u2014 Says Executive\u2019s Departure Not Due To Any Disagreement",
+   "publisher": "Stocktwits",
+   "link": "https://finance.yahoo.com/m/9ea30e3b-d353-3868-9c82-6e73d9beef36/harmony-biosciences-announces.html",
+   "published_unix": 1784212661,
+   "captured_at": "2026-07-16T15:13:14"
+  },
+  {
+   "uuid": "33b30081-ce65-39e8-bac6-4539c793411a",
+   "tickers": [
+    "HSY"
+   ],
+   "company": "HERSHEY CO",
+   "title": "UBS Adjusts Price Target on Hershey to $190 From $200, Maintains Neutral Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-price-target-hershey-132417642.html",
+   "published_unix": 1784208257,
+   "captured_at": "2026-07-16T15:13:51"
+  },
+  {
+   "uuid": "58833508-ae8e-3821-99f5-db4a59493861",
+   "tickers": [
+    "GMED"
+   ],
+   "company": "GLOBUS MEDICAL INC",
+   "title": "Truist Adjusts Price Target on Globus Medical to $100 From $115, Maintains Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/truist-adjusts-price-target-globus-132348401.html",
+   "published_unix": 1784208228,
+   "captured_at": "2026-07-16T15:13:15"
+  },
+  {
+   "uuid": "72671989-c303-3645-bd27-14de280a9168",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "The Real Engine Behind Johnson & Johnson Stock's Next Climb",
+   "publisher": "Trefis",
+   "link": "https://finance.yahoo.com/m/72671989-c303-3645-bd27-14de280a9168/the-real-engine-behind.html",
+   "published_unix": 1784207994,
+   "captured_at": "2026-07-16T15:13:52"
+  },
+  {
+   "uuid": "aa652383-405c-33d5-a8b0-94ffca73896e",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "American Water Provides Expertise at NACWA's 2026 Utility Leadership Conference and 56th Annual Meeting",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/american-water-provides-expertise-nacwas-131700158.html",
+   "published_unix": 1784207820,
+   "captured_at": "2026-07-16T15:13:12"
+  },
+  {
+   "uuid": "2dc15407-090a-3536-a56f-af4f2aaf8a8d",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Dow Jones' Merck Snags A First-Of-Its-Kind Approval, And Jumps",
+   "publisher": "Investor's Business Daily",
+   "link": "https://finance.yahoo.com/m/2dc15407-090a-3536-a56f-af4f2aaf8a8d/dow-jones%27-merck-snags-a.html",
+   "published_unix": 1784207534,
+   "captured_at": "2026-07-16T15:13:53"
+  },
+  {
+   "uuid": "786f46bb-6d0e-3661-943a-3a9f1e60a664",
+   "tickers": [
+    "HRMY"
+   ],
+   "company": "Harmony Biosciences Holdings, Inc.",
+   "title": "Harmony Biosciences Expects Higher Q2 Wakix Revenue; CFO Glenn Reicin Steps Down",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/harmony-biosciences-expects-higher-q2-130648812.html",
+   "published_unix": 1784207208,
+   "captured_at": "2026-07-16T15:13:14"
+  },
+  {
+   "uuid": "f0ce0132-3f57-37ba-83ab-d99065c3833c",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Why Is The Market Punishing JNJ Stock?",
+   "publisher": "Trefis",
+   "link": "https://finance.yahoo.com/m/f0ce0132-3f57-37ba-83ab-d99065c3833c/why-is-the-market-punishing.html",
+   "published_unix": 1784205864,
+   "captured_at": "2026-07-16T15:13:52"
+  },
   {
    "uuid": "4f778adb-0ff8-3003-a5cc-c82beb8dd3f3",
    "tickers": [
@@ -204,6 +324,18 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-adjusts-price-target-johnson-095529516.html",
    "published_unix": 1784195729,
    "captured_at": "2026-07-16T12:50:51"
+  },
+  {
+   "uuid": "fa478ed5-de1f-3d5b-85be-272f27e8036a",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Merck wins first approval of a PCSK9 cholesterol pill",
+   "publisher": "BioPharma Dive",
+   "link": "https://finance.yahoo.com/m/fa478ed5-de1f-3d5b-85be-272f27e8036a/merck-wins-first-approval-of.html",
+   "published_unix": 1784193720,
+   "captured_at": "2026-07-16T15:13:53"
   },
   {
    "uuid": "4868affe-767b-36ee-979d-1068b2cbc755",
@@ -1824,102 +1956,6 @@
    "link": "https://finance.yahoo.com/healthcare/articles/southeast-asia-oncology-drug-access-155300715.html",
    "published_unix": 1783612380,
    "captured_at": "2026-07-09T16:40:34"
-  },
-  {
-   "uuid": "3f4c5ae2-cb32-3ca8-b01a-a9fe634ec13d",
-   "tickers": [
-    "VSH"
-   ],
-   "company": "VISHAY INTERTECHNOLOGY INC",
-   "title": "Vishay Intertechnology Automotive Optocoupler in SOP-5 Package With 3.6 mm Width Saves Space While Improving Signal Transmission",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/technology/articles/vishay-intertechnology-automotive-optocoupler-sop-150000157.html",
-   "published_unix": 1783609200,
-   "captured_at": "2026-07-09T16:39:57"
-  },
-  {
-   "uuid": "83899036-e1f1-3676-b566-5b9d2991522e",
-   "tickers": [
-    "WST"
-   ],
-   "company": "WEST PHARMACEUTICAL SERVICES INC",
-   "title": "Morgan Stanley Adjusts Price Target on West Pharmaceutical Services to $365 From $325",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-price-target-144832374.html",
-   "published_unix": 1783608512,
-   "captured_at": "2026-07-09T16:40:04"
-  },
-  {
-   "uuid": "d0a853cd-8524-372c-b44b-b68a04adadab",
-   "tickers": [
-    "UHS"
-   ],
-   "company": "UNIVERSAL HEALTH SERVICES INC",
-   "title": "Stephens Adjusts Price Target on Universal Health Services to $170 From $205",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/stephens-adjusts-price-target-universal-143552123.html",
-   "published_unix": 1783607752,
-   "captured_at": "2026-07-09T16:39:58"
-  },
-  {
-   "uuid": "9a1d2766-4982-30af-a703-e2af6858de10",
-   "tickers": [
-    "DD"
-   ],
-   "company": "DuPont de Nemours, Inc.",
-   "title": "UBS Adjusts Price Target on DuPont de Nemours to $175 From $177",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-price-target-dupont-140841496.html",
-   "published_unix": 1783606121,
-   "captured_at": "2026-07-09T16:40:35"
-  },
-  {
-   "uuid": "b0ca199d-0858-35c6-ae09-2d307b6b7695",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "American Water's 2026 Second Quarter Conference Call Scheduled for July 30, 2026",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/american-waters-2026-second-quarter-140000885.html",
-   "published_unix": 1783605600,
-   "captured_at": "2026-07-09T16:40:01"
-  },
-  {
-   "uuid": "dec3359a-949c-386a-b0b8-3447baa49513",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "FIVE BELOW, INC",
-   "title": "Tractor Supply downgrade, Five Below upgraded: Wall Street's top analyst calls",
-   "publisher": "The Fly",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/micron-downgraded-five-below-upgraded-133947861.html",
-   "published_unix": 1783604831,
-   "captured_at": "2026-07-09T13:58:45"
-  },
-  {
-   "uuid": "b3428653-be39-3875-827d-1cb00fe73254",
-   "tickers": [
-    "HSY"
-   ],
-   "company": "HERSHEY CO",
-   "title": "Piper Sandler Adjusts Price Target on Hershey  to $200 From $249",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/piper-sandler-adjusts-price-target-132623636.html",
-   "published_unix": 1783603583,
-   "captured_at": "2026-07-09T13:59:43"
-  },
-  {
-   "uuid": "81e02dc4-c0d5-3c3c-a66c-a00d151bbd8c",
-   "tickers": [
-    "HSY"
-   ],
-   "company": "HERSHEY CO",
-   "title": "Hershey to Webcast Second-Quarter Conference Call",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/hershey-webcast-second-quarter-conference-130000108.html",
-   "published_unix": 1783602000,
-   "captured_at": "2026-07-09T13:59:43"
   }
  ]
 }
