@@ -1,6 +1,18 @@
 {
- "generated_at": "2026-07-15T22:12:40+00:00",
+ "generated_at": "2026-07-16T00:09:30+00:00",
  "items": [
+  {
+   "uuid": "4868affe-767b-36ee-979d-1068b2cbc755",
+   "tickers": [
+    "QVCAQ"
+   ],
+   "company": "QVC Group, Inc.",
+   "title": "QVC Group Achieves Key Milestone with Court's Approval of Comprehensive Financial Restructuring Plan",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/qvc-group-achieves-key-milestone-221700861.html",
+   "published_unix": 1784153820,
+   "captured_at": "2026-07-16T00:09:28"
+  },
   {
    "uuid": "2b491cd6-c52c-35f4-8ba7-84150b444f6b",
    "tickers": [
@@ -1788,18 +1800,6 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/mizuho-upgrades-five-below-outperform-114622501.html",
    "published_unix": 1783597582,
    "captured_at": "2026-07-09T13:58:45"
-  },
-  {
-   "uuid": "8fa3d674-ddf3-3002-8fb5-f61c2c8f234d",
-   "tickers": [
-    "LRMR"
-   ],
-   "company": "Larimar Therapeutics, Inc.",
-   "title": "LRMR Stock Edges Up After Hours After Director Purchases Shares Worth About $167,000",
-   "publisher": "Stocktwits",
-   "link": "https://finance.yahoo.com/m/8fa3d674-ddf3-3002-8fb5-f61c2c8f234d/lrmr-stock-edges-up-after.html",
-   "published_unix": 1783550675,
-   "captured_at": "2026-07-09T04:14:33"
   }
  ]
 }
