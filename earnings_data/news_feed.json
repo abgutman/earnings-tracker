@@ -1,6 +1,102 @@
 {
- "generated_at": "2026-07-16T17:40:20+00:00",
+ "generated_at": "2026-07-16T19:34:42+00:00",
  "items": [
+  {
+   "uuid": "928dccf6-7638-3c2b-80a7-c732e7b0b039",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Argus Lifts Johnson & Johnson Price Target to $290 From $275",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/argus-lifts-johnson-johnson-price-190146193.html",
+   "published_unix": 1784228506,
+   "captured_at": "2026-07-16T19:34:41"
+  },
+  {
+   "uuid": "3d4b3596-5f9a-3a84-9a47-6e3229d14bff",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Toll Brothers Announces New Luxury Home Community Now Open in Yardley, Pennsylvania",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-185400903.html",
+   "published_unix": 1784228040,
+   "captured_at": "2026-07-16T19:33:53"
+  },
+  {
+   "uuid": "a8c96b55-684c-3e34-b0a6-a2558ab4fbd5",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Toll Brothers Announces Grand Opening of Vista Ventana in La Mirada, California",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-grand-opening-185400981.html",
+   "published_unix": 1784228040,
+   "captured_at": "2026-07-16T19:33:53"
+  },
+  {
+   "uuid": "49c915ff-89b0-31a5-aa5c-96fe29406833",
+   "tickers": [
+    "HRMY"
+   ],
+   "company": "Harmony Biosciences Holdings, Inc.",
+   "title": "Update: Harmony Biosciences Shares Fall After CFO Glenn Reicin Steps Down",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/harmony-biosciences-shares-fall-cfo-184715643.html",
+   "published_unix": 1784227635,
+   "captured_at": "2026-07-16T19:34:00"
+  },
+  {
+   "uuid": "04a40561-a043-3dbf-9ea7-56acaf273bf4",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "West Virginia American Water Proudly Recognizes American Water Charitable Foundation 2026 Water and Environment Grantees",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/west-virginia-american-water-proudly-184400724.html",
+   "published_unix": 1784227440,
+   "captured_at": "2026-07-16T19:33:58"
+  },
+  {
+   "uuid": "4b26f2f2-18e3-35cd-b523-fd0db92e3188",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Analyst Report: Johnson & Johnson",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/4b26f2f2-18e3-35cd-b523-fd0db92e3188/analyst-report%3A-johnson-%26.html",
+   "published_unix": 1784226582,
+   "captured_at": "2026-07-16T19:34:41"
+  },
+  {
+   "uuid": "dfd74e72-8e9e-30d8-b7ba-fb2e231c8b9c",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Market Update: TSM, GS, JNJ, PGR, UAL, META",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/dfd74e72-8e9e-30d8-b7ba-fb2e231c8b9c/market-update%3A-tsm%2C-gs%2C-jnj%2C.html",
+   "published_unix": 1784226582,
+   "captured_at": "2026-07-16T19:34:41"
+  },
+  {
+   "uuid": "803b7086-7476-3a93-a78d-b003c95e9b37",
+   "tickers": [
+    "QNTO"
+   ],
+   "company": "QUAINT OAK BANCORP, INC.",
+   "title": "Quaint Oak Bancorp, Inc. Declares Quarterly Cash Dividend",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/quaint-oak-bancorp-inc-declares-181100199.html",
+   "published_unix": 1784225460,
+   "captured_at": "2026-07-16T19:34:28"
+  },
   {
    "uuid": "e4dc60c0-0fd6-3015-ba54-d0209594cbb4",
    "tickers": [
@@ -1944,30 +2040,6 @@
    "link": "https://finance.yahoo.com/m/ea4cb727-412e-32c0-9f7f-e8279d19b324/analyst-report%3A-cencora%2C-inc..html",
    "published_unix": 1783625974,
    "captured_at": "2026-07-09T22:42:46"
-  },
-  {
-   "uuid": "f81d7570-6a84-3329-89e8-ebe43a7d1473",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "FIVE BELOW, INC",
-   "title": "Five Below Shares Rise After Mizuho Upgrade",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-shares-rise-mizuho-185411091.html",
-   "published_unix": 1783623251,
-   "captured_at": "2026-07-09T20:56:05"
-  },
-  {
-   "uuid": "4a4dafa0-1a9a-3307-b47a-da25244cd086",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "New Jersey American Water Launches 2026 Flow Forward Summer Camp Program to Help Camden Teens Explore Water Industry Careers",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/small-business/articles/jersey-american-water-launches-2026-182700470.html",
-   "published_unix": 1783621620,
-   "captured_at": "2026-07-09T18:59:47"
   }
  ]
 }
