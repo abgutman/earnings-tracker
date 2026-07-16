@@ -808,3 +808,9 @@
 [2026-07-16 20:08:14]   firehose: 10-Q feed — 41 entries parsed
 [2026-07-16 20:08:14]   firehose: 100 watched CIKs, 141 total feed entries
 [2026-07-16 20:08:14] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-07-16 22:26:28] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-07-16 22:26:36]   ★ NEW 8k_701 for AWK (American Water Works Company, Inc.) filed 2026-07-16
+[2026-07-16 22:26:36]     https://www.sec.gov/Archives/edgar/data/1410636/000141063626000115/awk-20260716.htm
+[2026-07-16 22:26:37]     ✉ alert sent (8k_701)
+[2026-07-16 22:26:37]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001410636.json'
+[2026-07-16 22:27:01] === EDGAR POLL complete. Fetched 100 companies, 1 new filings. ===
