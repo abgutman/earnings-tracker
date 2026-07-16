@@ -1,6 +1,18 @@
 {
- "generated_at": "2026-07-16T21:15:51+00:00",
+ "generated_at": "2026-07-16T23:10:36+00:00",
  "items": [
+  {
+   "uuid": "3ffdd1b2-5ce9-3b74-8344-d6763c9a15a1",
+   "tickers": [
+    "RDN"
+   ],
+   "company": "RADIAN GROUP INC",
+   "title": "Radian Group Insider Sold Shares Worth $780,000, According to a Recent SEC Filing",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/radian-group-insider-sold-shares-214707665.html",
+   "published_unix": 1784238427,
+   "captured_at": "2026-07-16T23:09:51"
+  },
   {
    "uuid": "ed23c46f-5742-3635-a3a2-2c589e3b8219",
    "tickers": [
