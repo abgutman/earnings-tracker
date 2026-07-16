@@ -231,3 +231,14 @@
 [2026-07-15 23:44:24]   ✉ alert sent for CERT
 [2026-07-15 23:44:49] === Done. Captured 3 new save-the-dates, cleaned 0 past. ===
 
+[2026-07-16 23:42:33] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-07-16 23:42:33] Polling Yahoo for 106 companies
+[2026-07-16 23:42:48]   + HRMY: release=2026-08-04 call=None None
+[2026-07-16 23:42:48]     via: Harmony Biosciences Preannounces Record Quarterly Revenue for Q2 2026, Reaffirms Full-Year 2026 Reve
+[2026-07-16 23:42:49]   ✉ alert sent for HRMY
+[2026-07-16 23:42:53]   + GMED: release=2026-08-06 call=None None
+[2026-07-16 23:42:53]     via: Globus Medical Schedules Second Quarter Earnings Release and Conference Call
+[2026-07-16 23:42:54]   ✉ alert sent for GMED
+[2026-07-16 23:43:41]   cleanup: removed 1 past entries
+[2026-07-16 23:43:41] === Done. Captured 2 new save-the-dates, cleaned 1 past. ===
+
