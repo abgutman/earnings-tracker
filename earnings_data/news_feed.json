@@ -1,6 +1,210 @@
 {
- "generated_at": "2026-07-16T03:32:18+00:00",
+ "generated_at": "2026-07-16T12:50:52+00:00",
  "items": [
+  {
+   "uuid": "4f778adb-0ff8-3003-a5cc-c82beb8dd3f3",
+   "tickers": [
+    "HRMY"
+   ],
+   "company": "Harmony Biosciences Holdings, Inc.",
+   "title": "Harmony Biosciences Preannounces Record Quarterly Revenue for Q2 2026, Reaffirms Full-Year 2026 Revenue Guidance, and Announces CFO Transition",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/healthcare/articles/harmony-biosciences-preannounces-record-quarterly-123000251.html",
+   "published_unix": 1784205000,
+   "captured_at": "2026-07-16T12:50:21"
+  },
+  {
+   "uuid": "d8e5e02e-1fc8-3a13-aeb7-69c80fba8371",
+   "tickers": [
+    "VSNT"
+   ],
+   "company": "Versant Media Group, Inc.",
+   "title": "Bundesliga Broadens Broadcast Accessibility for Fans in U.S. with New Deals with Versant's USA Sports and NBCUniversal's Telemundo",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/media-advertising/articles/bundesliga-broadens-broadcast-accessibility-fans-123000625.html",
+   "published_unix": 1784205000,
+   "captured_at": "2026-07-16T12:50:23"
+  },
+  {
+   "uuid": "73f633f4-22cf-361e-81a8-4b5c29e89844",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Merck Opens BioReliance\u00ae Testing Facility in Darmstadt, Germany to Support Drug Product Release in Europe",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/merck-opens-bioreliance-testing-facility-122000628.html",
+   "published_unix": 1784204400,
+   "captured_at": "2026-07-16T12:50:51"
+  },
+  {
+   "uuid": "174d7d9c-bac4-31b9-9cc1-f52702212c0f",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Johnson & Johnson Announces Collaboration with TIME to Introduce New Healthcare Champion of the Year Award",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-announces-collaboration-time-121100719.html",
+   "published_unix": 1784203860,
+   "captured_at": "2026-07-16T12:50:51"
+  },
+  {
+   "uuid": "15b7037d-0910-3623-85ce-6b06844bd14d",
+   "tickers": [
+    "AME"
+   ],
+   "company": "AMETEK INC/",
+   "title": "AMETEK Announces Second Quarter 2026 Earnings Call and Webcasted Investor Conference Call Information",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ametek-announces-second-quarter-2026-120000901.html",
+   "published_unix": 1784203200,
+   "captured_at": "2026-07-16T12:50:14"
+  },
+  {
+   "uuid": "26d9b3e2-c140-322c-86f4-5abf1ae2f428",
+   "tickers": [
+    "PPL"
+   ],
+   "company": "PPL Corp",
+   "title": "JPMorgan Adjusts Price Target on PPL to $45 From $42, Maintains Overweight Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-adjusts-price-target-ppl-114215616.html",
+   "published_unix": 1784202135,
+   "captured_at": "2026-07-16T12:50:51"
+  },
+  {
+   "uuid": "f73ff66b-1d4b-3cd1-a1f4-c8032f1c3217",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Merck Receives FDA Approval for Cholesterol Pill Lipfendra",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/merck-receives-fda-approval-cholesterol-113203367.html",
+   "published_unix": 1784201523,
+   "captured_at": "2026-07-16T12:50:51"
+  },
+  {
+   "uuid": "eeee4e05-a1a5-3ccc-b981-17d55de33e5e",
+   "tickers": [
+    "NNUP"
+   ],
+   "company": "NOCOPI TECHNOLOGIES INC/MD/",
+   "title": "Nocopi Technologies Appoints Beth Vasy as Vice President of Growth Following the Acquisition of the Polymeric Group",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nocopi-technologies-appoints-beth-vasy-110000750.html",
+   "published_unix": 1784199600,
+   "captured_at": "2026-07-16T12:50:43"
+  },
+  {
+   "uuid": "223f2f2e-ad16-3076-bce1-71ae304b0f1a",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Merck Gets Approval for Powerful Cholesterol-Cutting Pill",
+   "publisher": "Barrons.com",
+   "link": "https://finance.yahoo.com/m/223f2f2e-ad16-3076-bce1-71ae304b0f1a/merck-gets-approval-for.html",
+   "published_unix": 1784198700,
+   "captured_at": "2026-07-16T12:50:51"
+  },
+  {
+   "uuid": "6e2eba41-7742-3b62-823f-751f235792c4",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Merck\u2019s First-of-Its-Kind Cholesterol Pill Approved, Ushering in New Wave of Treatment",
+   "publisher": "The Wall Street Journal",
+   "link": "https://finance.yahoo.com/m/6e2eba41-7742-3b62-823f-751f235792c4/merck%E2%80%99s-first-of-its-kind.html",
+   "published_unix": 1784198700,
+   "captured_at": "2026-07-16T12:50:51"
+  },
+  {
+   "uuid": "2d5fae6a-8dcf-3d80-be17-e470d2005b6a",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Merck\u2019s LIPFENDRA\u00ae (enlicitide) is the First and Only Once-Daily Oral PCSK9 Inhibitor Approved by the U.S. FDA to Reduce LDL-C in Adults with Hypercholesterolemia",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/healthcare/articles/merck-lipfendra-enlicitide-first-only-104500842.html",
+   "published_unix": 1784198700,
+   "captured_at": "2026-07-16T12:50:51"
+  },
+  {
+   "uuid": "dfc3582d-c83a-341f-9080-a2cfc33c2c03",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Goldman Sachs Adjusts Price Target on Johnson & Johnson to $282 From $275, Maintains Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-adjusts-price-target-103732675.html",
+   "published_unix": 1784198252,
+   "captured_at": "2026-07-16T12:50:51"
+  },
+  {
+   "uuid": "8b1b72b8-f710-30bd-9357-704d224b64eb",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Stifel Adjusts Price Target on Johnson & Johnson to $260 From $250, Maintains Hold Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/stifel-adjusts-price-target-johnson-095609531.html",
+   "published_unix": 1784195769,
+   "captured_at": "2026-07-16T12:50:51"
+  },
+  {
+   "uuid": "1dc46e16-a50e-3b68-80fb-c42db6d3b7ad",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Scotiabank Adjusts PT on Johnson & Johnson to $305 From $265, Maintains Sector Outperform Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/scotiabank-adjusts-pt-johnson-johnson-095603813.html",
+   "published_unix": 1784195763,
+   "captured_at": "2026-07-16T12:50:51"
+  },
+  {
+   "uuid": "dd86de90-dadd-3afa-a1b9-f0d99e91cd98",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Raymond James Adjusts PT on Johnson & Johnson to $265 From $258, Maintains Outperform Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/raymond-james-adjusts-pt-johnson-095554576.html",
+   "published_unix": 1784195754,
+   "captured_at": "2026-07-16T12:50:51"
+  },
+  {
+   "uuid": "1aabf781-2bb6-3f25-ab1f-ac7730a09140",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Morgan Stanley Adjusts PT on Johnson & Johnson to $294 From $284, Maintains Overweight Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-pt-johnson-095541168.html",
+   "published_unix": 1784195741,
+   "captured_at": "2026-07-16T12:50:51"
+  },
+  {
+   "uuid": "89502e9a-c6e7-3390-96a1-5081eb708a64",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "JPMorgan Adjusts Price Target on Johnson & Johnson to $270 From $260, Maintains Neutral Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-adjusts-price-target-johnson-095529516.html",
+   "published_unix": 1784195729,
+   "captured_at": "2026-07-16T12:50:51"
+  },
   {
    "uuid": "4868affe-767b-36ee-979d-1068b2cbc755",
    "tickers": [
@@ -1716,90 +1920,6 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/hershey-webcast-second-quarter-conference-130000108.html",
    "published_unix": 1783602000,
    "captured_at": "2026-07-09T13:59:43"
-  },
-  {
-   "uuid": "cc0f4614-5217-3786-b3cf-8a3413a40015",
-   "tickers": [
-    "TFX"
-   ],
-   "company": "TELEFLEX INC",
-   "title": "BMO Captal Initiates Coverage on Teleflex With Outperform Rating, $159 Price Target",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bmo-captal-initiates-coverage-teleflex-123906093.html",
-   "published_unix": 1783600746,
-   "captured_at": "2026-07-09T13:59:01"
-  },
-  {
-   "uuid": "3aedab0b-48c3-37e4-b320-cee453d415ba",
-   "tickers": [
-    "GMED"
-   ],
-   "company": "GLOBUS MEDICAL INC",
-   "title": "BMO Capital Initiates Globus Medical at Outperform With $94 Price Target",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bmo-capital-initiates-globus-medical-123348674.html",
-   "published_unix": 1783600428,
-   "captured_at": "2026-07-09T13:58:59"
-  },
-  {
-   "uuid": "fe2433be-5290-304b-b442-9841a82d152c",
-   "tickers": [
-    "UIS"
-   ],
-   "company": "UNISYS CORP",
-   "title": "Unisys Innovation Program Announces the Winners of Its 17th Competition",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/technology/ai/articles/unisys-innovation-program-announces-winners-121500756.html",
-   "published_unix": 1783599300,
-   "captured_at": "2026-07-09T13:58:51"
-  },
-  {
-   "uuid": "66061fcf-8d0d-35be-b3ca-9c5ed18fcc9c",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "FIVE BELOW, INC",
-   "title": "Five Below Celebrates 2,000\u1d57\u02b0 Store With a Mega Grand Opening Party",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/small-business/articles/five-below-celebrates-2-000-120000596.html",
-   "published_unix": 1783598400,
-   "captured_at": "2026-07-09T13:58:45"
-  },
-  {
-   "uuid": "c19504f1-305f-3024-ac4d-912f514ea672",
-   "tickers": [
-    "IPSC"
-   ],
-   "company": "Century Therapeutics, Inc.",
-   "title": "Century Therapeutics Selected for Oral Presentations of CNTY-813 Preclinical Data at EASD 2026 and Breakthrough T1D\u00ae Clinical & Research Congress 2026",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/century-therapeutics-selected-oral-presentations-120000354.html",
-   "published_unix": 1783598400,
-   "captured_at": "2026-07-09T13:59:16"
-  },
-  {
-   "uuid": "29483f2b-7623-3c5f-819a-e685d3b2650b",
-   "tickers": [
-    "DD"
-   ],
-   "company": "DuPont de Nemours, Inc.",
-   "title": "DuPont Launches Multi-Technology Water Treatment Design Tool",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/technology/articles/dupont-launches-multi-technology-water-120000499.html",
-   "published_unix": 1783598400,
-   "captured_at": "2026-07-09T13:59:44"
-  },
-  {
-   "uuid": "00780b31-e0ec-360f-bd19-9e2a127e1a0d",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "FIVE BELOW, INC",
-   "title": "Mizuho Upgrades Five Below to Outperform From Neutral, Cuts Price Target to $220 From $225",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/mizuho-upgrades-five-below-outperform-114622501.html",
-   "published_unix": 1783597582,
-   "captured_at": "2026-07-09T13:58:45"
   }
  ]
 }
