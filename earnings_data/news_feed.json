@@ -1,6 +1,114 @@
 {
- "generated_at": "2026-07-16T19:34:42+00:00",
+ "generated_at": "2026-07-16T21:15:51+00:00",
  "items": [
+  {
+   "uuid": "ed23c46f-5742-3635-a3a2-2c589e3b8219",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "American Water Unit Gets $74.9 Million Rate Increase",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/economy/policy/articles/american-water-unit-gets-74-211109113.html",
+   "published_unix": 1784236269,
+   "captured_at": "2026-07-16T21:15:14"
+  },
+  {
+   "uuid": "d9772be5-8dda-3621-90fb-ae30fc595f4d",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water Works Company, Inc.",
+   "title": "PUC Approves Rate Adjustment for Pennsylvania American Water",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/economy/policy/articles/puc-approves-rate-adjustment-pennsylvania-205000429.html",
+   "published_unix": 1784235000,
+   "captured_at": "2026-07-16T21:15:14"
+  },
+  {
+   "uuid": "93a534cf-757a-31eb-9125-630488672a3b",
+   "tickers": [
+    "WTRG"
+   ],
+   "company": "Essential Utilities, Inc.",
+   "title": "Essential Utilities to Report Financial Results for Q2 2026",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/essential-utilities-report-financial-results-203000179.html",
+   "published_unix": 1784233800,
+   "captured_at": "2026-07-16T21:15:12"
+  },
+  {
+   "uuid": "83e435d1-16e6-3875-85f5-eb9b2697d282",
+   "tickers": [
+    "GMED"
+   ],
+   "company": "GLOBUS MEDICAL INC",
+   "title": "Globus Medical Schedules Second Quarter Earnings Release and Conference Call",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/globus-medical-schedules-second-quarter-203000658.html",
+   "published_unix": 1784233800,
+   "captured_at": "2026-07-16T21:15:18"
+  },
+  {
+   "uuid": "002187ee-5f4c-3acd-a3c9-a8551e6ece0d",
+   "tickers": [
+    "KWR"
+   ],
+   "company": "QUAKER CHEMICAL CORP",
+   "title": "Quaker Houghton Announces Second Quarter 2026 Earnings and Investor Call",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/quaker-houghton-announces-second-quarter-203000781.html",
+   "published_unix": 1784233800,
+   "captured_at": "2026-07-16T21:15:22"
+  },
+  {
+   "uuid": "94719ced-47e6-3fc0-adf8-b4be2db018ed",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers, Inc.",
+   "title": "Toll Brothers Announces Final Opportunity to Purchase a New Home at Canopy Cottages in Redmond, Washington",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-final-opportunity-202300773.html",
+   "published_unix": 1784233380,
+   "captured_at": "2026-07-16T21:15:11"
+  },
+  {
+   "uuid": "659caf00-939e-3203-aa33-442ddb05fb35",
+   "tickers": [
+    "BV"
+   ],
+   "company": "BrightView Holdings, Inc.",
+   "title": "BrightView Holdings, Inc. Announces Third Quarter Fiscal Year 2026 Earnings Release Date, Conference Call and Webcast",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/brightview-holdings-inc-announces-third-201500597.html",
+   "published_unix": 1784232900,
+   "captured_at": "2026-07-16T21:15:26"
+  },
+  {
+   "uuid": "6d1e2622-36b0-30ba-9222-7844581b8ce2",
+   "tickers": [
+    "SND"
+   ],
+   "company": "Smart Sand, Inc.",
+   "title": "SMART SAND, INC. DECLARES SPECIAL DIVIDEND OF $0.10 PER SHARE",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/smart-sand-inc-declares-special-200000434.html",
+   "published_unix": 1784232000,
+   "captured_at": "2026-07-16T21:15:33"
+  },
+  {
+   "uuid": "efaa2e31-0ebb-3b67-8c03-c880e58e1742",
+   "tickers": [
+    "HSY"
+   ],
+   "company": "HERSHEY CO",
+   "title": "Hershey margin recovery expected to begin in Q2, but Jefferies stays on sidelines over volume concerns",
+   "publisher": "Proactive",
+   "link": "https://finance.yahoo.com/m/efaa2e31-0ebb-3b67-8c03-c880e58e1742/hershey-margin-recovery.html",
+   "published_unix": 1784231820,
+   "captured_at": "2026-07-16T21:15:49"
+  },
   {
    "uuid": "928dccf6-7638-3c2b-80a7-c732e7b0b039",
    "tickers": [
@@ -1992,54 +2100,6 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/berenberg-adjusts-price-target-merck-093418041.html",
    "published_unix": 1783676058,
    "captured_at": "2026-07-10T13:19:59"
-  },
-  {
-   "uuid": "cc766194-4a3f-3f81-b1e5-f085c14b7382",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Bickford Ranch, California",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-210000618.html",
-   "published_unix": 1783630800,
-   "captured_at": "2026-07-09T22:42:44"
-  },
-  {
-   "uuid": "39adacf6-ed15-3897-bb31-06291b9152aa",
-   "tickers": [
-    "FSK"
-   ],
-   "company": "FS KKR Capital Corp",
-   "title": "FSK Announces Earnings Release and Conference Call Schedule for Second Quarter 2026",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/fsk-announces-earnings-release-conference-202000490.html",
-   "published_unix": 1783628400,
-   "captured_at": "2026-07-09T20:56:18"
-  },
-  {
-   "uuid": "6d5dd1ba-94d2-355f-b368-f9b5a77c97b9",
-   "tickers": [
-    "XHLD"
-   ],
-   "company": "TEN Holdings, Inc.",
-   "title": "TEN Holdings, Inc. Outlines Growth Strategy Following Closing of $7.5 Million Offering",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/technology/articles/ten-holdings-inc-outlines-growth-200100153.html",
-   "published_unix": 1783627260,
-   "captured_at": "2026-07-09T20:56:38"
-  },
-  {
-   "uuid": "ea4cb727-412e-32c0-9f7f-e8279d19b324",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora, Inc.",
-   "title": "Analyst Report: Cencora, Inc.",
-   "publisher": "Morningstar Research",
-   "link": "https://finance.yahoo.com/m/ea4cb727-412e-32c0-9f7f-e8279d19b324/analyst-report%3A-cencora%2C-inc..html",
-   "published_unix": 1783625974,
-   "captured_at": "2026-07-09T22:42:46"
   }
  ]
 }
