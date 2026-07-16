@@ -1,6 +1,30 @@
 {
- "generated_at": "2026-07-16T15:13:53+00:00",
+ "generated_at": "2026-07-16T17:40:20+00:00",
  "items": [
+  {
+   "uuid": "e4dc60c0-0fd6-3015-ba54-d0209594cbb4",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Merck's HIV Pipeline Nears Key Inflection Point Ahead of ISLEND Data, RBC Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/merck-apos-hiv-pipeline-nears-154005084.html",
+   "published_unix": 1784216405,
+   "captured_at": "2026-07-16T17:40:20"
+  },
+  {
+   "uuid": "6b5ffbb2-50d4-37bf-823a-849b18e5d74a",
+   "tickers": [
+    "JNJ"
+   ],
+   "company": "JOHNSON & JOHNSON",
+   "title": "Johnson & Johnson's Innovative Medicine Segment Momentum Continues to Build into 2027, RBC Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-apos-innovative-medicine-152956386.html",
+   "published_unix": 1784215796,
+   "captured_at": "2026-07-16T17:40:19"
+  },
   {
    "uuid": "c98d5e32-0ca7-35e5-9a31-103a660b43b7",
    "tickers": [
@@ -168,6 +192,18 @@
    "link": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-announces-collaboration-time-121100719.html",
    "published_unix": 1784203860,
    "captured_at": "2026-07-16T12:50:51"
+  },
+  {
+   "uuid": "3050258d-5a08-3fd6-9cc2-53828a901337",
+   "tickers": [
+    "QVCAQ"
+   ],
+   "company": "QVC Group, Inc.",
+   "title": "QVC Group nears bankruptcy exit with approved restructuring plan",
+   "publisher": "Retail Dive",
+   "link": "https://finance.yahoo.com/m/3050258d-5a08-3fd6-9cc2-53828a901337/qvc-group-nears-bankruptcy.html",
+   "published_unix": 1784203500,
+   "captured_at": "2026-07-16T17:40:18"
   },
   {
    "uuid": "15b7037d-0910-3623-85ce-6b06844bd14d",
@@ -1932,30 +1968,6 @@
    "link": "https://finance.yahoo.com/small-business/articles/jersey-american-water-launches-2026-182700470.html",
    "published_unix": 1783621620,
    "captured_at": "2026-07-09T18:59:47"
-  },
-  {
-   "uuid": "22da3084-0120-3fb9-83a6-1b4136df40ff",
-   "tickers": [
-    "DD"
-   ],
-   "company": "DuPont de Nemours, Inc.",
-   "title": "3M, DuPont, Corteva, Chemours Sued by New York AG Over Toxic Pollution From Consumer Products",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/3m-dupont-corteva-chemours-sued-164728663.html",
-   "published_unix": 1783615648,
-   "captured_at": "2026-07-09T19:00:21"
-  },
-  {
-   "uuid": "610772c3-d307-313e-819c-dd7fc964eb8b",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Southeast Asia Oncology Drug Access Market Now Available; Profiles Roche, AstraZeneca, Merck, and Other Key Peers",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/southeast-asia-oncology-drug-access-155300715.html",
-   "published_unix": 1783612380,
-   "captured_at": "2026-07-09T16:40:34"
   }
  ]
 }
