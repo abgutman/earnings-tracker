@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-17T16:35:14+00:00",
+ "generated_at": "2026-07-17T18:17:23+00:00",
  "items": [
   {
    "uuid": "d7c0253b-1685-358a-b577-2367e5a71a78",
@@ -12,6 +12,18 @@
    "link": "https://finance.yahoo.com/m/d7c0253b-1685-358a-b577-2367e5a71a78/merck-reportedly-goes-to-bat.html",
    "published_unix": 1784295673,
    "captured_at": "2026-07-17T14:54:06"
+  },
+  {
+   "uuid": "35bf31ac-d4d0-3303-b78e-607c979e2b58",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "New Cholesterol Pill, Earnings Growth Boost Merck Shares",
+   "publisher": "FX Empire",
+   "link": "https://finance.yahoo.com/healthcare/articles/cholesterol-pill-earnings-growth-boost-124034304.html",
+   "published_unix": 1784292034,
+   "captured_at": "2026-07-17T18:17:22"
   },
   {
    "uuid": "cf489b67-92a0-3b6e-9c92-888f8490d992",
@@ -2052,30 +2064,6 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-shares-rise-citigroup-185304843.html",
    "published_unix": 1783709584,
    "captured_at": "2026-07-10T20:42:20"
-  },
-  {
-   "uuid": "7174d29c-167c-3e25-ba1f-bc76db1440dd",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Thousand Oaks, California",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-171200877.html",
-   "published_unix": 1783703520,
-   "captured_at": "2026-07-10T18:44:25"
-  },
-  {
-   "uuid": "3a021489-9d4b-367f-b286-69e558b87556",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers Announces New Phase of Home Sites Coming to Saddlecrest at Windermere in Fall 2026",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-phase-home-164500206.html",
-   "published_unix": 1783701900,
-   "captured_at": "2026-07-10T18:44:25"
   }
  ]
 }
