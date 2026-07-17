@@ -1,6 +1,42 @@
 {
- "generated_at": "2026-07-17T12:21:31+00:00",
+ "generated_at": "2026-07-17T14:54:06+00:00",
  "items": [
+  {
+   "uuid": "d7c0253b-1685-358a-b577-2367e5a71a78",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "Merck Reportedly Goes To Bat In Takeover Battle. Genomics Stock Flies.",
+   "publisher": "Investor's Business Daily",
+   "link": "https://finance.yahoo.com/m/d7c0253b-1685-358a-b577-2367e5a71a78/merck-reportedly-goes-to-bat.html",
+   "published_unix": 1784295673,
+   "captured_at": "2026-07-17T14:54:06"
+  },
+  {
+   "uuid": "cf489b67-92a0-3b6e-9c92-888f8490d992",
+   "tickers": [
+    "HLNE"
+   ],
+   "company": "Hamilton Lane INC",
+   "title": "Oppenheimer Adjusts Price Target on Hamilton Lane to $174 From $176, Maintains Outperform Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-adjusts-price-target-hamilton-122918442.html",
+   "published_unix": 1784291358,
+   "captured_at": "2026-07-17T14:53:27"
+  },
+  {
+   "uuid": "af42993e-d31a-31f4-8a29-519a99e5a5e9",
+   "tickers": [
+    "AXTA"
+   ],
+   "company": "Axalta Coating Systems Ltd.",
+   "title": "BofA Securities Adjusts Price Target on Axalta Coating Systems to $40 From $38, Maintains Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-securities-adjusts-price-target-121821985.html",
+   "published_unix": 1784290701,
+   "captured_at": "2026-07-17T14:53:13"
+  },
   {
    "uuid": "4d933a4e-8625-3552-92b9-309b6f76e955",
    "tickers": [
@@ -2052,42 +2088,6 @@
    "link": "https://finance.yahoo.com/energy/articles/pennsylvania-american-water-asks-customers-152400593.html",
    "published_unix": 1783697040,
    "captured_at": "2026-07-10T16:33:49"
-  },
-  {
-   "uuid": "35667335-a25c-3e7a-a826-03f02b548cea",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "BofA Securities Adjusts Johnson & Johnson Price Target to $263 From $254",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-securities-adjusts-johnson-johnson-142254466.html",
-   "published_unix": 1783693374,
-   "captured_at": "2026-07-10T16:34:26"
-  },
-  {
-   "uuid": "b44e5eb9-0ce7-384c-bd73-bc2984519174",
-   "tickers": [
-    "CUBE"
-   ],
-   "company": "CubeSmart",
-   "title": "UBS Adjusts CubeSmart Price Target to $43 From $41, Maintains Neutral Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-cubesmart-price-target-132824484.html",
-   "published_unix": 1783690104,
-   "captured_at": "2026-07-10T16:33:53"
-  },
-  {
-   "uuid": "e0b98923-c384-3928-8317-aceb1712c0ea",
-   "tickers": [
-    "AME"
-   ],
-   "company": "AMETEK INC/",
-   "title": "Morgan Stanley Adjusts Price Target on AMETEK to $245 From $235",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-price-target-122152938.html",
-   "published_unix": 1783686112,
-   "captured_at": "2026-07-10T13:19:05"
   }
  ]
 }
