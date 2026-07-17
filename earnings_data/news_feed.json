@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-17T14:54:06+00:00",
+ "generated_at": "2026-07-17T16:35:14+00:00",
  "items": [
   {
    "uuid": "d7c0253b-1685-358a-b577-2367e5a71a78",
@@ -2076,18 +2076,6 @@
    "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-phase-home-164500206.html",
    "published_unix": 1783701900,
    "captured_at": "2026-07-10T18:44:25"
-  },
-  {
-   "uuid": "205844d0-5bc3-3cd5-a6d6-df9f9ee33d41",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "Pennsylvania American Water Asks Customers in Nine Counties to Reduce Nonessential Water Use During Drought Watch Declaration",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/pennsylvania-american-water-asks-customers-152400593.html",
-   "published_unix": 1783697040,
-   "captured_at": "2026-07-10T16:33:49"
   }
  ]
 }
