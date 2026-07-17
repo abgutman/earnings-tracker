@@ -1,6 +1,18 @@
 {
- "generated_at": "2026-07-17T20:15:05+00:00",
+ "generated_at": "2026-07-17T22:06:33+00:00",
  "items": [
+  {
+   "uuid": "7c90de21-5ede-364d-9a3b-2b7ed0944cbe",
+   "tickers": [
+    "AVTX"
+   ],
+   "company": "Avalo Therapeutics, Inc.",
+   "title": "Avalo Therapeutics Says Some Shareholders May Sell Up to 128,189 Shares",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/avalo-therapeutics-says-shareholders-may-202213654.html",
+   "published_unix": 1784319733,
+   "captured_at": "2026-07-17T22:06:11"
+  },
   {
    "uuid": "d7c0253b-1685-358a-b577-2367e5a71a78",
    "tickers": [
@@ -2004,18 +2016,6 @@
    "link": "https://finance.yahoo.com/m/f9ba20ee-52b3-36a2-9599-34cc9564a65e/nasdaq%2C-s%26p-500%2C-dow-futures.html",
    "published_unix": 1783906437,
    "captured_at": "2026-07-13T13:32:35"
-  },
-  {
-   "uuid": "9b070936-c2c2-3fb1-aa85-b5761e705f0c",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Illinois Appellate Court Affirms $45 Million Mesothelioma Verdict Against Johnson & Johnson and Kenvue",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/healthcare/articles/illinois-appellate-court-affirms-45-203000724.html",
-   "published_unix": 1783715400,
-   "captured_at": "2026-07-10T22:15:42"
   }
  ]
 }
