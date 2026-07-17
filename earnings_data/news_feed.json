@@ -1,6 +1,30 @@
 {
- "generated_at": "2026-07-17T03:33:07+00:00",
+ "generated_at": "2026-07-17T12:21:31+00:00",
  "items": [
+  {
+   "uuid": "4d933a4e-8625-3552-92b9-309b6f76e955",
+   "tickers": [
+    "PPL"
+   ],
+   "company": "PPL Corp",
+   "title": "PPL Corporation to Conduct Webcast on Second-Quarter 2026 Earnings Results",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ppl-corporation-conduct-webcast-second-113000117.html",
+   "published_unix": 1784287800,
+   "captured_at": "2026-07-17T12:21:30"
+  },
+  {
+   "uuid": "13161f9d-08ab-3ffd-baf3-2c06f031330d",
+   "tickers": [
+    "RDN"
+   ],
+   "company": "RADIAN GROUP INC",
+   "title": "Radian to Webcast Second Quarter Conference Call",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/radian-webcast-second-quarter-conference-103000141.html",
+   "published_unix": 1784284200,
+   "captured_at": "2026-07-17T12:20:36"
+  },
   {
    "uuid": "3ffdd1b2-5ce9-3b74-8344-d6763c9a15a1",
    "tickers": [
@@ -2064,54 +2088,6 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-price-target-122152938.html",
    "published_unix": 1783686112,
    "captured_at": "2026-07-10T13:19:05"
-  },
-  {
-   "uuid": "6eb2d505-fc2d-31c6-bd35-452c6f8c926e",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "JNJ Stock Keeps Climbing. Should You Climb On?",
-   "publisher": "Trefis",
-   "link": "https://finance.yahoo.com/m/6eb2d505-fc2d-31c6-bd35-452c6f8c926e/jnj-stock-keeps-climbing..html",
-   "published_unix": 1783684953,
-   "captured_at": "2026-07-10T13:19:59"
-  },
-  {
-   "uuid": "58a33fd6-4b5d-3cc5-a3ef-7f8f541f4cca",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "--Citigroup Upgrades Toll Brothers to Buy From Neutral, Adjusts PT to $176 From $146",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/citigroup-upgrades-toll-brothers-buy-115453578.html",
-   "published_unix": 1783684493,
-   "captured_at": "2026-07-10T13:19:09"
-  },
-  {
-   "uuid": "68d774a5-d5a0-30ca-a745-e60d381194b8",
-   "tickers": [
-    "CUBE"
-   ],
-   "company": "CubeSmart",
-   "title": "Barclays Upgrades CubeSmart to Overweight From Equal Weight, Raises Price Target to $46 From $45",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-upgrades-cubesmart-overweight-equal-113419952.html",
-   "published_unix": 1783683259,
-   "captured_at": "2026-07-10T13:19:16"
-  },
-  {
-   "uuid": "26d1fbfc-14e3-32ee-9318-8e2a2eef6d11",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Berenberg Adjusts Price Target on Merck to $127 From $125, Keeps Hold Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/berenberg-adjusts-price-target-merck-093418041.html",
-   "published_unix": 1783676058,
-   "captured_at": "2026-07-10T13:19:59"
   }
  ]
 }
