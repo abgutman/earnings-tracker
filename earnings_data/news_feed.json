@@ -1,6 +1,18 @@
 {
- "generated_at": "2026-07-17T22:06:33+00:00",
+ "generated_at": "2026-07-17T23:07:52+00:00",
  "items": [
+  {
+   "uuid": "e0d5acf6-d2bb-3496-97de-9a0524ba6cb1",
+   "tickers": [
+    "MRK"
+   ],
+   "company": "Merck & Co., Inc.",
+   "title": "The Real Question Buried Inside Merck Stock's Premium Price",
+   "publisher": "Trefis",
+   "link": "https://finance.yahoo.com/m/e0d5acf6-d2bb-3496-97de-9a0524ba6cb1/the-real-question-buried.html",
+   "published_unix": 1784325063,
+   "captured_at": "2026-07-17T23:07:51"
+  },
   {
    "uuid": "7c90de21-5ede-364d-9a3b-2b7ed0944cbe",
    "tickers": [
