@@ -327,5 +327,15 @@
   "source_publisher": "GlobeNewswire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-07-16T23:42:53"
+ },
+ "RDN": {
+  "release_date": null,
+  "call_date": "2026-08-06",
+  "call_time": "10:00 ET",
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/radian-webcast-second-quarter-conference-103000141.html",
+  "source_title": "Radian to Webcast Second Quarter Conference Call",
+  "source_publisher": "Business Wire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-07-17T23:37:53"
  }
 }
