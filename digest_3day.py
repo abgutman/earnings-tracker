@@ -3,12 +3,16 @@
 
 For the companies we WANT to track but currently can't find a source for
 (roster: active:false, no sources), re-probe every ~3 days:
-  - Yahoo Finance search by name (relevance-filtered — catches a company that
-    IPOs / becomes indexed / gets real coverage), and
-  - a PR Newswire per-company page guessed from the name (catches a wire feed
-    appearing).
-Email Av — and ONLY Av — when one or more of these shows recent signal, so we
-know to go wire it into the feed. If nothing shows signal, no email.
+  - Yahoo Finance search by name (catches a company that IPOs / gets a ticker),
+  - a PR Newswire per-company page guessed from the name (catches a wire feed), and
+  - a full-text news search (Google News RSS) restricted to a SOURCE_WHITELIST of
+    substantive business/legal/local outlets (Bloomberg, FT, Inquirer, Technical.ly,
+    Law360, …), deduped by title. Full-text is the only way to reach coverage of
+    private/no-ticker firms (e.g. the Susquehanna insider-trading story that Yahoo's
+    ticker index can't surface); the whitelist keeps it to real signal, not sports
+    scores or generic-name collisions.
+Email Av — and ONLY Av — when one or more shows recent signal, so we know to go
+wire it in. If nothing shows signal, no email.
 
 --live actually sends; without it, logs what it would send.
 Trial: stood up 2026-07-19, revisit ~2026-08-19.
@@ -18,6 +22,7 @@ import sys
 import time
 import urllib.parse
 from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -31,6 +36,18 @@ HERE = Path(__file__).parent
 ROSTER_FILE = HERE / "earnings_data" / "local_roster.json"
 SIGNAL_DAYS = 21          # only count recent activity as "signal"
 TO = "agutman@inquirer.com"
+
+# Full-text news search is a firehose. Restrict it to substantive business /
+# legal / local outlets so we get real signal, not sports scores or generic-name
+# collisions. Editable — matched as a lowercase substring of the item's source.
+SOURCE_WHITELIST = {
+    "bloomberg", "reuters", "wall street journal", "financial times", "cnbc",
+    "fortune", "forbes", "associated press", "axios", "the information", "pymnts",
+    "american banker", "modern healthcare", "marketwatch", "barron",
+    "law360", "claims journal", "insurance journal", "the deal",
+    "philadelphia inquirer", "inquirer.com", "inquirer", "technical.ly",
+    "philadelphia business journal", "whyy", "billy penn",
+}
 
 
 def log(msg):
@@ -64,6 +81,46 @@ def probe_yahoo(name, aliases, cutoff):
     return out
 
 
+def _norm(t):
+    return re.sub(r"[^a-z0-9]+", " ", (t or "").lower()).strip()
+
+
+def probe_gnews(name, cutoff):
+    """Full-text news search (Google News RSS) — reaches coverage of companies
+    that have no ticker/wire (e.g. private firms). Deduped by normalized title
+    so the same story from N outlets collapses to one."""
+    q = urllib.parse.quote(f'"{name}"')
+    txt = _curl(f"https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en")
+    if not txt:
+        return []
+    seen, out = set(), []
+    for block in re.findall(r"<item>(.*?)</item>", txt, re.S):
+        tm = re.search(r"<title>(.*?)</title>", block, re.S)
+        dm = re.search(r"<pubDate>(.*?)</pubDate>", block)
+        lm = re.search(r"<link>(.*?)</link>", block)
+        sm = re.search(r"<source[^>]*>(.*?)</source>", block, re.S)
+        if not tm:
+            continue
+        title = _clean(tm.group(1))
+        src = _clean(sm.group(1)) if sm else ""
+        title = re.sub(r"\s*-\s*" + re.escape(src) + r"\s*$", "", title) if src else title
+        if not any(w in src.lower() for w in SOURCE_WHITELIST):
+            continue
+        try:
+            ts = int(parsedate_to_datetime(dm.group(1)).timestamp()) if dm else 0
+        except Exception:
+            ts = 0
+        if ts and ts < cutoff:
+            continue
+        key = _norm(title)[:80]
+        if not key or key in seen:
+            continue
+        seen.add(key)
+        out.append((title, src, _clean(lm.group(1)) if lm else "", ts))
+    out.sort(key=lambda x: x[3], reverse=True)
+    return out
+
+
 def probe_prn(name, cutoff):
     url = f"https://www.prnewswire.com/news/{_slug(name)}/"
     html = _curl(url)
@@ -94,9 +151,11 @@ def main():
         time.sleep(0.2)
         p = probe_prn(name, cutoff)
         time.sleep(0.2)
-        if y or p:
-            signals.append({"name": name, "yahoo": y, "prn": p})
-            log(f"  SIGNAL: {name}  yahoo={len(y)} prn={p['count'] if p else 0}")
+        g = probe_gnews(name, cutoff)
+        time.sleep(0.2)
+        if y or p or g:
+            signals.append({"name": name, "yahoo": y, "prn": p, "gnews": g})
+            log(f"  SIGNAL: {name}  yahoo={len(y)} prn={p['count'] if p else 0} gnews={len(g)}")
 
     if not signals:
         log("No signal for any unsourced company — no email.")
@@ -113,6 +172,9 @@ def main():
         for (t, pub, link, ts) in s["yahoo"][:3]:
             bits.append(f'<div style="margin:3px 0;">Yahoo: <a href="{link}" style="color:#1a5276;">{t}</a> '
                         f'<span style="color:#888;font-size:12px;">— {pub}, {_fmt(ts)}</span></div>')
+        for (t, src, link, ts) in s.get("gnews", [])[:4]:
+            bits.append(f'<div style="margin:3px 0;">News: <a href="{link}" style="color:#1a5276;">{t}</a> '
+                        f'<span style="color:#888;font-size:12px;">— {src}, {_fmt(ts)}</span></div>')
         rows += (f'<div style="margin:14px 0;"><div style="font-weight:700;color:#0a1628;">{s["name"]}</div>'
                  f'{"".join(bits)}</div>')
 
@@ -125,8 +187,8 @@ def main():
 <div style="padding:18px 20px;border:1px solid #e5e7eb;border-top:none;border-radius:0 0 8px 8px;">
   {rows}
   <div style="margin-top:18px;font-size:11.5px;color:#999;">
-    These are roster companies with no source yet; a hit here means one just became findable via Yahoo or PR Newswire.
-    Verify against source material before adding. One-month trial.
+    These are roster companies with no source yet; a hit here means recent coverage turned up via Yahoo, PR Newswire,
+    or a full-text news search (deduped). Verify against source material before adding. One-month trial.
   </div>
 </div></body></html>"""
     subject = f"Source-watch: signal for {len(signals)} untracked compan(y/ies)"
