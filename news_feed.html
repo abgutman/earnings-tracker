@@ -43,6 +43,17 @@ a.chip:hover { background: #d6e2f2; color: #1c3d5f; }
 
 .empty { background: white; padding: 40px; border-radius: 12px; text-align: center; color: #6c757d; font-style: italic; }
 
+.tracked { margin-top: 14px; font-size: 13px; border-top: 1px solid #eef0f3; padding-top: 12px; }
+.tracked summary { cursor: pointer; color: #2c5282; font-weight: 600; list-style: none; }
+.tracked summary::-webkit-details-marker { display: none; }
+.tracked summary::before { content: "\25B8  "; color: #adb5bd; }
+.tracked[open] summary::before { content: "\25BE  "; }
+.tracked-list { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 12px; }
+.tco { background: #eef0f3; border-radius: 8px; padding: 3px 9px; font-size: 12.5px; color: #1a1a2e; }
+.tco em { color: #6c757d; font-style: normal; font-size: 10px; margin-left: 6px; text-transform: uppercase; letter-spacing: .04em; }
+.tracked-note { font-size: 11.5px; color: #6c757d; margin: 12px 0 0; line-height: 1.5; }
+.tracked code { background: #eef0f3; padding: 1px 5px; border-radius: 4px; font-size: 11px; }
+
 @media (max-width: 600px) {
   .feed-shell { padding: 0 12px 60px; }
   .feed-header, .post { border-radius: 10px; }
@@ -97,6 +108,7 @@ if (localStorage.getItem('busybiz_auth')==='1') {
     </div>
     <input id="search" class="search-box" type="search" autocomplete="off"
            placeholder="Search headlines, tickers, companies, publishers…">
+    <details class="tracked"><summary>Tracked companies (15)</summary><div class="tracked-list"><span class="tco">American Water<em>Yahoo</em></span><span class="tco">Aramark<em>Yahoo</em></span><span class="tco">Burlington Stores<em>Yahoo</em></span><span class="tco">Campbell&#x27;s<em>Yahoo</em></span><span class="tco">Cencora<em>Yahoo</em></span><span class="tco">Comcast<em>Yahoo</em></span><span class="tco">Five Below<em>Yahoo</em></span><span class="tco">FMC Corporation<em>Yahoo</em></span><span class="tco">Franklin Biolabs<em>RSS</em></span><span class="tco">Gopuff<em>wire</em></span><span class="tco">Independence Blue Cross<em>wire</em></span><span class="tco">PJM Interconnection<em>wire</em></span><span class="tco">Rothman Orthopaedic Institute<em>RSS</em></span><span class="tco">Vanguard<em>wire</em></span><span class="tco">Wawa<em>wire</em></span></div><p class="tracked-note">Plus 27 companies in the roster not currently pulled — silent firms with no press operation, or sources not yet wired. Edit <code>local_roster.json</code> to add, remove, or activate companies.</p></details>
   </div>
 
   

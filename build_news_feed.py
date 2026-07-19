@@ -84,6 +84,32 @@ posts_html = "".join(render_card(it) for it in items)
 gen = feed.get("generated_at", "")
 n_companies = len(set(it.get("company","") for it in items if it.get("company")))
 
+# Roster of tracked companies (for the disclosure at the top of the page)
+ROSTER_FILE = ED / "local_roster.json"
+try:
+    roster = json.loads(ROSTER_FILE.read_text())
+except Exception:
+    roster = {"entities": []}
+_active = [e for e in roster.get("entities", []) if e.get("active")]
+_inactive_ct = sum(1 for e in roster.get("entities", []) if not e.get("active"))
+_SRC_LABEL = {"yahoo_search": "Yahoo", "wire_page": "wire", "rss": "RSS", "html_scrape": "web"}
+def _src_tag(e):
+    tags = []
+    for s in e.get("sources", []):
+        lbl = _SRC_LABEL.get(s.get("type"))
+        if lbl and lbl not in tags:
+            tags.append(lbl)
+    return "/".join(tags)
+_tracked_items = "".join(
+    f'<span class="tco">{esc(e["name"])}<em>{esc(_src_tag(e))}</em></span>'
+    for e in sorted(_active, key=lambda e: e["name"].lower()))
+tracked_html = (
+    f'<details class="tracked"><summary>Tracked companies ({len(_active)})</summary>'
+    f'<div class="tracked-list">{_tracked_items}</div>'
+    f'<p class="tracked-note">Plus {_inactive_ct} companies in the roster not currently pulled — '
+    f'silent firms with no press operation, or sources not yet wired. '
+    f'Edit <code>local_roster.json</code> to add, remove, or activate companies.</p></details>')
+
 html_doc = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -128,6 +154,17 @@ a.chip:hover {{ background: #d6e2f2; color: #1c3d5f; }}
 
 .empty {{ background: white; padding: 40px; border-radius: 12px; text-align: center; color: #6c757d; font-style: italic; }}
 
+.tracked {{ margin-top: 14px; font-size: 13px; border-top: 1px solid #eef0f3; padding-top: 12px; }}
+.tracked summary {{ cursor: pointer; color: #2c5282; font-weight: 600; list-style: none; }}
+.tracked summary::-webkit-details-marker {{ display: none; }}
+.tracked summary::before {{ content: "\\25B8  "; color: #adb5bd; }}
+.tracked[open] summary::before {{ content: "\\25BE  "; }}
+.tracked-list {{ display: flex; flex-wrap: wrap; gap: 6px; margin-top: 12px; }}
+.tco {{ background: #eef0f3; border-radius: 8px; padding: 3px 9px; font-size: 12.5px; color: #1a1a2e; }}
+.tco em {{ color: #6c757d; font-style: normal; font-size: 10px; margin-left: 6px; text-transform: uppercase; letter-spacing: .04em; }}
+.tracked-note {{ font-size: 11.5px; color: #6c757d; margin: 12px 0 0; line-height: 1.5; }}
+.tracked code {{ background: #eef0f3; padding: 1px 5px; border-radius: 4px; font-size: 11px; }}
+
 @media (max-width: 600px) {{
   .feed-shell {{ padding: 0 12px 60px; }}
   .feed-header, .post {{ border-radius: 10px; }}
@@ -147,6 +184,7 @@ a.chip:hover {{ background: #d6e2f2; color: #1c3d5f; }}
     </div>
     <input id="search" class="search-box" type="search" autocomplete="off"
            placeholder="Search headlines, tickers, companies, publishers…">
+    {tracked_html}
   </div>
 
   {posts_html if items else '<div class="empty">No news in the last 30 days.</div>'}
