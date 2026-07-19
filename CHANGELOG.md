@@ -1,5 +1,18 @@
 # Earnings tracker changelog
 
+## 2026-07-19 — News feed rebuilt: local-company roster replaces the Yahoo ticker firehose
+
+### What changed
+
+`poll_news_feed.py` was refactored from a 100+ generic-ticker Yahoo aggregator into a **config-driven roster of ~25 Philadelphia-area companies we actually cover**. Same `news_feed.json` output, so the Busy Biz "Latest from the wire" panel needed no change.
+
+- **Why:** the tracked-ticker universe and the editorial tier list were ~90% disjoint (only 10 of 108 overlapped), so the panel surfaced mostly companies we don't cover.
+- **New roster:** `earnings_data/local_roster.json` — expert-editable; add/remove or flip `active`. Only entities with a confirmed working source are `active:true` so the feed never implies coverage it lacks. National tier names (FanDuel, Amazon, Tesla) excluded — topical, not local.
+- **Source adapters** (dispatched per entity): `yahoo_search` (public cos by ticker; guarded against Yahoo's generic-fallback bucket; relevance-filtered to on-company news), `wire_page` (PR Newswire per-company page scrape), `rss` (feedparser / WordPress `/feed/`), `html_scrape` (stub for later per-site selectors).
+- **EDGAR intentionally not pulled** here (covered by the 8-K firehose); Yahoo's EDGAR-derived headlines are kept. 30-day lookback (`LOOKBACK_HOURS=720`).
+- **Dep:** added `feedparser` to `news-feed-hourly.yml`.
+- **Known-thin:** the wire half is quiet (only PJM posts frequently); ~13 roster entities are `active:false` (silent private firms or unresolved PR Newswire slugs — HBSE, Hanwha, Holtec, AmeriHealth). Follow-ups: add `html_scrape` for wawa.com; resolve remaining wire slugs.
+
 ## 2026-07-06 — Webcast resolve stage: earnings-call capture is now fully automated
 
 ### What changed
