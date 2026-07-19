@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-19T08:03:46",
+ "generated_at": "2026-07-19T08:54:07",
  "items": [
   {
    "uuid": "46b7d1fb-f342-4116-b776-2115bae36e73",
@@ -12,7 +12,7 @@
    "link": "https://finance.yahoo.com/video/nbc-universal-could-be-netflixs-next-big-acquisition-target-bofa-analyst-150040227.html",
    "published_unix": 1784300440,
    "source_type": "yahoo",
-   "captured_at": "2026-07-19T08:03:41"
+   "captured_at": "2026-07-19T08:53:50"
   },
   {
    "uuid": "ed23c46f-5742-3635-a3a2-2c589e3b8219",
@@ -25,7 +25,7 @@
    "link": "https://finance.yahoo.com/economy/policy/articles/american-water-unit-gets-74-211109113.html",
    "published_unix": 1784236269,
    "source_type": "yahoo",
-   "captured_at": "2026-07-19T08:03:44"
+   "captured_at": "2026-07-19T08:53:54"
   },
   {
    "uuid": "d9772be5-8dda-3621-90fb-ae30fc595f4d",
@@ -38,7 +38,20 @@
    "link": "https://finance.yahoo.com/economy/policy/articles/puc-approves-rate-adjustment-pennsylvania-205000429.html",
    "published_unix": 1784235000,
    "source_type": "yahoo",
-   "captured_at": "2026-07-19T08:03:44"
+   "captured_at": "2026-07-19T08:53:54"
+  },
+  {
+   "uuid": "93a534cf-757a-31eb-9125-630488672a3b",
+   "tickers": [
+    "WTRG"
+   ],
+   "company": "Essential Utilities",
+   "title": "Essential Utilities to Report Financial Results for Q2 2026",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/essential-utilities-report-financial-results-203000179.html",
+   "published_unix": 1784233800,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-19T08:53:54"
   },
   {
    "uuid": "04a40561-a043-3dbf-9ea7-56acaf273bf4",
@@ -51,7 +64,7 @@
    "link": "https://finance.yahoo.com/healthcare/articles/west-virginia-american-water-proudly-184400724.html",
    "published_unix": 1784227440,
    "source_type": "yahoo",
-   "captured_at": "2026-07-19T08:03:44"
+   "captured_at": "2026-07-19T08:53:54"
   },
   {
    "uuid": "b2be03c8-16dc-3ea5-b6c1-e1911dcc2a61",
@@ -64,7 +77,7 @@
    "link": "https://finance.yahoo.com/healthcare/articles/pennsylvania-american-water-awarded-pennvest-143900697.html",
    "published_unix": 1784212740,
    "source_type": "yahoo",
-   "captured_at": "2026-07-19T08:03:44"
+   "captured_at": "2026-07-19T08:53:54"
   },
   {
    "uuid": "aa652383-405c-33d5-a8b0-94ffca73896e",
@@ -77,7 +90,20 @@
    "link": "https://finance.yahoo.com/healthcare/articles/american-water-provides-expertise-nacwas-131700158.html",
    "published_unix": 1784207820,
    "source_type": "yahoo",
-   "captured_at": "2026-07-19T08:03:44"
+   "captured_at": "2026-07-19T08:53:54"
+  },
+  {
+   "uuid": "6a5a0e64-3321-3db5-9600-b00df303ffb8",
+   "tickers": [
+    "WTRG"
+   ],
+   "company": "Essential Utilities",
+   "title": "Essential Utilities Unit Secures $74.3 Million to Advance Treatment Plant Projects",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/essential-utilities-unit-secures-74-212139520.html",
+   "published_unix": 1784150499,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-19T08:53:54"
   },
   {
    "uuid": "c2ae6591-c7c6-3779-9af5-886441ef3c78",
@@ -90,7 +116,7 @@
    "link": "https://finance.yahoo.com/small-business/articles/american-water-builds-workforce-tomorrow-170200216.html",
    "published_unix": 1784134920,
    "source_type": "yahoo",
-   "captured_at": "2026-07-19T08:03:44"
+   "captured_at": "2026-07-19T08:53:54"
   },
   {
    "uuid": "12eb2cc86074df5671b84213fd2de20a2e35b68d",
@@ -101,7 +127,7 @@
    "link": "https://www.prnewswire.com/news-releases/pjm-capacity-auction-procures-138-318-mw-of-generation-resources-as-work-continues-to-address-growing-electricity-demand-302825613.html",
    "published_unix": 1784061600,
    "source_type": "wire",
-   "captured_at": "2026-07-19T08:03:46"
+   "captured_at": "2026-07-19T08:54:06"
   },
   {
    "uuid": "75061a80-4cc3-38b3-8551-1c7bae0b73ed",
@@ -114,7 +140,7 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-apos-momentum-remains-152322125.html",
    "published_unix": 1784042602,
    "source_type": "yahoo",
-   "captured_at": "2026-07-19T08:03:43"
+   "captured_at": "2026-07-19T08:53:52"
   },
   {
    "uuid": "8eb23a00-7609-3514-8fef-5435f690f93f",
@@ -127,7 +153,7 @@
    "link": "https://finance.yahoo.com/healthcare/articles/campbells-cooks-soup-lineup-20g-130000839.html",
    "published_unix": 1784034000,
    "source_type": "yahoo",
-   "captured_at": "2026-07-19T08:03:43"
+   "captured_at": "2026-07-19T08:53:53"
   },
   {
    "uuid": "e812848b5e77e7098e428c99888051ccdf05a10c",
@@ -138,7 +164,7 @@
    "link": "https://www.rothmanortho.com/blog/better-bone-muscle-health-in-aging-and-menopause/",
    "published_unix": 1784034000,
    "source_type": "rss",
-   "captured_at": "2026-07-19T08:03:46"
+   "captured_at": "2026-07-19T08:54:07"
   },
   {
    "uuid": "9a6ae0e4-90fe-3d94-a7e6-ec0ea2c8467d",
@@ -151,7 +177,7 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-host-conference-call-third-113000173.html",
    "published_unix": 1784028600,
    "source_type": "yahoo",
-   "captured_at": "2026-07-19T08:03:41"
+   "captured_at": "2026-07-19T08:53:51"
   },
   {
    "uuid": "7a1c3d9d-2178-34ea-9d73-e6fdc7554c32",
@@ -164,7 +190,7 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-apos-intra-quarter-contract-165444802.html",
    "published_unix": 1783961684,
    "source_type": "yahoo",
-   "captured_at": "2026-07-19T08:03:41"
+   "captured_at": "2026-07-19T08:53:51"
   },
   {
    "uuid": "bb63412e-9191-3724-babf-08d57862a7f4",
@@ -177,7 +203,7 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-price-target-aramark-150541900.html",
    "published_unix": 1783955141,
    "source_type": "yahoo",
-   "captured_at": "2026-07-19T08:03:41"
+   "captured_at": "2026-07-19T08:53:51"
   },
   {
    "uuid": "f1f0edb5-bd0b-38f7-b373-78c41722e890",
@@ -190,7 +216,7 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/time-names-aramark-among-americas-113000960.html",
    "published_unix": 1783942200,
    "source_type": "yahoo",
-   "captured_at": "2026-07-19T08:03:41"
+   "captured_at": "2026-07-19T08:53:51"
   },
   {
    "uuid": "09538e51-082c-3e99-bf2f-88bdd730c4fc",
@@ -203,7 +229,7 @@
    "link": "https://finance.yahoo.com/healthcare/articles/fmc-files-first-global-regulatory-205739916.html",
    "published_unix": 1783544259,
    "source_type": "yahoo",
-   "captured_at": "2026-07-19T08:03:42"
+   "captured_at": "2026-07-19T08:53:52"
   },
   {
    "uuid": "d4097f21-704d-387c-a48f-175b3f1f8cde",
@@ -216,7 +242,7 @@
    "link": "https://finance.yahoo.com/healthcare/articles/fmc-corporation-files-first-global-203000662.html",
    "published_unix": 1783542600,
    "source_type": "yahoo",
-   "captured_at": "2026-07-19T08:03:42"
+   "captured_at": "2026-07-19T08:53:52"
   },
   {
    "uuid": "f86dda1c6c38d05e8a174d42cc3f10d1fa01dee1",
@@ -227,7 +253,7 @@
    "link": "https://www.rothmanortho.com/blog/thumb-arthritis-from-bracing-to-surgery/",
    "published_unix": 1783519264,
    "source_type": "rss",
-   "captured_at": "2026-07-19T08:03:46"
+   "captured_at": "2026-07-19T08:54:07"
   },
   {
    "uuid": "7d40b84d-ab15-37d5-9870-8c9f64f4d6bd",
@@ -240,7 +266,7 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/evercore-isi-adjusts-price-target-131756525.html",
    "published_unix": 1783430276,
    "source_type": "yahoo",
-   "captured_at": "2026-07-19T08:03:42"
+   "captured_at": "2026-07-19T08:53:51"
   },
   {
    "uuid": "f402fbf9cf2e2ab57f8a14ef47ff7cf73603316c",
@@ -251,7 +277,7 @@
    "link": "https://www.rothmanortho.com/blog/how-plyometric-training-helps-prevent-injuries/",
    "published_unix": 1783344600,
    "source_type": "rss",
-   "captured_at": "2026-07-19T08:03:46"
+   "captured_at": "2026-07-19T08:54:07"
   },
   {
    "uuid": "b97d9ed4-5332-326f-9922-d492554f661d",
@@ -264,7 +290,7 @@
    "link": "https://finance.yahoo.com/healthcare/articles/cencora-announces-date-time-third-203000029.html",
    "published_unix": 1782937800,
    "source_type": "yahoo",
-   "captured_at": "2026-07-19T08:03:42"
+   "captured_at": "2026-07-19T08:53:51"
   },
   {
    "uuid": "27139779-3adc-3138-8287-9b742a9685f9",
@@ -277,7 +303,7 @@
    "link": "https://finance.yahoo.com/m/27139779-3adc-3138-8287-9b742a9685f9/fmc-shares-surge-after.html",
    "published_unix": 1782915031,
    "source_type": "yahoo",
-   "captured_at": "2026-07-19T08:03:42"
+   "captured_at": "2026-07-19T08:53:52"
   },
   {
    "uuid": "ea2979ec-116c-326d-98dc-58a5cf72c45f",
@@ -290,7 +316,7 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-sell-400-million-common-074535663.html",
    "published_unix": 1782891935,
    "source_type": "yahoo",
-   "captured_at": "2026-07-19T08:03:42"
+   "captured_at": "2026-07-19T08:53:52"
   },
   {
    "uuid": "05a04ff1-11eb-3930-a668-09f58259abec",
@@ -303,7 +329,7 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-corporation-reaches-agreement-400-020500932.html",
    "published_unix": 1782871500,
    "source_type": "yahoo",
-   "captured_at": "2026-07-19T08:03:42"
+   "captured_at": "2026-07-19T08:53:52"
   },
   {
    "uuid": "0fa97d01-eaf7-3c01-9910-88f6fc1bdf2f",
@@ -316,7 +342,7 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-seen-delivering-strong-fiscal-155608247.html",
    "published_unix": 1782748568,
    "source_type": "yahoo",
-   "captured_at": "2026-07-19T08:03:41"
+   "captured_at": "2026-07-19T08:53:51"
   },
   {
    "uuid": "51db6467-becb-3965-a4bf-510cf4447e2b",
@@ -329,7 +355,7 @@
    "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-poised-solid-third-quarter-151110803.html",
    "published_unix": 1782745870,
    "source_type": "yahoo",
-   "captured_at": "2026-07-19T08:03:41"
+   "captured_at": "2026-07-19T08:53:51"
   },
   {
    "uuid": "e14e4a4b73e203e992c15935268496b8d42db5d2",
@@ -340,7 +366,7 @@
    "link": "https://franklinbio.com/franklin-biolabs-achieves-clia-certification-for-aav-nab-testing/",
    "published_unix": 1782280067,
    "source_type": "rss",
-   "captured_at": "2026-07-19T08:03:46"
+   "captured_at": "2026-07-19T08:54:07"
   },
   {
    "uuid": "2ac2622fee65bc9c294b36510a6a2b66347ddc4a",
@@ -351,7 +377,33 @@
    "link": "https://www.prnewswire.com/news-releases/pjm-announces-retirement-of-craig-glazer-302808092.html",
    "published_unix": 1782234540,
    "source_type": "wire",
-   "captured_at": "2026-07-19T08:03:46"
+   "captured_at": "2026-07-19T08:54:06"
+  },
+  {
+   "uuid": "65ca5d96-9deb-38c0-b59d-bd4eeb25a2d5",
+   "tickers": [
+    "WTRG"
+   ],
+   "company": "Essential Utilities",
+   "title": "Virginia Regulator Approves American Water-Essential Utilities Merger",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/virginia-regulator-approves-american-water-204203293.html",
+   "published_unix": 1782160923,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-19T08:53:54"
+  },
+  {
+   "uuid": "fee447ed-f617-345e-b1be-bc1b40ba495d",
+   "tickers": [
+    "WTRG"
+   ],
+   "company": "Essential Utilities",
+   "title": "American Water and Essential Utilities Proposed Merger Progresses with Approval from the Virginia State Corporation Commission",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/american-water-essential-utilities-proposed-201500373.html",
+   "published_unix": 1782159300,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-19T08:53:54"
   }
  ]
 }
