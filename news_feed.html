@@ -52,17 +52,16 @@ a.chip:hover { background: #d6e2f2; color: #1c3d5f; }
 </head>
 <body>
 
-<div id="auth-gate" style="position:fixed;inset:0;background:#0d1117;z-index:99999;display:flex;align-items:center;justify-content:center;">
-  <div style="background:#161b22;border:1px solid #21262d;padding:40px;border-radius:12px;text-align:center;max-width:360px;width:90%;box-shadow:0 8px 30px rgba(0,0,0,0.6);">
-    <div style="font-size:22px;font-weight:800;letter-spacing:2px;color:#e6edf3;margin-bottom:4px;">BUSY BIZ</div>
-    <div style="font-size:12px;color:#8b949e;margin-bottom:22px;">Tools to keep biz busy</div>
+<div id="auth-gate" style="position:fixed;inset:0;background:#1a1a2e;z-index:99999;display:flex;align-items:center;justify-content:center;">
+  <div style="background:white;padding:40px;border-radius:12px;text-align:center;max-width:360px;width:90%;box-shadow:0 4px 20px rgba(0,0,0,0.3);">
+    <div style="font-size:28px;margin-bottom:20px;">&#128274;</div>
     <input id="auth-pw" type="password" placeholder="Password" autofocus
-      style="width:100%;padding:12px;border:1px solid #30363d;background:#0d1117;color:#e6edf3;border-radius:6px;font-size:15px;margin-bottom:12px;box-sizing:border-box;"
+      style="width:100%;padding:12px;border:2px solid #ddd;border-radius:6px;font-size:15px;margin-bottom:12px;box-sizing:border-box;"
       onkeydown="if(event.key==='Enter')checkPw()">
     <button onclick="checkPw()"
-      style="width:100%;padding:12px;background:#3fb950;color:#0d1117;border:none;border-radius:6px;font-size:15px;font-weight:700;cursor:pointer;">
+      style="width:100%;padding:12px;background:#1a1a2e;color:white;border:none;border-radius:6px;font-size:15px;font-weight:600;cursor:pointer;">
       Enter</button>
-    <p id="auth-err" style="color:#f85149;font-size:13px;margin-top:10px;display:none;">Incorrect password</p>
+    <p id="auth-err" style="color:#c0392b;font-size:13px;margin-top:10px;display:none;">Incorrect password</p>
   </div>
 </div>
 <script>
@@ -72,1545 +71,159 @@ async function sha256(msg) {
 }
 async function checkPw() {
   const h = await sha256(document.getElementById('auth-pw').value);
-  if (h === '6f9b9af28410ba27d402b20770ef7467287ccac76863972d3491feedc75703ac') {
-    localStorage.setItem('busybiz_auth','1');
+  if (h === 'c93289ef40f052d7086625037e113760e055ec65d162906acc0d8645fcbbd336') {
+    sessionStorage.setItem('court_auth','1');
     document.getElementById('auth-gate').remove();
   } else {
     document.getElementById('auth-err').style.display='block';
     document.getElementById('auth-pw').value='';
   }
 }
-if (localStorage.getItem('busybiz_auth')==='1') {
+if (sessionStorage.getItem('court_auth')==='1') {
   document.getElementById('auth-gate').remove();
 }
 </script>
 
-<a href="https://abgutman.github.io/busy-biz/" style="position:fixed;top:12px;right:12px;z-index:9998;background:#161b22;color:#e6edf3;border:1px solid #30363d;padding:6px 14px;border-radius:6px;text-decoration:none;font-size:13px;font-weight:600;box-shadow:0 2px 6px rgba(0,0,0,0.4);">Busy Biz</a>
+<a href="https://abgutman.github.io/av-tools/" style="position:fixed;top:12px;right:12px;z-index:9998;background:#1a1a2e;color:white;padding:6px 14px;border-radius:6px;text-decoration:none;font-size:13px;font-weight:600;box-shadow:0 2px 6px rgba(0,0,0,0.2);">Av's Tools Homepage</a>
 <div class="feed-shell">
   <div class="feed-header">
     <h1>Philly Business News</h1>
     <p class="sub">Yahoo Finance headlines for the 100+ public companies HQ'd in the 8-county Philadelphia region. Last 7 days, newest first.</p>
     <div class="counts">
-      <span><b id="shown-count">169</b> / 169 headlines</span>
-      <span><b>57</b> companies in news</span>
-      <span>Refreshed hourly · last update 11:24 PM ET</span>
+      <span><b id="shown-count">28</b> / 28 headlines</span>
+      <span><b>7</b> companies in news</span>
+      <span>Refreshed hourly · last update 08:03</span>
     </div>
     <input id="search" class="search-box" type="search" autocomplete="off"
            placeholder="Search headlines, tickers, companies, publishers…">
   </div>
 
   
-    <article class="post" data-search="mrk merck &amp; co., inc. the real question buried inside merck stock&#x27;s premium price trefis">
+    <article class="post" data-search="cmcsa comcast nbc universal could be netflix&#x27;s next big acquisition target: bofa analyst yahoo finance video">
       <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/MRK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for MRK">MRK</a></div>
-        <span class="ts" title="Fri Jul 17, 5:51 PM ET">5h</span>
+        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/CMCSA/news/" target="_blank" rel="noopener" title="Yahoo Finance news for CMCSA">CMCSA</a></div>
+        <span class="ts" title="Fri Jul 17, 11:00 AM ET">1d</span>
       </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/e0d5acf6-d2bb-3496-97de-9a0524ba6cb1/the-real-question-buried.html" target="_blank" rel="noopener">The Real Question Buried Inside Merck Stock&#x27;s Premium Price</a></h3>
+      <h3 class="headline"><a href="https://finance.yahoo.com/video/nbc-universal-could-be-netflixs-next-big-acquisition-target-bofa-analyst-150040227.html" target="_blank" rel="noopener">NBC Universal could be Netflix&#x27;s next big acquisition target: BofA analyst</a></h3>
       <div class="post-footer">
-        <span class="publisher">Trefis</span>
-        <span class="company">Merck &amp; Co., Inc.</span>
+        <span class="publisher">Yahoo Finance Video</span>
+        <span class="company">Comcast</span>
       </div>
     </article>
-    <article class="post" data-search="avtx avalo therapeutics, inc. avalo therapeutics says some shareholders may sell up to 128,189 shares mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/AVTX/news/" target="_blank" rel="noopener" title="Yahoo Finance news for AVTX">AVTX</a></div>
-        <span class="ts" title="Fri Jul 17, 4:22 PM ET">7h</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/avalo-therapeutics-says-shareholders-may-202213654.html" target="_blank" rel="noopener">Avalo Therapeutics Says Some Shareholders May Sell Up to 128,189 Shares</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">Avalo Therapeutics, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="mrk merck &amp; co., inc. merck reportedly goes to bat in takeover battle. genomics stock flies. investor&#x27;s business daily">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/MRK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for MRK">MRK</a></div>
-        <span class="ts" title="Fri Jul 17, 9:41 AM ET">13h</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/d7c0253b-1685-358a-b577-2367e5a71a78/merck-reportedly-goes-to-bat.html" target="_blank" rel="noopener">Merck Reportedly Goes To Bat In Takeover Battle. Genomics Stock Flies.</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Investor&#x27;s Business Daily</span>
-        <span class="company">Merck &amp; Co., Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="mrk merck &amp; co., inc. new cholesterol pill, earnings growth boost merck shares fx empire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/MRK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for MRK">MRK</a></div>
-        <span class="ts" title="Fri Jul 17, 8:40 AM ET">14h</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/cholesterol-pill-earnings-growth-boost-124034304.html" target="_blank" rel="noopener">New Cholesterol Pill, Earnings Growth Boost Merck Shares</a></h3>
-      <div class="post-footer">
-        <span class="publisher">FX Empire</span>
-        <span class="company">Merck &amp; Co., Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="hlne hamilton lane inc oppenheimer adjusts price target on hamilton lane to $174 from $176, maintains outperform rating mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/HLNE/news/" target="_blank" rel="noopener" title="Yahoo Finance news for HLNE">HLNE</a></div>
-        <span class="ts" title="Fri Jul 17, 8:29 AM ET">14h</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/oppenheimer-adjusts-price-target-hamilton-122918442.html" target="_blank" rel="noopener">Oppenheimer Adjusts Price Target on Hamilton Lane to $174 From $176, Maintains Outperform Rating</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">Hamilton Lane INC</span>
-      </div>
-    </article>
-    <article class="post" data-search="axta axalta coating systems ltd. bofa securities adjusts price target on axalta coating systems to $40 from $38, maintains buy rating mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/AXTA/news/" target="_blank" rel="noopener" title="Yahoo Finance news for AXTA">AXTA</a></div>
-        <span class="ts" title="Fri Jul 17, 8:18 AM ET">15h</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/bofa-securities-adjusts-price-target-121821985.html" target="_blank" rel="noopener">BofA Securities Adjusts Price Target on Axalta Coating Systems to $40 From $38, Maintains Buy Rating</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">Axalta Coating Systems Ltd.</span>
-      </div>
-    </article>
-    <article class="post" data-search="ppl ppl corp ppl corporation to conduct webcast on second-quarter 2026 earnings results pr newswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/PPL/news/" target="_blank" rel="noopener" title="Yahoo Finance news for PPL">PPL</a></div>
-        <span class="ts" title="Fri Jul 17, 7:30 AM ET">15h</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/ppl-corporation-conduct-webcast-second-113000117.html" target="_blank" rel="noopener">PPL Corporation to Conduct Webcast on Second-Quarter 2026 Earnings Results</a></h3>
-      <div class="post-footer">
-        <span class="publisher">PR Newswire</span>
-        <span class="company">PPL Corp</span>
-      </div>
-    </article>
-    <article class="post" data-search="rdn radian group inc radian to webcast second quarter conference call business wire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/RDN/news/" target="_blank" rel="noopener" title="Yahoo Finance news for RDN">RDN</a></div>
-        <span class="ts" title="Fri Jul 17, 6:30 AM ET">16h</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/radian-webcast-second-quarter-conference-103000141.html" target="_blank" rel="noopener">Radian to Webcast Second Quarter Conference Call</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Business Wire</span>
-        <span class="company">RADIAN GROUP INC</span>
-      </div>
-    </article>
-    <article class="post" data-search="rdn radian group inc radian group insider sold shares worth $780,000, according to a recent sec filing mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/RDN/news/" target="_blank" rel="noopener" title="Yahoo Finance news for RDN">RDN</a></div>
-        <span class="ts" title="Thu Jul 16, 5:47 PM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/radian-group-insider-sold-shares-214707665.html" target="_blank" rel="noopener">Radian Group Insider Sold Shares Worth $780,000, According to a Recent SEC Filing</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">RADIAN GROUP INC</span>
-      </div>
-    </article>
-    <article class="post" data-search="awk american water works company, inc. american water unit gets $74.9 million rate increase mt newswires">
+    <article class="post" data-search="awk american water american water unit gets $74.9 million rate increase mt newswires">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/AWK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for AWK">AWK</a></div>
-        <span class="ts" title="Thu Jul 16, 5:11 PM ET">1d</span>
+        <span class="ts" title="Thu Jul 16, 5:11 PM ET">2d</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/economy/policy/articles/american-water-unit-gets-74-211109113.html" target="_blank" rel="noopener">American Water Unit Gets $74.9 Million Rate Increase</a></h3>
       <div class="post-footer">
         <span class="publisher">MT Newswires</span>
-        <span class="company">American Water Works Company, Inc.</span>
+        <span class="company">American Water</span>
       </div>
     </article>
-    <article class="post" data-search="awk american water works company, inc. puc approves rate adjustment for pennsylvania american water pr newswire">
+    <article class="post" data-search="awk american water puc approves rate adjustment for pennsylvania american water pr newswire">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/AWK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for AWK">AWK</a></div>
-        <span class="ts" title="Thu Jul 16, 4:50 PM ET">1d</span>
+        <span class="ts" title="Thu Jul 16, 4:50 PM ET">2d</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/economy/policy/articles/puc-approves-rate-adjustment-pennsylvania-205000429.html" target="_blank" rel="noopener">PUC Approves Rate Adjustment for Pennsylvania American Water</a></h3>
       <div class="post-footer">
         <span class="publisher">PR Newswire</span>
-        <span class="company">American Water Works Company, Inc.</span>
+        <span class="company">American Water</span>
       </div>
     </article>
-    <article class="post" data-search="wtrg essential utilities, inc. essential utilities to report financial results for q2 2026 business wire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/WTRG/news/" target="_blank" rel="noopener" title="Yahoo Finance news for WTRG">WTRG</a></div>
-        <span class="ts" title="Thu Jul 16, 4:30 PM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/essential-utilities-report-financial-results-203000179.html" target="_blank" rel="noopener">Essential Utilities to Report Financial Results for Q2 2026</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Business Wire</span>
-        <span class="company">Essential Utilities, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="gmed globus medical inc globus medical schedules second quarter earnings release and conference call globenewswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/GMED/news/" target="_blank" rel="noopener" title="Yahoo Finance news for GMED">GMED</a></div>
-        <span class="ts" title="Thu Jul 16, 4:30 PM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/globus-medical-schedules-second-quarter-203000658.html" target="_blank" rel="noopener">Globus Medical Schedules Second Quarter Earnings Release and Conference Call</a></h3>
-      <div class="post-footer">
-        <span class="publisher">GlobeNewswire</span>
-        <span class="company">GLOBUS MEDICAL INC</span>
-      </div>
-    </article>
-    <article class="post" data-search="kwr quaker chemical corp quaker houghton announces second quarter 2026 earnings and investor call pr newswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/KWR/news/" target="_blank" rel="noopener" title="Yahoo Finance news for KWR">KWR</a></div>
-        <span class="ts" title="Thu Jul 16, 4:30 PM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/quaker-houghton-announces-second-quarter-203000781.html" target="_blank" rel="noopener">Quaker Houghton Announces Second Quarter 2026 Earnings and Investor Call</a></h3>
-      <div class="post-footer">
-        <span class="publisher">PR Newswire</span>
-        <span class="company">QUAKER CHEMICAL CORP</span>
-      </div>
-    </article>
-    <article class="post" data-search="tol toll brothers, inc. toll brothers announces final opportunity to purchase a new home at canopy cottages in redmond, washington globenewswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/TOL/news/" target="_blank" rel="noopener" title="Yahoo Finance news for TOL">TOL</a></div>
-        <span class="ts" title="Thu Jul 16, 4:23 PM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-final-opportunity-202300773.html" target="_blank" rel="noopener">Toll Brothers Announces Final Opportunity to Purchase a New Home at Canopy Cottages in Redmond, Washington</a></h3>
-      <div class="post-footer">
-        <span class="publisher">GlobeNewswire</span>
-        <span class="company">Toll Brothers, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="bv brightview holdings, inc. brightview holdings, inc. announces third quarter fiscal year 2026 earnings release date, conference call and webcast business wire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/BV/news/" target="_blank" rel="noopener" title="Yahoo Finance news for BV">BV</a></div>
-        <span class="ts" title="Thu Jul 16, 4:15 PM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/brightview-holdings-inc-announces-third-201500597.html" target="_blank" rel="noopener">BrightView Holdings, Inc. Announces Third Quarter Fiscal Year 2026 Earnings Release Date, Conference Call and Webcast</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Business Wire</span>
-        <span class="company">BrightView Holdings, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="snd smart sand, inc. smart sand, inc. declares special dividend of $0.10 per share pr newswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/SND/news/" target="_blank" rel="noopener" title="Yahoo Finance news for SND">SND</a></div>
-        <span class="ts" title="Thu Jul 16, 4:00 PM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/smart-sand-inc-declares-special-200000434.html" target="_blank" rel="noopener">SMART SAND, INC. DECLARES SPECIAL DIVIDEND OF $0.10 PER SHARE</a></h3>
-      <div class="post-footer">
-        <span class="publisher">PR Newswire</span>
-        <span class="company">Smart Sand, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="hsy hershey co hershey margin recovery expected to begin in q2, but jefferies stays on sidelines over volume concerns proactive">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/HSY/news/" target="_blank" rel="noopener" title="Yahoo Finance news for HSY">HSY</a></div>
-        <span class="ts" title="Thu Jul 16, 3:57 PM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/efaa2e31-0ebb-3b67-8c03-c880e58e1742/hershey-margin-recovery.html" target="_blank" rel="noopener">Hershey margin recovery expected to begin in Q2, but Jefferies stays on sidelines over volume concerns</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Proactive</span>
-        <span class="company">HERSHEY CO</span>
-      </div>
-    </article>
-    <article class="post" data-search="jnj johnson &amp; johnson argus lifts johnson &amp; johnson price target to $290 from $275 mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/JNJ/news/" target="_blank" rel="noopener" title="Yahoo Finance news for JNJ">JNJ</a></div>
-        <span class="ts" title="Thu Jul 16, 3:01 PM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/argus-lifts-johnson-johnson-price-190146193.html" target="_blank" rel="noopener">Argus Lifts Johnson &amp; Johnson Price Target to $290 From $275</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">JOHNSON &amp; JOHNSON</span>
-      </div>
-    </article>
-    <article class="post" data-search="tol toll brothers, inc. toll brothers announces new luxury home community now open in yardley, pennsylvania globenewswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/TOL/news/" target="_blank" rel="noopener" title="Yahoo Finance news for TOL">TOL</a></div>
-        <span class="ts" title="Thu Jul 16, 2:54 PM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-185400903.html" target="_blank" rel="noopener">Toll Brothers Announces New Luxury Home Community Now Open in Yardley, Pennsylvania</a></h3>
-      <div class="post-footer">
-        <span class="publisher">GlobeNewswire</span>
-        <span class="company">Toll Brothers, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="tol toll brothers, inc. toll brothers announces grand opening of vista ventana in la mirada, california globenewswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/TOL/news/" target="_blank" rel="noopener" title="Yahoo Finance news for TOL">TOL</a></div>
-        <span class="ts" title="Thu Jul 16, 2:54 PM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-grand-opening-185400981.html" target="_blank" rel="noopener">Toll Brothers Announces Grand Opening of Vista Ventana in La Mirada, California</a></h3>
-      <div class="post-footer">
-        <span class="publisher">GlobeNewswire</span>
-        <span class="company">Toll Brothers, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="hrmy harmony biosciences holdings, inc. update: harmony biosciences shares fall after cfo glenn reicin steps down mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/HRMY/news/" target="_blank" rel="noopener" title="Yahoo Finance news for HRMY">HRMY</a></div>
-        <span class="ts" title="Thu Jul 16, 2:47 PM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/harmony-biosciences-shares-fall-cfo-184715643.html" target="_blank" rel="noopener">Update: Harmony Biosciences Shares Fall After CFO Glenn Reicin Steps Down</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">Harmony Biosciences Holdings, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="awk american water works company, inc. west virginia american water proudly recognizes american water charitable foundation 2026 water and environment grantees pr newswire">
+    <article class="post" data-search="awk american water west virginia american water proudly recognizes american water charitable foundation 2026 water and environment grantees pr newswire">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/AWK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for AWK">AWK</a></div>
-        <span class="ts" title="Thu Jul 16, 2:44 PM ET">1d</span>
+        <span class="ts" title="Thu Jul 16, 2:44 PM ET">2d</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/west-virginia-american-water-proudly-184400724.html" target="_blank" rel="noopener">West Virginia American Water Proudly Recognizes American Water Charitable Foundation 2026 Water and Environment Grantees</a></h3>
       <div class="post-footer">
         <span class="publisher">PR Newswire</span>
-        <span class="company">American Water Works Company, Inc.</span>
+        <span class="company">American Water</span>
       </div>
     </article>
-    <article class="post" data-search="jnj johnson &amp; johnson analyst report: johnson &amp; johnson argus research">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/JNJ/news/" target="_blank" rel="noopener" title="Yahoo Finance news for JNJ">JNJ</a></div>
-        <span class="ts" title="Thu Jul 16, 2:29 PM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/4b26f2f2-18e3-35cd-b523-fd0db92e3188/analyst-report%3A-johnson-%26.html" target="_blank" rel="noopener">Analyst Report: Johnson &amp; Johnson</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Argus Research</span>
-        <span class="company">JOHNSON &amp; JOHNSON</span>
-      </div>
-    </article>
-    <article class="post" data-search="jnj johnson &amp; johnson market update: tsm, gs, jnj, pgr, ual, meta argus research">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/JNJ/news/" target="_blank" rel="noopener" title="Yahoo Finance news for JNJ">JNJ</a></div>
-        <span class="ts" title="Thu Jul 16, 2:29 PM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/dfd74e72-8e9e-30d8-b7ba-fb2e231c8b9c/market-update%3A-tsm%2C-gs%2C-jnj%2C.html" target="_blank" rel="noopener">Market Update: TSM, GS, JNJ, PGR, UAL, META</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Argus Research</span>
-        <span class="company">JOHNSON &amp; JOHNSON</span>
-      </div>
-    </article>
-    <article class="post" data-search="qnto quaint oak bancorp, inc. quaint oak bancorp, inc. declares quarterly cash dividend globenewswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/QNTO/news/" target="_blank" rel="noopener" title="Yahoo Finance news for QNTO">QNTO</a></div>
-        <span class="ts" title="Thu Jul 16, 2:11 PM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/quaint-oak-bancorp-inc-declares-181100199.html" target="_blank" rel="noopener">Quaint Oak Bancorp, Inc. Declares Quarterly Cash Dividend</a></h3>
-      <div class="post-footer">
-        <span class="publisher">GlobeNewswire</span>
-        <span class="company">QUAINT OAK BANCORP, INC.</span>
-      </div>
-    </article>
-    <article class="post" data-search="mrk merck &amp; co., inc. merck&#x27;s hiv pipeline nears key inflection point ahead of islend data, rbc says mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/MRK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for MRK">MRK</a></div>
-        <span class="ts" title="Thu Jul 16, 11:40 AM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/merck-apos-hiv-pipeline-nears-154005084.html" target="_blank" rel="noopener">Merck&#x27;s HIV Pipeline Nears Key Inflection Point Ahead of ISLEND Data, RBC Says</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">Merck &amp; Co., Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="jnj johnson &amp; johnson johnson &amp; johnson&#x27;s innovative medicine segment momentum continues to build into 2027, rbc says mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/JNJ/news/" target="_blank" rel="noopener" title="Yahoo Finance news for JNJ">JNJ</a></div>
-        <span class="ts" title="Thu Jul 16, 11:29 AM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/johnson-johnson-apos-innovative-medicine-152956386.html" target="_blank" rel="noopener">Johnson &amp; Johnson&#x27;s Innovative Medicine Segment Momentum Continues to Build into 2027, RBC Says</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">JOHNSON &amp; JOHNSON</span>
-      </div>
-    </article>
-    <article class="post" data-search="hsy hershey co jefferies adjusts price target on hershey to $190 from $199, maintains hold rating mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/HSY/news/" target="_blank" rel="noopener" title="Yahoo Finance news for HSY">HSY</a></div>
-        <span class="ts" title="Thu Jul 16, 10:44 AM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/jefferies-adjusts-price-target-hershey-144403767.html" target="_blank" rel="noopener">Jefferies Adjusts Price Target on Hershey to $190 From $199, Maintains Hold Rating</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">HERSHEY CO</span>
-      </div>
-    </article>
-    <article class="post" data-search="awk american water works company, inc. pennsylvania american water awarded pennvest funding totaling $64+ million for water infrastructure improvement projects in allegheny, cumberland and susquehanna counties pr newswire">
+    <article class="post" data-search="awk american water pennsylvania american water awarded pennvest funding totaling $64+ million for water infrastructure improvement projects in allegheny, cumberland and susquehanna counties pr newswire">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/AWK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for AWK">AWK</a></div>
-        <span class="ts" title="Thu Jul 16, 10:39 AM ET">1d</span>
+        <span class="ts" title="Thu Jul 16, 10:39 AM ET">2d</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/pennsylvania-american-water-awarded-pennvest-143900697.html" target="_blank" rel="noopener">Pennsylvania American Water Awarded PENNVEST Funding Totaling $64+ Million for Water Infrastructure Improvement Projects in Allegheny, Cumberland and Susquehanna Counties</a></h3>
       <div class="post-footer">
         <span class="publisher">PR Newswire</span>
-        <span class="company">American Water Works Company, Inc.</span>
+        <span class="company">American Water</span>
       </div>
     </article>
-    <article class="post" data-search="hrmy harmony biosciences holdings, inc. harmony biosciences announces preliminary q2 revenue, cfo transition — says executive’s departure not due to any disagreement stocktwits">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/HRMY/news/" target="_blank" rel="noopener" title="Yahoo Finance news for HRMY">HRMY</a></div>
-        <span class="ts" title="Thu Jul 16, 10:37 AM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/9ea30e3b-d353-3868-9c82-6e73d9beef36/harmony-biosciences-announces.html" target="_blank" rel="noopener">Harmony Biosciences Announces Preliminary Q2 Revenue, CFO Transition — Says Executive’s Departure Not Due To Any Disagreement</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Stocktwits</span>
-        <span class="company">Harmony Biosciences Holdings, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="hsy hershey co ubs adjusts price target on hershey to $190 from $200, maintains neutral rating mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/HSY/news/" target="_blank" rel="noopener" title="Yahoo Finance news for HSY">HSY</a></div>
-        <span class="ts" title="Thu Jul 16, 9:24 AM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-price-target-hershey-132417642.html" target="_blank" rel="noopener">UBS Adjusts Price Target on Hershey to $190 From $200, Maintains Neutral Rating</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">HERSHEY CO</span>
-      </div>
-    </article>
-    <article class="post" data-search="gmed globus medical inc truist adjusts price target on globus medical to $100 from $115, maintains buy rating mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/GMED/news/" target="_blank" rel="noopener" title="Yahoo Finance news for GMED">GMED</a></div>
-        <span class="ts" title="Thu Jul 16, 9:23 AM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/truist-adjusts-price-target-globus-132348401.html" target="_blank" rel="noopener">Truist Adjusts Price Target on Globus Medical to $100 From $115, Maintains Buy Rating</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">GLOBUS MEDICAL INC</span>
-      </div>
-    </article>
-    <article class="post" data-search="jnj johnson &amp; johnson the real engine behind johnson &amp; johnson stock&#x27;s next climb trefis">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/JNJ/news/" target="_blank" rel="noopener" title="Yahoo Finance news for JNJ">JNJ</a></div>
-        <span class="ts" title="Thu Jul 16, 9:19 AM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/72671989-c303-3645-bd27-14de280a9168/the-real-engine-behind.html" target="_blank" rel="noopener">The Real Engine Behind Johnson &amp; Johnson Stock&#x27;s Next Climb</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Trefis</span>
-        <span class="company">JOHNSON &amp; JOHNSON</span>
-      </div>
-    </article>
-    <article class="post" data-search="awk american water works company, inc. american water provides expertise at nacwa&#x27;s 2026 utility leadership conference and 56th annual meeting pr newswire">
+    <article class="post" data-search="awk american water american water provides expertise at nacwa&#x27;s 2026 utility leadership conference and 56th annual meeting pr newswire">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/AWK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for AWK">AWK</a></div>
-        <span class="ts" title="Thu Jul 16, 9:17 AM ET">1d</span>
+        <span class="ts" title="Thu Jul 16, 9:17 AM ET">2d</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/american-water-provides-expertise-nacwas-131700158.html" target="_blank" rel="noopener">American Water Provides Expertise at NACWA&#x27;s 2026 Utility Leadership Conference and 56th Annual Meeting</a></h3>
       <div class="post-footer">
         <span class="publisher">PR Newswire</span>
-        <span class="company">American Water Works Company, Inc.</span>
+        <span class="company">American Water</span>
       </div>
     </article>
-    <article class="post" data-search="mrk merck &amp; co., inc. dow jones&#x27; merck snags a first-of-its-kind approval, and jumps investor&#x27;s business daily">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/MRK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for MRK">MRK</a></div>
-        <span class="ts" title="Thu Jul 16, 9:12 AM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/2dc15407-090a-3536-a56f-af4f2aaf8a8d/dow-jones%27-merck-snags-a.html" target="_blank" rel="noopener">Dow Jones&#x27; Merck Snags A First-Of-Its-Kind Approval, And Jumps</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Investor&#x27;s Business Daily</span>
-        <span class="company">Merck &amp; Co., Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="hrmy harmony biosciences holdings, inc. harmony biosciences expects higher q2 wakix revenue; cfo glenn reicin steps down mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/HRMY/news/" target="_blank" rel="noopener" title="Yahoo Finance news for HRMY">HRMY</a></div>
-        <span class="ts" title="Thu Jul 16, 9:06 AM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/harmony-biosciences-expects-higher-q2-130648812.html" target="_blank" rel="noopener">Harmony Biosciences Expects Higher Q2 Wakix Revenue; CFO Glenn Reicin Steps Down</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">Harmony Biosciences Holdings, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="jnj johnson &amp; johnson why is the market punishing jnj stock? trefis">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/JNJ/news/" target="_blank" rel="noopener" title="Yahoo Finance news for JNJ">JNJ</a></div>
-        <span class="ts" title="Thu Jul 16, 8:44 AM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/f0ce0132-3f57-37ba-83ab-d99065c3833c/why-is-the-market-punishing.html" target="_blank" rel="noopener">Why Is The Market Punishing JNJ Stock?</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Trefis</span>
-        <span class="company">JOHNSON &amp; JOHNSON</span>
-      </div>
-    </article>
-    <article class="post" data-search="hrmy harmony biosciences holdings, inc. harmony biosciences preannounces record quarterly revenue for q2 2026, reaffirms full-year 2026 revenue guidance, and announces cfo transition business wire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/HRMY/news/" target="_blank" rel="noopener" title="Yahoo Finance news for HRMY">HRMY</a></div>
-        <span class="ts" title="Thu Jul 16, 8:30 AM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/harmony-biosciences-preannounces-record-quarterly-123000251.html" target="_blank" rel="noopener">Harmony Biosciences Preannounces Record Quarterly Revenue for Q2 2026, Reaffirms Full-Year 2026 Revenue Guidance, and Announces CFO Transition</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Business Wire</span>
-        <span class="company">Harmony Biosciences Holdings, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="vsnt versant media group, inc. bundesliga broadens broadcast accessibility for fans in u.s. with new deals with versant&#x27;s usa sports and nbcuniversal&#x27;s telemundo pr newswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/VSNT/news/" target="_blank" rel="noopener" title="Yahoo Finance news for VSNT">VSNT</a></div>
-        <span class="ts" title="Thu Jul 16, 8:30 AM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/media-advertising/articles/bundesliga-broadens-broadcast-accessibility-fans-123000625.html" target="_blank" rel="noopener">Bundesliga Broadens Broadcast Accessibility for Fans in U.S. with New Deals with Versant&#x27;s USA Sports and NBCUniversal&#x27;s Telemundo</a></h3>
-      <div class="post-footer">
-        <span class="publisher">PR Newswire</span>
-        <span class="company">Versant Media Group, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="mrk merck &amp; co., inc. merck opens bioreliance® testing facility in darmstadt, germany to support drug product release in europe globenewswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/MRK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for MRK">MRK</a></div>
-        <span class="ts" title="Thu Jul 16, 8:20 AM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/merck-opens-bioreliance-testing-facility-122000628.html" target="_blank" rel="noopener">Merck Opens BioReliance® Testing Facility in Darmstadt, Germany to Support Drug Product Release in Europe</a></h3>
-      <div class="post-footer">
-        <span class="publisher">GlobeNewswire</span>
-        <span class="company">Merck &amp; Co., Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="jnj johnson &amp; johnson johnson &amp; johnson announces collaboration with time to introduce new healthcare champion of the year award business wire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/JNJ/news/" target="_blank" rel="noopener" title="Yahoo Finance news for JNJ">JNJ</a></div>
-        <span class="ts" title="Thu Jul 16, 8:11 AM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/johnson-johnson-announces-collaboration-time-121100719.html" target="_blank" rel="noopener">Johnson &amp; Johnson Announces Collaboration with TIME to Introduce New Healthcare Champion of the Year Award</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Business Wire</span>
-        <span class="company">JOHNSON &amp; JOHNSON</span>
-      </div>
-    </article>
-    <article class="post" data-search="qvcaq qvc group, inc. qvc group nears bankruptcy exit with approved restructuring plan retail dive">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/QVCAQ/news/" target="_blank" rel="noopener" title="Yahoo Finance news for QVCAQ">QVCAQ</a></div>
-        <span class="ts" title="Thu Jul 16, 8:05 AM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/3050258d-5a08-3fd6-9cc2-53828a901337/qvc-group-nears-bankruptcy.html" target="_blank" rel="noopener">QVC Group nears bankruptcy exit with approved restructuring plan</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Retail Dive</span>
-        <span class="company">QVC Group, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="ame ametek inc/ ametek announces second quarter 2026 earnings call and webcasted investor conference call information pr newswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/AME/news/" target="_blank" rel="noopener" title="Yahoo Finance news for AME">AME</a></div>
-        <span class="ts" title="Thu Jul 16, 8:00 AM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/ametek-announces-second-quarter-2026-120000901.html" target="_blank" rel="noopener">AMETEK Announces Second Quarter 2026 Earnings Call and Webcasted Investor Conference Call Information</a></h3>
-      <div class="post-footer">
-        <span class="publisher">PR Newswire</span>
-        <span class="company">AMETEK INC/</span>
-      </div>
-    </article>
-    <article class="post" data-search="ppl ppl corp jpmorgan adjusts price target on ppl to $45 from $42, maintains overweight rating mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/PPL/news/" target="_blank" rel="noopener" title="Yahoo Finance news for PPL">PPL</a></div>
-        <span class="ts" title="Thu Jul 16, 7:42 AM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/jpmorgan-adjusts-price-target-ppl-114215616.html" target="_blank" rel="noopener">JPMorgan Adjusts Price Target on PPL to $45 From $42, Maintains Overweight Rating</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">PPL Corp</span>
-      </div>
-    </article>
-    <article class="post" data-search="mrk merck &amp; co., inc. merck receives fda approval for cholesterol pill lipfendra mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/MRK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for MRK">MRK</a></div>
-        <span class="ts" title="Thu Jul 16, 7:32 AM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/merck-receives-fda-approval-cholesterol-113203367.html" target="_blank" rel="noopener">Merck Receives FDA Approval for Cholesterol Pill Lipfendra</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">Merck &amp; Co., Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="nnup nocopi technologies inc/md/ nocopi technologies appoints beth vasy as vice president of growth following the acquisition of the polymeric group globenewswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/NNUP/news/" target="_blank" rel="noopener" title="Yahoo Finance news for NNUP">NNUP</a></div>
-        <span class="ts" title="Thu Jul 16, 7:00 AM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/nocopi-technologies-appoints-beth-vasy-110000750.html" target="_blank" rel="noopener">Nocopi Technologies Appoints Beth Vasy as Vice President of Growth Following the Acquisition of the Polymeric Group</a></h3>
-      <div class="post-footer">
-        <span class="publisher">GlobeNewswire</span>
-        <span class="company">NOCOPI TECHNOLOGIES INC/MD/</span>
-      </div>
-    </article>
-    <article class="post" data-search="mrk merck &amp; co., inc. merck gets approval for powerful cholesterol-cutting pill barrons.com">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/MRK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for MRK">MRK</a></div>
-        <span class="ts" title="Thu Jul 16, 6:45 AM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/223f2f2e-ad16-3076-bce1-71ae304b0f1a/merck-gets-approval-for.html" target="_blank" rel="noopener">Merck Gets Approval for Powerful Cholesterol-Cutting Pill</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Barrons.com</span>
-        <span class="company">Merck &amp; Co., Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="mrk merck &amp; co., inc. merck’s first-of-its-kind cholesterol pill approved, ushering in new wave of treatment the wall street journal">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/MRK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for MRK">MRK</a></div>
-        <span class="ts" title="Thu Jul 16, 6:45 AM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/6e2eba41-7742-3b62-823f-751f235792c4/merck%E2%80%99s-first-of-its-kind.html" target="_blank" rel="noopener">Merck’s First-of-Its-Kind Cholesterol Pill Approved, Ushering in New Wave of Treatment</a></h3>
-      <div class="post-footer">
-        <span class="publisher">The Wall Street Journal</span>
-        <span class="company">Merck &amp; Co., Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="mrk merck &amp; co., inc. merck’s lipfendra® (enlicitide) is the first and only once-daily oral pcsk9 inhibitor approved by the u.s. fda to reduce ldl-c in adults with hypercholesterolemia business wire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/MRK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for MRK">MRK</a></div>
-        <span class="ts" title="Thu Jul 16, 6:45 AM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/merck-lipfendra-enlicitide-first-only-104500842.html" target="_blank" rel="noopener">Merck’s LIPFENDRA® (enlicitide) is the First and Only Once-Daily Oral PCSK9 Inhibitor Approved by the U.S. FDA to Reduce LDL-C in Adults with Hypercholesterolemia</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Business Wire</span>
-        <span class="company">Merck &amp; Co., Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="jnj johnson &amp; johnson goldman sachs adjusts price target on johnson &amp; johnson to $282 from $275, maintains buy rating mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/JNJ/news/" target="_blank" rel="noopener" title="Yahoo Finance news for JNJ">JNJ</a></div>
-        <span class="ts" title="Thu Jul 16, 6:37 AM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-adjusts-price-target-103732675.html" target="_blank" rel="noopener">Goldman Sachs Adjusts Price Target on Johnson &amp; Johnson to $282 From $275, Maintains Buy Rating</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">JOHNSON &amp; JOHNSON</span>
-      </div>
-    </article>
-    <article class="post" data-search="jnj johnson &amp; johnson stifel adjusts price target on johnson &amp; johnson to $260 from $250, maintains hold rating mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/JNJ/news/" target="_blank" rel="noopener" title="Yahoo Finance news for JNJ">JNJ</a></div>
-        <span class="ts" title="Thu Jul 16, 5:56 AM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/stifel-adjusts-price-target-johnson-095609531.html" target="_blank" rel="noopener">Stifel Adjusts Price Target on Johnson &amp; Johnson to $260 From $250, Maintains Hold Rating</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">JOHNSON &amp; JOHNSON</span>
-      </div>
-    </article>
-    <article class="post" data-search="jnj johnson &amp; johnson scotiabank adjusts pt on johnson &amp; johnson to $305 from $265, maintains sector outperform rating mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/JNJ/news/" target="_blank" rel="noopener" title="Yahoo Finance news for JNJ">JNJ</a></div>
-        <span class="ts" title="Thu Jul 16, 5:56 AM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/scotiabank-adjusts-pt-johnson-johnson-095603813.html" target="_blank" rel="noopener">Scotiabank Adjusts PT on Johnson &amp; Johnson to $305 From $265, Maintains Sector Outperform Rating</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">JOHNSON &amp; JOHNSON</span>
-      </div>
-    </article>
-    <article class="post" data-search="jnj johnson &amp; johnson raymond james adjusts pt on johnson &amp; johnson to $265 from $258, maintains outperform rating mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/JNJ/news/" target="_blank" rel="noopener" title="Yahoo Finance news for JNJ">JNJ</a></div>
-        <span class="ts" title="Thu Jul 16, 5:55 AM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/raymond-james-adjusts-pt-johnson-095554576.html" target="_blank" rel="noopener">Raymond James Adjusts PT on Johnson &amp; Johnson to $265 From $258, Maintains Outperform Rating</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">JOHNSON &amp; JOHNSON</span>
-      </div>
-    </article>
-    <article class="post" data-search="jnj johnson &amp; johnson morgan stanley adjusts pt on johnson &amp; johnson to $294 from $284, maintains overweight rating mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/JNJ/news/" target="_blank" rel="noopener" title="Yahoo Finance news for JNJ">JNJ</a></div>
-        <span class="ts" title="Thu Jul 16, 5:55 AM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-pt-johnson-095541168.html" target="_blank" rel="noopener">Morgan Stanley Adjusts PT on Johnson &amp; Johnson to $294 From $284, Maintains Overweight Rating</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">JOHNSON &amp; JOHNSON</span>
-      </div>
-    </article>
-    <article class="post" data-search="jnj johnson &amp; johnson jpmorgan adjusts price target on johnson &amp; johnson to $270 from $260, maintains neutral rating mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/JNJ/news/" target="_blank" rel="noopener" title="Yahoo Finance news for JNJ">JNJ</a></div>
-        <span class="ts" title="Thu Jul 16, 5:55 AM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/jpmorgan-adjusts-price-target-johnson-095529516.html" target="_blank" rel="noopener">JPMorgan Adjusts Price Target on Johnson &amp; Johnson to $270 From $260, Maintains Neutral Rating</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">JOHNSON &amp; JOHNSON</span>
-      </div>
-    </article>
-    <article class="post" data-search="mrk merck &amp; co., inc. merck wins first approval of a pcsk9 cholesterol pill biopharma dive">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/MRK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for MRK">MRK</a></div>
-        <span class="ts" title="Thu Jul 16, 5:22 AM ET">1d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/fa478ed5-de1f-3d5b-85be-272f27e8036a/merck-wins-first-approval-of.html" target="_blank" rel="noopener">Merck wins first approval of a PCSK9 cholesterol pill</a></h3>
-      <div class="post-footer">
-        <span class="publisher">BioPharma Dive</span>
-        <span class="company">Merck &amp; Co., Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="qvcaq qvc group, inc. qvc group achieves key milestone with court&#x27;s approval of comprehensive financial restructuring plan pr newswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/QVCAQ/news/" target="_blank" rel="noopener" title="Yahoo Finance news for QVCAQ">QVCAQ</a></div>
-        <span class="ts" title="Wed Jul 15, 6:17 PM ET">2d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/qvc-group-achieves-key-milestone-221700861.html" target="_blank" rel="noopener">QVC Group Achieves Key Milestone with Court&#x27;s Approval of Comprehensive Financial Restructuring Plan</a></h3>
-      <div class="post-footer">
-        <span class="publisher">PR Newswire</span>
-        <span class="company">QVC Group, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="ecvt ecovyst inc. ecovyst to host second quarter 2026 earnings conference call and webcast on wednesday, august 5, 2026, at 11:00 a.m. et pr newswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/ECVT/news/" target="_blank" rel="noopener" title="Yahoo Finance news for ECVT">ECVT</a></div>
-        <span class="ts" title="Wed Jul 15, 5:30 PM ET">2d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/ecovyst-host-second-quarter-2026-213000555.html" target="_blank" rel="noopener">Ecovyst to Host Second Quarter 2026 Earnings Conference Call and Webcast on Wednesday, August 5, 2026, at 11:00 a.m. ET</a></h3>
-      <div class="post-footer">
-        <span class="publisher">PR Newswire</span>
-        <span class="company">Ecovyst Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="wtrg essential utilities, inc. essential utilities unit secures $74.3 million to advance treatment plant projects mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/WTRG/news/" target="_blank" rel="noopener" title="Yahoo Finance news for WTRG">WTRG</a></div>
-        <span class="ts" title="Wed Jul 15, 5:21 PM ET">2d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/essential-utilities-unit-secures-74-212139520.html" target="_blank" rel="noopener">Essential Utilities Unit Secures $74.3 Million to Advance Treatment Plant Projects</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">Essential Utilities, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="uhs universal health services inc universal health services, inc. announces dividend pr newswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/UHS/news/" target="_blank" rel="noopener" title="Yahoo Finance news for UHS">UHS</a></div>
-        <span class="ts" title="Wed Jul 15, 4:20 PM ET">2d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/universal-health-services-inc-announces-202000123.html" target="_blank" rel="noopener">UNIVERSAL HEALTH SERVICES, INC. ANNOUNCES DIVIDEND</a></h3>
-      <div class="post-footer">
-        <span class="publisher">PR Newswire</span>
-        <span class="company">UNIVERSAL HEALTH SERVICES INC</span>
-      </div>
-    </article>
-    <article class="post" data-search="cert certara, inc. certara to report second quarter 2026 financial results on august 4th, 2026 globenewswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/CERT/news/" target="_blank" rel="noopener" title="Yahoo Finance news for CERT">CERT</a></div>
-        <span class="ts" title="Wed Jul 15, 4:15 PM ET">2d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/certara-report-second-quarter-2026-201500967.html" target="_blank" rel="noopener">Certara to Report Second Quarter 2026 Financial Results on August 4th, 2026</a></h3>
-      <div class="post-footer">
-        <span class="publisher">GlobeNewswire</span>
-        <span class="company">Certara, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="tol toll brothers, inc. toll brothers announces model home grand opening at toll brothers at the pinehills in plymouth, massachusetts globenewswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/TOL/news/" target="_blank" rel="noopener" title="Yahoo Finance news for TOL">TOL</a></div>
-        <span class="ts" title="Wed Jul 15, 4:02 PM ET">2d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-model-home-200200172.html" target="_blank" rel="noopener">Toll Brothers Announces Model Home Grand Opening at Toll Brothers at The Pinehills in Plymouth, Massachusetts</a></h3>
-      <div class="post-footer">
-        <span class="publisher">GlobeNewswire</span>
-        <span class="company">Toll Brothers, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="jnj johnson &amp; johnson johnson &amp; johnson’s spravato sales growth supports psychedelic drug opportunity: jefferies proactive">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/JNJ/news/" target="_blank" rel="noopener" title="Yahoo Finance news for JNJ">JNJ</a></div>
-        <span class="ts" title="Wed Jul 15, 3:34 PM ET">2d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/b46303ae-6f2d-3169-bd32-7f48f6cdbef5/johnson-%26-johnson%E2%80%99s-spravato.html" target="_blank" rel="noopener">Johnson &amp; Johnson’s Spravato sales growth supports psychedelic drug opportunity: Jefferies</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Proactive</span>
-        <span class="company">JOHNSON &amp; JOHNSON</span>
-      </div>
-    </article>
-    <article class="post" data-search="jnj johnson &amp; johnson analyst report: johnson &amp; johnson morningstar research">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/JNJ/news/" target="_blank" rel="noopener" title="Yahoo Finance news for JNJ">JNJ</a></div>
-        <span class="ts" title="Wed Jul 15, 3:05 PM ET">2d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/411fd9fb-c994-3b9f-8344-15d007c46ec9/analyst-report%3A-johnson-%26.html" target="_blank" rel="noopener">Analyst Report: Johnson &amp; Johnson</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Morningstar Research</span>
-        <span class="company">JOHNSON &amp; JOHNSON</span>
-      </div>
-    </article>
-    <article class="post" data-search="awk american water works company, inc. american water builds workforce of tomorrow through training, education and career pathways pr newswire">
+    <article class="post" data-search="awk american water american water builds workforce of tomorrow through training, education and career pathways pr newswire">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/AWK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for AWK">AWK</a></div>
-        <span class="ts" title="Wed Jul 15, 1:02 PM ET">2d</span>
+        <span class="ts" title="Wed Jul 15, 1:02 PM ET">3d</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/small-business/articles/american-water-builds-workforce-tomorrow-170200216.html" target="_blank" rel="noopener">American Water Builds Workforce of Tomorrow through Training, Education and Career Pathways</a></h3>
       <div class="post-footer">
         <span class="publisher">PR Newswire</span>
-        <span class="company">American Water Works Company, Inc.</span>
+        <span class="company">American Water</span>
       </div>
     </article>
-    <article class="post" data-search="vpg vishay precision group, inc. vishay precision group announces date for its second quarter fiscal 2026 earnings conference call globenewswire">
+    <article class="post" data-search="pjm interconnection pjm capacity auction procures 138,318 mw of generation resources as work continues to address growing electricity demand pr newswire">
       <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/VPG/news/" target="_blank" rel="noopener" title="Yahoo Finance news for VPG">VPG</a></div>
-        <span class="ts" title="Wed Jul 15, 1:00 PM ET">2d</span>
+        <div class="chips"></div>
+        <span class="ts" title="Tue Jul 14, 4:40 PM ET">4d</span>
       </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/vishay-precision-group-announces-date-170000777.html" target="_blank" rel="noopener">Vishay Precision Group Announces Date for its Second Quarter Fiscal 2026 Earnings Conference Call</a></h3>
-      <div class="post-footer">
-        <span class="publisher">GlobeNewswire</span>
-        <span class="company">Vishay Precision Group, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="wst west pharmaceutical services inc td cowen adjusts price target on west pharmaceutical services to $410 from $365, maintains buy rating mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/WST/news/" target="_blank" rel="noopener" title="Yahoo Finance news for WST">WST</a></div>
-        <span class="ts" title="Wed Jul 15, 11:24 AM ET">2d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/td-cowen-adjusts-price-target-152438913.html" target="_blank" rel="noopener">TD Cowen Adjusts Price Target on West Pharmaceutical Services to $410 From $365, Maintains Buy Rating</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">WEST PHARMACEUTICAL SERVICES INC</span>
-      </div>
-    </article>
-    <article class="post" data-search="phio phio pharmaceuticals corp. phio pharmaceuticals expands global patent portfolio with new international patent milestones investorshub">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/PHIO/news/" target="_blank" rel="noopener" title="Yahoo Finance news for PHIO">PHIO</a></div>
-        <span class="ts" title="Wed Jul 15, 11:06 AM ET">2d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/6d68525f-4ac0-35a5-983f-7d292c25e7f8/phio-pharmaceuticals-expands.html" target="_blank" rel="noopener">Phio Pharmaceuticals Expands Global Patent Portfolio With New International Patent Milestones</a></h3>
-      <div class="post-footer">
-        <span class="publisher">InvestorsHub</span>
-        <span class="company">Phio Pharmaceuticals Corp.</span>
-      </div>
-    </article>
-    <article class="post" data-search="awk american water works company, inc. tap water you can trust: west virginia american water treatment plant earns national recognition pr newswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/AWK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for AWK">AWK</a></div>
-        <span class="ts" title="Wed Jul 15, 11:03 AM ET">2d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/tap-water-trust-west-virginia-150300916.html" target="_blank" rel="noopener">Tap Water You Can Trust: West Virginia American Water Treatment Plant Earns National Recognition</a></h3>
+      <h3 class="headline"><a href="https://www.prnewswire.com/news-releases/pjm-capacity-auction-procures-138-318-mw-of-generation-resources-as-work-continues-to-address-growing-electricity-demand-302825613.html" target="_blank" rel="noopener">PJM Capacity Auction Procures 138,318 MW of Generation Resources as Work Continues To Address Growing Electricity Demand</a></h3>
       <div class="post-footer">
         <span class="publisher">PR Newswire</span>
-        <span class="company">American Water Works Company, Inc.</span>
+        <span class="company">PJM Interconnection</span>
       </div>
     </article>
-    <article class="post" data-search="vsh vishay intertechnology inc vishay achieves cmmc level 2 certification for secure support of u.s. defense programs globenewswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/VSH/news/" target="_blank" rel="noopener" title="Yahoo Finance news for VSH">VSH</a></div>
-        <span class="ts" title="Wed Jul 15, 11:00 AM ET">2d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/technology/ai/articles/vishay-achieves-cmmc-level-2-150000874.html" target="_blank" rel="noopener">Vishay Achieves CMMC Level 2 Certification for Secure Support of U.S. Defense Programs</a></h3>
-      <div class="post-footer">
-        <span class="publisher">GlobeNewswire</span>
-        <span class="company">VISHAY INTERTECHNOLOGY INC</span>
-      </div>
-    </article>
-    <article class="post" data-search="awk american water works company, inc. california american water highlights successful vegetation reduction efforts protecting critical water infrastructure in sonoma county pr newswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/AWK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for AWK">AWK</a></div>
-        <span class="ts" title="Wed Jul 15, 10:45 AM ET">2d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/energy/articles/california-american-water-highlights-successful-144500474.html" target="_blank" rel="noopener">California American Water Highlights Successful Vegetation Reduction Efforts Protecting Critical Water Infrastructure in Sonoma County</a></h3>
-      <div class="post-footer">
-        <span class="publisher">PR Newswire</span>
-        <span class="company">American Water Works Company, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="jnj johnson &amp; johnson johnson &amp; johnson beats q2 estimates, raises full-year 2026 guidance proactive">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/JNJ/news/" target="_blank" rel="noopener" title="Yahoo Finance news for JNJ">JNJ</a></div>
-        <span class="ts" title="Wed Jul 15, 10:42 AM ET">2d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/5c2a54d7-cbd1-3c3f-905d-d13492b2bf34/johnson-%26-johnson-beats-q2.html" target="_blank" rel="noopener">Johnson &amp; Johnson beats Q2 estimates, raises full-year 2026 guidance</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Proactive</span>
-        <span class="company">JOHNSON &amp; JOHNSON</span>
-      </div>
-    </article>
-    <article class="post" data-search="cmcsa comcast corp scotiabank adjusts comcast&#x27;s pt to $32.75 from $36, keeps sector perform rating mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/CMCSA/news/" target="_blank" rel="noopener" title="Yahoo Finance news for CMCSA">CMCSA</a></div>
-        <span class="ts" title="Wed Jul 15, 10:38 AM ET">2d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/scotiabank-adjusts-comcast-apos-pt-143852214.html" target="_blank" rel="noopener">Scotiabank Adjusts Comcast&#x27;s PT to $32.75 From $36, Keeps Sector Perform Rating</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">COMCAST CORP</span>
-      </div>
-    </article>
-    <article class="post" data-search="dd dupont de nemours, inc. personal protective equipment (ppe) global market forecast to 2031 featuring 3m, protective industrial products, ansell, dupont de nemours, msa worldwide and other key players globenewswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/DD/news/" target="_blank" rel="noopener" title="Yahoo Finance news for DD">DD</a></div>
-        <span class="ts" title="Wed Jul 15, 10:10 AM ET">2d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/personal-protective-equipment-ppe-global-141000471.html" target="_blank" rel="noopener">Personal Protective Equipment (PPE) Global Market Forecast to 2031 Featuring 3M, Protective Industrial Products, Ansell, DuPont de Nemours, MSA Worldwide and Other Key Players</a></h3>
-      <div class="post-footer">
-        <span class="publisher">GlobeNewswire</span>
-        <span class="company">DuPont de Nemours, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="jnj johnson &amp; johnson johnson &amp; johnson lifts full-year outlook following second-quarter beat mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/JNJ/news/" target="_blank" rel="noopener" title="Yahoo Finance news for JNJ">JNJ</a></div>
-        <span class="ts" title="Wed Jul 15, 9:50 AM ET">2d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/johnson-johnson-lifts-full-outlook-135041248.html" target="_blank" rel="noopener">Johnson &amp; Johnson Lifts Full-Year Outlook Following Second-Quarter Beat</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">JOHNSON &amp; JOHNSON</span>
-      </div>
-    </article>
-    <article class="post" data-search="mrk merck &amp; co., inc. dow jones&#x27; merck scores a win with cancer smart bomb investor&#x27;s business daily">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/MRK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for MRK">MRK</a></div>
-        <span class="ts" title="Wed Jul 15, 9:38 AM ET">2d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/82eab843-d997-318a-a066-c70ea26988a5/dow-jones%27-merck-scores-a-win.html" target="_blank" rel="noopener">Dow Jones&#x27; Merck Scores A Win With Cancer Smart Bomb</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Investor&#x27;s Business Daily</span>
-        <span class="company">Merck &amp; Co., Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="cmcsa comcast corp jpmorgan adjusts price target on comcast to $29 from $33, maintains neutral rating mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/CMCSA/news/" target="_blank" rel="noopener" title="Yahoo Finance news for CMCSA">CMCSA</a></div>
-        <span class="ts" title="Wed Jul 15, 9:30 AM ET">2d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/jpmorgan-adjusts-price-target-comcast-133034589.html" target="_blank" rel="noopener">JPMorgan Adjusts Price Target on Comcast to $29 From $33, Maintains Neutral Rating</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">COMCAST CORP</span>
-      </div>
-    </article>
-    <article class="post" data-search="awk american water works company, inc. barclays adjusts price target on american water works to $130 from $124, maintains underweight rating mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/AWK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for AWK">AWK</a></div>
-        <span class="ts" title="Wed Jul 15, 9:25 AM ET">2d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/barclays-adjusts-price-target-american-132533073.html" target="_blank" rel="noopener">Barclays Adjusts Price Target on American Water Works to $130 From $124, Maintains Underweight Rating</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">American Water Works Company, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="dd dupont de nemours, inc. dupont launches end-to-end portfolio to advance direct lithium extraction pr newswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/DD/news/" target="_blank" rel="noopener" title="Yahoo Finance news for DD">DD</a></div>
-        <span class="ts" title="Wed Jul 15, 9:00 AM ET">2d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/energy/articles/dupont-launches-end-end-portfolio-130000615.html" target="_blank" rel="noopener">DuPont Launches End-to-End Portfolio to Advance Direct Lithium Extraction</a></h3>
-      <div class="post-footer">
-        <span class="publisher">PR Newswire</span>
-        <span class="company">DuPont de Nemours, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="jnj johnson &amp; johnson johnson &amp; johnson q2 2026 earnings beat on medicines unit strength quartz">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/JNJ/news/" target="_blank" rel="noopener" title="Yahoo Finance news for JNJ">JNJ</a></div>
-        <span class="ts" title="Wed Jul 15, 8:01 AM ET">2d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/a2d9f9e7-4eab-3af3-ac2d-5604f6ac48b5/johnson-%26-johnson-q2-2026.html" target="_blank" rel="noopener">Johnson &amp; Johnson Q2 2026 earnings beat on medicines unit strength</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Quartz</span>
-        <span class="company">JOHNSON &amp; JOHNSON</span>
-      </div>
-    </article>
-    <article class="post" data-search="mrk merck &amp; co., inc. merck adc, in china study, shows potential to replace chemo in lung cancer biopharma dive">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/MRK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for MRK">MRK</a></div>
-        <span class="ts" title="Wed Jul 15, 7:41 AM ET">2d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/73f08153-2b56-3419-b4dd-0bf68713b36d/merck-adc%2C-in-china-study%2C.html" target="_blank" rel="noopener">Merck ADC, in China study, shows potential to replace chemo in lung cancer</a></h3>
-      <div class="post-footer">
-        <span class="publisher">BioPharma Dive</span>
-        <span class="company">Merck &amp; Co., Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="jnj johnson &amp; johnson why johnson &amp; johnson stock is falling even after a guidance hike barrons.com">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/JNJ/news/" target="_blank" rel="noopener" title="Yahoo Finance news for JNJ">JNJ</a></div>
-        <span class="ts" title="Wed Jul 15, 7:38 AM ET">2d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/19d72058-945e-3ace-93bb-bcb7f658ea8a/why-johnson-%26-johnson-stock.html" target="_blank" rel="noopener">Why Johnson &amp; Johnson Stock Is Falling Even After a Guidance Hike</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Barrons.com</span>
-        <span class="company">JOHNSON &amp; JOHNSON</span>
-      </div>
-    </article>
-    <article class="post" data-search="crs carpenter technology corp sales gains send carpenter technology higher before earnings report fx empire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/CRS/news/" target="_blank" rel="noopener" title="Yahoo Finance news for CRS">CRS</a></div>
-        <span class="ts" title="Wed Jul 15, 7:37 AM ET">2d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/sales-gains-send-carpenter-technology-113733690.html" target="_blank" rel="noopener">Sales Gains Send Carpenter Technology Higher Before Earnings Report</a></h3>
-      <div class="post-footer">
-        <span class="publisher">FX Empire</span>
-        <span class="company">CARPENTER TECHNOLOGY CORP</span>
-      </div>
-    </article>
-    <article class="post" data-search="jnj johnson &amp; johnson intel, johnson &amp; johnson, asml, and more stocks that explain today’s market barrons.com">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/JNJ/news/" target="_blank" rel="noopener" title="Yahoo Finance news for JNJ">JNJ</a></div>
-        <span class="ts" title="Wed Jul 15, 7:27 AM ET">2d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/7f6124a8-3d38-32d3-beb1-d4745f652359/intel%2C-johnson-%26-johnson%2C.html" target="_blank" rel="noopener">Intel, Johnson &amp; Johnson, ASML, and More Stocks That Explain Today’s Market</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Barrons.com</span>
-        <span class="company">JOHNSON &amp; JOHNSON</span>
-      </div>
-    </article>
-    <article class="post" data-search="jnj johnson &amp; johnson johnson &amp; johnson tops second-quarter forecasts and lifts guidance despite premarket decline (jnj) investorshub">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/JNJ/news/" target="_blank" rel="noopener" title="Yahoo Finance news for JNJ">JNJ</a></div>
-        <span class="ts" title="Wed Jul 15, 7:14 AM ET">2d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/5cf3fd00-e83a-3588-9c9f-21b60436f019/johnson-%26-johnson-tops.html" target="_blank" rel="noopener">Johnson &amp; Johnson tops second-quarter forecasts and lifts guidance despite premarket decline (JNJ)</a></h3>
-      <div class="post-footer">
-        <span class="publisher">InvestorsHub</span>
-        <span class="company">JOHNSON &amp; JOHNSON</span>
-      </div>
-    </article>
-    <article class="post" data-search="mrk merck &amp; co., inc. merck&#x27;s keytruda meets main goal in phase 3 endometrial cancer trial mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/MRK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for MRK">MRK</a></div>
-        <span class="ts" title="Wed Jul 15, 7:10 AM ET">2d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/merck-apos-keytruda-meets-main-111006548.html" target="_blank" rel="noopener">Merck&#x27;s Keytruda Meets Main Goal in Phase 3 Endometrial Cancer Trial</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">Merck &amp; Co., Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="phio phio pharmaceuticals corp. phio pharmaceuticals announces patent milestone with multiple notices of allowance and grant decision tmx newsfile">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/PHIO/news/" target="_blank" rel="noopener" title="Yahoo Finance news for PHIO">PHIO</a></div>
-        <span class="ts" title="Wed Jul 15, 7:00 AM ET">2d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/phio-pharmaceuticals-announces-patent-milestone-110000398.html" target="_blank" rel="noopener">Phio Pharmaceuticals Announces Patent Milestone with Multiple Notices of Allowance and Grant Decision</a></h3>
-      <div class="post-footer">
-        <span class="publisher">TMX Newsfile</span>
-        <span class="company">Phio Pharmaceuticals Corp.</span>
-      </div>
-    </article>
-    <article class="post" data-search="mrk merck &amp; co., inc. merck to present new data on daily, weekly, and monthly options across its hiv treatment and prevention pipeline at aids 2026 business wire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/MRK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for MRK">MRK</a></div>
-        <span class="ts" title="Wed Jul 15, 7:00 AM ET">2d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/merck-present-data-daily-weekly-110000569.html" target="_blank" rel="noopener">Merck to Present New Data on Daily, Weekly, and Monthly Options Across its HIV Treatment and Prevention Pipeline at AIDS 2026</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Business Wire</span>
-        <span class="company">Merck &amp; Co., Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="cmcsa comcast corp analyst report: comcast corporation morningstar research">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/CMCSA/news/" target="_blank" rel="noopener" title="Yahoo Finance news for CMCSA">CMCSA</a></div>
-        <span class="ts" title="Tue Jul 14, 10:53 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/d812181c-3468-302a-a43e-2e0c6ab3c0fd/analyst-report%3A-comcast.html" target="_blank" rel="noopener">Analyst Report: Comcast Corporation</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Morningstar Research</span>
-        <span class="company">COMCAST CORP</span>
-      </div>
-    </article>
-    <article class="post" data-search="armk aramark armk: raising target price to $61.00 argus research">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/ARMK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for ARMK">ARMK</a></div>
-        <span class="ts" title="Tue Jul 14, 8:00 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/bb03a545-613c-3089-bf95-0fb1f3c54a3f/armk%3A-raising-target-price-to.html" target="_blank" rel="noopener">ARMK: Raising target price to $61.00</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Argus Research</span>
-        <span class="company">Aramark</span>
-      </div>
-    </article>
-    <article class="post" data-search="fmc fmc corp fmc: lowering target price to $9.00 argus research">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/FMC/news/" target="_blank" rel="noopener" title="Yahoo Finance news for FMC">FMC</a></div>
-        <span class="ts" title="Tue Jul 14, 8:00 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/69dc10df-32d6-34b5-b828-caec34a59e66/fmc%3A-lowering-target-price-to.html" target="_blank" rel="noopener">FMC: Lowering target price to $9.00</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Argus Research</span>
-        <span class="company">FMC CORP</span>
-      </div>
-    </article>
-    <article class="post" data-search="urbn urban outfitters inc urbn: raising target price to $67.00 argus research">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/URBN/news/" target="_blank" rel="noopener" title="Yahoo Finance news for URBN">URBN</a></div>
-        <span class="ts" title="Tue Jul 14, 8:00 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/7b9c7e28-91fe-37e5-9104-8a9fc1a3abc8/urbn%3A-raising-target-price-to.html" target="_blank" rel="noopener">URBN: Raising target price to $67.00</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Argus Research</span>
-        <span class="company">URBAN OUTFITTERS INC</span>
-      </div>
-    </article>
-    <article class="post" data-search="five five below, inc five: raising target price to $183.00 argus research">
+    <article class="post" data-search="five five below five below&#x27;s momentum remains strong as pricing, traffic and customer engagement stay healthy, ubs says mt newswires">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/FIVE/news/" target="_blank" rel="noopener" title="Yahoo Finance news for FIVE">FIVE</a></div>
-        <span class="ts" title="Tue Jul 14, 8:00 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/2d22b404-0a7e-399c-882b-acb04ac13f67/five%3A-raising-target-price-to.html" target="_blank" rel="noopener">FIVE: Raising target price to $183.00</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Argus Research</span>
-        <span class="company">FIVE BELOW, INC</span>
-      </div>
-    </article>
-    <article class="post" data-search="irt independence realty trust, inc. irt: lowering target price to $17.00 argus research">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/IRT/news/" target="_blank" rel="noopener" title="Yahoo Finance news for IRT">IRT</a></div>
-        <span class="ts" title="Tue Jul 14, 8:00 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/4fc44ffd-d57d-36e1-8f10-9e4dcf6b8c81/irt%3A-lowering-target-price-to.html" target="_blank" rel="noopener">IRT: Lowering target price to $17.00</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Argus Research</span>
-        <span class="company">INDEPENDENCE REALTY TRUST, INC.</span>
-      </div>
-    </article>
-    <article class="post" data-search="axta axalta coating systems ltd. axta: lowering target price to $35.00 argus research">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/AXTA/news/" target="_blank" rel="noopener" title="Yahoo Finance news for AXTA">AXTA</a></div>
-        <span class="ts" title="Tue Jul 14, 8:00 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/3666d39e-7082-3873-ab34-4a1943eeda1a/axta%3A-lowering-target-price.html" target="_blank" rel="noopener">AXTA: Lowering target price to $35.00</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Argus Research</span>
-        <span class="company">Axalta Coating Systems Ltd.</span>
-      </div>
-    </article>
-    <article class="post" data-search="rdn radian group inc rdn: lowering target price to $39.00 argus research">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/RDN/news/" target="_blank" rel="noopener" title="Yahoo Finance news for RDN">RDN</a></div>
-        <span class="ts" title="Tue Jul 14, 8:00 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/e3982a01-6f84-3575-9e52-8f8349ab14d1/rdn%3A-lowering-target-price-to.html" target="_blank" rel="noopener">RDN: Lowering target price to $39.00</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Argus Research</span>
-        <span class="company">RADIAN GROUP INC</span>
-      </div>
-    </article>
-    <article class="post" data-search="lnc lincoln national corp lnc: raising target price to $43.00 argus research">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/LNC/news/" target="_blank" rel="noopener" title="Yahoo Finance news for LNC">LNC</a></div>
-        <span class="ts" title="Tue Jul 14, 8:00 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/72695a85-ccd7-3581-8073-a5a6db634afe/lnc%3A-raising-target-price-to.html" target="_blank" rel="noopener">LNC: Raising target price to $43.00</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Argus Research</span>
-        <span class="company">LINCOLN NATIONAL CORP</span>
-      </div>
-    </article>
-    <article class="post" data-search="bsy bentley systems inc bsy: lowering target price to $34.00 argus research">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/BSY/news/" target="_blank" rel="noopener" title="Yahoo Finance news for BSY">BSY</a></div>
-        <span class="ts" title="Tue Jul 14, 8:00 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/c67526b7-bf97-343b-8687-4e2be3d0818f/bsy%3A-lowering-target-price-to.html" target="_blank" rel="noopener">BSY: Lowering target price to $34.00</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Argus Research</span>
-        <span class="company">BENTLEY SYSTEMS INC</span>
-      </div>
-    </article>
-    <article class="post" data-search="ame ametek inc/ ame: raising target price to $257.00 argus research">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/AME/news/" target="_blank" rel="noopener" title="Yahoo Finance news for AME">AME</a></div>
-        <span class="ts" title="Tue Jul 14, 8:00 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/3ed5f3b3-f1e8-3e49-9eed-5724df2936ad/ame%3A-raising-target-price-to.html" target="_blank" rel="noopener">AME: Raising target price to $257.00</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Argus Research</span>
-        <span class="company">AMETEK INC/</span>
-      </div>
-    </article>
-    <article class="post" data-search="uhs universal health services inc uhs: lowering target price to $137.00 argus research">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/UHS/news/" target="_blank" rel="noopener" title="Yahoo Finance news for UHS">UHS</a></div>
-        <span class="ts" title="Tue Jul 14, 8:00 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/2f24f700-601a-31d6-be2d-428e6cf78046/uhs%3A-lowering-target-price-to.html" target="_blank" rel="noopener">UHS: Lowering target price to $137.00</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Argus Research</span>
-        <span class="company">UNIVERSAL HEALTH SERVICES INC</span>
-      </div>
-    </article>
-    <article class="post" data-search="ugi ugi corp /pa/ ugi: raising target price to $38.00 argus research">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/UGI/news/" target="_blank" rel="noopener" title="Yahoo Finance news for UGI">UGI</a></div>
-        <span class="ts" title="Tue Jul 14, 8:00 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/0ffdbf00-09c2-3538-a340-36fea7fcf8ed/ugi%3A-raising-target-price-to.html" target="_blank" rel="noopener">UGI: Raising target price to $38.00</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Argus Research</span>
-        <span class="company">UGI CORP /PA/</span>
-      </div>
-    </article>
-    <article class="post" data-search="seic sei investments co seic: lowering target price to $104.00 argus research">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/SEIC/news/" target="_blank" rel="noopener" title="Yahoo Finance news for SEIC">SEIC</a></div>
-        <span class="ts" title="Tue Jul 14, 8:00 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/901dfcfa-f325-3d9b-b52a-133e0d2c528a/seic%3A-lowering-target-price.html" target="_blank" rel="noopener">SEIC: Lowering target price to $104.00</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Argus Research</span>
-        <span class="company">SEI INVESTMENTS CO</span>
-      </div>
-    </article>
-    <article class="post" data-search="burl burlington stores, inc. burl: raising target price to $351.00 argus research">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/BURL/news/" target="_blank" rel="noopener" title="Yahoo Finance news for BURL">BURL</a></div>
-        <span class="ts" title="Tue Jul 14, 8:00 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/bda833a3-6586-3ecb-8826-a58f24973fdb/burl%3A-raising-target-price-to.html" target="_blank" rel="noopener">BURL: Raising target price to $351.00</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Argus Research</span>
-        <span class="company">Burlington Stores, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="hrmy harmony biosciences holdings, inc. hrmy: lowering target price to $37.00 argus research">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/HRMY/news/" target="_blank" rel="noopener" title="Yahoo Finance news for HRMY">HRMY</a></div>
-        <span class="ts" title="Tue Jul 14, 8:00 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/b2ca2e28-2d33-343a-8dd0-69cfd6b71355/hrmy%3A-lowering-target-price.html" target="_blank" rel="noopener">HRMY: Lowering target price to $37.00</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Argus Research</span>
-        <span class="company">Harmony Biosciences Holdings, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="crs carpenter technology corp crs: lowering target price to $657.00 argus research">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/CRS/news/" target="_blank" rel="noopener" title="Yahoo Finance news for CRS">CRS</a></div>
-        <span class="ts" title="Tue Jul 14, 8:00 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/52c8b543-46c2-350d-9ad9-85c1a5070d94/crs%3A-lowering-target-price-to.html" target="_blank" rel="noopener">CRS: Lowering target price to $657.00</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Argus Research</span>
-        <span class="company">CARPENTER TECHNOLOGY CORP</span>
-      </div>
-    </article>
-    <article class="post" data-search="wst west pharmaceutical services inc wst: raising target price to $393.00 argus research">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/WST/news/" target="_blank" rel="noopener" title="Yahoo Finance news for WST">WST</a></div>
-        <span class="ts" title="Tue Jul 14, 8:00 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/864f7156-6772-3cf6-ba80-6bbf78107cd4/wst%3A-raising-target-price-to.html" target="_blank" rel="noopener">WST: Raising target price to $393.00</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Argus Research</span>
-        <span class="company">WEST PHARMACEUTICAL SERVICES INC</span>
-      </div>
-    </article>
-    <article class="post" data-search="gmed globus medical inc gmed: lowering target price to $83.00 argus research">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/GMED/news/" target="_blank" rel="noopener" title="Yahoo Finance news for GMED">GMED</a></div>
-        <span class="ts" title="Tue Jul 14, 8:00 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/e123076b-e7fe-34bf-8bec-584108e9b277/gmed%3A-lowering-target-price.html" target="_blank" rel="noopener">GMED: Lowering target price to $83.00</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Argus Research</span>
-        <span class="company">GLOBUS MEDICAL INC</span>
-      </div>
-    </article>
-    <article class="post" data-search="cube cubesmart cube: what does argus have to say about cube? argus research">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/CUBE/news/" target="_blank" rel="noopener" title="Yahoo Finance news for CUBE">CUBE</a></div>
-        <span class="ts" title="Tue Jul 14, 8:00 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/5e215abc-8bfd-32fc-8c5e-e48c4210ffa1/cube%3A-what-does-argus-have-to.html" target="_blank" rel="noopener">CUBE: What does Argus have to say about CUBE?</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Argus Research</span>
-        <span class="company">CubeSmart</span>
-      </div>
-    </article>
-    <article class="post" data-search="vsnt versant media group, inc. vsnt: lowering target price to $37.00 argus research">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/VSNT/news/" target="_blank" rel="noopener" title="Yahoo Finance news for VSNT">VSNT</a></div>
-        <span class="ts" title="Tue Jul 14, 8:00 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/06eb6c3a-3445-3409-b2d0-886ff7e4317b/vsnt%3A-lowering-target-price.html" target="_blank" rel="noopener">VSNT: Lowering target price to $37.00</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Argus Research</span>
-        <span class="company">Versant Media Group, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="tfx teleflex inc tfx: lowering target price to $137.00 argus research">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/TFX/news/" target="_blank" rel="noopener" title="Yahoo Finance news for TFX">TFX</a></div>
-        <span class="ts" title="Tue Jul 14, 8:00 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/3d67fc33-83a3-34e0-9214-b38ba173ae0f/tfx%3A-lowering-target-price-to.html" target="_blank" rel="noopener">TFX: Lowering target price to $137.00</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Argus Research</span>
-        <span class="company">TELEFLEX INC</span>
-      </div>
-    </article>
-    <article class="post" data-search="avtr avantor, inc. avtr: raising target price to $12.00 argus research">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/AVTR/news/" target="_blank" rel="noopener" title="Yahoo Finance news for AVTR">AVTR</a></div>
-        <span class="ts" title="Tue Jul 14, 8:00 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/54b692f5-76d5-303b-9c3b-1fa7869f517f/avtr%3A-raising-target-price-to.html" target="_blank" rel="noopener">AVTR: Raising target price to $12.00</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Argus Research</span>
-        <span class="company">Avantor, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="epam epam systems, inc. epam: lowering target price to $80.00 argus research">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/EPAM/news/" target="_blank" rel="noopener" title="Yahoo Finance news for EPAM">EPAM</a></div>
-        <span class="ts" title="Tue Jul 14, 8:00 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/f7f1d371-1dfc-3734-b931-3f55ea9a9c87/epam%3A-lowering-target-price.html" target="_blank" rel="noopener">EPAM: Lowering target price to $80.00</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Argus Research</span>
-        <span class="company">EPAM Systems, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="hlne hamilton lane inc hlne: raising target price to $92.00 argus research">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/HLNE/news/" target="_blank" rel="noopener" title="Yahoo Finance news for HLNE">HLNE</a></div>
-        <span class="ts" title="Tue Jul 14, 8:00 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/7205d0f6-4c44-3e61-8445-93029bc9fa4b/hlne%3A-raising-target-price-to.html" target="_blank" rel="noopener">HLNE: Raising target price to $92.00</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Argus Research</span>
-        <span class="company">Hamilton Lane INC</span>
-      </div>
-    </article>
-    <article class="post" data-search="dorm dorman products, inc. dorm: lowering target price to $146.00 argus research">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/DORM/news/" target="_blank" rel="noopener" title="Yahoo Finance news for DORM">DORM</a></div>
-        <span class="ts" title="Tue Jul 14, 8:00 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/6df27746-7088-3264-b713-2e7fd2c67614/dorm%3A-lowering-target-price.html" target="_blank" rel="noopener">DORM: Lowering target price to $146.00</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Argus Research</span>
-        <span class="company">Dorman Products, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="kwr quaker chemical corp kwr: lowering target price to $157.00 argus research">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/KWR/news/" target="_blank" rel="noopener" title="Yahoo Finance news for KWR">KWR</a></div>
-        <span class="ts" title="Tue Jul 14, 8:00 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/f25f5432-140e-33ea-8e1c-5b90b683717b/kwr%3A-lowering-target-price-to.html" target="_blank" rel="noopener">KWR: Lowering target price to $157.00</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Argus Research</span>
-        <span class="company">QUAKER CHEMICAL CORP</span>
-      </div>
-    </article>
-    <article class="post" data-search="ahco adapthealth corp. ahco: what does argus have to say about ahco? argus research">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/AHCO/news/" target="_blank" rel="noopener" title="Yahoo Finance news for AHCO">AHCO</a></div>
-        <span class="ts" title="Tue Jul 14, 8:00 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/69df8be3-3de0-3ac1-a2aa-75a86bfa5505/ahco%3A-what-does-argus-have-to.html" target="_blank" rel="noopener">AHCO: What does Argus have to say about AHCO?</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Argus Research</span>
-        <span class="company">AdaptHealth Corp.</span>
-      </div>
-    </article>
-    <article class="post" data-search="jjsf j&amp;j snack foods corp jjsf: lowering target price to $72.00 argus research">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/JJSF/news/" target="_blank" rel="noopener" title="Yahoo Finance news for JJSF">JJSF</a></div>
-        <span class="ts" title="Tue Jul 14, 8:00 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/5cf5ff12-ed2f-3e49-b833-d66150f8593b/jjsf%3A-lowering-target-price.html" target="_blank" rel="noopener">JJSF: Lowering target price to $72.00</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Argus Research</span>
-        <span class="company">J&amp;J SNACK FOODS CORP</span>
-      </div>
-    </article>
-    <article class="post" data-search="hcsg healthcare services group inc hcsg: lowering target price to $25.00 argus research">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/HCSG/news/" target="_blank" rel="noopener" title="Yahoo Finance news for HCSG">HCSG</a></div>
-        <span class="ts" title="Tue Jul 14, 8:00 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/be2b3907-f195-3251-b5e2-69133a5b45e2/hcsg%3A-lowering-target-price.html" target="_blank" rel="noopener">HCSG: Lowering target price to $25.00</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Argus Research</span>
-        <span class="company">HEALTHCARE SERVICES GROUP INC</span>
-      </div>
-    </article>
-    <article class="post" data-search="cert certara, inc. cert: lowering target price to $5.00 argus research">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/CERT/news/" target="_blank" rel="noopener" title="Yahoo Finance news for CERT">CERT</a></div>
-        <span class="ts" title="Tue Jul 14, 8:00 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/1827bc9a-bcb8-3342-b0e7-7d611822366d/cert%3A-lowering-target-price.html" target="_blank" rel="noopener">CERT: Lowering target price to $5.00</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Argus Research</span>
-        <span class="company">Certara, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="vsnt versant media group, inc. usa sports and bundesliga announce exclusive multi-year u.s. media rights agreement business wire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/VSNT/news/" target="_blank" rel="noopener" title="Yahoo Finance news for VSNT">VSNT</a></div>
-        <span class="ts" title="Tue Jul 14, 6:03 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/media-advertising/articles/usa-sports-bundesliga-announce-exclusive-220300585.html" target="_blank" rel="noopener">USA Sports and Bundesliga Announce Exclusive Multi-Year U.S. Media Rights Agreement</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Business Wire</span>
-        <span class="company">Versant Media Group, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="whk whitehawk income corp whitehawk minerals corp. announces second quarter 2026 earnings conference call for august 13, 2026 business wire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/WHK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for WHK">WHK</a></div>
-        <span class="ts" title="Tue Jul 14, 5:00 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/whitehawk-minerals-corp-announces-second-210000526.html" target="_blank" rel="noopener">WhiteHawk Minerals Corp. Announces Second Quarter 2026 Earnings Conference Call for August 13, 2026</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Business Wire</span>
-        <span class="company">WhiteHawk Income Corp</span>
-      </div>
-    </article>
-    <article class="post" data-search="cmcsa comcast corp comcast eyes acquisition of 33-year-old rival amid struggles thestreet">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/CMCSA/news/" target="_blank" rel="noopener" title="Yahoo Finance news for CMCSA">CMCSA</a></div>
-        <span class="ts" title="Tue Jul 14, 4:33 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/f1228fc6-3288-3ade-b26a-a08ddeba2560/comcast-eyes-acquisition-of.html" target="_blank" rel="noopener">Comcast eyes acquisition of 33-year-old rival amid struggles</a></h3>
-      <div class="post-footer">
-        <span class="publisher">TheStreet</span>
-        <span class="company">COMCAST CORP</span>
-      </div>
-    </article>
-    <article class="post" data-search="verx vertex, inc. vertex to announce second quarter 2026 financial results on monday, august 3, 2026 globenewswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/VERX/news/" target="_blank" rel="noopener" title="Yahoo Finance news for VERX">VERX</a></div>
-        <span class="ts" title="Tue Jul 14, 4:30 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/vertex-announce-second-quarter-2026-203000297.html" target="_blank" rel="noopener">Vertex to Announce Second Quarter 2026 Financial Results on Monday, August 3, 2026</a></h3>
-      <div class="post-footer">
-        <span class="publisher">GlobeNewswire</span>
-        <span class="company">Vertex, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="ahco adapthealth corp. adapthealth corp. announces second quarter 2026 earnings release date and conference call business wire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/AHCO/news/" target="_blank" rel="noopener" title="Yahoo Finance news for AHCO">AHCO</a></div>
-        <span class="ts" title="Tue Jul 14, 4:05 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/adapthealth-corp-announces-second-quarter-200500934.html" target="_blank" rel="noopener">AdaptHealth Corp. Announces Second Quarter 2026 Earnings Release Date and Conference Call</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Business Wire</span>
-        <span class="company">AdaptHealth Corp.</span>
-      </div>
-    </article>
-    <article class="post" data-search="awk american water works company, inc. west virginia american water opens firefighting grant program to support local departments pr newswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/AWK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for AWK">AWK</a></div>
-        <span class="ts" title="Tue Jul 14, 2:04 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/small-business/articles/west-virginia-american-water-opens-180400007.html" target="_blank" rel="noopener">West Virginia American Water Opens Firefighting Grant Program to Support Local Departments</a></h3>
-      <div class="post-footer">
-        <span class="publisher">PR Newswire</span>
-        <span class="company">American Water Works Company, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="awk american water works company, inc. american water named one of america&#x27;s best companies to work for by u.s. news &amp; world report pr newswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/AWK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for AWK">AWK</a></div>
-        <span class="ts" title="Tue Jul 14, 12:16 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/small-business/articles/american-water-named-one-americas-161600985.html" target="_blank" rel="noopener">American Water Named One of America&#x27;s Best Companies to Work For by U.S. News &amp; World Report</a></h3>
-      <div class="post-footer">
-        <span class="publisher">PR Newswire</span>
-        <span class="company">American Water Works Company, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="seic sei investments co sei expands etf platform with sei qim u.s. equity factor allocation active etf (seus) pr newswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/SEIC/news/" target="_blank" rel="noopener" title="Yahoo Finance news for SEIC">SEIC</a></div>
-        <span class="ts" title="Tue Jul 14, 12:00 PM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/sei-expands-etf-platform-sei-160000434.html" target="_blank" rel="noopener">SEI Expands ETF Platform with SEI QiM U.S. Equity Factor Allocation Active ETF (SEUS)</a></h3>
-      <div class="post-footer">
-        <span class="publisher">PR Newswire</span>
-        <span class="company">SEI INVESTMENTS CO</span>
-      </div>
-    </article>
-    <article class="post" data-search="five five below, inc five below&#x27;s momentum remains strong as pricing, traffic and customer engagement stay healthy, ubs says mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/FIVE/news/" target="_blank" rel="noopener" title="Yahoo Finance news for FIVE">FIVE</a></div>
-        <span class="ts" title="Tue Jul 14, 11:23 AM ET">3d</span>
+        <span class="ts" title="Tue Jul 14, 11:23 AM ET">4d</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/five-below-apos-momentum-remains-152322125.html" target="_blank" rel="noopener">Five Below&#x27;s Momentum Remains Strong as Pricing, Traffic and Customer Engagement Stay Healthy, UBS Says</a></h3>
       <div class="post-footer">
         <span class="publisher">MT Newswires</span>
-        <span class="company">FIVE BELOW, INC</span>
+        <span class="company">Five Below</span>
       </div>
     </article>
-    <article class="post" data-search="awk american water works company, inc. indiana american water investing $15 million in new elevated water tank and system upgrades in noblesville pr newswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/AWK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for AWK">AWK</a></div>
-        <span class="ts" title="Tue Jul 14, 9:49 AM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/economy/policy/articles/indiana-american-water-investing-15-134900665.html" target="_blank" rel="noopener">Indiana American Water Investing $15 Million in New Elevated Water Tank and System Upgrades in Noblesville</a></h3>
-      <div class="post-footer">
-        <span class="publisher">PR Newswire</span>
-        <span class="company">American Water Works Company, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="avtr avantor, inc. avantor&#x27;s nusil brand expands hiv prevention collaboration with population council mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/AVTR/news/" target="_blank" rel="noopener" title="Yahoo Finance news for AVTR">AVTR</a></div>
-        <span class="ts" title="Tue Jul 14, 9:26 AM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/avantor-apos-nusil-brand-expands-132615396.html" target="_blank" rel="noopener">Avantor&#x27;s NuSil Brand Expands HIV Prevention Collaboration With Population Council</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">Avantor, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="cpb campbell&#x27;s co campbell&#x27;s® cooks up new soup lineup with 20g of protein per can pr newswire">
+    <article class="post" data-search="cpb campbell&#x27;s campbell&#x27;s® cooks up new soup lineup with 20g of protein per can pr newswire">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/CPB/news/" target="_blank" rel="noopener" title="Yahoo Finance news for CPB">CPB</a></div>
-        <span class="ts" title="Tue Jul 14, 9:00 AM ET">3d</span>
+        <span class="ts" title="Tue Jul 14, 9:00 AM ET">4d</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/campbells-cooks-soup-lineup-20g-130000839.html" target="_blank" rel="noopener">Campbell&#x27;s® Cooks Up New Soup Lineup with 20g of Protein Per Can</a></h3>
       <div class="post-footer">
         <span class="publisher">PR Newswire</span>
-        <span class="company">CAMPBELL&#x27;S Co</span>
+        <span class="company">Campbell&#x27;s</span>
       </div>
     </article>
-    <article class="post" data-search="coba chilean cobalt corp. chilean cobalt corp. announces completion of phase 1 work program at neore rare earth project and execution of phase 2 development activities access newswire">
+    <article class="post" data-search="rothman orthopaedic institute better bone &amp; muscle health in aging and menopause rothman orthopaedic institute">
       <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/COBA/news/" target="_blank" rel="noopener" title="Yahoo Finance news for COBA">COBA</a></div>
-        <span class="ts" title="Tue Jul 14, 9:00 AM ET">3d</span>
+        <div class="chips"></div>
+        <span class="ts" title="Tue Jul 14, 9:00 AM ET">4d</span>
       </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/energy/articles/chilean-cobalt-corp-announces-completion-130000964.html" target="_blank" rel="noopener">Chilean Cobalt Corp. Announces Completion of Phase 1 Work Program at NeoRe Rare Earth Project and Execution of Phase 2 Development Activities</a></h3>
+      <h3 class="headline"><a href="https://www.rothmanortho.com/blog/better-bone-muscle-health-in-aging-and-menopause/" target="_blank" rel="noopener">Better Bone &amp; Muscle Health in Aging and Menopause</a></h3>
       <div class="post-footer">
-        <span class="publisher">ACCESS Newswire</span>
-        <span class="company">Chilean Cobalt Corp.</span>
-      </div>
-    </article>
-    <article class="post" data-search="exyn exyn technologies, inc. exyn defense to showcase mission-ready autonomous robotics at the 2026 pennsylvania defense &amp; innovation summit globenewswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/EXYN/news/" target="_blank" rel="noopener" title="Yahoo Finance news for EXYN">EXYN</a></div>
-        <span class="ts" title="Tue Jul 14, 8:30 AM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/technology/ai/articles/exyn-defense-showcase-mission-ready-123000600.html" target="_blank" rel="noopener">Exyn Defense to Showcase Mission-Ready Autonomous Robotics at the 2026 Pennsylvania Defense &amp; Innovation Summit</a></h3>
-      <div class="post-footer">
-        <span class="publisher">GlobeNewswire</span>
-        <span class="company">Exyn Technologies, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="avtr avantor, inc. avantor&#x27;s® nusil® brand expands partnership with the population council to develop long-acting hiv prevention product pr newswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/AVTR/news/" target="_blank" rel="noopener" title="Yahoo Finance news for AVTR">AVTR</a></div>
-        <span class="ts" title="Tue Jul 14, 8:05 AM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/avantors-nusil-brand-expands-partnership-120500772.html" target="_blank" rel="noopener">Avantor&#x27;s® NuSil® Brand Expands Partnership with the Population Council to Develop Long-Acting HIV Prevention Product</a></h3>
-      <div class="post-footer">
-        <span class="publisher">PR Newswire</span>
-        <span class="company">Avantor, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="ppl ppl corp barclays adjusts ppl price target to $41 from $39, maintains overweight rating mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/PPL/news/" target="_blank" rel="noopener" title="Yahoo Finance news for PPL">PPL</a></div>
-        <span class="ts" title="Tue Jul 14, 7:54 AM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/barclays-adjusts-ppl-price-target-115408943.html" target="_blank" rel="noopener">Barclays Adjusts PPL Price Target to $41 From $39, Maintains Overweight Rating</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">PPL Corp</span>
-      </div>
-    </article>
-    <article class="post" data-search="cmcsa comcast corp bnp paribas adjusts comcast price target to $22 from $25, maintains underperform rating mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/CMCSA/news/" target="_blank" rel="noopener" title="Yahoo Finance news for CMCSA">CMCSA</a></div>
-        <span class="ts" title="Tue Jul 14, 7:38 AM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-adjusts-comcast-price-113843149.html" target="_blank" rel="noopener">BNP Paribas Adjusts Comcast Price Target to $22 From $25, Maintains Underperform Rating</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">COMCAST CORP</span>
+        <span class="publisher">Rothman Orthopaedic Institute</span>
+        <span class="company">Rothman Orthopaedic Institute</span>
       </div>
     </article>
     <article class="post" data-search="armk aramark aramark to host conference call on third quarter fiscal 2026 results business wire">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/ARMK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for ARMK">ARMK</a></div>
-        <span class="ts" title="Tue Jul 14, 7:30 AM ET">3d</span>
+        <span class="ts" title="Tue Jul 14, 7:30 AM ET">5d</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/aramark-host-conference-call-third-113000173.html" target="_blank" rel="noopener">Aramark to Host Conference Call on Third Quarter Fiscal 2026 Results</a></h3>
       <div class="post-footer">
@@ -1618,87 +231,10 @@ if (localStorage.getItem('busybiz_auth')==='1') {
         <span class="company">Aramark</span>
       </div>
     </article>
-    <article class="post" data-search="dd dupont de nemours, inc. dupont schedules second quarter 2026 earnings conference call pr newswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/DD/news/" target="_blank" rel="noopener" title="Yahoo Finance news for DD">DD</a></div>
-        <span class="ts" title="Tue Jul 14, 7:00 AM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/dupont-schedules-second-quarter-2026-110000852.html" target="_blank" rel="noopener">DuPont Schedules Second Quarter 2026 Earnings Conference Call</a></h3>
-      <div class="post-footer">
-        <span class="publisher">PR Newswire</span>
-        <span class="company">DuPont de Nemours, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="cmcsa comcast corp you could be owed cash in the comcast data breach settlement usa today">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/CMCSA/news/" target="_blank" rel="noopener" title="Yahoo Finance news for CMCSA">CMCSA</a></div>
-        <span class="ts" title="Tue Jul 14, 6:07 AM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/9805e800-98d6-3137-866c-61935f6720fd/you-could-be-owed-cash-in-the.html" target="_blank" rel="noopener">You could be owed cash in the Comcast data breach settlement</a></h3>
-      <div class="post-footer">
-        <span class="publisher">USA TODAY</span>
-        <span class="company">COMCAST CORP</span>
-      </div>
-    </article>
-    <article class="post" data-search="jnj johnson &amp; johnson advancements in ckd care: how new therapies from astrazeneca, johnson &amp; johnson, novartis, bayer, and amgen are changing the landscape globenewswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/JNJ/news/" target="_blank" rel="noopener" title="Yahoo Finance news for JNJ">JNJ</a></div>
-        <span class="ts" title="Tue Jul 14, 4:16 AM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/advancements-ckd-care-therapies-astrazeneca-081600303.html" target="_blank" rel="noopener">Advancements in CKD Care: How New Therapies from AstraZeneca, Johnson &amp; Johnson, Novartis, Bayer, and Amgen Are Changing the Landscape</a></h3>
-      <div class="post-footer">
-        <span class="publisher">GlobeNewswire</span>
-        <span class="company">JOHNSON &amp; JOHNSON</span>
-      </div>
-    </article>
-    <article class="post" data-search="cmcsa comcast corp bernstein slashes targets on vz, chtr, t, cmcsa, tmus stocks: what’s the spacex connection? stocktwits">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/CMCSA/news/" target="_blank" rel="noopener" title="Yahoo Finance news for CMCSA">CMCSA</a></div>
-        <span class="ts" title="Tue Jul 14, 2:26 AM ET">3d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/92858d7b-2579-3830-a74e-bc964b0b25d2/bernstein-slashes-targets-on.html" target="_blank" rel="noopener">Bernstein Slashes Targets On VZ, CHTR, T, CMCSA, TMUS Stocks: What’s The SpaceX Connection?</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Stocktwits</span>
-        <span class="company">COMCAST CORP</span>
-      </div>
-    </article>
-    <article class="post" data-search="lnc lincoln national corp lnc stock pops on report of lincoln national’s potential $5b reinsurance deal with talcott stocktwits">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/LNC/news/" target="_blank" rel="noopener" title="Yahoo Finance news for LNC">LNC</a></div>
-        <span class="ts" title="Mon Jul 13, 7:49 PM ET">4d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/8c0fd298-2fbe-395d-855f-404b5e4c99aa/lnc-stock-pops-on-report-of.html" target="_blank" rel="noopener">LNC Stock Pops On Report Of Lincoln National’s Potential $5B Reinsurance Deal With Talcott</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Stocktwits</span>
-        <span class="company">LINCOLN NATIONAL CORP</span>
-      </div>
-    </article>
-    <article class="post" data-search="dorm dorman products, inc. dorman products, inc. announces date to report second quarter 2026 financial results globenewswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/DORM/news/" target="_blank" rel="noopener" title="Yahoo Finance news for DORM">DORM</a></div>
-        <span class="ts" title="Mon Jul 13, 4:30 PM ET">4d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/dorman-products-inc-announces-date-203000209.html" target="_blank" rel="noopener">Dorman Products, Inc. Announces Date to Report Second Quarter 2026 Financial Results</a></h3>
-      <div class="post-footer">
-        <span class="publisher">GlobeNewswire</span>
-        <span class="company">Dorman Products, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="tol toll brothers, inc. toll brothers announces grand opening of torrente in eagle, idaho globenewswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/TOL/news/" target="_blank" rel="noopener" title="Yahoo Finance news for TOL">TOL</a></div>
-        <span class="ts" title="Mon Jul 13, 3:53 PM ET">4d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-grand-opening-195300751.html" target="_blank" rel="noopener">Toll Brothers Announces Grand Opening of Torrente in Eagle, Idaho</a></h3>
-      <div class="post-footer">
-        <span class="publisher">GlobeNewswire</span>
-        <span class="company">Toll Brothers, Inc.</span>
-      </div>
-    </article>
     <article class="post" data-search="armk aramark aramark&#x27;s intra-quarter contract wins could strengthen fiscal 2027 growth outlook, ubs says mt newswires">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/ARMK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for ARMK">ARMK</a></div>
-        <span class="ts" title="Mon Jul 13, 12:54 PM ET">4d</span>
+        <span class="ts" title="Mon Jul 13, 12:54 PM ET">5d</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/aramark-apos-intra-quarter-contract-165444802.html" target="_blank" rel="noopener">Aramark&#x27;s Intra-Quarter Contract Wins Could Strengthen Fiscal 2027 Growth Outlook, UBS Says</a></h3>
       <div class="post-footer">
@@ -1709,7 +245,7 @@ if (localStorage.getItem('busybiz_auth')==='1') {
     <article class="post" data-search="armk aramark ubs adjusts price target on aramark to $67 from $56, maintains buy rating mt newswires">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/ARMK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for ARMK">ARMK</a></div>
-        <span class="ts" title="Mon Jul 13, 11:05 AM ET">4d</span>
+        <span class="ts" title="Mon Jul 13, 11:05 AM ET">5d</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-price-target-aramark-150541900.html" target="_blank" rel="noopener">UBS Adjusts Price Target on Aramark to $67 From $56, Maintains Buy Rating</a></h3>
       <div class="post-footer">
@@ -1717,164 +253,10 @@ if (localStorage.getItem('busybiz_auth')==='1') {
         <span class="company">Aramark</span>
       </div>
     </article>
-    <article class="post" data-search="wst west pharmaceutical services inc bnp paribas initiates west pharmaceutical services at outperform with $447 price target mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/WST/news/" target="_blank" rel="noopener" title="Yahoo Finance news for WST">WST</a></div>
-        <span class="ts" title="Mon Jul 13, 10:58 AM ET">4d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-initiates-west-pharmaceutical-145849515.html" target="_blank" rel="noopener">BNP Paribas Initiates West Pharmaceutical Services at Outperform With $447 Price Target</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">WEST PHARMACEUTICAL SERVICES INC</span>
-      </div>
-    </article>
-    <article class="post" data-search="cpb campbell&#x27;s co analyst report: the campbell&#x27;s company morningstar research">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/CPB/news/" target="_blank" rel="noopener" title="Yahoo Finance news for CPB">CPB</a></div>
-        <span class="ts" title="Mon Jul 13, 10:45 AM ET">4d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/36f589ec-db4d-366f-9472-8254e09e6663/analyst-report%3A-the.html" target="_blank" rel="noopener">Analyst Report: The Campbell&#x27;s Company</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Morningstar Research</span>
-        <span class="company">CAMPBELL&#x27;S Co</span>
-      </div>
-    </article>
-    <article class="post" data-search="jnj johnson &amp; johnson td cowen adjusts price target on johnson &amp; johnson to $300 from $250, maintains buy rating mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/JNJ/news/" target="_blank" rel="noopener" title="Yahoo Finance news for JNJ">JNJ</a></div>
-        <span class="ts" title="Mon Jul 13, 10:15 AM ET">4d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/td-cowen-adjusts-price-target-141532220.html" target="_blank" rel="noopener">TD Cowen Adjusts Price Target on Johnson &amp; Johnson to $300 From $250, Maintains Buy Rating</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">JOHNSON &amp; JOHNSON</span>
-      </div>
-    </article>
-    <article class="post" data-search="mrk merck &amp; co., inc. bmo capital adjusts price target on merck &amp; co to $142 from $135, maintains outperform rating mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/MRK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for MRK">MRK</a></div>
-        <span class="ts" title="Mon Jul 13, 10:14 AM ET">4d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/bmo-capital-adjusts-price-target-141401632.html" target="_blank" rel="noopener">BMO Capital Adjusts Price Target on Merck &amp; Co to $142 From $135, Maintains Outperform Rating</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">Merck &amp; Co., Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="exyn exyn technologies, inc. exyn coo ben williams to discuss the future of autonomous robotics in live industry interview: the future of 3d scanning is autonomous globenewswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/EXYN/news/" target="_blank" rel="noopener" title="Yahoo Finance news for EXYN">EXYN</a></div>
-        <span class="ts" title="Mon Jul 13, 10:05 AM ET">4d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/technology/ai/articles/exyn-coo-ben-williams-discuss-140500327.html" target="_blank" rel="noopener">Exyn COO Ben Williams to Discuss the Future of Autonomous Robotics in Live Industry Interview: The Future of 3D Scanning is Autonomous</a></h3>
-      <div class="post-footer">
-        <span class="publisher">GlobeNewswire</span>
-        <span class="company">Exyn Technologies, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="cmcsa comcast corp xfinity and comcast business high-speed internet now available to more than 1,500 homes and businesses in flagler estates business wire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/CMCSA/news/" target="_blank" rel="noopener" title="Yahoo Finance news for CMCSA">CMCSA</a></div>
-        <span class="ts" title="Mon Jul 13, 9:00 AM ET">4d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/technology/articles/xfinity-comcast-business-high-speed-130000894.html" target="_blank" rel="noopener">Xfinity and Comcast Business High-Speed Internet Now Available to More Than 1,500 Homes and Businesses in Flagler Estates</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Business Wire</span>
-        <span class="company">COMCAST CORP</span>
-      </div>
-    </article>
-    <article class="post" data-search="uis unisys corp unisys named to time&#x27;s america&#x27;s best companies 2026 list pr newswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/UIS/news/" target="_blank" rel="noopener" title="Yahoo Finance news for UIS">UIS</a></div>
-        <span class="ts" title="Mon Jul 13, 8:30 AM ET">4d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/technology/articles/unisys-named-times-americas-best-123000331.html" target="_blank" rel="noopener">Unisys Named to TIME&#x27;s America&#x27;s Best Companies 2026 List</a></h3>
-      <div class="post-footer">
-        <span class="publisher">PR Newswire</span>
-        <span class="company">UNISYS CORP</span>
-      </div>
-    </article>
-    <article class="post" data-search="cmcsa comcast corp bernstein adjusts price target on comcast to $28 from $32, maintains market perform rating mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/CMCSA/news/" target="_blank" rel="noopener" title="Yahoo Finance news for CMCSA">CMCSA</a></div>
-        <span class="ts" title="Mon Jul 13, 8:27 AM ET">4d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/bernstein-adjusts-price-target-comcast-122750110.html" target="_blank" rel="noopener">Bernstein Adjusts Price Target on Comcast to $28 From $32, Maintains Market Perform Rating</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">COMCAST CORP</span>
-      </div>
-    </article>
-    <article class="post" data-search="jnj johnson &amp; johnson rbc raises price target on johnson &amp; johnson to $287 from $265, keeps outperform rating mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/JNJ/news/" target="_blank" rel="noopener" title="Yahoo Finance news for JNJ">JNJ</a></div>
-        <span class="ts" title="Mon Jul 13, 8:01 AM ET">4d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/rbc-raises-price-target-johnson-120109850.html" target="_blank" rel="noopener">RBC Raises Price Target on Johnson &amp; Johnson to $287 From $265, Keeps Outperform Rating</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">JOHNSON &amp; JOHNSON</span>
-      </div>
-    </article>
-    <article class="post" data-search="wst west pharmaceutical services inc bnp paribas initiates west pharmaceutical services at outperform with $447 price target mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/WST/news/" target="_blank" rel="noopener" title="Yahoo Finance news for WST">WST</a></div>
-        <span class="ts" title="Mon Jul 13, 8:00 AM ET">4d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-initiates-west-pharmaceutical-120004051.html" target="_blank" rel="noopener">BNP Paribas Initiates West Pharmaceutical Services at Outperform With $447 Price Target</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">WEST PHARMACEUTICAL SERVICES INC</span>
-      </div>
-    </article>
-    <article class="post" data-search="irt independence realty trust, inc. irt announces dates for second quarter 2026 earnings release and conference call business wire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/IRT/news/" target="_blank" rel="noopener" title="Yahoo Finance news for IRT">IRT</a></div>
-        <span class="ts" title="Mon Jul 13, 8:00 AM ET">4d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/real-estate/articles/irt-announces-dates-second-quarter-120000610.html" target="_blank" rel="noopener">IRT Announces Dates for Second Quarter 2026 Earnings Release and Conference Call</a></h3>
-      <div class="post-footer">
-        <span class="publisher">Business Wire</span>
-        <span class="company">INDEPENDENCE REALTY TRUST, INC.</span>
-      </div>
-    </article>
-    <article class="post" data-search="nvri enviri corp enviri corporation announces timing of second quarter 2026 results and conference call globenewswire">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/NVRI/news/" target="_blank" rel="noopener" title="Yahoo Finance news for NVRI">NVRI</a></div>
-        <span class="ts" title="Mon Jul 13, 8:00 AM ET">4d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/enviri-corporation-announces-timing-second-120000169.html" target="_blank" rel="noopener">Enviri Corporation Announces Timing of Second Quarter 2026 Results and Conference Call</a></h3>
-      <div class="post-footer">
-        <span class="publisher">GlobeNewswire</span>
-        <span class="company">ENVIRI Corp</span>
-      </div>
-    </article>
-    <article class="post" data-search="gmed globus medical inc rbc lowers price target on globus medical to $115 from $120, keeps outperform rating mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/GMED/news/" target="_blank" rel="noopener" title="Yahoo Finance news for GMED">GMED</a></div>
-        <span class="ts" title="Mon Jul 13, 7:55 AM ET">4d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/rbc-lowers-price-target-globus-115507699.html" target="_blank" rel="noopener">RBC Lowers Price Target on Globus Medical to $115 From $120, Keeps Outperform Rating</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">GLOBUS MEDICAL INC</span>
-      </div>
-    </article>
-    <article class="post" data-search="ocgn ocugen, inc. ocugen signs term sheet to license retinitis pigmentosa gene therapy to roots pharmaceutical, al-dhow in mena region mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/OCGN/news/" target="_blank" rel="noopener" title="Yahoo Finance news for OCGN">OCGN</a></div>
-        <span class="ts" title="Mon Jul 13, 7:51 AM ET">4d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/ocugen-signs-term-sheet-license-115121579.html" target="_blank" rel="noopener">Ocugen Signs Term Sheet to License Retinitis Pigmentosa Gene Therapy to Roots Pharmaceutical, Al-Dhow in MENA Region</a></h3>
-      <div class="post-footer">
-        <span class="publisher">MT Newswires</span>
-        <span class="company">Ocugen, Inc.</span>
-      </div>
-    </article>
     <article class="post" data-search="armk aramark time names aramark among america&#x27;s best companies 2026 business wire">
       <div class="post-header">
         <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/ARMK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for ARMK">ARMK</a></div>
-        <span class="ts" title="Mon Jul 13, 7:30 AM ET">4d</span>
+        <span class="ts" title="Mon Jul 13, 7:30 AM ET">6d</span>
       </div>
       <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/time-names-aramark-among-americas-113000960.html" target="_blank" rel="noopener">TIME Names Aramark Among America&#x27;s Best Companies 2026</a></h3>
       <div class="post-footer">
@@ -1882,81 +264,147 @@ if (localStorage.getItem('busybiz_auth')==='1') {
         <span class="company">Aramark</span>
       </div>
     </article>
-    <article class="post" data-search="ocgn ocugen, inc. ocugen, inc. announces binding term sheet with roots pharmaceutical to license ocu400 modifier gene therapy for retinitis pigmentosa in the middle east and north africa globenewswire">
+    <article class="post" data-search="fmc fmc corporation fmc files first global regulatory submission for rimisoxafen to us epa mt newswires">
       <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/OCGN/news/" target="_blank" rel="noopener" title="Yahoo Finance news for OCGN">OCGN</a></div>
-        <span class="ts" title="Mon Jul 13, 7:02 AM ET">4d</span>
+        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/FMC/news/" target="_blank" rel="noopener" title="Yahoo Finance news for FMC">FMC</a></div>
+        <span class="ts" title="Wed Jul 8, 4:57 PM ET">10d</span>
       </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/ocugen-inc-announces-binding-term-110200535.html" target="_blank" rel="noopener">Ocugen, Inc. Announces Binding Term Sheet with Roots Pharmaceutical to License OCU400 Modifier Gene Therapy for Retinitis Pigmentosa in the Middle East and North Africa</a></h3>
-      <div class="post-footer">
-        <span class="publisher">GlobeNewswire</span>
-        <span class="company">Ocugen, Inc.</span>
-      </div>
-    </article>
-    <article class="post" data-search="hsy hershey co jpmorgan cuts price target on hershey to $191 from $204, maintains neutral rating mt newswires">
-      <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/HSY/news/" target="_blank" rel="noopener" title="Yahoo Finance news for HSY">HSY</a></div>
-        <span class="ts" title="Mon Jul 13, 7:01 AM ET">4d</span>
-      </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/jpmorgan-cuts-price-target-hershey-110159961.html" target="_blank" rel="noopener">JPMorgan Cuts Price Target on Hershey to $191 From $204, Maintains Neutral Rating</a></h3>
+      <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/fmc-files-first-global-regulatory-205739916.html" target="_blank" rel="noopener">FMC Files First Global Regulatory Submission for Rimisoxafen to US EPA</a></h3>
       <div class="post-footer">
         <span class="publisher">MT Newswires</span>
-        <span class="company">HERSHEY CO</span>
+        <span class="company">FMC Corporation</span>
       </div>
     </article>
-    <article class="post" data-search="mrk merck &amp; co., inc. jpmorgan adjusts price target on merck to $140 from $135, maintains overweight rating mt newswires">
+    <article class="post" data-search="fmc fmc corporation fmc corporation files first global regulatory submission for rimisoxafen with united states environmental protection agency pr newswire">
       <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/MRK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for MRK">MRK</a></div>
-        <span class="ts" title="Mon Jul 13, 6:59 AM ET">4d</span>
+        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/FMC/news/" target="_blank" rel="noopener" title="Yahoo Finance news for FMC">FMC</a></div>
+        <span class="ts" title="Wed Jul 8, 4:30 PM ET">10d</span>
       </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/jpmorgan-adjusts-price-target-merck-105956357.html" target="_blank" rel="noopener">JPMorgan Adjusts Price Target on Merck to $140 From $135, Maintains Overweight Rating</a></h3>
+      <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/fmc-corporation-files-first-global-203000662.html" target="_blank" rel="noopener">FMC Corporation Files First Global Regulatory Submission for Rimisoxafen with United States Environmental Protection Agency</a></h3>
+      <div class="post-footer">
+        <span class="publisher">PR Newswire</span>
+        <span class="company">FMC Corporation</span>
+      </div>
+    </article>
+    <article class="post" data-search="rothman orthopaedic institute thumb arthritis: from bracing to surgery rothman orthopaedic institute">
+      <div class="post-header">
+        <div class="chips"></div>
+        <span class="ts" title="Wed Jul 8, 10:01 AM ET">10d</span>
+      </div>
+      <h3 class="headline"><a href="https://www.rothmanortho.com/blog/thumb-arthritis-from-bracing-to-surgery/" target="_blank" rel="noopener">Thumb Arthritis: From Bracing to Surgery</a></h3>
+      <div class="post-footer">
+        <span class="publisher">Rothman Orthopaedic Institute</span>
+        <span class="company">Rothman Orthopaedic Institute</span>
+      </div>
+    </article>
+    <article class="post" data-search="cor cencora evercore isi adjusts price target on cencora to $330 from $300 mt newswires">
+      <div class="post-header">
+        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/COR/news/" target="_blank" rel="noopener" title="Yahoo Finance news for COR">COR</a></div>
+        <span class="ts" title="Tue Jul 7, 9:17 AM ET">11d</span>
+      </div>
+      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/evercore-isi-adjusts-price-target-131756525.html" target="_blank" rel="noopener">Evercore ISI Adjusts Price Target on Cencora to $330 From $300</a></h3>
       <div class="post-footer">
         <span class="publisher">MT Newswires</span>
-        <span class="company">Merck &amp; Co., Inc.</span>
+        <span class="company">Cencora</span>
       </div>
     </article>
-    <article class="post" data-search="uhs universal health services inc mizuho adjusts price target on universal health services to $200 from $230, maintains outperform rating mt newswires">
+    <article class="post" data-search="rothman orthopaedic institute how plyometric training helps prevent injuries rothman orthopaedic institute">
       <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/UHS/news/" target="_blank" rel="noopener" title="Yahoo Finance news for UHS">UHS</a></div>
-        <span class="ts" title="Mon Jul 13, 6:05 AM ET">4d</span>
+        <div class="chips"></div>
+        <span class="ts" title="Mon Jul 6, 9:30 AM ET">12d</span>
       </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/mizuho-adjusts-price-target-universal-100553929.html" target="_blank" rel="noopener">Mizuho Adjusts Price Target on Universal Health Services to $200 From $230, Maintains Outperform Rating</a></h3>
+      <h3 class="headline"><a href="https://www.rothmanortho.com/blog/how-plyometric-training-helps-prevent-injuries/" target="_blank" rel="noopener">How Plyometric Training Helps Prevent Injuries</a></h3>
+      <div class="post-footer">
+        <span class="publisher">Rothman Orthopaedic Institute</span>
+        <span class="company">Rothman Orthopaedic Institute</span>
+      </div>
+    </article>
+    <article class="post" data-search="cor cencora cencora announces date and time for third quarter fiscal 2026 earnings release business wire">
+      <div class="post-header">
+        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/COR/news/" target="_blank" rel="noopener" title="Yahoo Finance news for COR">COR</a></div>
+        <span class="ts" title="Wed Jul 1, 4:30 PM ET">17d</span>
+      </div>
+      <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/cencora-announces-date-time-third-203000029.html" target="_blank" rel="noopener">Cencora Announces Date and Time for Third Quarter Fiscal 2026 Earnings Release</a></h3>
+      <div class="post-footer">
+        <span class="publisher">Business Wire</span>
+        <span class="company">Cencora</span>
+      </div>
+    </article>
+    <article class="post" data-search="fmc fmc corporation fmc shares surge after tessenderlo agrees to acquire 20% stake (fmc) investorshub">
+      <div class="post-header">
+        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/FMC/news/" target="_blank" rel="noopener" title="Yahoo Finance news for FMC">FMC</a></div>
+        <span class="ts" title="Wed Jul 1, 10:10 AM ET">17d</span>
+      </div>
+      <h3 class="headline"><a href="https://finance.yahoo.com/m/27139779-3adc-3138-8287-9b742a9685f9/fmc-shares-surge-after.html" target="_blank" rel="noopener">FMC shares surge after Tessenderlo agrees to acquire 20% stake (FMC)</a></h3>
+      <div class="post-footer">
+        <span class="publisher">InvestorsHub</span>
+        <span class="company">FMC Corporation</span>
+      </div>
+    </article>
+    <article class="post" data-search="fmc fmc corporation fmc to sell $400 million of common to tessenderlo group at $13.30 each mt newswires">
+      <div class="post-header">
+        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/FMC/news/" target="_blank" rel="noopener" title="Yahoo Finance news for FMC">FMC</a></div>
+        <span class="ts" title="Wed Jul 1, 3:45 AM ET">18d</span>
+      </div>
+      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/fmc-sell-400-million-common-074535663.html" target="_blank" rel="noopener">FMC to Sell $400 Million of Common to Tessenderlo Group at $13.30 Each</a></h3>
       <div class="post-footer">
         <span class="publisher">MT Newswires</span>
-        <span class="company">UNIVERSAL HEALTH SERVICES INC</span>
+        <span class="company">FMC Corporation</span>
       </div>
     </article>
-    <article class="post" data-search="uhs universal health services inc wells fargo adjusts pt on universal health services to $166 from $165, maintains equalweight rating mt newswires">
+    <article class="post" data-search="fmc fmc corporation fmc corporation reaches agreement for $400 million minority equity investment from tessenderlo group pr newswire">
       <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/UHS/news/" target="_blank" rel="noopener" title="Yahoo Finance news for UHS">UHS</a></div>
-        <span class="ts" title="Mon Jul 13, 6:05 AM ET">4d</span>
+        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/FMC/news/" target="_blank" rel="noopener" title="Yahoo Finance news for FMC">FMC</a></div>
+        <span class="ts" title="Tue Jun 30, 10:05 PM ET">18d</span>
       </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/healthcare/articles/wells-fargo-adjusts-pt-universal-100546035.html" target="_blank" rel="noopener">Wells Fargo Adjusts PT on Universal Health Services to $166 From $165, Maintains Equalweight Rating</a></h3>
+      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/fmc-corporation-reaches-agreement-400-020500932.html" target="_blank" rel="noopener">FMC Corporation Reaches Agreement for $400 Million Minority Equity Investment from Tessenderlo Group</a></h3>
+      <div class="post-footer">
+        <span class="publisher">PR Newswire</span>
+        <span class="company">FMC Corporation</span>
+      </div>
+    </article>
+    <article class="post" data-search="armk aramark aramark seen delivering strong fiscal q3 results, oppenheimer says mt newswires">
+      <div class="post-header">
+        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/ARMK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for ARMK">ARMK</a></div>
+        <span class="ts" title="Mon Jun 29, 11:56 AM ET">19d</span>
+      </div>
+      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/aramark-seen-delivering-strong-fiscal-155608247.html" target="_blank" rel="noopener">Aramark Seen Delivering Strong Fiscal Q3 Results, Oppenheimer Says</a></h3>
       <div class="post-footer">
         <span class="publisher">MT Newswires</span>
-        <span class="company">UNIVERSAL HEALTH SERVICES INC</span>
+        <span class="company">Aramark</span>
       </div>
     </article>
-    <article class="post" data-search="mrk merck &amp; co., inc. sls vs mltx: retail traders race to pick merck’s next biotech buyout as keytruda’s $31.7b patent cliff nears stocktwits">
+    <article class="post" data-search="armk aramark aramark poised for solid third quarter amid revenue outperformance, oppenheimer says mt newswires">
       <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/MRK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for MRK">MRK</a></div>
-        <span class="ts" title="Sun Jul 12, 10:48 PM ET">5d</span>
+        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/ARMK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for ARMK">ARMK</a></div>
+        <span class="ts" title="Mon Jun 29, 11:11 AM ET">19d</span>
       </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/4e647aef-631c-328a-a41a-80bf09f00d52/sls-vs-mltx%3A-retail-traders.html" target="_blank" rel="noopener">SLS Vs MLTX: Retail Traders Race To Pick Merck’s Next Biotech Buyout As Keytruda’s $31.7B Patent Cliff Nears</a></h3>
+      <h3 class="headline"><a href="https://finance.yahoo.com/markets/stocks/articles/aramark-poised-solid-third-quarter-151110803.html" target="_blank" rel="noopener">Aramark Poised for Solid Third Quarter Amid Revenue Outperformance, Oppenheimer Says</a></h3>
       <div class="post-footer">
-        <span class="publisher">Stocktwits</span>
-        <span class="company">Merck &amp; Co., Inc.</span>
+        <span class="publisher">MT Newswires</span>
+        <span class="company">Aramark</span>
       </div>
     </article>
-    <article class="post" data-search="mrk merck &amp; co., inc. nasdaq, s&amp;p 500, dow futures fall after trump directs strikes ‘to hold iranian forces accountable’: nvda, sls, mrk, skhyv, qs stocks in focus stocktwits">
+    <article class="post" data-search="franklin biolabs franklin biolabs achieves clia certification for aav nab testing franklin biolabs">
       <div class="post-header">
-        <div class="chips"><a class="chip" href="https://finance.yahoo.com/quote/MRK/news/" target="_blank" rel="noopener" title="Yahoo Finance news for MRK">MRK</a></div>
-        <span class="ts" title="Sun Jul 12, 9:33 PM ET">5d</span>
+        <div class="chips"></div>
+        <span class="ts" title="Wed Jun 24, 1:47 AM ET">25d</span>
       </div>
-      <h3 class="headline"><a href="https://finance.yahoo.com/m/f9ba20ee-52b3-36a2-9599-34cc9564a65e/nasdaq%2C-s%26p-500%2C-dow-futures.html" target="_blank" rel="noopener">Nasdaq, S&amp;P 500, Dow Futures Fall After Trump Directs Strikes ‘To Hold Iranian Forces Accountable’: NVDA, SLS, MRK, SKHYV, QS Stocks In Focus</a></h3>
+      <h3 class="headline"><a href="https://franklinbio.com/franklin-biolabs-achieves-clia-certification-for-aav-nab-testing/" target="_blank" rel="noopener">Franklin Biolabs Achieves CLIA Certification for AAV NAb Testing</a></h3>
       <div class="post-footer">
-        <span class="publisher">Stocktwits</span>
-        <span class="company">Merck &amp; Co., Inc.</span>
+        <span class="publisher">Franklin Biolabs</span>
+        <span class="company">Franklin Biolabs</span>
+      </div>
+    </article>
+    <article class="post" data-search="pjm interconnection pjm announces retirement of craig glazer pr newswire">
+      <div class="post-header">
+        <div class="chips"></div>
+        <span class="ts" title="Tue Jun 23, 1:09 PM ET">25d</span>
+      </div>
+      <h3 class="headline"><a href="https://www.prnewswire.com/news-releases/pjm-announces-retirement-of-craig-glazer-302808092.html" target="_blank" rel="noopener">PJM Announces Retirement of Craig Glazer</a></h3>
+      <div class="post-footer">
+        <span class="publisher">PR Newswire</span>
+        <span class="company">PJM Interconnection</span>
       </div>
     </article>
   <div class="no-match" id="no-match">No headlines match your search.</div>

@@ -32,10 +32,10 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Install curl-cffi
-        run: pip install curl-cffi
+      - name: Install deps
+        run: pip install curl-cffi feedparser
 
-      - name: Poll Yahoo + rebuild page
+      - name: Poll local roster + rebuild page
         run: |
           python poll_news_feed.py
           python build_news_feed.py

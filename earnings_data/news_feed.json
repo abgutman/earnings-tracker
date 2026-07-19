@@ -1,1649 +1,144 @@
 {
- "generated_at": "2026-07-18T03:24:58+00:00",
+ "generated_at": "2026-07-19T08:03:46",
  "items": [
   {
-   "uuid": "e0d5acf6-d2bb-3496-97de-9a0524ba6cb1",
+   "uuid": "46b7d1fb-f342-4116-b776-2115bae36e73",
    "tickers": [
-    "MRK"
+    "CMCSA"
    ],
-   "company": "Merck & Co., Inc.",
-   "title": "The Real Question Buried Inside Merck Stock's Premium Price",
-   "publisher": "Trefis",
-   "link": "https://finance.yahoo.com/m/e0d5acf6-d2bb-3496-97de-9a0524ba6cb1/the-real-question-buried.html",
-   "published_unix": 1784325063,
-   "captured_at": "2026-07-17T23:07:51"
-  },
-  {
-   "uuid": "7c90de21-5ede-364d-9a3b-2b7ed0944cbe",
-   "tickers": [
-    "AVTX"
-   ],
-   "company": "Avalo Therapeutics, Inc.",
-   "title": "Avalo Therapeutics Says Some Shareholders May Sell Up to 128,189 Shares",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/avalo-therapeutics-says-shareholders-may-202213654.html",
-   "published_unix": 1784319733,
-   "captured_at": "2026-07-17T22:06:11"
-  },
-  {
-   "uuid": "d7c0253b-1685-358a-b577-2367e5a71a78",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Merck Reportedly Goes To Bat In Takeover Battle. Genomics Stock Flies.",
-   "publisher": "Investor's Business Daily",
-   "link": "https://finance.yahoo.com/m/d7c0253b-1685-358a-b577-2367e5a71a78/merck-reportedly-goes-to-bat.html",
-   "published_unix": 1784295673,
-   "captured_at": "2026-07-17T14:54:06"
-  },
-  {
-   "uuid": "35bf31ac-d4d0-3303-b78e-607c979e2b58",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "New Cholesterol Pill, Earnings Growth Boost Merck Shares",
-   "publisher": "FX Empire",
-   "link": "https://finance.yahoo.com/healthcare/articles/cholesterol-pill-earnings-growth-boost-124034304.html",
-   "published_unix": 1784292034,
-   "captured_at": "2026-07-17T18:17:22"
-  },
-  {
-   "uuid": "cf489b67-92a0-3b6e-9c92-888f8490d992",
-   "tickers": [
-    "HLNE"
-   ],
-   "company": "Hamilton Lane INC",
-   "title": "Oppenheimer Adjusts Price Target on Hamilton Lane to $174 From $176, Maintains Outperform Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-adjusts-price-target-hamilton-122918442.html",
-   "published_unix": 1784291358,
-   "captured_at": "2026-07-17T14:53:27"
-  },
-  {
-   "uuid": "af42993e-d31a-31f4-8a29-519a99e5a5e9",
-   "tickers": [
-    "AXTA"
-   ],
-   "company": "Axalta Coating Systems Ltd.",
-   "title": "BofA Securities Adjusts Price Target on Axalta Coating Systems to $40 From $38, Maintains Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-securities-adjusts-price-target-121821985.html",
-   "published_unix": 1784290701,
-   "captured_at": "2026-07-17T14:53:13"
-  },
-  {
-   "uuid": "4d933a4e-8625-3552-92b9-309b6f76e955",
-   "tickers": [
-    "PPL"
-   ],
-   "company": "PPL Corp",
-   "title": "PPL Corporation to Conduct Webcast on Second-Quarter 2026 Earnings Results",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ppl-corporation-conduct-webcast-second-113000117.html",
-   "published_unix": 1784287800,
-   "captured_at": "2026-07-17T12:21:30"
-  },
-  {
-   "uuid": "13161f9d-08ab-3ffd-baf3-2c06f031330d",
-   "tickers": [
-    "RDN"
-   ],
-   "company": "RADIAN GROUP INC",
-   "title": "Radian to Webcast Second Quarter Conference Call",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/radian-webcast-second-quarter-conference-103000141.html",
-   "published_unix": 1784284200,
-   "captured_at": "2026-07-17T12:20:36"
-  },
-  {
-   "uuid": "3ffdd1b2-5ce9-3b74-8344-d6763c9a15a1",
-   "tickers": [
-    "RDN"
-   ],
-   "company": "RADIAN GROUP INC",
-   "title": "Radian Group Insider Sold Shares Worth $780,000, According to a Recent SEC Filing",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/radian-group-insider-sold-shares-214707665.html",
-   "published_unix": 1784238427,
-   "captured_at": "2026-07-16T23:09:51"
+   "company": "Comcast",
+   "title": "NBC Universal could be Netflix's next big acquisition target: BofA analyst",
+   "publisher": "Yahoo Finance Video",
+   "link": "https://finance.yahoo.com/video/nbc-universal-could-be-netflixs-next-big-acquisition-target-bofa-analyst-150040227.html",
+   "published_unix": 1784300440,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-19T08:03:41"
   },
   {
    "uuid": "ed23c46f-5742-3635-a3a2-2c589e3b8219",
    "tickers": [
     "AWK"
    ],
-   "company": "American Water Works Company, Inc.",
+   "company": "American Water",
    "title": "American Water Unit Gets $74.9 Million Rate Increase",
    "publisher": "MT Newswires",
    "link": "https://finance.yahoo.com/economy/policy/articles/american-water-unit-gets-74-211109113.html",
    "published_unix": 1784236269,
-   "captured_at": "2026-07-16T21:15:14"
+   "source_type": "yahoo",
+   "captured_at": "2026-07-19T08:03:44"
   },
   {
    "uuid": "d9772be5-8dda-3621-90fb-ae30fc595f4d",
    "tickers": [
     "AWK"
    ],
-   "company": "American Water Works Company, Inc.",
+   "company": "American Water",
    "title": "PUC Approves Rate Adjustment for Pennsylvania American Water",
    "publisher": "PR Newswire",
    "link": "https://finance.yahoo.com/economy/policy/articles/puc-approves-rate-adjustment-pennsylvania-205000429.html",
    "published_unix": 1784235000,
-   "captured_at": "2026-07-16T21:15:14"
-  },
-  {
-   "uuid": "93a534cf-757a-31eb-9125-630488672a3b",
-   "tickers": [
-    "WTRG"
-   ],
-   "company": "Essential Utilities, Inc.",
-   "title": "Essential Utilities to Report Financial Results for Q2 2026",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/essential-utilities-report-financial-results-203000179.html",
-   "published_unix": 1784233800,
-   "captured_at": "2026-07-16T21:15:12"
-  },
-  {
-   "uuid": "83e435d1-16e6-3875-85f5-eb9b2697d282",
-   "tickers": [
-    "GMED"
-   ],
-   "company": "GLOBUS MEDICAL INC",
-   "title": "Globus Medical Schedules Second Quarter Earnings Release and Conference Call",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/globus-medical-schedules-second-quarter-203000658.html",
-   "published_unix": 1784233800,
-   "captured_at": "2026-07-16T21:15:18"
-  },
-  {
-   "uuid": "002187ee-5f4c-3acd-a3c9-a8551e6ece0d",
-   "tickers": [
-    "KWR"
-   ],
-   "company": "QUAKER CHEMICAL CORP",
-   "title": "Quaker Houghton Announces Second Quarter 2026 Earnings and Investor Call",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/quaker-houghton-announces-second-quarter-203000781.html",
-   "published_unix": 1784233800,
-   "captured_at": "2026-07-16T21:15:22"
-  },
-  {
-   "uuid": "94719ced-47e6-3fc0-adf8-b4be2db018ed",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers Announces Final Opportunity to Purchase a New Home at Canopy Cottages in Redmond, Washington",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-final-opportunity-202300773.html",
-   "published_unix": 1784233380,
-   "captured_at": "2026-07-16T21:15:11"
-  },
-  {
-   "uuid": "659caf00-939e-3203-aa33-442ddb05fb35",
-   "tickers": [
-    "BV"
-   ],
-   "company": "BrightView Holdings, Inc.",
-   "title": "BrightView Holdings, Inc. Announces Third Quarter Fiscal Year 2026 Earnings Release Date, Conference Call and Webcast",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/brightview-holdings-inc-announces-third-201500597.html",
-   "published_unix": 1784232900,
-   "captured_at": "2026-07-16T21:15:26"
-  },
-  {
-   "uuid": "6d1e2622-36b0-30ba-9222-7844581b8ce2",
-   "tickers": [
-    "SND"
-   ],
-   "company": "Smart Sand, Inc.",
-   "title": "SMART SAND, INC. DECLARES SPECIAL DIVIDEND OF $0.10 PER SHARE",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/smart-sand-inc-declares-special-200000434.html",
-   "published_unix": 1784232000,
-   "captured_at": "2026-07-16T21:15:33"
-  },
-  {
-   "uuid": "efaa2e31-0ebb-3b67-8c03-c880e58e1742",
-   "tickers": [
-    "HSY"
-   ],
-   "company": "HERSHEY CO",
-   "title": "Hershey margin recovery expected to begin in Q2, but Jefferies stays on sidelines over volume concerns",
-   "publisher": "Proactive",
-   "link": "https://finance.yahoo.com/m/efaa2e31-0ebb-3b67-8c03-c880e58e1742/hershey-margin-recovery.html",
-   "published_unix": 1784231820,
-   "captured_at": "2026-07-16T21:15:49"
-  },
-  {
-   "uuid": "928dccf6-7638-3c2b-80a7-c732e7b0b039",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Argus Lifts Johnson & Johnson Price Target to $290 From $275",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/argus-lifts-johnson-johnson-price-190146193.html",
-   "published_unix": 1784228506,
-   "captured_at": "2026-07-16T19:34:41"
-  },
-  {
-   "uuid": "3d4b3596-5f9a-3a84-9a47-6e3229d14bff",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers Announces New Luxury Home Community Now Open in Yardley, Pennsylvania",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-185400903.html",
-   "published_unix": 1784228040,
-   "captured_at": "2026-07-16T19:33:53"
-  },
-  {
-   "uuid": "a8c96b55-684c-3e34-b0a6-a2558ab4fbd5",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers Announces Grand Opening of Vista Ventana in La Mirada, California",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-grand-opening-185400981.html",
-   "published_unix": 1784228040,
-   "captured_at": "2026-07-16T19:33:53"
-  },
-  {
-   "uuid": "49c915ff-89b0-31a5-aa5c-96fe29406833",
-   "tickers": [
-    "HRMY"
-   ],
-   "company": "Harmony Biosciences Holdings, Inc.",
-   "title": "Update: Harmony Biosciences Shares Fall After CFO Glenn Reicin Steps Down",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/harmony-biosciences-shares-fall-cfo-184715643.html",
-   "published_unix": 1784227635,
-   "captured_at": "2026-07-16T19:34:00"
+   "source_type": "yahoo",
+   "captured_at": "2026-07-19T08:03:44"
   },
   {
    "uuid": "04a40561-a043-3dbf-9ea7-56acaf273bf4",
    "tickers": [
     "AWK"
    ],
-   "company": "American Water Works Company, Inc.",
+   "company": "American Water",
    "title": "West Virginia American Water Proudly Recognizes American Water Charitable Foundation 2026 Water and Environment Grantees",
    "publisher": "PR Newswire",
    "link": "https://finance.yahoo.com/healthcare/articles/west-virginia-american-water-proudly-184400724.html",
    "published_unix": 1784227440,
-   "captured_at": "2026-07-16T19:33:58"
-  },
-  {
-   "uuid": "4b26f2f2-18e3-35cd-b523-fd0db92e3188",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Analyst Report: Johnson & Johnson",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/4b26f2f2-18e3-35cd-b523-fd0db92e3188/analyst-report%3A-johnson-%26.html",
-   "published_unix": 1784226582,
-   "captured_at": "2026-07-16T19:34:41"
-  },
-  {
-   "uuid": "dfd74e72-8e9e-30d8-b7ba-fb2e231c8b9c",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Market Update: TSM, GS, JNJ, PGR, UAL, META",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/dfd74e72-8e9e-30d8-b7ba-fb2e231c8b9c/market-update%3A-tsm%2C-gs%2C-jnj%2C.html",
-   "published_unix": 1784226582,
-   "captured_at": "2026-07-16T19:34:41"
-  },
-  {
-   "uuid": "803b7086-7476-3a93-a78d-b003c95e9b37",
-   "tickers": [
-    "QNTO"
-   ],
-   "company": "QUAINT OAK BANCORP, INC.",
-   "title": "Quaint Oak Bancorp, Inc. Declares Quarterly Cash Dividend",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/quaint-oak-bancorp-inc-declares-181100199.html",
-   "published_unix": 1784225460,
-   "captured_at": "2026-07-16T19:34:28"
-  },
-  {
-   "uuid": "e4dc60c0-0fd6-3015-ba54-d0209594cbb4",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Merck's HIV Pipeline Nears Key Inflection Point Ahead of ISLEND Data, RBC Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/merck-apos-hiv-pipeline-nears-154005084.html",
-   "published_unix": 1784216405,
-   "captured_at": "2026-07-16T17:40:20"
-  },
-  {
-   "uuid": "6b5ffbb2-50d4-37bf-823a-849b18e5d74a",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Johnson & Johnson's Innovative Medicine Segment Momentum Continues to Build into 2027, RBC Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-apos-innovative-medicine-152956386.html",
-   "published_unix": 1784215796,
-   "captured_at": "2026-07-16T17:40:19"
-  },
-  {
-   "uuid": "c98d5e32-0ca7-35e5-9a31-103a660b43b7",
-   "tickers": [
-    "HSY"
-   ],
-   "company": "HERSHEY CO",
-   "title": "Jefferies Adjusts Price Target on Hershey to $190 From $199, Maintains Hold Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-adjusts-price-target-hershey-144403767.html",
-   "published_unix": 1784213043,
-   "captured_at": "2026-07-16T15:13:51"
+   "source_type": "yahoo",
+   "captured_at": "2026-07-19T08:03:44"
   },
   {
    "uuid": "b2be03c8-16dc-3ea5-b6c1-e1911dcc2a61",
    "tickers": [
     "AWK"
    ],
-   "company": "American Water Works Company, Inc.",
+   "company": "American Water",
    "title": "Pennsylvania American Water Awarded PENNVEST Funding Totaling $64+ Million for Water Infrastructure Improvement Projects in Allegheny, Cumberland and Susquehanna Counties",
    "publisher": "PR Newswire",
    "link": "https://finance.yahoo.com/healthcare/articles/pennsylvania-american-water-awarded-pennvest-143900697.html",
    "published_unix": 1784212740,
-   "captured_at": "2026-07-16T15:13:12"
-  },
-  {
-   "uuid": "9ea30e3b-d353-3868-9c82-6e73d9beef36",
-   "tickers": [
-    "HRMY"
-   ],
-   "company": "Harmony Biosciences Holdings, Inc.",
-   "title": "Harmony Biosciences Announces Preliminary Q2 Revenue, CFO Transition \u2014 Says Executive\u2019s Departure Not Due To Any Disagreement",
-   "publisher": "Stocktwits",
-   "link": "https://finance.yahoo.com/m/9ea30e3b-d353-3868-9c82-6e73d9beef36/harmony-biosciences-announces.html",
-   "published_unix": 1784212661,
-   "captured_at": "2026-07-16T15:13:14"
-  },
-  {
-   "uuid": "33b30081-ce65-39e8-bac6-4539c793411a",
-   "tickers": [
-    "HSY"
-   ],
-   "company": "HERSHEY CO",
-   "title": "UBS Adjusts Price Target on Hershey to $190 From $200, Maintains Neutral Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-price-target-hershey-132417642.html",
-   "published_unix": 1784208257,
-   "captured_at": "2026-07-16T15:13:51"
-  },
-  {
-   "uuid": "58833508-ae8e-3821-99f5-db4a59493861",
-   "tickers": [
-    "GMED"
-   ],
-   "company": "GLOBUS MEDICAL INC",
-   "title": "Truist Adjusts Price Target on Globus Medical to $100 From $115, Maintains Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/truist-adjusts-price-target-globus-132348401.html",
-   "published_unix": 1784208228,
-   "captured_at": "2026-07-16T15:13:15"
-  },
-  {
-   "uuid": "72671989-c303-3645-bd27-14de280a9168",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "The Real Engine Behind Johnson & Johnson Stock's Next Climb",
-   "publisher": "Trefis",
-   "link": "https://finance.yahoo.com/m/72671989-c303-3645-bd27-14de280a9168/the-real-engine-behind.html",
-   "published_unix": 1784207994,
-   "captured_at": "2026-07-16T15:13:52"
+   "source_type": "yahoo",
+   "captured_at": "2026-07-19T08:03:44"
   },
   {
    "uuid": "aa652383-405c-33d5-a8b0-94ffca73896e",
    "tickers": [
     "AWK"
    ],
-   "company": "American Water Works Company, Inc.",
+   "company": "American Water",
    "title": "American Water Provides Expertise at NACWA's 2026 Utility Leadership Conference and 56th Annual Meeting",
    "publisher": "PR Newswire",
    "link": "https://finance.yahoo.com/healthcare/articles/american-water-provides-expertise-nacwas-131700158.html",
    "published_unix": 1784207820,
-   "captured_at": "2026-07-16T15:13:12"
-  },
-  {
-   "uuid": "2dc15407-090a-3536-a56f-af4f2aaf8a8d",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Dow Jones' Merck Snags A First-Of-Its-Kind Approval, And Jumps",
-   "publisher": "Investor's Business Daily",
-   "link": "https://finance.yahoo.com/m/2dc15407-090a-3536-a56f-af4f2aaf8a8d/dow-jones%27-merck-snags-a.html",
-   "published_unix": 1784207534,
-   "captured_at": "2026-07-16T15:13:53"
-  },
-  {
-   "uuid": "786f46bb-6d0e-3661-943a-3a9f1e60a664",
-   "tickers": [
-    "HRMY"
-   ],
-   "company": "Harmony Biosciences Holdings, Inc.",
-   "title": "Harmony Biosciences Expects Higher Q2 Wakix Revenue; CFO Glenn Reicin Steps Down",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/harmony-biosciences-expects-higher-q2-130648812.html",
-   "published_unix": 1784207208,
-   "captured_at": "2026-07-16T15:13:14"
-  },
-  {
-   "uuid": "f0ce0132-3f57-37ba-83ab-d99065c3833c",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Why Is The Market Punishing JNJ Stock?",
-   "publisher": "Trefis",
-   "link": "https://finance.yahoo.com/m/f0ce0132-3f57-37ba-83ab-d99065c3833c/why-is-the-market-punishing.html",
-   "published_unix": 1784205864,
-   "captured_at": "2026-07-16T15:13:52"
-  },
-  {
-   "uuid": "4f778adb-0ff8-3003-a5cc-c82beb8dd3f3",
-   "tickers": [
-    "HRMY"
-   ],
-   "company": "Harmony Biosciences Holdings, Inc.",
-   "title": "Harmony Biosciences Preannounces Record Quarterly Revenue for Q2 2026, Reaffirms Full-Year 2026 Revenue Guidance, and Announces CFO Transition",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/healthcare/articles/harmony-biosciences-preannounces-record-quarterly-123000251.html",
-   "published_unix": 1784205000,
-   "captured_at": "2026-07-16T12:50:21"
-  },
-  {
-   "uuid": "d8e5e02e-1fc8-3a13-aeb7-69c80fba8371",
-   "tickers": [
-    "VSNT"
-   ],
-   "company": "Versant Media Group, Inc.",
-   "title": "Bundesliga Broadens Broadcast Accessibility for Fans in U.S. with New Deals with Versant's USA Sports and NBCUniversal's Telemundo",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/media-advertising/articles/bundesliga-broadens-broadcast-accessibility-fans-123000625.html",
-   "published_unix": 1784205000,
-   "captured_at": "2026-07-16T12:50:23"
-  },
-  {
-   "uuid": "73f633f4-22cf-361e-81a8-4b5c29e89844",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Merck Opens BioReliance\u00ae Testing Facility in Darmstadt, Germany to Support Drug Product Release in Europe",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/merck-opens-bioreliance-testing-facility-122000628.html",
-   "published_unix": 1784204400,
-   "captured_at": "2026-07-16T12:50:51"
-  },
-  {
-   "uuid": "174d7d9c-bac4-31b9-9cc1-f52702212c0f",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Johnson & Johnson Announces Collaboration with TIME to Introduce New Healthcare Champion of the Year Award",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-announces-collaboration-time-121100719.html",
-   "published_unix": 1784203860,
-   "captured_at": "2026-07-16T12:50:51"
-  },
-  {
-   "uuid": "3050258d-5a08-3fd6-9cc2-53828a901337",
-   "tickers": [
-    "QVCAQ"
-   ],
-   "company": "QVC Group, Inc.",
-   "title": "QVC Group nears bankruptcy exit with approved restructuring plan",
-   "publisher": "Retail Dive",
-   "link": "https://finance.yahoo.com/m/3050258d-5a08-3fd6-9cc2-53828a901337/qvc-group-nears-bankruptcy.html",
-   "published_unix": 1784203500,
-   "captured_at": "2026-07-16T17:40:18"
-  },
-  {
-   "uuid": "15b7037d-0910-3623-85ce-6b06844bd14d",
-   "tickers": [
-    "AME"
-   ],
-   "company": "AMETEK INC/",
-   "title": "AMETEK Announces Second Quarter 2026 Earnings Call and Webcasted Investor Conference Call Information",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ametek-announces-second-quarter-2026-120000901.html",
-   "published_unix": 1784203200,
-   "captured_at": "2026-07-16T12:50:14"
-  },
-  {
-   "uuid": "26d9b3e2-c140-322c-86f4-5abf1ae2f428",
-   "tickers": [
-    "PPL"
-   ],
-   "company": "PPL Corp",
-   "title": "JPMorgan Adjusts Price Target on PPL to $45 From $42, Maintains Overweight Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-adjusts-price-target-ppl-114215616.html",
-   "published_unix": 1784202135,
-   "captured_at": "2026-07-16T12:50:51"
-  },
-  {
-   "uuid": "f73ff66b-1d4b-3cd1-a1f4-c8032f1c3217",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Merck Receives FDA Approval for Cholesterol Pill Lipfendra",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/merck-receives-fda-approval-cholesterol-113203367.html",
-   "published_unix": 1784201523,
-   "captured_at": "2026-07-16T12:50:51"
-  },
-  {
-   "uuid": "eeee4e05-a1a5-3ccc-b981-17d55de33e5e",
-   "tickers": [
-    "NNUP"
-   ],
-   "company": "NOCOPI TECHNOLOGIES INC/MD/",
-   "title": "Nocopi Technologies Appoints Beth Vasy as Vice President of Growth Following the Acquisition of the Polymeric Group",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nocopi-technologies-appoints-beth-vasy-110000750.html",
-   "published_unix": 1784199600,
-   "captured_at": "2026-07-16T12:50:43"
-  },
-  {
-   "uuid": "223f2f2e-ad16-3076-bce1-71ae304b0f1a",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Merck Gets Approval for Powerful Cholesterol-Cutting Pill",
-   "publisher": "Barrons.com",
-   "link": "https://finance.yahoo.com/m/223f2f2e-ad16-3076-bce1-71ae304b0f1a/merck-gets-approval-for.html",
-   "published_unix": 1784198700,
-   "captured_at": "2026-07-16T12:50:51"
-  },
-  {
-   "uuid": "6e2eba41-7742-3b62-823f-751f235792c4",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Merck\u2019s First-of-Its-Kind Cholesterol Pill Approved, Ushering in New Wave of Treatment",
-   "publisher": "The Wall Street Journal",
-   "link": "https://finance.yahoo.com/m/6e2eba41-7742-3b62-823f-751f235792c4/merck%E2%80%99s-first-of-its-kind.html",
-   "published_unix": 1784198700,
-   "captured_at": "2026-07-16T12:50:51"
-  },
-  {
-   "uuid": "2d5fae6a-8dcf-3d80-be17-e470d2005b6a",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Merck\u2019s LIPFENDRA\u00ae (enlicitide) is the First and Only Once-Daily Oral PCSK9 Inhibitor Approved by the U.S. FDA to Reduce LDL-C in Adults with Hypercholesterolemia",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/healthcare/articles/merck-lipfendra-enlicitide-first-only-104500842.html",
-   "published_unix": 1784198700,
-   "captured_at": "2026-07-16T12:50:51"
-  },
-  {
-   "uuid": "dfc3582d-c83a-341f-9080-a2cfc33c2c03",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Goldman Sachs Adjusts Price Target on Johnson & Johnson to $282 From $275, Maintains Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-adjusts-price-target-103732675.html",
-   "published_unix": 1784198252,
-   "captured_at": "2026-07-16T12:50:51"
-  },
-  {
-   "uuid": "8b1b72b8-f710-30bd-9357-704d224b64eb",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Stifel Adjusts Price Target on Johnson & Johnson to $260 From $250, Maintains Hold Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/stifel-adjusts-price-target-johnson-095609531.html",
-   "published_unix": 1784195769,
-   "captured_at": "2026-07-16T12:50:51"
-  },
-  {
-   "uuid": "1dc46e16-a50e-3b68-80fb-c42db6d3b7ad",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Scotiabank Adjusts PT on Johnson & Johnson to $305 From $265, Maintains Sector Outperform Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/scotiabank-adjusts-pt-johnson-johnson-095603813.html",
-   "published_unix": 1784195763,
-   "captured_at": "2026-07-16T12:50:51"
-  },
-  {
-   "uuid": "dd86de90-dadd-3afa-a1b9-f0d99e91cd98",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Raymond James Adjusts PT on Johnson & Johnson to $265 From $258, Maintains Outperform Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/raymond-james-adjusts-pt-johnson-095554576.html",
-   "published_unix": 1784195754,
-   "captured_at": "2026-07-16T12:50:51"
-  },
-  {
-   "uuid": "1aabf781-2bb6-3f25-ab1f-ac7730a09140",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Morgan Stanley Adjusts PT on Johnson & Johnson to $294 From $284, Maintains Overweight Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-pt-johnson-095541168.html",
-   "published_unix": 1784195741,
-   "captured_at": "2026-07-16T12:50:51"
-  },
-  {
-   "uuid": "89502e9a-c6e7-3390-96a1-5081eb708a64",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "JPMorgan Adjusts Price Target on Johnson & Johnson to $270 From $260, Maintains Neutral Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-adjusts-price-target-johnson-095529516.html",
-   "published_unix": 1784195729,
-   "captured_at": "2026-07-16T12:50:51"
-  },
-  {
-   "uuid": "fa478ed5-de1f-3d5b-85be-272f27e8036a",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Merck wins first approval of a PCSK9 cholesterol pill",
-   "publisher": "BioPharma Dive",
-   "link": "https://finance.yahoo.com/m/fa478ed5-de1f-3d5b-85be-272f27e8036a/merck-wins-first-approval-of.html",
-   "published_unix": 1784193720,
-   "captured_at": "2026-07-16T15:13:53"
-  },
-  {
-   "uuid": "4868affe-767b-36ee-979d-1068b2cbc755",
-   "tickers": [
-    "QVCAQ"
-   ],
-   "company": "QVC Group, Inc.",
-   "title": "QVC Group Achieves Key Milestone with Court's Approval of Comprehensive Financial Restructuring Plan",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/qvc-group-achieves-key-milestone-221700861.html",
-   "published_unix": 1784153820,
-   "captured_at": "2026-07-16T00:09:28"
-  },
-  {
-   "uuid": "2b491cd6-c52c-35f4-8ba7-84150b444f6b",
-   "tickers": [
-    "ECVT"
-   ],
-   "company": "Ecovyst Inc.",
-   "title": "Ecovyst to Host Second Quarter 2026 Earnings Conference Call and Webcast on Wednesday, August 5, 2026, at 11:00 a.m. ET",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ecovyst-host-second-quarter-2026-213000555.html",
-   "published_unix": 1784151000,
-   "captured_at": "2026-07-15T22:12:07"
-  },
-  {
-   "uuid": "6a5a0e64-3321-3db5-9600-b00df303ffb8",
-   "tickers": [
-    "WTRG"
-   ],
-   "company": "Essential Utilities, Inc.",
-   "title": "Essential Utilities Unit Secures $74.3 Million to Advance Treatment Plant Projects",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/essential-utilities-unit-secures-74-212139520.html",
-   "published_unix": 1784150499,
-   "captured_at": "2026-07-15T22:11:53"
-  },
-  {
-   "uuid": "2b9ac8c2-707e-37b0-b154-14cf6e7e049b",
-   "tickers": [
-    "UHS"
-   ],
-   "company": "UNIVERSAL HEALTH SERVICES INC",
-   "title": "UNIVERSAL HEALTH SERVICES, INC. ANNOUNCES DIVIDEND",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/universal-health-services-inc-announces-202000123.html",
-   "published_unix": 1784146800,
-   "captured_at": "2026-07-15T22:11:51"
-  },
-  {
-   "uuid": "3f136141-88a3-34d2-b29b-e57558c518ef",
-   "tickers": [
-    "CERT"
-   ],
-   "company": "Certara, Inc.",
-   "title": "Certara to Report Second Quarter 2026 Financial Results on August 4th, 2026",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/certara-report-second-quarter-2026-201500967.html",
-   "published_unix": 1784146500,
-   "captured_at": "2026-07-15T22:12:10"
-  },
-  {
-   "uuid": "88267bd0-6a3a-39ab-b075-ee505a7aadcc",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers Announces Model Home Grand Opening at Toll Brothers at The Pinehills in Plymouth, Massachusetts",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-model-home-200200172.html",
-   "published_unix": 1784145720,
-   "captured_at": "2026-07-15T20:18:15"
-  },
-  {
-   "uuid": "b46303ae-6f2d-3169-bd32-7f48f6cdbef5",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Johnson & Johnson\u2019s Spravato sales growth supports psychedelic drug opportunity: Jefferies",
-   "publisher": "Proactive",
-   "link": "https://finance.yahoo.com/m/b46303ae-6f2d-3169-bd32-7f48f6cdbef5/johnson-%26-johnson%E2%80%99s-spravato.html",
-   "published_unix": 1784144040,
-   "captured_at": "2026-07-15T20:18:52"
-  },
-  {
-   "uuid": "411fd9fb-c994-3b9f-8344-15d007c46ec9",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Analyst Report: Johnson & Johnson",
-   "publisher": "Morningstar Research",
-   "link": "https://finance.yahoo.com/m/411fd9fb-c994-3b9f-8344-15d007c46ec9/analyst-report%3A-johnson-%26.html",
-   "published_unix": 1784142340,
-   "captured_at": "2026-07-15T22:12:40"
+   "source_type": "yahoo",
+   "captured_at": "2026-07-19T08:03:44"
   },
   {
    "uuid": "c2ae6591-c7c6-3779-9af5-886441ef3c78",
    "tickers": [
     "AWK"
    ],
-   "company": "American Water Works Company, Inc.",
+   "company": "American Water",
    "title": "American Water Builds Workforce of Tomorrow through Training, Education and Career Pathways",
    "publisher": "PR Newswire",
    "link": "https://finance.yahoo.com/small-business/articles/american-water-builds-workforce-tomorrow-170200216.html",
    "published_unix": 1784134920,
-   "captured_at": "2026-07-15T20:18:17"
+   "source_type": "yahoo",
+   "captured_at": "2026-07-19T08:03:44"
   },
   {
-   "uuid": "63c75b59-5d4c-3196-8015-9a1914ad25c1",
-   "tickers": [
-    "VPG"
-   ],
-   "company": "Vishay Precision Group, Inc.",
-   "title": "Vishay Precision Group Announces Date for its Second Quarter Fiscal 2026 Earnings Conference Call",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/vishay-precision-group-announces-date-170000777.html",
-   "published_unix": 1784134800,
-   "captured_at": "2026-07-15T18:19:18"
-  },
-  {
-   "uuid": "8fc582f5-82a5-3c4a-880a-d8b669efdc79",
-   "tickers": [
-    "WST"
-   ],
-   "company": "WEST PHARMACEUTICAL SERVICES INC",
-   "title": "TD Cowen Adjusts Price Target on West Pharmaceutical Services to $410 From $365, Maintains Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-adjusts-price-target-152438913.html",
-   "published_unix": 1784129078,
-   "captured_at": "2026-07-15T16:44:11"
-  },
-  {
-   "uuid": "6d68525f-4ac0-35a5-983f-7d292c25e7f8",
-   "tickers": [
-    "PHIO"
-   ],
-   "company": "Phio Pharmaceuticals Corp.",
-   "title": "Phio Pharmaceuticals Expands Global Patent Portfolio With New International Patent Milestones",
-   "publisher": "InvestorsHub",
-   "link": "https://finance.yahoo.com/m/6d68525f-4ac0-35a5-983f-7d292c25e7f8/phio-pharmaceuticals-expands.html",
-   "published_unix": 1784128010,
-   "captured_at": "2026-07-15T16:44:39"
-  },
-  {
-   "uuid": "1b6de1fd-1c1d-385a-bd2c-e0358c4237e4",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "Tap Water You Can Trust: West Virginia American Water Treatment Plant Earns National Recognition",
+   "uuid": "12eb2cc86074df5671b84213fd2de20a2e35b68d",
+   "tickers": [],
+   "company": "PJM Interconnection",
+   "title": "PJM Capacity Auction Procures 138,318 MW of Generation Resources as Work Continues To Address Growing Electricity Demand",
    "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/tap-water-trust-west-virginia-150300916.html",
-   "published_unix": 1784127780,
-   "captured_at": "2026-07-15T16:44:09"
-  },
-  {
-   "uuid": "d1d31d30-50b0-3376-a9cb-f05d47048662",
-   "tickers": [
-    "VSH"
-   ],
-   "company": "VISHAY INTERTECHNOLOGY INC",
-   "title": "Vishay Achieves CMMC Level 2 Certification for Secure Support of U.S. Defense Programs",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/technology/ai/articles/vishay-achieves-cmmc-level-2-150000874.html",
-   "published_unix": 1784127600,
-   "captured_at": "2026-07-15T16:44:04"
-  },
-  {
-   "uuid": "176d5a8d-4aca-302e-b797-57e783d1c70a",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "California American Water Highlights Successful Vegetation Reduction Efforts Protecting Critical Water Infrastructure in Sonoma County",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/california-american-water-highlights-successful-144500474.html",
-   "published_unix": 1784126700,
-   "captured_at": "2026-07-15T15:01:36"
-  },
-  {
-   "uuid": "5c2a54d7-cbd1-3c3f-905d-d13492b2bf34",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Johnson & Johnson beats Q2 estimates, raises full-year 2026 guidance",
-   "publisher": "Proactive",
-   "link": "https://finance.yahoo.com/m/5c2a54d7-cbd1-3c3f-905d-d13492b2bf34/johnson-%26-johnson-beats-q2.html",
-   "published_unix": 1784126520,
-   "captured_at": "2026-07-15T16:44:48"
-  },
-  {
-   "uuid": "e47265d1-bab2-3edb-9266-0741591feb3e",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Scotiabank Adjusts Comcast's PT to $32.75 From $36, Keeps Sector Perform Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/scotiabank-adjusts-comcast-apos-pt-143852214.html",
-   "published_unix": 1784126332,
-   "captured_at": "2026-07-15T16:43:59"
-  },
-  {
-   "uuid": "25a49450-41a6-379d-a68a-7f3b6c5f4eb7",
-   "tickers": [
-    "DD"
-   ],
-   "company": "DuPont de Nemours, Inc.",
-   "title": "Personal Protective Equipment (PPE) Global Market Forecast to 2031 Featuring 3M, Protective Industrial Products, Ansell, DuPont de Nemours, MSA Worldwide and Other Key Players",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/personal-protective-equipment-ppe-global-141000471.html",
-   "published_unix": 1784124600,
-   "captured_at": "2026-07-15T15:02:13"
-  },
-  {
-   "uuid": "0eb0220c-f485-354e-8327-3ee801afd998",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Johnson & Johnson Lifts Full-Year Outlook Following Second-Quarter Beat",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-lifts-full-outlook-135041248.html",
-   "published_unix": 1784123441,
-   "captured_at": "2026-07-15T15:02:12"
-  },
-  {
-   "uuid": "82eab843-d997-318a-a066-c70ea26988a5",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Dow Jones' Merck Scores A Win With Cancer Smart Bomb",
-   "publisher": "Investor's Business Daily",
-   "link": "https://finance.yahoo.com/m/82eab843-d997-318a-a066-c70ea26988a5/dow-jones%27-merck-scores-a-win.html",
-   "published_unix": 1784122701,
-   "captured_at": "2026-07-15T15:02:13"
-  },
-  {
-   "uuid": "bcb071ea-ee70-3f89-8e12-02b6855176c5",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "JPMorgan Adjusts Price Target on Comcast to $29 From $33, Maintains Neutral Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-adjusts-price-target-comcast-133034589.html",
-   "published_unix": 1784122234,
-   "captured_at": "2026-07-15T15:01:27"
-  },
-  {
-   "uuid": "c6c2a238-a09c-3391-90df-eb06be8cfbd9",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "Barclays Adjusts Price Target on American Water Works to $130 From $124, Maintains Underweight Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-adjusts-price-target-american-132533073.html",
-   "published_unix": 1784121933,
-   "captured_at": "2026-07-15T15:01:36"
-  },
-  {
-   "uuid": "f300c547-3e27-37d3-99e6-f0cea3f97d47",
-   "tickers": [
-    "DD"
-   ],
-   "company": "DuPont de Nemours, Inc.",
-   "title": "DuPont Launches End-to-End Portfolio to Advance Direct Lithium Extraction",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/dupont-launches-end-end-portfolio-130000615.html",
-   "published_unix": 1784120400,
-   "captured_at": "2026-07-15T15:02:13"
-  },
-  {
-   "uuid": "a2d9f9e7-4eab-3af3-ac2d-5604f6ac48b5",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Johnson & Johnson Q2 2026 earnings beat on medicines unit strength",
-   "publisher": "Quartz",
-   "link": "https://finance.yahoo.com/m/a2d9f9e7-4eab-3af3-ac2d-5604f6ac48b5/johnson-%26-johnson-q2-2026.html",
-   "published_unix": 1784116917,
-   "captured_at": "2026-07-15T12:42:36"
-  },
-  {
-   "uuid": "73f08153-2b56-3419-b4dd-0bf68713b36d",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Merck ADC, in China study, shows potential to replace chemo in lung cancer",
-   "publisher": "BioPharma Dive",
-   "link": "https://finance.yahoo.com/m/73f08153-2b56-3419-b4dd-0bf68713b36d/merck-adc%2C-in-china-study%2C.html",
-   "published_unix": 1784115660,
-   "captured_at": "2026-07-15T16:44:49"
-  },
-  {
-   "uuid": "19d72058-945e-3ace-93bb-bcb7f658ea8a",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Why Johnson & Johnson Stock Is Falling Even After a Guidance Hike",
-   "publisher": "Barrons.com",
-   "link": "https://finance.yahoo.com/m/19d72058-945e-3ace-93bb-bcb7f658ea8a/why-johnson-%26-johnson-stock.html",
-   "published_unix": 1784115480,
-   "captured_at": "2026-07-15T12:42:36"
-  },
-  {
-   "uuid": "5534accc-1c99-38f2-81a7-7338f16caf2a",
-   "tickers": [
-    "CRS"
-   ],
-   "company": "CARPENTER TECHNOLOGY CORP",
-   "title": "Sales Gains Send Carpenter Technology Higher Before Earnings Report",
-   "publisher": "FX Empire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/sales-gains-send-carpenter-technology-113733690.html",
-   "published_unix": 1784115453,
-   "captured_at": "2026-07-15T18:19:11"
-  },
-  {
-   "uuid": "7f6124a8-3d38-32d3-beb1-d4745f652359",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Intel, Johnson & Johnson, ASML, and More Stocks That Explain Today\u2019s Market",
-   "publisher": "Barrons.com",
-   "link": "https://finance.yahoo.com/m/7f6124a8-3d38-32d3-beb1-d4745f652359/intel%2C-johnson-%26-johnson%2C.html",
-   "published_unix": 1784114820,
-   "captured_at": "2026-07-15T12:42:36"
-  },
-  {
-   "uuid": "5cf3fd00-e83a-3588-9c9f-21b60436f019",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Johnson & Johnson tops second-quarter forecasts and lifts guidance despite premarket decline (JNJ)",
-   "publisher": "InvestorsHub",
-   "link": "https://finance.yahoo.com/m/5cf3fd00-e83a-3588-9c9f-21b60436f019/johnson-%26-johnson-tops.html",
-   "published_unix": 1784114094,
-   "captured_at": "2026-07-15T12:42:36"
-  },
-  {
-   "uuid": "bb52b508-0cc2-311e-99e0-93f143ce0214",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Merck's Keytruda Meets Main Goal in Phase 3 Endometrial Cancer Trial",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/merck-apos-keytruda-meets-main-111006548.html",
-   "published_unix": 1784113806,
-   "captured_at": "2026-07-15T12:42:36"
-  },
-  {
-   "uuid": "804cae80-ee02-3e25-959a-a20c91328526",
-   "tickers": [
-    "PHIO"
-   ],
-   "company": "Phio Pharmaceuticals Corp.",
-   "title": "Phio Pharmaceuticals Announces Patent Milestone with Multiple Notices of Allowance and Grant Decision",
-   "publisher": "TMX Newsfile",
-   "link": "https://finance.yahoo.com/healthcare/articles/phio-pharmaceuticals-announces-patent-milestone-110000398.html",
-   "published_unix": 1784113200,
-   "captured_at": "2026-07-15T12:42:27"
-  },
-  {
-   "uuid": "9828d042-d7da-3b7a-b5e7-3e88d3b60e11",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Merck to Present New Data on Daily, Weekly, and Monthly Options Across its HIV Treatment and Prevention Pipeline at AIDS 2026",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/healthcare/articles/merck-present-data-daily-weekly-110000569.html",
-   "published_unix": 1784113200,
-   "captured_at": "2026-07-15T12:42:36"
-  },
-  {
-   "uuid": "d812181c-3468-302a-a43e-2e0c6ab3c0fd",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Analyst Report: Comcast Corporation",
-   "publisher": "Morningstar Research",
-   "link": "https://finance.yahoo.com/m/d812181c-3468-302a-a43e-2e0c6ab3c0fd/analyst-report%3A-comcast.html",
-   "published_unix": 1784084036,
-   "captured_at": "2026-07-15T12:41:43"
-  },
-  {
-   "uuid": "bb03a545-613c-3089-bf95-0fb1f3c54a3f",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "ARMK: Raising target price to $61.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/bb03a545-613c-3089-bf95-0fb1f3c54a3f/armk%3A-raising-target-price-to.html",
-   "published_unix": 1784073600,
-   "captured_at": "2026-07-15T20:18:09"
-  },
-  {
-   "uuid": "69dc10df-32d6-34b5-b828-caec34a59e66",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC CORP",
-   "title": "FMC: Lowering target price to $9.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/69dc10df-32d6-34b5-b828-caec34a59e66/fmc%3A-lowering-target-price-to.html",
-   "published_unix": 1784073600,
-   "captured_at": "2026-07-15T20:18:09"
-  },
-  {
-   "uuid": "7b9c7e28-91fe-37e5-9104-8a9fc1a3abc8",
-   "tickers": [
-    "URBN"
-   ],
-   "company": "URBAN OUTFITTERS INC",
-   "title": "URBN: Raising target price to $67.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/7b9c7e28-91fe-37e5-9104-8a9fc1a3abc8/urbn%3A-raising-target-price-to.html",
-   "published_unix": 1784073600,
-   "captured_at": "2026-07-15T20:18:10"
-  },
-  {
-   "uuid": "2d22b404-0a7e-399c-882b-acb04ac13f67",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "FIVE BELOW, INC",
-   "title": "FIVE: Raising target price to $183.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/2d22b404-0a7e-399c-882b-acb04ac13f67/five%3A-raising-target-price-to.html",
-   "published_unix": 1784073600,
-   "captured_at": "2026-07-15T20:18:10"
-  },
-  {
-   "uuid": "4fc44ffd-d57d-36e1-8f10-9e4dcf6b8c81",
-   "tickers": [
-    "IRT"
-   ],
-   "company": "INDEPENDENCE REALTY TRUST, INC.",
-   "title": "IRT: Lowering target price to $17.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/4fc44ffd-d57d-36e1-8f10-9e4dcf6b8c81/irt%3A-lowering-target-price-to.html",
-   "published_unix": 1784073600,
-   "captured_at": "2026-07-15T20:18:11"
-  },
-  {
-   "uuid": "3666d39e-7082-3873-ab34-4a1943eeda1a",
-   "tickers": [
-    "AXTA"
-   ],
-   "company": "Axalta Coating Systems Ltd.",
-   "title": "AXTA: Lowering target price to $35.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/3666d39e-7082-3873-ab34-4a1943eeda1a/axta%3A-lowering-target-price.html",
-   "published_unix": 1784073600,
-   "captured_at": "2026-07-15T20:18:11"
-  },
-  {
-   "uuid": "e3982a01-6f84-3575-9e52-8f8349ab14d1",
-   "tickers": [
-    "RDN"
-   ],
-   "company": "RADIAN GROUP INC",
-   "title": "RDN: Lowering target price to $39.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/e3982a01-6f84-3575-9e52-8f8349ab14d1/rdn%3A-lowering-target-price-to.html",
-   "published_unix": 1784073600,
-   "captured_at": "2026-07-15T20:18:12"
-  },
-  {
-   "uuid": "72695a85-ccd7-3581-8073-a5a6db634afe",
-   "tickers": [
-    "LNC"
-   ],
-   "company": "LINCOLN NATIONAL CORP",
-   "title": "LNC: Raising target price to $43.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/72695a85-ccd7-3581-8073-a5a6db634afe/lnc%3A-raising-target-price-to.html",
-   "published_unix": 1784073600,
-   "captured_at": "2026-07-15T20:18:12"
-  },
-  {
-   "uuid": "c67526b7-bf97-343b-8687-4e2be3d0818f",
-   "tickers": [
-    "BSY"
-   ],
-   "company": "BENTLEY SYSTEMS INC",
-   "title": "BSY: Lowering target price to $34.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/c67526b7-bf97-343b-8687-4e2be3d0818f/bsy%3A-lowering-target-price-to.html",
-   "published_unix": 1784073600,
-   "captured_at": "2026-07-15T20:18:12"
-  },
-  {
-   "uuid": "3ed5f3b3-f1e8-3e49-9eed-5724df2936ad",
-   "tickers": [
-    "AME"
-   ],
-   "company": "AMETEK INC/",
-   "title": "AME: Raising target price to $257.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/3ed5f3b3-f1e8-3e49-9eed-5724df2936ad/ame%3A-raising-target-price-to.html",
-   "published_unix": 1784073600,
-   "captured_at": "2026-07-15T20:18:13"
-  },
-  {
-   "uuid": "2f24f700-601a-31d6-be2d-428e6cf78046",
-   "tickers": [
-    "UHS"
-   ],
-   "company": "UNIVERSAL HEALTH SERVICES INC",
-   "title": "UHS: Lowering target price to $137.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/2f24f700-601a-31d6-be2d-428e6cf78046/uhs%3A-lowering-target-price-to.html",
-   "published_unix": 1784073600,
-   "captured_at": "2026-07-15T20:18:14"
-  },
-  {
-   "uuid": "0ffdbf00-09c2-3538-a340-36fea7fcf8ed",
-   "tickers": [
-    "UGI"
-   ],
-   "company": "UGI CORP /PA/",
-   "title": "UGI: Raising target price to $38.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/0ffdbf00-09c2-3538-a340-36fea7fcf8ed/ugi%3A-raising-target-price-to.html",
-   "published_unix": 1784073600,
-   "captured_at": "2026-07-15T20:18:16"
-  },
-  {
-   "uuid": "901dfcfa-f325-3d9b-b52a-133e0d2c528a",
-   "tickers": [
-    "SEIC"
-   ],
-   "company": "SEI INVESTMENTS CO",
-   "title": "SEIC: Lowering target price to $104.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/901dfcfa-f325-3d9b-b52a-133e0d2c528a/seic%3A-lowering-target-price.html",
-   "published_unix": 1784073600,
-   "captured_at": "2026-07-15T20:18:16"
-  },
-  {
-   "uuid": "bda833a3-6586-3ecb-8826-a58f24973fdb",
-   "tickers": [
-    "BURL"
-   ],
-   "company": "Burlington Stores, Inc.",
-   "title": "BURL: Raising target price to $351.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/bda833a3-6586-3ecb-8826-a58f24973fdb/burl%3A-raising-target-price-to.html",
-   "published_unix": 1784073600,
-   "captured_at": "2026-07-15T20:18:18"
-  },
-  {
-   "uuid": "b2ca2e28-2d33-343a-8dd0-69cfd6b71355",
-   "tickers": [
-    "HRMY"
-   ],
-   "company": "Harmony Biosciences Holdings, Inc.",
-   "title": "HRMY: Lowering target price to $37.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/b2ca2e28-2d33-343a-8dd0-69cfd6b71355/hrmy%3A-lowering-target-price.html",
-   "published_unix": 1784073600,
-   "captured_at": "2026-07-15T20:18:19"
-  },
-  {
-   "uuid": "52c8b543-46c2-350d-9ad9-85c1a5070d94",
-   "tickers": [
-    "CRS"
-   ],
-   "company": "CARPENTER TECHNOLOGY CORP",
-   "title": "CRS: Lowering target price to $657.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/52c8b543-46c2-350d-9ad9-85c1a5070d94/crs%3A-lowering-target-price-to.html",
-   "published_unix": 1784073600,
-   "captured_at": "2026-07-15T20:18:20"
-  },
-  {
-   "uuid": "864f7156-6772-3cf6-ba80-6bbf78107cd4",
-   "tickers": [
-    "WST"
-   ],
-   "company": "WEST PHARMACEUTICAL SERVICES INC",
-   "title": "WST: Raising target price to $393.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/864f7156-6772-3cf6-ba80-6bbf78107cd4/wst%3A-raising-target-price-to.html",
-   "published_unix": 1784073600,
-   "captured_at": "2026-07-15T20:18:20"
-  },
-  {
-   "uuid": "e123076b-e7fe-34bf-8bec-584108e9b277",
-   "tickers": [
-    "GMED"
-   ],
-   "company": "GLOBUS MEDICAL INC",
-   "title": "GMED: Lowering target price to $83.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/e123076b-e7fe-34bf-8bec-584108e9b277/gmed%3A-lowering-target-price.html",
-   "published_unix": 1784073600,
-   "captured_at": "2026-07-15T20:18:21"
-  },
-  {
-   "uuid": "5e215abc-8bfd-32fc-8c5e-e48c4210ffa1",
-   "tickers": [
-    "CUBE"
-   ],
-   "company": "CubeSmart",
-   "title": "CUBE: What does Argus have to say about CUBE?",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/5e215abc-8bfd-32fc-8c5e-e48c4210ffa1/cube%3A-what-does-argus-have-to.html",
-   "published_unix": 1784073600,
-   "captured_at": "2026-07-15T20:18:21"
-  },
-  {
-   "uuid": "06eb6c3a-3445-3409-b2d0-886ff7e4317b",
-   "tickers": [
-    "VSNT"
-   ],
-   "company": "Versant Media Group, Inc.",
-   "title": "VSNT: Lowering target price to $37.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/06eb6c3a-3445-3409-b2d0-886ff7e4317b/vsnt%3A-lowering-target-price.html",
-   "published_unix": 1784073600,
-   "captured_at": "2026-07-15T20:18:21"
-  },
-  {
-   "uuid": "3d67fc33-83a3-34e0-9214-b38ba173ae0f",
-   "tickers": [
-    "TFX"
-   ],
-   "company": "TELEFLEX INC",
-   "title": "TFX: Lowering target price to $137.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/3d67fc33-83a3-34e0-9214-b38ba173ae0f/tfx%3A-lowering-target-price-to.html",
-   "published_unix": 1784073600,
-   "captured_at": "2026-07-15T20:18:22"
-  },
-  {
-   "uuid": "54b692f5-76d5-303b-9c3b-1fa7869f517f",
-   "tickers": [
-    "AVTR"
-   ],
-   "company": "Avantor, Inc.",
-   "title": "AVTR: Raising target price to $12.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/54b692f5-76d5-303b-9c3b-1fa7869f517f/avtr%3A-raising-target-price-to.html",
-   "published_unix": 1784073600,
-   "captured_at": "2026-07-15T20:18:22"
-  },
-  {
-   "uuid": "f7f1d371-1dfc-3734-b931-3f55ea9a9c87",
-   "tickers": [
-    "EPAM"
-   ],
-   "company": "EPAM Systems, Inc.",
-   "title": "EPAM: Lowering target price to $80.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/f7f1d371-1dfc-3734-b931-3f55ea9a9c87/epam%3A-lowering-target-price.html",
-   "published_unix": 1784073600,
-   "captured_at": "2026-07-15T20:18:24"
-  },
-  {
-   "uuid": "7205d0f6-4c44-3e61-8445-93029bc9fa4b",
-   "tickers": [
-    "HLNE"
-   ],
-   "company": "Hamilton Lane INC",
-   "title": "HLNE: Raising target price to $92.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/7205d0f6-4c44-3e61-8445-93029bc9fa4b/hlne%3A-raising-target-price-to.html",
-   "published_unix": 1784073600,
-   "captured_at": "2026-07-15T20:18:24"
-  },
-  {
-   "uuid": "6df27746-7088-3264-b713-2e7fd2c67614",
-   "tickers": [
-    "DORM"
-   ],
-   "company": "Dorman Products, Inc.",
-   "title": "DORM: Lowering target price to $146.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/6df27746-7088-3264-b713-2e7fd2c67614/dorm%3A-lowering-target-price.html",
-   "published_unix": 1784073600,
-   "captured_at": "2026-07-15T20:18:24"
-  },
-  {
-   "uuid": "f25f5432-140e-33ea-8e1c-5b90b683717b",
-   "tickers": [
-    "KWR"
-   ],
-   "company": "QUAKER CHEMICAL CORP",
-   "title": "KWR: Lowering target price to $157.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/f25f5432-140e-33ea-8e1c-5b90b683717b/kwr%3A-lowering-target-price-to.html",
-   "published_unix": 1784073600,
-   "captured_at": "2026-07-15T20:18:25"
-  },
-  {
-   "uuid": "69df8be3-3de0-3ac1-a2aa-75a86bfa5505",
-   "tickers": [
-    "AHCO"
-   ],
-   "company": "AdaptHealth Corp.",
-   "title": "AHCO: What does Argus have to say about AHCO?",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/69df8be3-3de0-3ac1-a2aa-75a86bfa5505/ahco%3A-what-does-argus-have-to.html",
-   "published_unix": 1784073600,
-   "captured_at": "2026-07-15T20:18:29"
-  },
-  {
-   "uuid": "5cf5ff12-ed2f-3e49-b833-d66150f8593b",
-   "tickers": [
-    "JJSF"
-   ],
-   "company": "J&J SNACK FOODS CORP",
-   "title": "JJSF: Lowering target price to $72.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/5cf5ff12-ed2f-3e49-b833-d66150f8593b/jjsf%3A-lowering-target-price.html",
-   "published_unix": 1784073600,
-   "captured_at": "2026-07-15T20:18:30"
-  },
-  {
-   "uuid": "be2b3907-f195-3251-b5e2-69133a5b45e2",
-   "tickers": [
-    "HCSG"
-   ],
-   "company": "HEALTHCARE SERVICES GROUP INC",
-   "title": "HCSG: Lowering target price to $25.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/be2b3907-f195-3251-b5e2-69133a5b45e2/hcsg%3A-lowering-target-price.html",
-   "published_unix": 1784073600,
-   "captured_at": "2026-07-15T20:18:30"
-  },
-  {
-   "uuid": "1827bc9a-bcb8-3342-b0e7-7d611822366d",
-   "tickers": [
-    "CERT"
-   ],
-   "company": "Certara, Inc.",
-   "title": "CERT: Lowering target price to $5.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/1827bc9a-bcb8-3342-b0e7-7d611822366d/cert%3A-lowering-target-price.html",
-   "published_unix": 1784073600,
-   "captured_at": "2026-07-15T20:18:32"
-  },
-  {
-   "uuid": "f349fb4b-c156-307d-902a-ec06f7395199",
-   "tickers": [
-    "VSNT"
-   ],
-   "company": "Versant Media Group, Inc.",
-   "title": "USA Sports and Bundesliga Announce Exclusive Multi-Year U.S. Media Rights Agreement",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/media-advertising/articles/usa-sports-bundesliga-announce-exclusive-220300585.html",
-   "published_unix": 1784066580,
-   "captured_at": "2026-07-14T22:11:30"
-  },
-  {
-   "uuid": "7d9d8cf0-6443-3a0c-84d3-9734757666fe",
-   "tickers": [
-    "WHK"
-   ],
-   "company": "WhiteHawk Income Corp",
-   "title": "WhiteHawk Minerals Corp. Announces Second Quarter 2026 Earnings Conference Call for August 13, 2026",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/whitehawk-minerals-corp-announces-second-210000526.html",
-   "published_unix": 1784062800,
-   "captured_at": "2026-07-14T22:12:03"
-  },
-  {
-   "uuid": "f1228fc6-3288-3ade-b26a-a08ddeba2560",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Comcast eyes acquisition of 33-year-old rival amid struggles",
-   "publisher": "TheStreet",
-   "link": "https://finance.yahoo.com/m/f1228fc6-3288-3ade-b26a-a08ddeba2560/comcast-eyes-acquisition-of.html",
-   "published_unix": 1784061180,
-   "captured_at": "2026-07-14T22:11:15"
-  },
-  {
-   "uuid": "f03c0ec1-5fea-3967-a6e6-25c39d1b2539",
-   "tickers": [
-    "VERX"
-   ],
-   "company": "Vertex, Inc.",
-   "title": "Vertex to Announce Second Quarter 2026 Financial Results on Monday, August 3, 2026",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/vertex-announce-second-quarter-2026-203000297.html",
-   "published_unix": 1784061000,
-   "captured_at": "2026-07-14T22:11:35"
-  },
-  {
-   "uuid": "dac28e50-8991-3943-bf46-15d1c0223a36",
-   "tickers": [
-    "AHCO"
-   ],
-   "company": "AdaptHealth Corp.",
-   "title": "AdaptHealth Corp. Announces Second Quarter 2026 Earnings Release Date and Conference Call",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/healthcare/articles/adapthealth-corp-announces-second-quarter-200500934.html",
-   "published_unix": 1784059500,
-   "captured_at": "2026-07-14T20:22:00"
-  },
-  {
-   "uuid": "c8e1af74-a7f0-389b-81ad-7f69e4950967",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "West Virginia American Water Opens Firefighting Grant Program to Support Local Departments",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/small-business/articles/west-virginia-american-water-opens-180400007.html",
-   "published_unix": 1784052240,
-   "captured_at": "2026-07-14T18:16:02"
-  },
-  {
-   "uuid": "51dda229-8298-3e12-b563-c3a649ce6f39",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "American Water Named One of America's Best Companies to Work For by U.S. News & World Report",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/small-business/articles/american-water-named-one-americas-161600985.html",
-   "published_unix": 1784045760,
-   "captured_at": "2026-07-14T16:37:59"
-  },
-  {
-   "uuid": "bf5d74f6-8213-3fee-9a82-4964a948a492",
-   "tickers": [
-    "SEIC"
-   ],
-   "company": "SEI INVESTMENTS CO",
-   "title": "SEI Expands ETF Platform with SEI QiM U.S. Equity Factor Allocation Active ETF (SEUS)",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/sei-expands-etf-platform-sei-160000434.html",
-   "published_unix": 1784044800,
-   "captured_at": "2026-07-14T16:37:57"
+   "link": "https://www.prnewswire.com/news-releases/pjm-capacity-auction-procures-138-318-mw-of-generation-resources-as-work-continues-to-address-growing-electricity-demand-302825613.html",
+   "published_unix": 1784061600,
+   "source_type": "wire",
+   "captured_at": "2026-07-19T08:03:46"
   },
   {
    "uuid": "75061a80-4cc3-38b3-8551-1c7bae0b73ed",
    "tickers": [
     "FIVE"
    ],
-   "company": "FIVE BELOW, INC",
+   "company": "Five Below",
    "title": "Five Below's Momentum Remains Strong as Pricing, Traffic and Customer Engagement Stay Healthy, UBS Says",
    "publisher": "MT Newswires",
    "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-apos-momentum-remains-152322125.html",
    "published_unix": 1784042602,
-   "captured_at": "2026-07-14T16:37:51"
-  },
-  {
-   "uuid": "e11ed5ee-54e9-3689-bd04-e56c68e34579",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water Works Company, Inc.",
-   "title": "Indiana American Water Investing $15 Million in New Elevated Water Tank and System Upgrades in Noblesville",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/economy/policy/articles/indiana-american-water-investing-15-134900665.html",
-   "published_unix": 1784036940,
-   "captured_at": "2026-07-14T15:02:59"
-  },
-  {
-   "uuid": "01046ec8-f0de-380f-b412-4c5ebf5db5dc",
-   "tickers": [
-    "AVTR"
-   ],
-   "company": "Avantor, Inc.",
-   "title": "Avantor's NuSil Brand Expands HIV Prevention Collaboration With Population Council",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/avantor-apos-nusil-brand-expands-132615396.html",
-   "published_unix": 1784035575,
-   "captured_at": "2026-07-14T15:03:06"
+   "source_type": "yahoo",
+   "captured_at": "2026-07-19T08:03:43"
   },
   {
    "uuid": "8eb23a00-7609-3514-8fef-5435f690f93f",
    "tickers": [
     "CPB"
    ],
-   "company": "CAMPBELL'S Co",
+   "company": "Campbell's",
    "title": "Campbell's\u00ae Cooks Up New Soup Lineup with 20g of Protein Per Can",
    "publisher": "PR Newswire",
    "link": "https://finance.yahoo.com/healthcare/articles/campbells-cooks-soup-lineup-20g-130000839.html",
    "published_unix": 1784034000,
-   "captured_at": "2026-07-14T15:02:59"
+   "source_type": "yahoo",
+   "captured_at": "2026-07-19T08:03:43"
   },
   {
-   "uuid": "02cdf65e-c751-3820-a8d8-cdbed923dd34",
-   "tickers": [
-    "COBA"
-   ],
-   "company": "Chilean Cobalt Corp.",
-   "title": "Chilean Cobalt Corp. Announces Completion of Phase 1 Work Program at NeoRe Rare Earth Project and Execution of Phase 2 Development Activities",
-   "publisher": "ACCESS Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/chilean-cobalt-corp-announces-completion-130000964.html",
+   "uuid": "e812848b5e77e7098e428c99888051ccdf05a10c",
+   "tickers": [],
+   "company": "Rothman Orthopaedic Institute",
+   "title": "Better Bone & Muscle Health in Aging and Menopause",
+   "publisher": "Rothman Orthopaedic Institute",
+   "link": "https://www.rothmanortho.com/blog/better-bone-muscle-health-in-aging-and-menopause/",
    "published_unix": 1784034000,
-   "captured_at": "2026-07-14T15:03:51"
-  },
-  {
-   "uuid": "704bf81c-51d2-32f1-9160-afc89e4f8720",
-   "tickers": [
-    "EXYN"
-   ],
-   "company": "Exyn Technologies, Inc.",
-   "title": "Exyn Defense to Showcase Mission-Ready Autonomous Robotics at the 2026 Pennsylvania Defense & Innovation Summit",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/technology/ai/articles/exyn-defense-showcase-mission-ready-123000600.html",
-   "published_unix": 1784032200,
-   "captured_at": "2026-07-14T12:39:55"
-  },
-  {
-   "uuid": "8f3a4521-7b4f-34c2-8163-9051ee1b7894",
-   "tickers": [
-    "AVTR"
-   ],
-   "company": "Avantor, Inc.",
-   "title": "Avantor's\u00ae NuSil\u00ae Brand Expands Partnership with the Population Council to Develop Long-Acting HIV Prevention Product",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/avantors-nusil-brand-expands-partnership-120500772.html",
-   "published_unix": 1784030700,
-   "captured_at": "2026-07-14T12:39:38"
-  },
-  {
-   "uuid": "8f7b7a98-a575-3f4b-8156-9d00c53a1857",
-   "tickers": [
-    "PPL"
-   ],
-   "company": "PPL Corp",
-   "title": "Barclays Adjusts PPL Price Target to $41 From $39, Maintains Overweight Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-adjusts-ppl-price-target-115408943.html",
-   "published_unix": 1784030048,
-   "captured_at": "2026-07-14T12:40:04"
-  },
-  {
-   "uuid": "789175db-b674-3c89-9e40-b98eb384f23d",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "BNP Paribas Adjusts Comcast Price Target to $22 From $25, Maintains Underperform Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-adjusts-comcast-price-113843149.html",
-   "published_unix": 1784029123,
-   "captured_at": "2026-07-14T12:39:25"
+   "source_type": "rss",
+   "captured_at": "2026-07-19T08:03:46"
   },
   {
    "uuid": "9a6ae0e4-90fe-3d94-a7e6-ec0ea2c8467d",
@@ -1655,91 +150,8 @@
    "publisher": "Business Wire",
    "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-host-conference-call-third-113000173.html",
    "published_unix": 1784028600,
-   "captured_at": "2026-07-14T12:39:26"
-  },
-  {
-   "uuid": "c9da9918-67ef-32ef-8649-d1a988b42c8c",
-   "tickers": [
-    "DD"
-   ],
-   "company": "DuPont de Nemours, Inc.",
-   "title": "DuPont Schedules Second Quarter 2026 Earnings Conference Call",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/dupont-schedules-second-quarter-2026-110000852.html",
-   "published_unix": 1784026800,
-   "captured_at": "2026-07-14T12:40:05"
-  },
-  {
-   "uuid": "9805e800-98d6-3137-866c-61935f6720fd",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "You could be owed cash in the Comcast data breach settlement",
-   "publisher": "USA TODAY",
-   "link": "https://finance.yahoo.com/m/9805e800-98d6-3137-866c-61935f6720fd/you-could-be-owed-cash-in-the.html",
-   "published_unix": 1784023666,
-   "captured_at": "2026-07-14T12:39:25"
-  },
-  {
-   "uuid": "7a9e8a5c-989b-3cc3-a3b0-c60247cfbd87",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "Advancements in CKD Care: How New Therapies from AstraZeneca, Johnson & Johnson, Novartis, Bayer, and Amgen Are Changing the Landscape",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/advancements-ckd-care-therapies-astrazeneca-081600303.html",
-   "published_unix": 1784016960,
-   "captured_at": "2026-07-14T12:40:05"
-  },
-  {
-   "uuid": "92858d7b-2579-3830-a74e-bc964b0b25d2",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Bernstein Slashes Targets On VZ, CHTR, T, CMCSA, TMUS Stocks: What\u2019s The SpaceX Connection?",
-   "publisher": "Stocktwits",
-   "link": "https://finance.yahoo.com/m/92858d7b-2579-3830-a74e-bc964b0b25d2/bernstein-slashes-targets-on.html",
-   "published_unix": 1784010367,
-   "captured_at": "2026-07-14T12:39:25"
-  },
-  {
-   "uuid": "8c0fd298-2fbe-395d-855f-404b5e4c99aa",
-   "tickers": [
-    "LNC"
-   ],
-   "company": "LINCOLN NATIONAL CORP",
-   "title": "LNC Stock Pops On Report Of Lincoln National\u2019s Potential $5B Reinsurance Deal With Talcott",
-   "publisher": "Stocktwits",
-   "link": "https://finance.yahoo.com/m/8c0fd298-2fbe-395d-855f-404b5e4c99aa/lnc-stock-pops-on-report-of.html",
-   "published_unix": 1783986582,
-   "captured_at": "2026-07-14T03:27:25"
-  },
-  {
-   "uuid": "3dba9d6a-f788-32eb-98c1-83395f7dd631",
-   "tickers": [
-    "DORM"
-   ],
-   "company": "Dorman Products, Inc.",
-   "title": "Dorman Products, Inc. Announces Date to Report Second Quarter 2026 Financial Results",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/dorman-products-inc-announces-date-203000209.html",
-   "published_unix": 1783974600,
-   "captured_at": "2026-07-13T22:08:49"
-  },
-  {
-   "uuid": "f78d5338-a2bc-3d3c-adec-ad11bc54e0df",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers, Inc.",
-   "title": "Toll Brothers Announces Grand Opening of Torrente in Eagle, Idaho",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-grand-opening-195300751.html",
-   "published_unix": 1783972380,
-   "captured_at": "2026-07-13T20:34:09"
+   "source_type": "yahoo",
+   "captured_at": "2026-07-19T08:03:41"
   },
   {
    "uuid": "7a1c3d9d-2178-34ea-9d73-e6fdc7554c32",
@@ -1751,7 +163,8 @@
    "publisher": "MT Newswires",
    "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-apos-intra-quarter-contract-165444802.html",
    "published_unix": 1783961684,
-   "captured_at": "2026-07-13T18:49:37"
+   "source_type": "yahoo",
+   "captured_at": "2026-07-19T08:03:41"
   },
   {
    "uuid": "bb63412e-9191-3724-babf-08d57862a7f4",
@@ -1763,175 +176,8 @@
    "publisher": "MT Newswires",
    "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-price-target-aramark-150541900.html",
    "published_unix": 1783955141,
-   "captured_at": "2026-07-13T16:43:03"
-  },
-  {
-   "uuid": "9751a72d-79f2-37a7-a8d1-4861af5da773",
-   "tickers": [
-    "WST"
-   ],
-   "company": "WEST PHARMACEUTICAL SERVICES INC",
-   "title": "BNP Paribas Initiates West Pharmaceutical Services at Outperform With $447 Price Target",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-initiates-west-pharmaceutical-145849515.html",
-   "published_unix": 1783954729,
-   "captured_at": "2026-07-13T16:43:16"
-  },
-  {
-   "uuid": "36f589ec-db4d-366f-9472-8254e09e6663",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "CAMPBELL'S Co",
-   "title": "Analyst Report: The Campbell's Company",
-   "publisher": "Morningstar Research",
-   "link": "https://finance.yahoo.com/m/36f589ec-db4d-366f-9472-8254e09e6663/analyst-report%3A-the.html",
-   "published_unix": 1783953906,
-   "captured_at": "2026-07-14T12:39:33"
-  },
-  {
-   "uuid": "58f59a67-85d7-3522-8b51-160cdeb313c4",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "TD Cowen Adjusts Price Target on Johnson & Johnson to $300 From $250, Maintains Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-adjusts-price-target-141532220.html",
-   "published_unix": 1783952132,
-   "captured_at": "2026-07-13T16:43:56"
-  },
-  {
-   "uuid": "7ce53427-2a18-3e8b-aa8b-385d48555fd8",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "BMO Capital Adjusts Price Target on Merck & Co to $142 From $135, Maintains Outperform Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bmo-capital-adjusts-price-target-141401632.html",
-   "published_unix": 1783952041,
-   "captured_at": "2026-07-13T16:43:56"
-  },
-  {
-   "uuid": "bf256bef-0bf2-3003-ba6a-8e3415e9603f",
-   "tickers": [
-    "EXYN"
-   ],
-   "company": "Exyn Technologies, Inc.",
-   "title": "Exyn COO Ben Williams to Discuss the Future of Autonomous Robotics in Live Industry Interview: The Future of 3D Scanning is Autonomous",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/technology/ai/articles/exyn-coo-ben-williams-discuss-140500327.html",
-   "published_unix": 1783951500,
-   "captured_at": "2026-07-13T16:43:44"
-  },
-  {
-   "uuid": "7777117e-1dcb-341f-93fd-b71d45e2bd66",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Xfinity and Comcast Business High-Speed Internet Now Available to More Than 1,500 Homes and Businesses in Flagler Estates",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/articles/xfinity-comcast-business-high-speed-130000894.html",
-   "published_unix": 1783947600,
-   "captured_at": "2026-07-13T16:43:03"
-  },
-  {
-   "uuid": "be50aa02-1fd0-31b1-9860-17dc3a72c53b",
-   "tickers": [
-    "UIS"
-   ],
-   "company": "UNISYS CORP",
-   "title": "Unisys Named to TIME's America's Best Companies 2026 List",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/technology/articles/unisys-named-times-americas-best-123000331.html",
-   "published_unix": 1783945800,
-   "captured_at": "2026-07-13T13:31:40"
-  },
-  {
-   "uuid": "e284ee1b-0fb7-37fb-839a-9b04d88fee66",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "COMCAST CORP",
-   "title": "Bernstein Adjusts Price Target on Comcast to $28 From $32, Maintains Market Perform Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bernstein-adjusts-price-target-comcast-122750110.html",
-   "published_unix": 1783945670,
-   "captured_at": "2026-07-13T13:31:30"
-  },
-  {
-   "uuid": "d83f7760-28a3-3002-8a04-17081687ec7a",
-   "tickers": [
-    "JNJ"
-   ],
-   "company": "JOHNSON & JOHNSON",
-   "title": "RBC Raises Price Target on Johnson & Johnson to $287 From $265, Keeps Outperform Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-raises-price-target-johnson-120109850.html",
-   "published_unix": 1783944069,
-   "captured_at": "2026-07-13T13:32:34"
-  },
-  {
-   "uuid": "d22665eb-2395-325a-bdaa-bfa022da7243",
-   "tickers": [
-    "WST"
-   ],
-   "company": "WEST PHARMACEUTICAL SERVICES INC",
-   "title": "BNP Paribas Initiates West Pharmaceutical Services at Outperform With $447 Price Target",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-initiates-west-pharmaceutical-120004051.html",
-   "published_unix": 1783944004,
-   "captured_at": "2026-07-13T13:31:45"
-  },
-  {
-   "uuid": "2851c88b-fa7a-3e97-9525-9ac5e4b15832",
-   "tickers": [
-    "IRT"
-   ],
-   "company": "INDEPENDENCE REALTY TRUST, INC.",
-   "title": "IRT Announces Dates for Second Quarter 2026 Earnings Release and Conference Call",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/real-estate/articles/irt-announces-dates-second-quarter-120000610.html",
-   "published_unix": 1783944000,
-   "captured_at": "2026-07-13T13:31:34"
-  },
-  {
-   "uuid": "263ba6bd-4b56-3994-8be1-423dd6e87fd9",
-   "tickers": [
-    "NVRI"
-   ],
-   "company": "ENVIRI Corp",
-   "title": "Enviri Corporation Announces Timing of Second Quarter 2026 Results and Conference Call",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/enviri-corporation-announces-timing-second-120000169.html",
-   "published_unix": 1783944000,
-   "captured_at": "2026-07-13T13:31:53"
-  },
-  {
-   "uuid": "513e2a56-5295-31e6-980a-b5eef70f1a8b",
-   "tickers": [
-    "GMED"
-   ],
-   "company": "GLOBUS MEDICAL INC",
-   "title": "RBC Lowers Price Target on Globus Medical to $115 From $120, Keeps Outperform Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-lowers-price-target-globus-115507699.html",
-   "published_unix": 1783943707,
-   "captured_at": "2026-07-13T13:31:46"
-  },
-  {
-   "uuid": "782e23cc-82d1-3ca9-91eb-019b68f8796b",
-   "tickers": [
-    "OCGN"
-   ],
-   "company": "Ocugen, Inc.",
-   "title": "Ocugen Signs Term Sheet to License Retinitis Pigmentosa Gene Therapy to Roots Pharmaceutical, Al-Dhow in MENA Region",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/ocugen-signs-term-sheet-license-115121579.html",
-   "published_unix": 1783943481,
-   "captured_at": "2026-07-13T13:31:37"
+   "source_type": "yahoo",
+   "captured_at": "2026-07-19T08:03:41"
   },
   {
    "uuid": "f1f0edb5-bd0b-38f7-b373-78c41722e890",
@@ -1943,91 +189,169 @@
    "publisher": "Business Wire",
    "link": "https://finance.yahoo.com/markets/stocks/articles/time-names-aramark-among-americas-113000960.html",
    "published_unix": 1783942200,
-   "captured_at": "2026-07-13T13:31:31"
+   "source_type": "yahoo",
+   "captured_at": "2026-07-19T08:03:41"
   },
   {
-   "uuid": "63bb830a-adcd-33f2-ae87-568c1b98e5ef",
+   "uuid": "09538e51-082c-3e99-bf2f-88bdd730c4fc",
    "tickers": [
-    "OCGN"
+    "FMC"
    ],
-   "company": "Ocugen, Inc.",
-   "title": "Ocugen, Inc. Announces Binding Term Sheet with Roots Pharmaceutical to License OCU400 Modifier Gene Therapy for Retinitis Pigmentosa in the Middle East and North Africa",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/ocugen-inc-announces-binding-term-110200535.html",
-   "published_unix": 1783940520,
-   "captured_at": "2026-07-13T13:31:37"
-  },
-  {
-   "uuid": "2f1d8290-08a3-36dd-92a6-fec0828be941",
-   "tickers": [
-    "HSY"
-   ],
-   "company": "HERSHEY CO",
-   "title": "JPMorgan Cuts Price Target on Hershey to $191 From $204, Maintains Neutral Rating",
+   "company": "FMC Corporation",
+   "title": "FMC Files First Global Regulatory Submission for Rimisoxafen to US EPA",
    "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-cuts-price-target-hershey-110159961.html",
-   "published_unix": 1783940519,
-   "captured_at": "2026-07-13T16:43:55"
+   "link": "https://finance.yahoo.com/healthcare/articles/fmc-files-first-global-regulatory-205739916.html",
+   "published_unix": 1783544259,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-19T08:03:42"
   },
   {
-   "uuid": "dd8318b3-fe8c-35d2-8b2c-5da8f6077d5d",
+   "uuid": "d4097f21-704d-387c-a48f-175b3f1f8cde",
    "tickers": [
-    "MRK"
+    "FMC"
    ],
-   "company": "Merck & Co., Inc.",
-   "title": "JPMorgan Adjusts Price Target on Merck to $140 From $135, Maintains Overweight Rating",
+   "company": "FMC Corporation",
+   "title": "FMC Corporation Files First Global Regulatory Submission for Rimisoxafen with United States Environmental Protection Agency",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/fmc-corporation-files-first-global-203000662.html",
+   "published_unix": 1783542600,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-19T08:03:42"
+  },
+  {
+   "uuid": "f86dda1c6c38d05e8a174d42cc3f10d1fa01dee1",
+   "tickers": [],
+   "company": "Rothman Orthopaedic Institute",
+   "title": "Thumb Arthritis: From Bracing to Surgery",
+   "publisher": "Rothman Orthopaedic Institute",
+   "link": "https://www.rothmanortho.com/blog/thumb-arthritis-from-bracing-to-surgery/",
+   "published_unix": 1783519264,
+   "source_type": "rss",
+   "captured_at": "2026-07-19T08:03:46"
+  },
+  {
+   "uuid": "7d40b84d-ab15-37d5-9870-8c9f64f4d6bd",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "Evercore ISI Adjusts Price Target on Cencora to $330 From $300",
    "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-adjusts-price-target-merck-105956357.html",
-   "published_unix": 1783940396,
-   "captured_at": "2026-07-13T13:32:35"
+   "link": "https://finance.yahoo.com/markets/stocks/articles/evercore-isi-adjusts-price-target-131756525.html",
+   "published_unix": 1783430276,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-19T08:03:42"
   },
   {
-   "uuid": "91a85117-8d02-3693-859a-dbf6234d1e59",
+   "uuid": "f402fbf9cf2e2ab57f8a14ef47ff7cf73603316c",
+   "tickers": [],
+   "company": "Rothman Orthopaedic Institute",
+   "title": "How Plyometric Training Helps Prevent Injuries",
+   "publisher": "Rothman Orthopaedic Institute",
+   "link": "https://www.rothmanortho.com/blog/how-plyometric-training-helps-prevent-injuries/",
+   "published_unix": 1783344600,
+   "source_type": "rss",
+   "captured_at": "2026-07-19T08:03:46"
+  },
+  {
+   "uuid": "b97d9ed4-5332-326f-9922-d492554f661d",
    "tickers": [
-    "UHS"
+    "COR"
    ],
-   "company": "UNIVERSAL HEALTH SERVICES INC",
-   "title": "Mizuho Adjusts Price Target on Universal Health Services to $200 From $230, Maintains Outperform Rating",
+   "company": "Cencora",
+   "title": "Cencora Announces Date and Time for Third Quarter Fiscal 2026 Earnings Release",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/healthcare/articles/cencora-announces-date-time-third-203000029.html",
+   "published_unix": 1782937800,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-19T08:03:42"
+  },
+  {
+   "uuid": "27139779-3adc-3138-8287-9b742a9685f9",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC Corporation",
+   "title": "FMC shares surge after Tessenderlo agrees to acquire 20% stake (FMC)",
+   "publisher": "InvestorsHub",
+   "link": "https://finance.yahoo.com/m/27139779-3adc-3138-8287-9b742a9685f9/fmc-shares-surge-after.html",
+   "published_unix": 1782915031,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-19T08:03:42"
+  },
+  {
+   "uuid": "ea2979ec-116c-326d-98dc-58a5cf72c45f",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC Corporation",
+   "title": "FMC to Sell $400 Million of Common to Tessenderlo Group at $13.30 Each",
    "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/mizuho-adjusts-price-target-universal-100553929.html",
-   "published_unix": 1783937153,
-   "captured_at": "2026-07-13T13:31:38"
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-sell-400-million-common-074535663.html",
+   "published_unix": 1782891935,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-19T08:03:42"
   },
   {
-   "uuid": "03ac1a60-d423-36bf-bf33-ae17e09ed1d3",
+   "uuid": "05a04ff1-11eb-3930-a668-09f58259abec",
    "tickers": [
-    "UHS"
+    "FMC"
    ],
-   "company": "UNIVERSAL HEALTH SERVICES INC",
-   "title": "Wells Fargo Adjusts PT on Universal Health Services to $166 From $165, Maintains Equalweight Rating",
+   "company": "FMC Corporation",
+   "title": "FMC Corporation Reaches Agreement for $400 Million Minority Equity Investment from Tessenderlo Group",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-corporation-reaches-agreement-400-020500932.html",
+   "published_unix": 1782871500,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-19T08:03:42"
+  },
+  {
+   "uuid": "0fa97d01-eaf7-3c01-9910-88f6fc1bdf2f",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark Seen Delivering Strong Fiscal Q3 Results, Oppenheimer Says",
    "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/wells-fargo-adjusts-pt-universal-100546035.html",
-   "published_unix": 1783937146,
-   "captured_at": "2026-07-13T13:31:38"
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-seen-delivering-strong-fiscal-155608247.html",
+   "published_unix": 1782748568,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-19T08:03:41"
   },
   {
-   "uuid": "4e647aef-631c-328a-a41a-80bf09f00d52",
+   "uuid": "51db6467-becb-3965-a4bf-510cf4447e2b",
    "tickers": [
-    "MRK"
+    "ARMK"
    ],
-   "company": "Merck & Co., Inc.",
-   "title": "SLS Vs MLTX: Retail Traders Race To Pick Merck\u2019s Next Biotech Buyout As Keytruda\u2019s $31.7B Patent Cliff Nears",
-   "publisher": "Stocktwits",
-   "link": "https://finance.yahoo.com/m/4e647aef-631c-328a-a41a-80bf09f00d52/sls-vs-mltx%3A-retail-traders.html",
-   "published_unix": 1783910910,
-   "captured_at": "2026-07-13T13:32:35"
+   "company": "Aramark",
+   "title": "Aramark Poised for Solid Third Quarter Amid Revenue Outperformance, Oppenheimer Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-poised-solid-third-quarter-151110803.html",
+   "published_unix": 1782745870,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-19T08:03:41"
   },
   {
-   "uuid": "f9ba20ee-52b3-36a2-9599-34cc9564a65e",
-   "tickers": [
-    "MRK"
-   ],
-   "company": "Merck & Co., Inc.",
-   "title": "Nasdaq, S&P 500, Dow Futures Fall After Trump Directs Strikes \u2018To Hold Iranian Forces Accountable\u2019: NVDA, SLS, MRK, SKHYV, QS Stocks In Focus",
-   "publisher": "Stocktwits",
-   "link": "https://finance.yahoo.com/m/f9ba20ee-52b3-36a2-9599-34cc9564a65e/nasdaq%2C-s%26p-500%2C-dow-futures.html",
-   "published_unix": 1783906437,
-   "captured_at": "2026-07-13T13:32:35"
+   "uuid": "e14e4a4b73e203e992c15935268496b8d42db5d2",
+   "tickers": [],
+   "company": "Franklin Biolabs",
+   "title": "Franklin Biolabs Achieves CLIA Certification for AAV NAb Testing",
+   "publisher": "Franklin Biolabs",
+   "link": "https://franklinbio.com/franklin-biolabs-achieves-clia-certification-for-aav-nab-testing/",
+   "published_unix": 1782280067,
+   "source_type": "rss",
+   "captured_at": "2026-07-19T08:03:46"
+  },
+  {
+   "uuid": "2ac2622fee65bc9c294b36510a6a2b66347ddc4a",
+   "tickers": [],
+   "company": "PJM Interconnection",
+   "title": "PJM Announces Retirement of Craig Glazer",
+   "publisher": "PR Newswire",
+   "link": "https://www.prnewswire.com/news-releases/pjm-announces-retirement-of-craig-glazer-302808092.html",
+   "published_unix": 1782234540,
+   "source_type": "wire",
+   "captured_at": "2026-07-19T08:03:46"
   }
  ]
 }
