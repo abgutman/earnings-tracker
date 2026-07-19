@@ -1,36 +1,35 @@
 #!/usr/bin/env python3
-"""3-day hits digest for the local-company news feed.
+"""Unsourced-company signal monitor (3-day cadence).
 
-Runs every ~3 days (GitHub Actions). Emails ONLY Av, and ONLY when there's
-something to say:
-  - one or more tracked companies got a new item in the last 3 days (a "hit"), OR
-  - the feed looks stale (nothing new anywhere in >14 days — a break signal).
-No hits + healthy feed => no email (no empty digests).
-
-The email also lists the companies we could NOT find a source for (the
-watchlist), so they stay visible during this one-month trial.
+For the companies we WANT to track but currently can't find a source for
+(roster: active:false, no sources), re-probe every ~3 days:
+  - Yahoo Finance search by name (relevance-filtered — catches a company that
+    IPOs / becomes indexed / gets real coverage), and
+  - a PR Newswire per-company page guessed from the name (catches a wire feed
+    appearing).
+Email Av — and ONLY Av — when one or more of these shows recent signal, so we
+know to go wire it into the feed. If nothing shows signal, no email.
 
 --live actually sends; without it, logs what it would send.
-
 Trial: stood up 2026-07-19, revisit ~2026-08-19.
 """
-import json
+import re
 import sys
 import time
+import urllib.parse
 from datetime import datetime, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-sys.path.insert(1, str(Path(__file__).resolve().parents[2]))  # repo root fallback (dev tree)
+sys.path.insert(1, str(Path(__file__).resolve().parents[2]))  # repo-root fallback (dev tree)
 from email_utils import send_email
+from poll_news_feed import (fetch_json, _relevant, EXCLUDED_PUBLISHERS,
+                            _curl, PRN_CARD, _clean, _parse_prn_date)
+import json
 
 HERE = Path(__file__).parent
-ED = HERE / "earnings_data"
-FEED_FILE = ED / "news_feed.json"
-ROSTER_FILE = ED / "local_roster.json"
-
-WINDOW_DAYS = 3
-STALE_DAYS = 14
+ROSTER_FILE = HERE / "earnings_data" / "local_roster.json"
+SIGNAL_DAYS = 21          # only count recent activity as "signal"
 TO = "agutman@inquirer.com"
 
 
@@ -39,95 +38,103 @@ def log(msg):
 
 
 def _fmt(unix):
-    if not unix:
-        return ""
-    return datetime.fromtimestamp(unix, tz=timezone.utc).astimezone(
-        timezone.utc).strftime("%b %-d")
+    return datetime.fromtimestamp(unix, tz=timezone.utc).strftime("%b %-d") if unix else ""
 
 
-def build():
-    feed = json.loads(FEED_FILE.read_text())
-    roster = json.loads(ROSTER_FILE.read_text())
-    items = feed.get("items", [])
-    now = time.time()
-    cutoff = now - WINDOW_DAYS * 86400
-
-    # hits: items published within the window, grouped by company
-    hits = {}
-    for it in items:
-        if it.get("published_unix", 0) >= cutoff:
-            hits.setdefault(it["company"], []).append(it)
-    for co in hits:
-        hits[co].sort(key=lambda x: x.get("published_unix", 0), reverse=True)
-
-    newest = max((it.get("published_unix", 0) for it in items), default=0)
-    stale = newest and (now - newest) > STALE_DAYS * 86400
-
-    # watchlist: roster companies we couldn't find a source for (active:false, no
-    # sources) — excluding deliberate drops (e.g. Philadelphia Magazine, a media
-    # outlet) which we DID find but chose not to track.
-    watch = [e["name"] for e in roster.get("entities", [])
-             if not e.get("active") and not e.get("sources")
-             and not (e.get("note", "").startswith("EXCLUDED"))]
-
-    return hits, stale, newest, watch, len(items)
+def _slug(name):
+    s = name.lower().replace("&", "and")
+    return re.sub(r"[^a-z0-9]+", "-", s).strip("-")
 
 
-def render(hits, stale, newest, watch, total):
-    n_hit_items = sum(len(v) for v in hits.values())
-    head_bg = "#8e1600" if stale else "#1a1a2e"
-    banner = ("⚠ Feed may be stale — nothing new in the last "
-              f"{STALE_DAYS}+ days. Check the workflow." if stale else
-              f"{n_hit_items} new item(s) across {len(hits)} compan(y/ies) in the last {WINDOW_DAYS} days.")
+def probe_yahoo(name, aliases, cutoff):
+    q = urllib.parse.quote(name)
+    data = fetch_json(f"https://query1.finance.yahoo.com/v1/finance/search?q={q}&newsCount=15&quotesCount=3")
+    if not data:
+        return []
+    names = [name] + aliases
+    out = []
+    for it in data.get("news", []):
+        title = it.get("title", "")
+        if not title or it.get("publisher", "") in EXCLUDED_PUBLISHERS:
+            continue
+        if it.get("providerPublishTime", 0) < cutoff:
+            continue
+        if _relevant(title, "", names):   # no ticker — match on name only
+            out.append((title, it.get("publisher", ""), it.get("link", ""), it.get("providerPublishTime", 0)))
+    return out
 
-    rows = ""
-    for co in sorted(hits, key=lambda c: -max(i["published_unix"] for i in hits[c])):
-        lis = "".join(
-            f'<li style="margin:4px 0;"><a href="{it.get("link","")}" '
-            f'style="color:#1a5276;text-decoration:none;">{it.get("title","")}</a> '
-            f'<span style="color:#888;font-size:12px;">— {it.get("publisher","")}, {_fmt(it.get("published_unix"))}</span></li>'
-            for it in hits[co])
-        rows += (f'<div style="margin:14px 0;"><div style="font-weight:700;color:#0a1628;">{co}</div>'
-                 f'<ul style="margin:6px 0 0;padding-left:20px;">{lis}</ul></div>')
-    if not hits:
-        rows = '<p style="color:#666;">No tracked company had a new item in the last 3 days.</p>'
 
-    watch_html = ", ".join(watch)
-    return f"""<html><body style="font-family:-apple-system,Helvetica,Arial,sans-serif;color:#1a1a1a;max-width:640px;">
-<div style="background:{head_bg};color:#fff;padding:16px 20px;border-radius:8px 8px 0 0;">
-  <div style="font-size:12px;letter-spacing:.5px;opacity:.8;">LOCAL COMPANY NEWS · 3-DAY DIGEST</div>
-  <div style="font-size:16px;font-weight:700;margin-top:4px;">{banner}</div>
-</div>
-<div style="padding:18px 20px;border:1px solid #e5e7eb;border-top:none;border-radius:0 0 8px 8px;">
-  {rows}
-  <div style="margin-top:22px;padding-top:14px;border-top:1px solid #eee;font-size:12.5px;color:#555;">
-    <b>Still no source found ({len(watch)})</b> — companies in the roster we couldn't wire to a feed:<br>
-    <span style="color:#777;">{watch_html}</span>
-  </div>
-  <div style="margin-top:16px;font-size:11.5px;color:#999;">
-    Feed: {total} items in the 30-day window · newest {_fmt(newest)} ·
-    <a href="https://abgutman.github.io/earnings-tracker/news_feed.html" style="color:#1a5276;">open the feed</a><br>
-    Press releases are companies' own announcements — verify against source material. One-month trial.
-  </div>
-</div></body></html>"""
+def probe_prn(name, cutoff):
+    url = f"https://www.prnewswire.com/news/{_slug(name)}/"
+    html = _curl(url)
+    if not html:
+        return None
+    recent = [(_clean(m.group("title")), _parse_prn_date(m.group("date")))
+              for m in PRN_CARD.finditer(html)]
+    recent = [(t, d) for t, d in recent if t and d >= cutoff]
+    if recent:
+        recent.sort(key=lambda x: x[1], reverse=True)
+        return {"url": url, "count": len(recent), "latest": recent[0]}
+    return None
 
 
 def main():
     live = "--live" in sys.argv
-    hits, stale, newest, watch, total = build()
-    if not hits and not stale:
-        log(f"No hits in {WINDOW_DAYS}d and feed healthy (newest {_fmt(newest)}) — no email.")
+    roster = json.loads(ROSTER_FILE.read_text())
+    targets = [e for e in roster.get("entities", [])
+               if not e.get("active") and not e.get("sources")
+               and not e.get("note", "").startswith("EXCLUDED")]
+    cutoff = time.time() - SIGNAL_DAYS * 86400
+    log(f"Probing {len(targets)} unsourced companies for signal (last {SIGNAL_DAYS}d)")
+
+    signals = []
+    for e in targets:
+        name = e["name"]
+        y = probe_yahoo(name, e.get("aliases", []), cutoff)
+        time.sleep(0.2)
+        p = probe_prn(name, cutoff)
+        time.sleep(0.2)
+        if y or p:
+            signals.append({"name": name, "yahoo": y, "prn": p})
+            log(f"  SIGNAL: {name}  yahoo={len(y)} prn={p['count'] if p else 0}")
+
+    if not signals:
+        log("No signal for any unsourced company — no email.")
         return
-    subject = ("⚠ Local news feed may be stale" if stale
-               else f"Local news: {sum(len(v) for v in hits.values())} new item(s), "
-                    f"{len(hits)} compan(y/ies) — 3-day digest")
-    body = render(hits, stale, newest, watch, total)
+
+    rows = ""
+    for s in signals:
+        bits = []
+        if s["prn"]:
+            t, d = s["prn"]["latest"]
+            bits.append(f'<div style="margin:3px 0;">PR Newswire page found (<a href="{s["prn"]["url"]}" '
+                        f'style="color:#1a5276;">{s["prn"]["count"]} recent</a>) — latest: '
+                        f'"{t}" ({_fmt(d)})</div>')
+        for (t, pub, link, ts) in s["yahoo"][:3]:
+            bits.append(f'<div style="margin:3px 0;">Yahoo: <a href="{link}" style="color:#1a5276;">{t}</a> '
+                        f'<span style="color:#888;font-size:12px;">— {pub}, {_fmt(ts)}</span></div>')
+        rows += (f'<div style="margin:14px 0;"><div style="font-weight:700;color:#0a1628;">{s["name"]}</div>'
+                 f'{"".join(bits)}</div>')
+
+    body = f"""<html><body style="font-family:-apple-system,Helvetica,Arial,sans-serif;color:#1a1a1a;max-width:640px;">
+<div style="background:#1a5c3a;color:#fff;padding:16px 20px;border-radius:8px 8px 0 0;">
+  <div style="font-size:12px;letter-spacing:.5px;opacity:.8;">LOCAL FEED · SOURCE-WATCH (every 3 days)</div>
+  <div style="font-size:16px;font-weight:700;margin-top:4px;">
+    Signal for {len(signals)} company(ies) we want to track but couldn't source — consider wiring them in.</div>
+</div>
+<div style="padding:18px 20px;border:1px solid #e5e7eb;border-top:none;border-radius:0 0 8px 8px;">
+  {rows}
+  <div style="margin-top:18px;font-size:11.5px;color:#999;">
+    These are roster companies with no source yet; a hit here means one just became findable via Yahoo or PR Newswire.
+    Verify against source material before adding. One-month trial.
+  </div>
+</div></body></html>"""
+    subject = f"Source-watch: signal for {len(signals)} untracked compan(y/ies)"
     if live:
         ok = send_email(subject, body, log_fn=log, to=TO)
         log(f"sent={ok} to {TO}: {subject}")
     else:
         log(f"[dry-run] would send to {TO}: {subject}")
-        log(f"  hits={ {k: len(v) for k, v in hits.items()} } stale={stale} watch={len(watch)}")
 
 
 if __name__ == "__main__":

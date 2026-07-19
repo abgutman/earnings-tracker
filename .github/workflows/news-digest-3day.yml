@@ -15,7 +15,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Send 3-day hits digest (to Av only)
+      - name: Install deps
+        run: pip install curl-cffi feedparser
+      - name: Source-watch — probe unsourced companies, email Av on signal
         env:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
