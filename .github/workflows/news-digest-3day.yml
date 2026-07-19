@@ -1,0 +1,22 @@
+name: 3-day news digest
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Every 3rd day of the month at 08:41 UTC = ~04:41 ET — deliberately off-peak
+    # and clear of the other earnings-tracker crons (news feed, EDGAR, transcripts).
+    - cron: '41 8 */3 * *'
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Send 3-day hits digest (to Av only)
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python digest_3day.py --live
