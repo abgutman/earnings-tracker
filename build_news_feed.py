@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Render news_feed.html from news_feed.json.
 
-Social-media-style scrollable feed of Yahoo headlines for tracked Philadelphia
-companies, newest first."""
+Social-media-style scrollable feed of news + press releases for the
+Philadelphia-area companies in the local roster, newest first."""
 import json, html
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
@@ -12,6 +12,13 @@ ED = HERE / "earnings_data"
 FEED_FILE = ED / "news_feed.json"
 OUT = HERE / "news_feed.html"
 
+import sys, os
+# Prefer the auth_gate.py sitting next to this script (the BUSINESS gate,
+# biztools2026 / busybiz_auth) — this is a business page, not a court page.
+# The flat deploy repo has it locally; the dev tree gets a copy too. Fall back
+# to the repo root only if no local gate exists.
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 from auth_gate import inject_auth
 
 feed = json.loads(FEED_FILE.read_text()) if FEED_FILE.exists() else {"items": [], "generated_at": None}
@@ -75,18 +82,13 @@ def render_card(item):
 
 posts_html = "".join(render_card(it) for it in items)
 gen = feed.get("generated_at", "")
-try:
-    gen_dt = datetime.fromisoformat(gen.replace("Z", "+00:00")).astimezone(ET)
-    gen_display = gen_dt.strftime("%-I:%M %p ET")
-except Exception:
-    gen_display = "unknown"
-n_companies = len(set(t for it in items for t in it.get("tickers",[])))
+n_companies = len(set(it.get("company","") for it in items if it.get("company")))
 
 html_doc = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>Philly Business News Feed — Av's Tools</title>
+<title>Philly Companies — News & Press Releases</title>
 <style>
 * {{ box-sizing: border-box; }}
 body {{ font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif; margin: 0; background: #ecf0f3; color: #1a1a2e; }}
@@ -136,18 +138,18 @@ a.chip:hover {{ background: #d6e2f2; color: #1c3d5f; }}
 <body>
 <div class="feed-shell">
   <div class="feed-header">
-    <h1>Philly Business News</h1>
-    <p class="sub">Yahoo Finance headlines for the 100+ public companies HQ'd in the 8-county Philadelphia region. Last 7 days, newest first.</p>
+    <h1>Philly Companies — News &amp; Press Releases</h1>
+    <p class="sub">News and press releases for the Philadelphia-area companies we cover — from company wires (PR Newswire), newsrooms, RSS, and Yahoo Finance. Press releases are companies' own announcements; verify against the source material. Last 30 days, newest first.</p>
     <div class="counts">
-      <span><b id="shown-count">{len(items)}</b> / {len(items)} headlines</span>
-      <span><b>{n_companies}</b> companies in news</span>
-      <span>Refreshed hourly · last update {esc(gen_display)}</span>
+      <span><b id="shown-count">{len(items)}</b> / {len(items)} items</span>
+      <span><b>{n_companies}</b> companies</span>
+      <span>Refreshed hourly · last update {esc(gen[11:16] if gen else 'unknown')}</span>
     </div>
     <input id="search" class="search-box" type="search" autocomplete="off"
            placeholder="Search headlines, tickers, companies, publishers…">
   </div>
 
-  {posts_html if items else '<div class="empty">No news in the last 7 days.</div>'}
+  {posts_html if items else '<div class="empty">No news in the last 30 days.</div>'}
   <div class="no-match" id="no-match">No headlines match your search.</div>
 </div>
 <script>
