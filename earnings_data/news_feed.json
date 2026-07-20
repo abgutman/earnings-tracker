@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-07-20T16:01:23",
+ "generated_at": "2026-07-20T18:18:38",
  "items": [
+  {
+   "uuid": "dc3af169-ab7b-3a67-9162-790dc513059c",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Expands Xfinity Coverage in Florida, Georgia",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/technology/articles/comcast-expands-xfinity-coverage-florida-162712388.html",
+   "published_unix": 1784564832,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-20T18:18:18"
+  },
   {
    "uuid": "1c7fca84-d4a5-3141-a4cd-4a91c3419366",
    "tickers": [
