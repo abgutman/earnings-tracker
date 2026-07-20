@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-07-20T20:40:24",
+ "generated_at": "2026-07-20T22:12:39",
  "items": [
+  {
+   "uuid": "9d8cd79e-63ce-33a4-8993-ee4ef36a68ce",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Why \u2018The Odyssey\u2019 Box Office Success Isn\u2019t Lifting Comcast Stock",
+   "publisher": "Barrons.com",
+   "link": "https://finance.yahoo.com/m/9d8cd79e-63ce-33a4-8993-ee4ef36a68ce/why-%E2%80%98the-odyssey%E2%80%99-box-office.html",
+   "published_unix": 1784577900,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-20T22:12:16"
+  },
   {
    "uuid": "dc3af169-ab7b-3a67-9162-790dc513059c",
    "tickers": [
