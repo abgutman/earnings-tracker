@@ -69,14 +69,14 @@
   "captured_at": "2026-07-01T23:07:29"
  },
  "TSEOF": {
-  "release_date": "2026-07-31",
-  "call_date": null,
-  "call_time": null,
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/banco-ita-chile-schedules-second-224100771.html",
-  "source_title": "Banco Ita\u00fa Chile Schedules Second Quarter 2026 Financial Results Conference Call",
-  "source_publisher": "GlobeNewswire",
+  "release_date": null,
+  "call_date": "2026-07-21",
+  "call_time": "09:30 ET",
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/cementos-pacasmayo-announces-consolidated-results-233100848.html",
+  "source_title": "Cementos Pacasmayo S.A.A. Announces Consolidated Results for Second Quarter 2026",
+  "source_publisher": "Business Wire",
   "source_type": "yahoo_auto",
-  "captured_at": "2026-07-02T22:59:54"
+  "captured_at": "2026-07-20T23:43:33"
  },
  "UHS": {
   "release_date": "2026-07-27",
@@ -337,5 +337,25 @@
   "source_publisher": "Business Wire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-07-17T23:37:53"
+ },
+ "JJSF": {
+  "release_date": "2026-08-05",
+  "call_date": null,
+  "call_time": "10:00 ET",
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/j-j-snack-foods-schedules-203000632.html",
+  "source_title": "J & J SNACK FOODS SCHEDULES FISCAL 2026 THIRD QUARTER EARNINGS CONFERENCE CALL AND WEBCAST",
+  "source_publisher": "GlobeNewswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-07-20T23:43:06"
+ },
+ "TELA": {
+  "release_date": "2026-08-10",
+  "call_date": null,
+  "call_time": "16:30 ET",
+  "source_url": "https://finance.yahoo.com/healthcare/articles/tela-bio-announce-second-quarter-200500884.html",
+  "source_title": "TELA Bio to Announce Second Quarter 2026 Financial Results",
+  "source_publisher": "GlobeNewswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-07-20T23:43:25"
  }
 }

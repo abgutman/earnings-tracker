@@ -249,3 +249,16 @@
 [2026-07-17 23:37:54]   ✉ alert sent for RDN
 [2026-07-17 23:38:51] === Done. Captured 1 new save-the-dates, cleaned 0 past. ===
 
+[2026-07-20 23:42:42] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-07-20 23:42:42] Polling Yahoo for 106 companies
+[2026-07-20 23:43:06]   + JJSF: release=2026-08-05 call=None 10:00 ET
+[2026-07-20 23:43:06]     via: J & J SNACK FOODS SCHEDULES FISCAL 2026 THIRD QUARTER EARNINGS CONFERENCE CALL AND WEBCAST
+[2026-07-20 23:43:07]   ✉ alert sent for JJSF
+[2026-07-20 23:43:25]   + TELA: release=2026-08-10 call=None 16:30 ET
+[2026-07-20 23:43:25]     via: TELA Bio to Announce Second Quarter 2026 Financial Results
+[2026-07-20 23:43:25]   ✉ alert sent for TELA
+[2026-07-20 23:43:33]   + TSEOF: release=None call=2026-07-21 09:30 ET
+[2026-07-20 23:43:33]     via: Cementos Pacasmayo S.A.A. Announces Consolidated Results for Second Quarter 2026
+[2026-07-20 23:43:34]   ✉ alert sent for TSEOF
+[2026-07-20 23:43:41] === Done. Captured 3 new save-the-dates, cleaned 0 past. ===
+
