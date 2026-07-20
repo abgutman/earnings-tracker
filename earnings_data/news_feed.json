@@ -1,6 +1,58 @@
 {
- "generated_at": "2026-07-20T13:17:03",
+ "generated_at": "2026-07-20T16:01:23",
  "items": [
+  {
+   "uuid": "1c7fca84-d4a5-3141-a4cd-4a91c3419366",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast's Universal Pictures Nets $264.1 Million Global Opening for 'The Odyssey'",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-apos-universal-pictures-nets-151135982.html",
+   "published_unix": 1784560295,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-20T16:00:56"
+  },
+  {
+   "uuid": "c65c908d-0614-30c7-8f52-38723e666278",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Missouri American Water to Host Ribbon Cutting for Refurbished Elevated Storage Tank",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/missouri-american-water-host-ribbon-141100520.html",
+   "published_unix": 1784556660,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-20T16:00:59"
+  },
+  {
+   "uuid": "18e8b0e1-a83a-39a0-b348-021d8057dceb",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Xfinity Delivers Reliable, High-Speed Internet to Hancock and Glascock Counties, Georgia",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/articles/xfinity-delivers-reliable-high-speed-140000107.html",
+   "published_unix": 1784556000,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-20T16:00:56"
+  },
+  {
+   "uuid": "2dc2ed7e-e97d-3cc5-ad29-370ed808762a",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Joins Dialogue at 2026 NARUC Summer Policy Summit",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/economy/policy/articles/american-water-joins-dialogue-2026-133300674.html",
+   "published_unix": 1784554380,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-20T16:00:59"
+  },
   {
    "uuid": "2cd188b3-6b1f-3075-a996-a575091bab08",
    "tickers": [
