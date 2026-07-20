@@ -895,3 +895,13 @@
 [2026-07-20 20:09:35]   firehose: 10-Q feed — 22 entries parsed
 [2026-07-20 20:09:35]   firehose: 100 watched CIKs, 122 total feed entries
 [2026-07-20 20:09:35] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-07-20 22:18:00] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-07-20 22:18:20]   ★ NEW 8k_701 for SND (Smart Sand, Inc.) filed 2026-07-20
+[2026-07-20 22:18:20]     https://www.sec.gov/Archives/edgar/data/1529628/000152962826000089/snd-20260716.htm
+[2026-07-20 22:18:22]     ✉ alert sent (8k_701)
+[2026-07-20 22:18:22]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001529628.json'
+[2026-07-20 22:18:24]   ★ NEW 8k_701 for STIM (Neuronetics, Inc.) filed 2026-07-20
+[2026-07-20 22:18:24]     https://www.sec.gov/Archives/edgar/data/1227636/000119312526308921/d226320d8k.htm
+[2026-07-20 22:18:26]     ✉ alert sent (8k_701)
+[2026-07-20 22:18:26]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001227636.json'
+[2026-07-20 22:18:34] === EDGAR POLL complete. Fetched 100 companies, 2 new filings. ===
