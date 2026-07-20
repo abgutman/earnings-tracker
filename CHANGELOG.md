@@ -1,5 +1,15 @@
 # Earnings tracker changelog
 
+## 2026-07-19/20 — Local news feed: roster expansion, gate fix, and a source-watch monitor
+
+Follow-on work after the rebuild (below).
+
+- **Roster grew to 51 entities / 22 active.** Added Essential Utilities (WTRG, missed initially) and, after double-checking "unresolved" entities against PR Newswire/Yahoo: QVC Group, Spark Therapeutics, GEMMA Biotherapeutics, David's Bridal, TD Bank (US releases) via `wire_page`; Toll Brothers (TOL) and Brandywine Realty Trust (BDN) via `yahoo_search`. Rothman Orthopaedic Institute recategorized as an institution (inactive, companies-only scope). Verified-sourceless and left off: Susquehanna (PRN `/news/sig/` is a different company), PECO (Yahoo `PECO` = Phillips Edison).
+- **Business-gate fix.** `build_news_feed.py` now imports the local business `auth_gate` (`biztools2026`) instead of the repo-root court gate; a dev-built page had shipped with the wrong gate.
+- **"Tracked companies" disclosure** added at the top of `news_feed.html` (reads `local_roster.json`).
+- **3-day source-watch monitor** (`digest_3day.py` + `.github/workflows/news-digest-3day.yml`, cron `41 8 */3 * *`): re-probes the *unsourced* roster companies (Yahoo name search + guessed PR Newswire page + whitelisted full-text Google News) and emails Av **only** when one shows recent signal — i.e., a no-ticker firm became findable (Yahoo's news index is ticker-indexed, so full-text is the only way to reach them). Monitor-only, not the feed. One-month trial from 2026-07-19; revisit ~2026-08-19.
+- Reference: `ROSTER_DECISIONS.md` / `.pdf` document every company's tracked/not-tracked/in-tiers decision.
+
 ## 2026-07-19 — News feed rebuilt: local-company roster replaces the Yahoo ticker firehose
 
 ### What changed
