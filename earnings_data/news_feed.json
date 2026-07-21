@@ -1,6 +1,45 @@
 {
- "generated_at": "2026-07-21T03:38:13",
+ "generated_at": "2026-07-21T12:43:32",
  "items": [
+  {
+   "uuid": "48e6aff4-4eb6-3d0c-9b17-524be8026a58",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "BofA Securities Adjusts Cencora Price Target to $310 From $285",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-securities-adjusts-cencora-price-121722992.html",
+   "published_unix": 1784636242,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-21T12:43:14"
+  },
+  {
+   "uuid": "7f159103-5a69-3aa7-9d91-2f80af1354df",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC Corporation",
+   "title": "RBC Cuts Price Target on FMC to $12 From $14, Keeps Sector Perform Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-cuts-price-target-fmc-113517399.html",
+   "published_unix": 1784633717,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-21T12:43:14"
+  },
+  {
+   "uuid": "47afdd75-a13b-3bac-9bbf-38e3913be038",
+   "tickers": [
+    "WTRG"
+   ],
+   "company": "Essential Utilities",
+   "title": "Essential Utilities Expands Sure Splash Program, Promotes Safety Around Water with Nonprofit Partners",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/healthcare/articles/essential-utilities-expands-sure-splash-110000328.html",
+   "published_unix": 1784631600,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-21T12:43:16"
+  },
   {
    "uuid": "9d8cd79e-63ce-33a4-8993-ee4ef36a68ce",
    "tickers": [
