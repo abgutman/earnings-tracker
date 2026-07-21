@@ -941,3 +941,10 @@
 [2026-07-21 19:45:17] === EDGAR FIREHOSE complete. 0 new detections. ===
 [2026-07-21 19:56:05] === EDGAR POLL: scanning for new earnings filings (live=True) ===
 [2026-07-21 19:56:35] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
+[2026-07-21 21:20:20] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-07-21 21:20:20]   firehose: 8-K feed — 100 entries parsed
+[2026-07-21 21:20:20]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-07-21 21:20:20]   firehose: 8-K page 2 — 100 entries
+[2026-07-21 21:20:21]   firehose: 10-Q feed — 36 entries parsed
+[2026-07-21 21:20:21]   firehose: 100 watched CIKs, 236 total feed entries
+[2026-07-21 21:20:21] === EDGAR FIREHOSE complete. 0 new detections. ===
