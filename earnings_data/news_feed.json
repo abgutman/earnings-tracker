@@ -1,6 +1,45 @@
 {
- "generated_at": "2026-07-22T19:42:39",
+ "generated_at": "2026-07-22T21:21:57",
  "items": [
+  {
+   "uuid": "482f0a3a-53ee-305f-af8c-71f7b68ff842",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "The Big Sur Land Trust Awarded American Water Charitable Foundation Water and Environment Grant",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/big-sur-land-trust-awarded-205800050.html",
+   "published_unix": 1784753880,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-22T21:21:36"
+  },
+  {
+   "uuid": "6c3d1df3-4e9e-3f34-8d59-765ba62296e3",
+   "tickers": [
+    "BDN"
+   ],
+   "company": "Brandywine Realty Trust",
+   "title": "Brandywine Realty Trust: Q2 Earnings Snapshot",
+   "publisher": "Associated Press",
+   "link": "https://finance.yahoo.com/real-estate/articles/brandywine-realty-trust-q2-earnings-205231803.html",
+   "published_unix": 1784753551,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-22T21:21:57"
+  },
+  {
+   "uuid": "6d7e2266-61f3-320a-9438-875b8b613663",
+   "tickers": [
+    "BDN"
+   ],
+   "company": "Brandywine Realty Trust",
+   "title": "Brandywine Realty Trust Announces Second Quarter 2026 Results",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/brandywine-realty-trust-announces-second-200900755.html",
+   "published_unix": 1784750940,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-22T21:21:57"
+  },
   {
    "uuid": "6f2383af-129e-375a-9a76-2f72a038fb7c",
    "tickers": [
@@ -39,6 +78,58 @@
    "published_unix": 1784724374,
    "source_type": "yahoo",
    "captured_at": "2026-07-22T15:16:17"
+  },
+  {
+   "uuid": "e32f2057-1526-3260-86bd-509a67bab143",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "ARMK: Lowering target price to $59.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/e32f2057-1526-3260-86bd-509a67bab143/armk%3A-lowering-target-price.html",
+   "published_unix": 1784678400,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-22T21:21:34"
+  },
+  {
+   "uuid": "4eb5d038-3889-3877-90d7-649e6ea28239",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC Corporation",
+   "title": "FMC: Raising target price to $10.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/4eb5d038-3889-3877-90d7-649e6ea28239/fmc%3A-raising-target-price-to.html",
+   "published_unix": 1784678400,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-22T21:21:35"
+  },
+  {
+   "uuid": "0a89b26f-c66b-3c0b-bd92-8a75e2d571f1",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "FIVE: Raising target price to $214.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/0a89b26f-c66b-3c0b-bd92-8a75e2d571f1/five%3A-raising-target-price-to.html",
+   "published_unix": 1784678400,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-22T21:21:35"
+  },
+  {
+   "uuid": "c55e2c10-81e8-3fc9-975e-a864e6b6daae",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores",
+   "title": "BURL: Raising target price to $372.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/c55e2c10-81e8-3fc9-975e-a864e6b6daae/burl%3A-raising-target-price-to.html",
+   "published_unix": 1784678400,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-22T21:21:36"
   },
   {
    "uuid": "81ece098-b56a-3577-9897-68bef410c38a",
@@ -666,32 +757,6 @@
    "published_unix": 1782234540,
    "source_type": "wire",
    "captured_at": "2026-07-19T09:06:33"
-  },
-  {
-   "uuid": "65ca5d96-9deb-38c0-b59d-bd4eeb25a2d5",
-   "tickers": [
-    "WTRG"
-   ],
-   "company": "Essential Utilities",
-   "title": "Virginia Regulator Approves American Water-Essential Utilities Merger",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/virginia-regulator-approves-american-water-204203293.html",
-   "published_unix": 1782160923,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-19T09:06:25"
-  },
-  {
-   "uuid": "fee447ed-f617-345e-b1be-bc1b40ba495d",
-   "tickers": [
-    "WTRG"
-   ],
-   "company": "Essential Utilities",
-   "title": "American Water and Essential Utilities Proposed Merger Progresses with Approval from the Virginia State Corporation Commission",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/american-water-essential-utilities-proposed-201500373.html",
-   "published_unix": 1782159300,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-19T09:06:25"
   }
  ]
 }
