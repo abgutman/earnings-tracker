@@ -957,3 +957,13 @@
 [2026-07-21 22:15:37] === EDGAR FIREHOSE complete. 0 new detections. ===
 [2026-07-21 23:44:35] === CHECK-10Q: scanning for pending 10-Q filings ===
 [2026-07-21 23:44:37] === CHECK-10Q complete. Checked 7, found 0, cleared 0 stale. ===
+[2026-07-22 15:18:38] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-07-22 15:18:54]   ★ NEW 8k_202 for HCSG (HEALTHCARE SERVICES GROUP INC) filed 2026-07-22
+[2026-07-22 15:18:54]     https://www.sec.gov/Archives/edgar/data/731012/000073101226000040/hcsg-20260722.htm
+[2026-07-22 15:18:55]     ✉ alert sent (8k_202)
+[2026-07-22 15:18:55]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0000731012.json'
+[2026-07-22 15:18:59]   ★ NEW 8k_202 for PKBK (PARKE BANCORP, INC.) filed 2026-07-22
+[2026-07-22 15:18:59]     https://www.sec.gov/Archives/edgar/data/1315399/000143774926024045/pkbk20260601_8k.htm
+[2026-07-22 15:19:01]     ✉ alert sent (8k_202)
+[2026-07-22 15:19:01]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001315399.json'
+[2026-07-22 15:19:13] === EDGAR POLL complete. Fetched 100 companies, 2 new filings. ===
