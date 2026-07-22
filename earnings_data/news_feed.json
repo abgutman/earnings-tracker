@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-22T21:21:57",
+ "generated_at": "2026-07-22T23:15:04",
  "items": [
   {
    "uuid": "482f0a3a-53ee-305f-af8c-71f7b68ff842",
@@ -26,6 +26,19 @@
    "published_unix": 1784753551,
    "source_type": "yahoo",
    "captured_at": "2026-07-22T21:21:57"
+  },
+  {
+   "uuid": "6c6a807b-7a20-3533-8da9-8fc08a516bde",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Earnings Will Take Focus Off \u2018The Odyssey\u2019 and NBCUniversal Spinoff",
+   "publisher": "Barrons.com",
+   "link": "https://finance.yahoo.com/m/6c6a807b-7a20-3533-8da9-8fc08a516bde/comcast-earnings-will-take.html",
+   "published_unix": 1784752200,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-22T23:14:50"
   },
   {
    "uuid": "6d7e2266-61f3-320a-9438-875b8b613663",
