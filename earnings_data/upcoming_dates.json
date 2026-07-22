@@ -68,16 +68,6 @@
   "source_type": "yahoo_auto",
   "captured_at": "2026-07-01T23:07:29"
  },
- "TSEOF": {
-  "release_date": null,
-  "call_date": "2026-07-21",
-  "call_time": "09:30 ET",
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/cementos-pacasmayo-announces-consolidated-results-233100848.html",
-  "source_title": "Cementos Pacasmayo S.A.A. Announces Consolidated Results for Second Quarter 2026",
-  "source_publisher": "Business Wire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-20T23:43:33"
- },
  "UHS": {
   "release_date": "2026-07-27",
   "call_date": "2026-07-28",
