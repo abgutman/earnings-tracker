@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-07-22T12:46:22",
+ "generated_at": "2026-07-22T15:16:37",
  "items": [
+  {
+   "uuid": "4c2b0069-cce8-3788-ab75-0684c4cef4c2",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Named to TIME's America's Best Companies Inaugural List",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/american-water-named-times-americas-144000442.html",
+   "published_unix": 1784731200,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-22T15:16:19"
+  },
+  {
+   "uuid": "18b072de-4986-3ae1-9954-c3ff491e776b",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "Baird Adjusts Price Target on Cencora to $340 From $337, Maintains Outperform Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/baird-adjusts-price-target-cencora-124614307.html",
+   "published_unix": 1784724374,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-22T15:16:17"
+  },
   {
    "uuid": "81ece098-b56a-3577-9897-68bef410c38a",
    "tickers": [
