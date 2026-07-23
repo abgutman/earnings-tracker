@@ -1,6 +1,45 @@
 {
- "generated_at": "2026-07-23T19:45:09",
+ "generated_at": "2026-07-23T21:20:25",
  "items": [
+  {
+   "uuid": "d728be90-024f-3a71-bcd4-4881ca0719bd",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces Grand Opening of New Design Studio in San Antonio, Texas",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-grand-opening-205600165.html",
+   "published_unix": 1784840160,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-23T21:20:25"
+  },
+  {
+   "uuid": "e67e1d39-4634-3796-846b-56db8f7ddf38",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Peacock streaming service finally turns a profit as Comcast moves to spin off NBCUniversal",
+   "publisher": "LA Times",
+   "link": "https://finance.yahoo.com/media-advertising/articles/peacock-streaming-finally-turns-profit-205346280.html",
+   "published_unix": 1784840026,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-23T21:20:05"
+  },
+  {
+   "uuid": "87e48d9c-1529-371c-8220-3fdc0928969e",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC Corporation",
+   "title": "FMC Corporation Declares Quarterly Dividend",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-corporation-declares-quarterly-dividend-203000862.html",
+   "published_unix": 1784838600,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-23T21:20:06"
+  },
   {
    "uuid": "05a0256f-a919-396d-8518-0701c4abd124",
    "tickers": [
