@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-07-23T21:20:25",
+ "generated_at": "2026-07-23T23:10:50",
  "items": [
+  {
+   "uuid": "bb5d3191-03c6-3774-a10d-79b075d00ec2",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "UNITE HERE Local 11 Sues State Prisons for Withholding Information About Embattled Prison Food Service Contractor Aramark",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/small-business/articles/unite-local-11-sues-state-220800650.html",
+   "published_unix": 1784844480,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-23T23:10:29"
+  },
   {
    "uuid": "d728be90-024f-3a71-bcd4-4881ca0719bd",
    "tickers": [
