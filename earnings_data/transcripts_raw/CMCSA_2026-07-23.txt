@@ -1,0 +1,1103 @@
+[00:00:00] investing in our best-in-class network and products,
+[00:00:03] and leaning further into wireless,
+[00:00:05] including through our free wireless offer.
+[00:00:08] We continue to see encouraging signs from these actions.
+[00:00:11] Broadband losses improved versus last year.
+[00:00:14] Customers continue to migrate to higher tier plans
+[00:00:17] with about 45% of our base, now on gig plus tiers.
+[00:00:21] Wireless net additions reached a new record,
+[00:00:23] and MPS improved again year over year,
+[00:00:26] reflecting better customer perception of our service experience.
+[00:00:30] At the same time, we have been transparent
+[00:00:32] that this pivot comes with investment.
+[00:00:35] We made several deliberate choices this year
+[00:00:37] to reposition the business for stronger, long-term performance.
+[00:00:41] We did not take a broadband rate increase,
+[00:00:43] and we have been migrating customers into simplified pricing
+[00:00:46] with lower, everyday price points.
+[00:00:48] At the same time, we continue to see strong adoption
+[00:00:51] of free wireless lines,
+[00:00:53] which is initially dilutive to broadband ARPU.
+[00:00:55] As a result, broadband ARPU declined 3.8% in the quarter.
+[00:00:59] Additionally, we continue to invest in the customer experience
+[00:01:03] and go-to-market capabilities needed to support this broader shift,
+[00:01:06] which contributed to a 5.8% decline in connectivity
+[00:01:10] from platforms EBITDA.
+[00:01:12] These results are consistent with our remarks
+[00:01:15] on last quarter's earnings call,
+[00:01:17] where we previewed incremental pressure
+[00:01:19] on both ARPU and EBITDA growth.
+[00:01:21] At the same time, we indicated that trends
+[00:01:23] should improve beyond the second quarter
+[00:01:25] as we lack the initial go-to-market investments
+[00:01:28] and as free wireless lines convert into paying relationships
+[00:01:31] in greater volumes.
+[00:01:33] That remains our expectation,
+[00:01:35] and we expect modest improvements starting in the third quarter.
+[00:01:38] Looking ahead, and as we have highlighted before,
+[00:01:41] consumers are increasingly choosing
+[00:01:43] converged broadband and wireless offerings.
+[00:01:46] We believe we have a strong position
+[00:01:48] to compete in convergence.
+[00:01:50] We have the largest converged footprint,
+[00:01:52] wireless broadband, and wireless ubiquitously,
+[00:01:55] and our product experience continues
+[00:01:57] to receive external validation.
+[00:01:59] OpenSignal has consistently ranked our Wi-Fi
+[00:02:02] number one in our footprint,
+[00:02:04] and in its first U.S. converged experience report,
+[00:02:07] Xfinity ranked number one nationally
+[00:02:09] in two of three categories measured,
+[00:02:11] converged consistent quality,
+[00:02:13] which assesses reliability across the combined network,
+[00:02:16] and converged download speed.
+[00:02:18] This reinforces why convergence ARPU
+[00:02:21] is an important metric for how we think about running the business.
+[00:02:24] Broadband remains the anchor product,
+[00:02:26] but the value of the relationship expands
+[00:02:28] meaningfully when we add wireless.
+[00:02:30] At roughly $85, our convergence ARPU
+[00:02:33] remains well below levels
+[00:02:35] reported by telecom competitors,
+[00:02:37] which highlights the long runway
+[00:02:39] and opportunity we have ahead of us,
+[00:02:41] particularly as we stabilize broadband
+[00:02:43] and continue to scale wireless.
+[00:02:45] With that outline of strategic priorities,
+[00:02:48] let's get into more detail of the quarter starting with broadband.
+[00:02:51] Broadband subscriber losses
+[00:02:53] improved by 34,000 year-over-year
+[00:02:55] to a loss of 167,000.
+[00:02:58] That improvement reflects continued traction
+[00:03:00] from our new go-to-market strategy,
+[00:03:02] even as we continue to operate
+[00:03:04] in a highly competitive environment
+[00:03:06] across our footprint.
+[00:03:08] Broadband ARPU declined 3.8%.
+[00:03:10] As I said earlier, we expect to see
+[00:03:12] modest improvement as we anniversary
+[00:03:14] the launch of the go-to-market strategy
+[00:03:16] and as free wireless lines begin converting
+[00:03:18] into paid relationships
+[00:03:20] in greater volume as we exit this year.
+[00:03:23] Turning to convergence,
+[00:03:25] convergence revenue declined 3.2%
+[00:03:27] and convergence ARPU
+[00:03:29] declined 1.5%.
+[00:03:31] Reflecting the pressure on broadband revenue,
+[00:03:33] partially offset by 14% growth
+[00:03:35] in wireless service revenue.
+[00:03:37] Wireless had another very strong quarter.
+[00:03:40] We added 448,000 netlines.
+[00:03:43] That's our best quarter on record
+[00:03:45] with roughly half of our residential
+[00:03:47] post-paid phone connects coming from customers
+[00:03:49] taking a free line.
+[00:03:51] We are actively leaning into this opportunity.
+[00:03:54] The free line offer is doing what we intended.
+[00:03:56] It's building awareness, it's driving attachment,
+[00:03:59] and it's expanding the base of customers
+[00:04:01] we can convert into paying wireless relationships over time.
+[00:04:04] Most importantly, this is a product
+[00:04:06] that provides real value
+[00:04:08] across a range of customer segments.
+[00:04:10] We compete effectively in value-oriented segments
+[00:04:13] with substantial savings offered relative
+[00:04:15] to competitor offerings,
+[00:04:17] and we are also gaining traction
+[00:04:19] in the higher value segment of the wireless market.
+[00:04:21] In fact, premium unlimited plans
+[00:04:23] accounted for roughly 30%
+[00:04:25] of post-paid phone connects.
+[00:04:27] Demonstrating that we are now competing very effectively
+[00:04:29] in a segment of the market
+[00:04:31] that carries higher expectations
+[00:04:33] around network quality and data allotments
+[00:04:35] as well as handset availability and refreshment.
+[00:04:38] We ended the quarter with 10.2 million total lines,
+[00:04:41] representing 17% penetration
+[00:04:43] of our domestic residential broadband customer base,
+[00:04:46] but only 7% penetration
+[00:04:48] of the total wireless line opportunity in our footprint.
+[00:04:51] Looking ahead, as free wireless lines
+[00:04:53] come up for monetization,
+[00:04:55] we are managing those customers
+[00:04:57] with a clear lifecycle approach
+[00:04:59] focused on usage, engagement, retention,
+[00:05:01] and the overall product experience.
+[00:05:03] Early free line conversion cohorts
+[00:05:05] are tracking in line with our expectations,
+[00:05:08] and we continue to expect
+[00:05:10] a significant majority of these customers
+[00:05:12] to convert to paid relationships
+[00:05:14] as roll-offs accelerate in the second half of the year.
+[00:05:16] Over time,
+[00:05:18] that should provide a real tail end
+[00:05:20] to convergence revenue and ARPA growth.
+[00:05:22] Turning to business services,
+[00:05:24] revenue grew 3.7%
+[00:05:26] and EBITDA increased 5%.
+[00:05:28] Both benefited
+[00:05:30] from a non-recurring item related
+[00:05:32] to a long-term fiber-lease renewal.
+[00:05:34] Excluding that benefit,
+[00:05:36] line growth in both revenue and EBITDA
+[00:05:38] was just under 3%.
+[00:05:40] That's consistent with the trend
+[00:05:42] we have seen over the past year
+[00:05:44] after adjusting for the NITO acquisition
+[00:05:46] which we have now lapped.
+[00:05:48] Growth continues to be driven by strong momentum
+[00:05:50] in enterprise solutions
+[00:05:52] where we are seeing demand from larger customers
+[00:05:54] with more complex connectivity, security,
+[00:05:56] and managed services needs.
+[00:05:58] Importantly, the mixed shift
+[00:06:00] towards advanced solutions continues to scale.
+[00:06:02] Three years ago,
+[00:06:04] the number of connectivity we sold,
+[00:06:06] we sold about 20 cents of advanced solutions.
+[00:06:08] Today,
+[00:06:10] that figure is closer to 70 cents
+[00:06:12] underscoring the increasing value
+[00:06:14] we are delivering to customers.
+[00:06:16] At SMB, competition remains elevated
+[00:06:18] but we continue to drive ARPA growth
+[00:06:20] by deepening relationships
+[00:06:22] through a strong mix of advanced solutions.
+[00:06:24] We also recently launched
+[00:06:26] our T-Mobile MV&O
+[00:06:28] adding expanded business mobile capabilities
+[00:06:30] and another differentiated product
+[00:06:32] as we compete for business customers
+[00:06:34] across every segment of the market.
+[00:06:36] Moving to content and experiences,
+[00:06:38] there are a few items I'd like to highlight.
+[00:06:40] At theme parks,
+[00:06:42] revenue increased 3%
+[00:06:44] while EBITDA declined 5%.
+[00:06:46] The EBITDA decline was primarily driven
+[00:06:48] by continued pressure at our Osaka Park
+[00:06:50] where China-related travel restrictions
+[00:06:52] are still impacting attendance.
+[00:06:54] That pressure was partially offset
+[00:06:56] by growth at our U.S. parks.
+[00:06:58] In Orlando,
+[00:07:00] revenue in EBITDA grew
+[00:07:02] as we compared to the partial opening period of Epic
+[00:07:04] in last year's second quarter.
+[00:07:06] That said, growth in Orlando
+[00:07:08] came in below our expectations
+[00:07:10] as attendance began to soften in June
+[00:07:12] and has remained pressured into the third quarter.
+[00:07:14] And at Hollywood, results improved
+[00:07:16] as we began to lap the initial pressure
+[00:07:18] we experienced last year
+[00:07:20] that we do not expect a more meaningful improvement
+[00:07:22] until the new fast and furious roller coaster
+[00:07:24] opens later this year.
+[00:07:26] Turning to media,
+[00:07:28] we saw an important milestone
+[00:07:30] as Peacock reached profitability for the first time,
+[00:07:32] generating 189 million of EBITDA in the quarter.
+[00:07:36] This reflects the strategy
+[00:07:38] we have been executing for several years.
+[00:07:40] Building Peacock around a dual-revenue model,
+[00:07:42] supported by a broad content mix
+[00:07:44] across sports,
+[00:07:46] next-day MBC and Bravo,
+[00:07:48] film, originals, news, library,
+[00:07:50] and major events.
+[00:07:52] Peacock was also a primary driver
+[00:07:54] of overall media results
+[00:07:56] with media revenue increasing 25%,
+[00:07:58] and EBITDA increasing 4%,
+[00:08:00] even as we absorbed
+[00:08:02] first-year MBA rights costs.
+[00:08:04] Digging into Peacock specifically,
+[00:08:06] revenue increased 54%,
+[00:08:08] driven by strong growth
+[00:08:10] in both distribution and advertising revenue.
+[00:08:12] Distribution revenue grew over 50%
+[00:08:14] with paid subscribers
+[00:08:16] of 7 million year-over-year
+[00:08:18] and 2 million sequentially,
+[00:08:20] reaching 48 million.
+[00:08:22] And advertising revenue increased nearly 70%
+[00:08:24] fueled by multiple drivers
+[00:08:26] with notable call-outs, including
+[00:08:28] the simulcast of Telemundo's FIFA World Cup,
+[00:08:30] the NBA Playoffs,
+[00:08:32] and the latest season of Love Island.
+[00:08:34] At Studios, we had another strong quarter
+[00:08:36] with revenue increasing 25%,
+[00:08:38] and EBITDA increasing 141 million
+[00:08:40] year-over-year.
+[00:08:42] Results were driven by recent theatrical releases,
+[00:08:44] including the Super Mario Galaxy Movie,
+[00:08:46] Obsession,
+[00:08:48] and the International Distribution of Michael.
+[00:08:50] As always,
+[00:08:52] Studios will have some quarter-to-quarter
+[00:08:54] volatility based on theatrical release
+[00:08:56] timing and licensing activity.
+[00:08:58] But this quarter was another good example
+[00:09:00] of the breadth of the portfolio
+[00:09:02] with strength across franchise animation,
+[00:09:04] specialty titles,
+[00:09:06] filmmaker-driven projects,
+[00:09:08] and international distribution.
+[00:09:10] Now let me wrap up with free cashflow
+[00:09:12] and capital allocation.
+[00:09:14] In the second quarter, we generated
+[00:09:16] 4.6 billion of free cashflow,
+[00:09:18] underscoring the strength of our businesses
+[00:09:20] and making full investments that I've highlighted.
+[00:09:22] This quarter, we returned
+[00:09:24] 2.1 billion to shareholders,
+[00:09:26] including 900 million in share repurchases.
+[00:09:28] As we recently announced
+[00:09:30] on our separation call,
+[00:09:32] we did pause share repurchases as of July 1st
+[00:09:34] and expect to remain paused
+[00:09:36] through our separation.
+[00:09:38] Our priority is to ensure both businesses
+[00:09:40] are well-capitalized
+[00:09:42] with favorable investment-grade ratings
+[00:09:44] to provide both the financial foundation
+[00:09:46] to pursue their respective growth strategies.
+[00:09:48] Now I'll turn it over to Marcy,
+[00:09:50] who will moderate the questions we collected
+[00:09:52] from the analyst community in advance of today's call.
+[00:09:54] Marcy?
+[00:09:56] Thanks, Jason.
+[00:09:58] We're going to start with broadband.
+[00:10:00] The first question comes from John Hudlick
+[00:10:02] of UBS.
+[00:10:04] Can you discuss the competitive dynamics
+[00:10:06] in the broadband market?
+[00:10:08] Perfect, John. I appreciate the question.
+[00:10:10] Competition remains intense
+[00:10:12] and we are operating under the assumption
+[00:10:14] that the market will become increasingly competitive.
+[00:10:16] And that's through continued fiber
+[00:10:18] expansion, aggressiveness
+[00:10:20] where we'll remain and fix wireless.
+[00:10:22] And although not meaningful to us now,
+[00:10:24] satellite is emerging
+[00:10:26] as another competitor in that space.
+[00:10:28] We've also seen the promotional intensity
+[00:10:30] increase in some markets
+[00:10:32] and some of the behavior has been irrational.
+[00:10:34] But six months in,
+[00:10:36] so I'm really focused
+[00:10:38] on transforming the company
+[00:10:40] in a testament to the team,
+[00:10:42] we're doing a great job.
+[00:10:44] We're off to a great start,
+[00:10:46] we have a long way to go,
+[00:10:48] but foundationally nothing beats a wire
+[00:10:50] into the home with differentiated
+[00:10:52] reliable Wi-Fi and great customer
+[00:10:54] experience.
+[00:10:56] And our recent organizational changes
+[00:10:58] have streamlined our structure,
+[00:11:00] our national pricing and packaging
+[00:11:02] construct has simplified
+[00:11:04] our go-to-market approach
+[00:11:06] and we're more effectively
+[00:11:08] using our data and analytics
+[00:11:10] to improve our effectiveness as well.
+[00:11:12] What has been enabled is greater agility,
+[00:11:14] it's improved our time to market
+[00:11:16] and our reaction time to competitive changes
+[00:11:18] and enable us to respond
+[00:11:20] in much more targeted ways
+[00:11:22] maintaining our discipline.
+[00:11:24] Most importantly though
+[00:11:26] we remain focused on the end state
+[00:11:28] and that's two multi-gig
+[00:11:30] scaled competitors
+[00:11:32] of our two multi-gig
+[00:11:34] scaled
+[00:11:36] pipes to the home
+[00:11:38] and we are one of those.
+[00:11:40] Additionally fixed wireless
+[00:11:42] and
+[00:11:44] satellite will remain
+[00:11:46] competitive as well in that space
+[00:11:48] but we feel real good
+[00:11:50] in that marketplace. Our converged offerings
+[00:11:52] provide a significant advantage
+[00:11:54] and we really like our challenger position
+[00:11:56] when it comes to that.
+[00:11:58] We recently crossed the 10 million line mark
+[00:12:00] and we also
+[00:12:02] had record-setting mobile line
+[00:12:04] that adds in the quarter.
+[00:12:06] With the 7% penetration overall
+[00:12:08] we feel really good. We have a converged ARPA
+[00:12:10] of
+[00:12:12] $85 which is significantly below the competition
+[00:12:14] and this provides a long runway
+[00:12:16] for us ahead.
+[00:12:18] We got a bunch
+[00:12:20] on satellite and specifically Starlink
+[00:12:22] so there's a two-parter
+[00:12:24] the first from Craig Moffat
+[00:12:26] at Moffat, Nathanson.
+[00:12:28] There is a robust debate as to whether
+[00:12:30] Starlink broadband is purely
+[00:12:32] a rural solution
+[00:12:34] or whether it's fixed wireless 2.0
+[00:12:36] and how you see it.
+[00:12:38] And then the second part comes from
+[00:12:40] Vikash at New Street.
+[00:12:42] There's been a lot of chatter
+[00:12:44] around Starlink exploring potential partnerships
+[00:12:46] with both broadband
+[00:12:48] and wireless operators. Is that something
+[00:12:50] you would be interested in?
+[00:12:52] So it's Jason. Let me take that one
+[00:12:54] and thanks Craig and Vikash for the questions.
+[00:12:56] I know this has certainly been topical
+[00:12:58] in particular since the IPO
+[00:13:00] in the last couple of months.
+[00:13:02] So on Starlink specifically
+[00:13:04] there's been a meaningful competitive factor
+[00:13:06] in our markets but saying that
+[00:13:08] we don't take any comfort in that.
+[00:13:10] We're not complacent.
+[00:13:12] We fully expect to see them
+[00:13:14] as more of a competitor over time.
+[00:13:16] I think if you look at their trajectory
+[00:13:18] in terms of capacity that they're bringing online
+[00:13:20] which I think everybody's pretty well
+[00:13:22] versed in at this point.
+[00:13:24] They're going to have significant capacity increases
+[00:13:26] in the coming years.
+[00:13:28] Particularly expect to see them more in rural
+[00:13:30] and underserved areas.
+[00:13:32] I think as we step back
+[00:13:34] how effective they are
+[00:13:36] or anyone else is in taking share from us
+[00:13:38] we have a good degree of control over.
+[00:13:40] There's a new competitive category.
+[00:13:42] It used to be fiber and now it's become
+[00:13:44] fixed wireless and in parts of our market
+[00:13:46] it will increasingly become satellite.
+[00:13:48] So the question is
+[00:13:50] how do we position for that?
+[00:13:52] How do we address any vulnerabilities
+[00:13:54] that we have from a competitive standpoint?
+[00:13:56] As we stack up the network product
+[00:13:58] and experience categories
+[00:14:00] that we've talked about before.
+[00:14:02] Let me start with network.
+[00:14:04] Our starting point is a terrific one on network.
+[00:14:06] Nothing beats a wire into the home
+[00:14:08] that's exactly what Steve just said.
+[00:14:10] That's firmly what we believe here.
+[00:14:12] We're going to be one of two wires into the home.
+[00:14:14] If you look at the long-term end state
+[00:14:16] our path on that wire is a multi-gig symmetrical path.
+[00:14:18] Our network is an active network
+[00:14:20] all the way into the home.
+[00:14:22] There's some debate about this as to whether
+[00:14:24] that's more costly to run.
+[00:14:26] I would tell you it's a little bit more costly to run.
+[00:14:28] We're a very open world
+[00:14:30] having active components from
+[00:14:32] head end to node to amps all the way
+[00:14:34] into customer premise equipment.
+[00:14:36] We actually think we'll be a big advantage
+[00:14:38] in the long-term.
+[00:14:40] So we're very comfortable with where we are
+[00:14:42] in network.
+[00:14:44] On product we consistently rate really strong
+[00:14:46] Wi-Fi reliability which is a core metric
+[00:14:48] around products.
+[00:14:50] How do your devices do once they're in the home
+[00:14:52] connected to a great network?
+[00:14:54] Wi-Fi reliability we're at the top
+[00:14:56] line of what we can go attach to our product
+[00:14:58] in the home. Exciting things coming down
+[00:15:00] down the map in a great position to sort of
+[00:15:02] build from.
+[00:15:04] The opening that we've seen for competitors
+[00:15:06] this is true largely a fixed wireless
+[00:15:08] has been around our experience.
+[00:15:10] I think we've been very transparent.
+[00:15:12] Steve this is sort of mission number one for him
+[00:15:14] is how do you go attack and address
+[00:15:16] any of the gaps we've seen on the customer
+[00:15:18] experience side that's been
+[00:15:20] lack of pricing transparency.
+[00:15:22] It's been customer service that hasn't been
+[00:15:24] and things that we've been just maniacal
+[00:15:26] in the last six to twelve months of being very
+[00:15:28] honest with ourselves about and getting
+[00:15:30] after. So I would step back and say
+[00:15:32] whether it's fixed wireless, fiber
+[00:15:34] satellite, all these are
+[00:15:36] in a sort of a newish competitive category.
+[00:15:38] The priority for us is the same
+[00:15:40] and that's how do you create an experience
+[00:15:42] sort of holistically across network, product
+[00:15:44] and customer service that best insulates
+[00:15:46] you. And that's fully within our control
+[00:15:48] it's why we're making the investments we're making.
+[00:15:50] Vakash I'll just get to your question
+[00:15:52] quickly on potential partnerships.
+[00:15:54] You mentioned Starlink I would also broaden
+[00:15:56] that one out though. We've got a long
+[00:15:58] history in the connectivity business of
+[00:16:00] partnerships whether that's multiple
+[00:16:02] MVNOs at this point, deep syndication
+[00:16:04] relationships across the cable industry
+[00:16:06] and that's a global cable industry
+[00:16:08] we've got companies that syndicate our products
+[00:16:10] over the globe. So a deep history here
+[00:16:12] so we'll certainly explore ways to
+[00:16:14] create value whether that's Starlink
+[00:16:16] or others where we can serve our
+[00:16:18] customers better and differently.
+[00:16:20] By the way, I'd also point out
+[00:16:22] we actually already do work with Starlink
+[00:16:24] we have a partnership within Comcast Business
+[00:16:26] combining our managed connectivity portfolio
+[00:16:28] with their satellite capabilities
+[00:16:30] for enterprise customers.
+[00:16:32] Great. We're going to move to
+[00:16:34] wireless. We've got a bunch of questions
+[00:16:36] we're going to take one from Peter Cipino
+[00:16:38] at Wolf Research.
+[00:16:40] Can you talk about your mobile strategy
+[00:16:42] as it relates to converting paid lines
+[00:16:44] and driving premium uptake
+[00:16:46] in the second half of 2026?
+[00:16:48] Got it. So wireless remains
+[00:16:50] a major growth opportunity for us
+[00:16:52] and as I mentioned about 7% penetration
+[00:16:54] to the overall addressable market
+[00:16:56] and we're well positioned to take advantage
+[00:16:58] of the opportunity. Our competitive
+[00:17:00] strengths include two strong
+[00:17:02] MVNOs, one residential
+[00:17:04] one in business and we're just activating
+[00:17:06] the business MVNO now.
+[00:17:08] We have 65 million converged passings
+[00:17:10] that enable one
+[00:17:12] gig plus speeds as well as a mobile
+[00:17:14] service. We have the nation's largest
+[00:17:16] WiFi network. We're currently off
+[00:17:18] loading about 90% of our traffic
+[00:17:20] and that along with our lower
+[00:17:22] acquisition cost has provided
+[00:17:24] a great cost structure and we've been
+[00:17:26] able to offer our customers
+[00:17:28] a great value proposition that
+[00:17:30] significantly undercuts the competition
+[00:17:32] and we've rallied the organization
+[00:17:34] around convergence and in turn
+[00:17:36] we have seen increased mobile attach
+[00:17:38] rate both to new customers as well
+[00:17:40] as to our base and the
+[00:17:42] free line offer strategy is working exceptionally
+[00:17:44] well. We're driving awareness
+[00:17:46] and we're enabling our customers to trial
+[00:17:48] the product. In parallel
+[00:17:50] we've significantly improved our customer
+[00:17:52] lifecycle management and that begins
+[00:17:54] with the activation process through
+[00:17:56] usage, through device
+[00:17:58] upgrades, additional
+[00:18:00] mobile line attach and premium
+[00:18:02] sell-in and what
+[00:18:04] we've seen is in this quarter about one
+[00:18:06] third of our mobile line connects came
+[00:18:08] from existing mobile customers adding
+[00:18:10] an additional line. Additionally
+[00:18:12] our premium mobile adoption continues
+[00:18:14] to strengthen and we're now
+[00:18:16] exceeding 30% sell-in
+[00:18:18] and as a result a significant majority
+[00:18:20] of our free line roll-off customers are
+[00:18:22] converting from free to paid as expected
+[00:18:24] and a few of those characteristics
+[00:18:26] of the customers' usage is consistent
+[00:18:28] as customers convert to paid
+[00:18:30] we see porting is comparable
+[00:18:32] to customers who paid from day one
+[00:18:34] and our overall churn rate in mobile
+[00:18:36] is down even though we're rolling
+[00:18:38] and accelerating the free line
+[00:18:40] roll-off. So the free line offering
+[00:18:42] is strengthening our customer relationships
+[00:18:44] supporting the long-term value
+[00:18:46] of our converged strategy.
+[00:18:48] Great, we got a bunch
+[00:18:50] on the CNP financials so we'll take
+[00:18:52] one from Steve Cajal of
+[00:18:54] Wells Fargo. Prior
+[00:18:56] communication has been for broadband
+[00:18:58] ARPU and CNP EBITDA
+[00:19:00] pressure to begin to abate by the
+[00:19:02] second half of this year. This is due
+[00:19:04] to comping both free mobile lines that
+[00:19:06] roll to pay as well as heavier marketing
+[00:19:08] spend. Is this still the outlook?
+[00:19:10] Yeah, thanks Steve.
+[00:19:12] This Jason, so let me just step
+[00:19:14] back and what led us down a path
+[00:19:16] that would have created EBITDA declines
+[00:19:18] as you saw this quarter just as a reminder
+[00:19:20] and then help that frame sort of the path forward.
+[00:19:22] A year ago
+[00:19:24] we obviously started to
+[00:19:26] prioritize new go-to-market
+[00:19:28] simple and transparent pricing along
+[00:19:30] with that we sort of made the determination
+[00:19:32] to be much more aggressive and wireless
+[00:19:34] both to build awareness in the value
+[00:19:36] segment and then in the higher end
+[00:19:38] with the premium unlimited
+[00:19:40] plans that Steve's mentioned.
+[00:19:42] Really getting after from a pricing perspective
+[00:19:44] that's caused obviously some delusion
+[00:19:46] on broadband ARPU.
+[00:19:48] Second was investing in both current
+[00:19:50] and future customer experience that Steve
+[00:19:52] mentioned and then doubling down
+[00:19:54] to ensure both our network and product offerings
+[00:19:56] remain best in class.
+[00:19:58] Those all created a little bit of pressure
+[00:20:00] obviously as you've seen stemming
+[00:20:02] from broadband ARPU and ultimately
+[00:20:04] into declining EBITDA
+[00:20:06] which you saw this quarter at 5.8%.
+[00:20:08] I think from here
+[00:20:10] if you use those same factors and say
+[00:20:12] what improves, what gives us confidence
+[00:20:14] in saying modest improvement in the third quarter
+[00:20:16] you take each one of those.
+[00:20:18] We decided last year obviously on free wireless
+[00:20:20] we're going to start to monetize those lines
+[00:20:22] and as Steve mentioned we're seeing really good progress
+[00:20:24] on conversion of free line
+[00:20:26] into pay line.
+[00:20:28] That was a year's journey with the customer
+[00:20:30] making sure they were activating
+[00:20:32] making sure usage was driven higher
+[00:20:34] and there was a seamless handoff
+[00:20:36] where a customer actually saw value
+[00:20:38] in the wireless plan.
+[00:20:40] I think we're early stages of having early cohorts
+[00:20:42] roll off into paying relationships
+[00:20:44] but we like what we're seeing
+[00:20:46] the vast majority are actually converting.
+[00:20:48] I think that's one thing that starts to create a tailwind.
+[00:20:50] The second thing is we're going to start to lap
+[00:20:52] some of the early investments in customer experience.
+[00:20:54] That's not to say we're all the way there
+[00:20:56] we're certainly not.
+[00:20:58] We've got more investments to make
+[00:21:00] those two things help out.
+[00:21:02] Getting away from quarter to quarter
+[00:21:04] our focus is how can we
+[00:21:06] return the business to growth
+[00:21:08] over the longer term and as we step back
+[00:21:10] and look at some of the broader secular factors
+[00:21:12] traffic demand on broadband
+[00:21:14] continues to grow at a rapid pace
+[00:21:16] the secular is sort of in your favor
+[00:21:18] wireless we continue to think
+[00:21:20] we have a big right to play as we said early on
+[00:21:22] 7% penetrated across our homes past
+[00:21:24] with an incredible product offering
+[00:21:26] that's a great value for the customer
+[00:21:28] that's the largest end market
+[00:21:30] of anything around us and we've got an incredible
+[00:21:32] right to play there and I just finally mentioned
+[00:21:34] business services which hasn't come up yet
+[00:21:36] but growing at a roughly
+[00:21:38] 3% rate with an enormous amount
+[00:21:40] of room to run in particular an enterprise
+[00:21:42] and being the fastest growing provider right now
+[00:21:44] all gives us optimism on the longer
+[00:21:46] term question about how you rebound to growth.
+[00:21:48] This is Brian let me just jump in speaking
+[00:21:50] of longer term if you look even longer
+[00:21:52] than just a couple quarters
+[00:21:54] what's actually happening from
+[00:21:56] consumer with their broadband
+[00:21:58] and what is likely to be
+[00:22:00] the most
+[00:22:02] likely scenario for future
+[00:22:04] I come away encouraged
+[00:22:06] I think we're going to be well positioned
+[00:22:08] this quarter
+[00:22:10] broadband downstream
+[00:22:12] traffic was up same as in the
+[00:22:14] past couple quarters about 10%
+[00:22:16] but the upstream
+[00:22:18] traffic was two and a half times that
+[00:22:20] volume growth
+[00:22:22] and that's being driven
+[00:22:24] I think by rapidly changing
+[00:22:26] AI queries
+[00:22:28] and if you roll that forward
+[00:22:30] and with the innovation
+[00:22:32] the speed of change and all the different
+[00:22:34] applications that are going to
+[00:22:36] bolt on to this new capability
+[00:22:38] in society
+[00:22:40] our roadmap which is baked into
+[00:22:42] our plans is to have multi-gig
+[00:22:44] symmetrical
+[00:22:46] low latency network which Steve
+[00:22:48] talked about with intelligence
+[00:22:50] in that network that improves
+[00:22:52] the experience and differentiates us
+[00:22:54] from every other network
+[00:22:56] and I think we will be one of the winners
+[00:22:58] in this new world being driven
+[00:23:00] by this rapid technological change
+[00:23:02] so our network is robust
+[00:23:04] and ready for the next generation
+[00:23:06] and that gives me great
+[00:23:08] confidence and excitement
+[00:23:10] now I'm going to move to C&E
+[00:23:12] we have a general
+[00:23:14] one from Jessica Reef Erlich
+[00:23:16] of Bank of America
+[00:23:18] you clearly have an extremely valuable
+[00:23:20] collection of assets at NBC
+[00:23:22] Universal at a time the media
+[00:23:24] industry continues to consolidate
+[00:23:26] as it competes against larger global platforms
+[00:23:28] do you believe NBCU
+[00:23:30] has sufficient scale to compete
+[00:23:32] and grow on its own or is part
+[00:23:34] of the rationale for separation
+[00:23:36] to give it the currency and flexibility
+[00:23:38] to participate in further consolidation
+[00:23:40] thanks Jessica it's Mike
+[00:23:42] I love the way you asked the question
+[00:23:44] or framed it we agree this is
+[00:23:46] an extremely valuable collection
+[00:23:48] and we think that separating
+[00:23:50] the business setting it up
+[00:23:52] on its own is going to give it
+[00:23:54] the focus and opportunity
+[00:23:56] and platform to invest
+[00:23:58] behind the growth opportunities
+[00:24:00] that it has in its own businesses
+[00:24:02] and the spaces around these
+[00:24:04] businesses that offer
+[00:24:06] growth and where the business
+[00:24:08] has the right to play
+[00:24:10] I think larger consolidation
+[00:24:12] and the implications of that
+[00:24:14] we've been competing against
+[00:24:16] all these players in these businesses
+[00:24:18] for many years
+[00:24:20] and when you really look at what the business
+[00:24:22] as it stands today has accomplished
+[00:24:24] I do believe that
+[00:24:26] NBCUniversal and Sky do have the
+[00:24:28] half in the relationships and the operational
+[00:24:30] capabilities to continue
+[00:24:32] to be a major player as an independent
+[00:24:34] as Brian talked about earlier
+[00:24:36] a player in the
+[00:24:38] media space that's in a great position
+[00:24:40] to partner with others
+[00:24:42] when you really go down to a little more
+[00:24:44] detail on why that is
+[00:24:46] it is the strength of this portfolio
+[00:24:48] we've got NBC and Telemundo
+[00:24:50] on the broadcast side
+[00:24:52] incredible reach provided by those assets
+[00:24:54] Peacock will
+[00:24:56] spend more time talking about that
+[00:24:58] but it's in six years as Brian said
+[00:25:00] has gotten to an incredible scale
+[00:25:02] at a pace that
+[00:25:04] we're very proud of
+[00:25:06] and very much dovetails with the
+[00:25:08] strategy for how we
+[00:25:10] build and program NBC itself
+[00:25:12] Bravo, NBC Sports
+[00:25:14] NBC News
+[00:25:16] Universal Film
+[00:25:18] we talked about the great success of this year to date
+[00:25:20] in the years of the recent past
+[00:25:22] along with the TV studios
+[00:25:24] and then finally parks
+[00:25:26] destinations and experiences
+[00:25:28] where we're one of two
+[00:25:30] of the scale and scope
+[00:25:32] in a great business
+[00:25:34] and finally Sky
+[00:25:36] and we really look at them
+[00:25:38] each of them are competing really well
+[00:25:40] and produce great results
+[00:25:42] NBC we talk about it all the time
+[00:25:44] reaches over 100 million households
+[00:25:46] per quarter with linear
+[00:25:48] and Peacock that's 80%
+[00:25:50] of the US
+[00:25:52] legendary February you remember
+[00:25:54] we reached 225 million Americans
+[00:25:56] across the Olympics
+[00:25:58] Super Bowl NBA All-Star
+[00:26:00] we're the most watched prime time broadcast network
+[00:26:02] for the 2025-2026 season
+[00:26:04] and on and on in film studios
+[00:26:06] and the like
+[00:26:08] we do definitely have the scale
+[00:26:10] that is needed
+[00:26:12] to compete
+[00:26:14] I'll go back to sports for a second
+[00:26:16] or go to sports there
+[00:26:18] I think it's a good evidence of what it means
+[00:26:20] to have the capability set that our teams have
+[00:26:22] which is just a microcosm
+[00:26:24] of what is true across
+[00:26:26] all of our premium content
+[00:26:28] creation not just sports
+[00:26:30] it's relationships with the creators
+[00:26:32] so in that case
+[00:26:34] our relationships with our leagues
+[00:26:36] our financial terms of our deals
+[00:26:38] we build very long-standing relationships
+[00:26:40] that are growing their audiences
+[00:26:42] elevate the presentation of their sports
+[00:26:44] for the long-term
+[00:26:46] and expand the value of their rights frankly
+[00:26:48] and then we do that through the world-class production
+[00:26:50] that we were known for
+[00:26:52] great distribution across both broadcast
+[00:26:54] and streaming and the ability
+[00:26:56] to reach fans at scale
+[00:26:58] we've got partnerships that go 40 years
+[00:27:00] with the Olympics
+[00:27:02] long-standing relationships with the Premier League
+[00:27:04] football the best show on television
+[00:27:06] et cetera et cetera
+[00:27:08] so I think the point is
+[00:27:10] that we do feel really good
+[00:27:12] about the business that we have
+[00:27:14] we do think that these assets
+[00:27:16] are incredibly valuable
+[00:27:18] we love the fact that they operate well together
+[00:27:20] studios creating IP that then feeds
+[00:27:22] Peacock and Parks
+[00:27:24] extending the reach of content
+[00:27:26] or the reach of Peacock
+[00:27:28] and NBC
+[00:27:30] and back and forth
+[00:27:32] in parts of this business
+[00:27:34] and I think one thing to add
+[00:27:36] that Brian may want to pile on
+[00:27:38] I think as an independent
+[00:27:40] we take all these great assets
+[00:27:42] and we are willing to partner with others
+[00:27:44] so other strategies are a little more
+[00:27:46] walled gardens
+[00:27:48] our approach is to build great businesses
+[00:27:50] that serve our own platforms
+[00:27:52] but look for opportunities
+[00:27:54] to partner bundle
+[00:27:56] and exhibit other people's IP
+[00:27:58] in our parks
+[00:28:00] and create IP in our studios
+[00:28:02] that go to other platforms
+[00:28:04] I think that's a good strategy for the collection
+[00:28:06] of assets we have and I think presents
+[00:28:08] a path for growth in this business
+[00:28:10] over time so we're excited about what we have ahead
+[00:28:12] look Mike, Brian here
+[00:28:14] I think you perfectly
+[00:28:16] covered why
+[00:28:18] there's so much excitement
+[00:28:20] both in the company and from
+[00:28:22] people to partner with us
+[00:28:24] and we're unique in being independent
+[00:28:26] we don't have any other agenda
+[00:28:28] other than to do the things you just laid out
+[00:28:30] perfectly which is partner
+[00:28:32] well and to bring to life
+[00:28:34] people's dreams and content
+[00:28:36] and sporting events and the like
+[00:28:38] and so we just came from one of the conferences
+[00:28:40] and there's just great ideas
+[00:28:42] and I'm excited about the road ahead
+[00:28:44] to expand the partnerships we've already got
+[00:28:48] I have a multi-parter on parks
+[00:28:50] this is a combination
+[00:28:52] of Mike Ng from Goldman Sachs
+[00:28:54] and Kutgun Moral from Evercore
+[00:28:56] can you expand on
+[00:28:58] the domestic softness you saw in June
+[00:29:00] what drove the shift
+[00:29:02] in consumer behavior and what read
+[00:29:04] you have on third quarter trends
+[00:29:06] how much of the softness was attendance
+[00:29:08] versus per cap spending
+[00:29:10] and can you separate the trends at Epic
+[00:29:12] from those of the other Orlando parks
+[00:29:14] and then a follow up from
+[00:29:16] John Hudlick of UBS
+[00:29:18] in your view how would you characterize
+[00:29:20] the underlying value drivers
+[00:29:22] in the overall parks business
+[00:29:24] sure thanks it's a lot there
+[00:29:26] thanks to all three of you
+[00:29:28] for the questions
+[00:29:30] so in Orlando
+[00:29:32] really the softness that
+[00:29:34] we're seeing affecting this quarter
+[00:29:36] that continues as we look into June
+[00:29:38] is essentially weakness
+[00:29:40] in attendance and that
+[00:29:42] we believe is driven by
+[00:29:44] some weakness in consumer
+[00:29:46] sentiment and higher travel costs
+[00:29:48] affecting demand
+[00:29:50] not something that we think
+[00:29:52] is a while
+[00:29:54] we see a continuing into the
+[00:29:56] third quarter not something that we
+[00:29:58] think is a permanent change
+[00:30:00] in the outlook at all because
+[00:30:02] we continue to see continued
+[00:30:04] consumer appeal and satisfaction
+[00:30:06] in all the things we look at
+[00:30:08] as it relates to
+[00:30:10] the excitement people have about
+[00:30:12] our parks and we've seen some of this
+[00:30:14] before so when you have a great product
+[00:30:16] like we have I would fully expect
+[00:30:18] that once economic conditions
+[00:30:20] and consumer demand
+[00:30:22] stabilizes for us that we'll
+[00:30:24] be getting that
+[00:30:26] attendance back and
+[00:30:28] thrilling our fans
+[00:30:30] in these parks
+[00:30:32] because they are such good businesses
+[00:30:34] and good experiences
+[00:30:36] and we're proud of the product
+[00:30:38] specifically on Epic
+[00:30:40] we continue to see it
+[00:30:42] doing what we wanted it to do
+[00:30:44] it's delivering against our expectations
+[00:30:46] guest response continues to be strong
+[00:30:48] it's driving higher per capita spend
+[00:30:50] and strengthening broader Orlando
+[00:30:52] as making it a true
+[00:30:54] multi destination resort so
+[00:30:56] we're not seeing anything that
+[00:30:58] causes us to feel at all
+[00:31:00] disappointed in the
+[00:31:02] performance of Epic
+[00:31:04] it's an overall
+[00:31:06] demand drop that's hitting
+[00:31:08] Orlando broadly so that's
+[00:31:10] the point on Epic
+[00:31:12] and then John to your question
+[00:31:14] we think that this is
+[00:31:16] I said in the earlier question
+[00:31:18] we're in a unique position with
+[00:31:20] the capabilities and experience
+[00:31:22] of the leadership team
+[00:31:24] of Mark Woodbury and others creating
+[00:31:26] these parks over the last
+[00:31:28] quarter century and more it is a long
+[00:31:30] cycle business
+[00:31:32] we're again one of two players
+[00:31:34] we feel very confident
+[00:31:36] that in the long term opportunity
+[00:31:38] and the fact that we have a great
+[00:31:40] roadmap over the long term to continue
+[00:31:42] investing behind this team
+[00:31:44] and in future
+[00:31:46] opportunities like the UK park
+[00:31:48] and other things that are down the road
+[00:31:50] for us so when we
+[00:31:52] look at that we're obviously looking at
+[00:31:54] long term expectations for demand
+[00:31:56] you know what consumers are looking for
+[00:31:58] and we learned from
+[00:32:00] you know the investments we've made
+[00:32:02] and the great
+[00:32:04] technological advances we've made
+[00:32:06] as we release new parks like Epic
+[00:32:08] we bring that into the future
+[00:32:10] and continue to build this business
+[00:32:12] very long cycle
+[00:32:14] but special business
+[00:32:16] for us and have a lot of confidence
+[00:32:18] in it
+[00:32:20] so with that I'll
+[00:32:22] turn it back to you Marcy
+[00:32:24] next is Peacock
+[00:32:26] this question is coming from
+[00:32:28] Cuckgun Moral of Evercore
+[00:32:30] Peacock reaching profitability
+[00:32:32] was an important milestone this quarter
+[00:32:34] does that represent a durable
+[00:32:36] profitability inflection
+[00:32:38] or could seasonality and event timing
+[00:32:40] in the second half
+[00:32:42] or in future periods
+[00:32:44] so thanks Cuckgun
+[00:32:46] I mean I think it is a milestone event
+[00:32:48] we feel great about
+[00:32:50] we talked about approaching profitability
+[00:32:52] this quarter and then for all the reasons
+[00:32:54] mentioned earlier it was strongly
+[00:32:56] profitable nearly 200 million of profits
+[00:32:58] in Peacock for the quarter
+[00:33:00] and it does reflect the progress we've made
+[00:33:02] in scaling the business we talked earlier about
+[00:33:04] adding the
+[00:33:06] subscribers in the earlier part
+[00:33:08] of the year with legendary February
+[00:33:10] and yet holding on and doing a good job
+[00:33:12] exposing people to other
+[00:33:14] other content and then
+[00:33:16] adding more as we hit the season
+[00:33:18] with World Cup until Amundo
+[00:33:20] Spanish Language
+[00:33:22] and Love Island
+[00:33:24] we think we're
+[00:33:26] achieving the scale and the service
+[00:33:28] that we hope to achieve
+[00:33:30] and good work by the team
+[00:33:32] over the last six years
+[00:33:34] you know the drivers we talked about
+[00:33:36] are pretty broad based
+[00:33:38] it was a strong content calendar
+[00:33:40] we had the playoffs NBA playoffs
+[00:33:42] first time great
+[00:33:44] postseason which we benefited from
+[00:33:46] again Love Island World Cup
+[00:33:48] next day NBC and Bravo
+[00:33:50] programming and the rest that's in there
+[00:33:52] helped really support
+[00:33:54] strong engagement really good subscriber
+[00:33:56] trends great advertising demand
+[00:33:58] and thus overall monetization
+[00:34:00] so I think that the factors at work
+[00:34:02] and managing the Peacock
+[00:34:04] business alongside the other
+[00:34:06] assets in the media segment which we've long
+[00:34:08] talked about as being the real objective
+[00:34:10] not Peacock profitability
+[00:34:12] unto itself are
+[00:34:14] paying off and as the Peacock
+[00:34:16] profitability itself we do expect it
+[00:34:18] to continue to improve on
+[00:34:20] an annual basis but
+[00:34:22] profitability is going to vary
+[00:34:24] quarter by quarter just based on the
+[00:34:26] timing of sports schedules
+[00:34:28] and other content hitting
+[00:34:30] one quarter versus another but I think
+[00:34:32] more of as an annual
+[00:34:34] think of it on an annual basis rather than
+[00:34:36] the lumpiness quarter by quarter
+[00:34:38] and it's been improving steadily
+[00:34:40] and we see that continuing to be the case
+[00:34:42] thanks for the question
+[00:34:44] great now this last question is
+[00:34:46] on the separation it comes from
+[00:34:48] Sebastian Opedi from JPMorgan
+[00:34:50] can you provide more detail
+[00:34:52] on target leverage and dividend
+[00:34:54] policy for each of the two standalone
+[00:34:56] companies and when investors
+[00:34:58] should expect an exchange ratio
+[00:35:00] for an updated capital return framework
+[00:35:02] Hey it's Jason thanks
+[00:35:04] Sebastian Opedi
+[00:35:06] nothing to add relative to what we said
+[00:35:08] three weeks ago upon announcement
+[00:35:10] which is we'll take the coming months
+[00:35:12] obviously to work through capital allocation
+[00:35:14] capital structure policies
+[00:35:16] but stepping back the clear goal here
+[00:35:18] was to create two scaled
+[00:35:20] and focused industry leaders
+[00:35:22] to put strong leadership in place
+[00:35:24] to create the two with strong investment
+[00:35:26] great balance sheets and really the ability
+[00:35:28] to grow out the agendas so nothing to add
+[00:35:30] from that
+[00:35:32] Mike I think I'll just wrap it up
+[00:35:34] thanks for the call today and just
+[00:35:36] going back to some of the points
+[00:35:38] Brian made at the beginning
+[00:35:40] we feel the separation
+[00:35:42] there's a lot of excitement about creating
+[00:35:44] two exceptional companies with the great
+[00:35:46] leadership teams that we have
+[00:35:48] across the two businesses
+[00:35:50] giving focus and agility to win
+[00:35:52] in markets that are changing fast
+[00:35:54] so that's how we feel sitting here
+[00:35:56] today as you look at the quarter
+[00:35:58] really proud of the progress we're making
+[00:36:00] on the strategic pivots and broadband
+[00:36:02] that Steve spoke about
+[00:36:04] it's gaining traction and we're happy there
+[00:36:06] quite happy with the significant growth
+[00:36:08] in wireless best quarter on record
+[00:36:10] as again Brian and Steve covered
+[00:36:12] and then Enterprise
+[00:36:14] again another star
+[00:36:16] in the connectivity business
+[00:36:18] that's really performing well for us
+[00:36:20] integrated media strategy I just talked about
+[00:36:22] mid-single-digit EBITDA growth
+[00:36:24] overall even with quarter
+[00:36:26] the last quarter of the first year
+[00:36:28] of the NBA and peacock continuing to scale
+[00:36:30] studios
+[00:36:32] an absolutely great year with Super Mario
+[00:36:34] Galaxy Minions and Munsters obsession
+[00:36:36] and of course Odyssey
+[00:36:38] and then finally parks
+[00:36:40] our view that the softness we're seeing
+[00:36:42] is not something that dims
+[00:36:44] our view of the long-term health of the business
+[00:36:46] so I think that's a good wrap up
+[00:36:48] of what we've seen this quarter
+[00:36:50] thanks everybody for calling in and we look forward to talking to you soon
+[00:36:52] thank you all for joining us
+[00:36:54] thank you that concludes the question
+[00:36:56] and session in today's conference call
+[00:36:58] a replay of the call will be available starting
+[00:37:00] at 11.30 a.m. eastern time today
+[00:37:02] on Comcast Invest Relations website
+[00:37:04] thank you for participating
+[00:37:06] you may all disconnect
+[00:37:22] you
+[00:37:52] you
+[00:38:22] you
+[00:38:52] you
+[00:39:22] you
+[00:39:52] you
+[00:40:22] you
+[00:40:52] you
+[00:41:22] you
+[00:41:52] you
+[00:42:22] you
+[00:42:52] you
+[00:43:22] you
+[00:43:52] you
+[00:44:22] you
+[00:44:52] you
