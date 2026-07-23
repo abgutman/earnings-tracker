@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-07-23T17:44:52",
+ "generated_at": "2026-07-23T19:45:09",
  "items": [
+  {
+   "uuid": "05a0256f-a919-396d-8518-0701c4abd124",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Goldman Sachs Trims Comcast Price Target to $25 From $26, Maintains Neutral Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-trims-comcast-price-185543300.html",
+   "published_unix": 1784832943,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-23T19:44:40"
+  },
+  {
+   "uuid": "1e62f94a-411a-3a9a-8dd8-0b653360947e",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces Opening of New Luxury Home Community and Award-Winning Model Home in Mapleton, Utah",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-opening-luxury-184500574.html",
+   "published_unix": 1784832300,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-23T19:45:09"
+  },
   {
    "uuid": "a76cee2f-3aa8-3a24-b30d-f469ee1502d0",
    "tickers": [
@@ -13,6 +39,19 @@
    "published_unix": 1784821021,
    "source_type": "yahoo",
    "captured_at": "2026-07-23T17:44:34"
+  },
+  {
+   "uuid": "7b5a4044-9c39-390e-8baf-56b1418a1f87",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast quarterly earnings beat as company advances NBCUniversal and Sky separation",
+   "publisher": "Proactive",
+   "link": "https://finance.yahoo.com/m/7b5a4044-9c39-390e-8baf-56b1418a1f87/comcast-quarterly-earnings.html",
+   "published_unix": 1784820300,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-23T19:44:40"
   },
   {
    "uuid": "5b8266be-acac-3d36-b464-f385bc848d49",
