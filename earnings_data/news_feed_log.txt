@@ -1270,3 +1270,30 @@
 [2026-07-23 15:23:49]   Toll Brothers [yahoo_search]: 6 fetched, 0 new
 [2026-07-23 15:23:49]   Brandywine Realty Trust [yahoo_search]: 4 fetched, 2 new
 [2026-07-23 15:23:49] === Done. 183 new items, 71 total in 720h window ===
+[2026-07-23 17:44:28] === Local news feed poll start ===
+[2026-07-23 17:44:28] 22 active entities
+[2026-07-23 17:44:29]   Comcast [yahoo_search]: 0 fetched, 0 new
+[2026-07-23 17:44:30]   Aramark [yahoo_search]: 0 fetched, 0 new
+[2026-07-23 17:44:32]   Cencora [yahoo_search]: 0 fetched, 0 new
+[2026-07-23 17:44:32]   FMC Corporation: ticker FMC did not resolve — skipping (avoids generic bucket)
+[2026-07-23 17:44:32]   FMC Corporation [yahoo_search]: 0 fetched, 0 new
+[2026-07-23 17:44:32]   Five Below: ticker FIVE did not resolve — skipping (avoids generic bucket)
+[2026-07-23 17:44:33]   Five Below [yahoo_search]: 0 fetched, 0 new
+[2026-07-23 17:44:33]   Campbell's [yahoo_search]: 1 fetched, 0 new
+[2026-07-23 17:44:34]   Burlington Stores [yahoo_search]: 1 fetched, 0 new
+[2026-07-23 17:44:34]   American Water [yahoo_search]: 8 fetched, 1 new
+[2026-07-23 17:44:34]   Essential Utilities [yahoo_search]: 5 fetched, 2 new
+[2026-07-23 17:44:36]   Independence Blue Cross [wire_page]: 25 fetched, 25 new
+[2026-07-23 17:44:37]   Vanguard [wire_page]: 6 fetched, 6 new
+[2026-07-23 17:44:39]   Wawa [wire_page]: 6 fetched, 6 new
+[2026-07-23 17:44:40]   Gopuff [wire_page]: 3 fetched, 3 new
+[2026-07-23 17:44:42]   PJM Interconnection [wire_page]: 25 fetched, 22 new
+[2026-07-23 17:44:43]   Franklin Biolabs [rss]: 10 fetched, 9 new
+[2026-07-23 17:44:44]   QVC Group [wire_page]: 25 fetched, 24 new
+[2026-07-23 17:44:46]   Spark Therapeutics [wire_page]: 22 fetched, 22 new
+[2026-07-23 17:44:48]   GEMMA Biotherapeutics [wire_page]: 9 fetched, 8 new
+[2026-07-23 17:44:49]   David's Bridal [wire_page]: 25 fetched, 25 new
+[2026-07-23 17:44:51]   TD Bank [wire_page]: 25 fetched, 25 new
+[2026-07-23 17:44:51]   Toll Brothers [yahoo_search]: 6 fetched, 0 new
+[2026-07-23 17:44:52]   Brandywine Realty Trust [yahoo_search]: 4 fetched, 2 new
+[2026-07-23 17:44:52] === Done. 180 new items, 71 total in 720h window ===

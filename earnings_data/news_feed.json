@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-07-23T15:23:49",
+ "generated_at": "2026-07-23T17:44:52",
  "items": [
+  {
+   "uuid": "a76cee2f-3aa8-3a24-b30d-f469ee1502d0",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Jefferies Adjusts Price Target on American Water Works to $128 From $134",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-adjusts-price-target-american-153701400.html",
+   "published_unix": 1784821021,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-23T17:44:34"
+  },
   {
    "uuid": "5b8266be-acac-3d36-b464-f385bc848d49",
    "tickers": [
@@ -901,17 +914,6 @@
    "link": "https://franklinbio.com/franklin-biolabs-achieves-clia-certification-for-aav-nab-testing/",
    "published_unix": 1782280067,
    "source_type": "rss",
-   "captured_at": "2026-07-19T09:06:33"
-  },
-  {
-   "uuid": "2ac2622fee65bc9c294b36510a6a2b66347ddc4a",
-   "tickers": [],
-   "company": "PJM Interconnection",
-   "title": "PJM Announces Retirement of Craig Glazer",
-   "publisher": "PR Newswire",
-   "link": "https://www.prnewswire.com/news-releases/pjm-announces-retirement-of-craig-glazer-302808092.html",
-   "published_unix": 1782234540,
-   "source_type": "wire",
    "captured_at": "2026-07-19T09:06:33"
   }
  ]
