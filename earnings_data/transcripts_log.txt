@@ -1708,3 +1708,29 @@
 [2026-07-23 17:04:02] No new transcripts found; transcripts.json unchanged
 [2026-07-23 17:04:02] === Done. 0 new transcript links found. ===
 
+[2026-07-23 20:40:24] === Fool transcript harvest start (dry_run=False) ===
+[2026-07-23 20:40:24] Loaded 122 tickers from expanded_companies.json
+[2026-07-23 20:40:24] Recent tickers (last filing within 14d): ['AWK', 'BDN', 'CMCSA', 'FSK', 'HCSG', 'HRMY', 'JNJ', 'PKBK', 'QNTO', 'QVCAQ', 'SEIC', 'SND', 'STIM', 'UVSP', 'WST']
+[2026-07-23 20:40:24] Seed backfill: all seeds already in state
+[2026-07-23 20:40:24] Fetching Fool transcript index: https://www.fool.com/earnings-call-transcripts/
+[2026-07-23 20:40:25]   Found 20 transcript links on index page
+[2026-07-23 20:40:25]   Fool index matched tickers: []
+[2026-07-23 20:40:25] Yahoo secondary search for 15 tickers: ['AWK', 'BDN', 'CMCSA', 'FSK', 'HCSG', 'HRMY', 'JNJ', 'PKBK', 'QNTO', 'QVCAQ', 'SEIC', 'SND', 'STIM', 'UVSP', 'WST']
+[2026-07-23 20:40:25]   MISS [Yahoo] AWK: no transcript items in feed
+[2026-07-23 20:40:26]   MISS [Yahoo] BDN: no transcript items in feed
+[2026-07-23 20:40:26]   MISS [Yahoo] CMCSA: no transcript items in feed
+[2026-07-23 20:40:27]   MISS [Yahoo] FSK: no transcript items in feed
+[2026-07-23 20:40:27]   MISS [Yahoo] HCSG: no transcript items in feed
+[2026-07-23 20:40:27]   MISS [Yahoo] HRMY: no transcript items in feed
+[2026-07-23 20:40:28]   MISS [Yahoo] JNJ: no transcript items in feed
+[2026-07-23 20:40:28]   MISS [Yahoo] PKBK: no transcript items in feed
+[2026-07-23 20:40:29]   MISS [Yahoo] QNTO: no transcript items in feed
+[2026-07-23 20:40:29]   MISS [Yahoo] QVCAQ: no transcript items in feed
+[2026-07-23 20:40:30]   MISS [Yahoo] SEIC: no transcript items in feed
+[2026-07-23 20:40:30]   MISS [Yahoo] SND: no transcript items in feed
+[2026-07-23 20:40:31]   MISS [Yahoo] STIM: no transcript items in feed
+[2026-07-23 20:40:32]   MISS [Yahoo] UVSP: no transcript items in feed
+[2026-07-23 20:40:33]   MISS [Yahoo] WST: no transcript items in feed
+[2026-07-23 20:40:33] No new transcripts found; transcripts.json unchanged
+[2026-07-23 20:40:33] === Done. 0 new transcript links found. ===
+
