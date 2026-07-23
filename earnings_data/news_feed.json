@@ -1,6 +1,97 @@
 {
- "generated_at": "2026-07-23T03:39:06",
+ "generated_at": "2026-07-23T12:48:31",
  "items": [
+  {
+   "uuid": "5143c327-a94a-3e57-934d-096d20a43f7d",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark Nexus\u2122 Selected by AI Data Center Colocation Leader to Provide Premium Hospitality Services to Workforce Communities",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/ai/articles/aramark-nexus-selected-ai-data-113000965.html",
+   "published_unix": 1784806200,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-23T12:48:12"
+  },
+  {
+   "uuid": "64618239-3da8-3aba-af09-b4066314a4d8",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Reports Lower Profit, Narrows Domestic Broadband-Subscriber Losses",
+   "publisher": "The Wall Street Journal",
+   "link": "https://finance.yahoo.com/m/64618239-3da8-3aba-af09-b4066314a4d8/comcast-reports-lower-profit%2C.html",
+   "published_unix": 1784803980,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-23T12:48:12"
+  },
+  {
+   "uuid": "033e1f2a-e08c-3ffe-a253-ef2c05254023",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Q2 Adjusted Earnings, Revenue Decline",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-q2-adjusted-earnings-revenue-101155683.html",
+   "published_unix": 1784801515,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-23T12:48:12"
+  },
+  {
+   "uuid": "590c6260-784f-3fda-bebc-651518f6e2fb",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast: Q2 Earnings Snapshot",
+   "publisher": "Associated Press",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-q2-earnings-snapshot-100953907.html",
+   "published_unix": 1784801393,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-23T12:48:12"
+  },
+  {
+   "uuid": "e9992036-b92d-3497-8dad-409aa8695b7a",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast's Peacock records first ever profit on World Cup, 'Love Island USA' boost",
+   "publisher": "Reuters",
+   "link": "https://finance.yahoo.com/media-advertising/articles/comcasts-peacock-records-first-ever-100803738.html",
+   "published_unix": 1784801283,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-23T12:48:12"
+  },
+  {
+   "uuid": "c1368975-6060-38d7-9a41-981d472fc314",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Declares Quarterly Dividend",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-declares-quarterly-dividend-100500332.html",
+   "published_unix": 1784801100,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-23T12:48:12"
+  },
+  {
+   "uuid": "485f0aeb-f06e-38d2-8cd7-22f0d452533b",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Analyst Report: Toll Brothers, Inc.",
+   "publisher": "Morningstar Research",
+   "link": "https://finance.yahoo.com/m/485f0aeb-f06e-38d2-8cd7-22f0d452533b/analyst-report%3A-toll.html",
+   "published_unix": 1784776897,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-23T12:48:31"
+  },
   {
    "uuid": "482f0a3a-53ee-305f-af8c-71f7b68ff842",
    "tickers": [
