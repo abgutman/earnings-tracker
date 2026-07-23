@@ -999,3 +999,17 @@
 [2026-07-22 22:29:34] === EDGAR FIREHOSE complete. 0 new detections. ===
 [2026-07-22 23:46:55] === CHECK-10Q: scanning for pending 10-Q filings ===
 [2026-07-22 23:46:57] === CHECK-10Q complete. Checked 10, found 0, cleared 0 stale. ===
+[2026-07-23 15:28:38] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-07-23 15:28:38]   ★ NEW 8k_202 for CMCSA (COMCAST CORP) filed 2026-07-23
+[2026-07-23 15:28:38]     https://www.sec.gov/Archives/edgar/data/1166691/000162828026049274/cmcsa-20260723.htm
+[2026-07-23 15:28:39]     ✉ alert sent (8k_202)
+[2026-07-23 15:28:39]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001166691.json'
+[2026-07-23 15:28:48]   ★ NEW 8k_202 for WST (WEST PHARMACEUTICAL SERVICES INC) filed 2026-07-23
+[2026-07-23 15:28:48]     https://www.sec.gov/Archives/edgar/data/105770/000010577026000097/wst-20260723.htm
+[2026-07-23 15:28:48]     ✉ alert sent (8k_202)
+[2026-07-23 15:28:48]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0000105770.json'
+[2026-07-23 15:28:55]   ★ NEW 8k_202 for UVSP (UNIVEST FINANCIAL Corp) filed 2026-07-23
+[2026-07-23 15:28:55]     https://www.sec.gov/Archives/edgar/data/102212/000010221226000033/uvsp-20260722.htm
+[2026-07-23 15:28:55]     ✉ alert sent (8k_202)
+[2026-07-23 15:28:55]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0000102212.json'
+[2026-07-23 15:29:09] === EDGAR POLL complete. Fetched 100 companies, 3 new filings. ===
