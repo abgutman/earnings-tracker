@@ -1,6 +1,110 @@
 {
- "generated_at": "2026-07-24T03:37:31",
+ "generated_at": "2026-07-24T12:44:39",
  "items": [
+  {
+   "uuid": "b7a5514e-279e-3992-9760-03ab8b7b1f71",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "RBC Cuts Price Target on Comcast to $26 From $27, Keeps Sector Perform Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-cuts-price-target-comcast-110110609.html",
+   "published_unix": 1784890870,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-24T12:44:26"
+  },
+  {
+   "uuid": "11cfc907-349c-3b1e-8a6a-66ef20cb7781",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Wells Fargo Adjusts Price Target on Comcast to $23 From $28, Maintains Underweight Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-adjusts-price-target-105433057.html",
+   "published_unix": 1784890473,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-24T12:44:26"
+  },
+  {
+   "uuid": "2a5f4cb8-861e-3164-a6da-1d7453fc052c",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Scotiabank Adjusts Price Target on Comcast to $29 From $32.75, Maintains Sector Perform Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/scotiabank-adjusts-price-target-comcast-105427388.html",
+   "published_unix": 1784890467,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-24T12:44:26"
+  },
+  {
+   "uuid": "f76750ff-a51d-36b4-bd20-d34afd50132b",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Evercore ISI Adjusts Price Target on Comcast to $30 From $36, Maintains Outperform Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/evercore-isi-adjusts-price-target-105421899.html",
+   "published_unix": 1784890461,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-24T12:44:26"
+  },
+  {
+   "uuid": "50d6856e-0f20-387e-8c00-49b24c004e6a",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "BNP Paribas Adjusts Price Target on Comcast to $21 From $22, Maintains Underperform Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-adjusts-price-target-101946642.html",
+   "published_unix": 1784888386,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-24T12:44:26"
+  },
+  {
+   "uuid": "b454bbc4-b6b3-3465-93ac-c34007da8b54",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Barclays Adjusts Price Target on Comcast to $26 From $28, Maintains Equalweight Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-adjusts-price-target-comcast-101940412.html",
+   "published_unix": 1784888380,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-24T12:44:26"
+  },
+  {
+   "uuid": "a71bf6c8-e5e0-32e1-96a6-084c07078770",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Morgan Stanley Adjusts Price Target on Comcast to $29 From $30, Maintains Equalweight Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-price-target-095613504.html",
+   "published_unix": 1784886973,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-24T12:44:26"
+  },
+  {
+   "uuid": "ce37670f-c7ce-3891-a844-4a74b1a62a82",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Analyst Report: Comcast Corporation",
+   "publisher": "Morningstar Research",
+   "link": "https://finance.yahoo.com/m/ce37670f-c7ce-3891-a844-4a74b1a62a82/analyst-report%3A-comcast.html",
+   "published_unix": 1784882315,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-24T12:44:26"
+  },
   {
    "uuid": "bb5d3191-03c6-3774-a10d-79b075d00ec2",
    "tickers": [
@@ -995,17 +1099,6 @@
    "published_unix": 1782745870,
    "source_type": "yahoo",
    "captured_at": "2026-07-19T09:06:22"
-  },
-  {
-   "uuid": "e14e4a4b73e203e992c15935268496b8d42db5d2",
-   "tickers": [],
-   "company": "Franklin Biolabs",
-   "title": "Franklin Biolabs Achieves CLIA Certification for AAV NAb Testing",
-   "publisher": "Franklin Biolabs",
-   "link": "https://franklinbio.com/franklin-biolabs-achieves-clia-certification-for-aav-nab-testing/",
-   "published_unix": 1782280067,
-   "source_type": "rss",
-   "captured_at": "2026-07-19T09:06:33"
   }
  ]
 }
