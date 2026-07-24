@@ -1069,3 +1069,13 @@
 [2026-07-24 16:29:05]   firehose: 10-Q feed — 100 entries parsed
 [2026-07-24 16:29:05]   firehose: 100 watched CIKs, 200 total feed entries
 [2026-07-24 16:29:05] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-07-24 16:29:19] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-07-24 16:29:19]   ★ NEW 8k_202 for CMCSA (COMCAST CORP) filed 2026-07-23
+[2026-07-24 16:29:19]     https://www.sec.gov/Archives/edgar/data/1166691/000162828026049274/cmcsa-20260723.htm
+[2026-07-24 16:29:20]     ✉ alert sent (8k_202)
+[2026-07-24 16:29:20]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001166691.json'
+[2026-07-24 16:29:29]   ★ NEW 8k_202 for WST (WEST PHARMACEUTICAL SERVICES INC) filed 2026-07-23
+[2026-07-24 16:29:29]     https://www.sec.gov/Archives/edgar/data/105770/000010577026000097/wst-20260723.htm
+[2026-07-24 16:29:30]     ✉ alert sent (8k_202)
+[2026-07-24 16:29:30]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0000105770.json'
+[2026-07-24 16:29:49] === EDGAR POLL complete. Fetched 100 companies, 2 new filings. ===

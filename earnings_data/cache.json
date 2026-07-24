@@ -15,12 +15,13 @@
   "last_8k_url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026049274/cmcsa-20260723.htm",
   "history": [],
   "last_detected_date": "2026-07-23",
-  "last_detected_accession": "0001628280-26-049360",
-  "last_detected_type": "10q",
-  "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026049360/cmcsa-20260630.htm",
-  "last_detected_at": "2026-07-24T16:13:41.694737+00:00",
-  "last_8k_detected_at": "2026-07-23T15:28:38.335198+00:00",
-  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026049360/cmcsa-20260630.htm"
+  "last_detected_accession": "0001628280-26-049274",
+  "last_detected_type": "8k_202",
+  "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026049274/cmcsa-20260723.htm",
+  "last_detected_at": "2026-07-24T16:29:19.222815+00:00",
+  "last_8k_detected_at": "2026-07-24T16:29:19.222815+00:00",
+  "last_10q_url": null,
+  "pending_10q_since": "2026-07-23"
  },
  "ARMK": {
   "ticker": "ARMK",
@@ -667,12 +668,13 @@
   "last_8k_url": "https://www.sec.gov/Archives/edgar/data/105770/000010577026000097/wst-20260723.htm",
   "history": [],
   "last_detected_date": "2026-07-23",
-  "last_detected_accession": "0000105770-26-000099",
-  "last_detected_type": "10q",
-  "last_detected_url": "https://www.sec.gov/Archives/edgar/data/105770/000010577026000099/wst-20260630.htm",
-  "last_detected_at": "2026-07-24T16:13:41.694737+00:00",
-  "last_8k_detected_at": "2026-07-23T15:28:38.335198+00:00",
-  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/105770/000010577026000099/wst-20260630.htm"
+  "last_detected_accession": "0000105770-26-000097",
+  "last_detected_type": "8k_202",
+  "last_detected_url": "https://www.sec.gov/Archives/edgar/data/105770/000010577026000097/wst-20260723.htm",
+  "last_detected_at": "2026-07-24T16:29:19.222815+00:00",
+  "last_8k_detected_at": "2026-07-24T16:29:19.222815+00:00",
+  "last_10q_url": null,
+  "pending_10q_since": "2026-07-23"
  },
  "GMED": {
   "ticker": "GMED",
