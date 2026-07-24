@@ -1,0 +1,5 @@
+# Append-only logs: auto-combine both sides on merge/rebase instead of conflicting
+# when two workflow runs each add lines. Prevents push failures from log races.
+earnings_data/simple_earnings_log.txt merge=union
+earnings_data/poll_upcoming_log.txt   merge=union
+earnings_data/transcripts_log.txt     merge=union
