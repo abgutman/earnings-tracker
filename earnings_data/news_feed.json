@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-07-24T12:44:39",
+ "generated_at": "2026-07-24T15:05:45",
  "items": [
+  {
+   "uuid": "8eea4fed-ab09-3b19-991c-e717d421603b",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "BofA Adjusts Price Target on Aramark to $65 From $62",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-adjusts-price-target-aramark-124655531.html",
+   "published_unix": 1784897215,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-24T15:05:19"
+  },
   {
    "uuid": "b7a5514e-279e-3992-9760-03ab8b7b1f71",
    "tickers": [
