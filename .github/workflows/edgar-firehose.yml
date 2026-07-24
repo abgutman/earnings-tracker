@@ -46,12 +46,12 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add earnings_data/cache.json earnings_data/firehose_state.json earnings_data/simple_earnings_log.txt recent_earnings.html 2>/dev/null || true
+          git add -A
           git diff --cached --quiet && echo "No changes" && exit 0
           git commit -m "Auto: edgar firehose $(date -u +'%Y-%m-%d %H:%M UTC')"
           ok=0
           for i in 1 2 3; do
-            if git pull --rebase origin main && git push; then ok=1; break; fi
+            if git pull --rebase --autostash origin main && git push; then ok=1; break; fi
             sleep $((i * 7))
           done
           if [ "$ok" != "1" ]; then echo "push failed after 3 attempts" >&2; exit 1; fi
