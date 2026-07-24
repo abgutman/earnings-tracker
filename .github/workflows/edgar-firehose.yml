@@ -11,7 +11,7 @@ on:
     - cron: '7,37 14-19 * * 1-5'                         # midday: every 30 min
 
 concurrency:
-  group: ${{ github.workflow }}
+  group: earnings-write   # shared: serialize all writers of cache/log/recent_earnings.html to avoid rebase conflicts
   cancel-in-progress: false
 
 permissions:

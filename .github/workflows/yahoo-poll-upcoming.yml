@@ -18,7 +18,7 @@ on:
     - cron: '53 22 * * 1-5'   # 6:53 PM ET (EDT) weekdays
 
 concurrency:
-  group: ${{ github.workflow }}
+  group: earnings-write   # shared: serialize all writers of cache/log/recent_earnings.html to avoid rebase conflicts
   cancel-in-progress: false
 
 permissions:
