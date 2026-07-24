@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-07-24T20:40:37",
+ "generated_at": "2026-07-24T22:17:34",
  "items": [
+  {
+   "uuid": "b55fdf59-9d4c-3a06-8f87-771f53c804bb",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Indiana American Water and Congressman Frank J. Mrvan Highlight Workforce Development at New $1.8 Million American Water Training Facility in Northwest Indiana",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/indiana-american-water-congressman-frank-205200347.html",
+   "published_unix": 1784926320,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-24T22:17:13"
+  },
   {
    "uuid": "22698ae0-672e-3cfd-8b21-168b51387a13",
    "tickers": [
