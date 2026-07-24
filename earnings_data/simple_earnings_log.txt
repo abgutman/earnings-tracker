@@ -1046,3 +1046,16 @@
 [2026-07-23 23:45:04] === CHECK-10Q complete. Checked 13, found 2, cleared 1 stale. ===
 [2026-07-24 15:10:44] === EDGAR POLL: scanning for new earnings filings (live=True) ===
 [2026-07-24 15:11:11] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
+[2026-07-24 16:13:41] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-07-24 16:13:42]   firehose: 8-K feed — 100 entries parsed
+[2026-07-24 16:13:42]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-07-24 16:13:42]   firehose: 8-K page 2 — 100 entries
+[2026-07-24 16:13:44]   firehose: 10-Q feed — 100 entries parsed
+[2026-07-24 16:13:44]   firehose: 100 watched CIKs, 300 total feed entries
+[2026-07-24 16:13:44]   ★ NEW 10q for WST (WEST PHARMACEUTICAL SERVICES INC) filed 2026-07-23
+[2026-07-24 16:13:44]     https://www.sec.gov/Archives/edgar/data/105770/000010577026000099/wst-20260630.htm
+[2026-07-24 16:13:45]     ✉ alert sent (10q)
+[2026-07-24 16:13:46]   ★ NEW 10q for CMCSA (COMCAST CORP) filed 2026-07-23
+[2026-07-24 16:13:46]     https://www.sec.gov/Archives/edgar/data/1166691/000162828026049360/cmcsa-20260630.htm
+[2026-07-24 16:13:47]     ✉ alert sent (10q)
+[2026-07-24 16:13:47] === EDGAR FIREHOSE complete. 2 new detections. ===
