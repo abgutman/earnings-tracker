@@ -1111,3 +1111,14 @@
 [2026-07-24 22:18:46] === EDGAR FIREHOSE complete. 0 new detections. ===
 [2026-07-24 22:31:32] === EDGAR POLL: scanning for new earnings filings (live=True) ===
 [2026-07-24 22:32:00] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
+[2026-07-24 23:48:27] === CHECK-10Q: scanning for pending 10-Q filings ===
+[2026-07-24 23:48:27]   ✓ 10-Q found for CMCSA (COMCAST CORP) filed 2026-07-23
+[2026-07-24 23:48:27]     https://www.sec.gov/Archives/edgar/data/1166691/000162828026049360/cmcsa-20260630.htm
+[2026-07-24 23:48:27]   AWK: pending_10q_since=2026-07-16 is 8d old — clearing stale flag
+[2026-07-24 23:48:27]   HRMY: pending_10q_since=2026-07-16 is 8d old — clearing stale flag
+[2026-07-24 23:48:27]   ✓ 10-Q found for WST (WEST PHARMACEUTICAL SERVICES INC) filed 2026-07-23
+[2026-07-24 23:48:27]     https://www.sec.gov/Archives/edgar/data/105770/000010577026000099/wst-20260630.htm
+[2026-07-24 23:48:28]   ✓ 10-Q found for HCSG (HEALTHCARE SERVICES GROUP INC) filed 2026-07-24
+[2026-07-24 23:48:28]     https://www.sec.gov/Archives/edgar/data/731012/000073101226000046/hcsg-20260630.htm
+[2026-07-24 23:48:29]   QNTO: pending_10q_since=2026-07-16 is 8d old — clearing stale flag
+[2026-07-24 23:48:29] === CHECK-10Q complete. Checked 11, found 3, cleared 3 stale. ===
