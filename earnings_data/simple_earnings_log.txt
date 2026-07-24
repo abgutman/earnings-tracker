@@ -1091,3 +1091,16 @@
 [2026-07-24 19:42:05] === EDGAR FIREHOSE complete. 0 new detections. ===
 [2026-07-24 19:51:03] === EDGAR POLL: scanning for new earnings filings (live=True) ===
 [2026-07-24 19:51:31] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
+[2026-07-24 21:13:57] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-07-24 21:13:57]   firehose: 8-K feed — 100 entries parsed
+[2026-07-24 21:13:57]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-07-24 21:13:58]   firehose: 8-K page 2 — 100 entries
+[2026-07-24 21:13:58]   firehose: 10-Q feed — 100 entries parsed
+[2026-07-24 21:13:58]   firehose: 100 watched CIKs, 300 total feed entries
+[2026-07-24 21:13:58]   ★ NEW 8k_202 for AXR (AMREP CORP.) filed 2026-07-24
+[2026-07-24 21:13:58]     https://www.sec.gov/Archives/edgar/data/6207/000110465926086664/tm2621237d1_8k.htm
+[2026-07-24 21:13:59]     ✉ alert sent (8k_202)
+[2026-07-24 21:13:59]   ★ NEW 10q for HCSG (HEALTHCARE SERVICES GROUP INC) filed 2026-07-24
+[2026-07-24 21:13:59]     https://www.sec.gov/Archives/edgar/data/731012/000073101226000046/hcsg-20260630.htm
+[2026-07-24 21:14:00]     ✉ alert sent (10q)
+[2026-07-24 21:14:00] === EDGAR FIREHOSE complete. 2 new detections. ===
