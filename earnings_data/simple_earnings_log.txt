@@ -1144,3 +1144,9 @@
 [2026-07-27 18:08:58]   firehose: 10-Q feed — 100 entries parsed
 [2026-07-27 18:08:58]   firehose: 100 watched CIKs, 200 total feed entries
 [2026-07-27 18:08:58] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-07-27 19:59:48] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-07-27 19:59:56]   ★ NEW 10q for SEIC (SEI INVESTMENTS CO) filed 2026-07-27
+[2026-07-27 19:59:56]     https://www.sec.gov/Archives/edgar/data/350894/000035089426000048/seic-20260630.htm
+[2026-07-27 19:59:57]     ✉ alert sent (10q)
+[2026-07-27 19:59:57]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0000350894.json'
+[2026-07-27 20:00:27] === EDGAR POLL complete. Fetched 100 companies, 1 new filings. ===
