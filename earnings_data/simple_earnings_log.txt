@@ -1173,3 +1173,8 @@
 [2026-07-27 22:30:52]   firehose: 10-Q feed — 100 entries parsed
 [2026-07-27 22:30:52]   firehose: 100 watched CIKs, 200 total feed entries
 [2026-07-27 22:30:52] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-07-27 23:49:35] === CHECK-10Q: scanning for pending 10-Q filings ===
+[2026-07-27 23:49:36]   ✓ 10-Q found for SEIC (SEI INVESTMENTS CO) filed 2026-07-27
+[2026-07-27 23:49:36]     https://www.sec.gov/Archives/edgar/data/350894/000035089426000048/seic-20260630.htm
+[2026-07-27 23:49:37]   QVCAQ: pending_10q_since=2026-07-17 is 10d old — clearing stale flag
+[2026-07-27 23:49:37] === CHECK-10Q complete. Checked 8, found 1, cleared 1 stale. ===

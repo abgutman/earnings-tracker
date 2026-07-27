@@ -453,8 +453,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/350894/000035089426000048/seic-20260630.htm",
   "last_detected_at": "2026-07-27T19:59:48.409001+00:00",
   "last_8k_detected_at": "2026-07-22T22:28:32.286983+00:00",
-  "pending_10q_since": "2026-07-22",
-  "last_10q_url": null
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/350894/000035089426000048/seic-20260630.htm"
  },
  "COR": {
   "ticker": "COR",
@@ -2049,8 +2048,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1355096/000135509626000024/qvcga-20260713.htm",
   "last_detected_at": "2026-07-17T14:54:40.067711+00:00",
   "last_8k_detected_at": "2026-07-17T14:54:40.067711+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-07-17"
+  "last_10q_url": null
  },
  "HSY": {
   "ticker": "HSY",
