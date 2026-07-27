@@ -1155,3 +1155,14 @@
 [2026-07-27 20:07:16]   firehose: 10-Q feed — 100 entries parsed
 [2026-07-27 20:07:16]   firehose: 100 watched CIKs, 200 total feed entries
 [2026-07-27 20:07:16] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-07-27 21:19:45] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-07-27 21:19:45]   firehose: 8-K feed — 100 entries parsed
+[2026-07-27 21:19:46]   firehose: 10-Q feed — 100 entries parsed
+[2026-07-27 21:19:46]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-07-27 21:19:46]   ★ NEW 8k_701 for UVSP (UNIVEST FINANCIAL Corp) filed 2026-07-27
+[2026-07-27 21:19:46]     https://www.sec.gov/Archives/edgar/data/102212/000010221226000035/uvsp-20260727.htm
+[2026-07-27 21:19:47]     ✉ alert sent (8k_701)
+[2026-07-27 21:19:48]   ★ NEW 8k_202 for UHT (UNIVERSAL HEALTH REALTY INCOME TRUST) filed 2026-07-27
+[2026-07-27 21:19:48]     https://www.sec.gov/Archives/edgar/data/798783/000119312526318144/uht-20260727.htm
+[2026-07-27 21:19:49]     ✉ alert sent (8k_202)
+[2026-07-27 21:19:49] === EDGAR FIREHOSE complete. 2 new detections. ===
