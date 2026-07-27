@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-07-27T16:33:50",
+ "generated_at": "2026-07-27T18:46:27",
  "items": [
+  {
+   "uuid": "1f116e06-fd01-368b-b229-f00764cba52f",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Alphabet's YouTube Premium to Expand Peacock Access",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/media-advertising/articles/alphabet-apos-youtube-premium-expand-174852327.html",
+   "published_unix": 1785174532,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-27T18:46:11"
+  },
+  {
+   "uuid": "07c57e38-bc46-3015-bf61-9a498754e930",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "CMCSA Stock Gains Over 3% \u2014 NBCUniversal Teams Up With Alphabet To Stream Peacock On YouTube Premium",
+   "publisher": "Stocktwits",
+   "link": "https://finance.yahoo.com/m/07c57e38-bc46-3015-bf61-9a498754e930/cmcsa-stock-gains-over-3%25-%E2%80%94.html",
+   "published_unix": 1785173142,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-27T18:46:11"
+  },
   {
    "uuid": "4e4220a2-9e6e-3a7e-ab03-8a3390fe3839",
    "tickers": [
