@@ -1166,3 +1166,5 @@
 [2026-07-27 21:19:48]     https://www.sec.gov/Archives/edgar/data/798783/000119312526318144/uht-20260727.htm
 [2026-07-27 21:19:49]     ✉ alert sent (8k_202)
 [2026-07-27 21:19:49] === EDGAR FIREHOSE complete. 2 new detections. ===
+[2026-07-27 22:29:59] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-07-27 22:30:28] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
