@@ -1857,3 +1857,28 @@
 [2026-07-27 17:20:52] No new transcripts found; transcripts.json unchanged
 [2026-07-27 17:20:52] === Done. 0 new transcript links found. ===
 
+[2026-07-27 20:52:29] === Fool transcript harvest start (dry_run=False) ===
+[2026-07-27 20:52:29] Loaded 122 tickers from expanded_companies.json
+[2026-07-27 20:52:29] Recent tickers (last filing within 14d): ['AWK', 'AXR', 'BDN', 'CMCSA', 'HCSG', 'HRMY', 'JNJ', 'PKBK', 'QNTO', 'QVCAQ', 'SEIC', 'SND', 'STIM', 'UVSP', 'WST']
+[2026-07-27 20:52:29] Seed backfill: all seeds already in state
+[2026-07-27 20:52:29] Fetching Fool transcript index: https://www.fool.com/earnings-call-transcripts/
+[2026-07-27 20:52:29]   Found 20 transcript links on index page
+[2026-07-27 20:52:29]   Fool index matched tickers: []
+[2026-07-27 20:52:29] Yahoo secondary search for 14 tickers: ['AWK', 'AXR', 'BDN', 'HCSG', 'HRMY', 'JNJ', 'PKBK', 'QNTO', 'QVCAQ', 'SEIC', 'SND', 'STIM', 'UVSP', 'WST']
+[2026-07-27 20:52:30]   MISS [Yahoo] AWK: no transcript items in feed
+[2026-07-27 20:52:30]   MISS [Yahoo] AXR: no transcript items in feed
+[2026-07-27 20:52:31]   MISS [Yahoo] BDN: no transcript items in feed
+[2026-07-27 20:52:31]   MISS [Yahoo] HCSG: no transcript items in feed
+[2026-07-27 20:52:31]   MISS [Yahoo] HRMY: no transcript items in feed
+[2026-07-27 20:52:32]   MISS [Yahoo] JNJ: no transcript items in feed
+[2026-07-27 20:52:32]   MISS [Yahoo] PKBK: no transcript items in feed
+[2026-07-27 20:52:33]   MISS [Yahoo] QNTO: no transcript items in feed
+[2026-07-27 20:52:34]   MISS [Yahoo] QVCAQ: no transcript items in feed
+[2026-07-27 20:52:34]   MISS [Yahoo] SEIC: no transcript items in feed
+[2026-07-27 20:52:35]   MISS [Yahoo] SND: no transcript items in feed
+[2026-07-27 20:52:35]   MISS [Yahoo] STIM: no transcript items in feed
+[2026-07-27 20:52:36]   MISS [Yahoo] UVSP: no transcript items in feed
+[2026-07-27 20:52:37]   MISS [Yahoo] WST: no transcript items in feed
+[2026-07-27 20:52:37] No new transcripts found; transcripts.json unchanged
+[2026-07-27 20:52:37] === Done. 0 new transcript links found. ===
+
