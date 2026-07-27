@@ -1,6 +1,45 @@
 {
- "generated_at": "2026-07-27T20:42:42",
+ "generated_at": "2026-07-27T22:17:12",
  "items": [
+  {
+   "uuid": "71a2dde9-e09e-3d63-8eed-58d09e053297",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "New Jersey American Water Completes Gordon's Corner Water Acquisition",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/real-estate/articles/jersey-american-water-completes-gordon-211652255.html",
+   "published_unix": 1785187012,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-27T22:16:48"
+  },
+  {
+   "uuid": "d5cd8594-3809-33ba-b8cf-589a09d3b9d8",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Tennessee American Water Accepting Applications for 2026 Firefighting Support Grant Program",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/tennessee-american-water-accepting-applications-211100520.html",
+   "published_unix": 1785186660,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-27T22:16:48"
+  },
+  {
+   "uuid": "5ed08be8-71d4-3a72-a284-a3e999d1370d",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Releases Annual Sustainability Report",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/american-water-releases-annual-sustainability-203500365.html",
+   "published_unix": 1785184500,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-27T22:16:48"
+  },
   {
    "uuid": "d1ef2ff1-bc16-3547-8d0e-acccc26bf0e2",
    "tickers": [
