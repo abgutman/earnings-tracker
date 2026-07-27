@@ -1,6 +1,71 @@
 {
- "generated_at": "2026-07-27T18:46:27",
+ "generated_at": "2026-07-27T20:42:42",
  "items": [
+  {
+   "uuid": "d1ef2ff1-bc16-3547-8d0e-acccc26bf0e2",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "New Jersey American Water Completes Acquisition of Gordon's Corner Water Company",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/jersey-american-water-completes-acquisition-201800018.html",
+   "published_unix": 1785183480,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-27T20:42:23"
+  },
+  {
+   "uuid": "cf40c0db-2239-323f-ad8f-0454e2b657f1",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark Seen Benefiting From Data Centers, Core Momentum, Truist Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-seen-benefiting-data-centers-195129161.html",
+   "published_unix": 1785181889,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-27T20:42:21"
+  },
+  {
+   "uuid": "07edff72-b8d2-362c-870b-40b11db80d98",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Virginia American Water Urges Customers to Reduce Nonessential Water Use in Response to Historic Drought Conditions",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/virginia-american-water-urges-customers-190700120.html",
+   "published_unix": 1785179220,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-27T20:42:23"
+  },
+  {
+   "uuid": "b4a40d62-7c2e-3b0a-b053-887233ec57b3",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Maryland American Water Urges Customers to Reduce Nonessential Water Use in Response to Drought Conditions",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/maryland-american-water-urges-customers-185800251.html",
+   "published_unix": 1785178680,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-27T20:42:23"
+  },
+  {
+   "uuid": "95e65013-0242-3477-93cb-a042257ad4f1",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces Final Opportunity to Own a Luxury Condominium at Mira Villa in Las Vegas",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-final-opportunity-185000145.html",
+   "published_unix": 1785178200,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-27T20:42:42"
+  },
   {
    "uuid": "1f116e06-fd01-368b-b229-f00764cba52f",
    "tickers": [
