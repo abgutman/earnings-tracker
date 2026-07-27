@@ -1122,3 +1122,8 @@
 [2026-07-24 23:48:28]     https://www.sec.gov/Archives/edgar/data/731012/000073101226000046/hcsg-20260630.htm
 [2026-07-24 23:48:29]   QNTO: pending_10q_since=2026-07-16 is 8d old — clearing stale flag
 [2026-07-24 23:48:29] === CHECK-10Q complete. Checked 11, found 3, cleared 3 stale. ===
+[2026-07-27 13:42:45] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-07-27 13:42:45]   firehose: 8-K feed — 100 entries parsed
+[2026-07-27 13:42:45]   firehose: 10-Q feed — 100 entries parsed
+[2026-07-27 13:42:45]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-07-27 13:42:45] === EDGAR FIREHOSE complete. 0 new detections. ===
