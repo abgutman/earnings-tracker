@@ -1178,3 +1178,17 @@
 [2026-07-27 23:49:36]     https://www.sec.gov/Archives/edgar/data/350894/000035089426000048/seic-20260630.htm
 [2026-07-27 23:49:37]   QVCAQ: pending_10q_since=2026-07-17 is 10d old — clearing stale flag
 [2026-07-27 23:49:37] === CHECK-10Q complete. Checked 8, found 1, cleared 1 stale. ===
+[2026-07-28 12:58:21] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-07-28 12:58:21]   firehose: 8-K feed — 100 entries parsed
+[2026-07-28 12:58:23]   firehose: 10-Q feed — 75 entries parsed
+[2026-07-28 12:58:23]   firehose: 100 watched CIKs, 175 total feed entries
+[2026-07-28 12:58:23]   ★ NEW 8k_202 for UHS (UNIVERSAL HEALTH SERVICES INC) filed 2026-07-28
+[2026-07-28 12:58:23]     https://www.sec.gov/Archives/edgar/data/352915/000119312526318940/uhs-20260727.htm
+[2026-07-28 12:58:27]     ✉ alert sent (8k_202)
+[2026-07-28 12:58:27]   ★ NEW 8k_202 for AXTA (Axalta Coating Systems Ltd.) filed 2026-07-28
+[2026-07-28 12:58:27]     https://www.sec.gov/Archives/edgar/data/1616862/000162828026049911/axta-20260728.htm
+[2026-07-28 12:58:31]     ✉ alert sent (8k_202)
+[2026-07-28 12:58:31]   ★ NEW 8k_701 for JNJ (JOHNSON & JOHNSON) filed 2026-07-28
+[2026-07-28 12:58:31]     https://www.sec.gov/Archives/edgar/data/200406/000020040626000155/jnj-20260727.htm
+[2026-07-28 12:58:33]     ✉ alert sent (8k_701)
+[2026-07-28 12:58:33] === EDGAR FIREHOSE complete. 3 new detections. ===
