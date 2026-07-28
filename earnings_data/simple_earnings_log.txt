@@ -1243,3 +1243,11 @@
 [2026-07-28 22:18:13] === EDGAR FIREHOSE complete. 0 new detections. ===
 [2026-07-28 22:28:30] === EDGAR POLL: scanning for new earnings filings (live=True) ===
 [2026-07-28 22:29:00] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
+[2026-07-28 23:45:36] === CHECK-10Q: scanning for pending 10-Q filings ===
+[2026-07-28 23:45:36]   ✓ 10-Q found for BDN (BRANDYWINE REALTY TRUST) filed 2026-07-28
+[2026-07-28 23:45:36]     https://www.sec.gov/Archives/edgar/data/790816/000079081626000029/bdn-20260630.htm
+[2026-07-28 23:45:37]   ✓ 10-Q found for UVSP (UNIVEST FINANCIAL Corp) filed 2026-07-28
+[2026-07-28 23:45:37]     https://www.sec.gov/Archives/edgar/data/102212/000010221226000037/uvsp-20260630.htm
+[2026-07-28 23:45:37]   SND: pending_10q_since=2026-07-20 is 8d old — clearing stale flag
+[2026-07-28 23:45:38]   STIM: pending_10q_since=2026-07-20 is 8d old — clearing stale flag
+[2026-07-28 23:45:38] === CHECK-10Q complete. Checked 10, found 2, cleared 2 stale. ===

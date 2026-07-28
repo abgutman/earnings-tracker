@@ -285,3 +285,19 @@
 [2026-07-27 23:48:30] Polling Yahoo for 106 companies
 [2026-07-27 23:49:35] === Done. Captured 0 new save-the-dates, cleaned 0 past. ===
 
+[2026-07-28 23:44:21] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-07-28 23:44:21] Polling Yahoo for 106 companies
+[2026-07-28 23:44:29]   + OCGN: release=2026-08-06 call=None None
+[2026-07-28 23:44:29]     via: Ocugen to Host Conference Call on Thursday, August 6 at 8:30 A.M. ET to Discuss Business Updates and
+[2026-07-28 23:44:31]   ✉ alert sent for OCGN
+[2026-07-28 23:44:50]   + PVLA: release=2026-08-04 call=None None
+[2026-07-28 23:44:50]     via: Palvella Therapeutics to Host Second Quarter 2026 Financial Results and Corporate Update Conference 
+[2026-07-28 23:44:52]   ✉ alert sent for PVLA
+[2026-07-28 23:45:03]   + GBLI: release=2026-08-05 call=2026-08-05 11:00 ET
+[2026-07-28 23:45:03]     via: Global Indemnity Group Q2 2026 Earnings Release & Conference Call
+[2026-07-28 23:45:05]   ✉ alert sent for GBLI
+[2026-07-28 23:45:17]   + STIM: release=2026-08-11 call=None 08:30 ET
+[2026-07-28 23:45:17]     via: Neuronetics to Report Second Quarter 2026 Financial and Operating Results and Host Conference Call
+[2026-07-28 23:45:19]   ✉ alert sent for STIM
+[2026-07-28 23:45:35] === Done. Captured 4 new save-the-dates, cleaned 0 past. ===
+

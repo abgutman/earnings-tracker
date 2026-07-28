@@ -135,8 +135,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/790816/000079081626000029/bdn-20260630.htm",
   "last_detected_at": "2026-07-28T19:56:13.915782+00:00",
   "last_8k_detected_at": "2026-07-23T19:50:36.242660+00:00",
-  "pending_10q_since": "2026-07-23",
-  "last_10q_url": null
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/790816/000079081626000029/bdn-20260630.htm"
  },
  "IRT": {
   "ticker": "IRT",
@@ -1144,8 +1143,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/102212/000010221226000037/uvsp-20260630.htm",
   "last_detected_at": "2026-07-28T19:46:23.402006+00:00",
   "last_8k_detected_at": "2026-07-27T21:19:45.589539+00:00",
-  "pending_10q_since": "2026-07-27",
-  "last_10q_url": null
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/102212/000010221226000037/uvsp-20260630.htm"
  },
  "AVTX": {
   "ticker": "AVTX",
@@ -1444,7 +1442,6 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1529628/000152962826000089/snd-20260716.htm",
   "last_detected_at": "2026-07-20T22:18:00.438676+00:00",
   "last_8k_detected_at": "2026-07-20T22:18:00.438676+00:00",
-  "pending_10q_since": "2026-07-20",
   "last_10q_url": null
  },
  "MRBK": {
@@ -1619,7 +1616,6 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1227636/000119312526308921/d226320d8k.htm",
   "last_detected_at": "2026-07-20T22:18:00.438676+00:00",
   "last_8k_detected_at": "2026-07-20T22:18:00.438676+00:00",
-  "pending_10q_since": "2026-07-20",
   "last_10q_url": null
  },
  "BTCS": {
