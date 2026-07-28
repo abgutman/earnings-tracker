@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-07-28T13:01:51",
+ "generated_at": "2026-07-28T15:33:32",
  "items": [
+  {
+   "uuid": "2cc71696-db2d-3e04-b91d-c42886ffc55a",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Reliable, High-Speed Internet from Xfinity Coming to Northwood, New Hampshire",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/articles/reliable-high-speed-internet-xfinity-130000266.html",
+   "published_unix": 1785243600,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-28T15:33:09"
+  },
   {
    "uuid": "260ef5cd-0b1a-332e-b7fb-b197b1930789",
    "tickers": [
@@ -533,6 +546,19 @@
    "published_unix": 1784810421,
    "source_type": "yahoo",
    "captured_at": "2026-07-23T15:23:28"
+  },
+  {
+   "uuid": "76e2e892-0113-3f0a-af04-2eb07dc19ca5",
+   "tickers": [
+    "BDN"
+   ],
+   "company": "Brandywine Realty Trust",
+   "title": "Brandywine Realty Trust Q2 2026 Earnings Call Summary",
+   "publisher": "Moby",
+   "link": "https://finance.yahoo.com/m/76e2e892-0113-3f0a-af04-2eb07dc19ca5/brandywine-realty-trust-q2.html",
+   "published_unix": 1784809800,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-28T15:33:32"
   },
   {
    "uuid": "5143c327-a94a-3e57-934d-096d20a43f7d",
