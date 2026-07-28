@@ -1223,3 +1223,16 @@
 [2026-07-28 19:56:16]     ✉ alert sent (10q)
 [2026-07-28 19:56:16]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0000790816.json'
 [2026-07-28 19:56:39] === EDGAR POLL complete. Fetched 100 companies, 1 new filings. ===
+[2026-07-28 21:16:30] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-07-28 21:16:30]   firehose: 8-K feed — 100 entries parsed
+[2026-07-28 21:16:30]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-07-28 21:16:30]   firehose: 8-K page 2 — 100 entries
+[2026-07-28 21:16:30]   firehose: 10-Q feed — 100 entries parsed
+[2026-07-28 21:16:30]   firehose: 100 watched CIKs, 300 total feed entries
+[2026-07-28 21:16:31]   ★ NEW 8k_202 for QNBC (QNB CORP.) filed 2026-07-28
+[2026-07-28 21:16:31]     https://www.sec.gov/Archives/edgar/data/750558/000119312526321023/qnbc-20260728.htm
+[2026-07-28 21:16:32]     ✉ alert sent (8k_202)
+[2026-07-28 21:16:32]   ★ NEW 8k_701 for CRS (CARPENTER TECHNOLOGY CORP) filed 2026-07-28
+[2026-07-28 21:16:32]     https://www.sec.gov/Archives/edgar/data/17843/000119312526320951/d115412d8k.htm
+[2026-07-28 21:16:33]     ✉ alert sent (8k_701)
+[2026-07-28 21:16:33] === EDGAR FIREHOSE complete. 2 new detections. ===
