@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-07-28T03:29:30",
+ "generated_at": "2026-07-28T13:01:51",
  "items": [
+  {
+   "uuid": "260ef5cd-0b1a-332e-b7fb-b197b1930789",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces Peapack Crossing is Now Open in Peapack, New Jersey",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-peapack-crossing-120000001.html",
+   "published_unix": 1785240000,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-28T13:01:50"
+  },
   {
    "uuid": "71a2dde9-e09e-3d63-8eed-58d09e053297",
    "tickers": [
