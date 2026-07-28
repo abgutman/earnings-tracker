@@ -1,6 +1,17 @@
 {
- "generated_at": "2026-07-28T15:33:32",
+ "generated_at": "2026-07-28T17:44:52",
  "items": [
+  {
+   "uuid": "a27f9ef1cf1dd9cadc8a128ae0bb48e1b4a71bb1",
+   "tickers": [],
+   "company": "Franklin Biolabs",
+   "title": "Franklin Biolabs Selected as a 2026 PHL Inno Fire Awards Honoree by the Philadelphia Business Journal",
+   "publisher": "Franklin Biolabs",
+   "link": "https://franklinbio.com/franklin-biolabs-selected-as-a-2026-phl-inno-fire-awards-honoree-by-the-philadelphia-business-journal/",
+   "published_unix": 1785253905,
+   "source_type": "rss",
+   "captured_at": "2026-07-28T17:44:43"
+  },
   {
    "uuid": "2cc71696-db2d-3e04-b91d-c42886ffc55a",
    "tickers": [
