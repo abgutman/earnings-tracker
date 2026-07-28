@@ -1209,3 +1209,11 @@
 [2026-07-28 17:59:41]   firehose: 10-Q feed — 94 entries parsed
 [2026-07-28 17:59:41]   firehose: 100 watched CIKs, 194 total feed entries
 [2026-07-28 17:59:41] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-07-28 19:46:23] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-07-28 19:46:24]   firehose: 8-K feed — 100 entries parsed
+[2026-07-28 19:46:27]   firehose: 10-Q feed — 100 entries parsed
+[2026-07-28 19:46:27]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-07-28 19:46:27]   ★ NEW 10q for UVSP (UNIVEST FINANCIAL Corp) filed 2026-07-28
+[2026-07-28 19:46:27]     https://www.sec.gov/Archives/edgar/data/102212/000010221226000037/uvsp-20260630.htm
+[2026-07-28 19:46:28]     ✉ alert sent (10q)
+[2026-07-28 19:46:28] === EDGAR FIREHOSE complete. 1 new detections. ===
