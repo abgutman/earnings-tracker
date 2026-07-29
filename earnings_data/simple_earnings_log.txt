@@ -1319,3 +1319,11 @@
 [2026-07-29 21:06:35]     https://www.sec.gov/Archives/edgar/data/1410636/000141063626000120/awk-20260630.htm
 [2026-07-29 21:06:37]     ✉ alert sent (10q)
 [2026-07-29 21:06:37] === EDGAR FIREHOSE complete. 4 new detections. ===
+[2026-07-29 22:09:18] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-07-29 22:09:18]   firehose: 8-K feed — 100 entries parsed
+[2026-07-29 22:09:18]   firehose: 10-Q feed — 100 entries parsed
+[2026-07-29 22:09:18]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-07-29 22:09:18]   ★ NEW 8k_701 for JNJ (JOHNSON & JOHNSON) filed 2026-07-29
+[2026-07-29 22:09:18]     https://www.sec.gov/Archives/edgar/data/200406/000020040626000163/jnj-20260729.htm
+[2026-07-29 22:09:20]     ✉ alert sent (8k_701)
+[2026-07-29 22:09:20] === EDGAR FIREHOSE complete. 1 new detections. ===
