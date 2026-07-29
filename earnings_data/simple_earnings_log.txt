@@ -1300,3 +1300,22 @@
 [2026-07-29 19:54:56]   firehose: 10-Q feed — 100 entries parsed
 [2026-07-29 19:54:56]   firehose: 100 watched CIKs, 200 total feed entries
 [2026-07-29 19:54:56] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-07-29 21:06:29] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-07-29 21:06:29]   firehose: 8-K feed — 100 entries parsed
+[2026-07-29 21:06:29]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-07-29 21:06:29]   firehose: 8-K page 2 — 100 entries
+[2026-07-29 21:06:30]   firehose: 10-Q feed — 100 entries parsed
+[2026-07-29 21:06:30]   firehose: 100 watched CIKs, 300 total feed entries
+[2026-07-29 21:06:30]   ★ NEW 8k_202 for FMC (FMC CORP) filed 2026-07-29
+[2026-07-29 21:06:30]     https://www.sec.gov/Archives/edgar/data/37785/000003778526000139/fmc-20260729.htm
+[2026-07-29 21:06:32]     ✉ alert sent (8k_202)
+[2026-07-29 21:06:32]   ★ NEW 8k_202 for AWK (American Water Works Company, Inc.) filed 2026-07-29
+[2026-07-29 21:06:32]     https://www.sec.gov/Archives/edgar/data/1410636/000141063626000121/awk-20260729.htm
+[2026-07-29 21:06:33]     ✉ alert sent (8k_202)
+[2026-07-29 21:06:33]   ★ NEW 8k_202 for UIS (UNISYS CORP) filed 2026-07-29
+[2026-07-29 21:06:33]     https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/uis-20260729.htm
+[2026-07-29 21:06:35]     ✉ alert sent (8k_202)
+[2026-07-29 21:06:35]   ★ NEW 10q for AWK (American Water Works Company, Inc.) filed 2026-07-29
+[2026-07-29 21:06:35]     https://www.sec.gov/Archives/edgar/data/1410636/000141063626000120/awk-20260630.htm
+[2026-07-29 21:06:37]     ✉ alert sent (10q)
+[2026-07-29 21:06:37] === EDGAR FIREHOSE complete. 4 new detections. ===
