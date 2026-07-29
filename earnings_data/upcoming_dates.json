@@ -50,16 +50,6 @@
   "source_type": "yahoo_auto",
   "captured_at": "2026-07-01T23:07:29"
  },
- "UHS": {
-  "release_date": "2026-07-27",
-  "call_date": "2026-07-28",
-  "call_time": "09:00 ET",
-  "source_url": "https://finance.yahoo.com/healthcare/articles/universal-health-services-inc-announces-201500141.html",
-  "source_title": "UNIVERSAL HEALTH SERVICES, INC. ANNOUNCES DATE FOR SECOND QUARTER 2026 EARNINGS RELEASE AND CONFERENCE CALL",
-  "source_publisher": "PR Newswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-06T23:50:39"
- },
  "UGI": {
   "release_date": "2026-08-06",
   "call_date": null,
@@ -339,5 +329,15 @@
   "source_publisher": "GlobeNewswire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-07-28T23:45:17"
+ },
+ "TOL": {
+  "release_date": "2026-08-19",
+  "call_date": null,
+  "call_time": null,
+  "source_url": "https://finance.yahoo.com/real-estate/articles/toll-brothers-webcast-third-quarter-203000243.html",
+  "source_title": "Toll Brothers to Webcast Its Third Quarter 2026 Earnings Conference Call Live on August 19, 2026 at 8:30 a.m. (ET)",
+  "source_publisher": "GlobeNewswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-07-29T23:45:56"
  }
 }

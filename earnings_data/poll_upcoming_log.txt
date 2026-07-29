@@ -301,3 +301,11 @@
 [2026-07-28 23:45:19]   ✉ alert sent for STIM
 [2026-07-28 23:45:35] === Done. Captured 4 new save-the-dates, cleaned 0 past. ===
 
+[2026-07-29 23:45:44] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-07-29 23:45:44] Polling Yahoo for 106 companies
+[2026-07-29 23:45:56]   + TOL: release=2026-08-19 call=None None
+[2026-07-29 23:45:56]     via: Toll Brothers to Webcast Its Third Quarter 2026 Earnings Conference Call Live on August 19, 2026 at 
+[2026-07-29 23:45:56]   ✉ alert sent for TOL
+[2026-07-29 23:46:56]   cleanup: removed 1 past entries
+[2026-07-29 23:46:56] === Done. Captured 1 new save-the-dates, cleaned 1 past. ===
+
