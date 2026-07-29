@@ -1,6 +1,71 @@
 {
- "generated_at": "2026-07-29T19:41:28",
+ "generated_at": "2026-07-29T21:11:50",
  "items": [
+  {
+   "uuid": "4251d409-5a64-398a-bfb6-abd16e9fcea0",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Works Q2 Adjusted Earnings, Operating Revenue Rise",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/american-water-works-q2-adjusted-205701136.html",
+   "published_unix": 1785358621,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-29T21:11:31"
+  },
+  {
+   "uuid": "d849a94a-95d0-34b9-a84c-e5c64d975576",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Works: Q2 Earnings Snapshot",
+   "publisher": "Associated Press",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/american-water-works-q2-earnings-204339958.html",
+   "published_unix": 1785357819,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-29T21:11:31"
+  },
+  {
+   "uuid": "d621770f-196b-3347-bd79-84a36287e129",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "AMERICAN WATER REPORTS SOLID SECOND QUARTER 2026 RESULTS; AFFIRMS 2026 EPS GUIDANCE AND LONG-TERM TARGETS",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/american-water-reports-solid-second-203100969.html",
+   "published_unix": 1785357060,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-29T21:11:31"
+  },
+  {
+   "uuid": "c38e77f4-daea-3a94-8b97-2f3a82c7a64b",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC Corporation",
+   "title": "FMC Corporation reports second quarter 2026 results with Adjusted EBITDA above high end of guidance range and solid cash generation",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-corporation-reports-second-quarter-203000883.html",
+   "published_unix": 1785357000,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-29T21:11:30"
+  },
+  {
+   "uuid": "deb11a0e-6a0b-3d3d-8f53-82597ed4984b",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers to Webcast Its Third Quarter 2026 Earnings Conference Call Live on August 19, 2026 at 8:30 a.m. (ET)",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-webcast-third-quarter-203000243.html",
+   "published_unix": 1785357000,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-29T21:11:50"
+  },
   {
    "uuid": "e93d305d-b0f8-37d8-af6c-dacea02dda17",
    "tickers": [
@@ -65,6 +130,58 @@
    "published_unix": 1785324600,
    "source_type": "yahoo",
    "captured_at": "2026-07-29T13:06:43"
+  },
+  {
+   "uuid": "df5edb8b-55d2-3afa-af61-5cc66c5da1a5",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "ARMK: Raising target price to $60.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/df5edb8b-55d2-3afa-af61-5cc66c5da1a5/armk%3A-raising-target-price-to.html",
+   "published_unix": 1785283200,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-29T21:11:29"
+  },
+  {
+   "uuid": "65193ff6-68b8-301c-9ce8-68db64311891",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC Corporation",
+   "title": "FMC: Lowering target price to $9.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/65193ff6-68b8-301c-9ce8-68db64311891/fmc%3A-lowering-target-price-to.html",
+   "published_unix": 1785283200,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-29T21:11:30"
+  },
+  {
+   "uuid": "474bd80d-37d4-3928-8a75-31249c3cc74b",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "FIVE: Raising target price to $218.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/474bd80d-37d4-3928-8a75-31249c3cc74b/five%3A-raising-target-price-to.html",
+   "published_unix": 1785283200,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-29T21:11:30"
+  },
+  {
+   "uuid": "6f6d5e62-b8a1-3497-ad5d-80fe560b917b",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores",
+   "title": "BURL: Raising target price to $389.00",
+   "publisher": "Argus Research",
+   "link": "https://finance.yahoo.com/m/6f6d5e62-b8a1-3497-ad5d-80fe560b917b/burl%3A-raising-target-price-to.html",
+   "published_unix": 1785283200,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-29T21:11:31"
   },
   {
    "uuid": "a27f9ef1cf1dd9cadc8a128ae0bb48e1b4a71bb1",
