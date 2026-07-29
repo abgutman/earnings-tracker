@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-07-29T17:37:22",
+ "generated_at": "2026-07-29T19:41:28",
  "items": [
+  {
+   "uuid": "e93d305d-b0f8-37d8-af6c-dacea02dda17",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Opens Cambric Village \u2013 Enclave Collection in Greenville, South Carolina",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-opens-cambric-village-190400223.html",
+   "published_unix": 1785351840,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-29T19:41:27"
+  },
   {
    "uuid": "ad343358-8a4f-3bea-ae33-bb9593c5755b",
    "tickers": [
