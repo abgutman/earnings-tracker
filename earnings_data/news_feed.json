@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-07-29T21:11:50",
+ "generated_at": "2026-07-29T23:13:33",
  "items": [
+  {
+   "uuid": "5199b1b1-4f28-3993-a5b6-5becdb9b1fe9",
+   "tickers": [
+    "WTRG"
+   ],
+   "company": "Essential Utilities",
+   "title": "Essential Utilities Announces Dividend Increase",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/essential-utilities-announces-dividend-increase-220300193.html",
+   "published_unix": 1785362580,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-29T23:12:40"
+  },
+  {
+   "uuid": "3913dd4e-e438-39d3-b227-4bab29e57e54",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC Corporation",
+   "title": "FMC: Q2 Earnings Snapshot",
+   "publisher": "Associated Press",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-q2-earnings-snapshot-214647620.html",
+   "published_unix": 1785361607,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-29T23:12:38"
+  },
   {
    "uuid": "4251d409-5a64-398a-bfb6-abd16e9fcea0",
    "tickers": [
