@@ -1251,3 +1251,16 @@
 [2026-07-28 23:45:37]   SND: pending_10q_since=2026-07-20 is 8d old — clearing stale flag
 [2026-07-28 23:45:38]   STIM: pending_10q_since=2026-07-20 is 8d old — clearing stale flag
 [2026-07-28 23:45:38] === CHECK-10Q complete. Checked 10, found 2, cleared 2 stale. ===
+[2026-07-29 13:05:25] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-07-29 13:05:25]   firehose: 8-K feed — 100 entries parsed
+[2026-07-29 13:05:25]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-07-29 13:05:26]   firehose: 8-K page 2 — 100 entries
+[2026-07-29 13:05:27]   firehose: 10-Q feed — 100 entries parsed
+[2026-07-29 13:05:27]   firehose: 100 watched CIKs, 300 total feed entries
+[2026-07-29 13:05:27]   ★ NEW 8k_202 for AVTR (Avantor, Inc.) filed 2026-07-29
+[2026-07-29 13:05:27]     https://www.sec.gov/Archives/edgar/data/1722482/000162828026050333/avtr-20260729.htm
+[2026-07-29 13:05:29]     ✉ alert sent (8k_202)
+[2026-07-29 13:05:29]   ★ NEW 10q for AVTR (Avantor, Inc.) filed 2026-07-29
+[2026-07-29 13:05:29]     https://www.sec.gov/Archives/edgar/data/1722482/000162828026050415/avtr-20260630.htm
+[2026-07-29 13:05:31]     ✉ alert sent (10q)
+[2026-07-29 13:05:31] === EDGAR FIREHOSE complete. 2 new detections. ===
