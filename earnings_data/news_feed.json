@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-07-29T03:32:21",
+ "generated_at": "2026-07-29T13:07:02",
  "items": [
+  {
+   "uuid": "ea141b40-5f34-3232-a788-6c473c620ed0",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Announces Quarterly Dividend",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/american-water-announces-quarterly-dividend-122600344.html",
+   "published_unix": 1785327960,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-29T13:06:45"
+  },
+  {
+   "uuid": "8f098640-9b04-3f1e-925c-cb6fc24391b7",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark Correctional Services Reimagines Dining with Beyond the Tray, a First-of-Its-Kind Hospitality Program",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/small-business/articles/aramark-correctional-services-reimagines-dining-113000103.html",
+   "published_unix": 1785324600,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-29T13:06:43"
+  },
   {
    "uuid": "a27f9ef1cf1dd9cadc8a128ae0bb48e1b4a71bb1",
    "tickers": [],
