@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-07-29T15:19:06",
+ "generated_at": "2026-07-29T17:37:22",
  "items": [
+  {
+   "uuid": "ad343358-8a4f-3bea-ae33-bb9593c5755b",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast hopes generous offers will slow internet customer losses",
+   "publisher": "TheStreet",
+   "link": "https://finance.yahoo.com/m/ad343358-8a4f-3bea-ae33-bb9593c5755b/comcast-hopes-generous-offers.html",
+   "published_unix": 1785342735,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-29T17:36:57"
+  },
   {
    "uuid": "13f86f23-4565-3446-b0ed-a15e0973d949",
    "tickers": [
@@ -1435,19 +1448,6 @@
    "published_unix": 1782871500,
    "source_type": "yahoo",
    "captured_at": "2026-07-19T09:06:23"
-  },
-  {
-   "uuid": "0fa97d01-eaf7-3c01-9910-88f6fc1bdf2f",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Aramark Seen Delivering Strong Fiscal Q3 Results, Oppenheimer Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-seen-delivering-strong-fiscal-155608247.html",
-   "published_unix": 1782748568,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-19T09:06:22"
   }
  ]
 }
