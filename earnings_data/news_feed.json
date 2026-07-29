@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-07-29T13:07:02",
+ "generated_at": "2026-07-29T15:19:06",
  "items": [
+  {
+   "uuid": "13f86f23-4565-3446-b0ed-a15e0973d949",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Xfinity Powers the Next Generation of Creators With \"Best in Class\"",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/media-advertising/articles/xfinity-powers-next-generation-creators-133000417.html",
+   "published_unix": 1785331800,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-29T15:18:40"
+  },
   {
    "uuid": "ea141b40-5f34-3232-a788-6c473c620ed0",
    "tickers": [
@@ -1433,19 +1446,6 @@
    "publisher": "MT Newswires",
    "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-seen-delivering-strong-fiscal-155608247.html",
    "published_unix": 1782748568,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-19T09:06:22"
-  },
-  {
-   "uuid": "51db6467-becb-3965-a4bf-510cf4447e2b",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Aramark Poised for Solid Third Quarter Amid Revenue Outperformance, Oppenheimer Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-poised-solid-third-quarter-151110803.html",
-   "published_unix": 1782745870,
    "source_type": "yahoo",
    "captured_at": "2026-07-19T09:06:22"
   }
