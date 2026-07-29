@@ -1280,3 +1280,11 @@
 [2026-07-29 15:55:15]   firehose: 10-Q feed — 100 entries parsed
 [2026-07-29 15:55:15]   firehose: 100 watched CIKs, 200 total feed entries
 [2026-07-29 15:55:15] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-07-29 17:23:53] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-07-29 17:23:54]   firehose: 8-K feed — 100 entries parsed
+[2026-07-29 17:23:55]   firehose: 10-Q feed — 100 entries parsed
+[2026-07-29 17:23:55]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-07-29 17:23:55]   ★ NEW 10q for AXTA (Axalta Coating Systems Ltd.) filed 2026-07-29
+[2026-07-29 17:23:55]     https://www.sec.gov/Archives/edgar/data/1616862/000162828026050466/axta-20260630.htm
+[2026-07-29 17:23:56]     ✉ alert sent (10q)
+[2026-07-29 17:23:56] === EDGAR FIREHOSE complete. 1 new detections. ===
