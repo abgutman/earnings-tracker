@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-07-30T15:23:02",
+ "generated_at": "2026-07-30T17:47:31",
  "items": [
+  {
+   "uuid": "93e58094-6804-37e3-8199-6a53430277d8",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Works Company, Inc. Q2 2026 Earnings Call Summary",
+   "publisher": "Moby",
+   "link": "https://finance.yahoo.com/m/93e58094-6804-37e3-8199-6a53430277d8/american-water-works-company%2C.html",
+   "published_unix": 1785414600,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-30T17:47:17"
+  },
   {
    "uuid": "0a22f957-dafb-3cf7-8fba-395167dc97d0",
    "tickers": [
