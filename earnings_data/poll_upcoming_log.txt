@@ -309,3 +309,20 @@
 [2026-07-29 23:46:56]   cleanup: removed 1 past entries
 [2026-07-29 23:46:56] === Done. Captured 1 new save-the-dates, cleaned 1 past. ===
 
+[2026-07-30 23:44:38] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-07-30 23:44:38] Polling Yahoo for 106 companies
+[2026-07-30 23:45:08]   + KWR: release=None call=2026-07-31 08:30 ET
+[2026-07-30 23:45:08]     via: QUAKER HOUGHTON ANNOUNCES SECOND QUARTER 2026 RESULTS
+[2026-07-30 23:45:09]   ✉ alert sent for KWR
+[2026-07-30 23:45:21]   + ISSC: release=2026-08-13 call=None 10:00 ET
+[2026-07-30 23:45:21]     via: Innovative Aerosystems Announces Third Quarter 2026 Results Conference Call and Webcast Date
+[2026-07-30 23:45:22]   ✉ alert sent for ISSC
+[2026-07-30 23:45:30]   + VRCA: release=2026-08-06 call=None None
+[2026-07-30 23:45:30]     via: Verrica Pharmaceuticals to Report Second Quarter 2026 Financial Results and Provide a Corporate Upda
+[2026-07-30 23:45:30]   ✉ alert sent for VRCA
+[2026-07-30 23:45:38]   + COHN: release=2026-08-03 call=None 10:00 ET
+[2026-07-30 23:45:38]     via: Cohen & Company Sets Release Date for Second Quarter 2026 Financial Results
+[2026-07-30 23:45:39]   ✉ alert sent for COHN
+[2026-07-30 23:45:57]   cleanup: removed 1 past entries
+[2026-07-30 23:45:57] === Done. Captured 4 new save-the-dates, cleaned 1 past. ===
+

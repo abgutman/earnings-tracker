@@ -40,16 +40,6 @@
   "source_type": "yahoo_auto",
   "captured_at": "2026-07-01T23:07:24"
  },
- "AVTR": {
-  "release_date": "2026-07-29",
-  "call_date": null,
-  "call_time": null,
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/avantor-report-second-quarter-2026-120500471.html",
-  "source_title": "Avantor\u00ae to Report Second Quarter 2026 Earnings on Wednesday, July 29, 2026",
-  "source_publisher": "PR Newswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-01T23:07:29"
- },
  "UGI": {
   "release_date": "2026-08-06",
   "call_date": null,
@@ -339,5 +329,45 @@
   "source_publisher": "GlobeNewswire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-07-29T23:45:56"
+ },
+ "KWR": {
+  "release_date": null,
+  "call_date": "2026-07-31",
+  "call_time": "08:30 ET",
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/quaker-houghton-announces-second-quarter-203000785.html",
+  "source_title": "QUAKER HOUGHTON ANNOUNCES SECOND QUARTER 2026 RESULTS",
+  "source_publisher": "PR Newswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-07-30T23:45:08"
+ },
+ "ISSC": {
+  "release_date": "2026-08-13",
+  "call_date": null,
+  "call_time": "10:00 ET",
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/innovative-aerosystems-announces-third-quarter-130000234.html",
+  "source_title": "Innovative Aerosystems Announces Third Quarter 2026 Results Conference Call and Webcast Date",
+  "source_publisher": "Business Wire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-07-30T23:45:21"
+ },
+ "VRCA": {
+  "release_date": "2026-08-06",
+  "call_date": null,
+  "call_time": null,
+  "source_url": "https://finance.yahoo.com/healthcare/articles/verrica-pharmaceuticals-report-second-quarter-120000179.html",
+  "source_title": "Verrica Pharmaceuticals to Report Second Quarter 2026 Financial Results and Provide a Corporate Update on August 6, 2026",
+  "source_publisher": "GlobeNewswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-07-30T23:45:30"
+ },
+ "COHN": {
+  "release_date": "2026-08-03",
+  "call_date": null,
+  "call_time": "10:00 ET",
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/cohen-company-sets-release-date-201500567.html",
+  "source_title": "Cohen & Company Sets Release Date for Second Quarter 2026 Financial Results",
+  "source_publisher": "GlobeNewswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-07-30T23:45:38"
  }
 }

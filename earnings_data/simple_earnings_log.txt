@@ -1444,3 +1444,16 @@
 [2026-07-30 22:31:29]   firehose: 10-Q feed — 100 entries parsed
 [2026-07-30 22:31:29]   firehose: 100 watched CIKs, 200 total feed entries
 [2026-07-30 22:31:29] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-07-30 23:45:58] === CHECK-10Q: scanning for pending 10-Q filings ===
+[2026-07-30 23:45:58]   ✓ 10-Q found for FMC (FMC CORP) filed 2026-07-30
+[2026-07-30 23:45:58]     https://www.sec.gov/Archives/edgar/data/37785/000003778526000142/fmc-20260630.htm
+[2026-07-30 23:45:58]   ✓ 10-Q found for LNC (LINCOLN NATIONAL CORP) filed 2026-07-30
+[2026-07-30 23:45:58]     https://www.sec.gov/Archives/edgar/data/59558/000005955826000060/lnc-20260630.htm
+[2026-07-30 23:45:59]   ✓ 10-Q found for UIS (UNISYS CORP) filed 2026-07-30
+[2026-07-30 23:45:59]     https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm
+[2026-07-30 23:45:59]   ✓ 10-Q found for KWR (QUAKER CHEMICAL CORP) filed 2026-07-30
+[2026-07-30 23:45:59]     https://www.sec.gov/Archives/edgar/data/81362/000162828026051107/kwr-20260630.htm
+[2026-07-30 23:46:00]   PKBK: pending_10q_since=2026-07-22 is 8d old — clearing stale flag
+[2026-07-30 23:46:01]   ✓ 10-Q found for HSY (HERSHEY CO) filed 2026-07-30
+[2026-07-30 23:46:01]     https://www.sec.gov/Archives/edgar/data/47111/000162828026050900/hsy-20260628.htm
+[2026-07-30 23:46:02] === CHECK-10Q complete. Checked 14, found 5, cleared 1 stale. ===
