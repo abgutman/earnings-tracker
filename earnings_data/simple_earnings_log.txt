@@ -1345,3 +1345,16 @@
 [2026-07-29 23:46:59]   ✓ 10-Q found for AVTR (Avantor, Inc.) filed 2026-07-29
 [2026-07-29 23:46:59]     https://www.sec.gov/Archives/edgar/data/1722482/000162828026050415/avtr-20260630.htm
 [2026-07-29 23:47:00] === CHECK-10Q complete. Checked 13, found 3, cleared 0 stale. ===
+[2026-07-30 12:50:05] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-07-30 12:50:05]   firehose: 8-K feed — 100 entries parsed
+[2026-07-30 12:50:05]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-07-30 12:50:06]   firehose: 8-K page 2 — 100 entries
+[2026-07-30 12:50:07]   firehose: 10-Q feed — 100 entries parsed
+[2026-07-30 12:50:07]   firehose: 100 watched CIKs, 300 total feed entries
+[2026-07-30 12:50:07]   ★ NEW 8k_202 for HSY (HERSHEY CO) filed 2026-07-30
+[2026-07-30 12:50:07]     https://www.sec.gov/Archives/edgar/data/47111/000162828026050769/hsy-20260730.htm
+[2026-07-30 12:50:08]     ✉ alert sent (8k_202)
+[2026-07-30 12:50:08]   ★ NEW 8k_202 for LNC (LINCOLN NATIONAL CORP) filed 2026-07-30
+[2026-07-30 12:50:08]     https://www.sec.gov/Archives/edgar/data/59558/000005955826000058/lnc-20260730.htm
+[2026-07-30 12:50:10]     ✉ alert sent (8k_202)
+[2026-07-30 12:50:10] === EDGAR FIREHOSE complete. 2 new detections. ===
