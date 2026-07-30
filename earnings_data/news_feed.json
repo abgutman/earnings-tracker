@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-07-30T21:22:03",
+ "generated_at": "2026-07-30T23:18:13",
  "items": [
+  {
+   "uuid": "9dcece9e-6f85-3fb2-99a2-444dd3c392f4",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Illinois American Water Supports Water Utility Workforce Development to Build the Next Generation of Water Professionals",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/illinois-american-water-supports-water-222700468.html",
+   "published_unix": 1785450420,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-30T23:17:54"
+  },
   {
    "uuid": "4ae7bffd-f3f3-31e4-beb7-2786e9482230",
    "tickers": [
@@ -39,6 +52,19 @@
    "published_unix": 1785414600,
    "source_type": "yahoo",
    "captured_at": "2026-07-30T17:47:17"
+  },
+  {
+   "uuid": "97c55f23-878e-31c1-acb5-5985241fb816",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC Corporation",
+   "title": "FMC Corporation Q2 2026 Earnings Call Summary",
+   "publisher": "Moby",
+   "link": "https://finance.yahoo.com/m/97c55f23-878e-31c1-acb5-5985241fb816/fmc-corporation-q2-2026.html",
+   "published_unix": 1785414600,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-30T23:17:52"
   },
   {
    "uuid": "0a22f957-dafb-3cf7-8fba-395167dc97d0",
