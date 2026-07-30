@@ -1358,3 +1358,11 @@
 [2026-07-30 12:50:08]     https://www.sec.gov/Archives/edgar/data/59558/000005955826000058/lnc-20260730.htm
 [2026-07-30 12:50:10]     ✉ alert sent (8k_202)
 [2026-07-30 12:50:10] === EDGAR FIREHOSE complete. 2 new detections. ===
+[2026-07-30 14:56:56] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-07-30 14:57:00]   firehose: 8-K feed — 100 entries parsed
+[2026-07-30 14:57:01]   firehose: 10-Q feed — 100 entries parsed
+[2026-07-30 14:57:01]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-07-30 14:57:01]   ★ NEW 10q for HSY (HERSHEY CO) filed 2026-07-30
+[2026-07-30 14:57:01]     https://www.sec.gov/Archives/edgar/data/47111/000162828026050900/hsy-20260628.htm
+[2026-07-30 14:57:02]     ✉ alert sent (10q)
+[2026-07-30 14:57:02] === EDGAR FIREHOSE complete. 1 new detections. ===
