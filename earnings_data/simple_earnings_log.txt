@@ -1382,3 +1382,14 @@
 [2026-07-30 17:43:17]   firehose: 10-Q feed — 100 entries parsed
 [2026-07-30 17:43:17]   firehose: 100 watched CIKs, 200 total feed entries
 [2026-07-30 17:43:17] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-07-30 19:45:20] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-07-30 19:45:21]   firehose: 8-K feed — 100 entries parsed
+[2026-07-30 19:45:22]   firehose: 10-Q feed — 100 entries parsed
+[2026-07-30 19:45:22]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-07-30 19:45:22]   ★ NEW 10q for LNC (LINCOLN NATIONAL CORP) filed 2026-07-30
+[2026-07-30 19:45:22]     https://www.sec.gov/Archives/edgar/data/59558/000005955826000060/lnc-20260630.htm
+[2026-07-30 19:45:23]     ✉ alert sent (10q)
+[2026-07-30 19:45:23]   ★ NEW 10q for FMC (FMC CORP) filed 2026-07-30
+[2026-07-30 19:45:23]     https://www.sec.gov/Archives/edgar/data/37785/000003778526000142/fmc-20260630.htm
+[2026-07-30 19:45:25]     ✉ alert sent (10q)
+[2026-07-30 19:45:25] === EDGAR FIREHOSE complete. 2 new detections. ===
