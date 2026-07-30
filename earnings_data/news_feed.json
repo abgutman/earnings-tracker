@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-07-30T17:47:31",
+ "generated_at": "2026-07-30T19:50:44",
  "items": [
+  {
+   "uuid": "4ae7bffd-f3f3-31e4-beb7-2786e9482230",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces Tribute at Valor is Now Open in Kuna, Idaho",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-tribute-valor-190400280.html",
+   "published_unix": 1785438240,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-30T19:50:43"
+  },
+  {
+   "uuid": "e7d449eb-d6d8-32ac-986d-b27f4db8244c",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Analyst Report: American Water Works Company, Inc.",
+   "publisher": "Morningstar Research",
+   "link": "https://finance.yahoo.com/m/e7d449eb-d6d8-32ac-986d-b27f4db8244c/analyst-report%3A-american.html",
+   "published_unix": 1785432911,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-30T19:50:25"
+  },
   {
    "uuid": "93e58094-6804-37e3-8199-6a53430277d8",
    "tickers": [
