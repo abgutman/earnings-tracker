@@ -1429,3 +1429,13 @@
 [2026-07-30 21:19:09]     https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm
 [2026-07-30 21:19:10]     ✉ alert sent (10q)
 [2026-07-30 21:19:10] === EDGAR FIREHOSE complete. 7 new detections. ===
+[2026-07-30 22:30:46] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-07-30 22:30:52]   ★ NEW 8k_202 for CRS (CARPENTER TECHNOLOGY CORP) filed 2026-07-30
+[2026-07-30 22:30:52]     https://www.sec.gov/Archives/edgar/data/17843/000001784326000030/crs-20260730.htm
+[2026-07-30 22:30:53]     ✉ alert sent (8k_202)
+[2026-07-30 22:30:53]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0000017843.json'
+[2026-07-30 22:30:56]   ★ NEW 8k_202 for KWR (QUAKER CHEMICAL CORP) filed 2026-07-30
+[2026-07-30 22:30:56]     https://www.sec.gov/Archives/edgar/data/81362/000162828026051098/kwr-20260730.htm
+[2026-07-30 22:30:57]     ✉ alert sent (8k_202)
+[2026-07-30 22:30:57]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0000081362.json'
+[2026-07-30 22:31:12] === EDGAR POLL complete. Fetched 100 companies, 2 new filings. ===
