@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-31T03:46:19",
+ "generated_at": "2026-07-31T13:05:53",
  "items": [
   {
    "uuid": "728b8f9c-cdfd-3df0-8a0f-f2b3f06c2d31",
@@ -1667,19 +1667,6 @@
    "publisher": "InvestorsHub",
    "link": "https://finance.yahoo.com/m/27139779-3adc-3138-8287-9b742a9685f9/fmc-shares-surge-after.html",
    "published_unix": 1782915031,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-19T09:06:23"
-  },
-  {
-   "uuid": "ea2979ec-116c-326d-98dc-58a5cf72c45f",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC Corporation",
-   "title": "FMC to Sell $400 Million of Common to Tessenderlo Group at $13.30 Each",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-sell-400-million-common-074535663.html",
-   "published_unix": 1782891935,
    "source_type": "yahoo",
    "captured_at": "2026-07-19T09:06:23"
   }
