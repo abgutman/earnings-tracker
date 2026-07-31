@@ -1491,3 +1491,16 @@
 [2026-07-31 19:46:39] === EDGAR FIREHOSE complete. 0 new detections. ===
 [2026-07-31 19:57:34] === EDGAR POLL: scanning for new earnings filings (live=True) ===
 [2026-07-31 19:58:11] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
+[2026-07-31 21:15:14] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-07-31 21:15:14]   firehose: 8-K feed — 100 entries parsed
+[2026-07-31 21:15:14]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-07-31 21:15:15]   firehose: 8-K page 2 — 100 entries
+[2026-07-31 21:15:16]   firehose: 10-Q feed — 100 entries parsed
+[2026-07-31 21:15:16]   firehose: 100 watched CIKs, 300 total feed entries
+[2026-07-31 21:15:17]   ★ NEW 8k_701 for GRTX (Galera Therapeutics, Inc.) filed 2026-07-31
+[2026-07-31 21:15:17]     https://www.sec.gov/Archives/edgar/data/1563577/000119312526328716/d138144d8k.htm
+[2026-07-31 21:15:17]     ✉ alert sent (8k_701)
+[2026-07-31 21:15:18]   ★ NEW 10q for CUBE (CubeSmart) filed 2026-07-31
+[2026-07-31 21:15:18]     https://www.sec.gov/Archives/edgar/data/1298675/000129867526000038/cube-20260630x10q.htm
+[2026-07-31 21:15:19]     ✉ alert sent (10q)
+[2026-07-31 21:15:19] === EDGAR FIREHOSE complete. 2 new detections. ===
