@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-07-31T13:05:53",
+ "generated_at": "2026-07-31T15:28:32",
  "items": [
+  {
+   "uuid": "6f5c7ee6-4308-3ae7-b348-3ed5f4bd5d22",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Mizuho Adjusts Price Target on American Water Works to $140 From $130, Maintains Neutral Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/mizuho-adjusts-price-target-american-132405674.html",
+   "published_unix": 1785504245,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-31T15:28:17"
+  },
+  {
+   "uuid": "45914443-f5a7-30b1-8816-bab88c42a0fe",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Completes High-Speed Network Expansion to Waterbury, Bringing Advanced Technology Solutions to Businesses of All Sizes",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/articles/comcast-completes-high-speed-network-130000174.html",
+   "published_unix": 1785502800,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-31T15:28:14"
+  },
   {
    "uuid": "728b8f9c-cdfd-3df0-8a0f-f2b3f06c2d31",
    "tickers": [
@@ -1656,19 +1682,6 @@
    "published_unix": 1782937800,
    "source_type": "yahoo",
    "captured_at": "2026-07-19T09:06:22"
-  },
-  {
-   "uuid": "27139779-3adc-3138-8287-9b742a9685f9",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC Corporation",
-   "title": "FMC shares surge after Tessenderlo agrees to acquire 20% stake (FMC)",
-   "publisher": "InvestorsHub",
-   "link": "https://finance.yahoo.com/m/27139779-3adc-3138-8287-9b742a9685f9/fmc-shares-surge-after.html",
-   "published_unix": 1782915031,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-19T09:06:23"
   }
  ]
 }
