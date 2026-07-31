@@ -1,25 +1,5 @@
 {
  "_comment": "Confirmed upcoming earnings dates. Populated manually + by future auto-extraction from save-the-date press releases. Each entry: release_date (YYYY-MM-DD), optionally call_date, call_time (HH:MM ET), source_url, source_title.",
- "FMC": {
-  "release_date": "2026-07-29",
-  "call_date": "2026-07-30",
-  "call_time": "09:00 ET",
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/fmc-corporation-announces-date-second-203000901.html",
-  "source_title": "FMC Corporation announces date for second quarter 2026 earnings release and webcast conference call",
-  "source_publisher": "PR Newswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-06-22T23:14:59"
- },
- "LNC": {
-  "release_date": "2026-07-30",
-  "call_date": null,
-  "call_time": null,
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/lincoln-financial-report-2026-second-201500356.html",
-  "source_title": "Lincoln Financial to Report 2026 Second Quarter Results on July 30",
-  "source_publisher": "Business Wire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-06-30T23:05:17"
- },
  "COR": {
   "release_date": "2026-08-05",
   "call_date": null,
@@ -30,16 +10,6 @@
   "source_type": "yahoo_auto",
   "captured_at": "2026-07-01T23:07:18"
  },
- "CRS": {
-  "release_date": "2026-07-30",
-  "call_date": "2026-07-30",
-  "call_time": "10:00 ET",
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/carpenter-technology-announces-conference-call-130000003.html",
-  "source_title": "Carpenter Technology Announces Conference Call and Webcast",
-  "source_publisher": "GlobeNewswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-01T23:07:24"
- },
  "UGI": {
   "release_date": "2026-08-06",
   "call_date": null,
@@ -49,16 +19,6 @@
   "source_publisher": "Business Wire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-07-06T23:50:42"
- },
- "CUBE": {
-  "release_date": "2026-07-30",
-  "call_date": null,
-  "call_time": "11:00 ET",
-  "source_url": "https://finance.yahoo.com/real-estate/articles/cubesmart-announces-date-second-quarter-201500276.html",
-  "source_title": "CubeSmart Announces the Date of Its Second Quarter 2026 Earnings Release and Conference Call",
-  "source_publisher": "GlobeNewswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-06T23:50:51"
  },
  "VSNT": {
   "release_date": "2026-08-06",
@@ -100,16 +60,6 @@
   "source_type": "yahoo_auto",
   "captured_at": "2026-07-08T23:52:35"
  },
- "AWK": {
-  "release_date": "2026-07-30",
-  "call_date": null,
-  "call_time": null,
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/american-waters-2026-second-quarter-140000885.html",
-  "source_title": "American Water's 2026 Second Quarter Conference Call Scheduled for July 30, 2026",
-  "source_publisher": "PR Newswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-09T23:54:23"
- },
  "FSK": {
   "release_date": "2026-08-06",
   "call_date": "2026-08-06",
@@ -119,16 +69,6 @@
   "source_publisher": "PR Newswire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-07-09T23:54:32"
- },
- "HSY": {
-  "release_date": "2026-07-30",
-  "call_date": null,
-  "call_time": "09:00 ET",
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/hershey-webcast-second-quarter-conference-130000108.html",
-  "source_title": "Hershey to Webcast Second-Quarter Conference Call",
-  "source_publisher": "PR Newswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-09T23:55:13"
  },
  "IRT": {
   "release_date": null,
