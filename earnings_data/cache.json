@@ -733,12 +733,12 @@
     "url": "https://www.sec.gov/Archives/edgar/data/1298675/000129867526000025/cube-20260514x8k.htm"
    }
   ],
-  "last_8k_detected_at": "2026-07-31T13:02:41.962164+00:00",
+  "last_8k_detected_at": "2026-07-31T22:27:09.100903+00:00",
   "last_detected_date": "2026-07-31",
-  "last_detected_accession": "0001298675-26-000038",
-  "last_detected_type": "10q",
-  "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1298675/000129867526000038/cube-20260630x10q.htm",
-  "last_detected_at": "2026-07-31T21:15:14.200411+00:00",
+  "last_detected_accession": "0001298675-26-000035",
+  "last_detected_type": "8k_202",
+  "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1298675/000129867526000035/cube-20260730x8k.htm",
+  "last_detected_at": "2026-07-31T22:27:09.100903+00:00",
   "pending_10q_since": "2026-07-31",
   "last_10q_url": null
  },
