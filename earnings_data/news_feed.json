@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-31T19:51:21",
+ "generated_at": "2026-07-31T21:20:46",
  "items": [
   {
    "uuid": "2ed44085-7e5e-3ff0-9bce-5d420afc9c20",
@@ -13,6 +13,19 @@
    "published_unix": 1785523920,
    "source_type": "yahoo",
    "captured_at": "2026-07-31T19:51:08"
+  },
+  {
+   "uuid": "3c1a2769-cf38-31e3-a0a1-f523d6ee38cc",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "NBCUniversal names new CFO ahead of spinoff",
+   "publisher": "CFO Dive",
+   "link": "https://finance.yahoo.com/m/3c1a2769-cf38-31e3-a0a1-f523d6ee38cc/nbcuniversal-names-new-cfo.html",
+   "published_unix": 1785507475,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-31T21:20:18"
   },
   {
    "uuid": "6f5c7ee6-4308-3ae7-b348-3ed5f4bd5d22",
@@ -1680,19 +1693,6 @@
    "publisher": "MT Newswires",
    "link": "https://finance.yahoo.com/markets/stocks/articles/evercore-isi-adjusts-price-target-131756525.html",
    "published_unix": 1783430276,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-19T09:06:22"
-  },
-  {
-   "uuid": "b97d9ed4-5332-326f-9922-d492554f661d",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora",
-   "title": "Cencora Announces Date and Time for Third Quarter Fiscal 2026 Earnings Release",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/healthcare/articles/cencora-announces-date-time-third-203000029.html",
-   "published_unix": 1782937800,
    "source_type": "yahoo",
    "captured_at": "2026-07-19T09:06:22"
   }
