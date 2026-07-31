@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-07-30T23:18:13",
+ "generated_at": "2026-07-31T03:46:19",
  "items": [
+  {
+   "uuid": "728b8f9c-cdfd-3df0-8a0f-f2b3f06c2d31",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "UNITE HERE Local 11 Releases Letter Urging Greene County Ohio Board of Commissioners and Captain Tony Buschur to Consider Aramark\u2019s Problematic Track Record in Prison Food Service and Award Contract to Alternate Provider",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/small-business/articles/unite-local-11-releases-letter-021900097.html",
+   "published_unix": 1785464340,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-31T03:46:03"
+  },
   {
    "uuid": "9dcece9e-6f85-3fb2-99a2-444dd3c392f4",
    "tickers": [
@@ -1667,19 +1680,6 @@
    "publisher": "MT Newswires",
    "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-sell-400-million-common-074535663.html",
    "published_unix": 1782891935,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-19T09:06:23"
-  },
-  {
-   "uuid": "05a04ff1-11eb-3930-a668-09f58259abec",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC Corporation",
-   "title": "FMC Corporation Reaches Agreement for $400 Million Minority Equity Investment from Tessenderlo Group",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-corporation-reaches-agreement-400-020500932.html",
-   "published_unix": 1782871500,
    "source_type": "yahoo",
    "captured_at": "2026-07-19T09:06:23"
   }
