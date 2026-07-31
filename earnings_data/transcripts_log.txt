@@ -2162,3 +2162,40 @@
 [2026-07-30 20:45:41] No new transcripts found; transcripts.json unchanged
 [2026-07-30 20:45:41] === Done. 0 new transcript links found. ===
 
+[2026-07-31 01:11:09] === Fool transcript harvest start (dry_run=False) ===
+[2026-07-31 01:11:09] Loaded 122 tickers from expanded_companies.json
+[2026-07-31 01:11:09] Recent tickers (last filing within 14d): ['AVTR', 'AWK', 'AXR', 'AXTA', 'BDN', 'CMCSA', 'CRS', 'FMC', 'HCSG', 'HSY', 'INO', 'JNJ', 'KWR', 'LNC', 'MRBK', 'PKBK', 'QNBC', 'QNTO', 'QVCAQ', 'SEIC', 'SND', 'STIM', 'UHS', 'UHT', 'UIS', 'UVSP', 'WST']
+[2026-07-31 01:11:09] Seed backfill: all seeds already in state
+[2026-07-31 01:11:09] Fetching Fool transcript index: https://www.fool.com/earnings-call-transcripts/
+[2026-07-31 01:11:10]   Found 20 transcript links on index page
+[2026-07-31 01:11:10]   Fool index matched tickers: []
+[2026-07-31 01:11:10] Yahoo secondary search for 26 tickers: ['AVTR', 'AWK', 'AXR', 'AXTA', 'BDN', 'CRS', 'FMC', 'HCSG', 'HSY', 'INO', 'JNJ', 'KWR', 'LNC', 'MRBK', 'PKBK', 'QNBC', 'QNTO', 'QVCAQ', 'SEIC', 'SND', 'STIM', 'UHS', 'UHT', 'UIS', 'UVSP', 'WST']
+[2026-07-31 01:11:10]   MISS [Yahoo] AVTR: no transcript items in feed
+[2026-07-31 01:11:11]   MISS [Yahoo] AWK: no transcript items in feed
+[2026-07-31 01:11:11]   MISS [Yahoo] AXR: no transcript items in feed
+[2026-07-31 01:11:12]   MISS [Yahoo] AXTA: no transcript items in feed
+[2026-07-31 01:11:12]   MISS [Yahoo] BDN: no transcript items in feed
+[2026-07-31 01:11:13]   MISS [Yahoo] CRS: no transcript items in feed
+[2026-07-31 01:11:13]   MISS [Yahoo] FMC: no transcript items in feed
+[2026-07-31 01:11:14]   MISS [Yahoo] HCSG: no transcript items in feed
+[2026-07-31 01:11:14]   MISS [Yahoo] HSY: no transcript items in feed
+[2026-07-31 01:11:15]   MISS [Yahoo] INO: no transcript items in feed
+[2026-07-31 01:11:15]   MISS [Yahoo] JNJ: no transcript items in feed
+[2026-07-31 01:11:16]   MISS [Yahoo] KWR: no transcript items in feed
+[2026-07-31 01:11:16]   MISS [Yahoo] LNC: no transcript items in feed
+[2026-07-31 01:11:17]   MISS [Yahoo] MRBK: no transcript items in feed
+[2026-07-31 01:11:17]   MISS [Yahoo] PKBK: no transcript items in feed
+[2026-07-31 01:11:18]   MISS [Yahoo] QNBC: no transcript items in feed
+[2026-07-31 01:11:18]   MISS [Yahoo] QNTO: no transcript items in feed
+[2026-07-31 01:11:19]   MISS [Yahoo] QVCAQ: no transcript items in feed
+[2026-07-31 01:11:19]   MISS [Yahoo] SEIC: no transcript items in feed
+[2026-07-31 01:11:20]   MISS [Yahoo] SND: no transcript items in feed
+[2026-07-31 01:11:20]   MISS [Yahoo] STIM: no transcript items in feed
+[2026-07-31 01:11:21]   MISS [Yahoo] UHS: no transcript items in feed
+[2026-07-31 01:11:21]   MISS [Yahoo] UHT: no transcript items in feed
+[2026-07-31 01:11:22]   MISS [Yahoo] UIS: no transcript items in feed
+[2026-07-31 01:11:22]   MISS [Yahoo] UVSP: no transcript items in feed
+[2026-07-31 01:11:22]   MISS [Yahoo] WST: no transcript items in feed
+[2026-07-31 01:11:22] No new transcripts found; transcripts.json unchanged
+[2026-07-31 01:11:22] === Done. 0 new transcript links found. ===
+
