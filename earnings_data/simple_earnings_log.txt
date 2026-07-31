@@ -1457,3 +1457,13 @@
 [2026-07-30 23:46:01]   ✓ 10-Q found for HSY (HERSHEY CO) filed 2026-07-30
 [2026-07-30 23:46:01]     https://www.sec.gov/Archives/edgar/data/47111/000162828026050900/hsy-20260628.htm
 [2026-07-30 23:46:02] === CHECK-10Q complete. Checked 14, found 5, cleared 1 stale. ===
+[2026-07-31 13:02:41] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-07-31 13:02:45]   firehose: 8-K feed — 100 entries parsed
+[2026-07-31 13:02:45]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-07-31 13:02:52]   firehose: 8-K page 2 — 100 entries
+[2026-07-31 13:02:53]   firehose: 10-Q feed — 100 entries parsed
+[2026-07-31 13:02:53]   firehose: 100 watched CIKs, 300 total feed entries
+[2026-07-31 13:02:53]   ★ NEW 8k_202 for CUBE (CubeSmart) filed 2026-07-31
+[2026-07-31 13:02:53]     https://www.sec.gov/Archives/edgar/data/1298675/000129867526000035/cube-20260730x8k.htm
+[2026-07-31 13:02:54]     ✉ alert sent (8k_202)
+[2026-07-31 13:02:54] === EDGAR FIREHOSE complete. 1 new detections. ===

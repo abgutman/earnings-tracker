@@ -716,15 +716,15 @@
   "name": "CubeSmart",
   "cik": 1298675,
   "priority_tier": 2,
-  "last_event_date": "2026-06-01T16:22:56.000Z",
-  "last_event_title": "8-K item 2.02 filed 2026-06-01",
+  "last_event_date": "2026-07-31T07:37:38.000Z",
+  "last_event_title": "8k_202 filed 2026-07-31",
   "last_event_source": "edgar",
-  "last_event_url": "https://www.sec.gov/Archives/edgar/data/1298675/000129867526000030/cube-20260601x8k.htm",
+  "last_event_url": "https://www.sec.gov/Archives/edgar/data/1298675/000129867526000035/cube-20260730x8k.htm",
   "last_event_publisher": "GlobeNewswire",
   "edgar_accession": "0001298675-26-000025",
-  "last_8k_date": "2026-06-01",
-  "last_8k_accession": "0001298675-26-000030",
-  "last_8k_url": "https://www.sec.gov/Archives/edgar/data/1298675/000129867526000030/cube-20260601x8k.htm",
+  "last_8k_date": "2026-07-31",
+  "last_8k_accession": "0001298675-26-000035",
+  "last_8k_url": "https://www.sec.gov/Archives/edgar/data/1298675/000129867526000035/cube-20260730x8k.htm",
   "history": [
    {
     "date": "2026-05-14T11:17:22.000Z",
@@ -733,11 +733,14 @@
     "url": "https://www.sec.gov/Archives/edgar/data/1298675/000129867526000025/cube-20260514x8k.htm"
    }
   ],
-  "last_8k_detected_at": "2026-06-02T01:15:03.452333+00:00",
-  "last_detected_date": "2026-06-01",
-  "last_detected_accession": "0001298675-26-000030",
+  "last_8k_detected_at": "2026-07-31T13:02:41.962164+00:00",
+  "last_detected_date": "2026-07-31",
+  "last_detected_accession": "0001298675-26-000035",
   "last_detected_type": "8k_202",
-  "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1298675/000129867526000030/cube-20260601x8k.htm"
+  "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1298675/000129867526000035/cube-20260730x8k.htm",
+  "last_detected_at": "2026-07-31T13:02:41.962164+00:00",
+  "pending_10q_since": "2026-07-31",
+  "last_10q_url": null
  },
  "VSNT": {
   "ticker": "VSNT",
