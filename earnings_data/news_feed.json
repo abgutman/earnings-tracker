@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-07-31T17:51:20",
+ "generated_at": "2026-07-31T19:51:21",
  "items": [
+  {
+   "uuid": "2ed44085-7e5e-3ff0-9bce-5d420afc9c20",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Illinois American Water Celebrates One Year of Expanded Income-Based Discount Program",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/illinois-american-water-celebrates-one-185200968.html",
+   "published_unix": 1785523920,
+   "source_type": "yahoo",
+   "captured_at": "2026-07-31T19:51:08"
+  },
   {
    "uuid": "6f5c7ee6-4308-3ae7-b348-3ed5f4bd5d22",
    "tickers": [
