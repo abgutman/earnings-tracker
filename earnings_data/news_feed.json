@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-03T16:40:26",
+ "generated_at": "2026-08-03T18:57:43",
  "items": [
+  {
+   "uuid": "f0626c86-3bf6-369d-9d01-4c9341ea3313",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces Model Home Grand Opening at Vintage Grove in Fuquay-Varina, North Carolina",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-model-home-185300931.html",
+   "published_unix": 1785783180,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-03T18:57:43"
+  },
   {
    "uuid": "f577c069-45cf-31c9-8792-46f18d75c1fd",
    "tickers": [
