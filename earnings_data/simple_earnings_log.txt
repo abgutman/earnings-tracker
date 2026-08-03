@@ -1519,3 +1519,13 @@
 [2026-07-31 23:47:08]   ✓ 10-Q found for CUBE (CubeSmart) filed 2026-07-31
 [2026-07-31 23:47:08]     https://www.sec.gov/Archives/edgar/data/1298675/000129867526000038/cube-20260630x10q.htm
 [2026-07-31 23:47:10] === CHECK-10Q complete. Checked 11, found 1, cleared 0 stale. ===
+[2026-08-03 13:45:45] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-03 13:45:45]   firehose: 8-K feed — 100 entries parsed
+[2026-08-03 13:45:45]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-08-03 13:45:55]   firehose: 8-K page 2 — 100 entries
+[2026-08-03 13:46:07]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-03 13:46:07]   firehose: 100 watched CIKs, 300 total feed entries
+[2026-08-03 13:46:08]   ★ NEW 8k_202 for COHN (Cohen & Co Inc.) filed 2026-08-03
+[2026-08-03 13:46:08]     https://www.sec.gov/Archives/edgar/data/1270436/000110465926089490/tm2621624d1_8k.htm
+[2026-08-03 13:46:10]     ✉ alert sent (8k_202)
+[2026-08-03 13:46:10] === EDGAR FIREHOSE complete. 1 new detections. ===
