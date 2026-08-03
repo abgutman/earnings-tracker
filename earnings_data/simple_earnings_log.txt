@@ -1531,3 +1531,11 @@
 [2026-08-03 13:46:10] === EDGAR FIREHOSE complete. 1 new detections. ===
 [2026-08-03 15:57:59] === EDGAR POLL: scanning for new earnings filings (live=True) ===
 [2026-08-03 15:58:27] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
+[2026-08-03 16:08:14] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-03 16:08:14]   firehose: 8-K feed — 100 entries parsed
+[2026-08-03 16:08:15]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-03 16:08:15]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-08-03 16:08:16]   ★ NEW 10q for COHN (Cohen & Co Inc.) filed 2026-08-03
+[2026-08-03 16:08:16]     https://www.sec.gov/Archives/edgar/data/1270436/000143774926025339/cohn20260630_10q.htm
+[2026-08-03 16:08:18]     ✉ alert sent (10q)
+[2026-08-03 16:08:18] === EDGAR FIREHOSE complete. 1 new detections. ===
