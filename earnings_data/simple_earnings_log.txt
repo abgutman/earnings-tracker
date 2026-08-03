@@ -1563,3 +1563,19 @@
 [2026-08-03 20:15:45]     https://www.sec.gov/Archives/edgar/data/1466085/000143774926025436/irt20260504c_8k.htm
 [2026-08-03 20:15:50]     ✉ alert sent (8k_202)
 [2026-08-03 20:15:50] === EDGAR FIREHOSE complete. 1 new detections. ===
+[2026-08-03 21:14:00] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-03 21:14:01]   firehose: 8-K feed — 100 entries parsed
+[2026-08-03 21:14:01]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-08-03 21:14:21]   firehose: 8-K feed fetch failed (rc=28)
+[2026-08-03 21:14:22]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-03 21:14:22]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-08-03 21:14:22]   ★ NEW 8k_701 for TFX (TELEFLEX INC) filed 2026-08-03
+[2026-08-03 21:14:22]     https://www.sec.gov/Archives/edgar/data/96943/000009694326000084/tfx-20260803.htm
+[2026-08-03 21:14:23]     ✉ alert sent (8k_701)
+[2026-08-03 21:14:23]   ★ NEW 8k_202 for DORM (Dorman Products, Inc.) filed 2026-08-03
+[2026-08-03 21:14:23]     https://www.sec.gov/Archives/edgar/data/868780/000086878026000037/dorm-20260803.htm
+[2026-08-03 21:14:24]     ✉ alert sent (8k_202)
+[2026-08-03 21:14:24]   ★ NEW 8k_701 for QVCAQ (QVC Group, Inc.) filed 2026-08-03
+[2026-08-03 21:14:24]     https://www.sec.gov/Archives/edgar/data/1355096/000110465926089808/tm2621891d1_8k.htm
+[2026-08-03 21:14:26]     ✉ alert sent (8k_701)
+[2026-08-03 21:14:26] === EDGAR FIREHOSE complete. 3 new detections. ===
