@@ -270,16 +270,6 @@
   "source_type": "yahoo_auto",
   "captured_at": "2026-07-29T23:45:56"
  },
- "KWR": {
-  "release_date": null,
-  "call_date": "2026-07-31",
-  "call_time": "08:30 ET",
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/quaker-houghton-announces-second-quarter-203000785.html",
-  "source_title": "QUAKER HOUGHTON ANNOUNCES SECOND QUARTER 2026 RESULTS",
-  "source_publisher": "PR Newswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-30T23:45:08"
- },
  "ISSC": {
   "release_date": "2026-08-13",
   "call_date": null,

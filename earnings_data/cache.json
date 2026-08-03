@@ -1548,7 +1548,6 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/6207/000110465926086664/tm2621237d1_8k.htm",
   "last_detected_at": "2026-07-24T21:13:57.510285+00:00",
   "last_8k_detected_at": "2026-07-24T21:13:57.510285+00:00",
-  "pending_10q_since": "2026-07-24",
   "last_10q_url": null
  },
  "HSDT": {
@@ -1762,8 +1761,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1270436/000110465926089490/tm2621624d1_8k.htm",
   "last_detected_at": "2026-08-03T20:03:38.914956+00:00",
   "last_8k_detected_at": "2026-08-03T20:03:38.914956+00:00",
-  "pending_10q_since": "2026-08-03",
-  "last_10q_url": null
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1270436/000143774926025339/cohn20260630_10q.htm"
  },
  "TRAW": {
   "ticker": "TRAW",
