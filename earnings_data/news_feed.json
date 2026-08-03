@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-03T13:48:31",
+ "generated_at": "2026-08-03T16:40:26",
  "items": [
+  {
+   "uuid": "f577c069-45cf-31c9-8792-46f18d75c1fd",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Missouri American Water Announces Annual Firefighting Support Grant Program",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/missouri-american-water-announces-annual-150000733.html",
+   "published_unix": 1785769200,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-03T16:40:08"
+  },
   {
    "uuid": "892e22e6-30f4-3138-a65b-cccb81df2685",
    "tickers": [
