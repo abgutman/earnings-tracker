@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-08-01T03:45:30",
+ "generated_at": "2026-08-03T13:48:31",
  "items": [
+  {
+   "uuid": "892e22e6-30f4-3138-a65b-cccb81df2685",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC Corporation",
+   "title": "RBC Capital Adjusts FMC Price Target to $11 From $12, Maintains Sector Perform Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-capital-adjusts-fmc-price-115629101.html",
+   "published_unix": 1785758189,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-03T13:48:02"
+  },
+  {
+   "uuid": "fa390e80-b420-3c64-b008-3b01fd8d6990",
+   "tickers": [
+    "WTRG"
+   ],
+   "company": "Essential Utilities",
+   "title": "Essential Utilities Recognizes National Water Quality Month and Reaffirms Commitment to Protecting and Providing Earth's Most Precious Resource",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/energy/articles/essential-utilities-recognizes-national-water-110000088.html",
+   "published_unix": 1785754800,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-03T13:48:04"
+  },
   {
    "uuid": "2ed44085-7e5e-3ff0-9bce-5d420afc9c20",
    "tickers": [
