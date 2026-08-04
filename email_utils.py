@@ -230,7 +230,7 @@ def body_save_the_date(name, ticker, release_date, call_date, call_time, source_
         rows=rows,
         cta_url=source_url,
         cta_label="Read Press Release →",
-        dashboard_url="https://abgutman.github.io/av-tools/upcoming_earnings.html",
+        dashboard_url="https://abgutman.github.io/earnings-tracker/upcoming_earnings.html",
         source_note="Source: Yahoo Finance / wire services (Business Wire, GlobeNewswire, PR Newswire)",
     )
 

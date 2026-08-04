@@ -81,7 +81,7 @@ if std_hits:
         if entry.get("source_url"):
             lines.append(f"  Source:       {entry['source_url']}")
         lines.append("")
-    lines.append("Dashboard: https://abgutman.github.io/av-tools/upcoming_earnings.html")
+    lines.append("Dashboard: https://abgutman.github.io/earnings-tracker/upcoming_earnings.html")
     subject = f"Save the date: {len(std_hits)} new earnings date{'s' if len(std_hits) > 1 else ''} in last 24h"
     body = "\n".join(lines)
     print(f"TO: {', '.join(EMAIL_TO)}")
