@@ -1649,3 +1649,21 @@
 [2026-08-04 15:32:34]     https://www.sec.gov/Archives/edgar/data/1037868/000103786826000173/ame-20260804.htm
 [2026-08-04 15:32:35]     ✉ alert sent (8k_202)
 [2026-08-04 15:32:35] === EDGAR FIREHOSE complete. 1 new detections. ===
+[2026-08-04 15:40:29] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-08-04 15:40:35]   ★ NEW 8k_202 for LRMR (Larimar Therapeutics, Inc.) filed 2026-08-04
+[2026-08-04 15:40:35]     https://www.sec.gov/Archives/edgar/data/1374690/000119312526331516/lrmr-20260804.htm
+[2026-08-04 15:40:37]     ✉ alert sent (8k_202)
+[2026-08-04 15:40:37]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001374690.json'
+[2026-08-04 15:40:37]   ★ NEW 8k_202 for HRMY (Harmony Biosciences Holdings, Inc.) filed 2026-08-04
+[2026-08-04 15:40:37]     https://www.sec.gov/Archives/edgar/data/1802665/000110465926090086/hrmy-20260804x8k.htm
+[2026-08-04 15:40:39]     ✉ alert sent (8k_202)
+[2026-08-04 15:40:39]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001802665.json'
+[2026-08-04 15:40:43]   ★ NEW 8k_202 for PVLA (PALVELLA THERAPEUTICS, INC.) filed 2026-08-04
+[2026-08-04 15:40:43]     https://www.sec.gov/Archives/edgar/data/1583648/000119312526331556/pvla-20260804.htm
+[2026-08-04 15:40:45]     ✉ alert sent (8k_202)
+[2026-08-04 15:40:45]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001583648.json'
+[2026-08-04 15:40:48]   ★ NEW 8k_202 for CERT (Certara, Inc.) filed 2026-08-04
+[2026-08-04 15:40:48]     https://www.sec.gov/Archives/edgar/data/1827090/000182709026000026/certara-20260804.htm
+[2026-08-04 15:40:49]     ✉ alert sent (8k_202)
+[2026-08-04 15:40:49]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001827090.json'
+[2026-08-04 15:41:01] === EDGAR POLL complete. Fetched 100 companies, 4 new filings. ===
