@@ -1595,3 +1595,49 @@
 [2026-08-03 23:53:55]   ✓ 10-Q found for COHN (Cohen & Co Inc.) filed 2026-08-03
 [2026-08-03 23:53:55]     https://www.sec.gov/Archives/edgar/data/1270436/000143774926025339/cohn20260630_10q.htm
 [2026-08-03 23:53:55] === CHECK-10Q complete. Checked 15, found 1, cleared 1 stale. ===
+[2026-08-04 13:06:15] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-04 13:06:17]   firehose: 8-K feed — 100 entries parsed
+[2026-08-04 13:06:17]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-08-04 13:06:17]   firehose: 8-K page 2 — 100 entries
+[2026-08-04 13:06:24]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-04 13:06:24]   firehose: 100 watched CIKs, 300 total feed entries
+[2026-08-04 13:06:24]   ★ NEW 8k_202 for HRMY (Harmony Biosciences Holdings, Inc.) filed 2026-08-04
+[2026-08-04 13:06:24]     https://www.sec.gov/Archives/edgar/data/1802665/000110465926090086/hrmy-20260804x8k.htm
+[2026-08-04 13:06:27]     ✉ alert sent (8k_202)
+[2026-08-04 13:06:27]   ★ NEW 8k_202 for PVLA (PALVELLA THERAPEUTICS, INC.) filed 2026-08-04
+[2026-08-04 13:06:27]     https://www.sec.gov/Archives/edgar/data/1583648/000119312526331556/pvla-20260804.htm
+[2026-08-04 13:06:30]     ✉ alert sent (8k_202)
+[2026-08-04 13:06:30]   ★ NEW 8k_202 for CERT (Certara, Inc.) filed 2026-08-04
+[2026-08-04 13:06:30]     https://www.sec.gov/Archives/edgar/data/1827090/000182709026000026/certara-20260804.htm
+[2026-08-04 13:06:32]     ✉ alert sent (8k_202)
+[2026-08-04 13:06:32]   ★ NEW 8k_202 for AHCO (AdaptHealth Corp.) filed 2026-08-04
+[2026-08-04 13:06:32]     https://www.sec.gov/Archives/edgar/data/1725255/000162828026052149/ahco-20260804.htm
+[2026-08-04 13:06:34]     ✉ alert sent (8k_202)
+[2026-08-04 13:06:35]   ★ NEW 8k_202 for LRMR (Larimar Therapeutics, Inc.) filed 2026-08-04
+[2026-08-04 13:06:35]     https://www.sec.gov/Archives/edgar/data/1374690/000119312526331516/lrmr-20260804.htm
+[2026-08-04 13:06:37]     ✉ alert sent (8k_202)
+[2026-08-04 13:06:37]   ★ NEW 8k_202 for HLNE (Hamilton Lane INC) filed 2026-08-04
+[2026-08-04 13:06:37]     https://www.sec.gov/Archives/edgar/data/1433642/000143364226000039/hlne-20260804.htm
+[2026-08-04 13:06:39]     ✉ alert sent (8k_202)
+[2026-08-04 13:06:39]   ★ NEW 8k_202 for MRK (Merck & Co., Inc.) filed 2026-08-04
+[2026-08-04 13:06:39]     https://www.sec.gov/Archives/edgar/data/310158/000110465926090045/tm2621496d1_8k.htm
+[2026-08-04 13:06:41]     ✉ alert sent (8k_202)
+[2026-08-04 13:06:42]   ★ NEW 8k_202 for DD (DuPont de Nemours, Inc.) filed 2026-08-04
+[2026-08-04 13:06:42]     https://www.sec.gov/Archives/edgar/data/1666700/000166670026000049/dd-20260804.htm
+[2026-08-04 13:06:44]     ✉ alert sent (8k_202)
+[2026-08-04 13:06:44]   ★ NEW 10q for HRMY (Harmony Biosciences Holdings, Inc.) filed 2026-08-04
+[2026-08-04 13:06:44]     https://www.sec.gov/Archives/edgar/data/1802665/000110465926090090/hrmy-20260630x10q.htm
+[2026-08-04 13:06:46]     ✉ alert sent (10q)
+[2026-08-04 13:06:47]   ★ NEW 10q for PVLA (PALVELLA THERAPEUTICS, INC.) filed 2026-08-04
+[2026-08-04 13:06:47]     https://www.sec.gov/Archives/edgar/data/1583648/000119312526331574/pvla-20260630.htm
+[2026-08-04 13:06:49]     ✉ alert sent (10q)
+[2026-08-04 13:06:50]   ★ NEW 10q for DORM (Dorman Products, Inc.) filed 2026-08-04
+[2026-08-04 13:06:50]     https://www.sec.gov/Archives/edgar/data/868780/000086878026000039/dorm-20260627.htm
+[2026-08-04 13:06:52]     ✉ alert sent (10q)
+[2026-08-04 13:06:53]   ★ NEW 10q for CERT (Certara, Inc.) filed 2026-08-04
+[2026-08-04 13:06:53]     https://www.sec.gov/Archives/edgar/data/1827090/000182709026000028/cert-20260630.htm
+[2026-08-04 13:06:55]     ✉ alert sent (10q)
+[2026-08-04 13:06:56]   ★ NEW 10q for LRMR (Larimar Therapeutics, Inc.) filed 2026-08-04
+[2026-08-04 13:06:56]     https://www.sec.gov/Archives/edgar/data/1374690/000119312526331529/lrmr-20260630.htm
+[2026-08-04 13:06:58]     ✉ alert sent (10q)
+[2026-08-04 13:06:58] === EDGAR FIREHOSE complete. 13 new detections. ===
