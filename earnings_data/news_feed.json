@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-04T13:08:37",
+ "generated_at": "2026-08-04T15:35:29",
  "items": [
+  {
+   "uuid": "9e174cc5-e76b-3d51-b8c0-13f119449c54",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces Haven at Sea Bright is Now Open on the New Jersey Coast",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-haven-sea-133000868.html",
+   "published_unix": 1785850200,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-04T15:35:29"
+  },
   {
    "uuid": "f0626c86-3bf6-369d-9d01-4c9341ea3313",
    "tickers": [
