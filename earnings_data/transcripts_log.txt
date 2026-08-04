@@ -2429,3 +2429,52 @@
 [2026-08-04 01:05:00] Saved transcripts.json (7 tickers with entries)
 [2026-08-04 01:05:00] === Done. 1 new transcript links found. ===
 
+[2026-08-04 17:17:33] === Fool transcript harvest start (dry_run=False) ===
+[2026-08-04 17:17:33] Loaded 122 tickers from expanded_companies.json
+[2026-08-04 17:17:33] Recent tickers (last filing within 14d): ['AHCO', 'AME', 'AVTR', 'AWK', 'AXR', 'AXTA', 'BDN', 'CERT', 'CMCSA', 'COHN', 'CRS', 'CUBE', 'DD', 'DORM', 'FMC', 'GRTX', 'HCSG', 'HLNE', 'HRMY', 'HSY', 'INO', 'IRT', 'JNJ', 'KWR', 'LNC', 'LRMR', 'MRBK', 'MRK', 'PKBK', 'PVLA', 'QNBC', 'QNTO', 'QVCAQ', 'SEIC', 'TFX', 'UHS', 'UHT', 'UIS', 'UVSP', 'VERX', 'WST']
+[2026-08-04 17:17:33] Seed backfill: all seeds already in state
+[2026-08-04 17:17:33] Fetching Fool transcript index: https://www.fool.com/earnings-call-transcripts/
+[2026-08-04 17:17:33]   Found 20 transcript links on index page
+[2026-08-04 17:17:33]   Fool index matched tickers: []
+[2026-08-04 17:17:33] Yahoo secondary search for 38 tickers: ['AHCO', 'AME', 'AVTR', 'AWK', 'AXR', 'AXTA', 'BDN', 'CERT', 'COHN', 'CUBE', 'DD', 'DORM', 'FMC', 'GRTX', 'HCSG', 'HLNE', 'HRMY', 'INO', 'IRT', 'JNJ', 'KWR', 'LNC', 'LRMR', 'MRBK', 'MRK', 'PKBK', 'PVLA', 'QNBC', 'QNTO', 'QVCAQ', 'SEIC', 'TFX', 'UHS', 'UHT', 'UIS', 'UVSP', 'VERX', 'WST']
+[2026-08-04 17:17:34]   MISS [Yahoo] AHCO: no transcript items in feed
+[2026-08-04 17:17:34]   MISS [Yahoo] AME: no transcript items in feed
+[2026-08-04 17:17:35]   MISS [Yahoo] AVTR: no transcript items in feed
+[2026-08-04 17:17:35]   MISS [Yahoo] AWK: no transcript items in feed
+[2026-08-04 17:17:36]   MISS [Yahoo] AXR: no transcript items in feed
+[2026-08-04 17:17:36]   MISS [Yahoo] AXTA: no transcript items in feed
+[2026-08-04 17:17:37]   MISS [Yahoo] BDN: no transcript items in feed
+[2026-08-04 17:17:37]   MISS [Yahoo] CERT: no transcript items in feed
+[2026-08-04 17:17:38]   MISS [Yahoo] COHN: no transcript items in feed
+[2026-08-04 17:17:38]   MISS [Yahoo] CUBE: no transcript items in feed
+[2026-08-04 17:17:38]   MISS [Yahoo] DD: no transcript items in feed
+[2026-08-04 17:17:39]   MISS [Yahoo] DORM: no transcript items in feed
+[2026-08-04 17:17:39]   MISS [Yahoo] FMC: no transcript items in feed
+[2026-08-04 17:17:40]   MISS [Yahoo] GRTX: no transcript items in feed
+[2026-08-04 17:17:40]   MISS [Yahoo] HCSG: no transcript items in feed
+[2026-08-04 17:17:41]   MISS [Yahoo] HLNE: no transcript items in feed
+[2026-08-04 17:17:41]   MISS [Yahoo] HRMY: no transcript items in feed
+[2026-08-04 17:17:42]   MISS [Yahoo] INO: no transcript items in feed
+[2026-08-04 17:17:42]   MISS [Yahoo] IRT: no transcript items in feed
+[2026-08-04 17:17:43]   MISS [Yahoo] JNJ: no transcript items in feed
+[2026-08-04 17:17:43]   MISS [Yahoo] KWR: no transcript items in feed
+[2026-08-04 17:17:44]   MISS [Yahoo] LNC: no transcript items in feed
+[2026-08-04 17:17:44]   MISS [Yahoo] LRMR: no transcript items in feed
+[2026-08-04 17:17:45]   MISS [Yahoo] MRBK: no transcript items in feed
+[2026-08-04 17:17:45]   MISS [Yahoo] MRK: no transcript items in feed
+[2026-08-04 17:17:46]   MISS [Yahoo] PKBK: no transcript items in feed
+[2026-08-04 17:17:46]   MISS [Yahoo] PVLA: no transcript items in feed
+[2026-08-04 17:17:47]   MISS [Yahoo] QNBC: no transcript items in feed
+[2026-08-04 17:17:47]   MISS [Yahoo] QNTO: no transcript items in feed
+[2026-08-04 17:17:47]   MISS [Yahoo] QVCAQ: no transcript items in feed
+[2026-08-04 17:17:48]   MISS [Yahoo] SEIC: no transcript items in feed
+[2026-08-04 17:17:48]   MISS [Yahoo] TFX: no transcript items in feed
+[2026-08-04 17:17:49]   MISS [Yahoo] UHS: no transcript items in feed
+[2026-08-04 17:17:49]   MISS [Yahoo] UHT: no transcript items in feed
+[2026-08-04 17:17:50]   MISS [Yahoo] UIS: no transcript items in feed
+[2026-08-04 17:17:50]   MISS [Yahoo] UVSP: no transcript items in feed
+[2026-08-04 17:17:51]   MISS [Yahoo] VERX: no transcript items in feed
+[2026-08-04 17:17:51]   MISS [Yahoo] WST: no transcript items in feed
+[2026-08-04 17:17:51] No new transcripts found; transcripts.json unchanged
+[2026-08-04 17:17:51] === Done. 0 new transcript links found. ===
+
