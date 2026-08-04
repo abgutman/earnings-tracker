@@ -2388,3 +2388,44 @@
 [2026-08-03 20:46:35] No new transcripts found; transcripts.json unchanged
 [2026-08-03 20:46:35] === Done. 0 new transcript links found. ===
 
+[2026-08-04 01:04:44] === Fool transcript harvest start (dry_run=False) ===
+[2026-08-04 01:04:44] Loaded 122 tickers from expanded_companies.json
+[2026-08-04 01:04:44] Recent tickers (last filing within 14d): ['AVTR', 'AWK', 'AXR', 'AXTA', 'BDN', 'CMCSA', 'COHN', 'CRS', 'CUBE', 'DORM', 'FMC', 'GRTX', 'HCSG', 'HSY', 'INO', 'IRT', 'JNJ', 'KWR', 'LNC', 'MRBK', 'PKBK', 'QNBC', 'QNTO', 'QVCAQ', 'SEIC', 'TFX', 'UHS', 'UHT', 'UIS', 'UVSP', 'VERX', 'WST']
+[2026-08-04 01:04:44] Seed backfill: all seeds already in state
+[2026-08-04 01:04:44] Fetching Fool transcript index: https://www.fool.com/earnings-call-transcripts/
+[2026-08-04 01:04:45]   Found 20 transcript links on index page
+[2026-08-04 01:04:45]   Fool index matched tickers: []
+[2026-08-04 01:04:45] Yahoo secondary search for 30 tickers: ['AVTR', 'AWK', 'AXR', 'AXTA', 'BDN', 'COHN', 'CUBE', 'DORM', 'FMC', 'GRTX', 'HCSG', 'HSY', 'INO', 'IRT', 'JNJ', 'KWR', 'LNC', 'MRBK', 'PKBK', 'QNBC', 'QNTO', 'QVCAQ', 'SEIC', 'TFX', 'UHS', 'UHT', 'UIS', 'UVSP', 'VERX', 'WST']
+[2026-08-04 01:04:46]   MISS [Yahoo] AVTR: no transcript items in feed
+[2026-08-04 01:04:46]   MISS [Yahoo] AWK: no transcript items in feed
+[2026-08-04 01:04:47]   MISS [Yahoo] AXR: no transcript items in feed
+[2026-08-04 01:04:47]   MISS [Yahoo] AXTA: no transcript items in feed
+[2026-08-04 01:04:47]   MISS [Yahoo] BDN: no transcript items in feed
+[2026-08-04 01:04:48]   MISS [Yahoo] COHN: no transcript items in feed
+[2026-08-04 01:04:48]   MISS [Yahoo] CUBE: no transcript items in feed
+[2026-08-04 01:04:49]   MISS [Yahoo] DORM: no transcript items in feed
+[2026-08-04 01:04:49]   MISS [Yahoo] FMC: no transcript items in feed
+[2026-08-04 01:04:50]   MISS [Yahoo] GRTX: no transcript items in feed
+[2026-08-04 01:04:50]   MISS [Yahoo] HCSG: no transcript items in feed
+[2026-08-04 01:04:51]   NEW [Yahoo] HSY: https://finance.yahoo.com/m/32d4d660-9892-3d54-a4b9-5c117e005837/hershey-%28hsy%29-q2-2026.html (Motley Fool)
+[2026-08-04 01:04:52]   MISS [Yahoo] INO: no transcript items in feed
+[2026-08-04 01:04:52]   MISS [Yahoo] IRT: no transcript items in feed
+[2026-08-04 01:04:53]   MISS [Yahoo] JNJ: no transcript items in feed
+[2026-08-04 01:04:53]   MISS [Yahoo] KWR: no transcript items in feed
+[2026-08-04 01:04:54]   MISS [Yahoo] LNC: no transcript items in feed
+[2026-08-04 01:04:54]   MISS [Yahoo] MRBK: no transcript items in feed
+[2026-08-04 01:04:55]   MISS [Yahoo] PKBK: no transcript items in feed
+[2026-08-04 01:04:55]   MISS [Yahoo] QNBC: no transcript items in feed
+[2026-08-04 01:04:56]   MISS [Yahoo] QNTO: no transcript items in feed
+[2026-08-04 01:04:56]   MISS [Yahoo] QVCAQ: no transcript items in feed
+[2026-08-04 01:04:57]   MISS [Yahoo] SEIC: no transcript items in feed
+[2026-08-04 01:04:57]   MISS [Yahoo] TFX: no transcript items in feed
+[2026-08-04 01:04:58]   MISS [Yahoo] UHS: no transcript items in feed
+[2026-08-04 01:04:58]   MISS [Yahoo] UHT: no transcript items in feed
+[2026-08-04 01:04:58]   MISS [Yahoo] UIS: no transcript items in feed
+[2026-08-04 01:04:59]   MISS [Yahoo] UVSP: no transcript items in feed
+[2026-08-04 01:04:59]   MISS [Yahoo] VERX: no transcript items in feed
+[2026-08-04 01:05:00]   MISS [Yahoo] WST: no transcript items in feed
+[2026-08-04 01:05:00] Saved transcripts.json (7 tickers with entries)
+[2026-08-04 01:05:00] === Done. 1 new transcript links found. ===
+
