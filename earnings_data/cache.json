@@ -158,8 +158,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1466085/000143774926025677/irt20260630_10q.htm",
   "last_detected_at": "2026-08-04T21:20:49.959511+00:00",
   "last_8k_detected_at": "2026-08-03T20:15:41.446236+00:00",
-  "pending_10q_since": "2026-08-03",
-  "last_10q_url": null
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1466085/000143774926025677/irt20260630_10q.htm"
  },
  "AXTA": {
   "ticker": "AXTA",
@@ -275,8 +274,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1037868/000103786826000173/ame-20260804.htm",
   "last_detected_at": "2026-08-04T22:31:24.594152+00:00",
   "last_8k_detected_at": "2026-08-04T22:31:24.594152+00:00",
-  "pending_10q_since": "2026-08-04",
-  "last_10q_url": null
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1037868/000103786826000175/ame-20260630.htm"
  },
  "VSH": {
   "ticker": "VSH",
@@ -583,8 +581,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1374690/000119312526331516/lrmr-20260804.htm",
   "last_detected_at": "2026-08-04T15:40:29.192106+00:00",
   "last_8k_detected_at": "2026-08-04T15:40:29.192106+00:00",
-  "pending_10q_since": "2026-08-04",
-  "last_10q_url": null
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1374690/000119312526331529/lrmr-20260630.htm"
  },
  "PASG": {
   "ticker": "PASG",
@@ -630,8 +627,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1802665/000110465926090086/hrmy-20260804x8k.htm",
   "last_detected_at": "2026-08-04T15:40:29.192106+00:00",
   "last_8k_detected_at": "2026-08-04T15:40:29.192106+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-08-04"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1802665/000110465926090090/hrmy-20260630x10q.htm"
  },
  "INO": {
   "ticker": "INO",
@@ -865,8 +861,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1433642/000143364226000039/hlne-20260804.htm",
   "last_detected_at": "2026-08-04T13:06:15.061110+00:00",
   "last_8k_detected_at": "2026-08-04T13:06:15.061110+00:00",
-  "pending_10q_since": "2026-08-04",
-  "last_10q_url": null
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1433642/000143364226000042/hlne-20260630.htm"
  },
  "DORM": {
   "ticker": "DORM",
@@ -889,8 +884,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/868780/000086878026000039/dorm-20260627.htm",
   "last_detected_at": "2026-08-04T13:06:15.061110+00:00",
   "last_8k_detected_at": "2026-08-03T21:14:00.694466+00:00",
-  "pending_10q_since": "2026-08-03",
-  "last_10q_url": null
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/868780/000086878026000039/dorm-20260627.htm"
  },
  "FSK": {
   "ticker": "FSK",
@@ -979,8 +973,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1806837/000110465926090420/verx-20260630x10q.htm",
   "last_detected_at": "2026-08-04T21:20:49.959511+00:00",
   "last_8k_detected_at": "2026-08-03T22:29:25.797056+00:00",
-  "pending_10q_since": "2026-08-03",
-  "last_10q_url": null
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1806837/000110465926090420/verx-20260630x10q.htm"
  },
  "PVLA": {
   "ticker": "PVLA",
@@ -1003,8 +996,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1583648/000119312526331556/pvla-20260804.htm",
   "last_detected_at": "2026-08-04T15:40:29.192106+00:00",
   "last_8k_detected_at": "2026-08-04T15:40:29.192106+00:00",
-  "pending_10q_since": "2026-08-04",
-  "last_10q_url": null
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1583648/000119312526331574/pvla-20260630.htm"
  },
  "VPG": {
   "ticker": "VPG",
@@ -1087,8 +1079,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1725255/000162828026052149/ahco-20260804.htm",
   "last_detected_at": "2026-08-04T22:31:24.594152+00:00",
   "last_8k_detected_at": "2026-08-04T22:31:24.594152+00:00",
-  "pending_10q_since": "2026-08-04",
-  "last_10q_url": null
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1725255/000162828026052646/ahco-20260630.htm"
  },
  "JJSF": {
   "ticker": "JJSF",
@@ -1174,8 +1165,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1734713/000119312526332832/bv-20260804.htm",
   "last_detected_at": "2026-08-04T21:20:49.959511+00:00",
   "last_8k_detected_at": "2026-08-04T21:20:49.959511+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-08-04"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1734713/000119312526332820/bv-20260630.htm"
  },
  "UVSP": {
   "ticker": "UVSP",
@@ -1241,8 +1231,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1827090/000182709026000026/certara-20260804.htm",
   "last_detected_at": "2026-08-04T15:40:29.192106+00:00",
   "last_8k_detected_at": "2026-08-04T15:40:29.192106+00:00",
-  "pending_10q_since": "2026-08-04",
-  "last_10q_url": null
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1827090/000182709026000028/cert-20260630.htm"
  },
  "VLGEA": {
   "ticker": "VLGEA",
@@ -1325,7 +1314,6 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/798783/000119312526318144/uht-20260727.htm",
   "last_detected_at": "2026-07-27T21:19:45.589539+00:00",
   "last_8k_detected_at": "2026-07-27T21:19:45.589539+00:00",
-  "pending_10q_since": "2026-07-27",
   "last_10q_url": null
  },
  "GBLI": {
@@ -2129,8 +2117,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1355096/000135509626000027/qvcga-20260630.htm",
   "last_detected_at": "2026-08-04T20:02:32.062090+00:00",
   "last_8k_detected_at": "2026-08-03T21:14:00.694466+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-08-03"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1355096/000135509626000027/qvcga-20260630.htm"
  },
  "HSY": {
   "ticker": "HSY",
@@ -2247,7 +2234,6 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1666700/000166670026000049/dd-20260804.htm",
   "last_detected_at": "2026-08-04T20:02:32.062090+00:00",
   "last_8k_detected_at": "2026-08-04T20:02:32.062090+00:00",
-  "pending_10q_since": "2026-08-04",
-  "last_10q_url": null
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1666700/000166670026000053/dd-20260630.htm"
  }
 }

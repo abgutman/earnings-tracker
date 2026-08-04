@@ -1734,3 +1734,32 @@
 [2026-08-04 22:32:21]   firehose: 10-Q feed — 100 entries parsed
 [2026-08-04 22:32:21]   firehose: 100 watched CIKs, 200 total feed entries
 [2026-08-04 22:32:21] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-08-04 23:47:29] === CHECK-10Q: scanning for pending 10-Q filings ===
+[2026-08-04 23:47:29]   ✓ 10-Q found for IRT (INDEPENDENCE REALTY TRUST, INC.) filed 2026-08-04
+[2026-08-04 23:47:29]     https://www.sec.gov/Archives/edgar/data/1466085/000143774926025677/irt20260630_10q.htm
+[2026-08-04 23:47:30]   ✓ 10-Q found for AME (AMETEK INC/) filed 2026-08-04
+[2026-08-04 23:47:30]     https://www.sec.gov/Archives/edgar/data/1037868/000103786826000175/ame-20260630.htm
+[2026-08-04 23:47:31]   ✓ 10-Q found for LRMR (Larimar Therapeutics, Inc.) filed 2026-08-04
+[2026-08-04 23:47:31]     https://www.sec.gov/Archives/edgar/data/1374690/000119312526331529/lrmr-20260630.htm
+[2026-08-04 23:47:31]   ✓ 10-Q found for HRMY (Harmony Biosciences Holdings, Inc.) filed 2026-08-04
+[2026-08-04 23:47:31]     https://www.sec.gov/Archives/edgar/data/1802665/000110465926090090/hrmy-20260630x10q.htm
+[2026-08-04 23:47:33]   ✓ 10-Q found for HLNE (Hamilton Lane INC) filed 2026-08-04
+[2026-08-04 23:47:33]     https://www.sec.gov/Archives/edgar/data/1433642/000143364226000042/hlne-20260630.htm
+[2026-08-04 23:47:33]   ✓ 10-Q found for DORM (Dorman Products, Inc.) filed 2026-08-04
+[2026-08-04 23:47:33]     https://www.sec.gov/Archives/edgar/data/868780/000086878026000039/dorm-20260627.htm
+[2026-08-04 23:47:34]   ✓ 10-Q found for VERX (Vertex, Inc.) filed 2026-08-04
+[2026-08-04 23:47:34]     https://www.sec.gov/Archives/edgar/data/1806837/000110465926090420/verx-20260630x10q.htm
+[2026-08-04 23:47:34]   ✓ 10-Q found for PVLA (PALVELLA THERAPEUTICS, INC.) filed 2026-08-04
+[2026-08-04 23:47:34]     https://www.sec.gov/Archives/edgar/data/1583648/000119312526331574/pvla-20260630.htm
+[2026-08-04 23:47:35]   ✓ 10-Q found for AHCO (AdaptHealth Corp.) filed 2026-08-04
+[2026-08-04 23:47:35]     https://www.sec.gov/Archives/edgar/data/1725255/000162828026052646/ahco-20260630.htm
+[2026-08-04 23:47:35]   ✓ 10-Q found for BV (BrightView Holdings, Inc.) filed 2026-08-04
+[2026-08-04 23:47:35]     https://www.sec.gov/Archives/edgar/data/1734713/000119312526332820/bv-20260630.htm
+[2026-08-04 23:47:35]   ✓ 10-Q found for CERT (Certara, Inc.) filed 2026-08-04
+[2026-08-04 23:47:35]     https://www.sec.gov/Archives/edgar/data/1827090/000182709026000028/cert-20260630.htm
+[2026-08-04 23:47:35]   UHT: pending_10q_since=2026-07-27 is 8d old — clearing stale flag
+[2026-08-04 23:47:38]   ✓ 10-Q found for QVCAQ (QVC Group, Inc.) filed 2026-08-04
+[2026-08-04 23:47:38]     https://www.sec.gov/Archives/edgar/data/1355096/000135509626000027/qvcga-20260630.htm
+[2026-08-04 23:47:39]   ✓ 10-Q found for DD (DuPont de Nemours, Inc.) filed 2026-08-04
+[2026-08-04 23:47:39]     https://www.sec.gov/Archives/edgar/data/1666700/000166670026000053/dd-20260630.htm
+[2026-08-04 23:47:39] === CHECK-10Q complete. Checked 23, found 13, cleared 1 stale. ===

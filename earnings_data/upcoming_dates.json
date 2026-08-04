@@ -110,16 +110,6 @@
   "source_type": "yahoo_auto",
   "captured_at": "2026-07-14T23:37:09"
  },
- "VERX": {
-  "release_date": "2026-08-03",
-  "call_date": null,
-  "call_time": null,
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/vertex-announce-second-quarter-2026-203000297.html",
-  "source_title": "Vertex to Announce Second Quarter 2026 Financial Results on Monday, August 3, 2026",
-  "source_publisher": "GlobeNewswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-14T23:37:34"
- },
  "AHCO": {
   "release_date": "2026-08-04",
   "call_date": null,
@@ -290,14 +280,24 @@
   "source_type": "yahoo_auto",
   "captured_at": "2026-07-30T23:45:30"
  },
- "COHN": {
-  "release_date": "2026-08-03",
+ "INO": {
+  "release_date": "2026-08-12",
   "call_date": null,
-  "call_time": "10:00 ET",
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/cohen-company-sets-release-date-201500567.html",
-  "source_title": "Cohen & Company Sets Release Date for Second Quarter 2026 Financial Results",
+  "call_time": null,
+  "source_url": "https://finance.yahoo.com/healthcare/articles/inovio-report-second-quarter-financial-200500098.html",
+  "source_title": "INOVIO to Report Second Quarter Financial Results on August 12, 2026",
+  "source_publisher": "PR Newswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-08-04T23:46:41"
+ },
+ "MLYS": {
+  "release_date": "2026-08-11",
+  "call_date": null,
+  "call_time": null,
+  "source_url": "https://finance.yahoo.com/healthcare/articles/mineralys-therapeutics-announce-second-quarter-120000807.html",
+  "source_title": "Mineralys Therapeutics to Announce Second Quarter 2026 Financial Results and Host Conference Call on Tuesday, August 11, 2026",
   "source_publisher": "GlobeNewswire",
   "source_type": "yahoo_auto",
-  "captured_at": "2026-07-30T23:45:38"
+  "captured_at": "2026-08-04T23:46:52"
  }
 }
