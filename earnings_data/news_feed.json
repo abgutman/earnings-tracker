@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-04T19:55:11",
+ "generated_at": "2026-08-04T21:34:53",
  "items": [
+  {
+   "uuid": "440eb36e-61dc-3f65-a60c-2c9734d2b976",
+   "tickers": [
+    "WTRG"
+   ],
+   "company": "Essential Utilities",
+   "title": "Essential Utilities Reports Q2 2026 Results",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/essential-utilities-reports-q2-2026-203000910.html",
+   "published_unix": 1785875400,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-04T21:34:31"
+  },
   {
    "uuid": "9e174cc5-e76b-3d51-b8c0-13f119449c54",
    "tickers": [
