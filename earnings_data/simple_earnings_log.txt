@@ -1680,3 +1680,13 @@
 [2026-08-04 18:14:20]   firehose: 10-Q feed — 100 entries parsed
 [2026-08-04 18:14:20]   firehose: 100 watched CIKs, 200 total feed entries
 [2026-08-04 18:14:20] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-08-04 20:02:32] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-08-04 20:02:56]   ★ NEW 10q for QVCAQ (QVC Group, Inc.) filed 2026-08-04
+[2026-08-04 20:02:56]     https://www.sec.gov/Archives/edgar/data/1355096/000135509626000027/qvcga-20260630.htm
+[2026-08-04 20:02:59]     ✉ alert sent (10q)
+[2026-08-04 20:02:59]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001355096.json'
+[2026-08-04 20:03:00]   ★ NEW 8k_202 for DD (DuPont de Nemours, Inc.) filed 2026-08-04
+[2026-08-04 20:03:00]     https://www.sec.gov/Archives/edgar/data/1666700/000166670026000049/dd-20260804.htm
+[2026-08-04 20:03:03]     ✉ alert sent (8k_202)
+[2026-08-04 20:03:03]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001666700.json'
+[2026-08-04 20:03:03] === EDGAR POLL complete. Fetched 100 companies, 2 new filings. ===
