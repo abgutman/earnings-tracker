@@ -1698,3 +1698,24 @@
 [2026-08-04 20:11:02]     https://www.sec.gov/Archives/edgar/data/1037868/000103786826000175/ame-20260630.htm
 [2026-08-04 20:11:05]     ✉ alert sent (10q)
 [2026-08-04 20:11:05] === EDGAR FIREHOSE complete. 1 new detections. ===
+[2026-08-04 21:20:49] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-04 21:20:52]   firehose: 8-K feed — 100 entries parsed
+[2026-08-04 21:20:52]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-08-04 21:20:53]   firehose: 8-K page 2 — 100 entries
+[2026-08-04 21:20:57]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-04 21:20:57]   firehose: all 10-Q entries newer than watermark — fetching page 2
+[2026-08-04 21:21:01]   firehose: 10-Q page 2 — 100 entries
+[2026-08-04 21:21:01]   firehose: 100 watched CIKs, 400 total feed entries
+[2026-08-04 21:21:01]   ★ NEW 8k_202 for BV (BrightView Holdings, Inc.) filed 2026-08-04
+[2026-08-04 21:21:01]     https://www.sec.gov/Archives/edgar/data/1734713/000119312526332832/bv-20260804.htm
+[2026-08-04 21:21:03]     ✉ alert sent (8k_202)
+[2026-08-04 21:21:03]   ★ NEW 10q for AHCO (AdaptHealth Corp.) filed 2026-08-04
+[2026-08-04 21:21:03]     https://www.sec.gov/Archives/edgar/data/1725255/000162828026052646/ahco-20260630.htm
+[2026-08-04 21:21:04]     ✉ alert sent (10q)
+[2026-08-04 21:21:04]   ★ NEW 10q for VERX (Vertex, Inc.) filed 2026-08-04
+[2026-08-04 21:21:04]     https://www.sec.gov/Archives/edgar/data/1806837/000110465926090420/verx-20260630x10q.htm
+[2026-08-04 21:21:07]     ✉ alert sent (10q)
+[2026-08-04 21:21:08]   ★ NEW 10q for IRT (INDEPENDENCE REALTY TRUST, INC.) filed 2026-08-04
+[2026-08-04 21:21:08]     https://www.sec.gov/Archives/edgar/data/1466085/000143774926025677/irt20260630_10q.htm
+[2026-08-04 21:21:09]     ✉ alert sent (10q)
+[2026-08-04 21:21:10] === EDGAR FIREHOSE complete. 4 new detections. ===
