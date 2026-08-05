@@ -1857,3 +1857,17 @@
 [2026-08-05 22:31:46]   firehose: 10-Q feed — 100 entries parsed
 [2026-08-05 22:31:46]   firehose: 100 watched CIKs, 200 total feed entries
 [2026-08-05 22:31:46] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-08-05 23:43:10] === CHECK-10Q: scanning for pending 10-Q filings ===
+[2026-08-05 23:43:10]   ✓ 10-Q found for VSH (VISHAY INTERTECHNOLOGY INC) filed 2026-08-05
+[2026-08-05 23:43:10]     https://www.sec.gov/Archives/edgar/data/103730/000010373026000065/form10q.htm
+[2026-08-05 23:43:10]   UHS: pending_10q_since=2026-07-28 is 8d old — clearing stale flag
+[2026-08-05 23:43:11]   ✓ 10-Q found for WTRG (Essential Utilities, Inc.) filed 2026-08-05
+[2026-08-05 23:43:11]     https://www.sec.gov/Archives/edgar/data/78128/000007812826000077/wtrg-20260630x10q.htm
+[2026-08-05 23:43:11]   ✓ 10-Q found for COR (Cencora, Inc.) filed 2026-08-05
+[2026-08-05 23:43:11]     https://www.sec.gov/Archives/edgar/data/1140859/000114085926000034/cor-20260630.htm
+[2026-08-05 23:43:12]   ✓ 10-Q found for VPG (Vishay Precision Group, Inc.) filed 2026-08-05
+[2026-08-05 23:43:12]     https://www.sec.gov/Archives/edgar/data/1487952/000143774926025797/vpg20260513_10q.htm
+[2026-08-05 23:43:13]   ✓ 10-Q found for CNTX (Context Therapeutics Inc.) filed 2026-08-05
+[2026-08-05 23:43:13]     https://www.sec.gov/Archives/edgar/data/1842952/000162828026053347/cntx-20260630.htm
+[2026-08-05 23:43:13]   QNBC: pending_10q_since=2026-07-28 is 8d old — clearing stale flag
+[2026-08-05 23:43:14] === CHECK-10Q complete. Checked 16, found 5, cleared 2 stale. ===

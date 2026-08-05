@@ -40,16 +40,6 @@
   "source_type": "yahoo_auto",
   "captured_at": "2026-07-07T23:40:28"
  },
- "HLNE": {
-  "release_date": "2026-08-04",
-  "call_date": null,
-  "call_time": null,
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/hamilton-lane-incorporated-announce-first-110000690.html",
-  "source_title": "Hamilton Lane Incorporated to Announce First Quarter Fiscal 2027 Results on August 4, 2026",
-  "source_publisher": "PR Newswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-07T23:40:45"
- },
  "BSY": {
   "release_date": "2026-08-06",
   "call_date": null,
@@ -70,26 +60,6 @@
   "source_type": "yahoo_auto",
   "captured_at": "2026-07-09T23:54:32"
  },
- "IRT": {
-  "release_date": null,
-  "call_date": "2026-08-04",
-  "call_time": "09:00 ET",
-  "source_url": "https://finance.yahoo.com/real-estate/articles/irt-announces-dates-second-quarter-120000610.html",
-  "source_title": "IRT Announces Dates for Second Quarter 2026 Earnings Release and Conference Call",
-  "source_publisher": "Business Wire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-13T23:37:52"
- },
- "DORM": {
-  "release_date": "2026-08-03",
-  "call_date": "2026-08-04",
-  "call_time": "08:00 ET",
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/dorman-products-inc-announces-date-203000209.html",
-  "source_title": "Dorman Products, Inc. Announces Date to Report Second Quarter 2026 Financial Results",
-  "source_publisher": "GlobeNewswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-13T23:38:12"
- },
  "NVRI": {
   "release_date": null,
   "call_date": "2026-08-11",
@@ -109,16 +79,6 @@
   "source_publisher": "Business Wire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-07-14T23:37:09"
- },
- "AHCO": {
-  "release_date": "2026-08-04",
-  "call_date": null,
-  "call_time": null,
-  "source_url": "https://finance.yahoo.com/healthcare/articles/adapthealth-corp-announces-second-quarter-200500934.html",
-  "source_title": "AdaptHealth Corp. Announces Second Quarter 2026 Earnings Release Date and Conference Call",
-  "source_publisher": "Business Wire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-14T23:37:40"
  },
  "WHK": {
   "release_date": "2026-08-13",
@@ -149,26 +109,6 @@
   "source_publisher": "PR Newswire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-07-15T23:44:19"
- },
- "CERT": {
-  "release_date": "2026-08-04",
-  "call_date": null,
-  "call_time": null,
-  "source_url": "https://finance.yahoo.com/healthcare/articles/certara-report-second-quarter-2026-201500967.html",
-  "source_title": "Certara to Report Second Quarter 2026 Financial Results on August 4th, 2026",
-  "source_publisher": "GlobeNewswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-15T23:44:23"
- },
- "HRMY": {
-  "release_date": "2026-08-04",
-  "call_date": null,
-  "call_time": null,
-  "source_url": "https://finance.yahoo.com/healthcare/articles/harmony-biosciences-preannounces-record-quarterly-123000251.html",
-  "source_title": "Harmony Biosciences Preannounces Record Quarterly Revenue for Q2 2026, Reaffirms Full-Year 2026 Revenue Guidance, and Announces CFO Transition",
-  "source_publisher": "Business Wire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-16T23:42:48"
  },
  "GMED": {
   "release_date": "2026-08-06",
@@ -219,16 +159,6 @@
   "source_publisher": "GlobeNewswire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-07-28T23:44:29"
- },
- "PVLA": {
-  "release_date": "2026-08-04",
-  "call_date": null,
-  "call_time": null,
-  "source_url": "https://finance.yahoo.com/healthcare/articles/palvella-therapeutics-host-second-quarter-113000810.html",
-  "source_title": "Palvella Therapeutics to Host Second Quarter 2026 Financial Results and Corporate Update Conference Call on August 4, 2026",
-  "source_publisher": "GlobeNewswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-28T23:44:50"
  },
  "GBLI": {
   "release_date": "2026-08-05",
