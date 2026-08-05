@@ -1794,3 +1794,11 @@
 [2026-08-05 13:00:21]     https://www.sec.gov/Archives/edgar/data/103730/000010373026000065/form10q.htm
 [2026-08-05 13:00:23]     ✉ alert sent (10q)
 [2026-08-05 13:00:23] === EDGAR FIREHOSE complete. 8 new detections. ===
+[2026-08-05 15:22:22] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-05 15:22:23]   firehose: 8-K feed — 100 entries parsed
+[2026-08-05 15:22:23]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-05 15:22:23]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-08-05 15:22:24]   ★ NEW 8k_202 for WTRG (Essential Utilities, Inc.) filed 2026-08-05
+[2026-08-05 15:22:24]     https://www.sec.gov/Archives/edgar/data/78128/000155278126000404/e26327_wtrg-8k.htm
+[2026-08-05 15:22:26]     ✉ alert sent (8k_202)
+[2026-08-05 15:22:26] === EDGAR FIREHOSE complete. 1 new detections. ===
