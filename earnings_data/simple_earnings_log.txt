@@ -1802,3 +1802,13 @@
 [2026-08-05 15:22:24]     https://www.sec.gov/Archives/edgar/data/78128/000155278126000404/e26327_wtrg-8k.htm
 [2026-08-05 15:22:26]     ✉ alert sent (8k_202)
 [2026-08-05 15:22:26] === EDGAR FIREHOSE complete. 1 new detections. ===
+[2026-08-05 15:32:15] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-08-05 15:32:18]   ★ NEW 8k_202 for VSH (VISHAY INTERTECHNOLOGY INC) filed 2026-08-05
+[2026-08-05 15:32:18]     https://www.sec.gov/Archives/edgar/data/103730/000010373026000064/vsh-20260805.htm
+[2026-08-05 15:32:26]     ✉ alert sent (8k_202)
+[2026-08-05 15:32:26]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0000103730.json'
+[2026-08-05 15:32:34]   ★ NEW 8k_202 for VPG (Vishay Precision Group, Inc.) filed 2026-08-05
+[2026-08-05 15:32:34]     https://www.sec.gov/Archives/edgar/data/1487952/000143774926025779/vpg20260513_8k.htm
+[2026-08-05 15:32:40]     ✉ alert sent (8k_202)
+[2026-08-05 15:32:40]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001487952.json'
+[2026-08-05 15:32:55] === EDGAR POLL complete. Fetched 100 companies, 2 new filings. ===
