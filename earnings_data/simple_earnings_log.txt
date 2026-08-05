@@ -1817,3 +1817,11 @@
 [2026-08-05 16:05:24]   firehose: 10-Q feed — 100 entries parsed
 [2026-08-05 16:05:24]   firehose: 100 watched CIKs, 200 total feed entries
 [2026-08-05 16:05:24] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-08-05 17:51:16] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-05 17:51:19]   firehose: 8-K feed — 100 entries parsed
+[2026-08-05 17:51:23]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-05 17:51:23]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-08-05 17:51:24]   ★ NEW 10q for PKBK (PARKE BANCORP, INC.) filed 2026-08-05
+[2026-08-05 17:51:24]     https://www.sec.gov/Archives/edgar/data/1315399/000143774926025857/pkbk20260630_10q.htm
+[2026-08-05 17:51:26]     ✉ alert sent (10q)
+[2026-08-05 17:51:26] === EDGAR FIREHOSE complete. 1 new detections. ===
