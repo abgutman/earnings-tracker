@@ -1763,3 +1763,34 @@
 [2026-08-04 23:47:39]   ✓ 10-Q found for DD (DuPont de Nemours, Inc.) filed 2026-08-04
 [2026-08-04 23:47:39]     https://www.sec.gov/Archives/edgar/data/1666700/000166670026000053/dd-20260630.htm
 [2026-08-04 23:47:39] === CHECK-10Q complete. Checked 23, found 13, cleared 1 stale. ===
+[2026-08-05 12:59:24] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-05 12:59:38]   firehose: 8-K feed — 100 entries parsed
+[2026-08-05 12:59:38]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-08-05 12:59:46]   firehose: 8-K page 2 — 100 entries
+[2026-08-05 12:59:58]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-05 12:59:58]   firehose: 100 watched CIKs, 300 total feed entries
+[2026-08-05 12:59:59]   ★ NEW 8k_202 for GBLI (Global Indemnity Group, LLC) filed 2026-08-05
+[2026-08-05 12:59:59]     https://www.sec.gov/Archives/edgar/data/1494904/000119312526333951/gbli-20260805.htm
+[2026-08-05 13:00:00]     ✉ alert sent (8k_202)
+[2026-08-05 13:00:01]   ★ NEW 8k_202 for VSH (VISHAY INTERTECHNOLOGY INC) filed 2026-08-05
+[2026-08-05 13:00:01]     https://www.sec.gov/Archives/edgar/data/103730/000010373026000064/vsh-20260805.htm
+[2026-08-05 13:00:02]     ✉ alert sent (8k_202)
+[2026-08-05 13:00:03]   ★ NEW 8k_202 for JJSF (J&J SNACK FOODS CORP) filed 2026-08-05
+[2026-08-05 13:00:03]     https://www.sec.gov/Archives/edgar/data/785956/000143774926025782/jjsf20260804_8k.htm
+[2026-08-05 13:00:04]     ✉ alert sent (8k_202)
+[2026-08-05 13:00:04]   ★ NEW 8k_202 for COR (Cencora, Inc.) filed 2026-08-05
+[2026-08-05 13:00:04]     https://www.sec.gov/Archives/edgar/data/1140859/000114085926000032/abc-20260805.htm
+[2026-08-05 13:00:15]     ✉ alert sent (8k_202)
+[2026-08-05 13:00:15]   ★ NEW 8k_202 for VPG (Vishay Precision Group, Inc.) filed 2026-08-05
+[2026-08-05 13:00:15]     https://www.sec.gov/Archives/edgar/data/1487952/000143774926025779/vpg20260513_8k.htm
+[2026-08-05 13:00:17]     ✉ alert sent (8k_202)
+[2026-08-05 13:00:17]   ★ NEW 8k_202 for ECVT (Ecovyst Inc.) filed 2026-08-05
+[2026-08-05 13:00:17]     https://www.sec.gov/Archives/edgar/data/1708035/000170803526000087/ecvt-20260805.htm
+[2026-08-05 13:00:19]     ✉ alert sent (8k_202)
+[2026-08-05 13:00:19]   ★ NEW 10q for VPG (Vishay Precision Group, Inc.) filed 2026-08-05
+[2026-08-05 13:00:19]     https://www.sec.gov/Archives/edgar/data/1487952/000143774926025797/vpg20260513_10q.htm
+[2026-08-05 13:00:21]     ✉ alert sent (10q)
+[2026-08-05 13:00:21]   ★ NEW 10q for VSH (VISHAY INTERTECHNOLOGY INC) filed 2026-08-05
+[2026-08-05 13:00:21]     https://www.sec.gov/Archives/edgar/data/103730/000010373026000065/form10q.htm
+[2026-08-05 13:00:23]     ✉ alert sent (10q)
+[2026-08-05 13:00:23] === EDGAR FIREHOSE complete. 8 new detections. ===
