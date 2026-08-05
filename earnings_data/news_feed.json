@@ -1,6 +1,84 @@
 {
- "generated_at": "2026-08-05T03:27:42",
+ "generated_at": "2026-08-05T13:02:50",
  "items": [
+  {
+   "uuid": "134f4c8d-a4e7-3e43-9a0d-3a0909670d10",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark Declares Quarterly Dividend",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-declares-quarterly-dividend-113000224.html",
+   "published_unix": 1785929400,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-05T13:02:25"
+  },
+  {
+   "uuid": "e828fac0-115b-3fa8-9f50-64a357b3e454",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark Collegiate Hospitality Selected to Transform Campus Dining and Hospitality Services at University of Colorado Colorado Springs",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/small-business/articles/aramark-collegiate-hospitality-selected-transform-113000628.html",
+   "published_unix": 1785929400,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-05T13:02:25"
+  },
+  {
+   "uuid": "7875bd10-a923-366c-a4c4-f33436d9af24",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores",
+   "title": "Citigroup Downgrades Burlington Stores to Neutral From Buy, Price Target is $380",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/citigroup-downgrades-burlington-stores-neutral-112200340.html",
+   "published_unix": 1785928920,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-05T13:02:27"
+  },
+  {
+   "uuid": "b4246b05-1296-3709-820b-8c19fa785335",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "Cencora's Fiscal Q3 Adjusted Earnings, Revenue Rise; Raises 2026 Adjusted EPS Guidance",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cencora-apos-fiscal-q3-adjusted-105323317.html",
+   "published_unix": 1785927203,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-05T13:02:25"
+  },
+  {
+   "uuid": "1b5e2f84-46c1-301f-8900-d70a9ccea595",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "Cencora: Fiscal Q3 Earnings Snapshot",
+   "publisher": "Associated Press",
+   "link": "https://finance.yahoo.com/healthcare/articles/cencora-fiscal-q3-earnings-snapshot-103612605.html",
+   "published_unix": 1785926172,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-05T13:02:25"
+  },
+  {
+   "uuid": "efd69c4d-b65b-32b2-a7d3-9ba4306bb507",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "Cencora Reports Fiscal 2026 Third Quarter Results",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/healthcare/articles/cencora-reports-fiscal-2026-third-103000847.html",
+   "published_unix": 1785925800,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-05T13:02:25"
+  },
   {
    "uuid": "440eb36e-61dc-3f65-a60c-2c9734d2b976",
    "tickers": [
