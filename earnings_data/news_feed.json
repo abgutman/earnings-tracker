@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-05T15:26:11",
+ "generated_at": "2026-08-05T17:53:24",
  "items": [
   {
    "uuid": "dcfb246049ef71e2bd5bb4c89fc03bf5e934e594",
@@ -76,6 +76,19 @@
    "published_unix": 1785928920,
    "source_type": "yahoo",
    "captured_at": "2026-08-05T13:02:27"
+  },
+  {
+   "uuid": "c05ea99f-2000-3b55-b056-70140d0a99bc",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Analyst Report: Aramark",
+   "publisher": "Morningstar Research",
+   "link": "https://finance.yahoo.com/m/c05ea99f-2000-3b55-b056-70140d0a99bc/analyst-report%3A-aramark.html",
+   "published_unix": 1785927464,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-05T17:52:50"
   },
   {
    "uuid": "b4246b05-1296-3709-820b-8c19fa785335",
