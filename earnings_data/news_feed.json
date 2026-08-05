@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-08-05T21:31:52",
+ "generated_at": "2026-08-05T23:17:32",
  "items": [
+  {
+   "uuid": "1c68c8e7-dab6-3c6d-be40-807d766a81b3",
+   "tickers": [
+    "WTRG"
+   ],
+   "company": "Essential Utilities",
+   "title": "Analyst Report: Essential Utilities, Inc.",
+   "publisher": "Morningstar Research",
+   "link": "https://finance.yahoo.com/m/1c68c8e7-dab6-3c6d-be40-807d766a81b3/analyst-report%3A-essential.html",
+   "published_unix": 1785966192,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-05T23:17:06"
+  },
+  {
+   "uuid": "53cd3754-8046-3178-b939-2eb4147670ab",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "Analyst Report: Cencora, Inc.",
+   "publisher": "Morningstar Research",
+   "link": "https://finance.yahoo.com/m/53cd3754-8046-3178-b939-2eb4147670ab/analyst-report%3A-cencora%2C-inc..html",
+   "published_unix": 1785963395,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-05T23:17:04"
+  },
   {
    "uuid": "dcfb246049ef71e2bd5bb4c89fc03bf5e934e594",
    "tickers": [],
@@ -37,6 +63,19 @@
    "published_unix": 1785934576,
    "source_type": "yahoo",
    "captured_at": "2026-08-05T15:25:56"
+  },
+  {
+   "uuid": "279b0b1c-cf48-302d-af01-81d68741e27e",
+   "tickers": [
+    "WTRG"
+   ],
+   "company": "Essential Utilities",
+   "title": "Essential Utilities, Inc. Q2 2026 Earnings Call Summary",
+   "publisher": "Moby",
+   "link": "https://finance.yahoo.com/m/279b0b1c-cf48-302d-af01-81d68741e27e/essential-utilities%2C-inc.-q2.html",
+   "published_unix": 1785933000,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-05T23:17:06"
   },
   {
    "uuid": "134f4c8d-a4e7-3e43-9a0d-3a0909670d10",
