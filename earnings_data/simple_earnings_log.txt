@@ -1915,3 +1915,17 @@
 [2026-08-06 15:21:53]   firehose: 10-Q feed — 100 entries parsed
 [2026-08-06 15:21:53]   firehose: 100 watched CIKs, 200 total feed entries
 [2026-08-06 15:21:53] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-08-06 15:33:23] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-08-06 15:33:33]   ★ NEW 8k_202 for EPAM (EPAM Systems, Inc.) filed 2026-08-06
+[2026-08-06 15:33:33]     https://www.sec.gov/Archives/edgar/data/1352010/000135201026000043/epam-20260806.htm
+[2026-08-06 15:33:34]     ✉ alert sent (8k_202)
+[2026-08-06 15:33:34]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001352010.json'
+[2026-08-06 15:33:35]   ★ NEW 8k_202 for FSK (FS KKR Capital Corp) filed 2026-08-06
+[2026-08-06 15:33:35]     https://www.sec.gov/Archives/edgar/data/1422183/000110465926091572/tm2622260d1_8k.htm
+[2026-08-06 15:33:36]     ✉ alert sent (8k_202)
+[2026-08-06 15:33:36]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001422183.json'
+[2026-08-06 15:33:39]   ★ NEW 8k_202 for AVTX (Avalo Therapeutics, Inc.) filed 2026-08-06
+[2026-08-06 15:33:39]     https://www.sec.gov/Archives/edgar/data/1534120/000153412026000048/avtx-20260806.htm
+[2026-08-06 15:33:40]     ✉ alert sent (8k_202)
+[2026-08-06 15:33:40]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001534120.json'
+[2026-08-06 15:33:52] === EDGAR POLL complete. Fetched 100 companies, 3 new filings. ===
