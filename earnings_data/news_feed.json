@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-08-06T13:03:07",
+ "generated_at": "2026-08-06T15:27:09",
  "items": [
+  {
+   "uuid": "3dcd6e73-d3a5-3bb2-89e1-37c958f8c73f",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "UBS Adjusts Price Target on Cencora to $430 From $412, Maintains Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-price-target-cencora-141042735.html",
+   "published_unix": 1786025442,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-06T15:26:44"
+  },
+  {
+   "uuid": "4c4459e8-7379-3d2f-a2c9-a862c3c34c62",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Business Brings Enhanced Private Wireless Networking to the Corporate Office",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/articles/comcast-business-brings-enhanced-private-140000882.html",
+   "published_unix": 1786024800,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-06T15:26:44"
+  },
   {
    "uuid": "a59b2d89-f14a-3f13-821f-8b0d8863a3f0",
    "tickers": [
@@ -2003,19 +2029,6 @@
    "published_unix": 1783542600,
    "source_type": "yahoo",
    "captured_at": "2026-07-19T09:06:23"
-  },
-  {
-   "uuid": "7d40b84d-ab15-37d5-9870-8c9f64f4d6bd",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora",
-   "title": "Evercore ISI Adjusts Price Target on Cencora to $330 From $300",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/evercore-isi-adjusts-price-target-131756525.html",
-   "published_unix": 1783430276,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-19T09:06:22"
   }
  ]
 }
