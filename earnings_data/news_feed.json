@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-08-06T03:30:55",
+ "generated_at": "2026-08-06T13:03:07",
  "items": [
+  {
+   "uuid": "a59b2d89-f14a-3f13-821f-8b0d8863a3f0",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark Student Nutrition Sets a New Standard for Student Wellbeing This Back-to-School Season",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/healthcare/articles/aramark-student-nutrition-sets-standard-113000880.html",
+   "published_unix": 1786015800,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-06T13:02:36"
+  },
+  {
+   "uuid": "678a36ea-c217-3146-9028-5f56eacadc1f",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "Cencora, Inc. Q3 2026 Earnings Call Summary",
+   "publisher": "Moby",
+   "link": "https://finance.yahoo.com/m/678a36ea-c217-3146-9028-5f56eacadc1f/cencora%2C-inc.-q3-2026.html",
+   "published_unix": 1785985458,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-06T13:02:36"
+  },
   {
    "uuid": "1c68c8e7-dab6-3c6d-be40-807d766a81b3",
    "tickers": [
