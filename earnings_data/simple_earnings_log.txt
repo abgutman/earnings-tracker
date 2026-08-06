@@ -1871,3 +1871,42 @@
 [2026-08-05 23:43:13]     https://www.sec.gov/Archives/edgar/data/1842952/000162828026053347/cntx-20260630.htm
 [2026-08-05 23:43:13]   QNBC: pending_10q_since=2026-07-28 is 8d old — clearing stale flag
 [2026-08-05 23:43:14] === CHECK-10Q complete. Checked 16, found 5, cleared 2 stale. ===
+[2026-08-06 13:00:47] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-06 13:00:47]   firehose: 8-K feed — 100 entries parsed
+[2026-08-06 13:00:47]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-08-06 13:00:48]   firehose: 8-K page 2 — 100 entries
+[2026-08-06 13:00:55]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-06 13:00:55]   firehose: all 10-Q entries newer than watermark — fetching page 2
+[2026-08-06 13:00:56]   firehose: 10-Q page 2 — 100 entries
+[2026-08-06 13:00:56]   firehose: 100 watched CIKs, 400 total feed entries
+[2026-08-06 13:00:56]   ★ NEW 8k_202 for UGI (UGI CORP /PA/) filed 2026-08-06
+[2026-08-06 13:00:56]     https://www.sec.gov/Archives/edgar/data/884614/000088461426000048/ugi-20260805.htm
+[2026-08-06 13:00:59]     ✉ alert sent (8k_202)
+[2026-08-06 13:00:59]   ★ NEW 8k_202 for OCGN (Ocugen, Inc.) filed 2026-08-06
+[2026-08-06 13:00:59]     https://www.sec.gov/Archives/edgar/data/1372299/000110465926091691/tm2622368d1_8k.htm
+[2026-08-06 13:01:00]     ✉ alert sent (8k_202)
+[2026-08-06 13:01:01]   ★ NEW 8k_202 for RDN (RADIAN GROUP INC) filed 2026-08-06
+[2026-08-06 13:01:01]     https://www.sec.gov/Archives/edgar/data/890926/000119312526336793/rdn-20260805.htm
+[2026-08-06 13:01:02]     ✉ alert sent (8k_202)
+[2026-08-06 13:01:02]   ★ NEW 8k_202 for ACRS (Aclaris Therapeutics, Inc.) filed 2026-08-06
+[2026-08-06 13:01:02]     https://www.sec.gov/Archives/edgar/data/1557746/000110465926091629/acrs-20260806x8k.htm
+[2026-08-06 13:01:05]     ✉ alert sent (8k_202)
+[2026-08-06 13:01:05]   ★ NEW 8k_202 for VSNT (Versant Media Group, Inc.) filed 2026-08-06
+[2026-08-06 13:01:05]     https://www.sec.gov/Archives/edgar/data/2067876/000206787626000038/vsnt-20260806.htm
+[2026-08-06 13:01:06]     ✉ alert sent (8k_202)
+[2026-08-06 13:01:06]   ★ NEW 8k_202 for TFX (TELEFLEX INC) filed 2026-08-06
+[2026-08-06 13:01:06]     https://www.sec.gov/Archives/edgar/data/96943/000009694326000091/tfx-20260806.htm
+[2026-08-06 13:01:08]     ✉ alert sent (8k_202)
+[2026-08-06 13:01:08]   ★ NEW 8k_202 for BSY (BENTLEY SYSTEMS INC) filed 2026-08-06
+[2026-08-06 13:01:08]     https://www.sec.gov/Archives/edgar/data/1031308/000103130826000020/bsy-20260806.htm
+[2026-08-06 13:01:11]     ✉ alert sent (8k_202)
+[2026-08-06 13:01:12]   ★ NEW 8k_202 for AVTX (Avalo Therapeutics, Inc.) filed 2026-08-06
+[2026-08-06 13:01:12]     https://www.sec.gov/Archives/edgar/data/1534120/000153412026000048/avtx-20260806.htm
+[2026-08-06 13:01:13]     ✉ alert sent (8k_202)
+[2026-08-06 13:01:13]   ★ NEW 10q for AVTX (Avalo Therapeutics, Inc.) filed 2026-08-06
+[2026-08-06 13:01:13]     https://www.sec.gov/Archives/edgar/data/1534120/000153412026000049/avtx-20260630.htm
+[2026-08-06 13:01:15]     ✉ alert sent (10q)
+[2026-08-06 13:01:15]   ★ NEW 10q for FSK (FS KKR Capital Corp) filed 2026-08-06
+[2026-08-06 13:01:15]     https://www.sec.gov/Archives/edgar/data/1422183/000162828026053783/fsk-20260630.htm
+[2026-08-06 13:01:17]     ✉ alert sent (10q)
+[2026-08-06 13:01:17] === EDGAR FIREHOSE complete. 10 new detections. ===
