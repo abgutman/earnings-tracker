@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-07T19:14:03",
+ "generated_at": "2026-08-07T20:57:38",
  "items": [
   {
    "uuid": "631ba3d7-6d36-3744-af06-19f35b71e740",
@@ -2142,19 +2142,6 @@
    "publisher": "MT Newswires",
    "link": "https://finance.yahoo.com/healthcare/articles/fmc-files-first-global-regulatory-205739916.html",
    "published_unix": 1783544259,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-19T09:06:23"
-  },
-  {
-   "uuid": "d4097f21-704d-387c-a48f-175b3f1f8cde",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC Corporation",
-   "title": "FMC Corporation Files First Global Regulatory Submission for Rimisoxafen with United States Environmental Protection Agency",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/fmc-corporation-files-first-global-203000662.html",
-   "published_unix": 1783542600,
    "source_type": "yahoo",
    "captured_at": "2026-07-19T09:06:23"
   }
