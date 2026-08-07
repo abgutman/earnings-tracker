@@ -2042,3 +2042,25 @@
 [2026-08-07 13:52:38]   firehose: 10-Q feed — 100 entries parsed
 [2026-08-07 13:52:38]   firehose: 100 watched CIKs, 200 total feed entries
 [2026-08-07 13:52:38] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-08-07 14:27:55] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-08-07 14:28:00]   ★ NEW 8k_202 for OCGN (Ocugen, Inc.) filed 2026-08-06
+[2026-08-07 14:28:00]     https://www.sec.gov/Archives/edgar/data/1372299/000110465926091691/tm2622368d1_8k.htm
+[2026-08-07 14:28:02]     ✉ alert sent (8k_202)
+[2026-08-07 14:28:02]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001372299.json'
+[2026-08-07 14:28:07]   ★ NEW 8k_202 for GMED (GLOBUS MEDICAL INC) filed 2026-08-06
+[2026-08-07 14:28:07]     https://www.sec.gov/Archives/edgar/data/1237831/000162828026054353/gmed-20260806.htm
+[2026-08-07 14:28:10]     ✉ alert sent (8k_202)
+[2026-08-07 14:28:10]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001237831.json'
+[2026-08-07 14:28:18]   ★ NEW 8k_202 for ACRS (Aclaris Therapeutics, Inc.) filed 2026-08-06
+[2026-08-07 14:28:18]     https://www.sec.gov/Archives/edgar/data/1557746/000110465926091629/acrs-20260806x8k.htm
+[2026-08-07 14:28:19]     ✉ alert sent (8k_202)
+[2026-08-07 14:28:19]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001557746.json'
+[2026-08-07 14:28:22]   ★ NEW 10q for MRBK (Meridian Corp) filed 2026-08-07
+[2026-08-07 14:28:22]     https://www.sec.gov/Archives/edgar/data/1750735/000175073526000063/mrbk-20260630.htm
+[2026-08-07 14:28:24]     ✉ alert sent (10q)
+[2026-08-07 14:28:24]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001750735.json'
+[2026-08-07 14:28:25]   ★ NEW 8k_202 for VRCA (Verrica Pharmaceuticals Inc.) filed 2026-08-06
+[2026-08-07 14:28:25]     https://www.sec.gov/Archives/edgar/data/1660334/000119312526338273/d13828d8k.htm
+[2026-08-07 14:28:26]     ✉ alert sent (8k_202)
+[2026-08-07 14:28:26]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001660334.json'
+[2026-08-07 14:28:34] === EDGAR POLL complete. Fetched 100 companies, 5 new filings. ===
