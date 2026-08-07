@@ -204,8 +204,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/890926/000119312526340290/rdn-20260630.htm",
   "last_detected_at": "2026-08-07T20:51:37.472664+00:00",
   "last_8k_detected_at": "2026-08-06T13:00:47.693496+00:00",
-  "pending_10q_since": "2026-08-06",
-  "last_10q_url": null
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/890926/000119312526340290/rdn-20260630.htm"
  },
  "LNC": {
   "ticker": "LNC",
@@ -327,8 +326,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1372299/000110465926091691/tm2622368d1_8k.htm",
   "last_detected_at": "2026-08-07T14:27:55.365034+00:00",
   "last_8k_detected_at": "2026-08-07T14:27:55.365034+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-08-06"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1372299/000162828026054057/ocgn-20260630.htm"
  },
  "OFLX": {
   "ticker": "OFLX",
@@ -738,8 +736,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1237831/000162828026054353/gmed-20260806.htm",
   "last_detected_at": "2026-08-07T14:27:55.365034+00:00",
   "last_8k_detected_at": "2026-08-07T14:27:55.365034+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-08-06"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1237831/000162828026054450/gmed-20260630.htm"
  },
  "CUBE": {
   "ticker": "CUBE",
@@ -1309,8 +1306,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1557746/000110465926091629/acrs-20260806x8k.htm",
   "last_detected_at": "2026-08-07T14:27:55.365034+00:00",
   "last_8k_detected_at": "2026-08-07T14:27:55.365034+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-08-06"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1557746/000110465926092065/acrs-20260630x10q.htm"
  },
  "CABA": {
   "ticker": "CABA",
@@ -1665,8 +1661,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1660334/000119312526338273/d13828d8k.htm",
   "last_detected_at": "2026-08-07T14:27:55.365034+00:00",
   "last_8k_detected_at": "2026-08-07T14:27:55.365034+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-08-06"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1660334/000166033426000025/vrca-20260630.htm"
  },
  "ANVS": {
   "ticker": "ANVS",
@@ -2213,8 +2208,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/922224/000092222426000042/ppl-20260807.htm",
   "last_detected_at": "2026-08-07T19:25:04.251118+00:00",
   "last_8k_detected_at": "2026-08-07T19:25:04.251118+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-08-07"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/922224/000092222426000044/ppl-20260630.htm"
  },
  "JNJ": {
   "ticker": "JNJ",
@@ -2260,8 +2254,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/310158/000031015826000212/mrk-20260630.htm",
   "last_detected_at": "2026-08-07T20:51:37.472664+00:00",
   "last_8k_detected_at": "2026-08-04T13:06:15.061110+00:00",
-  "pending_10q_since": "2026-08-04",
-  "last_10q_url": null
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/310158/000031015826000212/mrk-20260630.htm"
  },
  "DD": {
   "ticker": "DD",

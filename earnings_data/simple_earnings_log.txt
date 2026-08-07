@@ -2140,3 +2140,19 @@
 [2026-08-07 22:02:54]   firehose: 10-Q feed — 100 entries parsed
 [2026-08-07 22:02:54]   firehose: 100 watched CIKs, 200 total feed entries
 [2026-08-07 22:02:54] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-08-07 23:20:42] === CHECK-10Q: scanning for pending 10-Q filings ===
+[2026-08-07 23:20:42]   ✓ 10-Q found for RDN (RADIAN GROUP INC) filed 2026-08-07
+[2026-08-07 23:20:42]     https://www.sec.gov/Archives/edgar/data/890926/000119312526340290/rdn-20260630.htm
+[2026-08-07 23:20:42]   ✓ 10-Q found for OCGN (Ocugen, Inc.) filed 2026-08-06
+[2026-08-07 23:20:42]     https://www.sec.gov/Archives/edgar/data/1372299/000162828026054057/ocgn-20260630.htm
+[2026-08-07 23:20:42]   ✓ 10-Q found for GMED (GLOBUS MEDICAL INC) filed 2026-08-06
+[2026-08-07 23:20:42]     https://www.sec.gov/Archives/edgar/data/1237831/000162828026054450/gmed-20260630.htm
+[2026-08-07 23:20:43]   ✓ 10-Q found for ACRS (Aclaris Therapeutics, Inc.) filed 2026-08-06
+[2026-08-07 23:20:43]     https://www.sec.gov/Archives/edgar/data/1557746/000110465926092065/acrs-20260630x10q.htm
+[2026-08-07 23:20:43]   ✓ 10-Q found for VRCA (Verrica Pharmaceuticals Inc.) filed 2026-08-06
+[2026-08-07 23:20:43]     https://www.sec.gov/Archives/edgar/data/1660334/000166033426000025/vrca-20260630.htm
+[2026-08-07 23:20:43]   ✓ 10-Q found for PPL (PPL Corp) filed 2026-08-07
+[2026-08-07 23:20:43]     https://www.sec.gov/Archives/edgar/data/922224/000092222426000044/ppl-20260630.htm
+[2026-08-07 23:20:44]   ✓ 10-Q found for MRK (Merck & Co., Inc.) filed 2026-08-07
+[2026-08-07 23:20:44]     https://www.sec.gov/Archives/edgar/data/310158/000031015826000212/mrk-20260630.htm
+[2026-08-07 23:20:44] === CHECK-10Q complete. Checked 8, found 7, cleared 0 stale. ===
