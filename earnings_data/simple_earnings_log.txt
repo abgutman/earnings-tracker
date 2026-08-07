@@ -2024,3 +2024,11 @@
 [2026-08-07 01:39:35]     https://www.sec.gov/Archives/edgar/data/1519061/000110465926091910/tse-20260630x10q.htm
 [2026-08-07 01:39:35]   JNJ: pending_10q_since=2026-07-29 is 9d old — clearing stale flag
 [2026-08-07 01:39:36] === CHECK-10Q complete. Checked 19, found 16, cleared 5 stale. ===
+[2026-08-07 11:51:21] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-07 11:51:21]   firehose: 8-K feed — 100 entries parsed
+[2026-08-07 11:51:22]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-07 11:51:22]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-08-07 11:51:22]   ★ NEW 8k_202 for PPL (PPL Corp) filed 2026-08-07
+[2026-08-07 11:51:22]     https://www.sec.gov/Archives/edgar/data/922224/000092222426000042/0000922224-26-000042-index.htm
+[2026-08-07 11:51:23]     ✉ alert sent (8k_202)
+[2026-08-07 11:51:23] === EDGAR FIREHOSE complete. 1 new detections. ===
