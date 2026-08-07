@@ -1985,3 +1985,42 @@
 [2026-08-07 00:55:01]     https://www.sec.gov/Archives/edgar/data/1557746/000110465926092065/acrs-20260630x10q.htm
 [2026-08-07 00:55:02]     ✉ alert sent (10q)
 [2026-08-07 00:55:02] === EDGAR FIREHOSE complete. 3 new detections. ===
+[2026-08-07 01:39:31] === CHECK-10Q: scanning for pending 10-Q filings ===
+[2026-08-07 01:39:31]   ✓ 10-Q found for BSY (BENTLEY SYSTEMS INC) filed 2026-08-06
+[2026-08-07 01:39:31]     https://www.sec.gov/Archives/edgar/data/1031308/000103130826000023/bsy-20260630.htm
+[2026-08-07 01:39:31]   ✓ 10-Q found for OCGN (Ocugen, Inc.) filed 2026-08-06
+[2026-08-07 01:39:31]     https://www.sec.gov/Archives/edgar/data/1372299/000162828026054057/ocgn-20260630.htm
+[2026-08-07 01:39:32]   ✓ 10-Q found for UGI (UGI CORP /PA/) filed 2026-08-06
+[2026-08-07 01:39:32]     https://www.sec.gov/Archives/edgar/data/884614/000088461426000052/ugi-20260630.htm
+[2026-08-07 01:39:32]   INO: pending_10q_since=2026-07-29 is 9d old — clearing stale flag
+[2026-08-07 01:39:32]   CRS: pending_10q_since=2026-07-30 is 8d old — clearing stale flag
+[2026-08-07 01:39:32]   ✓ 10-Q found for GMED (GLOBUS MEDICAL INC) filed 2026-08-06
+[2026-08-07 01:39:32]     https://www.sec.gov/Archives/edgar/data/1237831/000162828026054450/gmed-20260630.htm
+[2026-08-07 01:39:32]   ✓ 10-Q found for VSNT (Versant Media Group, Inc.) filed 2026-08-06
+[2026-08-07 01:39:32]     https://www.sec.gov/Archives/edgar/data/2067876/000206787626000040/vsnt-20260630.htm
+[2026-08-07 01:39:32]   ✓ 10-Q found for TFX (TELEFLEX INC) filed 2026-08-06
+[2026-08-07 01:39:32]     https://www.sec.gov/Archives/edgar/data/96943/000009694326000095/tfx-20260630.htm
+[2026-08-07 01:39:33]   ✓ 10-Q found for EPAM (EPAM Systems, Inc.) filed 2026-08-06
+[2026-08-07 01:39:33]     https://www.sec.gov/Archives/edgar/data/1352010/000135201026000046/epam-20260630.htm
+[2026-08-07 01:39:33]   ✓ 10-Q found for FSK (FS KKR Capital Corp) filed 2026-08-06
+[2026-08-07 01:39:33]     https://www.sec.gov/Archives/edgar/data/1422183/000162828026053783/fsk-20260630.htm
+[2026-08-07 01:39:33]   ✓ 10-Q found for ECVT (Ecovyst Inc.) filed 2026-08-06
+[2026-08-07 01:39:33]     https://www.sec.gov/Archives/edgar/data/1708035/000170803526000090/ecvt-20260630.htm
+[2026-08-07 01:39:33]   ✓ 10-Q found for JJSF (J&J SNACK FOODS CORP) filed 2026-08-06
+[2026-08-07 01:39:33]     https://www.sec.gov/Archives/edgar/data/785956/000143774926026302/jjsf20260627_10q.htm
+[2026-08-07 01:39:34]   ✓ 10-Q found for AVTX (Avalo Therapeutics, Inc.) filed 2026-08-06
+[2026-08-07 01:39:34]     https://www.sec.gov/Archives/edgar/data/1534120/000153412026000049/avtx-20260630.htm
+[2026-08-07 01:39:34]   ✓ 10-Q found for ACRS (Aclaris Therapeutics, Inc.) filed 2026-08-06
+[2026-08-07 01:39:34]     https://www.sec.gov/Archives/edgar/data/1557746/000110465926092065/acrs-20260630x10q.htm
+[2026-08-07 01:39:34]   ✓ 10-Q found for GBLI (Global Indemnity Group, LLC) filed 2026-08-06
+[2026-08-07 01:39:34]     https://www.sec.gov/Archives/edgar/data/1494904/000119312526338196/gbli-20260630.htm
+[2026-08-07 01:39:34]   MRBK: pending_10q_since=2026-07-30 is 8d old — clearing stale flag
+[2026-08-07 01:39:35]   ✓ 10-Q found for VRCA (Verrica Pharmaceuticals Inc.) filed 2026-08-06
+[2026-08-07 01:39:35]     https://www.sec.gov/Archives/edgar/data/1660334/000166033426000025/vrca-20260630.htm
+[2026-08-07 01:39:35]   QNTO: pending_10q_since=2026-07-30 is 8d old — clearing stale flag
+[2026-08-07 01:39:35]   ✓ 10-Q found for PHIO (Phio Pharmaceuticals Corp.) filed 2026-08-06
+[2026-08-07 01:39:35]     https://www.sec.gov/Archives/edgar/data/1533040/000143774926026271/phio20260630_10q.htm
+[2026-08-07 01:39:35]   ✓ 10-Q found for TSEOF (Trinseo PLC) filed 2026-08-06
+[2026-08-07 01:39:35]     https://www.sec.gov/Archives/edgar/data/1519061/000110465926091910/tse-20260630x10q.htm
+[2026-08-07 01:39:35]   JNJ: pending_10q_since=2026-07-29 is 9d old — clearing stale flag
+[2026-08-07 01:39:36] === CHECK-10Q complete. Checked 19, found 16, cleared 5 stale. ===

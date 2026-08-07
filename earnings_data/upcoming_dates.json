@@ -1,65 +1,5 @@
 {
  "_comment": "Confirmed upcoming earnings dates. Populated manually + by future auto-extraction from save-the-date press releases. Each entry: release_date (YYYY-MM-DD), optionally call_date, call_time (HH:MM ET), source_url, source_title.",
- "COR": {
-  "release_date": "2026-08-05",
-  "call_date": null,
-  "call_time": "08:30 ET",
-  "source_url": "https://finance.yahoo.com/healthcare/articles/cencora-announces-date-time-third-203000029.html",
-  "source_title": "Cencora Announces Date and Time for Third Quarter Fiscal 2026 Earnings Release",
-  "source_publisher": "Business Wire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-01T23:07:18"
- },
- "UGI": {
-  "release_date": "2026-08-06",
-  "call_date": null,
-  "call_time": null,
-  "source_url": "https://finance.yahoo.com/energy/articles/ugi-corporation-hold-fiscal-2026-201500080.html",
-  "source_title": "UGI Corporation to Hold Fiscal 2026 Third Quarter Earnings Conference Call on Thursday, August 6",
-  "source_publisher": "Business Wire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-06T23:50:42"
- },
- "VSNT": {
-  "release_date": "2026-08-06",
-  "call_date": null,
-  "call_time": "08:00 ET",
-  "source_url": "https://finance.yahoo.com/media-advertising/articles/versant-report-second-quarter-2026-203000522.html",
-  "source_title": "Versant to Report Second Quarter 2026 Operating and Financial Results",
-  "source_publisher": "Business Wire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-06T23:50:54"
- },
- "VSH": {
-  "release_date": "2026-08-05",
-  "call_date": null,
-  "call_time": null,
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/vishay-intertechnology-announce-second-quarter-201500514.html",
-  "source_title": "Vishay Intertechnology to Announce Second Quarter Results on Wednesday, August 5",
-  "source_publisher": "GlobeNewswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-07T23:40:28"
- },
- "BSY": {
-  "release_date": "2026-08-06",
-  "call_date": null,
-  "call_time": null,
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/bentley-systems-announce-second-quarter-200100614.html",
-  "source_title": "Bentley Systems to Announce Second Quarter 2026 Results on August 6, 2026",
-  "source_publisher": "Business Wire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-08T23:52:35"
- },
- "FSK": {
-  "release_date": "2026-08-06",
-  "call_date": "2026-08-06",
-  "call_time": "09:00 ET",
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/fsk-announces-earnings-release-conference-202000490.html",
-  "source_title": "FSK Announces Earnings Release and Conference Call Schedule for Second Quarter 2026",
-  "source_publisher": "PR Newswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-09T23:54:32"
- },
  "NVRI": {
   "release_date": null,
   "call_date": "2026-08-11",
@@ -90,56 +30,6 @@
   "source_type": "yahoo_auto",
   "captured_at": "2026-07-14T23:38:07"
  },
- "VPG": {
-  "release_date": "2026-08-05",
-  "call_date": "2026-08-05",
-  "call_time": "09:00 ET",
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/vishay-precision-group-announces-date-170000777.html",
-  "source_title": "Vishay Precision Group Announces Date for its Second Quarter Fiscal 2026 Earnings Conference Call",
-  "source_publisher": "GlobeNewswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-15T23:44:16"
- },
- "ECVT": {
-  "release_date": "2026-08-05",
-  "call_date": null,
-  "call_time": null,
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/ecovyst-host-second-quarter-2026-213000555.html",
-  "source_title": "Ecovyst to Host Second Quarter 2026 Earnings Conference Call and Webcast on Wednesday, August 5, 2026, at 11:00 a.m. ET",
-  "source_publisher": "PR Newswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-15T23:44:19"
- },
- "GMED": {
-  "release_date": "2026-08-06",
-  "call_date": null,
-  "call_time": null,
-  "source_url": "https://finance.yahoo.com/healthcare/articles/globus-medical-schedules-second-quarter-203000658.html",
-  "source_title": "Globus Medical Schedules Second Quarter Earnings Release and Conference Call",
-  "source_publisher": "GlobeNewswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-16T23:42:53"
- },
- "RDN": {
-  "release_date": null,
-  "call_date": "2026-08-06",
-  "call_time": "10:00 ET",
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/radian-webcast-second-quarter-conference-103000141.html",
-  "source_title": "Radian to Webcast Second Quarter Conference Call",
-  "source_publisher": "Business Wire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-17T23:37:53"
- },
- "JJSF": {
-  "release_date": "2026-08-05",
-  "call_date": null,
-  "call_time": "10:00 ET",
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/j-j-snack-foods-schedules-203000632.html",
-  "source_title": "J & J SNACK FOODS SCHEDULES FISCAL 2026 THIRD QUARTER EARNINGS CONFERENCE CALL AND WEBCAST",
-  "source_publisher": "GlobeNewswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-20T23:43:06"
- },
  "TELA": {
   "release_date": "2026-08-10",
   "call_date": null,
@@ -149,26 +39,6 @@
   "source_publisher": "GlobeNewswire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-07-20T23:43:25"
- },
- "OCGN": {
-  "release_date": "2026-08-06",
-  "call_date": null,
-  "call_time": null,
-  "source_url": "https://finance.yahoo.com/healthcare/articles/ocugen-host-conference-call-thursday-200100334.html",
-  "source_title": "Ocugen to Host Conference Call on Thursday, August 6 at 8:30 A.M. ET to Discuss Business Updates and Second Quarter 2026 Financial Results",
-  "source_publisher": "GlobeNewswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-28T23:44:29"
- },
- "GBLI": {
-  "release_date": "2026-08-05",
-  "call_date": "2026-08-05",
-  "call_time": "11:00 ET",
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/global-indemnity-group-q2-2026-200500224.html",
-  "source_title": "Global Indemnity Group Q2 2026 Earnings Release & Conference Call",
-  "source_publisher": "GlobeNewswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-28T23:45:03"
  },
  "STIM": {
   "release_date": "2026-08-11",
@@ -199,16 +69,6 @@
   "source_publisher": "Business Wire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-07-30T23:45:21"
- },
- "VRCA": {
-  "release_date": "2026-08-06",
-  "call_date": null,
-  "call_time": null,
-  "source_url": "https://finance.yahoo.com/healthcare/articles/verrica-pharmaceuticals-report-second-quarter-120000179.html",
-  "source_title": "Verrica Pharmaceuticals to Report Second Quarter 2026 Financial Results and Provide a Corporate Update on August 6, 2026",
-  "source_publisher": "GlobeNewswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-30T23:45:30"
  },
  "INO": {
   "release_date": "2026-08-12",
