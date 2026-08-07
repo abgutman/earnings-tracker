@@ -1929,3 +1929,33 @@
 [2026-08-06 15:33:40]     ✉ alert sent (8k_202)
 [2026-08-06 15:33:40]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001534120.json'
 [2026-08-06 15:33:52] === EDGAR POLL complete. Fetched 100 companies, 3 new filings. ===
+[2026-08-07 00:19:25] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-08-07 00:19:33]   ★ NEW 8k_202 for GMED (GLOBUS MEDICAL INC) filed 2026-08-06
+[2026-08-07 00:19:33]     https://www.sec.gov/Archives/edgar/data/1237831/000162828026054353/gmed-20260806.htm
+[2026-08-07 00:19:34]     ✉ alert sent (8k_202)
+[2026-08-07 00:19:34]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001237831.json'
+[2026-08-07 00:19:38]   ★ NEW 10q for ECVT (Ecovyst Inc.) filed 2026-08-06
+[2026-08-07 00:19:38]     https://www.sec.gov/Archives/edgar/data/1708035/000170803526000090/ecvt-20260630.htm
+[2026-08-07 00:19:39]     ✉ alert sent (10q)
+[2026-08-07 00:19:39]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001708035.json'
+[2026-08-07 00:19:39]   ★ NEW 10q for JJSF (J&J SNACK FOODS CORP) filed 2026-08-06
+[2026-08-07 00:19:39]     https://www.sec.gov/Archives/edgar/data/785956/000143774926026302/jjsf20260627_10q.htm
+[2026-08-07 00:19:40]     ✉ alert sent (10q)
+[2026-08-07 00:19:40]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0000785956.json'
+[2026-08-07 00:19:43]   ★ NEW 10q for GBLI (Global Indemnity Group, LLC) filed 2026-08-06
+[2026-08-07 00:19:43]     https://www.sec.gov/Archives/edgar/data/1494904/000119312526338196/gbli-20260630.htm
+[2026-08-07 00:19:44]     ✉ alert sent (10q)
+[2026-08-07 00:19:44]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001494904.json'
+[2026-08-07 00:19:47]   ★ NEW 8k_202 for VRCA (Verrica Pharmaceuticals Inc.) filed 2026-08-06
+[2026-08-07 00:19:47]     https://www.sec.gov/Archives/edgar/data/1660334/000119312526338273/d13828d8k.htm
+[2026-08-07 00:19:48]     ✉ alert sent (8k_202)
+[2026-08-07 00:19:48]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001660334.json'
+[2026-08-07 00:19:51]   ★ NEW 8k_202 for PHIO (Phio Pharmaceuticals Corp.) filed 2026-08-06
+[2026-08-07 00:19:51]     https://www.sec.gov/Archives/edgar/data/1533040/000143774926026275/phio20260519_8k.htm
+[2026-08-07 00:19:52]     ✉ alert sent (8k_202)
+[2026-08-07 00:19:52]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001533040.json'
+[2026-08-07 00:19:54]   ★ NEW 8k_202 for TSEOF (Trinseo PLC) filed 2026-08-06
+[2026-08-07 00:19:54]     https://www.sec.gov/Archives/edgar/data/1519061/000110465926091904/tse-20260806x8k.htm
+[2026-08-07 00:19:54]     ✉ alert sent (8k_202)
+[2026-08-07 00:19:54]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001519061.json'
+[2026-08-07 00:19:57] === EDGAR POLL complete. Fetched 100 companies, 7 new filings. ===
