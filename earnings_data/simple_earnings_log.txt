@@ -1967,3 +1967,21 @@
 [2026-08-07 00:26:57]     https://www.sec.gov/Archives/edgar/data/1372299/000162828026054057/ocgn-20260630.htm
 [2026-08-07 00:26:58]     ✉ alert sent (10q)
 [2026-08-07 00:26:58] === EDGAR FIREHOSE complete. 1 new detections. ===
+[2026-08-07 00:54:46] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-07 00:54:46]   firehose: 8-K feed — 100 entries parsed
+[2026-08-07 00:54:46]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-08-07 00:54:47]   firehose: 8-K page 2 — 100 entries
+[2026-08-07 00:54:47]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-07 00:54:47]   firehose: all 10-Q entries newer than watermark — fetching page 2
+[2026-08-07 00:54:56]   firehose: 10-Q page 2 — 100 entries
+[2026-08-07 00:54:56]   firehose: 100 watched CIKs, 400 total feed entries
+[2026-08-07 00:54:56]   ★ NEW 10q for GMED (GLOBUS MEDICAL INC) filed 2026-08-06
+[2026-08-07 00:54:56]     https://www.sec.gov/Archives/edgar/data/1237831/000162828026054450/gmed-20260630.htm
+[2026-08-07 00:54:59]     ✉ alert sent (10q)
+[2026-08-07 00:54:59]   ★ NEW 10q for VRCA (Verrica Pharmaceuticals Inc.) filed 2026-08-06
+[2026-08-07 00:54:59]     https://www.sec.gov/Archives/edgar/data/1660334/000166033426000025/vrca-20260630.htm
+[2026-08-07 00:55:01]     ✉ alert sent (10q)
+[2026-08-07 00:55:01]   ★ NEW 10q for ACRS (Aclaris Therapeutics, Inc.) filed 2026-08-06
+[2026-08-07 00:55:01]     https://www.sec.gov/Archives/edgar/data/1557746/000110465926092065/acrs-20260630x10q.htm
+[2026-08-07 00:55:02]     ✉ alert sent (10q)
+[2026-08-07 00:55:02] === EDGAR FIREHOSE complete. 3 new detections. ===
