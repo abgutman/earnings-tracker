@@ -2111,3 +2111,20 @@
 [2026-08-07 20:09:33]     https://www.sec.gov/Archives/edgar/data/1454742/000149315226036570/form10-q.htm
 [2026-08-07 20:09:35]     ✉ alert sent (10q)
 [2026-08-07 20:09:35] === EDGAR FIREHOSE complete. 1 new detections. ===
+[2026-08-07 20:51:37] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-07 20:51:41]   firehose: 8-K feed — 100 entries parsed
+[2026-08-07 20:51:42]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-07 20:51:42]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-08-07 20:51:42]   ★ NEW 10q for RDN (RADIAN GROUP INC) filed 2026-08-07
+[2026-08-07 20:51:42]     https://www.sec.gov/Archives/edgar/data/890926/000119312526340290/rdn-20260630.htm
+[2026-08-07 20:51:43]     ✉ alert sent (10q)
+[2026-08-07 20:51:43]   ★ NEW 10q for UHS (UNIVERSAL HEALTH SERVICES INC) filed 2026-08-07
+[2026-08-07 20:51:43]     https://www.sec.gov/Archives/edgar/data/352915/000119312526340278/uhs-20260630.htm
+[2026-08-07 20:51:44]     ✉ alert sent (10q)
+[2026-08-07 20:51:45]   ★ NEW 10q for UHT (UNIVERSAL HEALTH REALTY INCOME TRUST) filed 2026-08-07
+[2026-08-07 20:51:45]     https://www.sec.gov/Archives/edgar/data/798783/000119312526340281/uht-20260630.htm
+[2026-08-07 20:51:45]     ✉ alert sent (10q)
+[2026-08-07 20:51:45]   ★ NEW 10q for MRK (Merck & Co., Inc.) filed 2026-08-07
+[2026-08-07 20:51:45]     https://www.sec.gov/Archives/edgar/data/310158/000031015826000212/mrk-20260630.htm
+[2026-08-07 20:51:46]     ✉ alert sent (10q)
+[2026-08-07 20:51:46] === EDGAR FIREHOSE complete. 4 new detections. ===
