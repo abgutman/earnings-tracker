@@ -2128,3 +2128,8 @@
 [2026-08-07 20:51:45]     https://www.sec.gov/Archives/edgar/data/310158/000031015826000212/mrk-20260630.htm
 [2026-08-07 20:51:46]     ✉ alert sent (10q)
 [2026-08-07 20:51:46] === EDGAR FIREHOSE complete. 4 new detections. ===
+[2026-08-07 21:24:07] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-07 21:24:08]   firehose: 8-K feed — 100 entries parsed
+[2026-08-07 21:24:08]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-07 21:24:08]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-08-07 21:24:08] === EDGAR FIREHOSE complete. 0 new detections. ===
