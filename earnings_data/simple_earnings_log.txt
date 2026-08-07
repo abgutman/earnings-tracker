@@ -2087,3 +2087,8 @@
 [2026-08-07 17:03:50]     https://www.sec.gov/Archives/edgar/data/922224/000092222426000044/ppl-20260630.htm
 [2026-08-07 17:03:52]     ✉ alert sent (10q)
 [2026-08-07 17:03:53] === EDGAR FIREHOSE complete. 1 new detections. ===
+[2026-08-07 17:57:10] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-07 17:57:10]   firehose: 8-K feed — 100 entries parsed
+[2026-08-07 17:57:10]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-07 17:57:10]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-08-07 17:57:10] === EDGAR FIREHOSE complete. 0 new detections. ===
