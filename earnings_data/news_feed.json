@@ -1,6 +1,108 @@
 {
- "generated_at": "2026-08-06T15:27:09",
+ "generated_at": "2026-08-07T00:14:27",
  "items": [
+  {
+   "uuid": "04cd1dbc26cce8e4a1f91efbe0001e3edf11219e",
+   "tickers": [],
+   "company": "Franklin Biolabs",
+   "title": "Join Franklin during a webinar \u201cBuilding Robust Potency Assays with In-Cell Western Assay Protein Expression Readouts",
+   "publisher": "Franklin Biolabs",
+   "link": "https://event.on24.com/wcc/r/5404466/BC3B80903F208B4DD9FAA7B2B49AB8B7?partnerref=soc_LI-CORbio#new_tab",
+   "published_unix": 1786046728,
+   "source_type": "rss",
+   "captured_at": "2026-08-07T00:14:13"
+  },
+  {
+   "uuid": "174f7f75-d2e5-34e5-ab5b-ccfb7d728d30",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Selling Select Model Homes at Regency at Folsom Ranch in Folsom, California",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-selling-select-model-195300096.html",
+   "published_unix": 1786045980,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-07T00:14:27"
+  },
+  {
+   "uuid": "6a8e816a-cb8e-314d-8fa5-b3ec6374cc9c",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Opens Rivington Landing Luxury Condo Community in Danbury, Connecticut",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-opens-rivington-landing-192800052.html",
+   "published_unix": 1786044480,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-07T00:14:27"
+  },
+  {
+   "uuid": "0c063d17-9ab1-3418-bfe9-65d7303d946a",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Illinois American Water Recognizes Parent Company American Water's 140 Years of Providing Safe and Reliable Water and Wastewater Services to Customers and Communities in 2026",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/illinois-american-water-recognizes-parent-181900642.html",
+   "published_unix": 1786040340,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-07T00:14:01"
+  },
+  {
+   "uuid": "ee660c53-322a-379f-b72f-e8c9db4cfa9d",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "Citigroup Adjusts Price Target on Cencora to $370 From $355",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/citigroup-adjusts-price-target-cencora-161910221.html",
+   "published_unix": 1786033150,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-07T00:13:59"
+  },
+  {
+   "uuid": "c2007b2e-adab-3980-85df-184aaf61094e",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "Leerink Partners Adjusts Price Target on Cencora to $380 From $368",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/leerink-partners-adjusts-price-target-161903950.html",
+   "published_unix": 1786033143,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-07T00:13:59"
+  },
+  {
+   "uuid": "cd6a9e7c-2055-3fc2-b445-e1ca55182091",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "Evercore ISI Adjusts Price Target on Cencora to $350 From $330",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/evercore-isi-adjusts-price-target-161858249.html",
+   "published_unix": 1786033138,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-07T00:13:59"
+  },
+  {
+   "uuid": "4ae76554-210a-372b-a0a7-1b128a2c033e",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "Baird Adjusts Price Target on Cencora to $370 From $340",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/baird-adjusts-price-target-cencora-161852830.html",
+   "published_unix": 1786033132,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-07T00:13:59"
+  },
   {
    "uuid": "3dcd6e73-d3a5-3bb2-89e1-37c958f8c73f",
    "tickers": [
