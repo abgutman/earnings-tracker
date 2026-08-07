@@ -1959,3 +1959,11 @@
 [2026-08-07 00:19:54]     ✉ alert sent (8k_202)
 [2026-08-07 00:19:54]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001519061.json'
 [2026-08-07 00:19:57] === EDGAR POLL complete. Fetched 100 companies, 7 new filings. ===
+[2026-08-07 00:26:30] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-07 00:26:50]   firehose: 8-K feed fetch failed (rc=28)
+[2026-08-07 00:26:57]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-07 00:26:57]   firehose: 100 watched CIKs, 100 total feed entries
+[2026-08-07 00:26:57]   ★ NEW 10q for OCGN (Ocugen, Inc.) filed 2026-08-06
+[2026-08-07 00:26:57]     https://www.sec.gov/Archives/edgar/data/1372299/000162828026054057/ocgn-20260630.htm
+[2026-08-07 00:26:58]     ✉ alert sent (10q)
+[2026-08-07 00:26:58] === EDGAR FIREHOSE complete. 1 new detections. ===
