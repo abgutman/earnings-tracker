@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-08-07T13:38:18",
+ "generated_at": "2026-08-07T15:08:27",
  "items": [
+  {
+   "uuid": "631ba3d7-6d36-3744-af06-19f35b71e740",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "JPMorgan Adjusts Price Target on Cencora to $390 From $382",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-adjusts-price-target-cencora-145206728.html",
+   "published_unix": 1786114326,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-07T15:08:00"
+  },
+  {
+   "uuid": "d1434a7a-a432-3bb1-857f-db24ad24a953",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces Final Opportunity to Own a New Luxury Home in Seabrook Village at Nocatee",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-final-opportunity-143000483.html",
+   "published_unix": 1786113000,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-07T15:08:27"
+  },
   {
    "uuid": "04cd1dbc26cce8e4a1f91efbe0001e3edf11219e",
    "tickers": [],
