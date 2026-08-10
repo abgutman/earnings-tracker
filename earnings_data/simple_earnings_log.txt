@@ -2246,3 +2246,8 @@
 [2026-08-10 22:09:24]   firehose: 10-Q feed — 100 entries parsed
 [2026-08-10 22:09:24]   firehose: 100 watched CIKs, 200 total feed entries
 [2026-08-10 22:09:24] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-08-10 23:21:20] === CHECK-10Q: scanning for pending 10-Q filings ===
+[2026-08-10 23:21:20]   GRTX: pending_10q_since=2026-07-31 is 10d old — clearing stale flag
+[2026-08-10 23:21:21]   ✓ 10-Q found for XHLD (TEN Holdings, Inc.) filed 2026-08-10
+[2026-08-10 23:21:21]     https://www.sec.gov/Archives/edgar/data/2030954/000149315226036861/form10-q.htm
+[2026-08-10 23:21:21] === CHECK-10Q complete. Checked 3, found 1, cleared 1 stale. ===

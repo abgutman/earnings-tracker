@@ -1884,7 +1884,6 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1563577/000119312526328716/d138144d8k.htm",
   "last_detected_at": "2026-07-31T21:15:14.200411+00:00",
   "last_8k_detected_at": "2026-07-31T21:15:14.200411+00:00",
-  "pending_10q_since": "2026-07-31",
   "last_10q_url": null
  },
  "PHIO": {
@@ -1958,8 +1957,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/2030954/000149315226036864/form8-k.htm",
   "last_detected_at": "2026-08-10T22:01:48.368828+00:00",
   "last_8k_detected_at": "2026-08-10T22:01:48.368828+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-08-10"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/2030954/000149315226036861/form10-q.htm"
  },
  "NXGL": {
   "ticker": "NXGL",
