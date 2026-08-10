@@ -2156,3 +2156,14 @@
 [2026-08-07 23:20:44]   ✓ 10-Q found for MRK (Merck & Co., Inc.) filed 2026-08-07
 [2026-08-07 23:20:44]     https://www.sec.gov/Archives/edgar/data/310158/000031015826000212/mrk-20260630.htm
 [2026-08-07 23:20:44] === CHECK-10Q complete. Checked 8, found 7, cleared 0 stale. ===
+[2026-08-10 11:54:32] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-10 11:54:33]   firehose: 8-K feed — 100 entries parsed
+[2026-08-10 11:54:34]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-10 11:54:34]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-08-10 11:54:34]   ★ NEW 8k_701 for LNC (LINCOLN NATIONAL CORP) filed 2026-08-10
+[2026-08-10 11:54:34]     https://www.sec.gov/Archives/edgar/data/59558/000119312526341190/d104957d8k.htm
+[2026-08-10 11:54:35]     ✉ alert sent (8k_701)
+[2026-08-10 11:54:35]   ★ NEW 10q for PASG (Passage BIO, Inc.) filed 2026-08-10
+[2026-08-10 11:54:35]     https://www.sec.gov/Archives/edgar/data/1787297/000110465926093021/pasg-20260630x10q.htm
+[2026-08-10 11:54:36]     ✉ alert sent (10q)
+[2026-08-10 11:54:36] === EDGAR FIREHOSE complete. 2 new detections. ===
