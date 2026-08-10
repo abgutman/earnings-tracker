@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-10T19:15:35",
+ "generated_at": "2026-08-10T21:01:10",
  "items": [
+  {
+   "uuid": "36e32694-2e39-3ff6-ae38-b7ee58b20aa4",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces Final Opportunity to Own a New Home at Holly Farm in Woodstock, Georgia",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-final-opportunity-192700420.html",
+   "published_unix": 1786390020,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-10T21:01:10"
+  },
   {
    "uuid": "1a519174-6c25-3bcc-862c-7ecd9fa08fcc",
    "tickers": [
