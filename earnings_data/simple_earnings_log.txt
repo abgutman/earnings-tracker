@@ -2225,3 +2225,8 @@
 [2026-08-10 20:19:42]     https://www.sec.gov/Archives/edgar/data/750558/000119312526342264/qnbc-20260630.htm
 [2026-08-10 20:19:43]     ✉ alert sent (10q)
 [2026-08-10 20:19:43] === EDGAR FIREHOSE complete. 4 new detections. ===
+[2026-08-10 20:54:06] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-10 20:54:07]   firehose: 8-K feed — 100 entries parsed
+[2026-08-10 20:54:12]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-10 20:54:12]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-08-10 20:54:12] === EDGAR FIREHOSE complete. 0 new detections. ===
