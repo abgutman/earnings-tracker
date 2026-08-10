@@ -2206,3 +2206,22 @@
 [2026-08-10 19:36:17]   firehose: 10-Q feed — 100 entries parsed
 [2026-08-10 19:36:17]   firehose: 100 watched CIKs, 100 total feed entries
 [2026-08-10 19:36:17] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-08-10 20:19:27] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-10 20:19:27]   firehose: 8-K feed — 100 entries parsed
+[2026-08-10 20:19:27]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-08-10 20:19:37]   firehose: 8-K page 2 — 100 entries
+[2026-08-10 20:19:38]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-10 20:19:38]   firehose: 100 watched CIKs, 300 total feed entries
+[2026-08-10 20:19:38]   ★ NEW 8k_202 for TELA (TELA Bio, Inc.) filed 2026-08-10
+[2026-08-10 20:19:38]     https://www.sec.gov/Archives/edgar/data/1561921/000110465926093371/tm2622768d1_8k.htm
+[2026-08-10 20:19:39]     ✉ alert sent (8k_202)
+[2026-08-10 20:19:39]   ★ NEW 8k_202 for XHLD (TEN Holdings, Inc.) filed 2026-08-10
+[2026-08-10 20:19:39]     https://www.sec.gov/Archives/edgar/data/2030954/000149315226036864/form8-k.htm
+[2026-08-10 20:19:41]     ✉ alert sent (8k_202)
+[2026-08-10 20:19:41]   ★ NEW 10q for XHLD (TEN Holdings, Inc.) filed 2026-08-10
+[2026-08-10 20:19:41]     https://www.sec.gov/Archives/edgar/data/2030954/000149315226036861/form10-q.htm
+[2026-08-10 20:19:42]     ✉ alert sent (10q)
+[2026-08-10 20:19:42]   ★ NEW 10q for QNBC (QNB CORP.) filed 2026-08-10
+[2026-08-10 20:19:42]     https://www.sec.gov/Archives/edgar/data/750558/000119312526342264/qnbc-20260630.htm
+[2026-08-10 20:19:43]     ✉ alert sent (10q)
+[2026-08-10 20:19:43] === EDGAR FIREHOSE complete. 4 new detections. ===
