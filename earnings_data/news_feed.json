@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-08T02:17:08",
+ "generated_at": "2026-08-10T11:58:03",
  "items": [
+  {
+   "uuid": "94e30509-16ec-323b-bd35-69be4db95249",
+   "tickers": [
+    "WTRG"
+   ],
+   "company": "Essential Utilities",
+   "title": "Before You Dig a Hole, Make 811 Your Goal: Essential Utilities Recognizes 811 Day and the Importance of Safe Digging",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/energy/articles/dig-hole-811-goal-essential-100000305.html",
+   "published_unix": 1786356000,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-10T11:57:46"
+  },
   {
    "uuid": "631ba3d7-6d36-3744-af06-19f35b71e740",
    "tickers": [
@@ -2120,17 +2133,6 @@
    "published_unix": 1783942200,
    "source_type": "yahoo",
    "captured_at": "2026-07-19T09:06:22"
-  },
-  {
-   "uuid": "3a4636550223c1ac063a520e6ab30163546a1061",
-   "tickers": [],
-   "company": "GEMMA Biotherapeutics",
-   "title": "GEMMABio Awarded ARPA-H Funding to Pursue Innovative Base-editing Strategy for Rare Liver Diseases",
-   "publisher": "PR Newswire",
-   "link": "https://www.prnewswire.com/news-releases/gemmabio-awarded-arpa-h-funding-to-pursue-innovative-base-editing-strategy-for-rare-liver-diseases-302822136.html",
-   "published_unix": 1783616760,
-   "source_type": "wire",
-   "captured_at": "2026-07-19T09:06:39"
   }
  ]
 }
