@@ -1,4 +1,22 @@
 {
+ "AVTR": [
+  {
+   "date_str": "2026-08-10",
+   "found_at": "2026-08-10T16:29:23",
+   "source": "Motley Fool",
+   "title": "Avantor (AVTR) Q2 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/m/f665f254-447b-3784-8897-be76dad1179c/avantor-%28avtr%29-q2-2026.html"
+  }
+ ],
+ "AWK": [
+  {
+   "date_str": "2026-08-10",
+   "found_at": "2026-08-10T16:29:24",
+   "source": "Motley Fool",
+   "title": "American Water Works (AWK) Q2 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/m/cb32d4fb-6ff8-3ef3-9159-ab2e2af674e1/american-water-works-%28awk%29-q2.html"
+  }
+ ],
  "CERT": [
   {
    "date_str": "2026-08-05",
@@ -51,6 +69,15 @@
    "url": "https://finance.yahoo.com/m/33bd880d-bef8-30e7-acdc-409b74ce369b/carpenter-technology-%28crs%29-q4.html"
   }
  ],
+ "CUBE": [
+  {
+   "date_str": "2026-08-10",
+   "found_at": "2026-08-10T16:29:29",
+   "source": "Motley Fool",
+   "title": "CubeSmart (CUBE) Q2 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/m/2cb65fe7-e6ed-36bc-b570-31cabd622af5/cubesmart-%28cube%29-q2-2026.html"
+  }
+ ],
  "FIVE": [
   {
    "date_str": "2026-06-04",
@@ -58,6 +85,15 @@
    "source": "Motley Fool",
    "title": "Five Below (FIVE) Q1 2026 Earnings Transcript | The Motley Fool",
    "url": "https://www.fool.com/earnings/call-transcripts/2026/06/04/five-below-five-five-q1-2026-earnings-transcript/"
+  }
+ ],
+ "FMC": [
+  {
+   "date_str": "2026-08-10",
+   "found_at": "2026-08-10T16:29:32",
+   "source": "Motley Fool",
+   "title": "FMC (FMC) Q2 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/m/ad38eaad-aa1e-3ab1-b14c-5787e95efd78/fmc-%28fmc%29-q2-2026-earnings.html"
   }
  ],
  "HSY": [
@@ -69,6 +105,15 @@
    "url": "https://finance.yahoo.com/m/32d4d660-9892-3d54-a4b9-5c117e005837/hershey-%28hsy%29-q2-2026.html"
   }
  ],
+ "KWR": [
+  {
+   "date_str": "2026-08-10",
+   "found_at": "2026-08-10T16:29:38",
+   "source": "Motley Fool",
+   "title": "Quaker Chemical (KWR) Q2 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/m/a4c2e8f1-feb1-3451-90b3-39c05e4d73d4/quaker-chemical-%28kwr%29-q2-2026.html"
+  }
+ ],
  "TSEOF": [
   {
    "date_str": "2026-08-07",
@@ -76,6 +121,15 @@
    "source": "Motley Fool",
    "title": "CNQ (CNQ) Q2 2026 Earnings Call Transcript",
    "url": "https://finance.yahoo.com/m/440749b7-151c-363a-9a45-9580732730ff/cnq-%28cnq%29-q2-2026-earnings.html"
+  }
+ ],
+ "UIS": [
+  {
+   "date_str": "2026-08-10",
+   "found_at": "2026-08-10T16:29:50",
+   "source": "Motley Fool",
+   "title": "Unisys (UIS) Q2 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/m/39584569-fdaf-3f9f-8330-e4e671621afb/unisys-%28uis%29-q2-2026-earnings.html"
   }
  ],
  "URBN": [
