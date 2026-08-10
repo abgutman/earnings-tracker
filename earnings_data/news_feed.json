@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-10T13:42:13",
+ "generated_at": "2026-08-10T15:15:24",
  "items": [
+  {
+   "uuid": "1a519174-6c25-3bcc-862c-7ecd9fa08fcc",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Xfinity and Comcast Business High-Speed Internet Now Available to More Than 2,400 Homes and Businesses in Putnam County, Florida",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/articles/xfinity-comcast-business-high-speed-140900996.html",
+   "published_unix": 1786370940,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-10T15:15:08"
+  },
   {
    "uuid": "94e30509-16ec-323b-bd35-69be4db95249",
    "tickers": [
