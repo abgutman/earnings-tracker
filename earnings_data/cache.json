@@ -1953,11 +1953,11 @@
    }
   ],
   "last_detected_date": "2026-08-10",
-  "last_detected_accession": "0001493152-26-036861",
-  "last_detected_type": "10q",
-  "last_detected_url": "https://www.sec.gov/Archives/edgar/data/2030954/000149315226036861/form10-q.htm",
-  "last_detected_at": "2026-08-10T20:19:27.193185+00:00",
-  "last_8k_detected_at": "2026-08-10T20:19:27.193185+00:00",
+  "last_detected_accession": "0001493152-26-036864",
+  "last_detected_type": "8k_202",
+  "last_detected_url": "https://www.sec.gov/Archives/edgar/data/2030954/000149315226036864/form8-k.htm",
+  "last_detected_at": "2026-08-10T22:01:48.368828+00:00",
+  "last_8k_detected_at": "2026-08-10T22:01:48.368828+00:00",
   "last_10q_url": null,
   "pending_10q_since": "2026-08-10"
  },
