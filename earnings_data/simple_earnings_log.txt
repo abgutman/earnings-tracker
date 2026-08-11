@@ -2357,3 +2357,11 @@
 [2026-08-11 22:09:08]     ✉ alert sent (8k_202)
 [2026-08-11 22:09:08]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001227636.json'
 [2026-08-11 22:09:16] === EDGAR POLL complete. Fetched 100 companies, 4 new filings. ===
+[2026-08-11 22:23:55] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-11 22:23:55]   firehose: 8-K feed — 100 entries parsed
+[2026-08-11 22:23:55]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-11 22:23:55]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-08-11 22:23:56]   ★ NEW 10q for MLYS (Mineralys Therapeutics, Inc.) filed 2026-08-11
+[2026-08-11 22:23:56]     https://www.sec.gov/Archives/edgar/data/1933414/000193341426000114/mlys-20260630.htm
+[2026-08-11 22:23:59]     ✉ alert sent (10q)
+[2026-08-11 22:23:59] === EDGAR FIREHOSE complete. 1 new detections. ===
