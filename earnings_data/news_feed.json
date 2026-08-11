@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-11T21:03:25",
+ "generated_at": "2026-08-11T22:03:23",
  "items": [
+  {
+   "uuid": "d596de24-e57e-3dea-afcf-563c71103ca1",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark Q3 2026 Earnings Call Summary",
+   "publisher": "Moby",
+   "link": "https://finance.yahoo.com/m/d596de24-e57e-3dea-afcf-563c71103ca1/aramark-q3-2026-earnings-call.html",
+   "published_unix": 1786482337,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-11T22:02:52"
+  },
   {
    "uuid": "0b0b3170-6cfa-3ddd-b930-49aa1deae064",
    "tickers": [
