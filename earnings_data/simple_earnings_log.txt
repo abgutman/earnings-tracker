@@ -2259,3 +2259,11 @@
 [2026-08-11 11:51:24]     https://www.sec.gov/Archives/edgar/data/1584509/000158450926000118/cik0-20260811.htm
 [2026-08-11 11:51:24]     ✉ alert sent (8k_202)
 [2026-08-11 11:51:24] === EDGAR FIREHOSE complete. 1 new detections. ===
+[2026-08-11 12:31:55] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-11 12:31:55]   firehose: 8-K feed — 100 entries parsed
+[2026-08-11 12:31:56]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-11 12:31:56]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-08-11 12:31:56]   ★ NEW 8k_202 for STIM (Neuronetics, Inc.) filed 2026-08-11
+[2026-08-11 12:31:56]     https://www.sec.gov/Archives/edgar/data/1227636/000119312526343474/d78613d8k.htm
+[2026-08-11 12:31:57]     ✉ alert sent (8k_202)
+[2026-08-11 12:31:57] === EDGAR FIREHOSE complete. 1 new detections. ===
