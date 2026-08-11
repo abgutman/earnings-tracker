@@ -2331,3 +2331,11 @@
 [2026-08-11 20:57:26]     https://www.sec.gov/Archives/edgar/data/1529628/000152962826000095/snd-20260630.htm
 [2026-08-11 20:57:28]     ✉ alert sent (10q)
 [2026-08-11 20:57:28] === EDGAR FIREHOSE complete. 7 new detections. ===
+[2026-08-11 21:41:10] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-11 21:41:17]   firehose: 8-K feed — 100 entries parsed
+[2026-08-11 21:41:17]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-11 21:41:17]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-08-11 21:41:17]   ★ NEW 10q for MLYS (Mineralys Therapeutics, Inc.) filed 2026-08-11
+[2026-08-11 21:41:17]     https://www.sec.gov/Archives/edgar/data/1933414/000193341426000114/mlys-20260630.htm
+[2026-08-11 21:41:19]     ✉ alert sent (10q)
+[2026-08-11 21:41:19] === EDGAR FIREHOSE complete. 1 new detections. ===
