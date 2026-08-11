@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-08-11T17:11:21",
+ "generated_at": "2026-08-11T18:08:56",
  "items": [
+  {
+   "uuid": "0b0b3170-6cfa-3ddd-b930-49aa1deae064",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers at Fortune Ridge Community Opens in Southeast, New York",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-fortune-ridge-community-175100196.html",
+   "published_unix": 1786470660,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-11T18:08:56"
+  },
+  {
+   "uuid": "5e3923d0-2f56-3c02-adc7-6b1d5f369e27",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces Final Opportunity to Own a Luxury Home in the Bella Terra Collection at Tesoro Highlands in Valencia, California",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-final-opportunity-172500863.html",
+   "published_unix": 1786469100,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-11T18:08:56"
+  },
   {
    "uuid": "97d60103-7339-3acc-bfc9-d06a87975d7c",
    "tickers": [
