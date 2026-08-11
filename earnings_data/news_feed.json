@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-08-11T13:41:15",
+ "generated_at": "2026-08-11T15:15:38",
  "items": [
+  {
+   "uuid": "97d60103-7339-3acc-bfc9-d06a87975d7c",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Named One of America's Best Employers for Women in 2026 by Forbes",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/american-water-named-one-americas-140700492.html",
+   "published_unix": 1786457220,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-11T15:15:11"
+  },
+  {
+   "uuid": "311a4308-b214-32e6-a242-68dc4fa4eb69",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Business and Colt Technology Services Launch Innovation Lab Program to Automate Global Enterprise Connectivity",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/articles/comcast-business-colt-technology-services-140000433.html",
+   "published_unix": 1786456800,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-11T15:15:08"
+  },
   {
    "uuid": "2e72cb64-dd9f-37ae-8a67-147d31c87124",
    "tickers": [
