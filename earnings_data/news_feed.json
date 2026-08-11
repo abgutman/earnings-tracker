@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-11T11:55:45",
+ "generated_at": "2026-08-11T13:41:15",
  "items": [
+  {
+   "uuid": "2e72cb64-dd9f-37ae-8a67-147d31c87124",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark beats fiscal Q3 estimates as revenue growth accelerates",
+   "publisher": "InvestorsHub",
+   "link": "https://finance.yahoo.com/m/2e72cb64-dd9f-37ae-8a67-147d31c87124/aramark-beats-fiscal-q3.html",
+   "published_unix": 1786451624,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-11T13:40:58"
+  },
   {
    "uuid": "f5507948-4920-32fd-bdba-ba2debed1f50",
    "tickers": [
