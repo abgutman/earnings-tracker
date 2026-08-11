@@ -3221,3 +3221,69 @@
 [2026-08-11 00:05:23] No new transcripts found; transcripts.json unchanged
 [2026-08-11 00:05:23] === Done. 0 new transcript links found. ===
 
+[2026-08-11 16:32:19] === Fool transcript harvest start (dry_run=False) ===
+[2026-08-11 16:32:19] Loaded 122 tickers from expanded_companies.json
+[2026-08-11 16:32:19] Recent tickers (last filing within 14d): ['ACRS', 'AHCO', 'AME', 'ARMK', 'AVTR', 'AVTX', 'AWK', 'AXTA', 'BDN', 'BSY', 'BV', 'CERT', 'CNTX', 'COHN', 'COR', 'CRS', 'CUBE', 'DD', 'DORM', 'ECVT', 'EPAM', 'FMC', 'FSK', 'GBLI', 'GMED', 'GMER', 'GRTX', 'HLNE', 'HRMY', 'HSY', 'INO', 'IRT', 'JJSF', 'JNJ', 'KWR', 'LNC', 'LRMR', 'MRBK', 'MRK', 'OCGN', 'PASG', 'PHIO', 'PKBK', 'PPL', 'PVLA', 'QNBC', 'QNTO', 'QVCAQ', 'RDN', 'STIM', 'TELA', 'TFX', 'TSEOF', 'UGI', 'UHS', 'UHT', 'UIS', 'UVSP', 'VERX', 'VPG', 'VRCA', 'VSH', 'VSNT', 'WTRG', 'XHLD']
+[2026-08-11 16:32:19] Seed backfill: all seeds already in state
+[2026-08-11 16:32:19] Fetching Fool transcript index: https://www.fool.com/earnings-call-transcripts/
+[2026-08-11 16:32:20]   Found 20 transcript links on index page
+[2026-08-11 16:32:20]   Fool index matched tickers: []
+[2026-08-11 16:32:20] Yahoo secondary search for 55 tickers: ['ACRS', 'AHCO', 'AME', 'ARMK', 'AVTX', 'AXTA', 'BDN', 'BSY', 'BV', 'CNTX', 'COHN', 'COR', 'DD', 'DORM', 'ECVT', 'EPAM', 'FSK', 'GBLI', 'GMED', 'GMER', 'GRTX', 'HLNE', 'HRMY', 'INO', 'IRT', 'JJSF', 'JNJ', 'LNC', 'LRMR', 'MRBK', 'MRK', 'OCGN', 'PASG', 'PHIO', 'PKBK', 'PPL', 'PVLA', 'QNBC', 'QNTO', 'QVCAQ', 'RDN', 'STIM', 'TELA', 'TFX', 'UGI', 'UHS', 'UHT', 'UVSP', 'VERX', 'VPG', 'VRCA', 'VSH', 'VSNT', 'WTRG', 'XHLD']
+[2026-08-11 16:32:20]   MISS [Yahoo] ACRS: no transcript items in feed
+[2026-08-11 16:32:21]   MISS [Yahoo] AHCO: no transcript items in feed
+[2026-08-11 16:32:22]   MISS [Yahoo] AME: no transcript items in feed
+[2026-08-11 16:32:22]   MISS [Yahoo] ARMK: no transcript items in feed
+[2026-08-11 16:32:23]   MISS [Yahoo] AVTX: no transcript items in feed
+[2026-08-11 16:32:24]   MISS [Yahoo] AXTA: no transcript items in feed
+[2026-08-11 16:32:25]   MISS [Yahoo] BDN: no transcript items in feed
+[2026-08-11 16:32:25]   MISS [Yahoo] BSY: no transcript items in feed
+[2026-08-11 16:32:26]   MISS [Yahoo] BV: no transcript items in feed
+[2026-08-11 16:32:26]   MISS [Yahoo] CNTX: no transcript items in feed
+[2026-08-11 16:32:27]   MISS [Yahoo] COHN: no transcript items in feed
+[2026-08-11 16:32:28]   MISS [Yahoo] COR: no transcript items in feed
+[2026-08-11 16:32:28]   MISS [Yahoo] DD: no transcript items in feed
+[2026-08-11 16:32:29]   NEW [Yahoo] DORM: https://finance.yahoo.com/m/e89c5a84-227c-36be-8c3f-c489c0109e8d/dorman-products-%28dorm%29-q2.html (Motley Fool)
+[2026-08-11 16:32:30]   MISS [Yahoo] ECVT: no transcript items in feed
+[2026-08-11 16:32:30]   MISS [Yahoo] EPAM: no transcript items in feed
+[2026-08-11 16:32:31]   MISS [Yahoo] FSK: no transcript items in feed
+[2026-08-11 16:32:32]   MISS [Yahoo] GBLI: no transcript items in feed
+[2026-08-11 16:32:32]   MISS [Yahoo] GMED: no transcript items in feed
+[2026-08-11 16:32:33]   MISS [Yahoo] GMER: no transcript items in feed
+[2026-08-11 16:32:34]   MISS [Yahoo] GRTX: no transcript items in feed
+[2026-08-11 16:32:34]   MISS [Yahoo] HLNE: no transcript items in feed
+[2026-08-11 16:32:35]   MISS [Yahoo] HRMY: no transcript items in feed
+[2026-08-11 16:32:36]   MISS [Yahoo] INO: no transcript items in feed
+[2026-08-11 16:32:36]   NEW [Yahoo] IRT: https://finance.yahoo.com/m/921570d4-94cd-3bd7-bdc2-5462d7c827b1/irt-%28irt%29-q2-2026-earnings.html (Motley Fool)
+[2026-08-11 16:32:37]   MISS [Yahoo] JJSF: no transcript items in feed
+[2026-08-11 16:32:38]   MISS [Yahoo] JNJ: no transcript items in feed
+[2026-08-11 16:32:38]   MISS [Yahoo] LNC: no transcript items in feed
+[2026-08-11 16:32:39]   MISS [Yahoo] LRMR: no transcript items in feed
+[2026-08-11 16:32:39]   MISS [Yahoo] MRBK: no transcript items in feed
+[2026-08-11 16:32:40]   NEW [Yahoo] MRK: https://finance.yahoo.com/m/2ef39090-33b4-3d9b-ae5d-dfcbcfe69e4e/merck-%28mrk%29-q2-2026-earnings.html (Motley Fool)
+[2026-08-11 16:32:41]   MISS [Yahoo] OCGN: no transcript items in feed
+[2026-08-11 16:32:41]   MISS [Yahoo] PASG: no transcript items in feed
+[2026-08-11 16:32:42]   MISS [Yahoo] PHIO: no transcript items in feed
+[2026-08-11 16:32:43]   MISS [Yahoo] PKBK: no transcript items in feed
+[2026-08-11 16:32:44]   MISS [Yahoo] PPL: no transcript items in feed
+[2026-08-11 16:32:44]   MISS [Yahoo] PVLA: no transcript items in feed
+[2026-08-11 16:32:45]   MISS [Yahoo] QNBC: no transcript items in feed
+[2026-08-11 16:32:46]   MISS [Yahoo] QNTO: no transcript items in feed
+[2026-08-11 16:32:46]   MISS [Yahoo] QVCAQ: no transcript items in feed
+[2026-08-11 16:32:47]   MISS [Yahoo] RDN: no transcript items in feed
+[2026-08-11 16:32:48]   MISS [Yahoo] STIM: no transcript items in feed
+[2026-08-11 16:32:48]   MISS [Yahoo] TELA: no transcript items in feed
+[2026-08-11 16:32:49]   MISS [Yahoo] TFX: no transcript items in feed
+[2026-08-11 16:32:50]   MISS [Yahoo] UGI: no transcript items in feed
+[2026-08-11 16:32:50]   MISS [Yahoo] UHS: no transcript items in feed
+[2026-08-11 16:32:51]   MISS [Yahoo] UHT: no transcript items in feed
+[2026-08-11 16:32:52]   MISS [Yahoo] UVSP: no transcript items in feed
+[2026-08-11 16:32:52]   NEW [Yahoo] VERX: https://finance.yahoo.com/m/8d3c8d55-a6ea-3017-b33a-ca851813e65a/vertex-%28verx%29-q2-2026.html (Motley Fool)
+[2026-08-11 16:32:53]   MISS [Yahoo] VPG: no transcript items in feed
+[2026-08-11 16:32:54]   MISS [Yahoo] VRCA: no transcript items in feed
+[2026-08-11 16:32:54]   MISS [Yahoo] VSH: no transcript items in feed
+[2026-08-11 16:32:55]   MISS [Yahoo] VSNT: no transcript items in feed
+[2026-08-11 16:32:56]   MISS [Yahoo] WTRG: no transcript items in feed
+[2026-08-11 16:32:56]   MISS [Yahoo] XHLD: no transcript items in feed
+[2026-08-11 16:32:56] Saved transcripts.json (19 tickers with entries)
+[2026-08-11 16:32:56] === Done. 4 new transcript links found. ===
+
