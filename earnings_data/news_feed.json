@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T23:50:21",
+ "generated_at": "2026-08-11T02:23:10",
  "items": [
   {
    "uuid": "36e32694-2e39-3ff6-ae38-b7ee58b20aa4",
@@ -13,6 +13,32 @@
    "published_unix": 1786390020,
    "source_type": "yahoo",
    "captured_at": "2026-08-10T21:01:10"
+  },
+  {
+   "uuid": "69c30e31-f0b8-38e0-9026-2b0c1348b213",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "New Jersey American Water Awards $950,000 for Community Development Projects in Camden",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/jersey-american-water-awards-950-170000587.html",
+   "published_unix": 1786381200,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-11T02:22:52"
+  },
+  {
+   "uuid": "3e84f2a1-fde1-33f4-b157-64520dcfeb5a",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Joins Dialogue at 2026 American Society of Civil Engineers Watershed Management Conference",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/american-water-joins-dialogue-2026-160800546.html",
+   "published_unix": 1786378080,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-11T02:22:52"
   },
   {
    "uuid": "1a519174-6c25-3bcc-862c-7ecd9fa08fcc",
