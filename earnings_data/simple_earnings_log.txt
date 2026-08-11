@@ -2339,3 +2339,21 @@
 [2026-08-11 21:41:17]     https://www.sec.gov/Archives/edgar/data/1933414/000193341426000114/mlys-20260630.htm
 [2026-08-11 21:41:19]     ✉ alert sent (10q)
 [2026-08-11 21:41:19] === EDGAR FIREHOSE complete. 1 new detections. ===
+[2026-08-11 22:08:39] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-08-11 22:08:39]   ★ NEW 8k_202 for ARMK (Aramark) filed 2026-08-11
+[2026-08-11 22:08:39]     https://www.sec.gov/Archives/edgar/data/1584509/000158450926000118/cik0-20260811.htm
+[2026-08-11 22:08:41]     ✉ alert sent (8k_202)
+[2026-08-11 22:08:41]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001584509.json'
+[2026-08-11 22:08:54]   ★ NEW 8k_202 for MLYS (Mineralys Therapeutics, Inc.) filed 2026-08-11
+[2026-08-11 22:08:54]     https://www.sec.gov/Archives/edgar/data/1933414/000193341426000112/mlys-20260805.htm
+[2026-08-11 22:08:55]     ✉ alert sent (8k_202)
+[2026-08-11 22:08:55]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001933414.json'
+[2026-08-11 22:09:03]   ★ NEW 8k_202 for SND (Smart Sand, Inc.) filed 2026-08-11
+[2026-08-11 22:09:03]     https://www.sec.gov/Archives/edgar/data/1529628/000152962826000096/snd-20260811.htm
+[2026-08-11 22:09:04]     ✉ alert sent (8k_202)
+[2026-08-11 22:09:04]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001529628.json'
+[2026-08-11 22:09:07]   ★ NEW 8k_202 for STIM (Neuronetics, Inc.) filed 2026-08-11
+[2026-08-11 22:09:07]     https://www.sec.gov/Archives/edgar/data/1227636/000119312526343474/d78613d8k.htm
+[2026-08-11 22:09:08]     ✉ alert sent (8k_202)
+[2026-08-11 22:09:08]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001227636.json'
+[2026-08-11 22:09:16] === EDGAR POLL complete. Fetched 100 companies, 4 new filings. ===
