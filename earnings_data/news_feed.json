@@ -1,6 +1,58 @@
 {
- "generated_at": "2026-08-11T02:23:10",
+ "generated_at": "2026-08-11T11:55:45",
  "items": [
+  {
+   "uuid": "f5507948-4920-32fd-bdba-ba2debed1f50",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "Wells Fargo Adjusts Price Target on Cencora to $395 From $331, Keeps Overweight Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-adjusts-price-target-105053680.html",
+   "published_unix": 1786445453,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-11T11:55:19"
+  },
+  {
+   "uuid": "b51d39aa-2004-3c33-b847-955277b99855",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark's Fiscal Q3 Adjusted Earnings, Revenue Increase; Fiscal 2026 Revenue Outlook Raised",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-apos-fiscal-q3-adjusted-105030301.html",
+   "published_unix": 1786445430,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-11T11:55:19"
+  },
+  {
+   "uuid": "5b2021fb-b7c7-37d1-a037-a242219fa44f",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark: Fiscal Q3 Earnings Snapshot",
+   "publisher": "Associated Press",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-fiscal-q3-earnings-snapshot-103509151.html",
+   "published_unix": 1786444509,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-11T11:55:19"
+  },
+  {
+   "uuid": "5fc43bce-67b3-38fe-afbd-a10a22166cfd",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark Reports Third Quarter Earnings",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-reports-third-quarter-earnings-103000125.html",
+   "published_unix": 1786444200,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-11T11:55:19"
+  },
   {
    "uuid": "36e32694-2e39-3ff6-ae38-b7ee58b20aa4",
    "tickers": [
