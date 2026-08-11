@@ -30,16 +30,6 @@
   "source_type": "yahoo_auto",
   "captured_at": "2026-07-14T23:38:07"
  },
- "TELA": {
-  "release_date": "2026-08-10",
-  "call_date": null,
-  "call_time": "16:30 ET",
-  "source_url": "https://finance.yahoo.com/healthcare/articles/tela-bio-announce-second-quarter-200500884.html",
-  "source_title": "TELA Bio to Announce Second Quarter 2026 Financial Results",
-  "source_publisher": "GlobeNewswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-20T23:43:25"
- },
  "STIM": {
   "release_date": "2026-08-11",
   "call_date": null,

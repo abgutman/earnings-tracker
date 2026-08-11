@@ -43,8 +43,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1584509/000158450926000118/cik0-20260811.htm",
   "last_detected_at": "2026-08-11T22:08:39.097750+00:00",
   "last_8k_detected_at": "2026-08-11T22:08:39.097750+00:00",
-  "pending_10q_since": "2026-08-11",
-  "last_10q_url": null
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1584509/000158450926000122/cik0-20260703.htm"
  },
  "FMC": {
   "ticker": "FMC",
@@ -979,8 +978,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1933414/000193341426000114/mlys-20260630.htm",
   "last_detected_at": "2026-08-11T22:23:55.162500+00:00",
   "last_8k_detected_at": "2026-08-11T22:08:39.097750+00:00",
-  "pending_10q_since": "2026-08-11",
-  "last_10q_url": null
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1933414/000193341426000114/mlys-20260630.htm"
  },
  "VERX": {
   "ticker": "VERX",
@@ -1535,8 +1533,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1529628/000152962826000096/snd-20260811.htm",
   "last_detected_at": "2026-08-11T22:08:39.097750+00:00",
   "last_8k_detected_at": "2026-08-11T22:08:39.097750+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-08-11"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1529628/000152962826000095/snd-20260630.htm"
  },
  "MRBK": {
   "ticker": "MRBK",
@@ -1715,8 +1712,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1227636/000119312526343474/d78613d8k.htm",
   "last_detected_at": "2026-08-11T22:08:39.097750+00:00",
   "last_8k_detected_at": "2026-08-11T22:08:39.097750+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-08-11"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1227636/000110465926094078/stim-20260630x10q.htm"
  },
  "BTCS": {
   "ticker": "BTCS",
@@ -1785,8 +1781,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1561921/000110465926094039/tela-20260630x10q.htm",
   "last_detected_at": "2026-08-11T20:56:42.275662+00:00",
   "last_8k_detected_at": "2026-08-10T20:19:27.193185+00:00",
-  "pending_10q_since": "2026-08-10",
-  "last_10q_url": null
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1561921/000110465926094039/tela-20260630x10q.htm"
  },
  "INVU": {
   "ticker": "INVU",
