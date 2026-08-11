@@ -1,4 +1,22 @@
 {
+ "AHCO": [
+  {
+   "date_str": "2026-08-11",
+   "found_at": "2026-08-11T20:21:49",
+   "source": "Motley Fool",
+   "title": "AdaptHealth (AHCO) Q2 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/m/2ce44ab2-4d22-3359-aa7d-2d005284cba9/adapthealth-%28ahco%29-q2-2026.html"
+  }
+ ],
+ "AME": [
+  {
+   "date_str": "2026-08-11",
+   "found_at": "2026-08-11T20:21:50",
+   "source": "Motley Fool",
+   "title": "AMETEK (AME) Q2 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/m/c562a0e9-95f4-36cf-b335-c8b0dde70f29/ametek-%28ame%29-q2-2026-earnings.html"
+  }
+ ],
  "AVTR": [
   {
    "date_str": "2026-08-10",
@@ -78,6 +96,15 @@
    "url": "https://finance.yahoo.com/m/2cb65fe7-e6ed-36bc-b570-31cabd622af5/cubesmart-%28cube%29-q2-2026.html"
   }
  ],
+ "DD": [
+  {
+   "date_str": "2026-08-11",
+   "found_at": "2026-08-11T20:21:55",
+   "source": "Motley Fool",
+   "title": "DuPont (DD) Q2 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/m/a79b6cf0-d7dc-3b90-b00d-dee509fbdc1b/dupont-%28dd%29-q2-2026-earnings.html"
+  }
+ ],
  "DORM": [
   {
    "date_str": "2026-08-11",
@@ -103,6 +130,24 @@
    "source": "Motley Fool",
    "title": "FMC (FMC) Q2 2026 Earnings Call Transcript",
    "url": "https://finance.yahoo.com/m/ad38eaad-aa1e-3ab1-b14c-5787e95efd78/fmc-%28fmc%29-q2-2026-earnings.html"
+  }
+ ],
+ "HLNE": [
+  {
+   "date_str": "2026-08-11",
+   "found_at": "2026-08-11T20:21:58",
+   "source": "Motley Fool",
+   "title": "Hamilton Lane (HLNE) Q1 2027 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/m/2a3f890c-b586-3ee5-bfce-b0a96ab9fdb2/hamilton-lane-%28hlne%29-q1-2027.html"
+  }
+ ],
+ "HRMY": [
+  {
+   "date_str": "2026-08-11",
+   "found_at": "2026-08-11T20:21:59",
+   "source": "Motley Fool",
+   "title": "Harmony Biosciences (HRMY) Q2 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/m/a33a2100-6965-393e-9249-3ce056b13c49/harmony-biosciences-%28hrmy%29-q2.html"
   }
  ],
  "HSY": [
@@ -139,6 +184,15 @@
    "source": "Motley Fool",
    "title": "Merck (MRK) Q2 2026 Earnings Call Transcript",
    "url": "https://finance.yahoo.com/m/2ef39090-33b4-3d9b-ae5d-dfcbcfe69e4e/merck-%28mrk%29-q2-2026-earnings.html"
+  }
+ ],
+ "PVLA": [
+  {
+   "date_str": "2026-08-11",
+   "found_at": "2026-08-11T20:22:06",
+   "source": "Motley Fool",
+   "title": "Palvella (PVLA) Q2 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/m/5fed0ee8-85d9-3db0-b000-384f311c5023/palvella-%28pvla%29-q2-2026.html"
   }
  ],
  "TSEOF": [
