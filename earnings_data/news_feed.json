@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-08-12T11:56:53",
+ "generated_at": "2026-08-12T13:44:42",
  "items": [
+  {
+   "uuid": "441e08ad-b501-3e51-b82f-cf732035bfcb",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "UBS Adjusts Price Target on Aramark to $71 From $67, Keeps Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-price-target-aramark-131320811.html",
+   "published_unix": 1786540400,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-12T13:44:23"
+  },
+  {
+   "uuid": "3d4959ec-8496-3a6c-8f9c-03d6322379fd",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "BofA Securities Adjusts Price Target on Aramark to $70 From $65",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-securities-adjusts-price-target-115829197.html",
+   "published_unix": 1786535909,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-12T13:44:23"
+  },
   {
    "uuid": "4a19a244-2622-398e-a3e2-3fb46704f05f",
    "tickers": [
