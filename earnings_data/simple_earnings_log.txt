@@ -2382,3 +2382,20 @@
 [2026-08-12 11:54:16]   firehose: 10-Q feed — 100 entries parsed
 [2026-08-12 11:54:16]   firehose: 100 watched CIKs, 200 total feed entries
 [2026-08-12 11:54:16] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-08-12 12:42:33] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-12 12:42:33]   firehose: 8-K feed — 100 entries parsed
+[2026-08-12 12:42:34]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-12 12:42:34]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-08-12 12:42:34]   ★ NEW 8k_202 for APRE (Aprea Therapeutics, Inc.) filed 2026-08-12
+[2026-08-12 12:42:34]     https://www.sec.gov/Archives/edgar/data/1781983/000110465926094542/apre-20260812x8k.htm
+[2026-08-12 12:42:37]     ✉ alert sent (8k_202)
+[2026-08-12 12:42:37]   ★ NEW 8k_202 for IPSC (Century Therapeutics, Inc.) filed 2026-08-12
+[2026-08-12 12:42:37]     https://www.sec.gov/Archives/edgar/data/1850119/000110465926094533/tm2622911d1_8k.htm
+[2026-08-12 12:42:40]     ✉ alert sent (8k_202)
+[2026-08-12 12:42:40]   ★ NEW 10q for APRE (Aprea Therapeutics, Inc.) filed 2026-08-12
+[2026-08-12 12:42:40]     https://www.sec.gov/Archives/edgar/data/1781983/000110465926094544/apre-20260630x10q.htm
+[2026-08-12 12:42:42]     ✉ alert sent (10q)
+[2026-08-12 12:42:42]   ★ NEW 10q for IPSC (Century Therapeutics, Inc.) filed 2026-08-12
+[2026-08-12 12:42:42]     https://www.sec.gov/Archives/edgar/data/1850119/000110465926094523/ipsc-20260630x10q.htm
+[2026-08-12 12:42:44]     ✉ alert sent (10q)
+[2026-08-12 12:42:44] === EDGAR FIREHOSE complete. 4 new detections. ===
