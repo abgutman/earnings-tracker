@@ -2404,3 +2404,17 @@
 [2026-08-12 14:06:04]   firehose: 10-Q feed — 100 entries parsed
 [2026-08-12 14:06:04]   firehose: 100 watched CIKs, 200 total feed entries
 [2026-08-12 14:06:04] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-08-12 14:33:11] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-08-12 14:33:21]   ★ NEW 8k_202 for MLYS (Mineralys Therapeutics, Inc.) filed 2026-08-11
+[2026-08-12 14:33:21]     https://www.sec.gov/Archives/edgar/data/1933414/000193341426000112/mlys-20260805.htm
+[2026-08-12 14:33:23]     ✉ alert sent (8k_202)
+[2026-08-12 14:33:23]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001933414.json'
+[2026-08-12 14:33:28]   ★ NEW 8k_202 for IPSC (Century Therapeutics, Inc.) filed 2026-08-12
+[2026-08-12 14:33:28]     https://www.sec.gov/Archives/edgar/data/1850119/000110465926094533/tm2622911d1_8k.htm
+[2026-08-12 14:33:29]     ✉ alert sent (8k_202)
+[2026-08-12 14:33:29]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001850119.json'
+[2026-08-12 14:33:35]   ★ NEW 8k_202 for APRE (Aprea Therapeutics, Inc.) filed 2026-08-12
+[2026-08-12 14:33:35]     https://www.sec.gov/Archives/edgar/data/1781983/000110465926094542/apre-20260812x8k.htm
+[2026-08-12 14:33:36]     ✉ alert sent (8k_202)
+[2026-08-12 14:33:36]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001781983.json'
+[2026-08-12 14:33:40] === EDGAR POLL complete. Fetched 100 companies, 3 new filings. ===
