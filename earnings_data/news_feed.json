@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-08-12T02:39:14",
+ "generated_at": "2026-08-12T11:56:53",
  "items": [
+  {
+   "uuid": "4a19a244-2622-398e-a3e2-3fb46704f05f",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Deutsche Bank Adjusts Aramark Price Target to $74 From $65, Maintains Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-adjusts-aramark-price-111244639.html",
+   "published_unix": 1786533164,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-12T11:56:31"
+  },
+  {
+   "uuid": "d4a61416-7f1c-3401-bba9-fd6208d60183",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Morgan Stanley Adjusts Price Target on Aramark to $63 From $55, Maintains Equalweight Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-price-target-092337659.html",
+   "published_unix": 1786526617,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-12T11:56:31"
+  },
   {
    "uuid": "d596de24-e57e-3dea-afcf-563c71103ca1",
    "tickers": [
@@ -2300,19 +2326,6 @@
    "publisher": "MT Newswires",
    "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-price-target-aramark-150541900.html",
    "published_unix": 1783955141,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-19T09:06:22"
-  },
-  {
-   "uuid": "f1f0edb5-bd0b-38f7-b373-78c41722e890",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "TIME Names Aramark Among America's Best Companies 2026",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/time-names-aramark-among-americas-113000960.html",
-   "published_unix": 1783942200,
    "source_type": "yahoo",
    "captured_at": "2026-07-19T09:06:22"
   }
