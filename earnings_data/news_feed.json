@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-12T15:13:44",
+ "generated_at": "2026-08-12T17:10:59",
  "items": [
   {
    "uuid": "62e6d41e-f2b9-3b46-b594-ece61eb922d9",
@@ -2354,19 +2354,6 @@
    "published_unix": 1783972380,
    "source_type": "yahoo",
    "captured_at": "2026-07-19T09:06:42"
-  },
-  {
-   "uuid": "7a1c3d9d-2178-34ea-9d73-e6fdc7554c32",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Aramark's Intra-Quarter Contract Wins Could Strengthen Fiscal 2027 Growth Outlook, UBS Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-apos-intra-quarter-contract-165444802.html",
-   "published_unix": 1783961684,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-19T09:06:22"
   }
  ]
 }
