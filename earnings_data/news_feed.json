@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-08-12T13:44:42",
+ "generated_at": "2026-08-12T15:13:44",
  "items": [
+  {
+   "uuid": "62e6d41e-f2b9-3b46-b594-ece61eb922d9",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark's Nexus Business Expected to Contribute 'Significantly' in Fiscal 2027, Morgan Stanley Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-apos-nexus-business-expected-150142577.html",
+   "published_unix": 1786546902,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-12T15:13:25"
+  },
+  {
+   "uuid": "128be650-6d25-3c40-b32c-ee70a650d6c3",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Donates $1.6 Million to Help HomeAid Build a Future Without Homelessness",
+   "publisher": "ACCESS Newswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-donates-1-6-140000035.html",
+   "published_unix": 1786543200,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-12T15:13:43"
+  },
   {
    "uuid": "441e08ad-b501-3e51-b82f-cf732035bfcb",
    "tickers": [
@@ -2339,19 +2365,6 @@
    "publisher": "MT Newswires",
    "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-apos-intra-quarter-contract-165444802.html",
    "published_unix": 1783961684,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-19T09:06:22"
-  },
-  {
-   "uuid": "bb63412e-9191-3724-babf-08d57862a7f4",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "UBS Adjusts Price Target on Aramark to $67 From $56, Maintains Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-price-target-aramark-150541900.html",
-   "published_unix": 1783955141,
    "source_type": "yahoo",
    "captured_at": "2026-07-19T09:06:22"
   }
