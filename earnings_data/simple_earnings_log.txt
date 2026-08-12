@@ -2445,3 +2445,33 @@
 [2026-08-12 19:42:17]   firehose: 10-Q feed — 100 entries parsed
 [2026-08-12 19:42:17]   firehose: 100 watched CIKs, 200 total feed entries
 [2026-08-12 19:42:17] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-08-12 20:56:07] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-12 20:56:07]   firehose: 8-K feed — 100 entries parsed
+[2026-08-12 20:56:07]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-08-12 20:56:18]   firehose: 8-K page 2 — 100 entries
+[2026-08-12 20:56:18]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-12 20:56:18]   firehose: all 10-Q entries newer than watermark — fetching page 2
+[2026-08-12 20:56:19]   firehose: 10-Q page 2 — 100 entries
+[2026-08-12 20:56:19]   firehose: 100 watched CIKs, 400 total feed entries
+[2026-08-12 20:56:19]   ★ NEW 8k_202 for TOPP (Toppoint Holdings Inc.) filed 2026-08-12
+[2026-08-12 20:56:19]     https://www.sec.gov/Archives/edgar/data/1960847/000121390026088371/ea0301481-8k_toppoint.htm
+[2026-08-12 20:56:20]     ✉ alert sent (8k_202)
+[2026-08-12 20:56:20]   ★ NEW 8k_202 for INO (INOVIO PHARMACEUTICALS, INC.) filed 2026-08-12
+[2026-08-12 20:56:20]     https://www.sec.gov/Archives/edgar/data/1055726/000105572626000024/ino-20260812.htm
+[2026-08-12 20:56:21]     ✉ alert sent (8k_202)
+[2026-08-12 20:56:21]   ★ NEW 8k_202 for AVBP (ArriVent BioPharma, Inc.) filed 2026-08-12
+[2026-08-12 20:56:21]     https://www.sec.gov/Archives/edgar/data/1868279/000110465926094869/tm2622880d1_8k.htm
+[2026-08-12 20:56:22]     ✉ alert sent (8k_202)
+[2026-08-12 20:56:22]   ★ NEW 8k_202 for OFLX (Omega Flex, Inc.) filed 2026-08-12
+[2026-08-12 20:56:22]     https://www.sec.gov/Archives/edgar/data/1317945/000149315226037334/form8-k.htm
+[2026-08-12 20:56:23]     ✉ alert sent (8k_202)
+[2026-08-12 20:56:23]   ★ NEW 10q for AVBP (ArriVent BioPharma, Inc.) filed 2026-08-12
+[2026-08-12 20:56:23]     https://www.sec.gov/Archives/edgar/data/1868279/000110465926094902/avbp-20260630x10q.htm
+[2026-08-12 20:56:23]     ✉ alert sent (10q)
+[2026-08-12 20:56:24]   ★ NEW 10q for TOPP (Toppoint Holdings Inc.) filed 2026-08-12
+[2026-08-12 20:56:24]     https://www.sec.gov/Archives/edgar/data/1960847/000121390026088349/ea0300822-10q_toppoint.htm
+[2026-08-12 20:56:24]     ✉ alert sent (10q)
+[2026-08-12 20:56:24]   ★ NEW 10q for INO (INOVIO PHARMACEUTICALS, INC.) filed 2026-08-12
+[2026-08-12 20:56:24]     https://www.sec.gov/Archives/edgar/data/1055726/000105572626000023/ino-20260630.htm
+[2026-08-12 20:56:25]     ✉ alert sent (10q)
+[2026-08-12 20:56:25] === EDGAR FIREHOSE complete. 7 new detections. ===
