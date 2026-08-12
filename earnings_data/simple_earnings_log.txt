@@ -2483,3 +2483,17 @@
 [2026-08-12 21:39:41]     https://www.sec.gov/Archives/edgar/data/17843/000001784326000036/crs-20260812.htm
 [2026-08-12 21:39:42]     ✉ alert sent (8k_701)
 [2026-08-12 21:39:42] === EDGAR FIREHOSE complete. 1 new detections. ===
+[2026-08-12 22:06:29] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-08-12 22:06:37]   ★ NEW 8k_202 for INO (INOVIO PHARMACEUTICALS, INC.) filed 2026-08-12
+[2026-08-12 22:06:37]     https://www.sec.gov/Archives/edgar/data/1055726/000105572626000024/ino-20260812.htm
+[2026-08-12 22:06:38]     ✉ alert sent (8k_202)
+[2026-08-12 22:06:38]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001055726.json'
+[2026-08-12 22:06:45]   ★ NEW 8k_202 for AVBP (ArriVent BioPharma, Inc.) filed 2026-08-12
+[2026-08-12 22:06:45]     https://www.sec.gov/Archives/edgar/data/1868279/000110465926094869/tm2622880d1_8k.htm
+[2026-08-12 22:06:46]     ✉ alert sent (8k_202)
+[2026-08-12 22:06:46]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001868279.json'
+[2026-08-12 22:06:54]   ★ NEW 8k_202 for TOPP (Toppoint Holdings Inc.) filed 2026-08-12
+[2026-08-12 22:06:54]     https://www.sec.gov/Archives/edgar/data/1960847/000121390026088371/ea0301481-8k_toppoint.htm
+[2026-08-12 22:06:56]     ✉ alert sent (8k_202)
+[2026-08-12 22:06:56]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001960847.json'
+[2026-08-12 22:07:02] === EDGAR POLL complete. Fetched 100 companies, 3 new filings. ===
