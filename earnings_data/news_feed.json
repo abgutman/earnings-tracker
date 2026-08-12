@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-12T19:21:52",
+ "generated_at": "2026-08-12T21:02:07",
  "items": [
   {
    "uuid": "5a5b51f4-0faf-3920-b03d-75cb67cfa62f",
@@ -2367,19 +2367,6 @@
    "published_unix": 1784028600,
    "source_type": "yahoo",
    "captured_at": "2026-07-19T09:06:22"
-  },
-  {
-   "uuid": "f78d5338-a2bc-3d3c-adec-ad11bc54e0df",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces Grand Opening of Torrente in Eagle, Idaho",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-grand-opening-195300751.html",
-   "published_unix": 1783972380,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-19T09:06:42"
   }
  ]
 }
