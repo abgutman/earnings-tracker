@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-08-12T18:08:53",
+ "generated_at": "2026-08-12T19:21:52",
  "items": [
+  {
+   "uuid": "5a5b51f4-0faf-3920-b03d-75cb67cfa62f",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "Cencora Says Certain Serviced Walgreens Volume Began Moving Outside Company; Reaffirms 2026 EPS Outlook",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/cencora-says-certain-serviced-walgreens-185420255.html",
+   "published_unix": 1786560860,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-12T19:21:26"
+  },
+  {
+   "uuid": "b41aefcb-c6cf-34d5-b493-84b36118930c",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark Growth Momentum Seen Extending Into Fiscal 2027, Truist Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-growth-momentum-seen-extending-183925916.html",
+   "published_unix": 1786559965,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-12T19:21:26"
+  },
   {
    "uuid": "62e6d41e-f2b9-3b46-b594-ece61eb922d9",
    "tickers": [
