@@ -3405,3 +3405,61 @@
 [2026-08-12 00:41:22] No new transcripts found; transcripts.json unchanged
 [2026-08-12 00:41:22] === Done. 0 new transcript links found. ===
 
+[2026-08-12 16:33:15] === Fool transcript harvest start (dry_run=False) ===
+[2026-08-12 16:33:15] Loaded 122 tickers from expanded_companies.json
+[2026-08-12 16:33:15] Recent tickers (last filing within 14d): ['ACRS', 'AHCO', 'AME', 'APRE', 'ARMK', 'AVTR', 'AVTX', 'AWK', 'AXTA', 'BSY', 'BV', 'CERT', 'CNTX', 'COHN', 'COR', 'CRS', 'CUBE', 'DD', 'DORM', 'ECVT', 'EPAM', 'FMC', 'FSK', 'GBLI', 'GMED', 'GMER', 'GRTX', 'HLNE', 'HRMY', 'HSY', 'INO', 'IPSC', 'IRT', 'JJSF', 'JNJ', 'KWR', 'LNC', 'LRMR', 'MLYS', 'MRBK', 'MRK', 'OCGN', 'PASG', 'PHIO', 'PKBK', 'PPL', 'PVLA', 'QNBC', 'QNTO', 'QVCAQ', 'RDN', 'SND', 'STIM', 'TELA', 'TFX', 'TSEOF', 'UGI', 'UHS', 'UHT', 'UIS', 'VERX', 'VPG', 'VRCA', 'VSH', 'VSNT', 'WTRG', 'XHLD']
+[2026-08-12 16:33:15] Seed backfill: all seeds already in state
+[2026-08-12 16:33:15] Fetching Fool transcript index: https://www.fool.com/earnings-call-transcripts/
+[2026-08-12 16:33:15]   Found 20 transcript links on index page
+[2026-08-12 16:33:15]   Fool index matched tickers: []
+[2026-08-12 16:33:15] Yahoo secondary search for 47 tickers: ['ACRS', 'APRE', 'ARMK', 'AVTX', 'AXTA', 'BSY', 'BV', 'CNTX', 'COHN', 'COR', 'ECVT', 'EPAM', 'FSK', 'GBLI', 'GMED', 'GMER', 'GRTX', 'INO', 'IPSC', 'JJSF', 'JNJ', 'LNC', 'LRMR', 'MLYS', 'MRBK', 'OCGN', 'PASG', 'PHIO', 'PKBK', 'PPL', 'QNBC', 'QNTO', 'QVCAQ', 'RDN', 'SND', 'STIM', 'TELA', 'TFX', 'UGI', 'UHS', 'UHT', 'VPG', 'VRCA', 'VSH', 'VSNT', 'WTRG', 'XHLD']
+[2026-08-12 16:33:16]   MISS [Yahoo] ACRS: no transcript items in feed
+[2026-08-12 16:33:16]   MISS [Yahoo] APRE: no transcript items in feed
+[2026-08-12 16:33:17]   MISS [Yahoo] ARMK: no transcript items in feed
+[2026-08-12 16:33:17]   MISS [Yahoo] AVTX: no transcript items in feed
+[2026-08-12 16:33:18]   MISS [Yahoo] AXTA: no transcript items in feed
+[2026-08-12 16:33:18]   MISS [Yahoo] BSY: no transcript items in feed
+[2026-08-12 16:33:19]   NEW [Yahoo] BV: https://finance.yahoo.com/m/d86b6a1c-a5dd-367c-9c37-be31bd6e881d/brightview-%28bv%29-q3-2026.html (Motley Fool)
+[2026-08-12 16:33:19]   MISS [Yahoo] CNTX: no transcript items in feed
+[2026-08-12 16:33:20]   MISS [Yahoo] COHN: no transcript items in feed
+[2026-08-12 16:33:20]   NEW [Yahoo] COR: https://finance.yahoo.com/m/1bf1e7df-fb59-33b4-8ccc-1b457d8c8dd0/cencora-%28cor%29-q3-2026.html (Motley Fool)
+[2026-08-12 16:33:21]   NEW [Yahoo] ECVT: https://finance.yahoo.com/m/73e774e8-8714-3e78-8ead-aab67775e459/ecovyst-%28ecvt%29-q2-2026.html (Motley Fool)
+[2026-08-12 16:33:21]   MISS [Yahoo] EPAM: no transcript items in feed
+[2026-08-12 16:33:22]   MISS [Yahoo] FSK: no transcript items in feed
+[2026-08-12 16:33:22]   NEW [Yahoo] GBLI: https://finance.yahoo.com/m/c1bbda79-f0e5-30a8-9d19-025b827dfce8/global-indemnity-%28gbli%29-q2.html (Motley Fool)
+[2026-08-12 16:33:23]   MISS [Yahoo] GMED: no transcript items in feed
+[2026-08-12 16:33:23]   MISS [Yahoo] GMER: no transcript items in feed
+[2026-08-12 16:33:24]   MISS [Yahoo] GRTX: no transcript items in feed
+[2026-08-12 16:33:24]   MISS [Yahoo] INO: no transcript items in feed
+[2026-08-12 16:33:25]   MISS [Yahoo] IPSC: no transcript items in feed
+[2026-08-12 16:33:25]   MISS [Yahoo] JJSF: no transcript items in feed
+[2026-08-12 16:33:26]   MISS [Yahoo] JNJ: no transcript items in feed
+[2026-08-12 16:33:26]   MISS [Yahoo] LNC: no transcript items in feed
+[2026-08-12 16:33:27]   MISS [Yahoo] LRMR: no transcript items in feed
+[2026-08-12 16:33:27]   MISS [Yahoo] MLYS: no transcript items in feed
+[2026-08-12 16:33:28]   MISS [Yahoo] MRBK: no transcript items in feed
+[2026-08-12 16:33:28]   MISS [Yahoo] OCGN: no transcript items in feed
+[2026-08-12 16:33:29]   MISS [Yahoo] PASG: no transcript items in feed
+[2026-08-12 16:33:29]   MISS [Yahoo] PHIO: no transcript items in feed
+[2026-08-12 16:33:30]   MISS [Yahoo] PKBK: no transcript items in feed
+[2026-08-12 16:33:30]   MISS [Yahoo] PPL: no transcript items in feed
+[2026-08-12 16:33:31]   MISS [Yahoo] QNBC: no transcript items in feed
+[2026-08-12 16:33:31]   MISS [Yahoo] QNTO: no transcript items in feed
+[2026-08-12 16:33:32]   MISS [Yahoo] QVCAQ: no transcript items in feed
+[2026-08-12 16:33:32]   MISS [Yahoo] RDN: no transcript items in feed
+[2026-08-12 16:33:33]   MISS [Yahoo] SND: no transcript items in feed
+[2026-08-12 16:33:33]   MISS [Yahoo] STIM: no transcript items in feed
+[2026-08-12 16:33:34]   MISS [Yahoo] TELA: no transcript items in feed
+[2026-08-12 16:33:34]   MISS [Yahoo] TFX: no transcript items in feed
+[2026-08-12 16:33:35]   MISS [Yahoo] UGI: no transcript items in feed
+[2026-08-12 16:33:35]   MISS [Yahoo] UHS: no transcript items in feed
+[2026-08-12 16:33:36]   MISS [Yahoo] UHT: no transcript items in feed
+[2026-08-12 16:33:36]   MISS [Yahoo] VPG: no transcript items in feed
+[2026-08-12 16:33:37]   MISS [Yahoo] VRCA: no transcript items in feed
+[2026-08-12 16:33:37]   NEW [Yahoo] VSH: https://finance.yahoo.com/m/f9f2bba3-a72f-3d24-8eee-f6dc9e553e25/vishay-%28vsh%29-q2-2026-earnings.html (Motley Fool)
+[2026-08-12 16:33:38]   MISS [Yahoo] VSNT: no transcript items in feed
+[2026-08-12 16:33:38]   NEW [Yahoo] WTRG: https://finance.yahoo.com/m/a8a3bfb8-ced0-358c-a283-d5b13a9eeac5/essential-utilities-%28wtrg%29-q2.html (Motley Fool)
+[2026-08-12 16:33:39]   MISS [Yahoo] XHLD: no transcript items in feed
+[2026-08-12 16:33:39] Saved transcripts.json (30 tickers with entries)
+[2026-08-12 16:33:39] === Done. 6 new transcript links found. ===
+

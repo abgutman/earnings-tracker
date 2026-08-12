@@ -35,6 +35,15 @@
    "url": "https://finance.yahoo.com/m/cb32d4fb-6ff8-3ef3-9159-ab2e2af674e1/american-water-works-%28awk%29-q2.html"
   }
  ],
+ "BV": [
+  {
+   "date_str": "2026-08-12",
+   "found_at": "2026-08-12T16:33:19",
+   "source": "Motley Fool",
+   "title": "BrightView (BV) Q3 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/m/d86b6a1c-a5dd-367c-9c37-be31bd6e881d/brightview-%28bv%29-q3-2026.html"
+  }
+ ],
  "CERT": [
   {
    "date_str": "2026-08-05",
@@ -61,6 +70,13 @@
   }
  ],
  "COR": [
+  {
+   "date_str": "2026-08-12",
+   "found_at": "2026-08-12T16:33:20",
+   "source": "Motley Fool",
+   "title": "Cencora (COR) Q3 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/m/1bf1e7df-fb59-33b4-8ccc-1b457d8c8dd0/cencora-%28cor%29-q3-2026.html"
+  },
   {
    "date_str": "2026-05-06",
    "found_at": "2026-06-12T00:00:00",
@@ -114,6 +130,15 @@
    "url": "https://finance.yahoo.com/m/e89c5a84-227c-36be-8c3f-c489c0109e8d/dorman-products-%28dorm%29-q2.html"
   }
  ],
+ "ECVT": [
+  {
+   "date_str": "2026-08-12",
+   "found_at": "2026-08-12T16:33:21",
+   "source": "Motley Fool",
+   "title": "Ecovyst (ECVT) Q2 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/m/73e774e8-8714-3e78-8ead-aab67775e459/ecovyst-%28ecvt%29-q2-2026.html"
+  }
+ ],
  "FIVE": [
   {
    "date_str": "2026-06-04",
@@ -130,6 +155,15 @@
    "source": "Motley Fool",
    "title": "FMC (FMC) Q2 2026 Earnings Call Transcript",
    "url": "https://finance.yahoo.com/m/ad38eaad-aa1e-3ab1-b14c-5787e95efd78/fmc-%28fmc%29-q2-2026-earnings.html"
+  }
+ ],
+ "GBLI": [
+  {
+   "date_str": "2026-08-12",
+   "found_at": "2026-08-12T16:33:22",
+   "source": "Motley Fool",
+   "title": "Global Indemnity (GBLI) Q2 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/m/c1bbda79-f0e5-30a8-9d19-025b827dfce8/global-indemnity-%28gbli%29-q2.html"
   }
  ],
  "HLNE": [
@@ -229,6 +263,24 @@
    "source": "Motley Fool",
    "title": "Vertex (VERX) Q2 2026 Earnings Call Transcript",
    "url": "https://finance.yahoo.com/m/8d3c8d55-a6ea-3017-b33a-ca851813e65a/vertex-%28verx%29-q2-2026.html"
+  }
+ ],
+ "VSH": [
+  {
+   "date_str": "2026-08-12",
+   "found_at": "2026-08-12T16:33:37",
+   "source": "Motley Fool",
+   "title": "Vishay (VSH) Q2 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/m/f9f2bba3-a72f-3d24-8eee-f6dc9e553e25/vishay-%28vsh%29-q2-2026-earnings.html"
+  }
+ ],
+ "WTRG": [
+  {
+   "date_str": "2026-08-12",
+   "found_at": "2026-08-12T16:33:38",
+   "source": "Motley Fool",
+   "title": "Essential Utilities (WTRG) Q2 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/m/a8a3bfb8-ced0-358c-a283-d5b13a9eeac5/essential-utilities-%28wtrg%29-q2.html"
   }
  ]
 }
