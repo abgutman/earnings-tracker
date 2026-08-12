@@ -2475,3 +2475,11 @@
 [2026-08-12 20:56:24]     https://www.sec.gov/Archives/edgar/data/1055726/000105572626000023/ino-20260630.htm
 [2026-08-12 20:56:25]     ✉ alert sent (10q)
 [2026-08-12 20:56:25] === EDGAR FIREHOSE complete. 7 new detections. ===
+[2026-08-12 21:39:40] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-12 21:39:40]   firehose: 8-K feed — 100 entries parsed
+[2026-08-12 21:39:41]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-12 21:39:41]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-08-12 21:39:41]   ★ NEW 8k_701 for CRS (CARPENTER TECHNOLOGY CORP) filed 2026-08-12
+[2026-08-12 21:39:41]     https://www.sec.gov/Archives/edgar/data/17843/000001784326000036/crs-20260812.htm
+[2026-08-12 21:39:42]     ✉ alert sent (8k_701)
+[2026-08-12 21:39:42] === EDGAR FIREHOSE complete. 1 new detections. ===
