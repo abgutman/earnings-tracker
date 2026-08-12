@@ -676,8 +676,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1055726/000105572626000024/ino-20260812.htm",
   "last_detected_at": "2026-08-12T22:06:29.680088+00:00",
   "last_8k_detected_at": "2026-08-12T22:06:29.680088+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-08-12"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1055726/000105572626000023/ino-20260630.htm"
  },
  "CRS": {
   "ticker": "CRS",
@@ -984,8 +983,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1933414/000193341426000112/mlys-20260805.htm",
   "last_detected_at": "2026-08-12T14:33:11.427643+00:00",
   "last_8k_detected_at": "2026-08-12T14:33:11.427643+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-08-11"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1933414/000193341426000114/mlys-20260630.htm"
  },
  "VERX": {
   "ticker": "VERX",
@@ -1189,8 +1187,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1868279/000110465926094869/tm2622880d1_8k.htm",
   "last_detected_at": "2026-08-12T22:06:29.680088+00:00",
   "last_8k_detected_at": "2026-08-12T22:06:29.680088+00:00",
-  "pending_10q_since": "2026-08-12",
-  "last_10q_url": null
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1868279/000110465926094902/avbp-20260630x10q.htm"
  },
  "BV": {
   "ticker": "BV",
@@ -1414,8 +1411,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1850119/000110465926094533/tm2622911d1_8k.htm",
   "last_detected_at": "2026-08-12T14:33:11.427643+00:00",
   "last_8k_detected_at": "2026-08-12T14:33:11.427643+00:00",
-  "pending_10q_since": "2026-08-12",
-  "last_10q_url": null
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1850119/000110465926094523/ipsc-20260630x10q.htm"
  },
  "PKBK": {
   "ticker": "PKBK",
@@ -1885,8 +1881,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1960847/000121390026088371/ea0301481-8k_toppoint.htm",
   "last_detected_at": "2026-08-12T22:06:29.680088+00:00",
   "last_8k_detected_at": "2026-08-12T22:06:29.680088+00:00",
-  "pending_10q_since": "2026-08-12",
-  "last_10q_url": null
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1960847/000121390026088349/ea0300822-10q_toppoint.htm"
  },
  "GRTX": {
   "ticker": "GRTX",
@@ -1955,8 +1950,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1781983/000110465926094542/apre-20260812x8k.htm",
   "last_detected_at": "2026-08-12T14:33:11.427643+00:00",
   "last_8k_detected_at": "2026-08-12T14:33:11.427643+00:00",
-  "pending_10q_since": "2026-08-12",
-  "last_10q_url": null
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1781983/000110465926094544/apre-20260630x10q.htm"
  },
  "XHLD": {
   "ticker": "XHLD",

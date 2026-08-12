@@ -2502,3 +2502,17 @@
 [2026-08-12 22:24:00]   firehose: 10-Q feed — 100 entries parsed
 [2026-08-12 22:24:00]   firehose: 100 watched CIKs, 200 total feed entries
 [2026-08-12 22:24:00] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-08-12 23:25:20] === CHECK-10Q: scanning for pending 10-Q filings ===
+[2026-08-12 23:25:21]   ✓ 10-Q found for INO (INOVIO PHARMACEUTICALS, INC.) filed 2026-08-12
+[2026-08-12 23:25:21]     https://www.sec.gov/Archives/edgar/data/1055726/000105572626000023/ino-20260630.htm
+[2026-08-12 23:25:21]   ✓ 10-Q found for MLYS (Mineralys Therapeutics, Inc.) filed 2026-08-11
+[2026-08-12 23:25:21]     https://www.sec.gov/Archives/edgar/data/1933414/000193341426000114/mlys-20260630.htm
+[2026-08-12 23:25:21]   ✓ 10-Q found for AVBP (ArriVent BioPharma, Inc.) filed 2026-08-12
+[2026-08-12 23:25:21]     https://www.sec.gov/Archives/edgar/data/1868279/000110465926094902/avbp-20260630x10q.htm
+[2026-08-12 23:25:22]   ✓ 10-Q found for IPSC (Century Therapeutics, Inc.) filed 2026-08-12
+[2026-08-12 23:25:22]     https://www.sec.gov/Archives/edgar/data/1850119/000110465926094523/ipsc-20260630x10q.htm
+[2026-08-12 23:25:22]   ✓ 10-Q found for TOPP (Toppoint Holdings Inc.) filed 2026-08-12
+[2026-08-12 23:25:22]     https://www.sec.gov/Archives/edgar/data/1960847/000121390026088349/ea0300822-10q_toppoint.htm
+[2026-08-12 23:25:22]   ✓ 10-Q found for APRE (Aprea Therapeutics, Inc.) filed 2026-08-12
+[2026-08-12 23:25:22]     https://www.sec.gov/Archives/edgar/data/1781983/000110465926094544/apre-20260630x10q.htm
+[2026-08-12 23:25:22] === CHECK-10Q complete. Checked 10, found 6, cleared 0 stale. ===

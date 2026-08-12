@@ -1,25 +1,5 @@
 {
  "_comment": "Confirmed upcoming earnings dates. Populated manually + by future auto-extraction from save-the-date press releases. Each entry: release_date (YYYY-MM-DD), optionally call_date, call_time (HH:MM ET), source_url, source_title.",
- "NVRI": {
-  "release_date": null,
-  "call_date": "2026-08-11",
-  "call_time": "09:00 ET",
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/enviri-corporation-announces-timing-second-120000169.html",
-  "source_title": "Enviri Corporation Announces Timing of Second Quarter 2026 Results and Conference Call",
-  "source_publisher": "GlobeNewswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-13T23:38:18"
- },
- "ARMK": {
-  "release_date": null,
-  "call_date": "2026-08-11",
-  "call_time": "08:30 ET",
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/aramark-host-conference-call-third-113000173.html",
-  "source_title": "Aramark to Host Conference Call on Third Quarter Fiscal 2026 Results",
-  "source_publisher": "Business Wire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-14T23:37:09"
- },
  "WHK": {
   "release_date": "2026-08-13",
   "call_date": null,
@@ -29,16 +9,6 @@
   "source_publisher": "Business Wire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-07-14T23:38:07"
- },
- "STIM": {
-  "release_date": "2026-08-11",
-  "call_date": null,
-  "call_time": "08:30 ET",
-  "source_url": "https://finance.yahoo.com/healthcare/articles/neuronetics-report-second-quarter-2026-123000276.html",
-  "source_title": "Neuronetics to Report Second Quarter 2026 Financial and Operating Results and Host Conference Call",
-  "source_publisher": "GlobeNewswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-28T23:45:17"
  },
  "TOL": {
   "release_date": "2026-08-19",
@@ -69,15 +39,5 @@
   "source_publisher": "PR Newswire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-08-04T23:46:41"
- },
- "MLYS": {
-  "release_date": "2026-08-11",
-  "call_date": null,
-  "call_time": null,
-  "source_url": "https://finance.yahoo.com/healthcare/articles/mineralys-therapeutics-announce-second-quarter-120000807.html",
-  "source_title": "Mineralys Therapeutics to Announce Second Quarter 2026 Financial Results and Host Conference Call on Tuesday, August 11, 2026",
-  "source_publisher": "GlobeNewswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-08-04T23:46:52"
  }
 }
