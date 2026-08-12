@@ -202,6 +202,15 @@
    "url": "https://finance.yahoo.com/m/921570d4-94cd-3bd7-bdc2-5462d7c827b1/irt-%28irt%29-q2-2026-earnings.html"
   }
  ],
+ "JJSF": [
+  {
+   "date_str": "2026-08-12",
+   "found_at": "2026-08-12T20:20:49",
+   "source": "Motley Fool",
+   "title": "JJSF Q3 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/m/25adbe81-f0fb-30ad-8631-f21cf7d7a5d4/jjsf-q3-2026-earnings-call.html"
+  }
+ ],
  "KWR": [
   {
    "date_str": "2026-08-10",
@@ -263,6 +272,15 @@
    "source": "Motley Fool",
    "title": "Vertex (VERX) Q2 2026 Earnings Call Transcript",
    "url": "https://finance.yahoo.com/m/8d3c8d55-a6ea-3017-b33a-ca851813e65a/vertex-%28verx%29-q2-2026.html"
+  }
+ ],
+ "VPG": [
+  {
+   "date_str": "2026-08-12",
+   "found_at": "2026-08-12T20:21:01",
+   "source": "Motley Fool",
+   "title": "Vishay Precision Group (VPG) Q2 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/m/5c9efa4a-a740-3469-b8ed-0b8ae64a087a/vishay-precision-group-%28vpg%29.html"
   }
  ],
  "VSH": [
