@@ -2377,3 +2377,8 @@
 [2026-08-11 23:26:11]   ✓ 10-Q found for TELA (TELA Bio, Inc.) filed 2026-08-11
 [2026-08-11 23:26:11]     https://www.sec.gov/Archives/edgar/data/1561921/000110465926094039/tela-20260630x10q.htm
 [2026-08-11 23:26:11] === CHECK-10Q complete. Checked 7, found 5, cleared 0 stale. ===
+[2026-08-12 11:54:15] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-12 11:54:15]   firehose: 8-K feed — 100 entries parsed
+[2026-08-12 11:54:16]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-12 11:54:16]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-08-12 11:54:16] === EDGAR FIREHOSE complete. 0 new detections. ===
