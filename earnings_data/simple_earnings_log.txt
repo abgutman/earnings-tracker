@@ -2516,3 +2516,14 @@
 [2026-08-12 23:25:22]   ✓ 10-Q found for APRE (Aprea Therapeutics, Inc.) filed 2026-08-12
 [2026-08-12 23:25:22]     https://www.sec.gov/Archives/edgar/data/1781983/000110465926094544/apre-20260630x10q.htm
 [2026-08-12 23:25:22] === CHECK-10Q complete. Checked 10, found 6, cleared 0 stale. ===
+[2026-08-13 11:54:30] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-13 11:54:30]   firehose: 8-K feed — 100 entries parsed
+[2026-08-13 11:54:31]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-13 11:54:31]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-08-13 11:54:31]   ★ NEW 8k_202 for CABA (Cabaletta Bio, Inc.) filed 2026-08-13
+[2026-08-13 11:54:31]     https://www.sec.gov/Archives/edgar/data/1759138/000175913826000038/caba-20260813.htm
+[2026-08-13 11:54:32]     ✉ alert sent (8k_202)
+[2026-08-13 11:54:33]   ★ NEW 10q for CABA (Cabaletta Bio, Inc.) filed 2026-08-13
+[2026-08-13 11:54:33]     https://www.sec.gov/Archives/edgar/data/1759138/000175913826000039/caba-20260630.htm
+[2026-08-13 11:54:34]     ✉ alert sent (10q)
+[2026-08-13 11:54:34] === EDGAR FIREHOSE complete. 2 new detections. ===
