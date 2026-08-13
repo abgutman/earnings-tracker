@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-13T19:25:33",
+ "generated_at": "2026-08-13T21:01:30",
  "items": [
+  {
+   "uuid": "25714010-7975-3c7d-bbda-9bfcf6f6232a",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores",
+   "title": "Burlington Stores, Inc. Announces Second Quarter Fiscal Year 2026 Earnings Release Date, Conference Call and Webcast",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/burlington-stores-inc-announces-second-201500594.html",
+   "published_unix": 1786652100,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-13T21:01:16"
+  },
   {
    "uuid": "b2ee7043-6a5d-3aaa-acb2-e4d8b972219c",
    "tickers": [
@@ -2384,17 +2397,6 @@
    "published_unix": 1784134920,
    "source_type": "yahoo",
    "captured_at": "2026-07-19T09:06:24"
-  },
-  {
-   "uuid": "12eb2cc86074df5671b84213fd2de20a2e35b68d",
-   "tickers": [],
-   "company": "PJM Interconnection",
-   "title": "PJM Capacity Auction Procures 138,318 MW of Generation Resources as Work Continues To Address Growing Electricity Demand",
-   "publisher": "PR Newswire",
-   "link": "https://www.prnewswire.com/news-releases/pjm-capacity-auction-procures-138-318-mw-of-generation-resources-as-work-continues-to-address-growing-electricity-demand-302825613.html",
-   "published_unix": 1784061600,
-   "source_type": "wire",
-   "captured_at": "2026-07-19T09:06:33"
   }
  ]
 }
