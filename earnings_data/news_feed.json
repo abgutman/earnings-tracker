@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-13T02:41:23",
+ "generated_at": "2026-08-13T11:58:34",
  "items": [
+  {
+   "uuid": "43db3159-6184-330c-a0bc-0ef6b13e7a0e",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "Jefferies Upgrades Five Below to Buy From Hold, Adjusts PT to $350 From $210",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-upgrades-five-below-buy-113354334.html",
+   "published_unix": 1786620834,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-13T11:58:11"
+  },
   {
    "uuid": "5a5b51f4-0faf-3920-b03d-75cb67cfa62f",
    "tickers": [
@@ -2354,19 +2367,6 @@
    "published_unix": 1784034000,
    "source_type": "yahoo",
    "captured_at": "2026-07-19T09:06:23"
-  },
-  {
-   "uuid": "9a6ae0e4-90fe-3d94-a7e6-ec0ea2c8467d",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Aramark to Host Conference Call on Third Quarter Fiscal 2026 Results",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-host-conference-call-third-113000173.html",
-   "published_unix": 1784028600,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-19T09:06:22"
   }
  ]
 }
