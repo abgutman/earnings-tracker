@@ -35,6 +35,15 @@
    "url": "https://finance.yahoo.com/m/cb32d4fb-6ff8-3ef3-9159-ab2e2af674e1/american-water-works-%28awk%29-q2.html"
   }
  ],
+ "BSY": [
+  {
+   "date_str": "2026-08-13",
+   "found_at": "2026-08-13T20:18:36",
+   "source": "Motley Fool",
+   "title": "Bentley Systems (BSY) Q2 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/m/71d4bafc-cab8-375a-9fd8-3e608203166d/bentley-systems-%28bsy%29-q2-2026.html"
+  }
+ ],
  "BV": [
   {
    "date_str": "2026-08-12",
@@ -227,6 +236,15 @@
    "source": "Motley Fool",
    "title": "Merck (MRK) Q2 2026 Earnings Call Transcript",
    "url": "https://finance.yahoo.com/m/2ef39090-33b4-3d9b-ae5d-dfcbcfe69e4e/merck-%28mrk%29-q2-2026-earnings.html"
+  }
+ ],
+ "OCGN": [
+  {
+   "date_str": "2026-08-13",
+   "found_at": "2026-08-13T20:18:44",
+   "source": "Motley Fool",
+   "title": "Ocugen (OCGN) Q2 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/m/7a6699cc-fd19-33d9-b076-ce90b8db9b60/ocugen-%28ocgn%29-q2-2026.html"
   }
  ],
  "PVLA": [
