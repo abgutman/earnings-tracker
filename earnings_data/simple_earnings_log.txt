@@ -2532,3 +2532,11 @@
 [2026-08-13 12:44:27]   firehose: 10-Q feed — 100 entries parsed
 [2026-08-13 12:44:27]   firehose: 100 watched CIKs, 200 total feed entries
 [2026-08-13 12:44:27] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-08-13 14:08:04] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-13 14:08:06]   firehose: 8-K feed — 100 entries parsed
+[2026-08-13 14:08:07]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-13 14:08:07]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-08-13 14:08:07]   ★ NEW 8k_202 for ISSC (INNOVATIVE SOLUTIONS & SUPPORT INC) filed 2026-08-13
+[2026-08-13 14:08:07]     https://www.sec.gov/Archives/edgar/data/836690/000110465926095548/tm2623046d1_8k.htm
+[2026-08-13 14:08:11]     ✉ alert sent (8k_202)
+[2026-08-13 14:08:11] === EDGAR FIREHOSE complete. 1 new detections. ===
