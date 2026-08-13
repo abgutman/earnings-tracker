@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-13T18:09:16",
+ "generated_at": "2026-08-13T19:25:33",
  "items": [
+  {
+   "uuid": "b2ee7043-6a5d-3aaa-acb2-e4d8b972219c",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "Five Below Shares Rise After Jefferies Upgrade",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-shares-rise-jefferies-182235364.html",
+   "published_unix": 1786645355,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-13T19:25:13"
+  },
   {
    "uuid": "a5a48ca5-cdb7-32be-ab83-2f3b30c8f358",
    "tickers": [
