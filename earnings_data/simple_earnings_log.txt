@@ -2527,3 +2527,8 @@
 [2026-08-13 11:54:33]     https://www.sec.gov/Archives/edgar/data/1759138/000175913826000039/caba-20260630.htm
 [2026-08-13 11:54:34]     ✉ alert sent (10q)
 [2026-08-13 11:54:34] === EDGAR FIREHOSE complete. 2 new detections. ===
+[2026-08-13 12:44:26] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-13 12:44:27]   firehose: 8-K feed — 100 entries parsed
+[2026-08-13 12:44:27]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-13 12:44:27]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-08-13 12:44:27] === EDGAR FIREHOSE complete. 0 new detections. ===
