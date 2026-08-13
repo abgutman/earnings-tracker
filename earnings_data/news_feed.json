@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-13T11:58:34",
+ "generated_at": "2026-08-13T13:45:47",
  "items": [
+  {
+   "uuid": "12858f63-c838-323f-b161-5704d3a18bfe",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "Campbell's",
+   "title": "The Campbell\u2019s Company to Report Fourth Quarter and Full Year Fiscal 2026 Results on September 3, 2026",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/campbell-company-report-fourth-quarter-120000062.html",
+   "published_unix": 1786622400,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-13T13:45:29"
+  },
   {
    "uuid": "43db3159-6184-330c-a0bc-0ef6b13e7a0e",
    "tickers": [
@@ -2341,30 +2354,6 @@
    "publisher": "MT Newswires",
    "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-apos-momentum-remains-152322125.html",
    "published_unix": 1784042602,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-19T09:06:23"
-  },
-  {
-   "uuid": "8144b28690291d2ffec4b77ac95d108dfe721071",
-   "tickers": [],
-   "company": "QVC Group",
-   "title": "QVC Celebrates Christmas in July\u00ae with New Co-Chief Cheer Officers Danielle Fishel and Lance Bass",
-   "publisher": "PR Newswire",
-   "link": "https://www.prnewswire.com/news-releases/qvc-celebrates-christmas-in-july-with-new-co-chief-cheer-officers-danielle-fishel-and-lance-bass-302824944.html",
-   "published_unix": 1784034420,
-   "source_type": "wire",
-   "captured_at": "2026-07-19T09:06:35"
-  },
-  {
-   "uuid": "8eb23a00-7609-3514-8fef-5435f690f93f",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "Campbell's",
-   "title": "Campbell's\u00ae Cooks Up New Soup Lineup with 20g of Protein Per Can",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/campbells-cooks-soup-lineup-20g-130000839.html",
-   "published_unix": 1784034000,
    "source_type": "yahoo",
    "captured_at": "2026-07-19T09:06:23"
   }
