@@ -238,6 +238,24 @@
    "url": "https://finance.yahoo.com/m/5fed0ee8-85d9-3db0-b000-384f311c5023/palvella-%28pvla%29-q2-2026.html"
   }
  ],
+ "RDN": [
+  {
+   "date_str": "2026-08-13",
+   "found_at": "2026-08-13T16:33:04",
+   "source": "Motley Fool",
+   "title": "Radian (RDN) Q2 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/m/b666aa81-214f-3bbd-82d1-160c5819bf85/radian-%28rdn%29-q2-2026-earnings.html"
+  }
+ ],
+ "TFX": [
+  {
+   "date_str": "2026-08-13",
+   "found_at": "2026-08-13T16:33:07",
+   "source": "Motley Fool",
+   "title": "Teleflex (TFX) Q2 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/m/b8689931-b662-372b-897d-e89bfa1f68cf/teleflex-%28tfx%29-q2-2026.html"
+  }
+ ],
  "TSEOF": [
   {
    "date_str": "2026-08-07",
@@ -245,6 +263,15 @@
    "source": "Motley Fool",
    "title": "CNQ (CNQ) Q2 2026 Earnings Call Transcript",
    "url": "https://finance.yahoo.com/m/440749b7-151c-363a-9a45-9580732730ff/cnq-%28cnq%29-q2-2026-earnings.html"
+  }
+ ],
+ "UGI": [
+  {
+   "date_str": "2026-08-13",
+   "found_at": "2026-08-13T16:33:08",
+   "source": "Motley Fool",
+   "title": "UGI (UGI) Q3 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/m/b18ac5e1-20ec-3523-988f-8d5e5ca4e01d/ugi-%28ugi%29-q3-2026-earnings.html"
   }
  ],
  "UIS": [
