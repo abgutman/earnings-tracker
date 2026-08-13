@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-13T13:45:47",
+ "generated_at": "2026-08-13T15:14:09",
  "items": [
+  {
+   "uuid": "dba1728c-dff4-343a-b546-8d72df3727d2",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers at Revera Luxury Home Community Opens in Richmond, Texas",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-revera-luxury-home-142500154.html",
+   "published_unix": 1786631100,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-13T15:14:09"
+  },
   {
    "uuid": "12858f63-c838-323f-b161-5704d3a18bfe",
    "tickers": [
