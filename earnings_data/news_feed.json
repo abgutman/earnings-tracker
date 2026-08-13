@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-08-13T15:14:09",
+ "generated_at": "2026-08-13T17:11:01",
  "items": [
+  {
+   "uuid": "a5a48ca5-cdb7-32be-ab83-2f3b30c8f358",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Pennsylvania American Water Completes Acquisition of the Sutersville-Sewickley Municipal Sewage Authority Wastewater System",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/pennsylvania-american-water-completes-acquisition-164600784.html",
+   "published_unix": 1786639560,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-13T17:10:42"
+  },
+  {
+   "uuid": "fbec64b4-b38c-3141-95c6-a80a9cbbb803",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces New Waterfront Luxury Home Community Coming Soon to Yulee, Florida",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-waterfront-luxury-154000835.html",
+   "published_unix": 1786635600,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-13T17:11:00"
+  },
   {
    "uuid": "dba1728c-dff4-343a-b546-8d72df3727d2",
    "tickers": [
@@ -2356,19 +2382,6 @@
    "published_unix": 1784061600,
    "source_type": "wire",
    "captured_at": "2026-07-19T09:06:33"
-  },
-  {
-   "uuid": "75061a80-4cc3-38b3-8551-1c7bae0b73ed",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "Five Below",
-   "title": "Five Below's Momentum Remains Strong as Pricing, Traffic and Customer Engagement Stay Healthy, UBS Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-apos-momentum-remains-152322125.html",
-   "published_unix": 1784042602,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-19T09:06:23"
   }
  ]
 }
