@@ -2609,3 +2609,11 @@
 [2026-08-13 22:21:40]   firehose: 10-Q feed — 100 entries parsed
 [2026-08-13 22:21:40]   firehose: 100 watched CIKs, 200 total feed entries
 [2026-08-13 22:21:40] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-08-13 23:27:31] === CHECK-10Q: scanning for pending 10-Q filings ===
+[2026-08-13 23:27:32]   ✓ 10-Q found for OFLX (Omega Flex, Inc.) filed 2026-08-13
+[2026-08-13 23:27:32]     https://www.sec.gov/Archives/edgar/data/1317945/000149315226037685/form10-q.htm
+[2026-08-13 23:27:33]   ✓ 10-Q found for CABA (Cabaletta Bio, Inc.) filed 2026-08-13
+[2026-08-13 23:27:33]     https://www.sec.gov/Archives/edgar/data/1759138/000175913826000039/caba-20260630.htm
+[2026-08-13 23:27:34]   ✓ 10-Q found for ISSC (INNOVATIVE SOLUTIONS & SUPPORT INC) filed 2026-08-13
+[2026-08-13 23:27:34]     https://www.sec.gov/Archives/edgar/data/836690/000110465926095962/issc-20260630x10q.htm
+[2026-08-13 23:27:34] === CHECK-10Q complete. Checked 6, found 3, cleared 0 stale. ===

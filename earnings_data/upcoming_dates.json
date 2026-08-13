@@ -30,14 +30,14 @@
   "source_type": "yahoo_auto",
   "captured_at": "2026-07-30T23:45:21"
  },
- "INO": {
-  "release_date": "2026-08-12",
+ "CPB": {
+  "release_date": "2026-09-03",
   "call_date": null,
   "call_time": null,
-  "source_url": "https://finance.yahoo.com/healthcare/articles/inovio-report-second-quarter-financial-200500098.html",
-  "source_title": "INOVIO to Report Second Quarter Financial Results on August 12, 2026",
-  "source_publisher": "PR Newswire",
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/campbell-company-report-fourth-quarter-120000062.html",
+  "source_title": "The Campbell\u2019s Company to Report Fourth Quarter and Full Year Fiscal 2026 Results on September 3, 2026",
+  "source_publisher": "Business Wire",
   "source_type": "yahoo_auto",
-  "captured_at": "2026-08-04T23:46:41"
+  "captured_at": "2026-08-13T23:26:30"
  }
 }

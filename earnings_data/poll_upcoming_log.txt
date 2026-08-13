@@ -375,3 +375,11 @@
 [2026-08-12 23:25:20]   cleanup: removed 4 past entries
 [2026-08-12 23:25:20] === Done. Captured 0 new save-the-dates, cleaned 4 past. ===
 
+[2026-08-13 23:26:18] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-08-13 23:26:18] Polling Yahoo for 106 companies
+[2026-08-13 23:26:30]   + CPB: release=2026-09-03 call=None None
+[2026-08-13 23:26:30]     via: The Campbell’s Company to Report Fourth Quarter and Full Year Fiscal 2026 Results on September 3, 20
+[2026-08-13 23:26:32]   ✉ alert sent for CPB
+[2026-08-13 23:27:31]   cleanup: removed 1 past entries
+[2026-08-13 23:27:31] === Done. Captured 1 new save-the-dates, cleaned 1 past. ===
+
