@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-14T20:44:29",
+ "generated_at": "2026-08-14T21:39:26",
  "items": [
+  {
+   "uuid": "88f42aef-f49f-3737-aa13-4e5bc1daa987",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark Insider Sold Shares Worth $4,310,718, According to a Recent SEC Filing",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-insider-sold-shares-worth-211758527.html",
+   "published_unix": 1786742278,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-14T21:38:57"
+  },
   {
    "uuid": "42850ec8-0e14-3ff3-8576-33eb87a73e72",
    "tickers": [
@@ -2410,19 +2423,6 @@
    "published_unix": 1784207820,
    "source_type": "yahoo",
    "captured_at": "2026-07-19T09:06:24"
-  },
-  {
-   "uuid": "6a5a0e64-3321-3db5-9600-b00df303ffb8",
-   "tickers": [
-    "WTRG"
-   ],
-   "company": "Essential Utilities",
-   "title": "Essential Utilities Unit Secures $74.3 Million to Advance Treatment Plant Projects",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/essential-utilities-unit-secures-74-212139520.html",
-   "published_unix": 1784150499,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-19T09:06:25"
   }
  ]
 }
