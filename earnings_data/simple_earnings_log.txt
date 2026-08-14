@@ -2678,3 +2678,27 @@
 [2026-08-14 19:53:21]   firehose: 10-Q feed — 100 entries parsed
 [2026-08-14 19:53:21]   firehose: 100 watched CIKs, 200 total feed entries
 [2026-08-14 19:53:21] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-08-14 20:38:00] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-14 20:38:01]   firehose: 8-K feed — 100 entries parsed
+[2026-08-14 20:38:01]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-08-14 20:38:14]   firehose: 8-K page 2 — 100 entries
+[2026-08-14 20:38:14]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-14 20:38:14]   firehose: all 10-Q entries newer than watermark — fetching page 2
+[2026-08-14 20:38:22]   firehose: 10-Q page 2 — 100 entries
+[2026-08-14 20:38:22]   firehose: 100 watched CIKs, 400 total feed entries
+[2026-08-14 20:38:22]   ★ NEW 8k_202 for TRAW (Traws Pharma, Inc.) filed 2026-08-14
+[2026-08-14 20:38:22]     https://www.sec.gov/Archives/edgar/data/1130598/000110465926097226/tm2623190d1_8k.htm
+[2026-08-14 20:38:23]     ✉ alert sent (8k_202)
+[2026-08-14 20:38:23]   ★ NEW 8k_202 for HSDT (Solana Co) filed 2026-08-14
+[2026-08-14 20:38:23]     https://www.sec.gov/Archives/edgar/data/1610853/000161085326000005/hsdt-20260814.htm
+[2026-08-14 20:38:24]     ✉ alert sent (8k_202)
+[2026-08-14 20:38:24]   ★ NEW 8k_202 for ANVS (Annovis Bio, Inc.) filed 2026-08-14
+[2026-08-14 20:38:24]     https://www.sec.gov/Archives/edgar/data/1477845/000110465926097091/tm2623272d1_8k.htm
+[2026-08-14 20:38:25]     ✉ alert sent (8k_202)
+[2026-08-14 20:38:25]   ★ NEW 10q for RPMT (REGO PAYMENT ARCHITECTURES, INC.) filed 2026-08-14
+[2026-08-14 20:38:25]     https://www.sec.gov/Archives/edgar/data/1437283/000121465926010425/rpmt-20260630.htm
+[2026-08-14 20:38:25]     ✉ alert sent (10q)
+[2026-08-14 20:38:26]   ★ NEW 10q for ANVS (Annovis Bio, Inc.) filed 2026-08-14
+[2026-08-14 20:38:26]     https://www.sec.gov/Archives/edgar/data/1477845/000110465926097228/anvs-20260630x10q.htm
+[2026-08-14 20:38:26]     ✉ alert sent (10q)
+[2026-08-14 20:38:26] === EDGAR FIREHOSE complete. 5 new detections. ===
