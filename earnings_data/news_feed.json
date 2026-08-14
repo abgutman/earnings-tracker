@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-14T18:07:45",
+ "generated_at": "2026-08-14T19:13:29",
  "items": [
+  {
+   "uuid": "ccbbfe71-5743-3220-a017-d8d94d6feac8",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Illinois American Water Annual Maintenance Program Includes Flushing Mains, Fire Hydrants and Temporary Water Treatment Change in Metro East",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/illinois-american-water-annual-maintenance-184200592.html",
+   "published_unix": 1786732920,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-14T19:13:04"
+  },
   {
    "uuid": "7aef9c14-3d4f-3223-81b0-b7509fee5928",
    "tickers": [
