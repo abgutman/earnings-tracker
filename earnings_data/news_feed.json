@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-14T11:56:04",
+ "generated_at": "2026-08-14T13:40:57",
  "items": [
+  {
+   "uuid": "0f045d07-81b6-36df-a256-cd8b488d7eb8",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast offering payouts in $117.5M settlement. Are you eligible?",
+   "publisher": "USA TODAY",
+   "link": "https://finance.yahoo.com/m/0f045d07-81b6-36df-a256-cd8b488d7eb8/comcast-offering-payouts-in.html",
+   "published_unix": 1786713440,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-14T13:40:31"
+  },
   {
    "uuid": "25714010-7975-3c7d-bbda-9bfcf6f6232a",
    "tickers": [
