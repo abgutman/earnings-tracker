@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-14T19:13:29",
+ "generated_at": "2026-08-14T20:44:29",
  "items": [
+  {
+   "uuid": "42850ec8-0e14-3ff3-8576-33eb87a73e72",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Pennsylvania American Water Encourages Customers to Learn About New Rates and Available Bill Assistance Programs",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/pennsylvania-american-water-encourages-customers-200500738.html",
+   "published_unix": 1786737900,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-14T20:44:16"
+  },
   {
    "uuid": "ccbbfe71-5743-3220-a017-d8d94d6feac8",
    "tickers": [
@@ -2410,19 +2423,6 @@
    "published_unix": 1784150499,
    "source_type": "yahoo",
    "captured_at": "2026-07-19T09:06:25"
-  },
-  {
-   "uuid": "88267bd0-6a3a-39ab-b075-ee505a7aadcc",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces Model Home Grand Opening at Toll Brothers at The Pinehills in Plymouth, Massachusetts",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-model-home-200200172.html",
-   "published_unix": 1784145720,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-19T09:06:42"
   }
  ]
 }
