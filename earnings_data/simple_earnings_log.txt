@@ -2720,3 +2720,17 @@
 [2026-08-14 21:33:22]     https://www.sec.gov/Archives/edgar/data/1610853/000161085326000007/hsdt-20260630.htm
 [2026-08-14 21:33:23]     ✉ alert sent (10q)
 [2026-08-14 21:33:23] === EDGAR FIREHOSE complete. 2 new detections. ===
+[2026-08-14 21:44:29] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-08-14 21:44:51]   ★ NEW 8k_202 for HSDT (Solana Co) filed 2026-08-14
+[2026-08-14 21:44:51]     https://www.sec.gov/Archives/edgar/data/1610853/000161085326000005/hsdt-20260814.htm
+[2026-08-14 21:44:52]     ✉ alert sent (8k_202)
+[2026-08-14 21:44:52]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001610853.json'
+[2026-08-14 21:44:53]   ★ NEW 8k_202 for ANVS (Annovis Bio, Inc.) filed 2026-08-14
+[2026-08-14 21:44:53]     https://www.sec.gov/Archives/edgar/data/1477845/000110465926097091/tm2623272d1_8k.htm
+[2026-08-14 21:44:55]     ✉ alert sent (8k_202)
+[2026-08-14 21:44:55]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001477845.json'
+[2026-08-14 21:44:57]   ★ NEW 8k_202 for TRAW (Traws Pharma, Inc.) filed 2026-08-14
+[2026-08-14 21:44:57]     https://www.sec.gov/Archives/edgar/data/1130598/000110465926097226/tm2623190d1_8k.htm
+[2026-08-14 21:44:58]     ✉ alert sent (8k_202)
+[2026-08-14 21:44:58]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001130598.json'
+[2026-08-14 21:45:05] === EDGAR POLL complete. Fetched 100 companies, 3 new filings. ===
