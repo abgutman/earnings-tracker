@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-14T17:10:02",
+ "generated_at": "2026-08-14T18:07:45",
  "items": [
+  {
+   "uuid": "7aef9c14-3d4f-3223-81b0-b7509fee5928",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Market Chatter: Google, Peacock, Apple Convince Maryland Court to Strike Down Ad Tax",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/media-advertising/articles/market-chatter-google-peacock-apple-174611736.html",
+   "published_unix": 1786729571,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-14T18:07:22"
+  },
   {
    "uuid": "0f045d07-81b6-36df-a256-cd8b488d7eb8",
    "tickers": [
