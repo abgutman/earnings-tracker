@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-14T16:04:39",
+ "generated_at": "2026-08-14T17:10:02",
  "items": [
   {
    "uuid": "0f045d07-81b6-36df-a256-cd8b488d7eb8",
@@ -2397,19 +2397,6 @@
    "published_unix": 1784145720,
    "source_type": "yahoo",
    "captured_at": "2026-07-19T09:06:42"
-  },
-  {
-   "uuid": "c2ae6591-c7c6-3779-9af5-886441ef3c78",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "American Water Builds Workforce of Tomorrow through Training, Education and Career Pathways",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/small-business/articles/american-water-builds-workforce-tomorrow-170200216.html",
-   "published_unix": 1784134920,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-19T09:06:24"
   }
  ]
 }
