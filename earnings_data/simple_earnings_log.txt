@@ -2702,3 +2702,8 @@
 [2026-08-14 20:38:26]     https://www.sec.gov/Archives/edgar/data/1477845/000110465926097228/anvs-20260630x10q.htm
 [2026-08-14 20:38:26]     ✉ alert sent (10q)
 [2026-08-14 20:38:26] === EDGAR FIREHOSE complete. 5 new detections. ===
+[2026-08-14 21:01:46] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-14 21:02:06]   firehose: 8-K feed fetch failed (rc=28)
+[2026-08-14 21:02:26]   firehose: 10-Q feed fetch failed (rc=28)
+[2026-08-14 21:02:26]   firehose: 100 watched CIKs, 0 total feed entries
+[2026-08-14 21:02:26] === EDGAR FIREHOSE complete. 0 new detections. ===
