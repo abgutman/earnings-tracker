@@ -1,15 +1,5 @@
 {
  "_comment": "Confirmed upcoming earnings dates. Populated manually + by future auto-extraction from save-the-date press releases. Each entry: release_date (YYYY-MM-DD), optionally call_date, call_time (HH:MM ET), source_url, source_title.",
- "WHK": {
-  "release_date": "2026-08-13",
-  "call_date": null,
-  "call_time": null,
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/whitehawk-minerals-corp-announces-second-210000526.html",
-  "source_title": "WhiteHawk Minerals Corp. Announces Second Quarter 2026 Earnings Conference Call for August 13, 2026",
-  "source_publisher": "Business Wire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-14T23:38:07"
- },
  "TOL": {
   "release_date": "2026-08-19",
   "call_date": null,
@@ -19,16 +9,6 @@
   "source_publisher": "GlobeNewswire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-07-29T23:45:56"
- },
- "ISSC": {
-  "release_date": "2026-08-13",
-  "call_date": null,
-  "call_time": "10:00 ET",
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/innovative-aerosystems-announces-third-quarter-130000234.html",
-  "source_title": "Innovative Aerosystems Announces Third Quarter 2026 Results Conference Call and Webcast Date",
-  "source_publisher": "Business Wire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-07-30T23:45:21"
  },
  "CPB": {
   "release_date": "2026-09-03",

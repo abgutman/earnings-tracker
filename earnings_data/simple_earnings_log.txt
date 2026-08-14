@@ -2744,3 +2744,11 @@
 [2026-08-14 22:08:54]   firehose: 10-Q feed fetch failed (rc=28)
 [2026-08-14 22:08:54]   firehose: 100 watched CIKs, 100 total feed entries
 [2026-08-14 22:08:54] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-08-14 23:03:45] === CHECK-10Q: scanning for pending 10-Q filings ===
+[2026-08-14 23:03:46]   ✓ 10-Q found for HSDT (Solana Co) filed 2026-08-14
+[2026-08-14 23:03:46]     https://www.sec.gov/Archives/edgar/data/1610853/000161085326000007/hsdt-20260630.htm
+[2026-08-14 23:03:46]   ✓ 10-Q found for ANVS (Annovis Bio, Inc.) filed 2026-08-14
+[2026-08-14 23:03:46]     https://www.sec.gov/Archives/edgar/data/1477845/000110465926097228/anvs-20260630x10q.htm
+[2026-08-14 23:03:46]   ✓ 10-Q found for TRAW (Traws Pharma, Inc.) filed 2026-08-14
+[2026-08-14 23:03:46]     https://www.sec.gov/Archives/edgar/data/1130598/000110465926097261/traw-20260630x10q.htm
+[2026-08-14 23:03:46] === CHECK-10Q complete. Checked 6, found 3, cleared 0 stale. ===

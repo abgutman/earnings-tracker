@@ -1646,8 +1646,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1610853/000161085326000005/hsdt-20260814.htm",
   "last_detected_at": "2026-08-14T21:44:29.162040+00:00",
   "last_8k_detected_at": "2026-08-14T21:44:29.162040+00:00",
-  "pending_10q_since": "2026-08-14",
-  "last_10q_url": null
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1610853/000161085326000007/hsdt-20260630.htm"
  },
  "RPMT": {
   "ticker": "RPMT",
@@ -1714,8 +1713,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1477845/000110465926097091/tm2623272d1_8k.htm",
   "last_detected_at": "2026-08-14T21:44:29.162040+00:00",
   "last_8k_detected_at": "2026-08-14T21:44:29.162040+00:00",
-  "pending_10q_since": "2026-08-14",
-  "last_10q_url": null
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1477845/000110465926097228/anvs-20260630x10q.htm"
  },
  "STIM": {
   "ticker": "STIM",
@@ -1874,8 +1872,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1130598/000110465926097226/tm2623190d1_8k.htm",
   "last_detected_at": "2026-08-14T21:44:29.162040+00:00",
   "last_8k_detected_at": "2026-08-14T21:44:29.162040+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-08-14"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1130598/000110465926097261/traw-20260630x10q.htm"
  },
  "TOPP": {
   "ticker": "TOPP",
