@@ -2657,3 +2657,8 @@
 [2026-08-14 17:02:56]     https://www.sec.gov/Archives/edgar/data/1391933/000092708926000151/qnto20260630_10q.htm
 [2026-08-14 17:02:57]     ✉ alert sent (10q)
 [2026-08-14 17:02:57] === EDGAR FIREHOSE complete. 1 new detections. ===
+[2026-08-14 17:59:13] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-14 17:59:15]   firehose: 8-K feed — 100 entries parsed
+[2026-08-14 17:59:25]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-14 17:59:25]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-08-14 17:59:25] === EDGAR FIREHOSE complete. 0 new detections. ===
