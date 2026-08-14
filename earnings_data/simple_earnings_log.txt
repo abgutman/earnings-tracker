@@ -2707,3 +2707,16 @@
 [2026-08-14 21:02:26]   firehose: 10-Q feed fetch failed (rc=28)
 [2026-08-14 21:02:26]   firehose: 100 watched CIKs, 0 total feed entries
 [2026-08-14 21:02:26] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-08-14 21:33:10] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-14 21:33:19]   firehose: 8-K feed — 100 entries parsed
+[2026-08-14 21:33:20]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-14 21:33:20]   firehose: all 10-Q entries newer than watermark — fetching page 2
+[2026-08-14 21:33:20]   firehose: 10-Q page 2 — 100 entries
+[2026-08-14 21:33:20]   firehose: 100 watched CIKs, 300 total feed entries
+[2026-08-14 21:33:20]   ★ NEW 10q for TRAW (Traws Pharma, Inc.) filed 2026-08-14
+[2026-08-14 21:33:20]     https://www.sec.gov/Archives/edgar/data/1130598/000110465926097261/traw-20260630x10q.htm
+[2026-08-14 21:33:22]     ✉ alert sent (10q)
+[2026-08-14 21:33:22]   ★ NEW 10q for HSDT (Solana Co) filed 2026-08-14
+[2026-08-14 21:33:22]     https://www.sec.gov/Archives/edgar/data/1610853/000161085326000007/hsdt-20260630.htm
+[2026-08-14 21:33:23]     ✉ alert sent (10q)
+[2026-08-14 21:33:23] === EDGAR FIREHOSE complete. 2 new detections. ===
