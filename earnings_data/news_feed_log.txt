@@ -4798,3 +4798,29 @@
 [2026-08-14 23:35:44]   Toll Brothers [yahoo_search]: 2 fetched, 0 new
 [2026-08-14 23:35:45]   Brandywine Realty Trust [yahoo_search]: 4 fetched, 1 new
 [2026-08-14 23:35:45] === Done. 177 new items, 187 total in 720h window ===
+[2026-08-15 01:45:59] === Local news feed poll start ===
+[2026-08-15 01:45:59] 22 active entities
+[2026-08-15 01:45:59]   Comcast [yahoo_search]: 2 fetched, 0 new
+[2026-08-15 01:46:00]   Aramark [yahoo_search]: 5 fetched, 0 new
+[2026-08-15 01:46:00]   Cencora [yahoo_search]: 1 fetched, 0 new
+[2026-08-15 01:46:00]   FMC Corporation [yahoo_search]: 1 fetched, 0 new
+[2026-08-15 01:46:01]   Five Below [yahoo_search]: 2 fetched, 0 new
+[2026-08-15 01:46:01]   Campbell's [yahoo_search]: 1 fetched, 0 new
+[2026-08-15 01:46:01]   Burlington Stores [yahoo_search]: 2 fetched, 0 new
+[2026-08-15 01:46:02]   American Water [yahoo_search]: 6 fetched, 0 new
+[2026-08-15 01:46:02]   Essential Utilities [yahoo_search]: 3 fetched, 0 new
+[2026-08-15 01:46:03]   Independence Blue Cross [wire_page]: 25 fetched, 25 new
+[2026-08-15 01:46:04]   Vanguard [wire_page]: 6 fetched, 6 new
+[2026-08-15 01:46:05]   Wawa [wire_page]: 6 fetched, 6 new
+[2026-08-15 01:46:07]   Gopuff [wire_page]: 3 fetched, 3 new
+[2026-08-15 01:46:08]   PJM Interconnection [wire_page]: 25 fetched, 23 new
+[2026-08-15 01:46:08]   Franklin Biolabs [rss]: 10 fetched, 7 new
+[2026-08-15 01:46:10]   QVC Group [wire_page]: 25 fetched, 25 new
+[2026-08-15 01:46:11]   Spark Therapeutics [wire_page]: 22 fetched, 22 new
+[2026-08-15 01:46:12]   GEMMA Biotherapeutics [wire_page]: 9 fetched, 9 new
+[2026-08-15 01:46:13]   David's Bridal [wire_page]: 25 fetched, 25 new
+[2026-08-15 01:46:15]   TD Bank [wire_page]: 25 fetched, 25 new
+[2026-08-15 01:46:15]   Toll Brothers [yahoo_search]: 2 fetched, 0 new
+[2026-08-15 01:46:16]   Brandywine Realty Trust: ticker BDN did not resolve — skipping (avoids generic bucket)
+[2026-08-15 01:46:16]   Brandywine Realty Trust [yahoo_search]: 0 fetched, 0 new
+[2026-08-15 01:46:16] === Done. 176 new items, 187 total in 720h window ===
