@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-17T18:56:35",
+ "generated_at": "2026-08-17T19:40:59",
  "items": [
+  {
+   "uuid": "166df418-3ef2-33d8-ac61-03d40d54f95a",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces Rivercrest Model Home Grand Opening in Reno, Nevada",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-rivercrest-model-191400090.html",
+   "published_unix": 1786994040,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-17T19:40:58"
+  },
   {
    "uuid": "6f8ead28-a98d-34aa-897e-61a551689680",
    "tickers": [
