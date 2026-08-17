@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-17T13:04:25",
+ "generated_at": "2026-08-17T13:51:44",
  "items": [
+  {
+   "uuid": "84623589-1143-30e9-b138-d0a9b7a1a07d",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores",
+   "title": "UBS Adjusts Price Target on Burlington Stores to $440 From $435, Maintains Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-price-target-burlington-133915749.html",
+   "published_unix": 1786973955,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-17T13:51:25"
+  },
   {
    "uuid": "ce061d8e-fe14-3d76-9745-1d1109ca8065",
    "tickers": [
