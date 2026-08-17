@@ -1,6 +1,71 @@
 {
- "generated_at": "2026-08-17T19:40:59",
+ "generated_at": "2026-08-17T20:42:30",
  "items": [
+  {
+   "uuid": "75696ff1-52cc-3028-9e6d-f644f82a3f65",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "California American Water Completes $675,000 Infrastructure Upgrade in its San Diego District Water System",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/california-american-water-completes-675-200800493.html",
+   "published_unix": 1786997280,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-17T20:42:11"
+  },
+  {
+   "uuid": "d02e6cbe-6429-3c59-8cce-bb6b0d02c85b",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces Model Home Grand Opening at Franklin Ridge Community in Franklin, Tennessee",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-model-home-200400323.html",
+   "published_unix": 1786997040,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-17T20:42:30"
+  },
+  {
+   "uuid": "9b43d954-a131-309b-b25a-06bf79af41d4",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "California American Water Announces $5,000 Grant to Ventura County Family Justice Center Foundation",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/california-american-water-announces-5-195500564.html",
+   "published_unix": 1786996500,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-17T20:42:11"
+  },
+  {
+   "uuid": "d978e5b2-05cf-34c7-8062-31edfda03c75",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Charitable Foundation Awards $75,000 in Workforce Readiness and STEM Education Grants Across New Jersey",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/american-water-charitable-foundation-awards-194800629.html",
+   "published_unix": 1786996080,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-17T20:42:11"
+  },
+  {
+   "uuid": "4febfaa8-afe6-30ea-916e-f48b28710271",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "California American Water Completes $1 Million Water Main Upgrade to Strengthen Reliability in San Diego District",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/california-american-water-completes-1-194100545.html",
+   "published_unix": 1786995660,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-17T20:42:11"
+  },
   {
    "uuid": "166df418-3ef2-33d8-ac61-03d40d54f95a",
    "tickers": [
