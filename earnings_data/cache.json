@@ -115,15 +115,15 @@
   "name": "BRANDYWINE REALTY TRUST",
   "cik": "0000790816",
   "priority_tier": 1,
-  "last_event_date": "2026-07-28T15:55:07.000Z",
-  "last_event_title": "10q filed 2026-07-28",
+  "last_event_date": "2026-08-17T07:56:42.000Z",
+  "last_event_title": "8k_701 filed 2026-08-17",
   "last_event_source": "edgar",
-  "last_event_url": "https://www.sec.gov/Archives/edgar/data/790816/000079081626000029/bdn-20260630.htm",
+  "last_event_url": "https://www.sec.gov/Archives/edgar/data/790816/000119312526353237/d386288d8k.htm",
   "last_event_publisher": "GlobeNewswire",
   "edgar_accession": "0000790816-26-000014",
-  "last_8k_date": "2026-07-23",
-  "last_8k_accession": "0000790816-26-000025",
-  "last_8k_url": "https://www.sec.gov/Archives/edgar/data/790816/000079081626000025/bdn-20260722.htm",
+  "last_8k_date": "2026-08-17",
+  "last_8k_accession": "0001193125-26-353237",
+  "last_8k_url": "https://www.sec.gov/Archives/edgar/data/790816/000119312526353237/d386288d8k.htm",
   "history": [
    {
     "date": "2026-04-23T15:22:16.000Z",
@@ -132,13 +132,14 @@
     "url": "https://www.sec.gov/Archives/edgar/data/790816/000079081626000014/bdn-20260422.htm"
    }
   ],
-  "last_detected_date": "2026-07-28",
-  "last_detected_accession": "0000790816-26-000029",
-  "last_detected_type": "10q",
-  "last_detected_url": "https://www.sec.gov/Archives/edgar/data/790816/000079081626000029/bdn-20260630.htm",
-  "last_detected_at": "2026-07-28T19:56:13.915782+00:00",
-  "last_8k_detected_at": "2026-07-23T19:50:36.242660+00:00",
-  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/790816/000079081626000029/bdn-20260630.htm"
+  "last_detected_date": "2026-08-17",
+  "last_detected_accession": "0001193125-26-353237",
+  "last_detected_type": "8k_701",
+  "last_detected_url": "https://www.sec.gov/Archives/edgar/data/790816/000119312526353237/d386288d8k.htm",
+  "last_detected_at": "2026-08-17T12:15:47.535820+00:00",
+  "last_8k_detected_at": "2026-08-17T12:15:47.535820+00:00",
+  "last_10q_url": null,
+  "pending_10q_since": "2026-08-17"
  },
  "IRT": {
   "ticker": "IRT",

@@ -2765,3 +2765,11 @@
 [2026-08-17 11:53:16]   firehose: 10-Q feed — 100 entries parsed
 [2026-08-17 11:53:16]   firehose: 100 watched CIKs, 200 total feed entries
 [2026-08-17 11:53:16] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-08-17 12:15:47] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-17 12:15:57]   firehose: 8-K feed — 100 entries parsed
+[2026-08-17 12:15:58]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-17 12:15:58]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-08-17 12:15:58]   ★ NEW 8k_701 for BDN (BRANDYWINE REALTY TRUST) filed 2026-08-17
+[2026-08-17 12:15:58]     https://www.sec.gov/Archives/edgar/data/790816/000119312526353237/d386288d8k.htm
+[2026-08-17 12:16:02]     ✉ alert sent (8k_701)
+[2026-08-17 12:16:02] === EDGAR FIREHOSE complete. 1 new detections. ===
