@@ -2026,8 +2026,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1468929/000149315226038637/form8-k.htm",
   "last_detected_at": "2026-08-17T13:08:11.190630+00:00",
   "last_8k_detected_at": "2026-08-17T13:08:11.190630+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-08-17"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1468929/000149315226038555/form10-q.htm"
  },
  "ESMC": {
   "ticker": "ESMC",

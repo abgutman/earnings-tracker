@@ -2870,3 +2870,7 @@
 [2026-08-17 22:09:41]   firehose: 10-Q feed — 100 entries parsed
 [2026-08-17 22:09:41]   firehose: 100 watched CIKs, 200 total feed entries
 [2026-08-17 22:09:41] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-08-17 23:03:32] === CHECK-10Q: scanning for pending 10-Q filings ===
+[2026-08-17 23:03:33]   ✓ 10-Q found for NXGL (NEXGEL, INC.) filed 2026-08-17
+[2026-08-17 23:03:33]     https://www.sec.gov/Archives/edgar/data/1468929/000149315226038555/form10-q.htm
+[2026-08-17 23:03:33] === CHECK-10Q complete. Checked 6, found 1, cleared 0 stale. ===
