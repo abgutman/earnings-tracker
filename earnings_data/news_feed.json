@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-17T16:44:24",
+ "generated_at": "2026-08-17T17:43:31",
  "items": [
+  {
+   "uuid": "6f8ead28-a98d-34aa-897e-61a551689680",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Charitable Foundation & Illinois American Water Proudly Support United Way Organizations through State Strategic Impact Grants",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/american-water-charitable-foundation-illinois-163500736.html",
+   "published_unix": 1786984500,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-17T17:42:49"
+  },
   {
    "uuid": "84623589-1143-30e9-b138-d0a9b7a1a07d",
    "tickers": [
