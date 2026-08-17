@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-08-17T11:38:48",
+ "generated_at": "2026-08-17T13:04:25",
  "items": [
+  {
+   "uuid": "ce061d8e-fe14-3d76-9745-1d1109ca8065",
+   "tickers": [
+    "BDN"
+   ],
+   "company": "Brandywine Realty Trust",
+   "title": "Brandywine Realty Trust Announces $100 Million Cash Tender Offers for Notes",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/brandywine-realty-trust-announces-100-122451517.html",
+   "published_unix": 1786969491,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-17T13:04:25"
+  },
+  {
+   "uuid": "6512b725-1ca6-399b-b94c-29ecee9f6ddc",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water, Essential Utilities Clear HSR Waiting Period for Proposed Merger",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/american-water-essential-utilities-clear-115812644.html",
+   "published_unix": 1786967892,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-17T13:03:58"
+  },
   {
    "uuid": "f2d10b1c-0b56-3efa-84d4-51527025abea",
    "tickers": [
