@@ -2773,3 +2773,11 @@
 [2026-08-17 12:15:58]     https://www.sec.gov/Archives/edgar/data/790816/000119312526353237/d386288d8k.htm
 [2026-08-17 12:16:02]     ✉ alert sent (8k_701)
 [2026-08-17 12:16:02] === EDGAR FIREHOSE complete. 1 new detections. ===
+[2026-08-17 13:08:11] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-17 13:08:13]   firehose: 8-K feed — 100 entries parsed
+[2026-08-17 13:08:31]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-17 13:08:31]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-08-17 13:08:32]   ★ NEW 8k_202 for NXGL (NEXGEL, INC.) filed 2026-08-17
+[2026-08-17 13:08:32]     https://www.sec.gov/Archives/edgar/data/1468929/000149315226038637/form8-k.htm
+[2026-08-17 13:08:33]     ✉ alert sent (8k_202)
+[2026-08-17 13:08:33] === EDGAR FIREHOSE complete. 1 new detections. ===
