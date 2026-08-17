@@ -2752,3 +2752,11 @@
 [2026-08-14 23:03:46]   ✓ 10-Q found for TRAW (Traws Pharma, Inc.) filed 2026-08-14
 [2026-08-14 23:03:46]     https://www.sec.gov/Archives/edgar/data/1130598/000110465926097261/traw-20260630x10q.htm
 [2026-08-14 23:03:46] === CHECK-10Q complete. Checked 6, found 3, cleared 0 stale. ===
+[2026-08-17 11:33:20] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-17 11:33:21]   firehose: 8-K feed — 100 entries parsed
+[2026-08-17 11:33:22]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-17 11:33:22]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-08-17 11:33:22]   ★ NEW 10q for NXGL (NEXGEL, INC.) filed 2026-08-17
+[2026-08-17 11:33:22]     https://www.sec.gov/Archives/edgar/data/1468929/000149315226038555/form10-q.htm
+[2026-08-17 11:33:23]     ✉ alert sent (10q)
+[2026-08-17 11:33:23] === EDGAR FIREHOSE complete. 1 new detections. ===
