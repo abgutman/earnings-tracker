@@ -232,8 +232,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/59558/000119312526341190/d104957d8k.htm",
   "last_detected_at": "2026-08-10T11:54:32.086976+00:00",
   "last_8k_detected_at": "2026-08-10T11:54:32.086976+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-08-10"
+  "last_10q_url": null
  },
  "BSY": {
   "ticker": "BSY",
