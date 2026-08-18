@@ -1,6 +1,45 @@
 {
- "generated_at": "2026-08-18T13:06:32",
+ "generated_at": "2026-08-18T13:55:48",
  "items": [
+  {
+   "uuid": "4f619a45-19a5-3467-a9aa-5827f05fdf0e",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Launches Xfinity Shield Platform for Home Protection",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/technology/articles/comcast-launches-xfinity-shield-platform-134945942.html",
+   "published_unix": 1787060985,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-18T13:55:19"
+  },
+  {
+   "uuid": "711a3f8e-566c-39de-ae5d-3634f1542b3d",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Launches Xfinity Shield, Redefining Intelligent Home Protection",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/ai/articles/comcast-launches-xfinity-shield-redefining-133000869.html",
+   "published_unix": 1787059800,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-18T13:55:19"
+  },
+  {
+   "uuid": "e791786b-dee3-3998-9508-4af53435551a",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Contributes $55,000 in Grants to Northwest Indiana Nonprofits to Expand Digital Skills Training",
+   "publisher": "ACCESS Newswire",
+   "link": "https://finance.yahoo.com/technology/articles/comcast-contributes-55-000-grants-133000618.html",
+   "published_unix": 1787059800,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-18T13:55:19"
+  },
   {
    "uuid": "2bfb378f-6637-4a14-914e-15907db9112f",
    "tickers": [
