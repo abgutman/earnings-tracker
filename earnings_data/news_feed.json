@@ -1,6 +1,45 @@
 {
- "generated_at": "2026-08-18T20:39:32",
+ "generated_at": "2026-08-18T21:36:42",
  "items": [
+  {
+   "uuid": "6fd70b4e-f385-3021-92be-ae24be3bed2a",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers: Fiscal Q3 Earnings Snapshot",
+   "publisher": "Associated Press",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-fiscal-q3-earnings-204009066.html",
+   "published_unix": 1787085609,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-18T21:36:42"
+  },
+  {
+   "uuid": "df587464-fc67-3c86-8842-ff47c055a3ff",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Fiscal Q3 Earnings, Revenue Decline",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-fiscal-q3-earnings-203821399.html",
+   "published_unix": 1787085501,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-18T21:36:42"
+  },
+  {
+   "uuid": "5d1af9e5-3396-3971-8236-a4bdeef2cc83",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Reports FY 2026 Third Quarter Results",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-reports-fy-2026-203000315.html",
+   "published_unix": 1787085000,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-18T21:36:42"
+  },
   {
    "uuid": "4e68debc-4a79-3c96-8660-9b01946fbe7e",
    "tickers": [
