@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-18T11:38:48",
+ "generated_at": "2026-08-18T13:06:32",
  "items": [
+  {
+   "uuid": "2bfb378f-6637-4a14-914e-15907db9112f",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Home Depot & Toll Brothers earnings, Housing starts & building permits data: What to watch on Tuesday",
+   "publisher": "Yahoo Finance Video",
+   "link": "https://finance.yahoo.com/video/home-depot-toll-brothers-earnings-120000375.html",
+   "published_unix": 1787054400,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-18T13:06:32"
+  },
   {
    "uuid": "2a4c3315-1a2b-36c3-81b8-d8b5f97f825a",
    "tickers": [
