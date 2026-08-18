@@ -2961,3 +2961,8 @@
 [2026-08-18 20:53:09]     https://www.sec.gov/Archives/edgar/data/794170/000079417026000096/tol-20260818.htm
 [2026-08-18 20:53:11]     ✉ alert sent (8k_202)
 [2026-08-18 20:53:11] === EDGAR FIREHOSE complete. 1 new detections. ===
+[2026-08-18 21:10:22] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-18 21:10:24]   firehose: 8-K feed — 100 entries parsed
+[2026-08-18 21:10:25]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-18 21:10:25]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-08-18 21:10:25] === EDGAR FIREHOSE complete. 0 new detections. ===
