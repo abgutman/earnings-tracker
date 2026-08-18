@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-18T18:55:07",
+ "generated_at": "2026-08-18T19:39:51",
  "items": [
+  {
+   "uuid": "4e68debc-4a79-3c96-8660-9b01946fbe7e",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Charitable Foundation and California American Water Award $20,000 Workforce Development Grant to Resources for Independent Living",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/american-water-charitable-foundation-california-190300438.html",
+   "published_unix": 1787079780,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-18T19:39:25"
+  },
   {
    "uuid": "0d41c97b-0889-35f5-8314-3c28be72e4d7",
    "tickers": [
