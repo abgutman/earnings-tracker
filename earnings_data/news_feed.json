@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-18T15:44:59",
+ "generated_at": "2026-08-18T16:47:19",
  "items": [
+  {
+   "uuid": "e1983506-6145-3e2c-8fb4-5ccb805445ab",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "West Virginia American Water Announces $166,000 Infrastructure Project in Fayetteville",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/economy/policy/articles/west-virginia-american-water-announces-153300803.html",
+   "published_unix": 1787067180,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-18T16:47:01"
+  },
   {
    "uuid": "4f619a45-19a5-3467-a9aa-5827f05fdf0e",
    "tickers": [
