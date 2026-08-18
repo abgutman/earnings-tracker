@@ -17,6 +17,15 @@
    "url": "https://finance.yahoo.com/m/c562a0e9-95f4-36cf-b335-c8b0dde70f29/ametek-%28ame%29-q2-2026-earnings.html"
   }
  ],
+ "ARMK": [
+  {
+   "date_str": "2026-08-18",
+   "found_at": "2026-08-18T16:01:16",
+   "source": "Motley Fool",
+   "title": "Aramark (ARMK) Q3 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/m/b2d5d8b6-7831-35c6-8908-4860a745085c/aramark-%28armk%29-q3-2026.html"
+  }
+ ],
  "AVTR": [
   {
    "date_str": "2026-08-10",
@@ -272,6 +281,15 @@
    "source": "Motley Fool",
    "title": "Radian (RDN) Q2 2026 Earnings Call Transcript",
    "url": "https://finance.yahoo.com/m/b666aa81-214f-3bbd-82d1-160c5819bf85/radian-%28rdn%29-q2-2026-earnings.html"
+  }
+ ],
+ "STIM": [
+  {
+   "date_str": "2026-08-18",
+   "found_at": "2026-08-18T16:01:35",
+   "source": "Motley Fool",
+   "title": "Neuronetics (STIM) Q2 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/m/27f31b78-3028-3770-8659-0b93e1105148/neuronetics-%28stim%29-q2-2026.html"
   }
  ],
  "TFX": [
