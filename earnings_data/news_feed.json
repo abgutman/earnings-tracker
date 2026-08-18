@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-18T16:47:19",
+ "generated_at": "2026-08-18T17:41:37",
  "items": [
+  {
+   "uuid": "0d41c97b-0889-35f5-8314-3c28be72e4d7",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast's Peacock Raises Prices for Subscription Plans",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-apos-peacock-raises-prices-165405503.html",
+   "published_unix": 1787072045,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-18T17:41:20"
+  },
   {
    "uuid": "e1983506-6145-3e2c-8fb4-5ccb805445ab",
    "tickers": [
