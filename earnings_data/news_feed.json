@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-18T01:47:14",
+ "generated_at": "2026-08-18T11:38:48",
  "items": [
+  {
+   "uuid": "2a4c3315-1a2b-36c3-81b8-d8b5f97f825a",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Earnings Will Offer Read on Luxury Home Demand",
+   "publisher": "Barrons.com",
+   "link": "https://finance.yahoo.com/m/2a4c3315-1a2b-36c3-81b8-d8b5f97f825a/toll-brothers-earnings-will.html",
+   "published_unix": 1787036400,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-18T11:38:48"
+  },
   {
    "uuid": "75696ff1-52cc-3028-9e6d-f644f82a3f65",
    "tickers": [
