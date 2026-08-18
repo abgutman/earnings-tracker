@@ -5149,3 +5149,29 @@
 [2026-08-17 23:35:19]   Toll Brothers [yahoo_search]: 4 fetched, 0 new
 [2026-08-17 23:35:19]   Brandywine Realty Trust [yahoo_search]: 6 fetched, 1 new
 [2026-08-17 23:35:19] === Done. 177 new items, 190 total in 720h window ===
+[2026-08-18 01:46:53] === Local news feed poll start ===
+[2026-08-18 01:46:53] 22 active entities
+[2026-08-18 01:46:53]   Comcast: ticker CMCSA did not resolve — skipping (avoids generic bucket)
+[2026-08-18 01:46:53]   Comcast [yahoo_search]: 0 fetched, 0 new
+[2026-08-18 01:46:54]   Aramark [yahoo_search]: 3 fetched, 0 new
+[2026-08-18 01:46:54]   Cencora [yahoo_search]: 1 fetched, 0 new
+[2026-08-18 01:46:55]   FMC Corporation [yahoo_search]: 1 fetched, 0 new
+[2026-08-18 01:46:55]   Five Below [yahoo_search]: 2 fetched, 0 new
+[2026-08-18 01:46:55]   Campbell's [yahoo_search]: 1 fetched, 0 new
+[2026-08-18 01:46:56]   Burlington Stores [yahoo_search]: 2 fetched, 0 new
+[2026-08-18 01:46:56]   American Water [yahoo_search]: 9 fetched, 0 new
+[2026-08-18 01:46:57]   Essential Utilities [yahoo_search]: 4 fetched, 0 new
+[2026-08-18 01:46:58]   Independence Blue Cross [wire_page]: 25 fetched, 25 new
+[2026-08-18 01:47:00]   Vanguard [wire_page]: 6 fetched, 6 new
+[2026-08-18 01:47:02]   Wawa [wire_page]: 6 fetched, 6 new
+[2026-08-18 01:47:03]   Gopuff [wire_page]: 3 fetched, 3 new
+[2026-08-18 01:47:05]   PJM Interconnection [wire_page]: 25 fetched, 23 new
+[2026-08-18 01:47:05]   Franklin Biolabs [rss]: 10 fetched, 7 new
+[2026-08-18 01:47:07]   QVC Group [wire_page]: 25 fetched, 25 new
+[2026-08-18 01:47:09]   Spark Therapeutics [wire_page]: 22 fetched, 22 new
+[2026-08-18 01:47:10]   GEMMA Biotherapeutics [wire_page]: 9 fetched, 9 new
+[2026-08-18 01:47:12]   David's Bridal [wire_page]: 25 fetched, 25 new
+[2026-08-18 01:47:13]   TD Bank [wire_page]: 25 fetched, 25 new
+[2026-08-18 01:47:14]   Toll Brothers [yahoo_search]: 4 fetched, 0 new
+[2026-08-18 01:47:14]   Brandywine Realty Trust [yahoo_search]: 6 fetched, 1 new
+[2026-08-18 01:47:14] === Done. 177 new items, 190 total in 720h window ===
