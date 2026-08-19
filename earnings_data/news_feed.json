@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T11:38:00",
+ "generated_at": "2026-08-19T13:07:24",
  "items": [
   {
    "uuid": "be103ad0-fdf2-3acb-8da3-a0d50f4063c6",
@@ -2592,19 +2592,6 @@
    "published_unix": 1784554380,
    "source_type": "yahoo",
    "captured_at": "2026-07-20T16:00:59"
-  },
-  {
-   "uuid": "2cd188b3-6b1f-3075-a996-a575091bab08",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Xfinity and Comcast Business High-Speed Internet Now Available to More Than 4,000 Homes and Businesses in Highlands County, Florida",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/articles/xfinity-comcast-business-high-speed-130000112.html",
-   "published_unix": 1784552400,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-20T13:16:40"
   }
  ]
 }
