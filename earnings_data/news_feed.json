@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-19T15:45:01",
+ "generated_at": "2026-08-19T16:45:42",
  "items": [
+  {
+   "uuid": "ede33a79-e2b1-302f-a072-922838d0a9e2",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "Five Below to Sustain Sales Momentum, Raise Guidance, UBS Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-sustain-sales-momentum-162120810.html",
+   "published_unix": 1787156480,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-19T16:45:28"
+  },
   {
    "uuid": "3e234768-5094-3504-88cb-50ba0efef17c",
    "tickers": [
@@ -2540,19 +2553,6 @@
    "published_unix": 1784577900,
    "source_type": "yahoo",
    "captured_at": "2026-07-20T22:12:16"
-  },
-  {
-   "uuid": "dc3af169-ab7b-3a67-9162-790dc513059c",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast Expands Xfinity Coverage in Florida, Georgia",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/technology/articles/comcast-expands-xfinity-coverage-florida-162712388.html",
-   "published_unix": 1784564832,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-20T18:18:18"
   }
  ]
 }
