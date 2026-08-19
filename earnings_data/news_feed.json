@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-19T13:57:10",
+ "generated_at": "2026-08-19T14:52:21",
  "items": [
+  {
+   "uuid": "3e234768-5094-3504-88cb-50ba0efef17c",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "West Virginia American Water Announces $512,000 Infrastructure Upgrade on Fayette Avenue",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/economy/policy/articles/west-virginia-american-water-announces-141400620.html",
+   "published_unix": 1787148840,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-19T14:52:00"
+  },
   {
    "uuid": "be103ad0-fdf2-3acb-8da3-a0d50f4063c6",
    "tickers": [
@@ -2551,32 +2564,6 @@
    "publisher": "MT Newswires",
    "link": "https://finance.yahoo.com/media-advertising/articles/comcast-apos-universal-pictures-nets-151135982.html",
    "published_unix": 1784560295,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-20T16:00:56"
-  },
-  {
-   "uuid": "c65c908d-0614-30c7-8f52-38723e666278",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Missouri American Water to Host Ribbon Cutting for Refurbished Elevated Storage Tank",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/small-business/articles/missouri-american-water-host-ribbon-141100520.html",
-   "published_unix": 1784556660,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-20T16:00:59"
-  },
-  {
-   "uuid": "18e8b0e1-a83a-39a0-b348-021d8057dceb",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Xfinity Delivers Reliable, High-Speed Internet to Hancock and Glascock Counties, Georgia",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/articles/xfinity-delivers-reliable-high-speed-140000107.html",
-   "published_unix": 1784556000,
    "source_type": "yahoo",
    "captured_at": "2026-07-20T16:00:56"
   }
