@@ -2991,3 +2991,8 @@
 [2026-08-19 11:33:15]   firehose: 10-Q feed — 56 entries parsed
 [2026-08-19 11:33:15]   firehose: 100 watched CIKs, 156 total feed entries
 [2026-08-19 11:33:15] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-08-19 11:54:04] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-19 11:54:06]   firehose: 8-K feed — 100 entries parsed
+[2026-08-19 11:54:08]   firehose: 10-Q feed — 56 entries parsed
+[2026-08-19 11:54:08]   firehose: 100 watched CIKs, 156 total feed entries
+[2026-08-19 11:54:08] === EDGAR FIREHOSE complete. 0 new detections. ===
