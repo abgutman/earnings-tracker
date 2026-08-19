@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T14:52:21",
+ "generated_at": "2026-08-19T15:45:01",
  "items": [
   {
    "uuid": "3e234768-5094-3504-88cb-50ba0efef17c",
@@ -2553,19 +2553,6 @@
    "published_unix": 1784564832,
    "source_type": "yahoo",
    "captured_at": "2026-07-20T18:18:18"
-  },
-  {
-   "uuid": "1c7fca84-d4a5-3141-a4cd-4a91c3419366",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast's Universal Pictures Nets $264.1 Million Global Opening for 'The Odyssey'",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-apos-universal-pictures-nets-151135982.html",
-   "published_unix": 1784560295,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-20T16:00:56"
   }
  ]
 }
