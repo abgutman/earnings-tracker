@@ -3060,3 +3060,11 @@
 [2026-08-19 20:37:50]   firehose: 10-Q feed fetch failed (rc=28)
 [2026-08-19 20:37:50]   firehose: 100 watched CIKs, 100 total feed entries
 [2026-08-19 20:37:50] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-08-19 21:02:23] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-19 21:02:25]   firehose: 8-K feed — 100 entries parsed
+[2026-08-19 21:02:41]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-19 21:02:41]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-08-19 21:02:41]   ★ NEW 10q for BTCS (BTCS Inc.) filed 2026-08-19
+[2026-08-19 21:02:41]     https://www.sec.gov/Archives/edgar/data/1436229/000149315226039249/form10-q.htm
+[2026-08-19 21:02:42]     ✉ alert sent (10q)
+[2026-08-19 21:02:42] === EDGAR FIREHOSE complete. 1 new detections. ===
