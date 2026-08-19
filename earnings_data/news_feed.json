@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T13:07:24",
+ "generated_at": "2026-08-19T13:57:10",
  "items": [
   {
    "uuid": "be103ad0-fdf2-3acb-8da3-a0d50f4063c6",
@@ -2579,19 +2579,6 @@
    "published_unix": 1784556000,
    "source_type": "yahoo",
    "captured_at": "2026-07-20T16:00:56"
-  },
-  {
-   "uuid": "2dc2ed7e-e97d-3cc5-ad29-370ed808762a",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "American Water Joins Dialogue at 2026 NARUC Summer Policy Summit",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/economy/policy/articles/american-water-joins-dialogue-2026-133300674.html",
-   "published_unix": 1784554380,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-20T16:00:59"
   }
  ]
 }
