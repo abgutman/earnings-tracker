@@ -4194,3 +4194,53 @@
 [2026-08-18 23:56:38] Saved transcripts.json (42 tickers with entries)
 [2026-08-18 23:56:38] === Done. 5 new transcript links found. ===
 
+[2026-08-19 16:01:47] === Fool transcript harvest start (dry_run=False) ===
+[2026-08-19 16:01:47] Loaded 122 tickers from expanded_companies.json
+[2026-08-19 16:01:47] Recent tickers (last filing within 14d): ['ACRS', 'ANVS', 'APRE', 'ARMK', 'AVBP', 'AVTX', 'BDN', 'BSY', 'CABA', 'CNTX', 'COR', 'CRS', 'ECVT', 'EPAM', 'FSK', 'GBLI', 'GMED', 'GMER', 'HSDT', 'INO', 'INVU', 'IPSC', 'ISSC', 'JJSF', 'LNC', 'MLYS', 'MRBK', 'MRK', 'NXGL', 'OCGN', 'OFLX', 'PASG', 'PHIO', 'PKBK', 'PPL', 'QNBC', 'QNTO', 'RCMT', 'RDN', 'RPMT', 'SND', 'STIM', 'TELA', 'TFX', 'TOL', 'TOPP', 'TRAW', 'TSEOF', 'UGI', 'UHS', 'UHT', 'VPG', 'VRCA', 'VSH', 'VSNT', 'WTRG', 'XHLD']
+[2026-08-19 16:01:47] Seed backfill: all seeds already in state
+[2026-08-19 16:01:47] Fetching Fool transcript index: https://www.fool.com/earnings-call-transcripts/
+[2026-08-19 16:01:48]   Found 20 transcript links on index page
+[2026-08-19 16:01:48]   Fool index matched tickers: []
+[2026-08-19 16:01:48] Yahoo secondary search for 39 tickers: ['ACRS', 'ANVS', 'APRE', 'AVBP', 'AVTX', 'BDN', 'CABA', 'CNTX', 'CRS', 'EPAM', 'FSK', 'GMED', 'GMER', 'HSDT', 'INO', 'INVU', 'IPSC', 'ISSC', 'LNC', 'MRBK', 'NXGL', 'OFLX', 'PASG', 'PHIO', 'PKBK', 'QNBC', 'QNTO', 'RCMT', 'RPMT', 'SND', 'TELA', 'TOL', 'TOPP', 'TRAW', 'UHS', 'UHT', 'VRCA', 'VSNT', 'XHLD']
+[2026-08-19 16:01:49]   MISS [Yahoo] ACRS: no transcript items in feed
+[2026-08-19 16:01:49]   MISS [Yahoo] ANVS: no transcript items in feed
+[2026-08-19 16:01:50]   MISS [Yahoo] APRE: no transcript items in feed
+[2026-08-19 16:01:51]   MISS [Yahoo] AVBP: no transcript items in feed
+[2026-08-19 16:01:51]   MISS [Yahoo] AVTX: no transcript items in feed
+[2026-08-19 16:01:52]   MISS [Yahoo] BDN: no transcript items in feed
+[2026-08-19 16:01:52]   MISS [Yahoo] CABA: no transcript items in feed
+[2026-08-19 16:01:53]   MISS [Yahoo] CNTX: no transcript items in feed
+[2026-08-19 16:01:53]   MISS [Yahoo] CRS: no transcript items in feed
+[2026-08-19 16:01:54]   MISS [Yahoo] EPAM: no transcript items in feed
+[2026-08-19 16:01:54]   MISS [Yahoo] FSK: no transcript items in feed
+[2026-08-19 16:01:55]   MISS [Yahoo] GMED: no transcript items in feed
+[2026-08-19 16:01:55]   MISS [Yahoo] GMER: no transcript items in feed
+[2026-08-19 16:01:56]   MISS [Yahoo] HSDT: no transcript items in feed
+[2026-08-19 16:01:57]   MISS [Yahoo] INO: no transcript items in feed
+[2026-08-19 16:01:58]   MISS [Yahoo] INVU: no transcript items in feed
+[2026-08-19 16:01:59]   MISS [Yahoo] IPSC: no transcript items in feed
+[2026-08-19 16:01:59]   MISS [Yahoo] ISSC: no transcript items in feed
+[2026-08-19 16:02:00]   MISS [Yahoo] LNC: no transcript items in feed
+[2026-08-19 16:02:01]   MISS [Yahoo] MRBK: no transcript items in feed
+[2026-08-19 16:02:01]   MISS [Yahoo] NXGL: no transcript items in feed
+[2026-08-19 16:02:02]   MISS [Yahoo] OFLX: no transcript items in feed
+[2026-08-19 16:02:02]   MISS [Yahoo] PASG: no transcript items in feed
+[2026-08-19 16:02:03]   MISS [Yahoo] PHIO: no transcript items in feed
+[2026-08-19 16:02:04]   MISS [Yahoo] PKBK: no transcript items in feed
+[2026-08-19 16:02:04]   MISS [Yahoo] QNBC: no transcript items in feed
+[2026-08-19 16:02:05]   MISS [Yahoo] QNTO: no transcript items in feed
+[2026-08-19 16:02:05]   MISS [Yahoo] RCMT: no transcript items in feed
+[2026-08-19 16:02:06]   MISS [Yahoo] RPMT: no transcript items in feed
+[2026-08-19 16:02:06]   MISS [Yahoo] SND: no transcript items in feed
+[2026-08-19 16:02:07]   NEW [Yahoo] TELA: https://finance.yahoo.com/m/0d39bd25-54ff-3ec4-98af-2ec9c6be1d53/tela-bio-%28tela%29-q2-2026.html (Motley Fool)
+[2026-08-19 16:02:08]   MISS [Yahoo] TOL: no transcript items in feed
+[2026-08-19 16:02:09]   MISS [Yahoo] TOPP: no transcript items in feed
+[2026-08-19 16:02:10]   MISS [Yahoo] TRAW: no transcript items in feed
+[2026-08-19 16:02:11]   MISS [Yahoo] UHS: no transcript items in feed
+[2026-08-19 16:02:11]   MISS [Yahoo] UHT: no transcript items in feed
+[2026-08-19 16:02:12]   MISS [Yahoo] VRCA: no transcript items in feed
+[2026-08-19 16:02:13]   MISS [Yahoo] VSNT: no transcript items in feed
+[2026-08-19 16:02:13]   MISS [Yahoo] XHLD: no transcript items in feed
+[2026-08-19 16:02:13] Saved transcripts.json (43 tickers with entries)
+[2026-08-19 16:02:13] === Done. 1 new transcript links found. ===
+
