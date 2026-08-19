@@ -19,5 +19,35 @@
   "source_publisher": "Business Wire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-08-13T23:26:30"
+ },
+ "TSEOF": {
+  "release_date": null,
+  "call_date": "2026-08-20",
+  "call_time": "21:00 ET",
+  "source_url": "https://finance.yahoo.com/healthcare/articles/ascentage-pharma-reports-2026-interim-230000758.html",
+  "source_title": "Ascentage Pharma Reports 2026 Interim Unaudited Financial Results and Provides Business Updates",
+  "source_publisher": "GlobeNewswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-08-19T23:08:44"
+ },
+ "ESMR": {
+  "release_date": null,
+  "call_date": "2026-08-20",
+  "call_time": "21:00 ET",
+  "source_url": "https://finance.yahoo.com/healthcare/articles/ascentage-pharma-reports-2026-interim-230000758.html",
+  "source_title": "Ascentage Pharma Reports 2026 Interim Unaudited Financial Results and Provides Business Updates",
+  "source_publisher": "GlobeNewswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-08-19T23:08:50"
+ },
+ "QVCAQ": {
+  "release_date": null,
+  "call_date": "2026-08-20",
+  "call_time": "21:00 ET",
+  "source_url": "https://finance.yahoo.com/healthcare/articles/ascentage-pharma-reports-2026-interim-230000758.html",
+  "source_title": "Ascentage Pharma Reports 2026 Interim Unaudited Financial Results and Provides Business Updates",
+  "source_publisher": "GlobeNewswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-08-19T23:08:53"
  }
 }

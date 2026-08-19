@@ -396,3 +396,16 @@
 [2026-08-18 23:03:32] Polling Yahoo for 106 companies
 [2026-08-18 23:04:27] === Done. Captured 0 new save-the-dates, cleaned 0 past. ===
 
+[2026-08-19 23:07:56] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-08-19 23:07:56] Polling Yahoo for 106 companies
+[2026-08-19 23:08:44]   + TSEOF: release=None call=2026-08-20 21:00 ET
+[2026-08-19 23:08:44]     via: Ascentage Pharma Reports 2026 Interim Unaudited Financial Results and Provides Business Updates
+[2026-08-19 23:08:45]   ✉ alert sent for TSEOF
+[2026-08-19 23:08:50]   + ESMR: release=None call=2026-08-20 21:00 ET
+[2026-08-19 23:08:50]     via: Ascentage Pharma Reports 2026 Interim Unaudited Financial Results and Provides Business Updates
+[2026-08-19 23:08:51]   ✉ alert sent for ESMR
+[2026-08-19 23:08:53]   + QVCAQ: release=None call=2026-08-20 21:00 ET
+[2026-08-19 23:08:53]     via: Ascentage Pharma Reports 2026 Interim Unaudited Financial Results and Provides Business Updates
+[2026-08-19 23:08:53]   ✉ alert sent for QVCAQ
+[2026-08-19 23:08:56] === Done. Captured 3 new save-the-dates, cleaned 0 past. ===
+
