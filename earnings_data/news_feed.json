@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T20:44:22",
+ "generated_at": "2026-08-19T21:38:56",
  "items": [
   {
    "uuid": "28c7dece-9266-3ced-8835-5d96a5e34af9",
@@ -39,6 +39,19 @@
    "published_unix": 1787148840,
    "source_type": "yahoo",
    "captured_at": "2026-08-19T14:52:00"
+  },
+  {
+   "uuid": "3e7e8b8b-4174-3fc0-a4a3-99b95b5fcb95",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers, Inc. Q3 2026 Earnings Call Summary",
+   "publisher": "Moby",
+   "link": "https://finance.yahoo.com/m/3e7e8b8b-4174-3fc0-a4a3-99b95b5fcb95/toll-brothers%2C-inc.-q3-2026.html",
+   "published_unix": 1787142600,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-19T21:38:56"
   },
   {
    "uuid": "be103ad0-fdf2-3acb-8da3-a0d50f4063c6",
