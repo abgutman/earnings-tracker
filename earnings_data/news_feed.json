@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-19T19:37:35",
+ "generated_at": "2026-08-19T20:44:22",
  "items": [
+  {
+   "uuid": "28c7dece-9266-3ced-8835-5d96a5e34af9",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "Five Below, Inc. Announces Second Quarter Fiscal 2026 Earnings Release and Conference Call Date and Participation in Upcoming Investor Conferences",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-inc-announces-second-200100929.html",
+   "published_unix": 1787169660,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-19T20:44:02"
+  },
   {
    "uuid": "ede33a79-e2b1-302f-a072-922838d0a9e2",
    "tickers": [
@@ -2540,19 +2553,6 @@
    "published_unix": 1784631600,
    "source_type": "yahoo",
    "captured_at": "2026-07-21T12:43:16"
-  },
-  {
-   "uuid": "9d8cd79e-63ce-33a4-8993-ee4ef36a68ce",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Why \u2018The Odyssey\u2019 Box Office Success Isn\u2019t Lifting Comcast Stock",
-   "publisher": "Barrons.com",
-   "link": "https://finance.yahoo.com/m/9d8cd79e-63ce-33a4-8993-ee4ef36a68ce/why-%E2%80%98the-odyssey%E2%80%99-box-office.html",
-   "published_unix": 1784577900,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-20T22:12:16"
   }
  ]
 }
