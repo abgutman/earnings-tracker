@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-08-19T01:49:27",
+ "generated_at": "2026-08-19T11:38:00",
  "items": [
+  {
+   "uuid": "be103ad0-fdf2-3acb-8da3-a0d50f4063c6",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "RBC Raises Price Target on Aramark to $70 From $60, Keeps Outperform Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-raises-price-target-aramark-103418166.html",
+   "published_unix": 1787135658,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-19T11:37:41"
+  },
+  {
+   "uuid": "a9a2b872-6d3f-39b6-b117-6cf49bf147f5",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "RBC Initiates Cencora at Sector Perform With $330 Price Target",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-initiates-cencora-sector-perform-102044989.html",
+   "published_unix": 1787134844,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-19T11:37:42"
+  },
   {
    "uuid": "28d43587-5831-3222-ad04-0511262fa42e",
    "tickers": [
@@ -2577,45 +2603,6 @@
    "publisher": "Business Wire",
    "link": "https://finance.yahoo.com/technology/articles/xfinity-comcast-business-high-speed-130000112.html",
    "published_unix": 1784552400,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-20T13:16:40"
-  },
-  {
-   "uuid": "4903836f-b268-39aa-a22d-8a0d186a0f40",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "RBC Cuts Price Target on Comcast to $27 From $32, Keeps Sector Perform Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-cuts-price-target-comcast-110419384.html",
-   "published_unix": 1784545459,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-20T13:16:40"
-  },
-  {
-   "uuid": "bd96e0bf-de37-3f8a-88c9-7917be0f3057",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast's the Odyssey Opens to $124.5 Million at US Box Office",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-apos-odyssey-opens-124-100940303.html",
-   "published_unix": 1784542180,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-20T13:16:40"
-  },
-  {
-   "uuid": "684db993-cdd3-3b48-bfed-dd5599977dc0",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "IMAX, CMCSA Rise Premarket: Christopher Nolan\u2019s \u2018The Odyssey\u2019 Notches Epic Box Office Opening",
-   "publisher": "Stocktwits",
-   "link": "https://finance.yahoo.com/m/684db993-cdd3-3b48-bfed-dd5599977dc0/imax%2C-cmcsa-rise-premarket%3A.html",
-   "published_unix": 1784535917,
    "source_type": "yahoo",
    "captured_at": "2026-07-20T13:16:40"
   }
