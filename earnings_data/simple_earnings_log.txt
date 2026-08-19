@@ -3043,3 +3043,5 @@
 [2026-08-19 18:48:25]   firehose: 10-Q feed — 77 entries parsed
 [2026-08-19 18:48:25]   firehose: 100 watched CIKs, 177 total feed entries
 [2026-08-19 18:48:25] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-08-19 18:57:13] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-08-19 18:57:37] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
