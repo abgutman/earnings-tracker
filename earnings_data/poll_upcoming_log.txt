@@ -409,3 +409,8 @@
 [2026-08-19 23:08:53]   ✉ alert sent for QVCAQ
 [2026-08-19 23:08:56] === Done. Captured 3 new save-the-dates, cleaned 0 past. ===
 
+[2026-08-20 23:11:10] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-08-20 23:11:10] Polling Yahoo for 106 companies
+[2026-08-20 23:12:14]   cleanup: removed 1 past entries
+[2026-08-20 23:12:14] === Done. Captured 0 new save-the-dates, cleaned 1 past. ===
+
