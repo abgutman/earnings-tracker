@@ -1,6 +1,45 @@
 {
- "generated_at": "2026-08-20T11:41:15",
+ "generated_at": "2026-08-20T13:10:06",
  "items": [
+  {
+   "uuid": "b4067c8e-ed31-3e1d-b093-e9af4c7b8610",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "UBS Adjusts Toll Brothers Price Target to $195 From $187, Maintains Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-toll-brothers-price-115615304.html",
+   "published_unix": 1787226975,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-20T13:10:05"
+  },
+  {
+   "uuid": "49a15e6f-38c1-36e9-bcb7-a81444d9fe11",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "Campbell's",
+   "title": "UBS Adjusts Campbell's Price Target to $18 From $17, Maintains Sell Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-campbell-apos-price-115545865.html",
+   "published_unix": 1787226945,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-20T13:09:47"
+  },
+  {
+   "uuid": "6c5d606a-ac81-3440-b5f3-55acbe851a04",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Truist Raises Price Target on Toll Brothers to $170 From $165, Keeps Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/truist-raises-price-target-toll-114436924.html",
+   "published_unix": 1787226276,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-20T13:10:05"
+  },
   {
    "uuid": "f505d876-c8bd-3de8-9821-ec2fab2b190a",
    "tickers": [
@@ -2566,19 +2605,6 @@
    "published_unix": 1784641226,
    "source_type": "yahoo",
    "captured_at": "2026-07-21T15:17:30"
-  },
-  {
-   "uuid": "48e6aff4-4eb6-3d0c-9b17-524be8026a58",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora",
-   "title": "BofA Securities Adjusts Cencora Price Target to $310 From $285",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-securities-adjusts-cencora-price-121722992.html",
-   "published_unix": 1784636242,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-21T12:43:14"
   }
  ]
 }
