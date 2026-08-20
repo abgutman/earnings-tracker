@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-19T23:35:25",
+ "generated_at": "2026-08-20T01:47:59",
  "items": [
+  {
+   "uuid": "b8a2e4c1-ef2d-32f5-a988-86dc10e7e9b5",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "California American Water Comments on Possible Modification of Water Connection Moratorium on the Monterey Peninsula",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/economy/policy/articles/california-american-water-comments-possible-010700661.html",
+   "published_unix": 1787188020,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-20T01:47:33"
+  },
   {
    "uuid": "28c7dece-9266-3ced-8835-5d96a5e34af9",
    "tickers": [
