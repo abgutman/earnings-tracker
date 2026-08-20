@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-20T14:01:10",
+ "generated_at": "2026-08-20T14:53:52",
  "items": [
+  {
+   "uuid": "ba1ddc00-4f47-36be-8630-952c1cef9913",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "West Virginia American Water Announces $140,000 Infrastructure Project on Ohio Street Alley",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/economy/policy/articles/west-virginia-american-water-announces-141100883.html",
+   "published_unix": 1787235060,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-20T14:53:39"
+  },
   {
    "uuid": "b4067c8e-ed31-3e1d-b093-e9af4c7b8610",
    "tickers": [
@@ -2579,19 +2592,6 @@
    "published_unix": 1784678400,
    "source_type": "yahoo",
    "captured_at": "2026-07-22T21:21:36"
-  },
-  {
-   "uuid": "81ece098-b56a-3577-9897-68bef410c38a",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces Rivercrest Community Now Open in Reno, Nevada",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-rivercrest-community-145100210.html",
-   "published_unix": 1784645460,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-21T15:17:48"
   }
  ]
 }
