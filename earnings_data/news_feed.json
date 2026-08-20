@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-20T15:48:01",
+ "generated_at": "2026-08-20T16:49:45",
  "items": [
+  {
+   "uuid": "834a0c59-e59e-3e1c-91fe-5e4b346f0bf1",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "Campbell's",
+   "title": "Campbell's Faces Sharper FY27 Earnings Pressure Amid Weak Demand, UBS Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/campbell-apos-faces-sharper-fy27-162756961.html",
+   "published_unix": 1787243276,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-20T16:49:31"
+  },
   {
    "uuid": "64574dc6-531a-369c-9196-5d8d96632a71",
    "tickers": [
