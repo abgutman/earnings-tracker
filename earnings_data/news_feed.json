@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-08-20T01:47:59",
+ "generated_at": "2026-08-20T11:41:15",
  "items": [
+  {
+   "uuid": "f505d876-c8bd-3de8-9821-ec2fab2b190a",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark Expands NCAA Presence through New Partnerships with Florida State University and Texas State University Ahead of 2026 Season",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/media-advertising/articles/aramark-expands-ncaa-presence-partnerships-113000898.html",
+   "published_unix": 1787225400,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-20T11:40:44"
+  },
+  {
+   "uuid": "083fb92d-2ee7-39ab-b9ba-a7ad00adf5e8",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Argus Adjusts Price Target on American Water Works to $155 From $140, Maintains Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/argus-adjusts-price-target-american-105026632.html",
+   "published_unix": 1787223026,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-20T11:40:47"
+  },
   {
    "uuid": "b8a2e4c1-ef2d-32f5-a988-86dc10e7e9b5",
    "tickers": [
@@ -2553,32 +2579,6 @@
    "published_unix": 1784636242,
    "source_type": "yahoo",
    "captured_at": "2026-07-21T12:43:14"
-  },
-  {
-   "uuid": "7f159103-5a69-3aa7-9d91-2f80af1354df",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC Corporation",
-   "title": "RBC Cuts Price Target on FMC to $12 From $14, Keeps Sector Perform Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-cuts-price-target-fmc-113517399.html",
-   "published_unix": 1784633717,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-21T12:43:14"
-  },
-  {
-   "uuid": "47afdd75-a13b-3bac-9bbf-38e3913be038",
-   "tickers": [
-    "WTRG"
-   ],
-   "company": "Essential Utilities",
-   "title": "Essential Utilities Expands Sure Splash Program, Promotes Safety Around Water with Nonprofit Partners",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/healthcare/articles/essential-utilities-expands-sure-splash-110000328.html",
-   "published_unix": 1784631600,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-21T12:43:16"
   }
  ]
 }
