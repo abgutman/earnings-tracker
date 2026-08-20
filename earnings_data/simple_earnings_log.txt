@@ -3088,3 +3088,8 @@
 [2026-08-19 23:08:56] === CHECK-10Q: scanning for pending 10-Q filings ===
 [2026-08-19 23:08:56]   RDN: pending_10q_since=2026-08-11 is 8d old — clearing stale flag
 [2026-08-19 23:08:57] === CHECK-10Q complete. Checked 4, found 0, cleared 1 stale. ===
+[2026-08-20 11:34:49] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-20 11:34:49]   firehose: 8-K feed — 100 entries parsed
+[2026-08-20 11:34:51]   firehose: 10-Q feed — 100 entries parsed
+[2026-08-20 11:34:51]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-08-20 11:34:51] === EDGAR FIREHOSE complete. 0 new detections. ===
