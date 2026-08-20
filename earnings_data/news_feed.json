@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-08-20T14:53:52",
+ "generated_at": "2026-08-20T15:48:01",
  "items": [
+  {
+   "uuid": "64574dc6-531a-369c-9196-5d8d96632a71",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "New Model Home Now Open at Toll Brothers at Quail Ridge in Ridgefield, Washington",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/model-home-now-open-toll-150000969.html",
+   "published_unix": 1787238000,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-20T15:48:00"
+  },
+  {
+   "uuid": "1fd0ede0-176c-31d4-8ec9-11f6fff71f90",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Kentucky American Water's Regional Water Treatment Plant in Owen County Earns Recognition for Excellence",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/kentucky-american-waters-regional-water-145800200.html",
+   "published_unix": 1787237880,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-20T15:47:42"
+  },
   {
    "uuid": "ba1ddc00-4f47-36be-8630-952c1cef9913",
    "tickers": [
