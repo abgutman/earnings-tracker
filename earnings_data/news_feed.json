@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-21T22:40:44",
+ "generated_at": "2026-08-21T23:36:52",
  "items": [
+  {
+   "uuid": "924633a7-61fc-35fe-859d-188bf3860358",
+   "tickers": [
+    "BDN"
+   ],
+   "company": "Brandywine Realty Trust",
+   "title": "Brandywine Realty Trust Announces Expiration of Tender Offer for the 2028 Notes",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/brandywine-realty-trust-announces-expiration-233100296.html",
+   "published_unix": 1787355060,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-21T23:36:52"
+  },
   {
    "uuid": "77c21523-76ed-38fc-840e-6c06459ce96e",
    "tickers": [
