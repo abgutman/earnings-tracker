@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-08-21T11:40:27",
+ "generated_at": "2026-08-21T13:09:32",
  "items": [
+  {
+   "uuid": "d17961e1-b6e3-3087-a456-aefb8df9ecbb",
+   "tickers": [
+    "BDN"
+   ],
+   "company": "Brandywine Realty Trust",
+   "title": "Brandywine Realty Trust Upsizes 2029 Notes Tender Offer to $70M, Extends Deadline",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/brandywine-realty-trust-upsizes-2029-124504627.html",
+   "published_unix": 1787316304,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-21T13:09:32"
+  },
+  {
+   "uuid": "3bc128d1-25c0-3f6f-a43e-91ffddf0ee48",
+   "tickers": [
+    "BDN"
+   ],
+   "company": "Brandywine Realty Trust",
+   "title": "Brandywine Realty Trust Announces Upsize and Extension of Expiration of the Previously Announced Tender Offer for the 2029 Notes",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/brandywine-realty-trust-announces-upsize-120000016.html",
+   "published_unix": 1787313600,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-21T13:09:32"
+  },
   {
    "uuid": "48ce2c26-be6f-3a3c-972a-08b3d4d847bf",
    "tickers": [
@@ -2592,19 +2618,6 @@
    "published_unix": 1784731200,
    "source_type": "yahoo",
    "captured_at": "2026-07-22T15:16:19"
-  },
-  {
-   "uuid": "18b072de-4986-3ae1-9954-c3ff491e776b",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora",
-   "title": "Baird Adjusts Price Target on Cencora to $340 From $337, Maintains Outperform Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/baird-adjusts-price-target-cencora-124614307.html",
-   "published_unix": 1784724374,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-22T15:16:17"
   }
  ]
 }
