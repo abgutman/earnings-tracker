@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T16:50:22",
+ "generated_at": "2026-08-21T17:43:28",
  "items": [
   {
    "uuid": "46a8ab19-373b-328b-8428-205de0279072",
@@ -2629,19 +2629,6 @@
    "published_unix": 1784750940,
    "source_type": "yahoo",
    "captured_at": "2026-07-22T21:21:57"
-  },
-  {
-   "uuid": "6f2383af-129e-375a-9a76-2f72a038fb7c",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces New Luxury 55+ Community Now Open in Exton, Pennsylvania",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-55-165700452.html",
-   "published_unix": 1784739420,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-22T17:41:29"
   }
  ]
 }
