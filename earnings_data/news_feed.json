@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-21T19:36:34",
+ "generated_at": "2026-08-21T20:39:57",
  "items": [
+  {
+   "uuid": "77c21523-76ed-38fc-840e-6c06459ce96e",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Illinois American Water Announces Upcoming Hydrant Flushing in Villa Grove",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/illinois-american-water-announces-upcoming-194900390.html",
+   "published_unix": 1787341740,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-21T20:39:38"
+  },
   {
    "uuid": "46a8ab19-373b-328b-8428-205de0279072",
    "tickers": [
@@ -2601,32 +2614,6 @@
    "publisher": "Associated Press",
    "link": "https://finance.yahoo.com/real-estate/articles/brandywine-realty-trust-q2-earnings-205231803.html",
    "published_unix": 1784753551,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-22T21:21:57"
-  },
-  {
-   "uuid": "6c6a807b-7a20-3533-8da9-8fc08a516bde",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast Earnings Will Take Focus Off \u2018The Odyssey\u2019 and NBCUniversal Spinoff",
-   "publisher": "Barrons.com",
-   "link": "https://finance.yahoo.com/m/6c6a807b-7a20-3533-8da9-8fc08a516bde/comcast-earnings-will-take.html",
-   "published_unix": 1784752200,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-22T23:14:50"
-  },
-  {
-   "uuid": "6d7e2266-61f3-320a-9438-875b8b613663",
-   "tickers": [
-    "BDN"
-   ],
-   "company": "Brandywine Realty Trust",
-   "title": "Brandywine Realty Trust Announces Second Quarter 2026 Results",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/brandywine-realty-trust-announces-second-200900755.html",
-   "published_unix": 1784750940,
    "source_type": "yahoo",
    "captured_at": "2026-07-22T21:21:57"
   }
