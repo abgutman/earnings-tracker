@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T23:39:03",
+ "generated_at": "2026-08-21T01:54:22",
  "items": [
   {
    "uuid": "9934ae6f-bf38-36cc-a466-39287d2d140d",
@@ -2592,58 +2592,6 @@
    "published_unix": 1784724374,
    "source_type": "yahoo",
    "captured_at": "2026-07-22T15:16:17"
-  },
-  {
-   "uuid": "e32f2057-1526-3260-86bd-509a67bab143",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "ARMK: Lowering target price to $59.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/e32f2057-1526-3260-86bd-509a67bab143/armk%3A-lowering-target-price.html",
-   "published_unix": 1784678400,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-22T21:21:34"
-  },
-  {
-   "uuid": "4eb5d038-3889-3877-90d7-649e6ea28239",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC Corporation",
-   "title": "FMC: Raising target price to $10.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/4eb5d038-3889-3877-90d7-649e6ea28239/fmc%3A-raising-target-price-to.html",
-   "published_unix": 1784678400,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-22T21:21:35"
-  },
-  {
-   "uuid": "0a89b26f-c66b-3c0b-bd92-8a75e2d571f1",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "Five Below",
-   "title": "FIVE: Raising target price to $214.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/0a89b26f-c66b-3c0b-bd92-8a75e2d571f1/five%3A-raising-target-price-to.html",
-   "published_unix": 1784678400,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-22T21:21:35"
-  },
-  {
-   "uuid": "c55e2c10-81e8-3fc9-975e-a864e6b6daae",
-   "tickers": [
-    "BURL"
-   ],
-   "company": "Burlington Stores",
-   "title": "BURL: Raising target price to $372.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/c55e2c10-81e8-3fc9-975e-a864e6b6daae/burl%3A-raising-target-price-to.html",
-   "published_unix": 1784678400,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-22T21:21:36"
   }
  ]
 }
