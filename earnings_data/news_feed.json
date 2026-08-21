@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-21T14:52:50",
+ "generated_at": "2026-08-21T15:47:25",
  "items": [
+  {
+   "uuid": "5c9b2d78-ddf5-3fa1-a33f-9778c2b87ba0",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Tennessee American Water Completes Tank Hoist",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/economy/articles/tennessee-american-water-completes-tank-152500200.html",
+   "published_unix": 1787325900,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-21T15:46:50"
+  },
   {
    "uuid": "6b0e5254062b1b1a926713a7e914478d8deaf3b5",
    "tickers": [],
