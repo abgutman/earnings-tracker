@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T20:39:57",
+ "generated_at": "2026-08-21T21:37:01",
  "items": [
   {
    "uuid": "77c21523-76ed-38fc-840e-6c06459ce96e",
@@ -2590,32 +2590,6 @@
    "published_unix": 1784776897,
    "source_type": "yahoo",
    "captured_at": "2026-07-23T12:48:31"
-  },
-  {
-   "uuid": "482f0a3a-53ee-305f-af8c-71f7b68ff842",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "The Big Sur Land Trust Awarded American Water Charitable Foundation Water and Environment Grant",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/big-sur-land-trust-awarded-205800050.html",
-   "published_unix": 1784753880,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-22T21:21:36"
-  },
-  {
-   "uuid": "6c3d1df3-4e9e-3f34-8d59-765ba62296e3",
-   "tickers": [
-    "BDN"
-   ],
-   "company": "Brandywine Realty Trust",
-   "title": "Brandywine Realty Trust: Q2 Earnings Snapshot",
-   "publisher": "Associated Press",
-   "link": "https://finance.yahoo.com/real-estate/articles/brandywine-realty-trust-q2-earnings-205231803.html",
-   "published_unix": 1784753551,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-22T21:21:57"
   }
  ]
 }
