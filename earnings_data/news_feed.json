@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-21T15:47:25",
+ "generated_at": "2026-08-21T16:50:22",
  "items": [
+  {
+   "uuid": "46a8ab19-373b-328b-8428-205de0279072",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Indiana American Water and American Water Charitable Foundation Support Disaster Recovery Efforts Across Indiana",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/indiana-american-water-american-water-160500890.html",
+   "published_unix": 1787328300,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-21T16:49:58"
+  },
   {
    "uuid": "5c9b2d78-ddf5-3fa1-a33f-9778c2b87ba0",
    "tickers": [
