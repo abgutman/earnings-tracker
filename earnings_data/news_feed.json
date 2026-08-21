@@ -1,6 +1,17 @@
 {
- "generated_at": "2026-08-21T13:59:11",
+ "generated_at": "2026-08-21T14:52:50",
  "items": [
+  {
+   "uuid": "6b0e5254062b1b1a926713a7e914478d8deaf3b5",
+   "tickers": [],
+   "company": "Franklin Biolabs",
+   "title": "Join Franklin during a webinar on September 25, 2026 | 11am EDT / 4pm BST / 5PM CEST",
+   "publisher": "Franklin Biolabs",
+   "link": "https://xtalks.com/webinars/assessing-the-use-of-non-human-primates-in-translational-research-today/?utm_source=xtalksemail&utm_medium=preevent&utm_campaign=26q219#new_tab",
+   "published_unix": 1787322061,
+   "source_type": "rss",
+   "captured_at": "2026-08-21T14:52:44"
+  },
   {
    "uuid": "d17961e1-b6e3-3087-a456-aefb8df9ecbb",
    "tickers": [
@@ -2605,19 +2616,6 @@
    "published_unix": 1784739420,
    "source_type": "yahoo",
    "captured_at": "2026-07-22T17:41:29"
-  },
-  {
-   "uuid": "4c2b0069-cce8-3788-ab75-0684c4cef4c2",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "American Water Named to TIME's America's Best Companies Inaugural List",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/american-water-named-times-americas-144000442.html",
-   "published_unix": 1784731200,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-22T15:16:19"
   }
  ]
 }
