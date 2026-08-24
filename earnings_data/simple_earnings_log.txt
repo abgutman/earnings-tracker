@@ -3269,3 +3269,11 @@
 [2026-08-21 21:58:42] === EDGAR FIREHOSE complete. 0 new detections. ===
 [2026-08-21 23:07:11] === CHECK-10Q: scanning for pending 10-Q filings ===
 [2026-08-21 23:07:12] === CHECK-10Q complete. Checked 4, found 0, cleared 0 stale. ===
+[2026-08-24 11:36:26] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-24 11:36:26]   firehose: 8-K feed — 100 entries parsed
+[2026-08-24 11:36:27]   firehose: 10-Q feed — 23 entries parsed
+[2026-08-24 11:36:27]   firehose: 100 watched CIKs, 123 total feed entries
+[2026-08-24 11:36:28]   ★ NEW 8k_701 for ECVT (Ecovyst Inc.) filed 2026-08-24
+[2026-08-24 11:36:28]     https://www.sec.gov/Archives/edgar/data/1708035/000119312526361724/d279297d8k.htm
+[2026-08-24 11:36:29]     ✉ alert sent (8k_701)
+[2026-08-24 11:36:29] === EDGAR FIREHOSE complete. 1 new detections. ===
