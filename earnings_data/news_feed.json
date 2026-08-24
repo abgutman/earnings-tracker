@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-24T21:43:02",
+ "generated_at": "2026-08-24T22:43:23",
  "items": [
+  {
+   "uuid": "d65d08e3-6b17-3032-b6df-094e2e00bc3e",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "California American Water Supports Cal Fire Response to Timber Fire",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/california-american-water-supports-cal-222700678.html",
+   "published_unix": 1787610420,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-24T22:43:04"
+  },
   {
    "uuid": "9dd456ab-8c01-3804-b85d-59547170ff94",
    "tickers": [
