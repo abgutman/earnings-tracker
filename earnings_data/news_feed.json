@@ -1,6 +1,58 @@
 {
- "generated_at": "2026-08-24T13:11:57",
+ "generated_at": "2026-08-24T14:59:06",
  "items": [
+  {
+   "uuid": "9dd456ab-8c01-3804-b85d-59547170ff94",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Pennsylvania American Water Delivers Additional PFAS Settlement Credit to Customers",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/pennsylvania-american-water-delivers-additional-143000100.html",
+   "published_unix": 1787581800,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-24T14:58:45"
+  },
+  {
+   "uuid": "f3faba54-8357-3f37-b65b-7db5b967090a",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Reliable, High-Speed Internet\u00a0from Xfinity Now Available in\u00a0Newfield, Maine",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/articles/reliable-high-speed-internet-xfinity-140000650.html",
+   "published_unix": 1787580000,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-24T14:58:42"
+  },
+  {
+   "uuid": "c9e984fd-40d3-3797-93e6-3f27dd146d5c",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "Campbell's",
+   "title": "Campbell's Renews, Expands Partnership With National Football League",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/media-advertising/articles/campbell-apos-renews-expands-partnership-132208636.html",
+   "published_unix": 1787577728,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-24T14:58:44"
+  },
+  {
+   "uuid": "2d87c2b4-2745-372b-af51-41f11b1d4735",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "Campbell's",
+   "title": "The Campbell\u2019s Company Renews NFL Partnership to Become Second-Longest-Running Sponsor in League's History",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/media-advertising/articles/campbell-company-renews-nfl-partnership-130000877.html",
+   "published_unix": 1787576400,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-24T14:58:44"
+  },
   {
    "uuid": "09604bdf-821a-3d70-bfc3-80ce496ca5d6",
    "tickers": [
@@ -2211,19 +2263,6 @@
    "publisher": "Stocktwits",
    "link": "https://finance.yahoo.com/m/c5e383fc-27ae-3145-89a1-0cc2e43f3751/cmcsa-stock-heads-for-fifth.html",
    "published_unix": 1785131310,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-27T13:44:04"
-  },
-  {
-   "uuid": "c2a9baa0-1acf-3925-a927-8611ab5c6cb2",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast Stock Sold Off Hard While Its Cash Flow Held Up",
-   "publisher": "Trefis",
-   "link": "https://finance.yahoo.com/m/c2a9baa0-1acf-3925-a927-8611ab5c6cb2/comcast-stock-sold-off-hard.html",
-   "published_unix": 1784987955,
    "source_type": "yahoo",
    "captured_at": "2026-07-27T13:44:04"
   }
