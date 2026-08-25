@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-25T01:48:37",
+ "generated_at": "2026-08-25T11:42:08",
  "items": [
+  {
+   "uuid": "6e4acd20-a695-31f2-894b-6c24d256f7a3",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "Loop Capital Downgrades Five Below to Hold From Buy, Price Target is $250",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/loop-capital-downgrades-five-below-093021939.html",
+   "published_unix": 1787650221,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-25T11:41:53"
+  },
   {
    "uuid": "d65d08e3-6b17-3032-b6df-094e2e00bc3e",
    "tickers": [
