@@ -3355,3 +3355,8 @@
 [2026-08-24 22:01:09] === EDGAR FIREHOSE complete. 0 new detections. ===
 [2026-08-24 23:10:07] === CHECK-10Q: scanning for pending 10-Q filings ===
 [2026-08-24 23:10:09] === CHECK-10Q complete. Checked 5, found 0, cleared 0 stale. ===
+[2026-08-25 11:36:01] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-25 11:36:02]   firehose: 8-K feed — 100 entries parsed
+[2026-08-25 11:36:11]   firehose: 10-Q feed — 18 entries parsed
+[2026-08-25 11:36:11]   firehose: 100 watched CIKs, 118 total feed entries
+[2026-08-25 11:36:11] === EDGAR FIREHOSE complete. 0 new detections. ===
