@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-25T15:03:33",
+ "generated_at": "2026-08-25T15:58:43",
  "items": [
+  {
+   "uuid": "d83209f7-777b-3e4d-8ba3-695c016fc52d",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Expands Xfinity, Business Internet in Columbia County",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/technology/articles/comcast-expands-xfinity-business-internet-150824181.html",
+   "published_unix": 1787670504,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-25T15:58:16"
+  },
   {
    "uuid": "c149f8b9-49bc-3192-8ecf-b512fe308866",
    "tickers": [
