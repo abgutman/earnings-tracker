@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-25T17:44:59",
+ "generated_at": "2026-08-25T18:55:58",
  "items": [
+  {
+   "uuid": "07dff053-4435-3128-8e94-1bb80b2783ef",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "Five Below Shares Lower After Loop Capital Downgrade",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-shares-lower-loop-181635519.html",
+   "published_unix": 1787681795,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-25T18:55:37"
+  },
   {
    "uuid": "d83209f7-777b-3e4d-8ba3-695c016fc52d",
    "tickers": [
