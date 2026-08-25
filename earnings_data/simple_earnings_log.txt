@@ -3432,3 +3432,5 @@
 [2026-08-25 21:36:41]     https://www.sec.gov/Archives/edgar/data/17843/000001784326000038/crs-20260825.htm
 [2026-08-25 21:36:43]     ✉ alert sent (8k_701)
 [2026-08-25 21:36:43] === EDGAR FIREHOSE complete. 1 new detections. ===
+[2026-08-25 21:47:58] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-08-25 21:48:29] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
