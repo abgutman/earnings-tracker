@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-26T11:43:39",
+ "generated_at": "2026-08-26T13:15:32",
  "items": [
+  {
+   "uuid": "44c984c3-f939-37c6-9e47-5c80a31ca9dc",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Tracer Partners with Comcast's Universal Ads to Modernize Advertising Operations",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/media-advertising/articles/tracer-partners-comcasts-universal-ads-120000764.html",
+   "published_unix": 1787745600,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-26T13:15:04"
+  },
   {
    "uuid": "2811669a-0241-3664-ae05-1de96a0be9ae",
    "tickers": [
