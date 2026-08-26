@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-26T19:19:03",
+ "generated_at": "2026-08-26T23:30:56",
  "items": [
+  {
+   "uuid": "f2dda5d1-1afc-301d-8afa-412afc44cd57",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Las Vegas, Nevada",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-193400039.html",
+   "published_unix": 1787772840,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-26T23:30:56"
+  },
   {
    "uuid": "b77d1db3-0097-3332-b12f-183d95ec4920",
    "tickers": [
@@ -2239,71 +2252,6 @@
    "published_unix": 1785211260,
    "source_type": "yahoo",
    "captured_at": "2026-07-28T21:29:43"
-  },
-  {
-   "uuid": "71a2dde9-e09e-3d63-8eed-58d09e053297",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "New Jersey American Water Completes Gordon's Corner Water Acquisition",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/real-estate/articles/jersey-american-water-completes-gordon-211652255.html",
-   "published_unix": 1785187012,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-27T22:16:48"
-  },
-  {
-   "uuid": "d5cd8594-3809-33ba-b8cf-589a09d3b9d8",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Tennessee American Water Accepting Applications for 2026 Firefighting Support Grant Program",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/small-business/articles/tennessee-american-water-accepting-applications-211100520.html",
-   "published_unix": 1785186660,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-27T22:16:48"
-  },
-  {
-   "uuid": "5ed08be8-71d4-3a72-a284-a3e999d1370d",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "American Water Releases Annual Sustainability Report",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/american-water-releases-annual-sustainability-203500365.html",
-   "published_unix": 1785184500,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-27T22:16:48"
-  },
-  {
-   "uuid": "d1ef2ff1-bc16-3547-8d0e-acccc26bf0e2",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "New Jersey American Water Completes Acquisition of Gordon's Corner Water Company",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/jersey-american-water-completes-acquisition-201800018.html",
-   "published_unix": 1785183480,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-27T20:42:23"
-  },
-  {
-   "uuid": "cf40c0db-2239-323f-ad8f-0454e2b657f1",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Aramark Seen Benefiting From Data Centers, Core Momentum, Truist Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-seen-benefiting-data-centers-195129161.html",
-   "published_unix": 1785181889,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-27T20:42:21"
   }
  ]
 }
