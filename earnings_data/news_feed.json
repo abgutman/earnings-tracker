@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-08-26T13:15:32",
+ "generated_at": "2026-08-26T15:52:45",
  "items": [
+  {
+   "uuid": "00c0702c-49a5-3ddb-aa1e-232e4e1ad0a5",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Expands High-Speed Internet Access to Deerfield, New Hampshire",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/technology/articles/comcast-expands-high-speed-internet-151515269.html",
+   "published_unix": 1787757315,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-26T15:52:21"
+  },
+  {
+   "uuid": "ffe0a0be-41b2-3c7e-92a5-7dc0b0762940",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Xfinity and Comcast Business Reliable, High-Speed Internet Now Available in Deerfield, New Hampshire",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/articles/xfinity-comcast-business-reliable-high-140000680.html",
+   "published_unix": 1787752800,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-26T15:52:21"
+  },
   {
    "uuid": "44c984c3-f939-37c6-9e47-5c80a31ca9dc",
    "tickers": [
