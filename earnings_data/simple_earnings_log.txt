@@ -3448,3 +3448,8 @@
 [2026-08-25 23:12:21]   BDN: pending_10q_since=2026-08-17 is 8d old — clearing stale flag
 [2026-08-25 23:12:22]   WTRG: pending_10q_since=2026-08-17 is 8d old — clearing stale flag
 [2026-08-25 23:12:26] === CHECK-10Q complete. Checked 4, found 0, cleared 2 stale. ===
+[2026-08-26 11:37:00] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-26 11:37:09]   firehose: 8-K feed — 100 entries parsed
+[2026-08-26 11:37:13]   firehose: 10-Q feed — 14 entries parsed
+[2026-08-26 11:37:13]   firehose: 100 watched CIKs, 114 total feed entries
+[2026-08-26 11:37:13] === EDGAR FIREHOSE complete. 0 new detections. ===
