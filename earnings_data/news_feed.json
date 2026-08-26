@@ -1,6 +1,58 @@
 {
- "generated_at": "2026-08-26T16:58:42",
+ "generated_at": "2026-08-26T19:19:03",
  "items": [
+  {
+   "uuid": "b77d1db3-0097-3332-b12f-183d95ec4920",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Crestmoor Estates by Toll Brothers is Now Open in San Bruno, California",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/crestmoor-estates-toll-brothers-now-191500472.html",
+   "published_unix": 1787771700,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-26T19:19:02"
+  },
+  {
+   "uuid": "b0cd0fda-84be-3d06-aeec-9105a6caa822",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water White Paper Highlights Community Benefits of Water and Wastewater System Partnerships",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/american-water-white-paper-highlights-184000378.html",
+   "published_unix": 1787769600,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-26T19:18:26"
+  },
+  {
+   "uuid": "e462cc61-b4ba-32b4-acb9-a4efa3524c96",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces New Luxury Townhome Community Coming this Fall to Harrison, New York",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-townhome-183400214.html",
+   "published_unix": 1787769240,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-26T19:19:02"
+  },
+  {
+   "uuid": "5791533f-cdfe-3ee8-8675-5b13a8c5b117",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Monterey Peninsula College Awarded American Water Charitable Foundation Workforce Readiness Grant",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/monterey-peninsula-college-awarded-american-182700407.html",
+   "published_unix": 1787768820,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-26T19:18:26"
+  },
   {
    "uuid": "00c0702c-49a5-3ddb-aa1e-232e4e1ad0a5",
    "tickers": [
@@ -2252,71 +2304,6 @@
    "published_unix": 1785181889,
    "source_type": "yahoo",
    "captured_at": "2026-07-27T20:42:21"
-  },
-  {
-   "uuid": "07edff72-b8d2-362c-870b-40b11db80d98",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Virginia American Water Urges Customers to Reduce Nonessential Water Use in Response to Historic Drought Conditions",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/virginia-american-water-urges-customers-190700120.html",
-   "published_unix": 1785179220,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-27T20:42:23"
-  },
-  {
-   "uuid": "b4a40d62-7c2e-3b0a-b053-887233ec57b3",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Maryland American Water Urges Customers to Reduce Nonessential Water Use in Response to Drought Conditions",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/maryland-american-water-urges-customers-185800251.html",
-   "published_unix": 1785178680,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-27T20:42:23"
-  },
-  {
-   "uuid": "95e65013-0242-3477-93cb-a042257ad4f1",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces Final Opportunity to Own a Luxury Condominium at Mira Villa in Las Vegas",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-final-opportunity-185000145.html",
-   "published_unix": 1785178200,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-27T20:42:42"
-  },
-  {
-   "uuid": "1f116e06-fd01-368b-b229-f00764cba52f",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Alphabet's YouTube Premium to Expand Peacock Access",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/media-advertising/articles/alphabet-apos-youtube-premium-expand-174852327.html",
-   "published_unix": 1785174532,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-27T18:46:11"
-  },
-  {
-   "uuid": "07c57e38-bc46-3015-bf61-9a498754e930",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "CMCSA Stock Gains Over 3% \u2014 NBCUniversal Teams Up With Alphabet To Stream Peacock On YouTube Premium",
-   "publisher": "Stocktwits",
-   "link": "https://finance.yahoo.com/m/07c57e38-bc46-3015-bf61-9a498754e930/cmcsa-stock-gains-over-3%25-%E2%80%94.html",
-   "published_unix": 1785173142,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-27T18:46:11"
   }
  ]
 }
