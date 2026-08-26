@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-26T01:54:31",
+ "generated_at": "2026-08-26T11:43:39",
  "items": [
+  {
+   "uuid": "2811669a-0241-3664-ae05-1de96a0be9ae",
+   "tickers": [
+    "BDN"
+   ],
+   "company": "Brandywine Realty Trust",
+   "title": "Brandywine Realty Trust Announces Expiration of Tender Offer for the 2029 Notes",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/brandywine-realty-trust-announces-expiration-113000014.html",
+   "published_unix": 1787743800,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-26T11:43:39"
+  },
   {
    "uuid": "07dff053-4435-3128-8e94-1bb80b2783ef",
    "tickers": [
@@ -2265,84 +2278,6 @@
    "published_unix": 1785173142,
    "source_type": "yahoo",
    "captured_at": "2026-07-27T18:46:11"
-  },
-  {
-   "uuid": "4e4220a2-9e6e-3a7e-ab03-8a3390fe3839",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Truist Raises Price Target on Aramark to $70 From $58, Keeps Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/truist-raises-price-target-aramark-111505249.html",
-   "published_unix": 1785150905,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-27T13:44:05"
-  },
-  {
-   "uuid": "b67ce2ca-c3ea-37eb-8b22-8ac0a54cc357",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Analyst Report: Comcast Corp",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/b67ce2ca-c3ea-37eb-8b22-8ac0a54cc357/analyst-report%3A-comcast-corp.html",
-   "published_unix": 1785150752,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-27T13:44:04"
-  },
-  {
-   "uuid": "416ae5a4-546e-309c-8b8b-e52a1e19eba6",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Market Digest: NVS, CB, AVB, BYD, CMCSA, GPC, SAP",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/416ae5a4-546e-309c-8b8b-e52a1e19eba6/market-digest%3A-nvs%2C-cb%2C-avb%2C.html",
-   "published_unix": 1785149852,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-27T13:44:04"
-  },
-  {
-   "uuid": "b6c12bc2-a56f-3ffe-9576-ac46a4ec8aea",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Citigroup Adjusts Price Target on Comcast to $30 From $32, Maintains Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/citigroup-adjusts-price-target-comcast-102536866.html",
-   "published_unix": 1785147936,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-27T13:44:04"
-  },
-  {
-   "uuid": "389d13e2-7c58-36b4-9c9d-d16495d85748",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Beyond Broadband: What Could Power Comcast Stock From Here?",
-   "publisher": "Trefis",
-   "link": "https://finance.yahoo.com/m/389d13e2-7c58-36b4-9c9d-d16495d85748/beyond-broadband%3A-what-could.html",
-   "published_unix": 1785141962,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-27T13:44:04"
-  },
-  {
-   "uuid": "c5e383fc-27ae-3145-89a1-0cc2e43f3751",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "CMCSA Stock Heads For Fifth Month Of Loss: Analysts Trim Price Targets, Say Broadband Recovery Remains Key To Rebound",
-   "publisher": "Stocktwits",
-   "link": "https://finance.yahoo.com/m/c5e383fc-27ae-3145-89a1-0cc2e43f3751/cmcsa-stock-heads-for-fifth.html",
-   "published_unix": 1785131310,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-27T13:44:04"
   }
  ]
 }
