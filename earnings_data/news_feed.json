@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-26T23:30:56",
+ "generated_at": "2026-08-27T09:34:32",
  "items": [
   {
    "uuid": "f2dda5d1-1afc-301d-8afa-412afc44cd57",
@@ -2239,19 +2239,6 @@
    "published_unix": 1785240000,
    "source_type": "yahoo",
    "captured_at": "2026-07-28T13:01:50"
-  },
-  {
-   "uuid": "c86754f7-93e1-311b-9ce9-1aa43114ad61",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "YouTube\u2019s Peacock Partnership is a Streaming Bundle Breakthrough",
-   "publisher": "The Daily Upside",
-   "link": "https://finance.yahoo.com/m/c86754f7-93e1-311b-9ce9-1aa43114ad61/youtube%E2%80%99s-peacock-partnership.html",
-   "published_unix": 1785211260,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-28T21:29:43"
   }
  ]
 }
