@@ -1,6 +1,240 @@
 {
- "generated_at": "2026-08-27T09:34:32",
+ "generated_at": "2026-08-27T21:02:22",
  "items": [
+  {
+   "uuid": "d5b8974e-6f3a-3707-a73a-2db9e0818ff8",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC Corporation",
+   "title": "FMC Corporation CEO Pierre Brondeau and CFO Andrew Sandifer to speak at the 2026 Jefferies Global Industrials Conference",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-corporation-ceo-pierre-brondeau-203000416.html",
+   "published_unix": 1787862600,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-27T21:01:25"
+  },
+  {
+   "uuid": "7efe306c-cd1c-3b90-b0bf-1077587a55b1",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast to Participate in BofA Securities Investor Conference",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-participate-bofa-securities-investor-200500201.html",
+   "published_unix": 1787861100,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-27T21:01:23"
+  },
+  {
+   "uuid": "4339938c-02aa-38ac-9dec-4a10874b4a56",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast to Participate in Goldman Sachs Investor Conference",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-participate-goldman-sachs-investor-200000734.html",
+   "published_unix": 1787860800,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-27T21:01:23"
+  },
+  {
+   "uuid": "e5a71d80-2faa-38e3-adaf-ce9baa923388",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Virginia American Water President Addresses ASCE 2026 Report Card for Virginia's Infrastructure",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/economy/policy/articles/virginia-american-water-president-addresses-194700400.html",
+   "published_unix": 1787860020,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-27T21:01:27"
+  },
+  {
+   "uuid": "ea66f19b-ce0e-3de3-8e3e-bb1294d5f55e",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores",
+   "title": "Burlington Stores\u2019 Earnings Were OK but Its Forecast Missed the Mark",
+   "publisher": "Barrons.com",
+   "link": "https://finance.yahoo.com/m/ea66f19b-ce0e-3de3-8e3e-bb1294d5f55e/burlington-stores%E2%80%99-earnings.html",
+   "published_unix": 1787854560,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-27T21:01:26"
+  },
+  {
+   "uuid": "36ec1805-9883-302f-9d02-5a05c66902eb",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces Model Home Now Available for Sale at Northbrooke in Cumming, Georgia",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-model-home-171600131.html",
+   "published_unix": 1787850960,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-27T21:02:22"
+  },
+  {
+   "uuid": "66ff7bd5-69a9-3b6d-a7be-cc4e022a694e",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Grew Its Earnings Per Share Without Growing Earnings",
+   "publisher": "Trefis",
+   "link": "https://finance.yahoo.com/m/66ff7bd5-69a9-3b6d-a7be-cc4e022a694e/toll-brothers-grew-its.html",
+   "published_unix": 1787850764,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-27T21:02:22"
+  },
+  {
+   "uuid": "a33ea5e6-f320-350f-bfba-2d22caef4b3d",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "Campbell's",
+   "title": "Campbell's Facing Challenging Q4 due to Rising Cost Pressures, Faltering Demand, UBS Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/campbell-apos-facing-challenging-q4-164449901.html",
+   "published_unix": 1787849089,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-27T21:01:26"
+  },
+  {
+   "uuid": "4cc2bf47-253f-3e70-b599-a76d4ed6c852",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Horizon Lakes Master Plan Near Dallas, Texas",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-155700090.html",
+   "published_unix": 1787846220,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-27T21:02:22"
+  },
+  {
+   "uuid": "f3c630ab-7137-3291-93c5-041c549ddbc0",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Bickford Ranch in Placer County, California",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-155600096.html",
+   "published_unix": 1787846160,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-27T21:02:22"
+  },
+  {
+   "uuid": "d975adf1-9b52-37f9-9d1d-3995b87f5d18",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Illinois American Water Delivers Additional PFAS Settlement Credit to Customers",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/illinois-american-water-delivers-additional-153700704.html",
+   "published_unix": 1787845020,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-27T21:01:27"
+  },
+  {
+   "uuid": "45db2ac1-8a63-3d73-aee0-37c47c82b868",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores",
+   "title": "Burlington Stores tops profit estimates, cuts annual outlook on tariff costs",
+   "publisher": "Proactive",
+   "link": "https://finance.yahoo.com/m/45db2ac1-8a63-3d73-aee0-37c47c82b868/burlington-stores-tops-profit.html",
+   "published_unix": 1787841480,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-27T21:01:26"
+  },
+  {
+   "uuid": "67fc0a8c-426c-3313-b1ac-500d6ac4b1d4",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Breaks Ground to Expand High-Speed Internet to Kamas and Francis, Utah",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/articles/comcast-breaks-ground-expand-high-143000532.html",
+   "published_unix": 1787841000,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-27T21:01:23"
+  },
+  {
+   "uuid": "c1c87c6c-3a9d-30c4-a811-6e0c50eac1b0",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores",
+   "title": "Burlington Stores shares fall despite strong Q2 earnings growth",
+   "publisher": "InvestorsHub",
+   "link": "https://finance.yahoo.com/m/c1c87c6c-3a9d-30c4-a811-6e0c50eac1b0/burlington-stores-shares-fall.html",
+   "published_unix": 1787837356,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-27T21:01:26"
+  },
+  {
+   "uuid": "c8ba9772-7343-355b-8a96-6a920f69466e",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Xfinity and Comcast Business High-Speed Internet Now Available to More Than 1,100 Homes and Businesses in Allen County, Indiana",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/articles/xfinity-comcast-business-high-speed-131500542.html",
+   "published_unix": 1787836500,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-27T21:01:23"
+  },
+  {
+   "uuid": "629b093f-fdf0-38b0-8c37-203ddd4e4e86",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Completes Rural Broadband Expansion Connecting Thousands of Homes and Businesses in Eastern Ohio",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/articles/comcast-completes-rural-broadband-expansion-130000094.html",
+   "published_unix": 1787835600,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-27T21:01:23"
+  },
+  {
+   "uuid": "b9a7814c-6559-3d36-88fd-97da19ae2f62",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores",
+   "title": "Burlington Stores Q2 2026 earnings: tariff refunds to lower prices",
+   "publisher": "Quartz",
+   "link": "https://finance.yahoo.com/m/b9a7814c-6559-3d36-88fd-97da19ae2f62/burlington-stores-q2-2026.html",
+   "published_unix": 1787834262,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-27T21:01:26"
+  },
+  {
+   "uuid": "f9a38e45-fdf3-3951-a5dc-7d60d607a3e6",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores",
+   "title": "Correction: Burlington Stores Fiscal Q2 Adjusted Earnings, Revenue Increase; Lifts 2026 Outlook",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/correction-burlington-stores-fiscal-q2-122318142.html",
+   "published_unix": 1787833398,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-27T21:01:26"
+  },
   {
    "uuid": "f2dda5d1-1afc-301d-8afa-412afc44cd57",
    "tickers": [
@@ -2202,43 +2436,6 @@
    "published_unix": 1785283200,
    "source_type": "yahoo",
    "captured_at": "2026-07-29T21:11:31"
-  },
-  {
-   "uuid": "a27f9ef1cf1dd9cadc8a128ae0bb48e1b4a71bb1",
-   "tickers": [],
-   "company": "Franklin Biolabs",
-   "title": "Franklin Biolabs Selected as a 2026 PHL Inno Fire Awards Honoree by the Philadelphia Business Journal",
-   "publisher": "Franklin Biolabs",
-   "link": "https://franklinbio.com/franklin-biolabs-selected-as-a-2026-phl-inno-fire-awards-honoree-by-the-philadelphia-business-journal/",
-   "published_unix": 1785253905,
-   "source_type": "rss",
-   "captured_at": "2026-07-28T17:44:43"
-  },
-  {
-   "uuid": "2cc71696-db2d-3e04-b91d-c42886ffc55a",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Reliable, High-Speed Internet from Xfinity Coming to Northwood, New Hampshire",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/articles/reliable-high-speed-internet-xfinity-130000266.html",
-   "published_unix": 1785243600,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-28T15:33:09"
-  },
-  {
-   "uuid": "260ef5cd-0b1a-332e-b7fb-b197b1930789",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces Peapack Crossing is Now Open in Peapack, New Jersey",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-peapack-crossing-120000001.html",
-   "published_unix": 1785240000,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-28T13:01:50"
   }
  ]
 }
