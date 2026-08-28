@@ -4898,3 +4898,27 @@
 [2026-08-27 05:01:21] No new transcripts found; transcripts.json unchanged
 [2026-08-27 05:01:21] === Done. 0 new transcript links found. ===
 
+[2026-08-28 00:35:49] === Fool transcript harvest start (dry_run=False) ===
+[2026-08-28 00:35:49] Loaded 122 tickers from expanded_companies.json
+[2026-08-28 00:35:49] Recent tickers (last filing within 14d): ['ANVS', 'BDN', 'BTCS', 'BURL', 'CRS', 'ECVT', 'HSDT', 'INVU', 'NXGL', 'QNTO', 'RPMT', 'TOL', 'TRAW', 'WTRG']
+[2026-08-28 00:35:49] Seed backfill: all seeds already in state
+[2026-08-28 00:35:49] Fetching Fool transcript index: https://www.fool.com/earnings-call-transcripts/
+[2026-08-28 00:35:49]   Found 20 transcript links on index page
+[2026-08-28 00:35:49]   Fool index matched tickers: []
+[2026-08-28 00:35:49] Yahoo secondary search for 13 tickers: ['ANVS', 'BDN', 'BTCS', 'BURL', 'CRS', 'ECVT', 'HSDT', 'INVU', 'NXGL', 'QNTO', 'RPMT', 'TRAW', 'WTRG']
+[2026-08-28 00:35:50]   MISS [Yahoo] ANVS: no transcript items in feed
+[2026-08-28 00:35:50]   MISS [Yahoo] BDN: no transcript items in feed
+[2026-08-28 00:35:51]   MISS [Yahoo] BTCS: no transcript items in feed
+[2026-08-28 00:35:52]   MISS [Yahoo] BURL: no transcript items in feed
+[2026-08-28 00:35:52]   MISS [Yahoo] CRS: no transcript items in feed
+[2026-08-28 00:35:53]   MISS [Yahoo] ECVT: no transcript items in feed
+[2026-08-28 00:35:53]   MISS [Yahoo] HSDT: no transcript items in feed
+[2026-08-28 00:35:54]   MISS [Yahoo] INVU: no transcript items in feed
+[2026-08-28 00:35:55]   MISS [Yahoo] NXGL: no transcript items in feed
+[2026-08-28 00:35:55]   MISS [Yahoo] QNTO: no transcript items in feed
+[2026-08-28 00:35:56]   MISS [Yahoo] RPMT: no transcript items in feed
+[2026-08-28 00:35:56]   MISS [Yahoo] TRAW: no transcript items in feed
+[2026-08-28 00:35:57]   MISS [Yahoo] WTRG: no transcript items in feed
+[2026-08-28 00:35:57] No new transcripts found; transcripts.json unchanged
+[2026-08-28 00:35:57] === Done. 0 new transcript links found. ===
+
