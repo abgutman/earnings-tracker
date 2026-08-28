@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-08-27T21:02:22",
+ "generated_at": "2026-08-28T05:22:36",
  "items": [
+  {
+   "uuid": "a2f29c0c-6714-30b9-9d7b-63d009032781",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "California American Water Completes Carmel Woods Pump Station Upgrade",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/california-american-water-completes-carmel-232300425.html",
+   "published_unix": 1787872980,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-28T05:22:16"
+  },
+  {
+   "uuid": "2f560793-eb9e-30d2-8d4c-59d864cd3f1b",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores",
+   "title": "Burlington Stores, Inc. Q2 2026 Earnings Call Summary",
+   "publisher": "Moby",
+   "link": "https://finance.yahoo.com/m/2f560793-eb9e-30d2-8d4c-59d864cd3f1b/burlington-stores%2C-inc.-q2.html",
+   "published_unix": 1787863914,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-28T05:22:16"
+  },
   {
    "uuid": "d5b8974e-6f3a-3707-a73a-2db9e0818ff8",
    "tickers": [
@@ -2384,58 +2410,6 @@
    "published_unix": 1785324600,
    "source_type": "yahoo",
    "captured_at": "2026-07-29T13:06:43"
-  },
-  {
-   "uuid": "df5edb8b-55d2-3afa-af61-5cc66c5da1a5",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "ARMK: Raising target price to $60.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/df5edb8b-55d2-3afa-af61-5cc66c5da1a5/armk%3A-raising-target-price-to.html",
-   "published_unix": 1785283200,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-29T21:11:29"
-  },
-  {
-   "uuid": "65193ff6-68b8-301c-9ce8-68db64311891",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC Corporation",
-   "title": "FMC: Lowering target price to $9.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/65193ff6-68b8-301c-9ce8-68db64311891/fmc%3A-lowering-target-price-to.html",
-   "published_unix": 1785283200,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-29T21:11:30"
-  },
-  {
-   "uuid": "474bd80d-37d4-3928-8a75-31249c3cc74b",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "Five Below",
-   "title": "FIVE: Raising target price to $218.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/474bd80d-37d4-3928-8a75-31249c3cc74b/five%3A-raising-target-price-to.html",
-   "published_unix": 1785283200,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-29T21:11:30"
-  },
-  {
-   "uuid": "6f6d5e62-b8a1-3497-ad5d-80fe560b917b",
-   "tickers": [
-    "BURL"
-   ],
-   "company": "Burlington Stores",
-   "title": "BURL: Raising target price to $389.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/6f6d5e62-b8a1-3497-ad5d-80fe560b917b/burl%3A-raising-target-price-to.html",
-   "published_unix": 1785283200,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-29T21:11:31"
   }
  ]
 }
