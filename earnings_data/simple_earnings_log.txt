@@ -3536,3 +3536,13 @@
 [2026-08-28 06:23:48]     https://www.sec.gov/Archives/edgar/data/1579298/000119312526371311/burl-20260801.htm
 [2026-08-28 06:23:48]   BTCS: pending_10q_since=2026-08-20 is 8d old — clearing stale flag
 [2026-08-28 06:23:48] === CHECK-10Q complete. Checked 3, found 1, cleared 1 stale. ===
+[2026-08-28 21:20:39] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-28 21:20:41]   firehose: 8-K feed — 100 entries parsed
+[2026-08-28 21:20:41]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-08-28 21:21:01]   firehose: 8-K feed fetch failed (rc=28)
+[2026-08-28 21:21:04]   firehose: 10-Q feed — 56 entries parsed
+[2026-08-28 21:21:04]   firehose: 100 watched CIKs, 156 total feed entries
+[2026-08-28 21:21:04]   ★ NEW 10q for TOL (Toll Brothers, Inc.) filed 2026-08-28
+[2026-08-28 21:21:04]     https://www.sec.gov/Archives/edgar/data/794170/000079417026000102/tol-20260731.htm
+[2026-08-28 21:21:05]     ✉ alert sent (10q)
+[2026-08-28 21:21:05] === EDGAR FIREHOSE complete. 1 new detections. ===
