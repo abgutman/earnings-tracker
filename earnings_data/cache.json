@@ -587,8 +587,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1579298/000119312526369502/burl-20260827.htm",
   "last_detected_at": "2026-08-27T22:59:09.382538+00:00",
   "last_8k_detected_at": "2026-08-27T22:59:09.382538+00:00",
-  "pending_10q_since": "2026-08-27",
-  "last_10q_url": null
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1579298/000119312526371311/burl-20260801.htm"
  },
  "LRMR": {
   "ticker": "LRMR",
@@ -1765,8 +1764,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1436229/000149315226039377/form8-k.htm",
   "last_detected_at": "2026-08-20T14:04:21.672080+00:00",
   "last_8k_detected_at": "2026-08-20T14:04:21.672080+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-08-20"
+  "last_10q_url": null
  },
  "QNTO": {
   "ticker": "QNTO",
