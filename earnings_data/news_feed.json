@@ -1,6 +1,45 @@
 {
- "generated_at": "2026-08-28T11:17:18",
+ "generated_at": "2026-08-28T21:22:14",
  "items": [
+  {
+   "uuid": "e7dac659-2a7c-3283-aaff-1372a5d2d614",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores",
+   "title": "Burlington Stores Seen Continuing Strong Earnings Growth, UBS Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/burlington-stores-seen-continuing-strong-162301620.html",
+   "published_unix": 1787934181,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-28T21:21:09"
+  },
+  {
+   "uuid": "c6fa5de8-ed46-3995-b970-b1bc318664a1",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores",
+   "title": "Burlington Stores Positioned for Market-Share Gains, H2 Sales Upside, BofA Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/burlington-stores-positioned-market-share-150245337.html",
+   "published_unix": 1787929365,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-28T21:21:09"
+  },
+  {
+   "uuid": "6a91cc1f-d263-3f2a-82c6-d103dc149b28",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores",
+   "title": "BofA Securities Adjusts Burlington Stores Price Target to $365 From $375, Maintains Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-securities-adjusts-burlington-stores-125221160.html",
+   "published_unix": 1787921541,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-28T21:21:09"
+  },
   {
    "uuid": "a2f29c0c-6714-30b9-9d7b-63d009032781",
    "tickers": [
@@ -2280,136 +2319,6 @@
    "published_unix": 1785361607,
    "source_type": "yahoo",
    "captured_at": "2026-07-29T23:12:38"
-  },
-  {
-   "uuid": "4251d409-5a64-398a-bfb6-abd16e9fcea0",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "American Water Works Q2 Adjusted Earnings, Operating Revenue Rise",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/american-water-works-q2-adjusted-205701136.html",
-   "published_unix": 1785358621,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-29T21:11:31"
-  },
-  {
-   "uuid": "d849a94a-95d0-34b9-a84c-e5c64d975576",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "American Water Works: Q2 Earnings Snapshot",
-   "publisher": "Associated Press",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/american-water-works-q2-earnings-204339958.html",
-   "published_unix": 1785357819,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-29T21:11:31"
-  },
-  {
-   "uuid": "d621770f-196b-3347-bd79-84a36287e129",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "AMERICAN WATER REPORTS SOLID SECOND QUARTER 2026 RESULTS; AFFIRMS 2026 EPS GUIDANCE AND LONG-TERM TARGETS",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/american-water-reports-solid-second-203100969.html",
-   "published_unix": 1785357060,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-29T21:11:31"
-  },
-  {
-   "uuid": "c38e77f4-daea-3a94-8b97-2f3a82c7a64b",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC Corporation",
-   "title": "FMC Corporation reports second quarter 2026 results with Adjusted EBITDA above high end of guidance range and solid cash generation",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-corporation-reports-second-quarter-203000883.html",
-   "published_unix": 1785357000,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-29T21:11:30"
-  },
-  {
-   "uuid": "deb11a0e-6a0b-3d3d-8f53-82597ed4984b",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers to Webcast Its Third Quarter 2026 Earnings Conference Call Live on August 19, 2026 at 8:30 a.m. (ET)",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-webcast-third-quarter-203000243.html",
-   "published_unix": 1785357000,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-29T21:11:50"
-  },
-  {
-   "uuid": "e93d305d-b0f8-37d8-af6c-dacea02dda17",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Opens Cambric Village \u2013 Enclave Collection in Greenville, South Carolina",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-opens-cambric-village-190400223.html",
-   "published_unix": 1785351840,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-29T19:41:27"
-  },
-  {
-   "uuid": "ad343358-8a4f-3bea-ae33-bb9593c5755b",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast hopes generous offers will slow internet customer losses",
-   "publisher": "TheStreet",
-   "link": "https://finance.yahoo.com/m/ad343358-8a4f-3bea-ae33-bb9593c5755b/comcast-hopes-generous-offers.html",
-   "published_unix": 1785342735,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-29T17:36:57"
-  },
-  {
-   "uuid": "13f86f23-4565-3446-b0ed-a15e0973d949",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Xfinity Powers the Next Generation of Creators With \"Best in Class\"",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/media-advertising/articles/xfinity-powers-next-generation-creators-133000417.html",
-   "published_unix": 1785331800,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-29T15:18:40"
-  },
-  {
-   "uuid": "ea141b40-5f34-3232-a788-6c473c620ed0",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "American Water Announces Quarterly Dividend",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/american-water-announces-quarterly-dividend-122600344.html",
-   "published_unix": 1785327960,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-29T13:06:45"
-  },
-  {
-   "uuid": "8f098640-9b04-3f1e-925c-cb6fc24391b7",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Aramark Correctional Services Reimagines Dining with Beyond the Tray, a First-of-Its-Kind Hospitality Program",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/small-business/articles/aramark-correctional-services-reimagines-dining-113000103.html",
-   "published_unix": 1785324600,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-29T13:06:43"
   }
  ]
 }
