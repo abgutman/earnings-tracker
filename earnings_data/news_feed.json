@@ -1,6 +1,71 @@
 {
- "generated_at": "2026-08-29T06:59:28",
+ "generated_at": "2026-08-31T18:00:26",
  "items": [
+  {
+   "uuid": "48a06af1-45a6-38f3-aa19-88ba46a8f4e5",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Illinois American Water Announces Upcoming Hydrant Flushing in Streator",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/illinois-american-water-announces-upcoming-165700221.html",
+   "published_unix": 1788195420,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-31T18:00:00"
+  },
+  {
+   "uuid": "9e806fa4-20d9-3860-98d2-a4150476c8cb",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "Campbell's",
+   "title": "Campbell's Faces Challenging Packaged-Food Environment, RBC Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/campbell-apos-faces-challenging-packaged-145949299.html",
+   "published_unix": 1788188389,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-31T17:59:59"
+  },
+  {
+   "uuid": "b5f03851-da26-34d7-80f8-f65cd5d39a82",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Tennessee American Water Provides Additional PFAS Settlement Credit to Customers",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/tennessee-american-water-provides-additional-145800218.html",
+   "published_unix": 1788188280,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-31T18:00:00"
+  },
+  {
+   "uuid": "8d974cc5-2f5b-3e40-af42-edae9d503213",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores",
+   "title": "BofA Securities Adjusts Burlington Stores Price Target to $365 From $375",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-securities-adjusts-burlington-stores-114816467.html",
+   "published_unix": 1788176896,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-31T18:00:00"
+  },
+  {
+   "uuid": "2ea66077-e034-3f86-813c-51239904b9f2",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores",
+   "title": "Deutsche Bank Adjusts Burlington Stores Price Target to $323 From $367, Maintains Hold Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-adjusts-burlington-stores-112754154.html",
+   "published_unix": 1788175674,
+   "source_type": "yahoo",
+   "captured_at": "2026-08-31T18:00:00"
+  },
   {
    "uuid": "e7dac659-2a7c-3283-aaff-1372a5d2d614",
    "tickers": [
@@ -2150,149 +2215,6 @@
    "published_unix": 1785754800,
    "source_type": "yahoo",
    "captured_at": "2026-08-03T13:48:04"
-  },
-  {
-   "uuid": "2ed44085-7e5e-3ff0-9bce-5d420afc9c20",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Illinois American Water Celebrates One Year of Expanded Income-Based Discount Program",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/illinois-american-water-celebrates-one-185200968.html",
-   "published_unix": 1785523920,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-31T19:51:08"
-  },
-  {
-   "uuid": "3c1a2769-cf38-31e3-a0a1-f523d6ee38cc",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "NBCUniversal names new CFO ahead of spinoff",
-   "publisher": "CFO Dive",
-   "link": "https://finance.yahoo.com/m/3c1a2769-cf38-31e3-a0a1-f523d6ee38cc/nbcuniversal-names-new-cfo.html",
-   "published_unix": 1785507475,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-31T21:20:18"
-  },
-  {
-   "uuid": "6f5c7ee6-4308-3ae7-b348-3ed5f4bd5d22",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Mizuho Adjusts Price Target on American Water Works to $140 From $130, Maintains Neutral Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/mizuho-adjusts-price-target-american-132405674.html",
-   "published_unix": 1785504245,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-31T15:28:17"
-  },
-  {
-   "uuid": "45914443-f5a7-30b1-8816-bab88c42a0fe",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast Completes High-Speed Network Expansion to Waterbury, Bringing Advanced Technology Solutions to Businesses of All Sizes",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/articles/comcast-completes-high-speed-network-130000174.html",
-   "published_unix": 1785502800,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-31T15:28:14"
-  },
-  {
-   "uuid": "728b8f9c-cdfd-3df0-8a0f-f2b3f06c2d31",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "UNITE HERE Local 11 Releases Letter Urging Greene County Ohio Board of Commissioners and Captain Tony Buschur to Consider Aramark\u2019s Problematic Track Record in Prison Food Service and Award Contract to Alternate Provider",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/small-business/articles/unite-local-11-releases-letter-021900097.html",
-   "published_unix": 1785464340,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-31T03:46:03"
-  },
-  {
-   "uuid": "9dcece9e-6f85-3fb2-99a2-444dd3c392f4",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Illinois American Water Supports Water Utility Workforce Development to Build the Next Generation of Water Professionals",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/small-business/articles/illinois-american-water-supports-water-222700468.html",
-   "published_unix": 1785450420,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-30T23:17:54"
-  },
-  {
-   "uuid": "4ae7bffd-f3f3-31e4-beb7-2786e9482230",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces Tribute at Valor is Now Open in Kuna, Idaho",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-tribute-valor-190400280.html",
-   "published_unix": 1785438240,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-30T19:50:43"
-  },
-  {
-   "uuid": "e7d449eb-d6d8-32ac-986d-b27f4db8244c",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Analyst Report: American Water Works Company, Inc.",
-   "publisher": "Morningstar Research",
-   "link": "https://finance.yahoo.com/m/e7d449eb-d6d8-32ac-986d-b27f4db8244c/analyst-report%3A-american.html",
-   "published_unix": 1785432911,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-30T19:50:25"
-  },
-  {
-   "uuid": "93e58094-6804-37e3-8199-6a53430277d8",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "American Water Works Company, Inc. Q2 2026 Earnings Call Summary",
-   "publisher": "Moby",
-   "link": "https://finance.yahoo.com/m/93e58094-6804-37e3-8199-6a53430277d8/american-water-works-company%2C.html",
-   "published_unix": 1785414600,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-30T17:47:17"
-  },
-  {
-   "uuid": "97c55f23-878e-31c1-acb5-5985241fb816",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC Corporation",
-   "title": "FMC Corporation Q2 2026 Earnings Call Summary",
-   "publisher": "Moby",
-   "link": "https://finance.yahoo.com/m/97c55f23-878e-31c1-acb5-5985241fb816/fmc-corporation-q2-2026.html",
-   "published_unix": 1785414600,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-30T23:17:52"
-  },
-  {
-   "uuid": "0a22f957-dafb-3cf7-8fba-395167dc97d0",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC Corporation",
-   "title": "FMC Q2 Adjusted Earnings, Revenue Fall; 2026 Guidance Set",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-q2-adjusted-earnings-revenue-100403640.html",
-   "published_unix": 1785405843,
-   "source_type": "yahoo",
-   "captured_at": "2026-07-30T12:54:14"
   }
  ]
 }
