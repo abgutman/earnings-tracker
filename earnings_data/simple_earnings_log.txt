@@ -3560,3 +3560,11 @@
 [2026-08-29 03:12:21] === EDGAR FIREHOSE complete. 0 new detections. ===
 [2026-08-29 03:56:05] === CHECK-10Q: scanning for pending 10-Q filings ===
 [2026-08-29 03:56:05] === CHECK-10Q complete. Checked 2, found 0, cleared 0 stale. ===
+[2026-08-31 17:58:17] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-08-31 17:58:17]   firehose: 8-K feed — 100 entries parsed
+[2026-08-31 17:58:19]   firehose: 10-Q feed — 48 entries parsed
+[2026-08-31 17:58:19]   firehose: 100 watched CIKs, 148 total feed entries
+[2026-08-31 17:58:19]   ★ NEW 8k_701 for TELA (TELA Bio, Inc.) filed 2026-08-31
+[2026-08-31 17:58:19]     https://www.sec.gov/Archives/edgar/data/1561921/000110465926103548/tm2624299d1_8k.htm
+[2026-08-31 17:58:20]     ✉ alert sent (8k_701)
+[2026-08-31 17:58:20] === EDGAR FIREHOSE complete. 1 new detections. ===
