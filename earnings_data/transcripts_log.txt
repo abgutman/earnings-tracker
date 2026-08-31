@@ -4940,3 +4940,21 @@
 [2026-08-29 00:05:44] No new transcripts found; transcripts.json unchanged
 [2026-08-29 00:05:44] === Done. 0 new transcript links found. ===
 
+[2026-08-31 21:04:41] === Fool transcript harvest start (dry_run=False) ===
+[2026-08-31 21:04:41] Loaded 122 tickers from expanded_companies.json
+[2026-08-31 21:04:41] Recent tickers (last filing within 14d): ['BDN', 'BTCS', 'BURL', 'CRS', 'ECVT', 'NXGL', 'TELA', 'TOL', 'WTRG']
+[2026-08-31 21:04:41] Seed backfill: all seeds already in state
+[2026-08-31 21:04:41] Fetching Fool transcript index: https://www.fool.com/earnings-call-transcripts/
+[2026-08-31 21:04:42]   Found 20 transcript links on index page
+[2026-08-31 21:04:42]   Fool index matched tickers: []
+[2026-08-31 21:04:42] Yahoo secondary search for 7 tickers: ['BDN', 'BTCS', 'BURL', 'CRS', 'ECVT', 'NXGL', 'WTRG']
+[2026-08-31 21:04:43]   MISS [Yahoo] BDN: no transcript items in feed
+[2026-08-31 21:04:43]   MISS [Yahoo] BTCS: no transcript items in feed
+[2026-08-31 21:04:43]   NEW [Yahoo] BURL: https://finance.yahoo.com/m/aa194297-d07a-3cb7-a323-49fc50b9cb5c/burlington-%28burl%29-q2-2026.html (Motley Fool)
+[2026-08-31 21:04:44]   MISS [Yahoo] CRS: no transcript items in feed
+[2026-08-31 21:04:45]   MISS [Yahoo] ECVT: no transcript items in feed
+[2026-08-31 21:04:45]   MISS [Yahoo] NXGL: no transcript items in feed
+[2026-08-31 21:04:46]   MISS [Yahoo] WTRG: no transcript items in feed
+[2026-08-31 21:04:46] Saved transcripts.json (45 tickers with entries)
+[2026-08-31 21:04:46] === Done. 1 new transcript links found. ===
+
