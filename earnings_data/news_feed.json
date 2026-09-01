@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-09-01T15:27:44",
+ "generated_at": "2026-09-01T19:23:20",
  "items": [
+  {
+   "uuid": "593e7de6-90a7-3d81-adf4-65616d63764f",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers at Kresston Now Open in Montgomery, Texas",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-kresston-now-open-164400847.html",
+   "published_unix": 1788281040,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-01T19:23:19"
+  },
+  {
+   "uuid": "63f3c3f5-509f-3e89-a24d-5f0faa1a323d",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Horsham, Pennsylvania",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-163700621.html",
+   "published_unix": 1788280620,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-01T19:23:19"
+  },
   {
    "uuid": "852eaf94-6765-3b9a-81aa-4d576430eacc",
    "tickers": [
