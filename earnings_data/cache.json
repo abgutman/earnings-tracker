@@ -1098,8 +1098,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1708035/000119312526361724/d279297d8k.htm",
   "last_detected_at": "2026-08-24T11:36:26.159315+00:00",
   "last_8k_detected_at": "2026-08-24T11:36:26.159315+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-08-24"
+  "last_10q_url": null
  },
  "AHCO": {
   "ticker": "AHCO",
