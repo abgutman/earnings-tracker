@@ -1,6 +1,58 @@
 {
- "generated_at": "2026-09-01T04:59:02",
+ "generated_at": "2026-09-01T15:27:44",
  "items": [
+  {
+   "uuid": "852eaf94-6765-3b9a-81aa-4d576430eacc",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "West Virginia American Water Announces $900,000 Infrastructure Project in Charleston",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/economy/policy/articles/west-virginia-american-water-announces-145300228.html",
+   "published_unix": 1788274380,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-01T15:27:31"
+  },
+  {
+   "uuid": "5111a340-941b-30b1-adb0-5ca517fd5679",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Xfinity and Comcast Business High-Speed Internet Now Available in Bloomsbury, New Jersey",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/articles/xfinity-comcast-business-high-speed-131500209.html",
+   "published_unix": 1788268500,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-01T15:27:28"
+  },
+  {
+   "uuid": "907988d8-8d7d-3fbd-a530-6f8688d265f5",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark to Participate in Upcoming Goldman Sachs Conference",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-participate-upcoming-goldman-sachs-113000245.html",
+   "published_unix": 1788262200,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-01T15:27:28"
+  },
+  {
+   "uuid": "b1e57296-8a66-32e7-9586-032db88054de",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "Deutsche Bank Raises Price Target on Five Below to $334 From $318, Keeps Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-raises-price-target-112454030.html",
+   "published_unix": 1788261894,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-01T15:27:30"
+  },
   {
    "uuid": "48a06af1-45a6-38f3-aa19-88ba46a8f4e5",
    "tickers": [
