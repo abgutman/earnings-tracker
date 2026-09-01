@@ -3599,3 +3599,10 @@
 [2026-09-01 17:47:24]   firehose: 10-Q feed fetch failed (rc=28)
 [2026-09-01 17:47:24]   firehose: 100 watched CIKs, 100 total feed entries
 [2026-09-01 17:47:24] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-09-01 20:57:21] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-09-01 20:57:21]   firehose: 8-K feed — 100 entries parsed
+[2026-09-01 20:57:21]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-09-01 20:57:33]   firehose: 8-K page 2 — 100 entries
+[2026-09-01 20:57:40]   firehose: 10-Q feed — 37 entries parsed
+[2026-09-01 20:57:40]   firehose: 100 watched CIKs, 237 total feed entries
+[2026-09-01 20:57:40] === EDGAR FIREHOSE complete. 0 new detections. ===
