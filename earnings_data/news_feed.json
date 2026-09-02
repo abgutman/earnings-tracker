@@ -1,6 +1,58 @@
 {
- "generated_at": "2026-09-02T04:22:10",
+ "generated_at": "2026-09-02T15:05:32",
  "items": [
+  {
+   "uuid": "2d71849e-376e-3e43-8859-e61bda42c6e5",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Reaches Construction Milestone in Latest Jackson County Expansion, Bringing Xfinity and Comcast Business Services to More Michigan Residents and Businesses",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/articles/comcast-reaches-construction-milestone-latest-131500365.html",
+   "published_unix": 1788354900,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-02T15:05:09"
+  },
+  {
+   "uuid": "16ad35de-7cf1-3057-a6b5-1b06a7582727",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "Cencora\u2019s Accelerate Pharmacy Solutions Launches Cell and Gene Therapy Enablement to Help Health Systems Build and Scale Programs",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/healthcare/articles/cencora-accelerate-pharmacy-solutions-launches-123000183.html",
+   "published_unix": 1788352200,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-02T15:05:10"
+  },
+  {
+   "uuid": "e11e1ddb-e8aa-3a09-8511-11d5c0e58b77",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark Collegiate Hospitality Builds Strong Momentum with Five New Partnerships",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/small-business/articles/aramark-collegiate-hospitality-builds-strong-113000151.html",
+   "published_unix": 1788348600,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-02T15:05:09"
+  },
+  {
+   "uuid": "f1a2a134-4c2c-37bb-b1ab-803626e81c0b",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "FIVE, WOOF Stocks Rise Premarket: Five Below And Petco Get Fresh Wall Street Price Target Boosts Ahead Of Earnings",
+   "publisher": "Stocktwits",
+   "link": "https://finance.yahoo.com/m/f1a2a134-4c2c-37bb-b1ab-803626e81c0b/five%2C-woof-stocks-rise.html",
+   "published_unix": 1788338301,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-02T15:05:10"
+  },
   {
    "uuid": "c4154ec9-ac24-37d7-b677-595001bf6480",
    "tickers": [
@@ -2267,45 +2319,6 @@
    "published_unix": 1785769860,
    "source_type": "wire",
    "captured_at": "2026-08-04T13:08:29"
-  },
-  {
-   "uuid": "f577c069-45cf-31c9-8792-46f18d75c1fd",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Missouri American Water Announces Annual Firefighting Support Grant Program",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/small-business/articles/missouri-american-water-announces-annual-150000733.html",
-   "published_unix": 1785769200,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-03T16:40:08"
-  },
-  {
-   "uuid": "892e22e6-30f4-3138-a65b-cccb81df2685",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC Corporation",
-   "title": "RBC Capital Adjusts FMC Price Target to $11 From $12, Maintains Sector Perform Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-capital-adjusts-fmc-price-115629101.html",
-   "published_unix": 1785758189,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-03T13:48:02"
-  },
-  {
-   "uuid": "fa390e80-b420-3c64-b008-3b01fd8d6990",
-   "tickers": [
-    "WTRG"
-   ],
-   "company": "Essential Utilities",
-   "title": "Essential Utilities Recognizes National Water Quality Month and Reaffirms Commitment to Protecting and Providing Earth's Most Precious Resource",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/energy/articles/essential-utilities-recognizes-national-water-110000088.html",
-   "published_unix": 1785754800,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-03T13:48:04"
   }
  ]
 }
