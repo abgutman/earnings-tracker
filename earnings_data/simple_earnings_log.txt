@@ -3632,3 +3632,14 @@
 [2026-09-02 17:50:42]   firehose: 10-Q feed — 16 entries parsed
 [2026-09-02 17:50:42]   firehose: 100 watched CIKs, 116 total feed entries
 [2026-09-02 17:50:42] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-09-02 20:57:30] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-09-02 20:57:31]   firehose: 8-K feed — 100 entries parsed
+[2026-09-02 20:57:37]   firehose: 10-Q feed — 28 entries parsed
+[2026-09-02 20:57:37]   firehose: 100 watched CIKs, 128 total feed entries
+[2026-09-02 20:57:37]   ★ NEW 8k_701 for HSY (HERSHEY CO) filed 2026-09-02
+[2026-09-02 20:57:37]     https://www.sec.gov/Archives/edgar/data/47111/000162828026060131/hsy-20260902.htm
+[2026-09-02 20:57:38]     ✉ alert sent (8k_701)
+[2026-09-02 20:57:38]   ★ NEW 8k_202 for FIVE (FIVE BELOW, INC) filed 2026-09-02
+[2026-09-02 20:57:38]     https://www.sec.gov/Archives/edgar/data/1177609/000117760926000023/five-20260902.htm
+[2026-09-02 20:57:39]     ✉ alert sent (8k_202)
+[2026-09-02 20:57:39] === EDGAR FIREHOSE complete. 2 new detections. ===
