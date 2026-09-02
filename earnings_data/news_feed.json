@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-09-02T15:05:32",
+ "generated_at": "2026-09-02T18:41:09",
  "items": [
+  {
+   "uuid": "5bc49d11-e853-38a8-a744-30bf26fa970b",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces Final Opportunity to Own a New Luxury Home in Porter Ranch in Southern California",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-final-opportunity-155800099.html",
+   "published_unix": 1788364680,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-02T18:41:09"
+  },
   {
    "uuid": "2d71849e-376e-3e43-8859-e61bda42c6e5",
    "tickers": [
@@ -2308,17 +2321,6 @@
    "published_unix": 1785783180,
    "source_type": "yahoo",
    "captured_at": "2026-08-03T18:57:43"
-  },
-  {
-   "uuid": "1d3c97152df4e5c9b1b3cc601c3a661d414dc03b",
-   "tickers": [],
-   "company": "PJM Interconnection",
-   "title": "Over 700 New Generation Projects Accepted Into First Cycle of Reformed Interconnection Process",
-   "publisher": "PR Newswire",
-   "link": "https://www.prnewswire.com/news-releases/over-700-new-generation-projects-accepted-into-first-cycle-of-reformed-interconnection-process-302841309.html",
-   "published_unix": 1785769860,
-   "source_type": "wire",
-   "captured_at": "2026-08-04T13:08:29"
   }
  ]
 }
