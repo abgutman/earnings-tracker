@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-09-02T01:01:35",
+ "generated_at": "2026-09-02T04:22:10",
  "items": [
+  {
+   "uuid": "c4154ec9-ac24-37d7-b677-595001bf6480",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Technology Solutions Unveils Next-Gen Video AI Applications for Broadcasters, Content and Streaming Providers, and Operators",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/technology/ai/articles/comcast-technology-solutions-unveils-next-040000864.html",
+   "published_unix": 1788321600,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-02T04:21:54"
+  },
   {
    "uuid": "593e7de6-90a7-3d81-adf4-65616d63764f",
    "tickers": [
