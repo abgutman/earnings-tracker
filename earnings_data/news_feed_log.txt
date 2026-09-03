@@ -7877,3 +7877,30 @@
 [2026-09-02 21:48:26]   Toll Brothers [yahoo_search]: 6 fetched, 1 new
 [2026-09-02 21:48:27]   Brandywine Realty Trust [yahoo_search]: 7 fetched, 1 new
 [2026-09-02 21:48:27] === Done. 184 new items, 183 total in 720h window ===
+[2026-09-03 00:14:06] === Local news feed poll start ===
+[2026-09-03 00:14:06] 22 active entities
+[2026-09-03 00:14:07]   Comcast [yahoo_search]: 4 fetched, 0 new
+[2026-09-03 00:14:07]   Aramark [yahoo_search]: 4 fetched, 0 new
+[2026-09-03 00:14:08]   Cencora [yahoo_search]: 2 fetched, 0 new
+[2026-09-03 00:14:08]   FMC Corporation [yahoo_search]: 2 fetched, 1 new
+[2026-09-03 00:14:09]   Five Below [yahoo_search]: 4 fetched, 2 new
+[2026-09-03 00:14:09]   Campbell's [yahoo_search]: 2 fetched, 0 new
+[2026-09-03 00:14:10]   Burlington Stores [yahoo_search]: 4 fetched, 0 new
+[2026-09-03 00:14:10]   American Water [yahoo_search]: 7 fetched, 0 new
+[2026-09-03 00:14:10]   Essential Utilities [yahoo_search]: 3 fetched, 0 new
+[2026-09-03 00:14:12]   Independence Blue Cross [wire_page]: 25 fetched, 25 new
+[2026-09-03 00:14:17]   Vanguard [wire_page]: 6 fetched, 6 new
+[2026-09-03 00:14:19]   Wawa [wire_page]: 6 fetched, 6 new
+[2026-09-03 00:14:39]   fetch err https://www.prnewswire.com/news/gopuff/: Failed to perform, curl: (28) Operation timed out after 20001 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+[2026-09-03 00:14:39]   Gopuff [wire_page]: 0 fetched, 0 new
+[2026-09-03 00:14:53]   PJM Interconnection [wire_page]: 25 fetched, 24 new
+[2026-09-03 00:14:54]   Franklin Biolabs [rss]: 10 fetched, 7 new
+[2026-09-03 00:15:00]   QVC Group [wire_page]: 25 fetched, 25 new
+[2026-09-03 00:15:02]   Spark Therapeutics [wire_page]: 22 fetched, 22 new
+[2026-09-03 00:15:03]   GEMMA Biotherapeutics [wire_page]: 9 fetched, 9 new
+[2026-09-03 00:15:05]   David's Bridal [wire_page]: 25 fetched, 25 new
+[2026-09-03 00:15:25]   fetch err https://www.prnewswire.com/news/td-bank/: Failed to perform, curl: (28) Operation timed out after 20002 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+[2026-09-03 00:15:26]   TD Bank [wire_page]: 0 fetched, 0 new
+[2026-09-03 00:15:26]   Toll Brothers [yahoo_search]: 6 fetched, 0 new
+[2026-09-03 00:15:27]   Brandywine Realty Trust [yahoo_search]: 7 fetched, 1 new
+[2026-09-03 00:15:27] === Done. 153 new items, 185 total in 720h window ===

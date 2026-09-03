@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-09-02T21:48:27",
+ "generated_at": "2026-09-03T00:15:27",
  "items": [
+  {
+   "uuid": "6830224e-a60d-3432-9a3d-64a1850647ad",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "Five Below Raises Outlook as Sales Gain on Trendy Products",
+   "publisher": "The Wall Street Journal",
+   "link": "https://finance.yahoo.com/m/6830224e-a60d-3432-9a3d-64a1850647ad/five-below-raises-outlook-as.html",
+   "published_unix": 1788390060,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-03T00:14:09"
+  },
+  {
+   "uuid": "cb955280-5073-3672-8253-7bc150a2b32f",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "Five Below Stock Gains on Strong Earnings",
+   "publisher": "The Wall Street Journal",
+   "link": "https://finance.yahoo.com/m/cb955280-5073-3672-8253-7bc150a2b32f/five-below-stock-gains-on.html",
+   "published_unix": 1788384031,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-03T00:14:09"
+  },
   {
    "uuid": "9ac3a7d4-c957-3932-9a70-ddc9bbc9f1da",
    "tickers": [
