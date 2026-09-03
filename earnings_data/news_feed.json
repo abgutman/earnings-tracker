@@ -1,6 +1,123 @@
 {
- "generated_at": "2026-09-03T04:16:31",
+ "generated_at": "2026-09-03T14:59:44",
  "items": [
+  {
+   "uuid": "176b3992-910a-31cd-8d22-f19c493473c1",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "Campbell's",
+   "title": "Campbell\u2019s Cuts 13% of Workforce in Effort to Turn Around Struggling Operations",
+   "publisher": "The Wall Street Journal",
+   "link": "https://finance.yahoo.com/m/176b3992-910a-31cd-8d22-f19c493473c1/campbell%E2%80%99s-cuts-13%25-of.html",
+   "published_unix": 1788446400,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-03T14:59:09"
+  },
+  {
+   "uuid": "d6a7c05c-5ea2-3dda-b0aa-9b941119ffd2",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Final Opportunity to Own a New Luxury Home in Toll Brothers at Tesoro Highlands - Alta Monte Collection in Valencia, California",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/final-opportunity-own-luxury-home-134000706.html",
+   "published_unix": 1788442800,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-03T14:59:44"
+  },
+  {
+   "uuid": "2d1af902-4182-34b0-8177-1f4dafee6074",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "Campbell's",
+   "title": "Campbell\u2019s Shares Fall After Fiscal 2027 Guidance Comes in Below Expectations",
+   "publisher": "InvestorsHub",
+   "link": "https://finance.yahoo.com/m/2d1af902-4182-34b0-8177-1f4dafee6074/campbell%E2%80%99s-shares-fall-after.html",
+   "published_unix": 1788442182,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-03T14:59:09"
+  },
+  {
+   "uuid": "3d1884f5-e5c9-352e-a9d6-6cc5dc04ed3d",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "Campbell's",
+   "title": "Campbell's cuts dividend, forecasts weaker fiscal 2027 sales",
+   "publisher": "Quartz",
+   "link": "https://finance.yahoo.com/m/3d1884f5-e5c9-352e-a9d6-6cc5dc04ed3d/campbell%27s-cuts-dividend%2C.html",
+   "published_unix": 1788441939,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-03T14:59:09"
+  },
+  {
+   "uuid": "7566bbdd-1f69-3eb3-bc00-35becb2cc95b",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "Campbell's",
+   "title": "Campbell\u2019s Slashes Dividend and Looks to Cut Costs as Performance Remains \u2018Unacceptable\u2019",
+   "publisher": "Barrons.com",
+   "link": "https://finance.yahoo.com/m/7566bbdd-1f69-3eb3-bc00-35becb2cc95b/campbell%E2%80%99s-slashes-dividend.html",
+   "published_unix": 1788440280,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-03T14:59:09"
+  },
+  {
+   "uuid": "3630c3e1-42d2-387c-9bfd-48c7a37b8c37",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "UBS Adjusts Five Below Price Target to $325 From $285, Maintains Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-five-below-price-121110303.html",
+   "published_unix": 1788437470,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-03T14:59:08"
+  },
+  {
+   "uuid": "173db0dd-66ea-363e-89ad-f8ecd207cbde",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "Deutsche Bank Adjusts Five Below Price Target to $401 From $334, Maintains Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-adjusts-five-below-111652174.html",
+   "published_unix": 1788434212,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-03T14:59:08"
+  },
+  {
+   "uuid": "4f2365e0-0f61-361b-a25b-7d38949a3397",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "Truist Securities Adjusts Price Target on Five Below to $297 From $273, Keeps Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/truist-securities-adjusts-price-target-104745495.html",
+   "published_unix": 1788432465,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-03T14:59:08"
+  },
+  {
+   "uuid": "7fcc9415-0b47-3e7f-a3f6-ea21d9dd7211",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "Five Below Shares Rise After Q2 Earnings Beat and Guidance Increase",
+   "publisher": "InvestorsHub",
+   "link": "https://finance.yahoo.com/m/7fcc9415-0b47-3e7f-a3f6-ea21d9dd7211/five-below-shares-rise-after.html",
+   "published_unix": 1788430662,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-03T14:59:08"
+  },
   {
    "uuid": "6830224e-a60d-3432-9a3d-64a1850647ad",
    "tickers": [
@@ -2386,19 +2503,6 @@
    "published_unix": 1785875400,
    "source_type": "yahoo",
    "captured_at": "2026-08-04T21:34:31"
-  },
-  {
-   "uuid": "9e174cc5-e76b-3d51-b8c0-13f119449c54",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces Haven at Sea Bright is Now Open on the New Jersey Coast",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-haven-sea-133000868.html",
-   "published_unix": 1785850200,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-04T15:35:29"
   }
  ]
 }
