@@ -3685,3 +3685,5 @@
 [2026-09-03 22:29:40]   firehose: 10-Q feed fetch failed (rc=28)
 [2026-09-03 22:29:40]   firehose: 100 watched CIKs, 100 total feed entries
 [2026-09-03 22:29:40] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-09-03 23:19:55] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-09-03 23:20:18] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
