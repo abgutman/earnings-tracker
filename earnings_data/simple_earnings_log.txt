@@ -3654,3 +3654,11 @@
 [2026-09-02 23:23:08] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
 [2026-09-03 00:46:08] === CHECK-10Q: scanning for pending 10-Q filings ===
 [2026-09-03 00:46:09] === CHECK-10Q complete. Checked 3, found 0, cleared 0 stale. ===
+[2026-09-03 14:56:44] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-09-03 14:56:44]   firehose: 8-K feed — 100 entries parsed
+[2026-09-03 14:56:45]   firehose: 10-Q feed — 24 entries parsed
+[2026-09-03 14:56:45]   firehose: 100 watched CIKs, 124 total feed entries
+[2026-09-03 14:56:45]   ★ NEW 8k_202 for CPB (CAMPBELL'S Co) filed 2026-09-03
+[2026-09-03 14:56:45]     https://www.sec.gov/Archives/edgar/data/16732/000001673226000020/cpb-20260903.htm
+[2026-09-03 14:56:47]     ✉ alert sent (8k_202)
+[2026-09-03 14:56:47] === EDGAR FIREHOSE complete. 1 new detections. ===
