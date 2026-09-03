@@ -3680,3 +3680,8 @@
 [2026-09-03 21:07:53]     ✉ alert sent (10q)
 [2026-09-03 21:07:53]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001177609.json'
 [2026-09-03 21:08:26] === EDGAR POLL complete. Fetched 100 companies, 1 new filings. ===
+[2026-09-03 22:29:10] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-09-03 22:29:20]   firehose: 8-K feed — 100 entries parsed
+[2026-09-03 22:29:40]   firehose: 10-Q feed fetch failed (rc=28)
+[2026-09-03 22:29:40]   firehose: 100 watched CIKs, 100 total feed entries
+[2026-09-03 22:29:40] === EDGAR FIREHOSE complete. 0 new detections. ===
