@@ -3662,3 +3662,5 @@
 [2026-09-03 14:56:45]     https://www.sec.gov/Archives/edgar/data/16732/000001673226000020/cpb-20260903.htm
 [2026-09-03 14:56:47]     ✉ alert sent (8k_202)
 [2026-09-03 14:56:47] === EDGAR FIREHOSE complete. 1 new detections. ===
+[2026-09-03 17:04:26] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-09-03 17:04:56] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
