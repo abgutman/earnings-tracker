@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-09-03T18:37:23",
+ "generated_at": "2026-09-03T21:42:15",
  "items": [
+  {
+   "uuid": "9b6f064c-f2d6-329d-a634-9797b731c176",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "Campbell's",
+   "title": "Campbell\u2019s and Other Staples Stocks Have Hit a Rough Patch",
+   "publisher": "Barrons.com",
+   "link": "https://finance.yahoo.com/m/9b6f064c-f2d6-329d-a634-9797b731c176/campbell%E2%80%99s-and-other-staples.html",
+   "published_unix": 1788466260,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-03T21:41:49"
+  },
+  {
+   "uuid": "59250b19-c2f2-3032-8e44-8869f9cd8232",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "California American Water Begins $8.6 Million Infrastructure Improvement Project in Lincoln Oaks",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/economy/articles/california-american-water-begins-8-182300186.html",
+   "published_unix": 1788459780,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-03T21:41:50"
+  },
   {
    "uuid": "7da9a922-7464-3896-aea5-2c91f3239468",
    "tickers": [
@@ -2555,19 +2581,6 @@
    "published_unix": 1785888000,
    "source_type": "yahoo",
    "captured_at": "2026-08-05T21:31:34"
-  },
-  {
-   "uuid": "440eb36e-61dc-3f65-a60c-2c9734d2b976",
-   "tickers": [
-    "WTRG"
-   ],
-   "company": "Essential Utilities",
-   "title": "Essential Utilities Reports Q2 2026 Results",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/essential-utilities-reports-q2-2026-203000910.html",
-   "published_unix": 1785875400,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-04T21:34:31"
   }
  ]
 }
