@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-09-04T14:57:13",
+ "generated_at": "2026-09-04T18:23:23",
  "items": [
+  {
+   "uuid": "928fb2ff-970c-386e-b2aa-37911d2a33a7",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "Campbell's",
+   "title": "Campbell's Faces Another Tough Year as Headwinds Deepen, RBC Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/campbell-apos-faces-another-tough-162317383.html",
+   "published_unix": 1788538997,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-04T18:23:03"
+  },
+  {
+   "uuid": "e4bbec39-7344-3d85-a016-3c58d95848b2",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "Campbell's",
+   "title": "The Campbell\u2019s Company to Participate in a Fireside Chat at Barclays Global Consumer Staples Conference on September 9",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/campbell-company-participate-fireside-chat-160000450.html",
+   "published_unix": 1788537600,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-04T18:23:03"
+  },
   {
    "uuid": "036e3576-b641-3500-a5ec-68ba126f42a7",
    "tickers": [
@@ -2492,17 +2518,6 @@
    "published_unix": 1785963395,
    "source_type": "yahoo",
    "captured_at": "2026-08-05T23:17:04"
-  },
-  {
-   "uuid": "dcfb246049ef71e2bd5bb4c89fc03bf5e934e594",
-   "tickers": [],
-   "company": "Franklin Biolabs",
-   "title": "Franklin Biolabs CEO Selected as a 2026 Women of Influence Honoree by the Philadelphia Business Journal",
-   "publisher": "Franklin Biolabs",
-   "link": "https://franklinbio.com/franklin-biolabs-ceo-selected-as-a-2026-women-of-influence-honoree-by-the-philadelphia-business-journal/",
-   "published_unix": 1785943425,
-   "source_type": "rss",
-   "captured_at": "2026-08-05T15:26:05"
   }
  ]
 }
