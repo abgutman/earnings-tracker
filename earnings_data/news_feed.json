@@ -1,6 +1,58 @@
 {
- "generated_at": "2026-09-04T04:23:08",
+ "generated_at": "2026-09-04T14:57:13",
  "items": [
+  {
+   "uuid": "036e3576-b641-3500-a5ec-68ba126f42a7",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "Campbell's",
+   "title": "UBS Adjusts Price Target on Campbell's to $19 From $18, Keeps Sell Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-price-target-campbell-125226767.html",
+   "published_unix": 1788526346,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-04T14:56:50"
+  },
+  {
+   "uuid": "dadf7ba0-3a0d-3a66-9ef6-79c69aaf570b",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "Jim Cramer says Five Below stock is a buy after earnings beat",
+   "publisher": "Quartz",
+   "link": "https://finance.yahoo.com/m/dadf7ba0-3a0d-3a66-9ef6-79c69aaf570b/jim-cramer-says-five-below.html",
+   "published_unix": 1788523553,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-04T14:56:49"
+  },
+  {
+   "uuid": "ed58834d-8bef-376b-9fad-e0bde4864b5c",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "Campbell's",
+   "title": "RBC Cuts Price Target on Campbell's to $19 From $21, Keeps Sector Perform Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-cuts-price-target-campbell-102851412.html",
+   "published_unix": 1788517731,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-04T14:56:50"
+  },
+  {
+   "uuid": "d528d29b-ebb4-3fec-bc98-f05e1667dcde",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "Campbell's",
+   "title": "CPB Stock Heads For Worst Week Since March: Jefferies Sees 2027 'Shaping Up As A Difficult Year' After Dividend Cut",
+   "publisher": "Stocktwits",
+   "link": "https://finance.yahoo.com/m/d528d29b-ebb4-3fec-bc98-f05e1667dcde/cpb-stock-heads-for-worst.html",
+   "published_unix": 1788498300,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-04T14:56:50"
+  },
   {
    "uuid": "fb6c9119-e7cb-3d71-84d7-f92ca3be9dd3",
    "tickers": [
@@ -169,6 +221,19 @@
    "published_unix": 1788440280,
    "source_type": "yahoo",
    "captured_at": "2026-09-03T14:59:09"
+  },
+  {
+   "uuid": "acbc09c5-aa18-3b00-ac5c-453495f2a0b0",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "Five Below, Inc. Q2 2026 Earnings Call Summary",
+   "publisher": "Moby",
+   "link": "https://finance.yahoo.com/m/acbc09c5-aa18-3b00-ac5c-453495f2a0b0/five-below%2C-inc.-q2-2026.html",
+   "published_unix": 1788438600,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-04T14:56:49"
   },
   {
    "uuid": "a7b3ec90-1763-39c6-b18a-250e1137ad3d",
@@ -2438,136 +2503,6 @@
    "published_unix": 1785943425,
    "source_type": "rss",
    "captured_at": "2026-08-05T15:26:05"
-  },
-  {
-   "uuid": "9786e87c-8542-3cb8-b153-b28842a9eeac",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Kentucky American Water Treatment Plant Recognized for Operational Excellence",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/kentucky-american-water-treatment-plant-133200828.html",
-   "published_unix": 1785936720,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-05T15:25:58"
-  },
-  {
-   "uuid": "22c8c2a2-27f6-395d-888c-28cbfd006a0b",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora",
-   "title": "Cencora raises full-year guidance after stronger-than-expected third-quarter results",
-   "publisher": "InvestorsHub",
-   "link": "https://finance.yahoo.com/m/22c8c2a2-27f6-395d-888c-28cbfd006a0b/cencora-raises-full-year.html",
-   "published_unix": 1785934576,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-05T15:25:56"
-  },
-  {
-   "uuid": "279b0b1c-cf48-302d-af01-81d68741e27e",
-   "tickers": [
-    "WTRG"
-   ],
-   "company": "Essential Utilities",
-   "title": "Essential Utilities, Inc. Q2 2026 Earnings Call Summary",
-   "publisher": "Moby",
-   "link": "https://finance.yahoo.com/m/279b0b1c-cf48-302d-af01-81d68741e27e/essential-utilities%2C-inc.-q2.html",
-   "published_unix": 1785933000,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-05T23:17:06"
-  },
-  {
-   "uuid": "134f4c8d-a4e7-3e43-9a0d-3a0909670d10",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Aramark Declares Quarterly Dividend",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-declares-quarterly-dividend-113000224.html",
-   "published_unix": 1785929400,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-05T13:02:25"
-  },
-  {
-   "uuid": "e828fac0-115b-3fa8-9f50-64a357b3e454",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Aramark Collegiate Hospitality Selected to Transform Campus Dining and Hospitality Services at University of Colorado Colorado Springs",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/small-business/articles/aramark-collegiate-hospitality-selected-transform-113000628.html",
-   "published_unix": 1785929400,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-05T13:02:25"
-  },
-  {
-   "uuid": "7875bd10-a923-366c-a4c4-f33436d9af24",
-   "tickers": [
-    "BURL"
-   ],
-   "company": "Burlington Stores",
-   "title": "Citigroup Downgrades Burlington Stores to Neutral From Buy, Price Target is $380",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/citigroup-downgrades-burlington-stores-neutral-112200340.html",
-   "published_unix": 1785928920,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-05T13:02:27"
-  },
-  {
-   "uuid": "c05ea99f-2000-3b55-b056-70140d0a99bc",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Analyst Report: Aramark",
-   "publisher": "Morningstar Research",
-   "link": "https://finance.yahoo.com/m/c05ea99f-2000-3b55-b056-70140d0a99bc/analyst-report%3A-aramark.html",
-   "published_unix": 1785927464,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-05T17:52:50"
-  },
-  {
-   "uuid": "b4246b05-1296-3709-820b-8c19fa785335",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora",
-   "title": "Cencora's Fiscal Q3 Adjusted Earnings, Revenue Rise; Raises 2026 Adjusted EPS Guidance",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/cencora-apos-fiscal-q3-adjusted-105323317.html",
-   "published_unix": 1785927203,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-05T13:02:25"
-  },
-  {
-   "uuid": "1b5e2f84-46c1-301f-8900-d70a9ccea595",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora",
-   "title": "Cencora: Fiscal Q3 Earnings Snapshot",
-   "publisher": "Associated Press",
-   "link": "https://finance.yahoo.com/healthcare/articles/cencora-fiscal-q3-earnings-snapshot-103612605.html",
-   "published_unix": 1785926172,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-05T13:02:25"
-  },
-  {
-   "uuid": "efd69c4d-b65b-32b2-a7d3-9ba4306bb507",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora",
-   "title": "Cencora Reports Fiscal 2026 Third Quarter Results",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/healthcare/articles/cencora-reports-fiscal-2026-third-103000847.html",
-   "published_unix": 1785925800,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-05T13:02:25"
   }
  ]
 }
