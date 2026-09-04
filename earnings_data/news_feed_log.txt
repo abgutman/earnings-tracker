@@ -8104,3 +8104,30 @@
 [2026-09-04 18:23:22]   Toll Brothers [yahoo_search]: 5 fetched, 0 new
 [2026-09-04 18:23:23]   Brandywine Realty Trust [yahoo_search]: 7 fetched, 1 new
 [2026-09-04 18:23:23] === Done. 181 new items, 194 total in 720h window ===
+[2026-09-04 21:27:15] === Local news feed poll start ===
+[2026-09-04 21:27:15] 22 active entities
+[2026-09-04 21:27:16]   Comcast [yahoo_search]: 3 fetched, 0 new
+[2026-09-04 21:27:16]   Aramark [yahoo_search]: 4 fetched, 0 new
+[2026-09-04 21:27:16]   Cencora: ticker COR did not resolve — skipping (avoids generic bucket)
+[2026-09-04 21:27:17]   Cencora [yahoo_search]: 0 fetched, 0 new
+[2026-09-04 21:27:17]   FMC Corporation [yahoo_search]: 2 fetched, 1 new
+[2026-09-04 21:27:18]   Five Below [yahoo_search]: 3 fetched, 0 new
+[2026-09-04 21:27:18]   Campbell's [yahoo_search]: 6 fetched, 1 new
+[2026-09-04 21:27:18]   Burlington Stores [yahoo_search]: 4 fetched, 0 new
+[2026-09-04 21:27:19]   American Water [yahoo_search]: 5 fetched, 0 new
+[2026-09-04 21:27:19]   Essential Utilities [yahoo_search]: 3 fetched, 0 new
+[2026-09-04 21:27:23]   Independence Blue Cross [wire_page]: 25 fetched, 25 new
+[2026-09-04 21:27:32]   Vanguard [wire_page]: 6 fetched, 6 new
+[2026-09-04 21:27:38]   Wawa [wire_page]: 6 fetched, 6 new
+[2026-09-04 21:27:49]   Gopuff [wire_page]: 3 fetched, 3 new
+[2026-09-04 21:28:00]   PJM Interconnection [wire_page]: 25 fetched, 24 new
+[2026-09-04 21:28:01]   Franklin Biolabs [rss]: 10 fetched, 8 new
+[2026-09-04 21:28:11]   QVC Group [wire_page]: 25 fetched, 25 new
+[2026-09-04 21:28:18]   Spark Therapeutics [wire_page]: 22 fetched, 22 new
+[2026-09-04 21:28:22]   GEMMA Biotherapeutics [wire_page]: 9 fetched, 9 new
+[2026-09-04 21:28:42]   fetch err https://www.prnewswire.com/news/david's-bridal/: Failed to perform, curl: (28) Operation timed out after 20002 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+[2026-09-04 21:28:42]   David's Bridal [wire_page]: 0 fetched, 0 new
+[2026-09-04 21:28:55]   TD Bank [wire_page]: 25 fetched, 25 new
+[2026-09-04 21:28:55]   Toll Brothers [yahoo_search]: 5 fetched, 0 new
+[2026-09-04 21:28:56]   Brandywine Realty Trust [yahoo_search]: 7 fetched, 1 new
+[2026-09-04 21:28:56] === Done. 156 new items, 194 total in 720h window ===

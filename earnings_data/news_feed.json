@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-09-04T18:23:23",
+ "generated_at": "2026-09-04T21:28:56",
  "items": [
+  {
+   "uuid": "141ab08b-ef35-3b8a-a652-2e0f8faf2905",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "Campbell's",
+   "title": "Campbell's Path to Sustained Recovery Uncertain, UBS Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/campbell-apos-path-sustained-recovery-185436813.html",
+   "published_unix": 1788548076,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-04T21:27:18"
+  },
   {
    "uuid": "928fb2ff-970c-386e-b2aa-37911d2a33a7",
    "tickers": [
@@ -2505,19 +2518,6 @@
    "published_unix": 1785966192,
    "source_type": "yahoo",
    "captured_at": "2026-08-05T23:17:06"
-  },
-  {
-   "uuid": "53cd3754-8046-3178-b939-2eb4147670ab",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora",
-   "title": "Analyst Report: Cencora, Inc.",
-   "publisher": "Morningstar Research",
-   "link": "https://finance.yahoo.com/m/53cd3754-8046-3178-b939-2eb4147670ab/analyst-report%3A-cencora%2C-inc..html",
-   "published_unix": 1785963395,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-05T23:17:04"
   }
  ]
 }
