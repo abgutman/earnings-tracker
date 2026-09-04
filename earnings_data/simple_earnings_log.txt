@@ -3687,3 +3687,7 @@
 [2026-09-03 22:29:40] === EDGAR FIREHOSE complete. 0 new detections. ===
 [2026-09-03 23:19:55] === EDGAR POLL: scanning for new earnings filings (live=True) ===
 [2026-09-03 23:20:18] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
+[2026-09-04 00:28:23] === CHECK-10Q: scanning for pending 10-Q filings ===
+[2026-09-04 00:28:23]   ✓ 10-Q found for FIVE (FIVE BELOW, INC) filed 2026-09-03
+[2026-09-04 00:28:23]     https://www.sec.gov/Archives/edgar/data/1177609/000117760926000027/five-20260801.htm
+[2026-09-04 00:28:24] === CHECK-10Q complete. Checked 4, found 1, cleared 0 stale. ===

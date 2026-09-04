@@ -1,13 +1,3 @@
 {
- "_comment": "Confirmed upcoming earnings dates. Populated manually + by future auto-extraction from save-the-date press releases. Each entry: release_date (YYYY-MM-DD), optionally call_date, call_time (HH:MM ET), source_url, source_title.",
- "CPB": {
-  "release_date": "2026-09-03",
-  "call_date": null,
-  "call_time": null,
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/campbell-company-report-fourth-quarter-120000062.html",
-  "source_title": "The Campbell\u2019s Company to Report Fourth Quarter and Full Year Fiscal 2026 Results on September 3, 2026",
-  "source_publisher": "Business Wire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-08-13T23:26:30"
- }
+ "_comment": "Confirmed upcoming earnings dates. Populated manually + by future auto-extraction from save-the-date press releases. Each entry: release_date (YYYY-MM-DD), optionally call_date, call_time (HH:MM ET), source_url, source_title."
 }
