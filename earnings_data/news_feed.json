@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-09-03T21:42:15",
+ "generated_at": "2026-09-04T00:05:46",
  "items": [
+  {
+   "uuid": "fb6c9119-e7cb-3d71-84d7-f92ca3be9dd3",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "Campbell's",
+   "title": "Campbell's Promises New Marketing Approach",
+   "publisher": "MediaPost",
+   "link": "https://finance.yahoo.com/m/fb6c9119-e7cb-3d71-84d7-f92ca3be9dd3/campbell%27s-promises-new.html",
+   "published_unix": 1788475842,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-04T00:04:48"
+  },
+  {
+   "uuid": "af0e1e6d-96bf-3306-9a17-9bba7be89ad9",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Missouri American Water Completes Acquisition of the City of Neosho Water and Wastewater Systems",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/missouri-american-water-completes-acquisition-213900585.html",
+   "published_unix": 1788471540,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-04T00:04:49"
+  },
   {
    "uuid": "9b6f064c-f2d6-329d-a634-9797b731c176",
    "tickers": [
@@ -2542,45 +2568,6 @@
    "published_unix": 1785925800,
    "source_type": "yahoo",
    "captured_at": "2026-08-05T13:02:25"
-  },
-  {
-   "uuid": "095d6a32-5d6f-335d-bdd5-40254d5e456c",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC Corporation",
-   "title": "FMC: What does Argus have to say about FMC?",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/095d6a32-5d6f-335d-bdd5-40254d5e456c/fmc%3A-what-does-argus-have-to.html",
-   "published_unix": 1785888000,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-05T21:31:32"
-  },
-  {
-   "uuid": "d94d4b29-5d6a-35e9-ac42-590a672777ca",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "Five Below",
-   "title": "FIVE: Raising target price to $233.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/d94d4b29-5d6a-35e9-ac42-590a672777ca/five%3A-raising-target-price-to.html",
-   "published_unix": 1785888000,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-05T21:31:33"
-  },
-  {
-   "uuid": "84f6575a-a0ab-3b8f-b72d-c97531577802",
-   "tickers": [
-    "BURL"
-   ],
-   "company": "Burlington Stores",
-   "title": "BURL: Lowering target price to $386.00",
-   "publisher": "Argus Research",
-   "link": "https://finance.yahoo.com/m/84f6575a-a0ab-3b8f-b72d-c97531577802/burl%3A-lowering-target-price.html",
-   "published_unix": 1785888000,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-05T21:31:34"
   }
  ]
 }
