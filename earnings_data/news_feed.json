@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T21:28:56",
+ "generated_at": "2026-09-05T00:05:29",
  "items": [
   {
    "uuid": "141ab08b-ef35-3b8a-a652-2e0f8faf2905",
@@ -2505,19 +2505,6 @@
    "published_unix": 1785985458,
    "source_type": "yahoo",
    "captured_at": "2026-08-06T13:02:36"
-  },
-  {
-   "uuid": "1c68c8e7-dab6-3c6d-be40-807d766a81b3",
-   "tickers": [
-    "WTRG"
-   ],
-   "company": "Essential Utilities",
-   "title": "Analyst Report: Essential Utilities, Inc.",
-   "publisher": "Morningstar Research",
-   "link": "https://finance.yahoo.com/m/1c68c8e7-dab6-3c6d-be40-807d766a81b3/analyst-report%3A-essential.html",
-   "published_unix": 1785966192,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-05T23:17:06"
   }
  ]
 }

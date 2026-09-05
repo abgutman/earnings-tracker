@@ -8131,3 +8131,29 @@
 [2026-09-04 21:28:55]   Toll Brothers [yahoo_search]: 5 fetched, 0 new
 [2026-09-04 21:28:56]   Brandywine Realty Trust [yahoo_search]: 7 fetched, 1 new
 [2026-09-04 21:28:56] === Done. 156 new items, 194 total in 720h window ===
+[2026-09-05 00:03:21] === Local news feed poll start ===
+[2026-09-05 00:03:21] 22 active entities
+[2026-09-05 00:03:21]   Comcast [yahoo_search]: 3 fetched, 0 new
+[2026-09-05 00:03:22]   Aramark [yahoo_search]: 4 fetched, 0 new
+[2026-09-05 00:03:22]   Cencora [yahoo_search]: 0 fetched, 0 new
+[2026-09-05 00:03:22]   FMC Corporation [yahoo_search]: 2 fetched, 1 new
+[2026-09-05 00:03:23]   Five Below [yahoo_search]: 2 fetched, 0 new
+[2026-09-05 00:03:23]   Campbell's [yahoo_search]: 5 fetched, 0 new
+[2026-09-05 00:03:24]   Burlington Stores [yahoo_search]: 3 fetched, 0 new
+[2026-09-05 00:03:24]   American Water [yahoo_search]: 5 fetched, 0 new
+[2026-09-05 00:03:24]   Essential Utilities [yahoo_search]: 3 fetched, 0 new
+[2026-09-05 00:03:40]   Independence Blue Cross [wire_page]: 25 fetched, 25 new
+[2026-09-05 00:03:48]   Vanguard [wire_page]: 6 fetched, 6 new
+[2026-09-05 00:03:57]   Wawa [wire_page]: 6 fetched, 6 new
+[2026-09-05 00:04:17]   fetch err https://www.prnewswire.com/news/gopuff/: Failed to perform, curl: (28) Operation timed out after 20001 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+[2026-09-05 00:04:18]   Gopuff [wire_page]: 0 fetched, 0 new
+[2026-09-05 00:04:32]   PJM Interconnection [wire_page]: 25 fetched, 24 new
+[2026-09-05 00:04:32]   Franklin Biolabs [rss]: 10 fetched, 8 new
+[2026-09-05 00:04:39]   QVC Group [wire_page]: 25 fetched, 25 new
+[2026-09-05 00:04:46]   Spark Therapeutics [wire_page]: 22 fetched, 22 new
+[2026-09-05 00:05:00]   GEMMA Biotherapeutics [wire_page]: 9 fetched, 9 new
+[2026-09-05 00:05:12]   David's Bridal [wire_page]: 25 fetched, 25 new
+[2026-09-05 00:05:28]   TD Bank [wire_page]: 25 fetched, 25 new
+[2026-09-05 00:05:29]   Toll Brothers [yahoo_search]: 5 fetched, 0 new
+[2026-09-05 00:05:29]   Brandywine Realty Trust [yahoo_search]: 7 fetched, 1 new
+[2026-09-05 00:05:29] === Done. 177 new items, 193 total in 720h window ===
