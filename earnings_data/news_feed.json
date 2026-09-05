@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-09-05T00:05:29",
+ "generated_at": "2026-09-05T04:18:40",
  "items": [
+  {
+   "uuid": "a37f4f6e-aeea-3666-92d5-a9e6920b6990",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "Campbell's",
+   "title": "Campbell's cuts 13% of salaried workforce, closes plants as part of turnaround effort",
+   "publisher": "Fox Business",
+   "link": "https://finance.yahoo.com/m/a37f4f6e-aeea-3666-92d5-a9e6920b6990/campbell%27s-cuts-13%25-of.html",
+   "published_unix": 1788559092,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-05T04:18:11"
+  },
   {
    "uuid": "141ab08b-ef35-3b8a-a652-2e0f8faf2905",
    "tickers": [
@@ -2490,19 +2503,6 @@
    "publisher": "Business Wire",
    "link": "https://finance.yahoo.com/healthcare/articles/aramark-student-nutrition-sets-standard-113000880.html",
    "published_unix": 1786015800,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-06T13:02:36"
-  },
-  {
-   "uuid": "678a36ea-c217-3146-9028-5f56eacadc1f",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora",
-   "title": "Cencora, Inc. Q3 2026 Earnings Call Summary",
-   "publisher": "Moby",
-   "link": "https://finance.yahoo.com/m/678a36ea-c217-3146-9028-5f56eacadc1f/cencora%2C-inc.-q3-2026.html",
-   "published_unix": 1785985458,
    "source_type": "yahoo",
    "captured_at": "2026-08-06T13:02:36"
   }
