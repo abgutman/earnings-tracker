@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-09-05T04:18:40",
+ "generated_at": "2026-09-07T16:26:49",
  "items": [
+  {
+   "uuid": "ab04e2b0-d326-3fb3-a291-cad57865396d",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "Five Below wins over shoppers with major strategy shift",
+   "publisher": "TheStreet",
+   "link": "https://finance.yahoo.com/m/ab04e2b0-d326-3fb3-a291-cad57865396d/five-below-wins-over-shoppers.html",
+   "published_unix": 1788646620,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-07T16:26:34"
+  },
   {
    "uuid": "a37f4f6e-aeea-3666-92d5-a9e6920b6990",
    "tickers": [
@@ -2338,173 +2351,6 @@
    "published_unix": 1786356000,
    "source_type": "yahoo",
    "captured_at": "2026-08-10T11:57:46"
-  },
-  {
-   "uuid": "631ba3d7-6d36-3744-af06-19f35b71e740",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora",
-   "title": "JPMorgan Adjusts Price Target on Cencora to $390 From $382",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-adjusts-price-target-cencora-145206728.html",
-   "published_unix": 1786114326,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-07T15:08:00"
-  },
-  {
-   "uuid": "d1434a7a-a432-3bb1-857f-db24ad24a953",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces Final Opportunity to Own a New Luxury Home in Seabrook Village at Nocatee",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-final-opportunity-143000483.html",
-   "published_unix": 1786113000,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-07T15:08:27"
-  },
-  {
-   "uuid": "04cd1dbc26cce8e4a1f91efbe0001e3edf11219e",
-   "tickers": [],
-   "company": "Franklin Biolabs",
-   "title": "Join Franklin during a webinar \u201cBuilding Robust Potency Assays with In-Cell Western Assay Protein Expression Readouts",
-   "publisher": "Franklin Biolabs",
-   "link": "https://event.on24.com/wcc/r/5404466/BC3B80903F208B4DD9FAA7B2B49AB8B7?partnerref=soc_LI-CORbio#new_tab",
-   "published_unix": 1786046728,
-   "source_type": "rss",
-   "captured_at": "2026-08-07T00:14:13"
-  },
-  {
-   "uuid": "174f7f75-d2e5-34e5-ab5b-ccfb7d728d30",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Selling Select Model Homes at Regency at Folsom Ranch in Folsom, California",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-selling-select-model-195300096.html",
-   "published_unix": 1786045980,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-07T00:14:27"
-  },
-  {
-   "uuid": "6a8e816a-cb8e-314d-8fa5-b3ec6374cc9c",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Opens Rivington Landing Luxury Condo Community in Danbury, Connecticut",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-opens-rivington-landing-192800052.html",
-   "published_unix": 1786044480,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-07T00:14:27"
-  },
-  {
-   "uuid": "0c063d17-9ab1-3418-bfe9-65d7303d946a",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Illinois American Water Recognizes Parent Company American Water's 140 Years of Providing Safe and Reliable Water and Wastewater Services to Customers and Communities in 2026",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/illinois-american-water-recognizes-parent-181900642.html",
-   "published_unix": 1786040340,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-07T00:14:01"
-  },
-  {
-   "uuid": "ee660c53-322a-379f-b72f-e8c9db4cfa9d",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora",
-   "title": "Citigroup Adjusts Price Target on Cencora to $370 From $355",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/citigroup-adjusts-price-target-cencora-161910221.html",
-   "published_unix": 1786033150,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-07T00:13:59"
-  },
-  {
-   "uuid": "c2007b2e-adab-3980-85df-184aaf61094e",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora",
-   "title": "Leerink Partners Adjusts Price Target on Cencora to $380 From $368",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/leerink-partners-adjusts-price-target-161903950.html",
-   "published_unix": 1786033143,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-07T00:13:59"
-  },
-  {
-   "uuid": "cd6a9e7c-2055-3fc2-b445-e1ca55182091",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora",
-   "title": "Evercore ISI Adjusts Price Target on Cencora to $350 From $330",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/evercore-isi-adjusts-price-target-161858249.html",
-   "published_unix": 1786033138,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-07T00:13:59"
-  },
-  {
-   "uuid": "4ae76554-210a-372b-a0a7-1b128a2c033e",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora",
-   "title": "Baird Adjusts Price Target on Cencora to $370 From $340",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/baird-adjusts-price-target-cencora-161852830.html",
-   "published_unix": 1786033132,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-07T00:13:59"
-  },
-  {
-   "uuid": "3dcd6e73-d3a5-3bb2-89e1-37c958f8c73f",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora",
-   "title": "UBS Adjusts Price Target on Cencora to $430 From $412, Maintains Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-price-target-cencora-141042735.html",
-   "published_unix": 1786025442,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-06T15:26:44"
-  },
-  {
-   "uuid": "4c4459e8-7379-3d2f-a2c9-a862c3c34c62",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast Business Brings Enhanced Private Wireless Networking to the Corporate Office",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/articles/comcast-business-brings-enhanced-private-140000882.html",
-   "published_unix": 1786024800,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-06T15:26:44"
-  },
-  {
-   "uuid": "a59b2d89-f14a-3f13-821f-8b0d8863a3f0",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Aramark Student Nutrition Sets a New Standard for Student Wellbeing This Back-to-School Season",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/healthcare/articles/aramark-student-nutrition-sets-standard-113000880.html",
-   "published_unix": 1786015800,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-06T13:02:36"
   }
  ]
 }
