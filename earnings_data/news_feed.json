@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-09-08T04:27:08",
+ "generated_at": "2026-09-08T15:06:02",
  "items": [
+  {
+   "uuid": "a7dc959c-b257-3dcc-8473-f7481d52bbb0",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "Campbell's",
+   "title": "Campbell\u2019s heats up digital focus amid marketing reformulation",
+   "publisher": "Marketing Dive",
+   "link": "https://finance.yahoo.com/m/a7dc959c-b257-3dcc-8473-f7481d52bbb0/campbell%E2%80%99s-heats-up-digital.html",
+   "published_unix": 1788862200,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-08T15:05:38"
+  },
   {
    "uuid": "af5e18b9-dd17-37b5-a37c-2a5f307ef345",
    "tickers": [
