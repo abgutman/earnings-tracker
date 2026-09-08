@@ -3762,3 +3762,13 @@
 [2026-09-08 17:52:28]   firehose: 10-Q feed — 49 entries parsed
 [2026-09-08 17:52:28]   firehose: 100 watched CIKs, 149 total feed entries
 [2026-09-08 17:52:28] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-09-08 21:03:45] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-09-08 21:03:46]   firehose: 8-K feed — 100 entries parsed
+[2026-09-08 21:03:46]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-09-08 21:03:46]   firehose: 8-K page 2 — 100 entries
+[2026-09-08 21:03:50]   firehose: 10-Q feed — 62 entries parsed
+[2026-09-08 21:03:50]   firehose: 100 watched CIKs, 262 total feed entries
+[2026-09-08 21:03:50]   ★ NEW 8k_701 for AHCO (AdaptHealth Corp.) filed 2026-09-08
+[2026-09-08 21:03:50]     https://www.sec.gov/Archives/edgar/data/1725255/000110465926105912/tm2624956d1_8k.htm
+[2026-09-08 21:03:51]     ✉ alert sent (8k_701)
+[2026-09-08 21:03:51] === EDGAR FIREHOSE complete. 1 new detections. ===
