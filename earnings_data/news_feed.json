@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-09-08T18:39:06",
+ "generated_at": "2026-09-08T21:50:28",
  "items": [
+  {
+   "uuid": "dab730b9-426c-31f1-b051-822802a9f5eb",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Illinois American Water Hosts Illinois General Assembly Members at Streator Water Treatment Plant to Highlight Infrastructure Investments",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/economy/policy/articles/illinois-american-water-hosts-illinois-205500891.html",
+   "published_unix": 1788900900,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-08T21:50:15"
+  },
+  {
+   "uuid": "01d4a5fd-5332-348f-82d0-a82600d09a2a",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces New Building Release at Iron Creek Luxury Townhome Community in Charlotte, North Carolina",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-building-release-190000002.html",
+   "published_unix": 1788894000,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-08T21:50:27"
+  },
   {
    "uuid": "3edf477c-b908-3ad0-9faa-e899b2e3d37a",
    "tickers": [
