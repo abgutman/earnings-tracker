@@ -3748,3 +3748,10 @@
 [2026-09-08 00:44:36] === CHECK-10Q: scanning for pending 10-Q filings ===
 [2026-09-08 00:44:36]   TELA: pending_10q_since=2026-08-31 is 8d old — clearing stale flag
 [2026-09-08 00:44:37] === CHECK-10Q complete. Checked 2, found 0, cleared 1 stale. ===
+[2026-09-08 15:02:23] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-09-08 15:02:23]   firehose: 8-K feed — 100 entries parsed
+[2026-09-08 15:02:23]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-09-08 15:02:23]   firehose: 8-K page 2 — 100 entries
+[2026-09-08 15:02:33]   firehose: 10-Q feed — 47 entries parsed
+[2026-09-08 15:02:33]   firehose: 100 watched CIKs, 247 total feed entries
+[2026-09-08 15:02:33] === EDGAR FIREHOSE complete. 0 new detections. ===
