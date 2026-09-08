@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-09-08T15:06:02",
+ "generated_at": "2026-09-08T18:39:06",
  "items": [
+  {
+   "uuid": "3edf477c-b908-3ad0-9faa-e899b2e3d37a",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "Cencora's MWI Animal Health Merger With Covetrus Sees 'Intensified' FTC Scrutiny, RBC Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/cencora-apos-mwi-animal-health-160228106.html",
+   "published_unix": 1788883348,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-08T18:38:44"
+  },
   {
    "uuid": "a7dc959c-b257-3dcc-8473-f7481d52bbb0",
    "tickers": [
