@@ -1,6 +1,45 @@
 {
- "generated_at": "2026-09-09T15:06:21",
+ "generated_at": "2026-09-09T18:34:44",
  "items": [
+  {
+   "uuid": "eae508bb-0964-3f51-b985-0a09ac5caf06",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces Model Home Grand Opening at Wildspring in Leander, Texas",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-model-home-181200678.html",
+   "published_unix": 1788977520,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-09T18:34:44"
+  },
+  {
+   "uuid": "4f49e904-1da3-3adc-8c5e-7285d3321937",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast CFO Doesn't Expect Broadband Subscriber Losses to Improve This Quarter",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/technology/articles/comcast-cfo-doesn-apos-t-170032151.html",
+   "published_unix": 1788973232,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-09T18:34:19"
+  },
+  {
+   "uuid": "3ad35a62-0be0-3e08-99bb-abdf6aee92a6",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "West Virginia American Water Announces $275,000 Water Infrastructure Project on Thompson Avenue",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/economy/policy/articles/west-virginia-american-water-announces-151900742.html",
+   "published_unix": 1788967140,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-09T18:34:22"
+  },
   {
    "uuid": "044b949f-6d26-3b63-a5dd-0a34c693162d",
    "tickers": [
@@ -2403,32 +2442,6 @@
    "published_unix": 1786390020,
    "source_type": "yahoo",
    "captured_at": "2026-08-10T21:01:10"
-  },
-  {
-   "uuid": "69c30e31-f0b8-38e0-9026-2b0c1348b213",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "New Jersey American Water Awards $950,000 for Community Development Projects in Camden",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/small-business/articles/jersey-american-water-awards-950-170000587.html",
-   "published_unix": 1786381200,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-11T02:22:52"
-  },
-  {
-   "uuid": "3e84f2a1-fde1-33f4-b157-64520dcfeb5a",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "American Water Joins Dialogue at 2026 American Society of Civil Engineers Watershed Management Conference",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/american-water-joins-dialogue-2026-160800546.html",
-   "published_unix": 1786378080,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-11T02:22:52"
   }
  ]
 }
