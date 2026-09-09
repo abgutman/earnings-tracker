@@ -5266,3 +5266,23 @@
 [2026-09-09 01:30:58] No new transcripts found; transcripts.json unchanged
 [2026-09-09 01:30:58] === Done. 0 new transcript links found. ===
 
+[2026-09-09 18:50:20] === Fool transcript harvest start (dry_run=False) ===
+[2026-09-09 18:50:20] Loaded 122 tickers from expanded_companies.json
+[2026-09-09 18:50:20] Recent tickers (last filing within 14d): ['AHCO', 'BURL', 'CPB', 'FIVE', 'HSY', 'IRT', 'OCGN', 'TELA', 'TFX', 'TOL']
+[2026-09-09 18:50:20] Seed backfill: all seeds already in state
+[2026-09-09 18:50:20] Fetching Fool transcript index: https://www.fool.com/earnings-call-transcripts/
+[2026-09-09 18:50:20]   Found 20 transcript links on index page
+[2026-09-09 18:50:20]   Fool index matched tickers: []
+[2026-09-09 18:50:20] Yahoo secondary search for 9 tickers: ['AHCO', 'CPB', 'FIVE', 'HSY', 'IRT', 'OCGN', 'TELA', 'TFX', 'TOL']
+[2026-09-09 18:50:21]   MISS [Yahoo] AHCO: no transcript items in feed
+[2026-09-09 18:50:21]   MISS [Yahoo] CPB: no transcript items in feed
+[2026-09-09 18:50:22]   MISS [Yahoo] FIVE: no transcript items in feed
+[2026-09-09 18:50:23]   MISS [Yahoo] HSY: no transcript items in feed
+[2026-09-09 18:50:23]   MISS [Yahoo] IRT: no transcript items in feed
+[2026-09-09 18:50:23]   MISS [Yahoo] OCGN: no transcript items in feed
+[2026-09-09 18:50:24]   MISS [Yahoo] TELA: no transcript items in feed
+[2026-09-09 18:50:25]   MISS [Yahoo] TFX: no transcript items in feed
+[2026-09-09 18:50:25]   MISS [Yahoo] TOL: no transcript items in feed
+[2026-09-09 18:50:25] No new transcripts found; transcripts.json unchanged
+[2026-09-09 18:50:25] === Done. 0 new transcript links found. ===
+
