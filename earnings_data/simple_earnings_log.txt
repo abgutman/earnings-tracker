@@ -3806,3 +3806,14 @@
 [2026-09-09 17:45:54]   firehose: 10-Q feed — 48 entries parsed
 [2026-09-09 17:45:54]   firehose: 100 watched CIKs, 148 total feed entries
 [2026-09-09 17:45:54] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-09-09 20:52:06] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-09-09 20:52:09]   firehose: 8-K feed — 100 entries parsed
+[2026-09-09 20:52:16]   firehose: 10-Q feed — 64 entries parsed
+[2026-09-09 20:52:16]   firehose: 100 watched CIKs, 164 total feed entries
+[2026-09-09 20:52:16]   ★ NEW 8k_701 for IPSC (Century Therapeutics, Inc.) filed 2026-09-09
+[2026-09-09 20:52:16]     https://www.sec.gov/Archives/edgar/data/1850119/000110465926106312/tm2625030d1_8k.htm
+[2026-09-09 20:52:17]     ✉ alert sent (8k_701)
+[2026-09-09 20:52:17]   ★ NEW 10q for URBN (URBAN OUTFITTERS INC) filed 2026-09-09
+[2026-09-09 20:52:17]     https://www.sec.gov/Archives/edgar/data/912615/000119312526386468/urbn-20260731.htm
+[2026-09-09 20:52:19]     ✉ alert sent (10q)
+[2026-09-09 20:52:19] === EDGAR FIREHOSE complete. 2 new detections. ===
