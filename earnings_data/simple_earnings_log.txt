@@ -3799,3 +3799,5 @@
 [2026-09-09 15:04:27]     https://www.sec.gov/Archives/edgar/data/96943/000009694326000101/tfx-20260908.htm
 [2026-09-09 15:04:29]     ✉ alert sent (8k_701)
 [2026-09-09 15:04:29] === EDGAR FIREHOSE complete. 2 new detections. ===
+[2026-09-09 17:10:56] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-09-09 17:11:23] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
