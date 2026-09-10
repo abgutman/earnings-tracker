@@ -1,6 +1,45 @@
 {
- "generated_at": "2026-09-10T14:58:33",
+ "generated_at": "2026-09-10T18:26:29",
  "items": [
+  {
+   "uuid": "eeb46ae0-1d10-3354-978e-127da717af53",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Works Sees Declining Regulatory Risk as Merger Advances, UBS Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/american-water-works-sees-declining-164347747.html",
+   "published_unix": 1789058627,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-10T18:26:06"
+  },
+  {
+   "uuid": "584abb16-7955-3221-90c1-43716ee45620",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Model Home Opens in Crestline at Brushy Creek in Cedar Park, Texas",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-model-home-opens-160700888.html",
+   "published_unix": 1789056420,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-10T18:26:29"
+  },
+  {
+   "uuid": "d3c1cc69-33a5-3d9b-ab3a-c78295dee54e",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast and Charter Stocks Bounce Back After Broadband Warning Sparked Selloff",
+   "publisher": "Barrons.com",
+   "link": "https://finance.yahoo.com/m/d3c1cc69-33a5-3d9b-ab3a-c78295dee54e/comcast-and-charter-stocks.html",
+   "published_unix": 1789055220,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-10T18:26:03"
+  },
   {
    "uuid": "b7e47f62-903b-381e-be86-09d2494178eb",
    "tickers": [
@@ -2494,32 +2533,6 @@
    "published_unix": 1786482337,
    "source_type": "yahoo",
    "captured_at": "2026-08-11T22:02:52"
-  },
-  {
-   "uuid": "0b0b3170-6cfa-3ddd-b930-49aa1deae064",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers at Fortune Ridge Community Opens in Southeast, New York",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-fortune-ridge-community-175100196.html",
-   "published_unix": 1786470660,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-11T18:08:56"
-  },
-  {
-   "uuid": "5e3923d0-2f56-3c02-adc7-6b1d5f369e27",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces Final Opportunity to Own a Luxury Home in the Bella Terra Collection at Tesoro Highlands in Valencia, California",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-final-opportunity-172500863.html",
-   "published_unix": 1786469100,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-11T18:08:56"
   }
  ]
 }
