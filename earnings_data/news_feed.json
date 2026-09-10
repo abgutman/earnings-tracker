@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-09-09T21:41:24",
+ "generated_at": "2026-09-10T00:13:58",
  "items": [
+  {
+   "uuid": "a1b84628-e2de-395b-a861-df4287ac8335",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "CMCSA Stock Drops To Worst Day In Over A Month After CFO Sees No Improvement In Broadband User Losses",
+   "publisher": "Stocktwits",
+   "link": "https://finance.yahoo.com/m/a1b84628-e2de-395b-a861-df4287ac8335/cmcsa-stock-drops-to-worst.html",
+   "published_unix": 1788995561,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-10T00:13:29"
+  },
+  {
+   "uuid": "d6ba16cd-8293-36b0-a289-6610ea786ad2",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Xfinity Mobile, Comcast Business Mobile to Offer iPhone Duo, iPhone 18 Pro, and iPhone 18 Pro Max",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/articles/xfinity-mobile-comcast-business-mobile-221300106.html",
+   "published_unix": 1788991980,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-10T00:13:29"
+  },
   {
    "uuid": "f2ef9d1e-9344-3b0c-9349-7a1b10bf9de7",
    "tickers": [
