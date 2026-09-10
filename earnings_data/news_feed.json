@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-09-10T18:26:29",
+ "generated_at": "2026-09-10T21:36:58",
  "items": [
+  {
+   "uuid": "2652e1b5-0f69-343c-9fc1-f66c55113ec5",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Should You Buy Comcast Stock Because Its Cash Outruns Its Earnings?",
+   "publisher": "Trefis",
+   "link": "https://finance.yahoo.com/m/2652e1b5-0f69-343c-9fc1-f66c55113ec5/should-you-buy-comcast-stock.html",
+   "published_unix": 1789071544,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-10T21:36:37"
+  },
+  {
+   "uuid": "d912878e-7cf2-3ad8-849b-98bdc7ca4881",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces Grand Opening of Amenity Center at Griffith Lakes in Charlotte, North Carolina",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-grand-opening-191900497.html",
+   "published_unix": 1789067940,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-10T21:36:58"
+  },
   {
    "uuid": "eeb46ae0-1d10-3354-978e-127da717af53",
    "tickers": [
@@ -2520,19 +2546,6 @@
    "published_unix": 1786526617,
    "source_type": "yahoo",
    "captured_at": "2026-08-12T11:56:31"
-  },
-  {
-   "uuid": "d596de24-e57e-3dea-afcf-563c71103ca1",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Aramark Q3 2026 Earnings Call Summary",
-   "publisher": "Moby",
-   "link": "https://finance.yahoo.com/m/d596de24-e57e-3dea-afcf-563c71103ca1/aramark-q3-2026-earnings-call.html",
-   "published_unix": 1786482337,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-11T22:02:52"
   }
  ]
 }
