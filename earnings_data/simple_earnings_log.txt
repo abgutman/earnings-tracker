@@ -3829,3 +3829,11 @@
 [2026-09-10 00:40:16] === CHECK-10Q: scanning for pending 10-Q filings ===
 [2026-09-10 00:40:18]   HSY: pending_10q_since=2026-09-02 is 8d old — clearing stale flag
 [2026-09-10 00:40:18] === CHECK-10Q complete. Checked 6, found 0, cleared 1 stale. ===
+[2026-09-10 14:56:43] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-09-10 14:56:44]   firehose: 8-K feed — 100 entries parsed
+[2026-09-10 14:56:46]   firehose: 10-Q feed — 50 entries parsed
+[2026-09-10 14:56:46]   firehose: 100 watched CIKs, 150 total feed entries
+[2026-09-10 14:56:46]   ★ NEW 8k_701 for DD (DuPont de Nemours, Inc.) filed 2026-09-10
+[2026-09-10 14:56:46]     https://www.sec.gov/Archives/edgar/data/1666700/000166670026000055/dd-20260909.htm
+[2026-09-10 14:56:47]     ✉ alert sent (8k_701)
+[2026-09-10 14:56:47] === EDGAR FIREHOSE complete. 1 new detections. ===
