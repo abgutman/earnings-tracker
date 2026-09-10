@@ -1,6 +1,110 @@
 {
- "generated_at": "2026-09-10T04:33:09",
+ "generated_at": "2026-09-10T14:58:33",
  "items": [
+  {
+   "uuid": "b7e47f62-903b-381e-be86-09d2494178eb",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Business Opens Its Last-Mile Network to Partner Platforms, Starting with Equinix",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/articles/comcast-business-opens-last-mile-140000611.html",
+   "published_unix": 1789048800,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-10T14:58:14"
+  },
+  {
+   "uuid": "9834a8f2-14be-3947-acf7-23e754be4d4a",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast, Fastly Collaborating on Network Delivery to Accelerate Xfinity Streaming",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-fastly-collaborating-network-delivery-134458842.html",
+   "published_unix": 1789047898,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-10T14:58:14"
+  },
+  {
+   "uuid": "b6cb698e-0619-33f6-8ef4-91d50fe41bcf",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "UBS Adjusts Price Target on American Water Works to $162 From $156, Keeps Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-price-target-american-133934591.html",
+   "published_unix": 1789047574,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-10T14:58:17"
+  },
+  {
+   "uuid": "59c0ec91-6985-3b29-8061-f030b74d6b06",
+   "tickers": [
+    "WTRG"
+   ],
+   "company": "Essential Utilities",
+   "title": "UBS Adjusts Price Target on Essential Utilities to $49 From $48, Keeps Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-price-target-essential-133605886.html",
+   "published_unix": 1789047365,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-10T14:58:18"
+  },
+  {
+   "uuid": "e8ffe7a2-b224-3391-9933-c0ad2b67c405",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast and Fastly Partner to Develop Next-Generation Content and Application Delivery Model to Deliver Xfinity Members Faster, More Reliable Streaming",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/articles/comcast-fastly-partner-develop-next-130000901.html",
+   "published_unix": 1789045200,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-10T14:58:14"
+  },
+  {
+   "uuid": "c6561e7a-8881-3207-88f3-387aae3d27c9",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "BNP Paribas Adjusts Comcast Price Target to $22 From $21, Maintains Underperform Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-adjusts-comcast-price-120558945.html",
+   "published_unix": 1789041958,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-10T14:58:14"
+  },
+  {
+   "uuid": "c6d2eb9e-3cb4-33c9-a240-e527d95dc2d5",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "Five Below Insider Sold Shares Worth $2,607,113, According to a Recent SEC Filing",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-insider-sold-shares-075003869.html",
+   "published_unix": 1789026603,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-10T14:58:16"
+  },
+  {
+   "uuid": "4df7d199-9b55-3ef0-8540-64f56b9e5278",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "Five Below Insider Sold Shares Worth $1,065,084, According to a Recent SEC Filing",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-insider-sold-shares-074846952.html",
+   "published_unix": 1789026526,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-10T14:58:16"
+  },
   {
    "uuid": "a1b84628-e2de-395b-a861-df4287ac8335",
    "tickers": [
@@ -2416,97 +2520,6 @@
    "published_unix": 1786469100,
    "source_type": "yahoo",
    "captured_at": "2026-08-11T18:08:56"
-  },
-  {
-   "uuid": "97d60103-7339-3acc-bfc9-d06a87975d7c",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "American Water Named One of America's Best Employers for Women in 2026 by Forbes",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/small-business/articles/american-water-named-one-americas-140700492.html",
-   "published_unix": 1786457220,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-11T15:15:11"
-  },
-  {
-   "uuid": "311a4308-b214-32e6-a242-68dc4fa4eb69",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast Business and Colt Technology Services Launch Innovation Lab Program to Automate Global Enterprise Connectivity",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/articles/comcast-business-colt-technology-services-140000433.html",
-   "published_unix": 1786456800,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-11T15:15:08"
-  },
-  {
-   "uuid": "2e72cb64-dd9f-37ae-8a67-147d31c87124",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Aramark beats fiscal Q3 estimates as revenue growth accelerates",
-   "publisher": "InvestorsHub",
-   "link": "https://finance.yahoo.com/m/2e72cb64-dd9f-37ae-8a67-147d31c87124/aramark-beats-fiscal-q3.html",
-   "published_unix": 1786451624,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-11T13:40:58"
-  },
-  {
-   "uuid": "f5507948-4920-32fd-bdba-ba2debed1f50",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora",
-   "title": "Wells Fargo Adjusts Price Target on Cencora to $395 From $331, Keeps Overweight Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-adjusts-price-target-105053680.html",
-   "published_unix": 1786445453,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-11T11:55:19"
-  },
-  {
-   "uuid": "b51d39aa-2004-3c33-b847-955277b99855",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Aramark's Fiscal Q3 Adjusted Earnings, Revenue Increase; Fiscal 2026 Revenue Outlook Raised",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-apos-fiscal-q3-adjusted-105030301.html",
-   "published_unix": 1786445430,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-11T11:55:19"
-  },
-  {
-   "uuid": "5b2021fb-b7c7-37d1-a037-a242219fa44f",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Aramark: Fiscal Q3 Earnings Snapshot",
-   "publisher": "Associated Press",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-fiscal-q3-earnings-snapshot-103509151.html",
-   "published_unix": 1786444509,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-11T11:55:19"
-  },
-  {
-   "uuid": "5fc43bce-67b3-38fe-afbd-a10a22166cfd",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Aramark Reports Third Quarter Earnings",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-reports-third-quarter-earnings-103000125.html",
-   "published_unix": 1786444200,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-11T11:55:19"
   }
  ]
 }
