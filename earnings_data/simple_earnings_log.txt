@@ -3861,3 +3861,8 @@
 [2026-09-11 00:36:52] === CHECK-10Q: scanning for pending 10-Q filings ===
 [2026-09-11 00:36:53]   CPB: pending_10q_since=2026-09-03 is 8d old — clearing stale flag
 [2026-09-11 00:36:54] === CHECK-10Q complete. Checked 6, found 0, cleared 1 stale. ===
+[2026-09-11 14:57:18] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-09-11 14:57:21]   firehose: 8-K feed — 100 entries parsed
+[2026-09-11 14:57:25]   firehose: 10-Q feed — 57 entries parsed
+[2026-09-11 14:57:25]   firehose: 100 watched CIKs, 157 total feed entries
+[2026-09-11 14:57:25] === EDGAR FIREHOSE complete. 0 new detections. ===
