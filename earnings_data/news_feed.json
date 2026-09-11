@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-09-11T04:30:39",
+ "generated_at": "2026-09-11T14:59:35",
  "items": [
+  {
+   "uuid": "06e40111-6c95-31d4-908f-59eae1bebb46",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water and City of Camden Pay Tribute to 9/11 Victims and First Responders on 25th Anniversary",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/american-water-city-camden-pay-140000342.html",
+   "published_unix": 1789135200,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-11T14:59:18"
+  },
   {
    "uuid": "2652e1b5-0f69-343c-9fc1-f66c55113ec5",
    "tickers": [
@@ -2481,71 +2494,6 @@
    "published_unix": 1786546902,
    "source_type": "yahoo",
    "captured_at": "2026-08-12T15:13:25"
-  },
-  {
-   "uuid": "128be650-6d25-3c40-b32c-ee70a650d6c3",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Donates $1.6 Million to Help HomeAid Build a Future Without Homelessness",
-   "publisher": "ACCESS Newswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-donates-1-6-140000035.html",
-   "published_unix": 1786543200,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-12T15:13:43"
-  },
-  {
-   "uuid": "441e08ad-b501-3e51-b82f-cf732035bfcb",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "UBS Adjusts Price Target on Aramark to $71 From $67, Keeps Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-price-target-aramark-131320811.html",
-   "published_unix": 1786540400,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-12T13:44:23"
-  },
-  {
-   "uuid": "3d4959ec-8496-3a6c-8f9c-03d6322379fd",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "BofA Securities Adjusts Price Target on Aramark to $70 From $65",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-securities-adjusts-price-target-115829197.html",
-   "published_unix": 1786535909,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-12T13:44:23"
-  },
-  {
-   "uuid": "4a19a244-2622-398e-a3e2-3fb46704f05f",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Deutsche Bank Adjusts Aramark Price Target to $74 From $65, Maintains Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-adjusts-aramark-price-111244639.html",
-   "published_unix": 1786533164,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-12T11:56:31"
-  },
-  {
-   "uuid": "d4a61416-7f1c-3401-bba9-fd6208d60183",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Morgan Stanley Adjusts Price Target on Aramark to $63 From $55, Maintains Equalweight Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-price-target-092337659.html",
-   "published_unix": 1786526617,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-12T11:56:31"
   }
  ]
 }
