@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-09-11T18:31:13",
+ "generated_at": "2026-09-11T21:42:42",
  "items": [
+  {
+   "uuid": "c04448e7-04dd-3fdf-85aa-a1d222a27253",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Kentucky American Water Completes Major Infrastructure Improvement Projects on North Limestone, Euclid and Fontaine",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/kentucky-american-water-completes-major-205400771.html",
+   "published_unix": 1789160040,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-11T21:42:26"
+  },
   {
    "uuid": "428d43bc-ffa4-39bd-9ddb-6a1c23bd5b4a",
    "tickers": [
@@ -2468,32 +2481,6 @@
    "published_unix": 1786620834,
    "source_type": "yahoo",
    "captured_at": "2026-08-13T11:58:11"
-  },
-  {
-   "uuid": "5a5b51f4-0faf-3920-b03d-75cb67cfa62f",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora",
-   "title": "Cencora Says Certain Serviced Walgreens Volume Began Moving Outside Company; Reaffirms 2026 EPS Outlook",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/cencora-says-certain-serviced-walgreens-185420255.html",
-   "published_unix": 1786560860,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-12T19:21:26"
-  },
-  {
-   "uuid": "b41aefcb-c6cf-34d5-b493-84b36118930c",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Aramark Growth Momentum Seen Extending Into Fiscal 2027, Truist Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-growth-momentum-seen-extending-183925916.html",
-   "published_unix": 1786559965,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-12T19:21:26"
   }
  ]
 }
