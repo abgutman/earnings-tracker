@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-09-11T14:59:35",
+ "generated_at": "2026-09-11T18:31:13",
  "items": [
+  {
+   "uuid": "428d43bc-ffa4-39bd-9ddb-6a1c23bd5b4a",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark's International Opportunity Is Underappreciated, RBC Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-apos-international-opportunity-underappreciated-145823426.html",
+   "published_unix": 1789138703,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-11T18:30:48"
+  },
   {
    "uuid": "06e40111-6c95-31d4-908f-59eae1bebb46",
    "tickers": [
@@ -2481,19 +2494,6 @@
    "published_unix": 1786559965,
    "source_type": "yahoo",
    "captured_at": "2026-08-12T19:21:26"
-  },
-  {
-   "uuid": "62e6d41e-f2b9-3b46-b594-ece61eb922d9",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Aramark's Nexus Business Expected to Contribute 'Significantly' in Fiscal 2027, Morgan Stanley Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-apos-nexus-business-expected-150142577.html",
-   "published_unix": 1786546902,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-12T15:13:25"
   }
  ]
 }
