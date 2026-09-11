@@ -472,3 +472,7 @@
 [2026-09-10 00:39:23] Polling Yahoo for 106 companies
 [2026-09-10 00:40:16] === Done. Captured 0 new save-the-dates, cleaned 0 past. ===
 
+[2026-09-11 00:35:59] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-09-11 00:35:59] Polling Yahoo for 106 companies
+[2026-09-11 00:36:52] === Done. Captured 0 new save-the-dates, cleaned 0 past. ===
+
