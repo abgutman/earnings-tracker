@@ -3873,3 +3873,14 @@
 [2026-09-11 17:43:02]   firehose: 10-Q feed — 61 entries parsed
 [2026-09-11 17:43:02]   firehose: 100 watched CIKs, 161 total feed entries
 [2026-09-11 17:43:02] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-09-11 20:53:18] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-09-11 20:53:19]   firehose: 8-K feed — 100 entries parsed
+[2026-09-11 20:53:21]   firehose: 10-Q feed — 70 entries parsed
+[2026-09-11 20:53:21]   firehose: 100 watched CIKs, 170 total feed entries
+[2026-09-11 20:53:22]   ★ NEW 8k_202 for AXR (AMREP CORP.) filed 2026-09-11
+[2026-09-11 20:53:22]     https://www.sec.gov/Archives/edgar/data/6207/000110465926107091/tm2625105d1_8k.htm
+[2026-09-11 20:53:22]     ✉ alert sent (8k_202)
+[2026-09-11 20:53:23]   ★ NEW 10q for AXR (AMREP CORP.) filed 2026-09-11
+[2026-09-11 20:53:23]     https://www.sec.gov/Archives/edgar/data/6207/000110465926107084/axr-20260731x10q.htm
+[2026-09-11 20:53:23]     ✉ alert sent (10q)
+[2026-09-11 20:53:23] === EDGAR FIREHOSE complete. 2 new detections. ===
