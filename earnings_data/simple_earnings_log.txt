@@ -3897,3 +3897,7 @@
 [2026-09-11 22:27:21] === EDGAR FIREHOSE complete. 0 new detections. ===
 [2026-09-11 23:21:46] === EDGAR POLL: scanning for new earnings filings (live=True) ===
 [2026-09-11 23:22:14] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
+[2026-09-12 00:43:36] === CHECK-10Q: scanning for pending 10-Q filings ===
+[2026-09-12 00:43:38]   ✓ 10-Q found for AXR (AMREP CORP.) filed 2026-09-11
+[2026-09-12 00:43:38]     https://www.sec.gov/Archives/edgar/data/6207/000110465926107084/axr-20260731x10q.htm
+[2026-09-12 00:43:38] === CHECK-10Q complete. Checked 7, found 1, cleared 0 stale. ===
