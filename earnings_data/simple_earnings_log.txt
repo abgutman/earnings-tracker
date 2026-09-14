@@ -3901,3 +3901,8 @@
 [2026-09-12 00:43:38]   ✓ 10-Q found for AXR (AMREP CORP.) filed 2026-09-11
 [2026-09-12 00:43:38]     https://www.sec.gov/Archives/edgar/data/6207/000110465926107084/axr-20260731x10q.htm
 [2026-09-12 00:43:38] === CHECK-10Q complete. Checked 7, found 1, cleared 0 stale. ===
+[2026-09-14 16:55:42] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-09-14 16:55:42]   firehose: 8-K feed — 100 entries parsed
+[2026-09-14 16:55:43]   firehose: 10-Q feed — 50 entries parsed
+[2026-09-14 16:55:43]   firehose: 100 watched CIKs, 150 total feed entries
+[2026-09-14 16:55:43] === EDGAR FIREHOSE complete. 0 new detections. ===
