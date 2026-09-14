@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-09-14T16:58:00",
+ "generated_at": "2026-09-14T20:56:46",
  "items": [
+  {
+   "uuid": "18dbcf10-d7e4-34fa-8039-e00814c1e8f3",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces New Luxury Community Opening in Redondo Beach, California",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-community-174500691.html",
+   "published_unix": 1789407900,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-14T20:56:46"
+  },
   {
    "uuid": "50578d10-8814-3351-9f2b-40c05a006c7d",
    "tickers": [
