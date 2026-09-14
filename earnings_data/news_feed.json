@@ -1,6 +1,71 @@
 {
- "generated_at": "2026-09-12T04:27:11",
+ "generated_at": "2026-09-14T16:58:00",
  "items": [
+  {
+   "uuid": "50578d10-8814-3351-9f2b-40c05a006c7d",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Paramount Skydance, Comcast Review SkyShowtime Options, Including Potential Exit, Says Report: PSKY Stock Jumps Over 4%, CMCSA Gains 0.3%",
+   "publisher": "Stocktwits",
+   "link": "https://finance.yahoo.com/m/50578d10-8814-3351-9f2b-40c05a006c7d/paramount-skydance%2C-comcast.html",
+   "published_unix": 1789404060,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-14T16:57:17"
+  },
+  {
+   "uuid": "dde21f9e-9605-3732-a533-7e5ef79a520f",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Market Chatter: Comcast, Paramount Skydance to Review Options for SkyShowtime JV",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/media-advertising/articles/market-chatter-comcast-paramount-skydance-162732335.html",
+   "published_unix": 1789403252,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-14T16:57:17"
+  },
+  {
+   "uuid": "f20c2f8a-6d67-36dc-bc80-6e8a432b026e",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark Nexus to Serve as Hospitality Partner for Workforce Housing Provider",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/small-business/articles/aramark-nexus-serve-hospitality-partner-125237286.html",
+   "published_unix": 1789390357,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-14T16:57:17"
+  },
+  {
+   "uuid": "ef708c20-9da0-3276-b4fb-7ff0bb299232",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark Nexus\u2122 Selected as Premier Hospitality Partner for a Leading Workforce Housing Provider",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/real-estate/articles/aramark-nexus-selected-premier-hospitality-111500370.html",
+   "published_unix": 1789384500,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-14T16:57:17"
+  },
+  {
+   "uuid": "078bb9c0-fdff-3fcc-aaf9-067358e67f6f",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast CFO warns of a rising threat as internet customers depart",
+   "publisher": "TheStreet",
+   "link": "https://finance.yahoo.com/m/078bb9c0-fdff-3fcc-aaf9-067358e67f6f/comcast-cfo-warns-of-a-rising.html",
+   "published_unix": 1789241820,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-14T16:57:17"
+  },
   {
    "uuid": "c04448e7-04dd-3fdf-85aa-a1d222a27253",
    "tickers": [
@@ -2325,162 +2390,6 @@
    "published_unix": 1786966200,
    "source_type": "yahoo",
    "captured_at": "2026-08-17T11:38:48"
-  },
-  {
-   "uuid": "88f42aef-f49f-3737-aa13-4e5bc1daa987",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Aramark Insider Sold Shares Worth $4,310,718, According to a Recent SEC Filing",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-insider-sold-shares-worth-211758527.html",
-   "published_unix": 1786742278,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-14T21:38:57"
-  },
-  {
-   "uuid": "42850ec8-0e14-3ff3-8576-33eb87a73e72",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Pennsylvania American Water Encourages Customers to Learn About New Rates and Available Bill Assistance Programs",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/pennsylvania-american-water-encourages-customers-200500738.html",
-   "published_unix": 1786737900,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-14T20:44:16"
-  },
-  {
-   "uuid": "ccbbfe71-5743-3220-a017-d8d94d6feac8",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Illinois American Water Annual Maintenance Program Includes Flushing Mains, Fire Hydrants and Temporary Water Treatment Change in Metro East",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/illinois-american-water-annual-maintenance-184200592.html",
-   "published_unix": 1786732920,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-14T19:13:04"
-  },
-  {
-   "uuid": "7aef9c14-3d4f-3223-81b0-b7509fee5928",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Market Chatter: Google, Peacock, Apple Convince Maryland Court to Strike Down Ad Tax",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/media-advertising/articles/market-chatter-google-peacock-apple-174611736.html",
-   "published_unix": 1786729571,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-14T18:07:22"
-  },
-  {
-   "uuid": "0f045d07-81b6-36df-a256-cd8b488d7eb8",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast offering payouts in $117.5M settlement. Are you eligible?",
-   "publisher": "USA TODAY",
-   "link": "https://finance.yahoo.com/m/0f045d07-81b6-36df-a256-cd8b488d7eb8/comcast-offering-payouts-in.html",
-   "published_unix": 1786713440,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-14T13:40:31"
-  },
-  {
-   "uuid": "25714010-7975-3c7d-bbda-9bfcf6f6232a",
-   "tickers": [
-    "BURL"
-   ],
-   "company": "Burlington Stores",
-   "title": "Burlington Stores, Inc. Announces Second Quarter Fiscal Year 2026 Earnings Release Date, Conference Call and Webcast",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/burlington-stores-inc-announces-second-201500594.html",
-   "published_unix": 1786652100,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-13T21:01:16"
-  },
-  {
-   "uuid": "b2ee7043-6a5d-3aaa-acb2-e4d8b972219c",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "Five Below",
-   "title": "Five Below Shares Rise After Jefferies Upgrade",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-shares-rise-jefferies-182235364.html",
-   "published_unix": 1786645355,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-13T19:25:13"
-  },
-  {
-   "uuid": "a5a48ca5-cdb7-32be-ab83-2f3b30c8f358",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Pennsylvania American Water Completes Acquisition of the Sutersville-Sewickley Municipal Sewage Authority Wastewater System",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/pennsylvania-american-water-completes-acquisition-164600784.html",
-   "published_unix": 1786639560,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-13T17:10:42"
-  },
-  {
-   "uuid": "fbec64b4-b38c-3141-95c6-a80a9cbbb803",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces New Waterfront Luxury Home Community Coming Soon to Yulee, Florida",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-waterfront-luxury-154000835.html",
-   "published_unix": 1786635600,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-13T17:11:00"
-  },
-  {
-   "uuid": "dba1728c-dff4-343a-b546-8d72df3727d2",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers at Revera Luxury Home Community Opens in Richmond, Texas",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-revera-luxury-home-142500154.html",
-   "published_unix": 1786631100,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-13T15:14:09"
-  },
-  {
-   "uuid": "12858f63-c838-323f-b161-5704d3a18bfe",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "Campbell's",
-   "title": "The Campbell\u2019s Company to Report Fourth Quarter and Full Year Fiscal 2026 Results on September 3, 2026",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/campbell-company-report-fourth-quarter-120000062.html",
-   "published_unix": 1786622400,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-13T13:45:29"
-  },
-  {
-   "uuid": "43db3159-6184-330c-a0bc-0ef6b13e7a0e",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "Five Below",
-   "title": "Jefferies Upgrades Five Below to Buy From Hold, Adjusts PT to $350 From $210",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-upgrades-five-below-buy-113354334.html",
-   "published_unix": 1786620834,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-13T11:58:11"
   }
  ]
 }
