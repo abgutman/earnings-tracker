@@ -3913,3 +3913,16 @@
 [2026-09-14 19:15:30]   firehose: 10-Q feed — 57 entries parsed
 [2026-09-14 19:15:30]   firehose: 100 watched CIKs, 157 total feed entries
 [2026-09-14 19:15:30] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-09-14 22:42:55] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-09-14 22:42:56]   firehose: 8-K feed — 100 entries parsed
+[2026-09-14 22:42:56]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-09-14 22:42:59]   firehose: 8-K page 2 — 100 entries
+[2026-09-14 22:43:01]   firehose: 10-Q feed — 76 entries parsed
+[2026-09-14 22:43:01]   firehose: 100 watched CIKs, 276 total feed entries
+[2026-09-14 22:43:02]   ★ NEW 8k_701 for TOPP (Toppoint Holdings Inc.) filed 2026-09-14
+[2026-09-14 22:43:02]     https://www.sec.gov/Archives/edgar/data/1960847/000121390026099778/ea0305353-8k_toppoint.htm
+[2026-09-14 22:43:03]     ✉ alert sent (8k_701)
+[2026-09-14 22:43:03]   ★ NEW 8k_202 for CUBE (CubeSmart) filed 2026-09-14
+[2026-09-14 22:43:03]     https://www.sec.gov/Archives/edgar/data/1298675/000129867526000041/cube-20260914x8k.htm
+[2026-09-14 22:43:04]     ✉ alert sent (8k_202)
+[2026-09-14 22:43:04] === EDGAR FIREHOSE complete. 2 new detections. ===
