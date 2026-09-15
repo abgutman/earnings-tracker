@@ -1,6 +1,97 @@
 {
- "generated_at": "2026-09-15T04:46:56",
+ "generated_at": "2026-09-15T15:33:34",
  "items": [
+  {
+   "uuid": "d7c04c70-a6d6-3a4d-8d6c-88b1cddbef59",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers City Living Announces New Model Home at Vista Pointe at Port Imperial as Residences Prepare for Immediate Occupancy",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-city-living-announces-151400569.html",
+   "published_unix": 1789485240,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-15T15:33:33"
+  },
+  {
+   "uuid": "d7eaebb2-48db-34d4-bead-11041bc97218",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "UBS Adjusts Comcast Price Target to $27 From $32, Maintains Neutral Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-comcast-price-target-143222712.html",
+   "published_unix": 1789482742,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-15T15:33:02"
+  },
+  {
+   "uuid": "8e3c3b31-2fff-3415-8b0e-c383344ac02c",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Xfinity and Comcast Business Services Now Available in Beaufort and Edisto, South Carolina",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/articles/xfinity-comcast-business-services-now-140000076.html",
+   "published_unix": 1789480800,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-15T15:33:02"
+  },
+  {
+   "uuid": "f553abf1-451a-3833-94e9-f99bd2011e1a",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "Campbell's",
+   "title": "/C O R R E C T I O N -- Campbell's/",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/media-advertising/articles/c-o-r-r-e-134600714.html",
+   "published_unix": 1789479960,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-15T15:33:04"
+  },
+  {
+   "uuid": "70aae7bf-eafa-3f43-ac29-0c07cbc9292d",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "Campbell's",
+   "title": "Campbell's Debuts News Sauces Lineup to Make Dinnertime Simple",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/media-advertising/articles/campbells-debuts-news-sauces-lineup-130000325.html",
+   "published_unix": 1789477200,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-15T15:33:04"
+  },
+  {
+   "uuid": "f23aa477-964b-38f2-b578-c6080575a61e",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast's Universal Ads to Provide Access to Creator Content for TV Advertising",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-apos-universal-ads-access-125155686.html",
+   "published_unix": 1789476715,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-15T15:33:02"
+  },
+  {
+   "uuid": "f0ca7edd-9575-3aa4-b841-a74a2a5615fb",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Goldman Sachs Adjusts Price Target on Comcast to $24 From $25, Keeps Neutral Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-adjusts-price-target-093846387.html",
+   "published_unix": 1789465126,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-15T15:33:02"
+  },
   {
    "uuid": "18dbcf10-d7e4-34fa-8039-e00814c1e8f3",
    "tickers": [
