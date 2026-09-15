@@ -1,6 +1,110 @@
 {
- "generated_at": "2026-09-15T15:33:34",
+ "generated_at": "2026-09-15T19:41:39",
  "items": [
+  {
+   "uuid": "1857d223-2d49-3d89-8ae2-93004cb200c4",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces Opening of Two New Home Collections in Bickford Ranch Master Plan near Sacramento, California",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-opening-two-192800028.html",
+   "published_unix": 1789500480,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-15T19:41:39"
+  },
+  {
+   "uuid": "8fb75e85-252c-3909-b264-81efd8b1bf2e",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces Groundbreaking at Sawgrass Lakes Community in Babcock Ranch, Florida",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-groundbreaking-sawgrass-192400686.html",
+   "published_unix": 1789500240,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-15T19:41:39"
+  },
+  {
+   "uuid": "eef67982-c533-328a-8e9a-e2fa459ea8f6",
+   "tickers": [
+    "BDN"
+   ],
+   "company": "Brandywine Realty Trust",
+   "title": "Brandywine Realty Trust Announces Quarterly Common Dividend, and Confirms Third Quarter 2026 Earnings Release and Conference Call",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/brandywine-realty-trust-announces-quarterly-185000294.html",
+   "published_unix": 1789498200,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-15T19:41:39"
+  },
+  {
+   "uuid": "791d4039-8364-3a34-8219-9ee3ae438852",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Indiana American Water Opens New Training Center and Launches Flow Forward Program to Inspire Indiana's Future Workforce",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/indiana-american-water-opens-training-180600266.html",
+   "published_unix": 1789495560,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-15T19:41:23"
+  },
+  {
+   "uuid": "54f4f47b-db1d-3f15-b4fa-66661b9eda86",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Tennessee American Water to Conduct Service Line Material Verification in its Citico Service District",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/tennessee-american-water-conduct-line-170600478.html",
+   "published_unix": 1789491960,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-15T19:41:23"
+  },
+  {
+   "uuid": "f22bbf7a-0464-3bdc-98c9-6e41466a2f2f",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast to Host Third Quarter 2026 Earnings Conference Call",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-host-third-quarter-2026-170000719.html",
+   "published_unix": 1789491600,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-15T19:41:18"
+  },
+  {
+   "uuid": "47fd1cfe-2686-38e0-9199-9a897a2ff8c3",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Faces Q3 Broadband Subscriber Pressure, Softer Parks Revenue, UBS Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-faces-q3-broadband-subscriber-165547019.html",
+   "published_unix": 1789491347,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-15T19:41:18"
+  },
+  {
+   "uuid": "f7d627dd-ec99-3839-b9fd-d0a290c8ffe7",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Announces 2026 Impact Report",
+   "publisher": "ACCESS Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/comcast-announces-2026-impact-report-153000231.html",
+   "published_unix": 1789486200,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-15T19:41:18"
+  },
   {
    "uuid": "d7c04c70-a6d6-3a4d-8d6c-88b1cddbef59",
    "tickers": [
