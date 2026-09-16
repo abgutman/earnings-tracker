@@ -3965,3 +3965,8 @@
 [2026-09-16 00:52:08]   OCGN: pending_10q_since=2026-09-08 is 8d old — clearing stale flag
 [2026-09-16 00:52:08]   AHCO: pending_10q_since=2026-09-08 is 8d old — clearing stale flag
 [2026-09-16 00:52:09] === CHECK-10Q complete. Checked 6, found 0, cleared 2 stale. ===
+[2026-09-16 15:23:10] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-09-16 15:23:12]   firehose: 8-K feed — 100 entries parsed
+[2026-09-16 15:23:13]   firehose: 10-Q feed — 39 entries parsed
+[2026-09-16 15:23:13]   firehose: 100 watched CIKs, 139 total feed entries
+[2026-09-16 15:23:13] === EDGAR FIREHOSE complete. 0 new detections. ===
