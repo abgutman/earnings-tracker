@@ -1,6 +1,58 @@
 {
- "generated_at": "2026-09-16T15:25:21",
+ "generated_at": "2026-09-16T19:33:29",
  "items": [
+  {
+   "uuid": "67479365-a917-349b-80b5-be7a06dc3fe8",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Maryland American Water Reiterates Commitment to Environmental Stewardship by Participating in Source Water Protection Week",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/maryland-american-water-reiterates-commitment-190500288.html",
+   "published_unix": 1789585500,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-16T19:32:56"
+  },
+  {
+   "uuid": "35758161-93ac-3ae0-9e31-30f77677b9d8",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Virginia American Water Reiterates Commitment to Environmental Stewardship by Participating in Source Water Protection Week",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/virginia-american-water-reiterates-commitment-190400512.html",
+   "published_unix": 1789585440,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-16T19:32:56"
+  },
+  {
+   "uuid": "fa3e43c0-fd75-31cd-bf02-7093c4751567",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "UNITE HERE Local 11 Releases Letter Urging Yavapai County Sherriff\u2019s Office and Board of Supervisors to Replace Aramark through the RFP for Food, Commissary, and Banking Services",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/small-business/articles/unite-local-11-releases-letter-181700719.html",
+   "published_unix": 1789582620,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-16T19:32:52"
+  },
+  {
+   "uuid": "736f9d20-75e2-3cd1-b85a-1c2d9ea7b276",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces Grand Opening of Luxury Model Home at Enclave Community in Corona, California",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-grand-opening-173000630.html",
+   "published_unix": 1789579800,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-16T19:33:29"
+  },
   {
    "uuid": "b239ca12-b1a9-378a-bf57-3ae3ad4c57b8",
    "tickers": [
@@ -2520,32 +2572,6 @@
    "published_unix": 1786995660,
    "source_type": "yahoo",
    "captured_at": "2026-08-17T20:42:11"
-  },
-  {
-   "uuid": "166df418-3ef2-33d8-ac61-03d40d54f95a",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces Rivercrest Model Home Grand Opening in Reno, Nevada",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-rivercrest-model-191400090.html",
-   "published_unix": 1786994040,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-17T19:40:58"
-  },
-  {
-   "uuid": "6f8ead28-a98d-34aa-897e-61a551689680",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "American Water Charitable Foundation & Illinois American Water Proudly Support United Way Organizations through State Strategic Impact Grants",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/american-water-charitable-foundation-illinois-163500736.html",
-   "published_unix": 1786984500,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-17T17:42:49"
   }
  ]
 }
