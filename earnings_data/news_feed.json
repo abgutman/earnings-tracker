@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-09-16T01:24:20",
+ "generated_at": "2026-09-16T04:43:22",
  "items": [
+  {
+   "uuid": "36116abc-6b52-3656-9bcb-265c5a4c2a0a",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Is Comcast Stock Cheap Or Just Shrinking?",
+   "publisher": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-stock-cheap-just-shrinking-022555490.html",
+   "published_unix": 1789525555,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-16T04:42:41"
+  },
   {
    "uuid": "1857d223-2d49-3d89-8ae2-93004cb200c4",
    "tickers": [
