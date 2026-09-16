@@ -332,8 +332,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1372299/000110465926105968/tm2624985d1_8k.htm",
   "last_detected_at": "2026-09-08T22:32:50.864251+00:00",
   "last_8k_detected_at": "2026-09-08T22:32:50.864251+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-09-08"
+  "last_10q_url": null
  },
  "OFLX": {
   "ticker": "OFLX",
@@ -1128,8 +1127,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1725255/000110465926105912/tm2624956d1_8k.htm",
   "last_detected_at": "2026-09-08T21:03:45.595455+00:00",
   "last_8k_detected_at": "2026-09-08T21:03:45.595455+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-09-08"
+  "last_10q_url": null
  },
  "JJSF": {
   "ticker": "JJSF",

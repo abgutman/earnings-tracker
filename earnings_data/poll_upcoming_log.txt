@@ -484,3 +484,13 @@
 [2026-09-15 00:58:50] Polling Yahoo for 106 companies
 [2026-09-15 00:59:52] === Done. Captured 0 new save-the-dates, cleaned 0 past. ===
 
+[2026-09-16 00:50:41] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-09-16 00:50:41] Polling Yahoo for 106 companies
+[2026-09-16 00:50:44]   + CMCSA: release=None call=2026-10-22 08:30 ET
+[2026-09-16 00:50:44]     via: Comcast to Host Third Quarter 2026 Earnings Conference Call
+[2026-09-16 00:50:45]   ✉ alert sent for CMCSA
+[2026-09-16 00:50:50]   + BDN: release=2026-10-21 call=2026-10-22 09:00 ET
+[2026-09-16 00:50:50]     via: Brandywine Realty Trust Announces Quarterly Common Dividend, and Confirms Third Quarter 2026 Earning
+[2026-09-16 00:50:51]   ✉ alert sent for BDN
+[2026-09-16 00:52:07] === Done. Captured 2 new save-the-dates, cleaned 0 past. ===
+

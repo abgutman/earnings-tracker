@@ -1,3 +1,23 @@
 {
- "_comment": "Confirmed upcoming earnings dates. Populated manually + by future auto-extraction from save-the-date press releases. Each entry: release_date (YYYY-MM-DD), optionally call_date, call_time (HH:MM ET), source_url, source_title."
+ "_comment": "Confirmed upcoming earnings dates. Populated manually + by future auto-extraction from save-the-date press releases. Each entry: release_date (YYYY-MM-DD), optionally call_date, call_time (HH:MM ET), source_url, source_title.",
+ "CMCSA": {
+  "release_date": null,
+  "call_date": "2026-10-22",
+  "call_time": "08:30 ET",
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/comcast-host-third-quarter-2026-170000719.html",
+  "source_title": "Comcast to Host Third Quarter 2026 Earnings Conference Call",
+  "source_publisher": "Business Wire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-09-16T00:50:44"
+ },
+ "BDN": {
+  "release_date": "2026-10-21",
+  "call_date": "2026-10-22",
+  "call_time": "09:00 ET",
+  "source_url": "https://finance.yahoo.com/real-estate/articles/brandywine-realty-trust-announces-quarterly-185000294.html",
+  "source_title": "Brandywine Realty Trust Announces Quarterly Common Dividend, and Confirms Third Quarter 2026 Earnings Release and Conference Call",
+  "source_publisher": "GlobeNewswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-09-16T00:50:50"
+ }
 }
