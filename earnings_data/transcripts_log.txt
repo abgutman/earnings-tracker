@@ -5599,3 +5599,26 @@
 [2026-09-16 19:04:21] No new transcripts found; transcripts.json unchanged
 [2026-09-16 19:04:21] === Done. 0 new transcript links found. ===
 
+[2026-09-16 22:18:33] === Fool transcript harvest start (dry_run=False) ===
+[2026-09-16 22:18:33] Loaded 122 tickers from expanded_companies.json
+[2026-09-16 22:18:33] Recent tickers (last filing within 14d): ['AHCO', 'AXR', 'CPB', 'CUBE', 'DD', 'FIVE', 'HSY', 'IPSC', 'IRT', 'OCGN', 'TFX', 'TOPP', 'URBN']
+[2026-09-16 22:18:33] Seed backfill: all seeds already in state
+[2026-09-16 22:18:33] Fetching Fool transcript index: https://www.fool.com/earnings-call-transcripts/
+[2026-09-16 22:18:34]   Found 20 transcript links on index page
+[2026-09-16 22:18:34]   Fool index matched tickers: []
+[2026-09-16 22:18:34] Yahoo secondary search for 12 tickers: ['AHCO', 'AXR', 'CPB', 'CUBE', 'DD', 'HSY', 'IPSC', 'IRT', 'OCGN', 'TFX', 'TOPP', 'URBN']
+[2026-09-16 22:18:34]   MISS [Yahoo] AHCO: no transcript items in feed
+[2026-09-16 22:18:35]   MISS [Yahoo] AXR: no transcript items in feed
+[2026-09-16 22:18:35]   MISS [Yahoo] CPB: no transcript items in feed
+[2026-09-16 22:18:36]   MISS [Yahoo] CUBE: no transcript items in feed
+[2026-09-16 22:18:37]   MISS [Yahoo] DD: no transcript items in feed
+[2026-09-16 22:18:37]   MISS [Yahoo] HSY: no transcript items in feed
+[2026-09-16 22:18:38]   MISS [Yahoo] IPSC: no transcript items in feed
+[2026-09-16 22:18:39]   MISS [Yahoo] IRT: no transcript items in feed
+[2026-09-16 22:18:39]   MISS [Yahoo] OCGN: no transcript items in feed
+[2026-09-16 22:18:40]   MISS [Yahoo] TFX: no transcript items in feed
+[2026-09-16 22:18:41]   MISS [Yahoo] TOPP: no transcript items in feed
+[2026-09-16 22:18:41]   MISS [Yahoo] URBN: no transcript items in feed
+[2026-09-16 22:18:41] No new transcripts found; transcripts.json unchanged
+[2026-09-16 22:18:41] === Done. 0 new transcript links found. ===
+
