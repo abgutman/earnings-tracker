@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-09-16T04:43:22",
+ "generated_at": "2026-09-16T15:25:21",
  "items": [
+  {
+   "uuid": "b239ca12-b1a9-378a-bf57-3ae3ad4c57b8",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "BofA Securities Adjusts Comcast Price Target to $35 From $37",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-securities-adjusts-comcast-price-120824832.html",
+   "published_unix": 1789560504,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-16T15:24:54"
+  },
   {
    "uuid": "36116abc-6b52-3656-9bcb-265c5a4c2a0a",
    "tickers": [
@@ -2533,84 +2546,6 @@
    "published_unix": 1786984500,
    "source_type": "yahoo",
    "captured_at": "2026-08-17T17:42:49"
-  },
-  {
-   "uuid": "84623589-1143-30e9-b138-d0a9b7a1a07d",
-   "tickers": [
-    "BURL"
-   ],
-   "company": "Burlington Stores",
-   "title": "UBS Adjusts Price Target on Burlington Stores to $440 From $435, Maintains Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-price-target-burlington-133915749.html",
-   "published_unix": 1786973955,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-17T13:51:25"
-  },
-  {
-   "uuid": "ce061d8e-fe14-3d76-9745-1d1109ca8065",
-   "tickers": [
-    "BDN"
-   ],
-   "company": "Brandywine Realty Trust",
-   "title": "Brandywine Realty Trust Announces $100 Million Cash Tender Offers for Notes",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/brandywine-realty-trust-announces-100-122451517.html",
-   "published_unix": 1786969491,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-17T13:04:25"
-  },
-  {
-   "uuid": "6512b725-1ca6-399b-b94c-29ecee9f6ddc",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "American Water, Essential Utilities Clear HSR Waiting Period for Proposed Merger",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/american-water-essential-utilities-clear-115812644.html",
-   "published_unix": 1786967892,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-17T13:03:58"
-  },
-  {
-   "uuid": "f2d10b1c-0b56-3efa-84d4-51527025abea",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Aramark Student Nutrition Expands Partnerships Across the Country to Enhance K-12 Student Dining Experiences",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/healthcare/articles/aramark-student-nutrition-expands-partnerships-113000730.html",
-   "published_unix": 1786966200,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-17T11:38:18"
-  },
-  {
-   "uuid": "7908b5ec-03d8-3c98-bc09-85c8a6dbce26",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "American Water and Essential Utilities Announce Expiration of Hart-Scott-Rodino Waiting Period for Proposed Merger",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/american-water-essential-utilities-announce-113000526.html",
-   "published_unix": 1786966200,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-17T11:38:20"
-  },
-  {
-   "uuid": "d5017256-66ad-3539-aac4-a5e2999d0ffe",
-   "tickers": [
-    "BDN"
-   ],
-   "company": "Brandywine Realty Trust",
-   "title": "Brandywine Realty Trust Announces Cash Tender Offers",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/brandywine-realty-trust-announces-cash-113000590.html",
-   "published_unix": 1786966200,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-17T11:38:48"
   }
  ]
 }
