@@ -1,6 +1,58 @@
 {
- "generated_at": "2026-09-16T19:33:29",
+ "generated_at": "2026-09-16T22:55:27",
  "items": [
+  {
+   "uuid": "acaa659c-e23d-365a-9180-db240b79aedc",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Illinois American Water Completes $770,000 Venice Wastewater Collection System Acquisition",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/illinois-american-water-completes-770-215201124.html",
+   "published_unix": 1789595521,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-16T22:55:00"
+  },
+  {
+   "uuid": "2fb33f56-1671-361c-8d7d-384aca4eb617",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Illinois American Water Completes Acquisition of City of Venice Wastewater Collection System",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/illinois-american-water-completes-acquisition-211500503.html",
+   "published_unix": 1789593300,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-16T22:55:00"
+  },
+  {
+   "uuid": "87e8ec39-e573-38de-bbd0-bd1f2573bc17",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "Five Below Insider Sold Shares Worth $1,369,445, According to a Recent SEC Filing",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-insider-sold-shares-204448855.html",
+   "published_unix": 1789591488,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-16T22:54:58"
+  },
+  {
+   "uuid": "0520985e-7b87-3fac-8039-1428affd7720",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces Cash Dividend",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-announces-cash-dividend-203000880.html",
+   "published_unix": 1789590600,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-16T22:55:26"
+  },
   {
    "uuid": "67479365-a917-349b-80b5-be7a06dc3fe8",
    "tickers": [
@@ -2507,71 +2559,6 @@
    "published_unix": 1787036400,
    "source_type": "yahoo",
    "captured_at": "2026-08-18T11:38:48"
-  },
-  {
-   "uuid": "75696ff1-52cc-3028-9e6d-f644f82a3f65",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "California American Water Completes $675,000 Infrastructure Upgrade in its San Diego District Water System",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/california-american-water-completes-675-200800493.html",
-   "published_unix": 1786997280,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-17T20:42:11"
-  },
-  {
-   "uuid": "d02e6cbe-6429-3c59-8cce-bb6b0d02c85b",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces Model Home Grand Opening at Franklin Ridge Community in Franklin, Tennessee",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-model-home-200400323.html",
-   "published_unix": 1786997040,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-17T20:42:30"
-  },
-  {
-   "uuid": "9b43d954-a131-309b-b25a-06bf79af41d4",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "California American Water Announces $5,000 Grant to Ventura County Family Justice Center Foundation",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/small-business/articles/california-american-water-announces-5-195500564.html",
-   "published_unix": 1786996500,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-17T20:42:11"
-  },
-  {
-   "uuid": "d978e5b2-05cf-34c7-8062-31edfda03c75",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "American Water Charitable Foundation Awards $75,000 in Workforce Readiness and STEM Education Grants Across New Jersey",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/small-business/articles/american-water-charitable-foundation-awards-194800629.html",
-   "published_unix": 1786996080,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-17T20:42:11"
-  },
-  {
-   "uuid": "4febfaa8-afe6-30ea-916e-f48b28710271",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "California American Water Completes $1 Million Water Main Upgrade to Strengthen Reliability in San Diego District",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/california-american-water-completes-1-194100545.html",
-   "published_unix": 1786995660,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-17T20:42:11"
   }
  ]
 }
