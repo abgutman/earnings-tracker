@@ -1,6 +1,58 @@
 {
- "generated_at": "2026-09-17T04:46:11",
+ "generated_at": "2026-09-17T15:33:45",
  "items": [
+  {
+   "uuid": "4b9de1a4-5381-391f-a776-fcf25888d39b",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Charitable Foundation Awards $50,000 in Workforce Readiness and STEM Education Grants in Virginia",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/american-water-charitable-foundation-awards-131400075.html",
+   "published_unix": 1789650840,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-17T15:31:58"
+  },
+  {
+   "uuid": "3451f06d-5a36-3d52-a03c-6712f167572f",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Charitable Foundation Awards $50,000 in Workforce Readiness and STEM Education Grants in Maryland",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/american-water-charitable-foundation-awards-131100663.html",
+   "published_unix": 1789650660,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-17T15:31:58"
+  },
+  {
+   "uuid": "2be48fd8-82dc-30b5-b36f-00c3b24ba106",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC Corporation",
+   "title": "From Lab to Three Continents: AgroSpheres and FMC Corporation Advance Bioinsecticide Pipeline Into Global Field Trials",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/healthcare/articles/lab-three-continents-agrospheres-fmc-114500374.html",
+   "published_unix": 1789645500,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-17T15:31:55"
+  },
+  {
+   "uuid": "a0209e27-234c-33d3-a231-63cc1f3c9c7c",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Missouri American Water Supports Local Heroes Through 2026 Firefighter Grant Program",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/missouri-american-water-supports-local-110000572.html",
+   "published_unix": 1789642800,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-17T15:31:58"
+  },
   {
    "uuid": "acaa659c-e23d-365a-9180-db240b79aedc",
    "tickers": [
@@ -2481,84 +2533,6 @@
    "published_unix": 1787072045,
    "source_type": "yahoo",
    "captured_at": "2026-08-18T17:41:20"
-  },
-  {
-   "uuid": "e1983506-6145-3e2c-8fb4-5ccb805445ab",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "West Virginia American Water Announces $166,000 Infrastructure Project in Fayetteville",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/economy/policy/articles/west-virginia-american-water-announces-153300803.html",
-   "published_unix": 1787067180,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-18T16:47:01"
-  },
-  {
-   "uuid": "4f619a45-19a5-3467-a9aa-5827f05fdf0e",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast Launches Xfinity Shield Platform for Home Protection",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/technology/articles/comcast-launches-xfinity-shield-platform-134945942.html",
-   "published_unix": 1787060985,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-18T13:55:19"
-  },
-  {
-   "uuid": "711a3f8e-566c-39de-ae5d-3634f1542b3d",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast Launches Xfinity Shield, Redefining Intelligent Home Protection",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/ai/articles/comcast-launches-xfinity-shield-redefining-133000869.html",
-   "published_unix": 1787059800,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-18T13:55:19"
-  },
-  {
-   "uuid": "e791786b-dee3-3998-9508-4af53435551a",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast Contributes $55,000 in Grants to Northwest Indiana Nonprofits to Expand Digital Skills Training",
-   "publisher": "ACCESS Newswire",
-   "link": "https://finance.yahoo.com/technology/articles/comcast-contributes-55-000-grants-133000618.html",
-   "published_unix": 1787059800,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-18T13:55:19"
-  },
-  {
-   "uuid": "2bfb378f-6637-4a14-914e-15907db9112f",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Home Depot & Toll Brothers earnings, Housing starts & building permits data: What to watch on Tuesday",
-   "publisher": "Yahoo Finance Video",
-   "link": "https://finance.yahoo.com/video/home-depot-toll-brothers-earnings-120000375.html",
-   "published_unix": 1787054400,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-18T13:06:32"
-  },
-  {
-   "uuid": "2a4c3315-1a2b-36c3-81b8-d8b5f97f825a",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Earnings Will Offer Read on Luxury Home Demand",
-   "publisher": "Barrons.com",
-   "link": "https://finance.yahoo.com/m/2a4c3315-1a2b-36c3-81b8-d8b5f97f825a/toll-brothers-earnings-will.html",
-   "published_unix": 1787036400,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-18T11:38:48"
   }
  ]
 }
