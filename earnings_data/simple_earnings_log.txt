@@ -3991,3 +3991,8 @@
 [2026-09-16 22:50:55]   firehose: 10-Q feed — 40 entries parsed
 [2026-09-16 22:50:55]   firehose: 100 watched CIKs, 140 total feed entries
 [2026-09-16 22:50:55] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-09-17 00:55:41] === CHECK-10Q: scanning for pending 10-Q filings ===
+[2026-09-17 00:55:41]   IRT: pending_10q_since=2026-09-09 is 8d old — clearing stale flag
+[2026-09-17 00:55:42]   TFX: pending_10q_since=2026-09-09 is 8d old — clearing stale flag
+[2026-09-17 00:55:42]   IPSC: pending_10q_since=2026-09-09 is 8d old — clearing stale flag
+[2026-09-17 00:55:42] === CHECK-10Q complete. Checked 3, found 0, cleared 3 stale. ===

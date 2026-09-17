@@ -494,3 +494,7 @@
 [2026-09-16 00:50:51]   ✉ alert sent for BDN
 [2026-09-16 00:52:07] === Done. Captured 2 new save-the-dates, cleaned 0 past. ===
 
+[2026-09-17 00:54:30] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-09-17 00:54:30] Polling Yahoo for 106 companies
+[2026-09-17 00:55:41] === Done. Captured 0 new save-the-dates, cleaned 0 past. ===
+

@@ -163,8 +163,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1466085/000143774926029903/irt20260909c_8k.htm",
   "last_detected_at": "2026-09-09T15:04:21.185685+00:00",
   "last_8k_detected_at": "2026-09-09T15:04:21.185685+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-09-09"
+  "last_10q_url": null
  },
  "AXTA": {
   "ticker": "AXTA",
@@ -830,8 +829,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/96943/000009694326000101/tfx-20260908.htm",
   "last_detected_at": "2026-09-09T15:04:21.185685+00:00",
   "last_8k_detected_at": "2026-09-09T15:04:21.185685+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-09-09"
+  "last_10q_url": null
  },
  "AVTR": {
   "ticker": "AVTR",
@@ -1423,8 +1421,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1850119/000110465926106312/tm2625030d1_8k.htm",
   "last_detected_at": "2026-09-09T20:52:06.378175+00:00",
   "last_8k_detected_at": "2026-09-09T20:52:06.378175+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-09-09"
+  "last_10q_url": null
  },
  "PKBK": {
   "ticker": "PKBK",
