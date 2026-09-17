@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T19:43:19",
+ "generated_at": "2026-09-17T22:50:54",
  "items": [
   {
    "uuid": "982a9201-b56a-3c96-b2d6-964ccd808140",
@@ -2468,58 +2468,6 @@
    "published_unix": 1787134844,
    "source_type": "yahoo",
    "captured_at": "2026-08-19T11:37:42"
-  },
-  {
-   "uuid": "28d43587-5831-3222-ad04-0511262fa42e",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Records Lower Sales as Home Deliveries Decline",
-   "publisher": "The Wall Street Journal",
-   "link": "https://finance.yahoo.com/m/28d43587-5831-3222-ad04-0511262fa42e/toll-brothers-records-lower.html",
-   "published_unix": 1787086920,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-18T23:34:54"
-  },
-  {
-   "uuid": "6fd70b4e-f385-3021-92be-ae24be3bed2a",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers: Fiscal Q3 Earnings Snapshot",
-   "publisher": "Associated Press",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-fiscal-q3-earnings-204009066.html",
-   "published_unix": 1787085609,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-18T21:36:42"
-  },
-  {
-   "uuid": "df587464-fc67-3c86-8842-ff47c055a3ff",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Fiscal Q3 Earnings, Revenue Decline",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-fiscal-q3-earnings-203821399.html",
-   "published_unix": 1787085501,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-18T21:36:42"
-  },
-  {
-   "uuid": "5d1af9e5-3396-3971-8236-a4bdeef2cc83",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Reports FY 2026 Third Quarter Results",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-reports-fy-2026-203000315.html",
-   "published_unix": 1787085000,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-18T21:36:42"
   }
  ]
 }
