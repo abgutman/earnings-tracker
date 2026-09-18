@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T01:17:09",
+ "generated_at": "2026-09-18T04:35:18",
  "items": [
   {
    "uuid": "982a9201-b56a-3c96-b2d6-964ccd808140",
@@ -65,6 +65,19 @@
    "published_unix": 1789642800,
    "source_type": "yahoo",
    "captured_at": "2026-09-17T15:31:58"
+  },
+  {
+   "uuid": "4df30108-b5b0-3658-8a27-388b60aec1ea",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "FIVE- A Discount Retailer Reporting Rock-Solid Results",
+   "publisher": "MoneyShow",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/five-discount-retailer-reporting-rock-050100282.html",
+   "published_unix": 1789621260,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-18T04:35:00"
   },
   {
    "uuid": "acaa659c-e23d-365a-9180-db240b79aedc",
