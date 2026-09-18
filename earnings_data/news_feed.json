@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T18:27:22",
+ "generated_at": "2026-09-18T21:40:35",
  "items": [
   {
    "uuid": "0cec7cfd-04b9-3af4-95d1-23149072e593",
@@ -2429,19 +2429,6 @@
    "published_unix": 1787188020,
    "source_type": "yahoo",
    "captured_at": "2026-08-20T01:47:33"
-  },
-  {
-   "uuid": "28c7dece-9266-3ced-8835-5d96a5e34af9",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "Five Below",
-   "title": "Five Below, Inc. Announces Second Quarter Fiscal 2026 Earnings Release and Conference Call Date and Participation in Upcoming Investor Conferences",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-inc-announces-second-200100929.html",
-   "published_unix": 1787169660,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-19T20:44:02"
   }
  ]
 }
