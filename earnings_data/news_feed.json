@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-09-18T04:35:18",
+ "generated_at": "2026-09-18T14:58:47",
  "items": [
+  {
+   "uuid": "d435a5c9-3449-32de-a850-0eb9cbf238a4",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "Littlest Pet Shop and LIKE NASTYA, Global YouTube Sensation, Launch First-Ever Collab Collection at Global Retailers and Announce Special Event at Five Below in New York City",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/media-advertising/articles/littlest-pet-shop-nastya-global-110000100.html",
+   "published_unix": 1789729200,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-18T14:58:30"
+  },
   {
    "uuid": "982a9201-b56a-3c96-b2d6-964ccd808140",
    "tickers": [
@@ -2429,58 +2442,6 @@
    "published_unix": 1787156480,
    "source_type": "yahoo",
    "captured_at": "2026-08-19T16:45:28"
-  },
-  {
-   "uuid": "3e234768-5094-3504-88cb-50ba0efef17c",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "West Virginia American Water Announces $512,000 Infrastructure Upgrade on Fayette Avenue",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/economy/policy/articles/west-virginia-american-water-announces-141400620.html",
-   "published_unix": 1787148840,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-19T14:52:00"
-  },
-  {
-   "uuid": "3e7e8b8b-4174-3fc0-a4a3-99b95b5fcb95",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers, Inc. Q3 2026 Earnings Call Summary",
-   "publisher": "Moby",
-   "link": "https://finance.yahoo.com/m/3e7e8b8b-4174-3fc0-a4a3-99b95b5fcb95/toll-brothers%2C-inc.-q3-2026.html",
-   "published_unix": 1787142600,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-19T21:38:56"
-  },
-  {
-   "uuid": "be103ad0-fdf2-3acb-8da3-a0d50f4063c6",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "RBC Raises Price Target on Aramark to $70 From $60, Keeps Outperform Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-raises-price-target-aramark-103418166.html",
-   "published_unix": 1787135658,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-19T11:37:41"
-  },
-  {
-   "uuid": "a9a2b872-6d3f-39b6-b117-6cf49bf147f5",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora",
-   "title": "RBC Initiates Cencora at Sector Perform With $330 Price Target",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-initiates-cencora-sector-perform-102044989.html",
-   "published_unix": 1787134844,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-19T11:37:42"
   }
  ]
 }
