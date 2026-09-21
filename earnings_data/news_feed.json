@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-09-19T04:31:47",
+ "generated_at": "2026-09-21T17:02:27",
  "items": [
+  {
+   "uuid": "b71e7311-7dcd-3b9c-b493-7ac5ac63af55",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Reliable, High-Speed Internet from Xfinity Now Available in Chanhassen and Nowthen, Minnesota",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/articles/reliable-high-speed-internet-xfinity-131500077.html",
+   "published_unix": 1789996500,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-21T17:01:48"
+  },
+  {
+   "uuid": "eb683e3f-17b8-3ac6-a38e-eceb2c4821ae",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark Healthcare+ Named Top Overall Supplier on Modern Healthcare's \"Best Places to Work\u2122 in Healthcare\" List",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/healthcare/articles/aramark-healthcare-named-top-overall-113000646.html",
+   "published_unix": 1789990200,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-21T17:01:49"
+  },
   {
    "uuid": "0cec7cfd-04b9-3af4-95d1-23149072e593",
    "tickers": [
@@ -2184,238 +2210,6 @@
    "published_unix": 1787419020,
    "source_type": "yahoo",
    "captured_at": "2026-08-24T11:42:39"
-  },
-  {
-   "uuid": "924633a7-61fc-35fe-859d-188bf3860358",
-   "tickers": [
-    "BDN"
-   ],
-   "company": "Brandywine Realty Trust",
-   "title": "Brandywine Realty Trust Announces Expiration of Tender Offer for the 2028 Notes",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/brandywine-realty-trust-announces-expiration-233100296.html",
-   "published_unix": 1787355060,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-21T23:36:52"
-  },
-  {
-   "uuid": "77c21523-76ed-38fc-840e-6c06459ce96e",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Illinois American Water Announces Upcoming Hydrant Flushing in Villa Grove",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/illinois-american-water-announces-upcoming-194900390.html",
-   "published_unix": 1787341740,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-21T20:39:38"
-  },
-  {
-   "uuid": "46a8ab19-373b-328b-8428-205de0279072",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Indiana American Water and American Water Charitable Foundation Support Disaster Recovery Efforts Across Indiana",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/indiana-american-water-american-water-160500890.html",
-   "published_unix": 1787328300,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-21T16:49:58"
-  },
-  {
-   "uuid": "5c9b2d78-ddf5-3fa1-a33f-9778c2b87ba0",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Tennessee American Water Completes Tank Hoist",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/economy/articles/tennessee-american-water-completes-tank-152500200.html",
-   "published_unix": 1787325900,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-21T15:46:50"
-  },
-  {
-   "uuid": "6b0e5254062b1b1a926713a7e914478d8deaf3b5",
-   "tickers": [],
-   "company": "Franklin Biolabs",
-   "title": "Join Franklin during a webinar on September 25, 2026 | 11am EDT / 4pm BST / 5PM CEST",
-   "publisher": "Franklin Biolabs",
-   "link": "https://xtalks.com/webinars/assessing-the-use-of-non-human-primates-in-translational-research-today/?utm_source=xtalksemail&utm_medium=preevent&utm_campaign=26q219#new_tab",
-   "published_unix": 1787322061,
-   "source_type": "rss",
-   "captured_at": "2026-08-21T14:52:44"
-  },
-  {
-   "uuid": "d17961e1-b6e3-3087-a456-aefb8df9ecbb",
-   "tickers": [
-    "BDN"
-   ],
-   "company": "Brandywine Realty Trust",
-   "title": "Brandywine Realty Trust Upsizes 2029 Notes Tender Offer to $70M, Extends Deadline",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/brandywine-realty-trust-upsizes-2029-124504627.html",
-   "published_unix": 1787316304,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-21T13:09:32"
-  },
-  {
-   "uuid": "3bc128d1-25c0-3f6f-a43e-91ffddf0ee48",
-   "tickers": [
-    "BDN"
-   ],
-   "company": "Brandywine Realty Trust",
-   "title": "Brandywine Realty Trust Announces Upsize and Extension of Expiration of the Previously Announced Tender Offer for the 2029 Notes",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/brandywine-realty-trust-announces-upsize-120000016.html",
-   "published_unix": 1787313600,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-21T13:09:32"
-  },
-  {
-   "uuid": "48ce2c26-be6f-3a3c-972a-08b3d4d847bf",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "Five Below",
-   "title": "Five Below Stock Looks Like a Winner for Back to School\u2014and Beyond",
-   "publisher": "Barrons.com",
-   "link": "https://finance.yahoo.com/m/48ce2c26-be6f-3a3c-972a-08b3d4d847bf/five-below-stock-looks-like-a.html",
-   "published_unix": 1787293800,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-21T11:40:00"
-  },
-  {
-   "uuid": "9934ae6f-bf38-36cc-a466-39287d2d140d",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Virginia American Water Announces 2026 Firefighter Support Grant Recipients",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/small-business/articles/virginia-american-water-announces-2026-202400741.html",
-   "published_unix": 1787257440,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-20T20:44:45"
-  },
-  {
-   "uuid": "834a0c59-e59e-3e1c-91fe-5e4b346f0bf1",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "Campbell's",
-   "title": "Campbell's Faces Sharper FY27 Earnings Pressure Amid Weak Demand, UBS Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/campbell-apos-faces-sharper-fy27-162756961.html",
-   "published_unix": 1787243276,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-20T16:49:31"
-  },
-  {
-   "uuid": "64574dc6-531a-369c-9196-5d8d96632a71",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "New Model Home Now Open at Toll Brothers at Quail Ridge in Ridgefield, Washington",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/model-home-now-open-toll-150000969.html",
-   "published_unix": 1787238000,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-20T15:48:00"
-  },
-  {
-   "uuid": "1fd0ede0-176c-31d4-8ec9-11f6fff71f90",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Kentucky American Water's Regional Water Treatment Plant in Owen County Earns Recognition for Excellence",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/kentucky-american-waters-regional-water-145800200.html",
-   "published_unix": 1787237880,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-20T15:47:42"
-  },
-  {
-   "uuid": "ba1ddc00-4f47-36be-8630-952c1cef9913",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "West Virginia American Water Announces $140,000 Infrastructure Project on Ohio Street Alley",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/economy/policy/articles/west-virginia-american-water-announces-141100883.html",
-   "published_unix": 1787235060,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-20T14:53:39"
-  },
-  {
-   "uuid": "b4067c8e-ed31-3e1d-b093-e9af4c7b8610",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "UBS Adjusts Toll Brothers Price Target to $195 From $187, Maintains Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-toll-brothers-price-115615304.html",
-   "published_unix": 1787226975,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-20T13:10:05"
-  },
-  {
-   "uuid": "49a15e6f-38c1-36e9-bcb7-a81444d9fe11",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "Campbell's",
-   "title": "UBS Adjusts Campbell's Price Target to $18 From $17, Maintains Sell Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-campbell-apos-price-115545865.html",
-   "published_unix": 1787226945,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-20T13:09:47"
-  },
-  {
-   "uuid": "6c5d606a-ac81-3440-b5f3-55acbe851a04",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Truist Raises Price Target on Toll Brothers to $170 From $165, Keeps Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/truist-raises-price-target-toll-114436924.html",
-   "published_unix": 1787226276,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-20T13:10:05"
-  },
-  {
-   "uuid": "f505d876-c8bd-3de8-9821-ec2fab2b190a",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Aramark Expands NCAA Presence through New Partnerships with Florida State University and Texas State University Ahead of 2026 Season",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/media-advertising/articles/aramark-expands-ncaa-presence-partnerships-113000898.html",
-   "published_unix": 1787225400,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-20T11:40:44"
-  },
-  {
-   "uuid": "083fb92d-2ee7-39ab-b9ba-a7ad00adf5e8",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Argus Adjusts Price Target on American Water Works to $155 From $140, Maintains Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/argus-adjusts-price-target-american-105026632.html",
-   "published_unix": 1787223026,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-20T11:40:47"
   }
  ]
 }
