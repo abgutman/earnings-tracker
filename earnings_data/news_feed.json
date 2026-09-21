@@ -1,6 +1,71 @@
 {
- "generated_at": "2026-09-21T17:02:27",
+ "generated_at": "2026-09-21T21:03:15",
  "items": [
+  {
+   "uuid": "41b9705a-6a90-3540-a2a5-238ad92754e1",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC Corporation",
+   "title": "FMC Corporation announces date for third quarter 2026 earnings release and webcast conference call",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-corporation-announces-date-third-203000209.html",
+   "published_unix": 1790022600,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-21T21:02:55"
+  },
+  {
+   "uuid": "44abb9e3-0ded-3c76-880b-1e0a88113701",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces Final Opportunity to Own a New Home at Lacamas Hills in Camas, Washington",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-final-opportunity-193900025.html",
+   "published_unix": 1790019540,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-21T21:03:15"
+  },
+  {
+   "uuid": "65b6a002-8307-3167-98f1-1ebd50ccc4fe",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "Campbell's",
+   "title": "Campbell's CEO did not mince words about why the company has to act",
+   "publisher": "TheStreet",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/campbells-ceo-did-not-mince-183300646.html",
+   "published_unix": 1790015580,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-21T21:02:57"
+  },
+  {
+   "uuid": "f3cee9da-d922-37fc-a6d1-d5099b93c295",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Indiana American Water Proudly Recognizes American Water Charitable Foundation STEM Education Grant to Girl Scouts of Kentuckiana",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/indiana-american-water-proudly-recognizes-172000885.html",
+   "published_unix": 1790011200,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-21T21:02:58"
+  },
+  {
+   "uuid": "e7957d3b-1b96-3a39-b737-74a5c83bb082",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Named to TIME's World's Best Companies 2026 List",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/american-water-named-times-worlds-171700810.html",
+   "published_unix": 1790011020,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-21T21:02:58"
+  },
   {
    "uuid": "b71e7311-7dcd-3b9c-b493-7ac5ac63af55",
    "tickers": [
@@ -2195,19 +2260,6 @@
    "publisher": "Business Wire",
    "link": "https://finance.yahoo.com/media-advertising/articles/aramark-collegiate-hospitality-introduces-2026-113000942.html",
    "published_unix": 1787571000,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-24T11:42:39"
-  },
-  {
-   "uuid": "2d6fb8e1-d2d0-30ca-9b46-a93406237e5d",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast adds new service to internet plans as customers leave",
-   "publisher": "TheStreet",
-   "link": "https://finance.yahoo.com/m/2d6fb8e1-d2d0-30ca-9b46-a93406237e5d/comcast-adds-new-service-to.html",
-   "published_unix": 1787419020,
    "source_type": "yahoo",
    "captured_at": "2026-08-24T11:42:39"
   }
