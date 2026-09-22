@@ -19,5 +19,15 @@
   "source_publisher": "GlobeNewswire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-09-16T00:50:50"
+ },
+ "FMC": {
+  "release_date": "2026-10-29",
+  "call_date": "2026-10-30",
+  "call_time": "09:00 ET",
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/fmc-corporation-announces-date-third-203000209.html",
+  "source_title": "FMC Corporation announces date for third quarter 2026 earnings release and webcast conference call",
+  "source_publisher": "PR Newswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-09-22T01:14:46"
  }
 }

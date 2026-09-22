@@ -506,3 +506,10 @@
 [2026-09-19 00:41:43] Polling Yahoo for 106 companies
 [2026-09-19 00:43:00] === Done. Captured 0 new save-the-dates, cleaned 0 past. ===
 
+[2026-09-22 01:14:43] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-09-22 01:14:43] Polling Yahoo for 106 companies
+[2026-09-22 01:14:46]   + FMC: release=2026-10-29 call=2026-10-30 09:00 ET
+[2026-09-22 01:14:46]     via: FMC Corporation announces date for third quarter 2026 earnings release and webcast conference call
+[2026-09-22 01:14:49]   ✉ alert sent for FMC
+[2026-09-22 01:15:56] === Done. Captured 1 new save-the-dates, cleaned 0 past. ===
+
