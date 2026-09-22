@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-09-22T04:46:39",
+ "generated_at": "2026-09-22T15:31:07",
  "items": [
+  {
+   "uuid": "1b69d25c-141b-3e7d-af03-a6fce67587ac",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "MoffettNathanson Adjusts Price Target on Comcast to $43 From $52, Keeps Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/moffettnathanson-adjusts-price-target-comcast-110803228.html",
+   "published_unix": 1790075283,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-22T15:30:40"
+  },
   {
    "uuid": "41b9705a-6a90-3540-a2a5-238ad92754e1",
    "tickers": [
