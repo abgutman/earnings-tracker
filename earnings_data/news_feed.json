@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T15:31:07",
+ "generated_at": "2026-09-22T19:44:41",
  "items": [
   {
    "uuid": "1b69d25c-141b-3e7d-af03-a6fce67587ac",
@@ -260,6 +260,19 @@
    "published_unix": 1789590600,
    "source_type": "yahoo",
    "captured_at": "2026-09-16T22:55:26"
+  },
+  {
+   "uuid": "14af9daf-ce9b-3721-9c6f-78294ca53226",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "Cencora Tech Chief: AI Is Cutting Some Medical Treatment Decisions in Half",
+   "publisher": "WSJ",
+   "link": "https://finance.yahoo.com/video/cencora-tech-chief-ai-cutting-195800838.html",
+   "published_unix": 1789588680,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-22T19:44:02"
   },
   {
    "uuid": "67479365-a917-349b-80b5-be7a06dc3fe8",
