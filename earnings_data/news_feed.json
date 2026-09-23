@@ -1,6 +1,58 @@
 {
- "generated_at": "2026-09-23T19:40:39",
+ "generated_at": "2026-09-23T22:56:37",
  "items": [
+  {
+   "uuid": "aff46a97-2570-39bb-9327-08ee0f421439",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC Corporation",
+   "title": "FMC Says Tessenderlo Completed Minority Equity Investment for 20% Stake",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-says-tessenderlo-completed-minority-210520929.html",
+   "published_unix": 1790197520,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-23T22:56:18"
+  },
+  {
+   "uuid": "5ce20bdf-2e83-3dd8-ae2b-2d5b384ecea5",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Leadership Appointments Strengthen New Jersey American Water's Government Affairs Team Across the State",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/economy/policy/articles/leadership-appointments-strengthen-jersey-american-210400669.html",
+   "published_unix": 1790197440,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-23T22:56:20"
+  },
+  {
+   "uuid": "e9e6c24b-a9c9-3bd3-a692-741d93faa5bb",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC Corporation",
+   "title": "FMC Corporation and Tessenderlo Group Complete Minority Equity Investment",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-corporation-tessenderlo-group-complete-201500403.html",
+   "published_unix": 1790194500,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-23T22:56:18"
+  },
+  {
+   "uuid": "c35fa023-c45b-3b98-a84d-e52db64b4779",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "Five Below Appoints Scott Settersten to its Board of Directors",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-appoints-scott-settersten-200100041.html",
+   "published_unix": 1790193660,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-23T22:56:18"
+  },
   {
    "uuid": "45cc45ce-c47b-325d-8b05-2e2cfea9fd50",
    "tickers": [
@@ -2314,19 +2366,6 @@
    "published_unix": 1787650221,
    "source_type": "yahoo",
    "captured_at": "2026-08-25T11:41:53"
-  },
-  {
-   "uuid": "d65d08e3-6b17-3032-b6df-094e2e00bc3e",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "California American Water Supports Cal Fire Response to Timber Fire",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/california-american-water-supports-cal-222700678.html",
-   "published_unix": 1787610420,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-24T22:43:04"
   }
  ]
 }
