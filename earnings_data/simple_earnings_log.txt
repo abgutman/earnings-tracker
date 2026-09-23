@@ -4123,3 +4123,13 @@
 [2026-09-23 18:21:32]   firehose: 10-Q feed — 13 entries parsed
 [2026-09-23 18:21:32]   firehose: 100 watched CIKs, 113 total feed entries
 [2026-09-23 18:21:32] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-09-23 21:35:29] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-09-23 21:35:30]   ★ NEW 8k_701 for FMC (FMC CORP) filed 2026-09-23
+[2026-09-23 21:35:30]     https://www.sec.gov/Archives/edgar/data/37785/000095010326014390/dp253498_8k.htm
+[2026-09-23 21:35:32]     ✉ alert sent (8k_701)
+[2026-09-23 21:35:32]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0000037785.json'
+[2026-09-23 21:35:33]   ★ NEW 8k_701 for FIVE (FIVE BELOW, INC) filed 2026-09-23
+[2026-09-23 21:35:33]     https://www.sec.gov/Archives/edgar/data/1177609/000117760926000050/five-20260921.htm
+[2026-09-23 21:35:35]     ✉ alert sent (8k_701)
+[2026-09-23 21:35:35]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001177609.json'
+[2026-09-23 21:36:08] === EDGAR POLL complete. Fetched 100 companies, 2 new filings. ===
