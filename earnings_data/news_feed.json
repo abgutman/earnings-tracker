@@ -1,6 +1,45 @@
 {
- "generated_at": "2026-09-23T04:38:45",
+ "generated_at": "2026-09-23T15:26:43",
  "items": [
+  {
+   "uuid": "dc276d6d-0d97-33b5-9049-ed31836d7bb5",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Advances Important Conversations at The Women's International Network of Utility Professionals 2026 International Conference",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/american-water-advances-important-conversations-150800605.html",
+   "published_unix": 1790176080,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-23T15:26:22"
+  },
+  {
+   "uuid": "322799b9-161d-30b7-9d47-4da8a8cfb24c",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Xfinity and Comcast Business Reliable, High-Speed Internet Now Available in Milton and New Durham, New Hampshire",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/articles/xfinity-comcast-business-reliable-high-140000516.html",
+   "published_unix": 1790172000,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-23T15:26:18"
+  },
+  {
+   "uuid": "b3ec638f-738b-3edd-b533-e034b7d4fa68",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "How Far Can Comcast Stock Fall, And How Long Would You Wait?",
+   "publisher": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/far-comcast-stock-fall-long-131024936.html",
+   "published_unix": 1790169024,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-23T15:26:18"
+  },
   {
    "uuid": "6cbe8310-c060-3aa3-9607-2fc6da581258",
    "tickers": [
@@ -2249,71 +2288,6 @@
    "published_unix": 1787610420,
    "source_type": "yahoo",
    "captured_at": "2026-08-24T22:43:04"
-  },
-  {
-   "uuid": "9dd456ab-8c01-3804-b85d-59547170ff94",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Pennsylvania American Water Delivers Additional PFAS Settlement Credit to Customers",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/pennsylvania-american-water-delivers-additional-143000100.html",
-   "published_unix": 1787581800,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-24T14:58:45"
-  },
-  {
-   "uuid": "f3faba54-8357-3f37-b65b-7db5b967090a",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Reliable, High-Speed Internet\u00a0from Xfinity Now Available in\u00a0Newfield, Maine",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/articles/reliable-high-speed-internet-xfinity-140000650.html",
-   "published_unix": 1787580000,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-24T14:58:42"
-  },
-  {
-   "uuid": "c9e984fd-40d3-3797-93e6-3f27dd146d5c",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "Campbell's",
-   "title": "Campbell's Renews, Expands Partnership With National Football League",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/media-advertising/articles/campbell-apos-renews-expands-partnership-132208636.html",
-   "published_unix": 1787577728,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-24T14:58:44"
-  },
-  {
-   "uuid": "2d87c2b4-2745-372b-af51-41f11b1d4735",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "Campbell's",
-   "title": "The Campbell\u2019s Company Renews NFL Partnership to Become Second-Longest-Running Sponsor in League's History",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/media-advertising/articles/campbell-company-renews-nfl-partnership-130000877.html",
-   "published_unix": 1787576400,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-24T14:58:44"
-  },
-  {
-   "uuid": "09604bdf-821a-3d70-bfc3-80ce496ca5d6",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Aramark Collegiate Hospitality Introduces 2026-2027 Innovations for Current and Incoming Generations",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/media-advertising/articles/aramark-collegiate-hospitality-introduces-2026-113000942.html",
-   "published_unix": 1787571000,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-24T11:42:39"
   }
  ]
 }
