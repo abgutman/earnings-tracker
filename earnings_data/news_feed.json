@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-09-24T04:39:07",
+ "generated_at": "2026-09-24T15:48:53",
  "items": [
+  {
+   "uuid": "538d438d-01c1-345e-b5ed-7f47302c76de",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Is Comcast Broken, Or Just Paying To Defend Its Broadband?",
+   "publisher": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-broken-just-paying-defend-151858750.html",
+   "published_unix": 1790263138,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-24T15:48:35"
+  },
+  {
+   "uuid": "fb19f66c-6b5f-3672-8b45-b3874e125afc",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Citigroup Adjusts Comcast Price Target to $27.50 From $30, Maintains Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/citigroup-adjusts-comcast-price-target-130754740.html",
+   "published_unix": 1790255274,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-24T15:48:35"
+  },
   {
    "uuid": "aff46a97-2570-39bb-9327-08ee0f421439",
    "tickers": [
@@ -2314,58 +2340,6 @@
    "published_unix": 1787681795,
    "source_type": "yahoo",
    "captured_at": "2026-08-25T18:55:37"
-  },
-  {
-   "uuid": "d83209f7-777b-3e4d-8ba3-695c016fc52d",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast Expands Xfinity, Business Internet in Columbia County",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/technology/articles/comcast-expands-xfinity-business-internet-150824181.html",
-   "published_unix": 1787670504,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-25T15:58:16"
-  },
-  {
-   "uuid": "c149f8b9-49bc-3192-8ecf-b512fe308866",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Xfinity and Comcast Business High-Speed Internet Now Available to More Than 3,300 Homes and Businesses in Columbia County, Florida",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/articles/xfinity-comcast-business-high-speed-140000518.html",
-   "published_unix": 1787666400,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-25T14:05:09"
-  },
-  {
-   "uuid": "e813ee55-1099-3f07-b446-3d2fc05def5a",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "Five Below",
-   "title": "AMD upgraded, Five Below downgraded: Wall Street's top analyst calls",
-   "publisher": "The Fly",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/moderna-upgraded-baidu-downgraded-wall-133822050.html",
-   "published_unix": 1787664844,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-25T14:05:11"
-  },
-  {
-   "uuid": "6e4acd20-a695-31f2-894b-6c24d256f7a3",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "Five Below",
-   "title": "Loop Capital Downgrades Five Below to Hold From Buy, Price Target is $250",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/loop-capital-downgrades-five-below-093021939.html",
-   "published_unix": 1787650221,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-25T11:41:53"
   }
  ]
 }
