@@ -4147,3 +4147,11 @@
 [2026-09-23 22:53:04] === EDGAR FIREHOSE complete. 0 new detections. ===
 [2026-09-24 00:56:28] === CHECK-10Q: scanning for pending 10-Q filings ===
 [2026-09-24 00:56:28] === CHECK-10Q complete. Checked 3, found 0, cleared 0 stale. ===
+[2026-09-24 15:47:04] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-09-24 15:47:05]   firehose: 8-K feed — 100 entries parsed
+[2026-09-24 15:47:07]   firehose: 10-Q feed — 7 entries parsed
+[2026-09-24 15:47:07]   firehose: 100 watched CIKs, 107 total feed entries
+[2026-09-24 15:47:07]   ★ NEW 8k_701 for IRT (INDEPENDENCE REALTY TRUST, INC.) filed 2026-09-24
+[2026-09-24 15:47:07]     https://www.sec.gov/Archives/edgar/data/1466085/000143774926031110/irt20260923_8k.htm
+[2026-09-24 15:47:08]     ✉ alert sent (8k_701)
+[2026-09-24 15:47:08] === EDGAR FIREHOSE complete. 1 new detections. ===
