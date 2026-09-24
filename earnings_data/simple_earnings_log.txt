@@ -4162,3 +4162,9 @@
 [2026-09-24 18:23:21]   firehose: 10-Q feed — 8 entries parsed
 [2026-09-24 18:23:21]   firehose: 100 watched CIKs, 108 total feed entries
 [2026-09-24 18:23:21] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-09-24 21:36:25] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-09-24 21:36:53]   ★ NEW 8k_701 for NXGL (NEXGEL, INC.) filed 2026-09-24
+[2026-09-24 21:36:53]     https://www.sec.gov/Archives/edgar/data/1468929/000149315226044149/form8-k.htm
+[2026-09-24 21:36:54]     ✉ alert sent (8k_701)
+[2026-09-24 21:36:54]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001468929.json'
+[2026-09-24 21:36:59] === EDGAR POLL complete. Fetched 100 companies, 1 new filings. ===
