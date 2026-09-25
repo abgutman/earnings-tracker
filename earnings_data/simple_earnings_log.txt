@@ -4182,3 +4182,11 @@
 [2026-09-24 23:09:36] === EDGAR FIREHOSE complete. 0 new detections. ===
 [2026-09-25 00:56:30] === CHECK-10Q: scanning for pending 10-Q filings ===
 [2026-09-25 00:56:32] === CHECK-10Q complete. Checked 5, found 0, cleared 0 stale. ===
+[2026-09-25 15:46:53] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-09-25 15:46:56]   firehose: 8-K feed — 100 entries parsed
+[2026-09-25 15:46:58]   firehose: 10-Q feed — 11 entries parsed
+[2026-09-25 15:46:58]   firehose: 100 watched CIKs, 111 total feed entries
+[2026-09-25 15:46:59]   ★ NEW 8k_701 for COR (Cencora, Inc.) filed 2026-09-25
+[2026-09-25 15:46:59]     https://www.sec.gov/Archives/edgar/data/1140859/000110465926110624/tm2626030d1_8k.htm
+[2026-09-25 15:47:01]     ✉ alert sent (8k_701)
+[2026-09-25 15:47:01] === EDGAR FIREHOSE complete. 1 new detections. ===
