@@ -1,6 +1,84 @@
 {
- "generated_at": "2026-09-25T15:49:41",
+ "generated_at": "2026-09-25T20:03:10",
  "items": [
+  {
+   "uuid": "47603877-e217-34ed-8bb2-871fe50aa6cf",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Illinois American Water Emphasizes the Importance of Source Water Protection During Annual Recognition Week",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/illinois-american-water-emphasizes-importance-183500215.html",
+   "published_unix": 1790361300,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-25T20:00:50"
+  },
+  {
+   "uuid": "197dabec-9ec7-3609-a50c-a87f1d213b9a",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "Crocs says Five Below copied its famous clog design",
+   "publisher": "USA TODAY",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/crocs-says-five-below-copied-175232914.html",
+   "published_unix": 1790358752,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-25T20:00:48"
+  },
+  {
+   "uuid": "be64df71-e3fd-30e0-a5a1-4d93a607d282",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Kentucky American Water Restores Water Service to Customers of Black Mountain Water Utility Following Devastating Flood",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/kentucky-american-water-restores-water-174900026.html",
+   "published_unix": 1790358540,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-25T20:00:50"
+  },
+  {
+   "uuid": "b7043c64-616b-3d2a-9375-03669b541adc",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Iowa American Water Highlights the Role of Source Water Protection in Providing High-Quality Water",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/iowa-american-water-highlights-role-155500188.html",
+   "published_unix": 1790351700,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-25T20:00:50"
+  },
+  {
+   "uuid": "d472a132-d198-3324-a10b-dee059ee5d79",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Broadband Net Adds Likely to Worsen Amid Competition, KeyBanc Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-broadband-net-adds-likely-155120769.html",
+   "published_unix": 1790351480,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-25T20:00:46"
+  },
+  {
+   "uuid": "c4c8b590-ac3e-3279-905c-0639dd550c22",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Broadband Outlook Weakens as Competition Intensifies, KeyBanc Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-broadband-outlook-weakens-competition-152807322.html",
+   "published_unix": 1790350087,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-25T20:00:46"
+  },
   {
    "uuid": "77968dfd-ed12-3ec3-9346-140e927860cc",
    "tickers": [
@@ -2353,71 +2431,6 @@
    "published_unix": 1787833398,
    "source_type": "yahoo",
    "captured_at": "2026-08-27T21:01:26"
-  },
-  {
-   "uuid": "f2dda5d1-1afc-301d-8afa-412afc44cd57",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Las Vegas, Nevada",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-193400039.html",
-   "published_unix": 1787772840,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-26T23:30:56"
-  },
-  {
-   "uuid": "b77d1db3-0097-3332-b12f-183d95ec4920",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Crestmoor Estates by Toll Brothers is Now Open in San Bruno, California",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/crestmoor-estates-toll-brothers-now-191500472.html",
-   "published_unix": 1787771700,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-26T19:19:02"
-  },
-  {
-   "uuid": "b0cd0fda-84be-3d06-aeec-9105a6caa822",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "American Water White Paper Highlights Community Benefits of Water and Wastewater System Partnerships",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/american-water-white-paper-highlights-184000378.html",
-   "published_unix": 1787769600,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-26T19:18:26"
-  },
-  {
-   "uuid": "e462cc61-b4ba-32b4-acb9-a4efa3524c96",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces New Luxury Townhome Community Coming this Fall to Harrison, New York",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-townhome-183400214.html",
-   "published_unix": 1787769240,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-26T19:19:02"
-  },
-  {
-   "uuid": "5791533f-cdfe-3ee8-8675-5b13a8c5b117",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Monterey Peninsula College Awarded American Water Charitable Foundation Workforce Readiness Grant",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/small-business/articles/monterey-peninsula-college-awarded-american-182700407.html",
-   "published_unix": 1787768820,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-26T19:18:26"
   }
  ]
 }

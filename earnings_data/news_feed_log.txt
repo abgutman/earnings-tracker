@@ -9860,3 +9860,32 @@
 [2026-09-25 15:49:40]   Toll Brothers [yahoo_search]: 15 fetched, 0 new
 [2026-09-25 15:49:41]   Brandywine Realty Trust [yahoo_search]: 10 fetched, 8 new
 [2026-09-25 15:49:41] === Done. 207 new items, 186 total in 720h window ===
+[2026-09-25 20:00:45] === Local news feed poll start ===
+[2026-09-25 20:00:45] 22 active entities
+[2026-09-25 20:00:46]   Comcast [yahoo_search]: 9 fetched, 2 new
+[2026-09-25 20:00:47]   Aramark [yahoo_search]: 11 fetched, 3 new
+[2026-09-25 20:00:47]   Cencora [yahoo_search]: 3 fetched, 0 new
+[2026-09-25 20:00:48]   FMC Corporation [yahoo_search]: 9 fetched, 3 new
+[2026-09-25 20:00:48]   Five Below [yahoo_search]: 5 fetched, 1 new
+[2026-09-25 20:00:49]   Campbell's [yahoo_search]: 7 fetched, 0 new
+[2026-09-25 20:00:50]   Burlington Stores [yahoo_search]: 2 fetched, 0 new
+[2026-09-25 20:00:50]   American Water [yahoo_search]: 20 fetched, 3 new
+[2026-09-25 20:00:51]   Essential Utilities [yahoo_search]: 6 fetched, 5 new
+[2026-09-25 20:01:11]   fetch err https://www.prnewswire.com/news/independence-blue-cross/: Failed to perform, curl: (28) Operation timed out after 20002 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+[2026-09-25 20:01:11]   Independence Blue Cross [wire_page]: 0 fetched, 0 new
+[2026-09-25 20:01:31]   fetch err https://www.prnewswire.com/news/the-vanguard-group/: Failed to perform, curl: (28) Operation timed out after 20001 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+[2026-09-25 20:01:31]   Vanguard [wire_page]: 0 fetched, 0 new
+[2026-09-25 20:01:51]   fetch err https://www.prnewswire.com/news/wawa,-inc./: Failed to perform, curl: (28) Operation timed out after 20002 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+[2026-09-25 20:01:52]   Wawa [wire_page]: 0 fetched, 0 new
+[2026-09-25 20:01:55]   Gopuff [wire_page]: 3 fetched, 3 new
+[2026-09-25 20:02:12]   PJM Interconnection [wire_page]: 25 fetched, 24 new
+[2026-09-25 20:02:13]   Franklin Biolabs [rss]: 10 fetched, 10 new
+[2026-09-25 20:02:33]   fetch err https://www.prnewswire.com/news/qvc/: Failed to perform, curl: (28) Operation timed out after 20002 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+[2026-09-25 20:02:33]   QVC Group [wire_page]: 0 fetched, 0 new
+[2026-09-25 20:02:45]   Spark Therapeutics [wire_page]: 22 fetched, 22 new
+[2026-09-25 20:02:55]   GEMMA Biotherapeutics [wire_page]: 9 fetched, 9 new
+[2026-09-25 20:03:04]   David's Bridal [wire_page]: 25 fetched, 25 new
+[2026-09-25 20:03:09]   TD Bank [wire_page]: 25 fetched, 25 new
+[2026-09-25 20:03:09]   Toll Brothers [yahoo_search]: 14 fetched, 0 new
+[2026-09-25 20:03:10]   Brandywine Realty Trust [yahoo_search]: 10 fetched, 9 new
+[2026-09-25 20:03:10] === Done. 144 new items, 187 total in 720h window ===
