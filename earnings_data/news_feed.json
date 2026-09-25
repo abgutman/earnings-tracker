@@ -1,6 +1,110 @@
 {
- "generated_at": "2026-09-25T04:50:17",
+ "generated_at": "2026-09-25T15:49:41",
  "items": [
+  {
+   "uuid": "77968dfd-ed12-3ec3-9346-140e927860cc",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Nvidia, Meta, Akamai, Comcast, Zscaler, Nike, and More Stocks That Explain Today\u2019s Market",
+   "publisher": "Barrons.com",
+   "link": "https://finance.yahoo.com/m/77968dfd-ed12-3ec3-9346-140e927860cc/nvidia%2C-meta%2C-akamai%2C.html",
+   "published_unix": 1790345100,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-25T15:48:25"
+  },
+  {
+   "uuid": "b46956e6-c167-34d8-aaaf-5b6d13233f8a",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Indiana American Water Participates in Source Water Protection Week",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/indiana-american-water-participates-source-131700530.html",
+   "published_unix": 1790342220,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-25T15:48:29"
+  },
+  {
+   "uuid": "31458add-df6d-3f41-bb8c-0a61e9ecdc86",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Participates in American Water Works Association's Source Water Protection Week",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/american-water-participates-american-water-130400494.html",
+   "published_unix": 1790341440,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-25T15:48:29"
+  },
+  {
+   "uuid": "f434ee9e-1cc1-3e67-8ce4-6950a3825bed",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Stock Hits Its Lowest Level in More Than a Decade. Why the Trouble Runs Deep.",
+   "publisher": "Barrons.com",
+   "link": "https://finance.yahoo.com/m/f434ee9e-1cc1-3e67-8ce4-6950a3825bed/comcast-stock-hits-its-lowest.html",
+   "published_unix": 1790340600,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-25T15:48:25"
+  },
+  {
+   "uuid": "ec882efe-5a18-3b7f-8bdb-ebafb914f6df",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "Cencora Elects Ryder Systems' Robert Sanchez to Board",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cencora-elects-ryder-systems-apos-122544439.html",
+   "published_unix": 1790339144,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-25T15:48:26"
+  },
+  {
+   "uuid": "fe6ef965-2b8d-3810-8619-64f9bfc9fde2",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "Cencora Elects Robert E. Sanchez to Its Board of Directors",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/healthcare/articles/cencora-elects-robert-e-sanchez-120000954.html",
+   "published_unix": 1790337600,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-25T15:48:26"
+  },
+  {
+   "uuid": "51b2976e-50b6-380a-9475-a83a701f07b8",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Morgan Stanley Adjusts Price Target on Comcast to $27 From $29, Maintains Equalweight Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-price-target-112439368.html",
+   "published_unix": 1790335479,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-25T15:48:25"
+  },
+  {
+   "uuid": "63bf3b22-25a0-31eb-9834-5c78d75e8ca1",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "KeyBanc Downgrades Comcast to Underweight From Sector Weight, Price Target is $18",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/keybanc-downgrades-comcast-underweight-sector-091737945.html",
+   "published_unix": 1790327857,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-25T15:48:25"
+  },
   {
    "uuid": "e88e083c-e995-3485-b64e-1196002a3cfa",
    "tickers": [
@@ -2314,58 +2418,6 @@
    "published_unix": 1787768820,
    "source_type": "yahoo",
    "captured_at": "2026-08-26T19:18:26"
-  },
-  {
-   "uuid": "00c0702c-49a5-3ddb-aa1e-232e4e1ad0a5",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast Expands High-Speed Internet Access to Deerfield, New Hampshire",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/technology/articles/comcast-expands-high-speed-internet-151515269.html",
-   "published_unix": 1787757315,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-26T15:52:21"
-  },
-  {
-   "uuid": "ffe0a0be-41b2-3c7e-92a5-7dc0b0762940",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Xfinity and Comcast Business Reliable, High-Speed Internet Now Available in Deerfield, New Hampshire",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/articles/xfinity-comcast-business-reliable-high-140000680.html",
-   "published_unix": 1787752800,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-26T15:52:21"
-  },
-  {
-   "uuid": "44c984c3-f939-37c6-9e47-5c80a31ca9dc",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Tracer Partners with Comcast's Universal Ads to Modernize Advertising Operations",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/media-advertising/articles/tracer-partners-comcasts-universal-ads-120000764.html",
-   "published_unix": 1787745600,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-26T13:15:04"
-  },
-  {
-   "uuid": "2811669a-0241-3664-ae05-1de96a0be9ae",
-   "tickers": [
-    "BDN"
-   ],
-   "company": "Brandywine Realty Trust",
-   "title": "Brandywine Realty Trust Announces Expiration of Tender Offer for the 2029 Notes",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/brandywine-realty-trust-announces-expiration-113000014.html",
-   "published_unix": 1787743800,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-26T11:43:39"
   }
  ]
 }
