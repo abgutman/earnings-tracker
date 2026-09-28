@@ -1,6 +1,45 @@
 {
- "generated_at": "2026-09-26T04:51:30",
+ "generated_at": "2026-09-28T18:36:15",
  "items": [
+  {
+   "uuid": "855881a0-2e48-33ca-b6a2-5fc8ddbe72fc",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Pennsylvania American Water Participates in Source Water Protection Week, Highlighting its Commitment to High-Quality Water",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/pennsylvania-american-water-participates-source-180800612.html",
+   "published_unix": 1790618880,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-28T18:35:26"
+  },
+  {
+   "uuid": "3e50e588-e3d2-3be7-a20e-a93832bca99e",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Xfinity and Comcast Business High-Speed Internet Now Available to More Than 2,300 Homes and Businesses in Clay County, Florida",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/articles/xfinity-comcast-business-high-speed-140000310.html",
+   "published_unix": 1790604000,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-28T18:35:22"
+  },
+  {
+   "uuid": "e86b3eb5-cc31-38d3-8632-a6e2c9fcd7e1",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Completes Washington County, Pennsylvania Expansion Connecting Thousands to High-Speed Internet for the First Time",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/articles/comcast-completes-washington-county-pennsylvania-131500401.html",
+   "published_unix": 1790601300,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-28T18:35:22"
+  },
   {
    "uuid": "47603877-e217-34ed-8bb2-871fe50aa6cf",
    "tickers": [
@@ -2132,305 +2171,6 @@
    "published_unix": 1788175674,
    "source_type": "yahoo",
    "captured_at": "2026-08-31T18:00:00"
-  },
-  {
-   "uuid": "e7dac659-2a7c-3283-aaff-1372a5d2d614",
-   "tickers": [
-    "BURL"
-   ],
-   "company": "Burlington Stores",
-   "title": "Burlington Stores Seen Continuing Strong Earnings Growth, UBS Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/burlington-stores-seen-continuing-strong-162301620.html",
-   "published_unix": 1787934181,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-28T21:21:09"
-  },
-  {
-   "uuid": "c6fa5de8-ed46-3995-b970-b1bc318664a1",
-   "tickers": [
-    "BURL"
-   ],
-   "company": "Burlington Stores",
-   "title": "Burlington Stores Positioned for Market-Share Gains, H2 Sales Upside, BofA Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/burlington-stores-positioned-market-share-150245337.html",
-   "published_unix": 1787929365,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-28T21:21:09"
-  },
-  {
-   "uuid": "6a91cc1f-d263-3f2a-82c6-d103dc149b28",
-   "tickers": [
-    "BURL"
-   ],
-   "company": "Burlington Stores",
-   "title": "BofA Securities Adjusts Burlington Stores Price Target to $365 From $375, Maintains Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-securities-adjusts-burlington-stores-125221160.html",
-   "published_unix": 1787921541,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-28T21:21:09"
-  },
-  {
-   "uuid": "a2f29c0c-6714-30b9-9d7b-63d009032781",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "California American Water Completes Carmel Woods Pump Station Upgrade",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/california-american-water-completes-carmel-232300425.html",
-   "published_unix": 1787872980,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-28T05:22:16"
-  },
-  {
-   "uuid": "2f560793-eb9e-30d2-8d4c-59d864cd3f1b",
-   "tickers": [
-    "BURL"
-   ],
-   "company": "Burlington Stores",
-   "title": "Burlington Stores, Inc. Q2 2026 Earnings Call Summary",
-   "publisher": "Moby",
-   "link": "https://finance.yahoo.com/m/2f560793-eb9e-30d2-8d4c-59d864cd3f1b/burlington-stores%2C-inc.-q2.html",
-   "published_unix": 1787863914,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-28T05:22:16"
-  },
-  {
-   "uuid": "d5b8974e-6f3a-3707-a73a-2db9e0818ff8",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC Corporation",
-   "title": "FMC Corporation CEO Pierre Brondeau and CFO Andrew Sandifer to speak at the 2026 Jefferies Global Industrials Conference",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-corporation-ceo-pierre-brondeau-203000416.html",
-   "published_unix": 1787862600,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-27T21:01:25"
-  },
-  {
-   "uuid": "7efe306c-cd1c-3b90-b0bf-1077587a55b1",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast to Participate in BofA Securities Investor Conference",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-participate-bofa-securities-investor-200500201.html",
-   "published_unix": 1787861100,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-27T21:01:23"
-  },
-  {
-   "uuid": "4339938c-02aa-38ac-9dec-4a10874b4a56",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast to Participate in Goldman Sachs Investor Conference",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-participate-goldman-sachs-investor-200000734.html",
-   "published_unix": 1787860800,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-27T21:01:23"
-  },
-  {
-   "uuid": "e5a71d80-2faa-38e3-adaf-ce9baa923388",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Virginia American Water President Addresses ASCE 2026 Report Card for Virginia's Infrastructure",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/economy/policy/articles/virginia-american-water-president-addresses-194700400.html",
-   "published_unix": 1787860020,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-27T21:01:27"
-  },
-  {
-   "uuid": "ea66f19b-ce0e-3de3-8e3e-bb1294d5f55e",
-   "tickers": [
-    "BURL"
-   ],
-   "company": "Burlington Stores",
-   "title": "Burlington Stores\u2019 Earnings Were OK but Its Forecast Missed the Mark",
-   "publisher": "Barrons.com",
-   "link": "https://finance.yahoo.com/m/ea66f19b-ce0e-3de3-8e3e-bb1294d5f55e/burlington-stores%E2%80%99-earnings.html",
-   "published_unix": 1787854560,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-27T21:01:26"
-  },
-  {
-   "uuid": "36ec1805-9883-302f-9d02-5a05c66902eb",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces Model Home Now Available for Sale at Northbrooke in Cumming, Georgia",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-model-home-171600131.html",
-   "published_unix": 1787850960,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-27T21:02:22"
-  },
-  {
-   "uuid": "66ff7bd5-69a9-3b6d-a7be-cc4e022a694e",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Grew Its Earnings Per Share Without Growing Earnings",
-   "publisher": "Trefis",
-   "link": "https://finance.yahoo.com/m/66ff7bd5-69a9-3b6d-a7be-cc4e022a694e/toll-brothers-grew-its.html",
-   "published_unix": 1787850764,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-27T21:02:22"
-  },
-  {
-   "uuid": "a33ea5e6-f320-350f-bfba-2d22caef4b3d",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "Campbell's",
-   "title": "Campbell's Facing Challenging Q4 due to Rising Cost Pressures, Faltering Demand, UBS Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/campbell-apos-facing-challenging-q4-164449901.html",
-   "published_unix": 1787849089,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-27T21:01:26"
-  },
-  {
-   "uuid": "4cc2bf47-253f-3e70-b599-a76d4ed6c852",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Horizon Lakes Master Plan Near Dallas, Texas",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-155700090.html",
-   "published_unix": 1787846220,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-27T21:02:22"
-  },
-  {
-   "uuid": "f3c630ab-7137-3291-93c5-041c549ddbc0",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Bickford Ranch in Placer County, California",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-155600096.html",
-   "published_unix": 1787846160,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-27T21:02:22"
-  },
-  {
-   "uuid": "d975adf1-9b52-37f9-9d1d-3995b87f5d18",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Illinois American Water Delivers Additional PFAS Settlement Credit to Customers",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/illinois-american-water-delivers-additional-153700704.html",
-   "published_unix": 1787845020,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-27T21:01:27"
-  },
-  {
-   "uuid": "45db2ac1-8a63-3d73-aee0-37c47c82b868",
-   "tickers": [
-    "BURL"
-   ],
-   "company": "Burlington Stores",
-   "title": "Burlington Stores tops profit estimates, cuts annual outlook on tariff costs",
-   "publisher": "Proactive",
-   "link": "https://finance.yahoo.com/m/45db2ac1-8a63-3d73-aee0-37c47c82b868/burlington-stores-tops-profit.html",
-   "published_unix": 1787841480,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-27T21:01:26"
-  },
-  {
-   "uuid": "67fc0a8c-426c-3313-b1ac-500d6ac4b1d4",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast Breaks Ground to Expand High-Speed Internet to Kamas and Francis, Utah",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/articles/comcast-breaks-ground-expand-high-143000532.html",
-   "published_unix": 1787841000,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-27T21:01:23"
-  },
-  {
-   "uuid": "c1c87c6c-3a9d-30c4-a811-6e0c50eac1b0",
-   "tickers": [
-    "BURL"
-   ],
-   "company": "Burlington Stores",
-   "title": "Burlington Stores shares fall despite strong Q2 earnings growth",
-   "publisher": "InvestorsHub",
-   "link": "https://finance.yahoo.com/m/c1c87c6c-3a9d-30c4-a811-6e0c50eac1b0/burlington-stores-shares-fall.html",
-   "published_unix": 1787837356,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-27T21:01:26"
-  },
-  {
-   "uuid": "c8ba9772-7343-355b-8a96-6a920f69466e",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Xfinity and Comcast Business High-Speed Internet Now Available to More Than 1,100 Homes and Businesses in Allen County, Indiana",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/articles/xfinity-comcast-business-high-speed-131500542.html",
-   "published_unix": 1787836500,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-27T21:01:23"
-  },
-  {
-   "uuid": "629b093f-fdf0-38b0-8c37-203ddd4e4e86",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast Completes Rural Broadband Expansion Connecting Thousands of Homes and Businesses in Eastern Ohio",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/articles/comcast-completes-rural-broadband-expansion-130000094.html",
-   "published_unix": 1787835600,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-27T21:01:23"
-  },
-  {
-   "uuid": "b9a7814c-6559-3d36-88fd-97da19ae2f62",
-   "tickers": [
-    "BURL"
-   ],
-   "company": "Burlington Stores",
-   "title": "Burlington Stores Q2 2026 earnings: tariff refunds to lower prices",
-   "publisher": "Quartz",
-   "link": "https://finance.yahoo.com/m/b9a7814c-6559-3d36-88fd-97da19ae2f62/burlington-stores-q2-2026.html",
-   "published_unix": 1787834262,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-27T21:01:26"
-  },
-  {
-   "uuid": "f9a38e45-fdf3-3951-a5dc-7d60d607a3e6",
-   "tickers": [
-    "BURL"
-   ],
-   "company": "Burlington Stores",
-   "title": "Correction: Burlington Stores Fiscal Q2 Adjusted Earnings, Revenue Increase; Lifts 2026 Outlook",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/correction-burlington-stores-fiscal-q2-122318142.html",
-   "published_unix": 1787833398,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-27T21:01:26"
   }
  ]
 }
