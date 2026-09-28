@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-09-28T18:36:15",
+ "generated_at": "2026-09-28T23:49:28",
  "items": [
+  {
+   "uuid": "97a99cbd-7e2f-372a-8414-a68fd7ae79ac",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC Corporation",
+   "title": "FMC Corporation Submits Regulatory Dossier for Rimisoxafen, the Industry's First Dual Mode of Action Herbicide, in Brazil",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/fmc-corporation-submits-regulatory-dossier-203000348.html",
+   "published_unix": 1790627400,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-28T23:48:58"
+  },
+  {
+   "uuid": "8132bdd0-879a-3f6b-a8c3-6626dd765a25",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast and Fastly\u2019s New Content Delivery Model Powers Highest Quality Experience for Peacock\u2019s Biggest Live Events",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-fastly-content-delivery-model-200000069.html",
+   "published_unix": 1790625600,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-28T23:48:56"
+  },
   {
    "uuid": "855881a0-2e48-33ca-b6a2-5fc8ddbe72fc",
    "tickers": [
