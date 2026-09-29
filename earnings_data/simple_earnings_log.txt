@@ -4235,3 +4235,10 @@
 [2026-09-29 02:21:26] === CHECK-10Q: scanning for pending 10-Q filings ===
 [2026-09-29 02:21:27]   AVTR: pending_10q_since=2026-09-21 is 8d old — clearing stale flag
 [2026-09-29 02:21:27] === CHECK-10Q complete. Checked 5, found 0, cleared 1 stale. ===
+[2026-09-29 16:51:20] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-09-29 16:51:21]   firehose: 8-K feed — 100 entries parsed
+[2026-09-29 16:51:21]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-09-29 16:51:21]   firehose: 8-K page 2 — 100 entries
+[2026-09-29 16:51:21]   firehose: 10-Q feed — 15 entries parsed
+[2026-09-29 16:51:21]   firehose: 100 watched CIKs, 215 total feed entries
+[2026-09-29 16:51:21] === EDGAR FIREHOSE complete. 0 new detections. ===
