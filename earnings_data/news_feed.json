@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-09-29T16:53:24",
+ "generated_at": "2026-09-29T21:24:03",
  "items": [
+  {
+   "uuid": "34cb5cfb-cabf-3919-a21f-ab6524330f4f",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Apex, North Carolina",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-180600839.html",
+   "published_unix": 1790705160,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-29T21:24:02"
+  },
   {
    "uuid": "8645de52-77ca-34e0-850e-cb7a20ab7337",
    "tickers": [
