@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-09-30T16:49:04",
+ "generated_at": "2026-09-30T21:25:28",
  "items": [
+  {
+   "uuid": "a66a8133-4f9a-3b64-a0c0-289cca7a23be",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Kentucky American Water Participates in Source Water Protection Week",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/kentucky-american-water-participates-source-200900286.html",
+   "published_unix": 1790798940,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-30T21:24:55"
+  },
+  {
+   "uuid": "1fedeccc-b940-31e7-8ba7-6b27df593e19",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "California American Water Participates in Source Water Protection Week",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/california-american-water-participates-source-165600953.html",
+   "published_unix": 1790787360,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-30T21:24:55"
+  },
   {
    "uuid": "b859d34c-f5ba-33ac-94d4-11917a960685",
    "tickers": [
@@ -2288,19 +2314,6 @@
    "published_unix": 1788261894,
    "source_type": "yahoo",
    "captured_at": "2026-09-01T15:27:30"
-  },
-  {
-   "uuid": "48a06af1-45a6-38f3-aa19-88ba46a8f4e5",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Illinois American Water Announces Upcoming Hydrant Flushing in Streator",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/illinois-american-water-announces-upcoming-165700221.html",
-   "published_unix": 1788195420,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-31T18:00:00"
   }
  ]
 }
