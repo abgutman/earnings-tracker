@@ -1,6 +1,45 @@
 {
- "generated_at": "2026-09-30T05:25:38",
+ "generated_at": "2026-09-30T16:49:04",
  "items": [
+  {
+   "uuid": "b859d34c-f5ba-33ac-94d4-11917a960685",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Washougal, Washington",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-130000477.html",
+   "published_unix": 1790773200,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-30T16:49:04"
+  },
+  {
+   "uuid": "39aa04f2-ab23-385f-a387-a32b4b92e2a8",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Harmonic Launches Recon Network Monitoring Product Family Developed With Comcast",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/technology/articles/harmonic-launches-recon-network-monitoring-123025584.html",
+   "published_unix": 1790771425,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-30T16:48:45"
+  },
+  {
+   "uuid": "cff31283-a37a-36a0-aa13-e93a368741f0",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Harmonic Launches Recon Product Family Developed in Partnership with Comcast",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/technology/articles/harmonic-launches-recon-product-family-120000072.html",
+   "published_unix": 1790769600,
+   "source_type": "yahoo",
+   "captured_at": "2026-09-30T16:48:45"
+  },
   {
    "uuid": "34cb5cfb-cabf-3919-a21f-ab6524330f4f",
    "tickers": [
@@ -2260,58 +2299,6 @@
    "publisher": "PR Newswire",
    "link": "https://finance.yahoo.com/energy/articles/illinois-american-water-announces-upcoming-165700221.html",
    "published_unix": 1788195420,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-31T18:00:00"
-  },
-  {
-   "uuid": "9e806fa4-20d9-3860-98d2-a4150476c8cb",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "Campbell's",
-   "title": "Campbell's Faces Challenging Packaged-Food Environment, RBC Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/campbell-apos-faces-challenging-packaged-145949299.html",
-   "published_unix": 1788188389,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-31T17:59:59"
-  },
-  {
-   "uuid": "b5f03851-da26-34d7-80f8-f65cd5d39a82",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Tennessee American Water Provides Additional PFAS Settlement Credit to Customers",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/tennessee-american-water-provides-additional-145800218.html",
-   "published_unix": 1788188280,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-31T18:00:00"
-  },
-  {
-   "uuid": "8d974cc5-2f5b-3e40-af42-edae9d503213",
-   "tickers": [
-    "BURL"
-   ],
-   "company": "Burlington Stores",
-   "title": "BofA Securities Adjusts Burlington Stores Price Target to $365 From $375",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-securities-adjusts-burlington-stores-114816467.html",
-   "published_unix": 1788176896,
-   "source_type": "yahoo",
-   "captured_at": "2026-08-31T18:00:00"
-  },
-  {
-   "uuid": "2ea66077-e034-3f86-813c-51239904b9f2",
-   "tickers": [
-    "BURL"
-   ],
-   "company": "Burlington Stores",
-   "title": "Deutsche Bank Adjusts Burlington Stores Price Target to $323 From $367, Maintains Hold Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-adjusts-burlington-stores-112754154.html",
-   "published_unix": 1788175674,
    "source_type": "yahoo",
    "captured_at": "2026-08-31T18:00:00"
   }
