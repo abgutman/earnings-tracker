@@ -1,6 +1,97 @@
 {
- "generated_at": "2026-10-01T05:43:18",
+ "generated_at": "2026-10-01T17:22:11",
  "items": [
+  {
+   "uuid": "c7d93a4b-fbd8-3c53-b5ed-b07a274ce10a",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Grand Opens Clubhouse and Amenities at The Pines at Sugar Creek in Indian Land, South Carolina",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-grand-opens-clubhouse-161200890.html",
+   "published_unix": 1790871120,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-01T17:22:10"
+  },
+  {
+   "uuid": "e3315641-f0b5-37e0-a826-e636ac4085ca",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast and Philadelphia 76ers Launch Community Resource Center at North10, Philadelphia To Expand Digital Skills and Job Training Opportunities",
+   "publisher": "ACCESS Newswire",
+   "link": "https://finance.yahoo.com/technology/articles/comcast-philadelphia-76ers-launch-community-154500578.html",
+   "published_unix": 1790869500,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-01T17:21:25"
+  },
+  {
+   "uuid": "6e368a70-5392-3c8a-8eb4-e1b6f338c46a",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "California American Water Proudly Recognizes American Water Charitable Foundation $10,000 State Strategic Impact Grant to Yolo Basin Foundation",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/california-american-water-proudly-recognizes-150000746.html",
+   "published_unix": 1790866800,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-01T17:21:30"
+  },
+  {
+   "uuid": "b05bf424-c283-34c9-b951-214e4dcbc07c",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Advertising Research Reveals How TV and Streaming Drive Results Across the Buyer Journey",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-advertising-research-reveals-tv-120000748.html",
+   "published_unix": 1790856000,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-01T17:21:25"
+  },
+  {
+   "uuid": "49761823-915b-37af-a3df-6f9704c91f93",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Missouri American Water Participates in Source Water Protection Week",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/missouri-american-water-participates-source-120000107.html",
+   "published_unix": 1790856000,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-01T17:21:30"
+  },
+  {
+   "uuid": "7b90ca98-8732-32f2-957f-06278b6245a5",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Arete Research Adjusts Comcast Price Target to $17 From $21, Maintains Sell Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/arete-research-adjusts-comcast-price-113526565.html",
+   "published_unix": 1790854526,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-01T17:21:25"
+  },
+  {
+   "uuid": "baa3a96c-c5dd-341c-9631-d3bb76757394",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Morgan Stanley Initiates Toll Brothers at Overweight With $159 Price Target",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-initiates-toll-brothers-094536564.html",
+   "published_unix": 1790847936,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-01T17:22:10"
+  },
   {
    "uuid": "a66a8133-4f9a-3b64-a0c0-289cca7a23be",
    "tickers": [
@@ -2236,84 +2327,6 @@
    "published_unix": 1788321600,
    "source_type": "yahoo",
    "captured_at": "2026-09-02T04:21:54"
-  },
-  {
-   "uuid": "593e7de6-90a7-3d81-adf4-65616d63764f",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers at Kresston Now Open in Montgomery, Texas",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-kresston-now-open-164400847.html",
-   "published_unix": 1788281040,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-01T19:23:19"
-  },
-  {
-   "uuid": "63f3c3f5-509f-3e89-a24d-5f0faa1a323d",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Horsham, Pennsylvania",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-163700621.html",
-   "published_unix": 1788280620,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-01T19:23:19"
-  },
-  {
-   "uuid": "852eaf94-6765-3b9a-81aa-4d576430eacc",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "West Virginia American Water Announces $900,000 Infrastructure Project in Charleston",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/economy/policy/articles/west-virginia-american-water-announces-145300228.html",
-   "published_unix": 1788274380,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-01T15:27:31"
-  },
-  {
-   "uuid": "5111a340-941b-30b1-adb0-5ca517fd5679",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Xfinity and Comcast Business High-Speed Internet Now Available in Bloomsbury, New Jersey",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/articles/xfinity-comcast-business-high-speed-131500209.html",
-   "published_unix": 1788268500,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-01T15:27:28"
-  },
-  {
-   "uuid": "907988d8-8d7d-3fbd-a530-6f8688d265f5",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Aramark to Participate in Upcoming Goldman Sachs Conference",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-participate-upcoming-goldman-sachs-113000245.html",
-   "published_unix": 1788262200,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-01T15:27:28"
-  },
-  {
-   "uuid": "b1e57296-8a66-32e7-9586-032db88054de",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "Five Below",
-   "title": "Deutsche Bank Raises Price Target on Five Below to $334 From $318, Keeps Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-raises-price-target-112454030.html",
-   "published_unix": 1788261894,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-01T15:27:30"
   }
  ]
 }
