@@ -4295,3 +4295,10 @@
 [2026-10-01 01:37:41]   FMC: pending_10q_since=2026-09-23 is 8d old — clearing stale flag
 [2026-10-01 01:37:41]   FIVE: pending_10q_since=2026-09-23 is 8d old — clearing stale flag
 [2026-10-01 01:37:42] === CHECK-10Q complete. Checked 3, found 0, cleared 2 stale. ===
+[2026-10-01 17:19:58] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-10-01 17:19:59]   firehose: 8-K feed — 100 entries parsed
+[2026-10-01 17:19:59]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-10-01 17:19:59]   firehose: 8-K page 2 — 100 entries
+[2026-10-01 17:19:59]   firehose: 10-Q feed — 16 entries parsed
+[2026-10-01 17:19:59]   firehose: 100 watched CIKs, 216 total feed entries
+[2026-10-01 17:19:59] === EDGAR FIREHOSE complete. 0 new detections. ===
