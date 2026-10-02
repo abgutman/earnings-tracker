@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T16:37:51",
+ "generated_at": "2026-10-02T21:19:18",
  "items": [
   {
    "uuid": "43359899-da78-3851-810d-4e5f32ee0a5a",
@@ -2236,71 +2236,6 @@
    "published_unix": 1788384031,
    "source_type": "yahoo",
    "captured_at": "2026-09-03T00:14:09"
-  },
-  {
-   "uuid": "9ac3a7d4-c957-3932-9a70-ddc9bbc9f1da",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "Five Below",
-   "title": "Five Below Fiscal Q2 Adjusted Earnings, Revenue Rise; Shares Rise After Hours",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-fiscal-q2-adjusted-201710018.html",
-   "published_unix": 1788380230,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-02T21:48:09"
-  },
-  {
-   "uuid": "b9c0fc0c-4cde-30d4-8ed3-c431279c66fb",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "Five Below",
-   "title": "Five Below: Fiscal Q2 Earnings Snapshot",
-   "publisher": "Associated Press",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-fiscal-q2-earnings-201135715.html",
-   "published_unix": 1788379895,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-02T21:48:09"
-  },
-  {
-   "uuid": "9b7d655d-2f0c-3f25-9fa1-6b4229a9cc9a",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "Five Below",
-   "title": "Five Below, Inc. Announces Second Quarter Fiscal 2026 Financial Results",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-inc-announces-second-200100354.html",
-   "published_unix": 1788379260,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-02T21:48:09"
-  },
-  {
-   "uuid": "5f16e1a0-1b02-3aa9-9c26-1f766e50e147",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "California American Water Proudly Recognizes American Water Charitable Foundation $20,000 STEM Education Grant to Sacramento Children's Museum",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/small-business/articles/california-american-water-proudly-recognizes-195500767.html",
-   "published_unix": 1788378900,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-02T21:48:10"
-  },
-  {
-   "uuid": "0f5921ad-0457-31c4-ad9c-328d21e86e36",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "New Model Home Opens at Toll Brothers at the Crossing at Coal Mountain in Cumming, Georgia",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/model-home-opens-toll-brothers-193300710.html",
-   "published_unix": 1788377580,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-02T21:48:26"
   }
  ]
 }
