@@ -4327,3 +4327,11 @@
 [2026-10-02 01:51:10]   IRT: pending_10q_since=2026-09-24 is 8d old — clearing stale flag
 [2026-10-02 01:51:10]   NXGL: pending_10q_since=2026-09-24 is 8d old — clearing stale flag
 [2026-10-02 01:51:10] === CHECK-10Q complete. Checked 1, found 0, cleared 2 stale. ===
+[2026-10-02 16:35:15] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-10-02 16:35:16]   firehose: 8-K feed — 100 entries parsed
+[2026-10-02 16:35:16]   firehose: 10-Q feed — 21 entries parsed
+[2026-10-02 16:35:16]   firehose: 100 watched CIKs, 121 total feed entries
+[2026-10-02 16:35:16]   ★ NEW 8k_701 for IPSC (Century Therapeutics, Inc.) filed 2026-10-02
+[2026-10-02 16:35:16]     https://www.sec.gov/Archives/edgar/data/1850119/000110465926113055/tm2626840d1_8k.htm
+[2026-10-02 16:35:17]     ✉ alert sent (8k_701)
+[2026-10-02 16:35:17] === EDGAR FIREHOSE complete. 1 new detections. ===
