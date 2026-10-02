@@ -541,3 +541,19 @@
 [2026-10-01 01:36:27] Polling Yahoo for 106 companies
 [2026-10-01 01:37:41] === Done. Captured 0 new save-the-dates, cleaned 0 past. ===
 
+[2026-10-02 01:49:59] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-10-02 01:49:59] Polling Yahoo for 106 companies
+[2026-10-02 01:50:04]   + IRT: release=2026-11-02 call=None None
+[2026-10-02 01:50:04]     via: Centerspace Announces Third Quarter 2026 Earnings Release Date
+[2026-10-02 01:50:05]   ✉ alert sent for IRT
+[2026-10-02 01:50:07]   + LNC: release=2026-11-05 call=None None
+[2026-10-02 01:50:07]     via: Lincoln Financial to Report 2026 Third Quarter Results on November 5
+[2026-10-02 01:50:08]   ✉ alert sent for LNC
+[2026-10-02 01:50:22]   + CRS: release=2026-10-22 call=2026-10-22 10:00 ET
+[2026-10-02 01:50:22]     via: Carpenter Technology Announces Conference Call and Webcast
+[2026-10-02 01:50:22]   ✉ alert sent for CRS
+[2026-10-02 01:50:26]   + AVTR: release=2026-10-28 call=None None
+[2026-10-02 01:50:26]     via: Avantor® to Report Third Quarter 2026 Earnings on Wednesday, October 28, 2026
+[2026-10-02 01:50:27]   ✉ alert sent for AVTR
+[2026-10-02 01:51:10] === Done. Captured 4 new save-the-dates, cleaned 0 past. ===
+
