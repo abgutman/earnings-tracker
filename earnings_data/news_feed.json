@@ -1,6 +1,58 @@
 {
- "generated_at": "2026-10-02T05:27:30",
+ "generated_at": "2026-10-02T16:37:51",
  "items": [
+  {
+   "uuid": "43359899-da78-3851-810d-4e5f32ee0a5a",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Scotiabank Cuts Comcast Price Target to $27.50 From $29, Maintains Sector Perform Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/scotiabank-cuts-comcast-price-target-133421658.html",
+   "published_unix": 1790948061,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-02T16:37:19"
+  },
+  {
+   "uuid": "2e4ed8ac-d306-337c-8b99-f3ae5e314583",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Kentucky American Water Now Accepting Applications for 2026 Firefighting Support Grants",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/kentucky-american-water-now-accepting-132800891.html",
+   "published_unix": 1790947680,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-02T16:37:24"
+  },
+  {
+   "uuid": "c7d6960a-991a-397a-a3cc-0c0423f35c26",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "Cencora Announces Date and Time for Fourth Quarter Fiscal 2026 Earnings Release",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/healthcare/articles/cencora-announces-date-time-fourth-120000182.html",
+   "published_unix": 1790942400,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-02T16:37:20"
+  },
+  {
+   "uuid": "330b0a82-3807-36bd-b137-66a8230d8209",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Market Chatter: Comcast's NBCUniversal Slashing Jobs in Global Streaming Tech Business",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/media-advertising/articles/market-chatter-comcast-apos-nbcuniversal-091029097.html",
+   "published_unix": 1790932229,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-02T16:37:19"
+  },
   {
    "uuid": "c7d93a4b-fbd8-3c53-b5ed-b07a274ce10a",
    "tickers": [
@@ -2249,71 +2301,6 @@
    "published_unix": 1788377580,
    "source_type": "yahoo",
    "captured_at": "2026-09-02T21:48:26"
-  },
-  {
-   "uuid": "5bc49d11-e853-38a8-a744-30bf26fa970b",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces Final Opportunity to Own a New Luxury Home in Porter Ranch in Southern California",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-final-opportunity-155800099.html",
-   "published_unix": 1788364680,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-02T18:41:09"
-  },
-  {
-   "uuid": "2d71849e-376e-3e43-8859-e61bda42c6e5",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast Reaches Construction Milestone in Latest Jackson County Expansion, Bringing Xfinity and Comcast Business Services to More Michigan Residents and Businesses",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/articles/comcast-reaches-construction-milestone-latest-131500365.html",
-   "published_unix": 1788354900,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-02T15:05:09"
-  },
-  {
-   "uuid": "16ad35de-7cf1-3057-a6b5-1b06a7582727",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora",
-   "title": "Cencora\u2019s Accelerate Pharmacy Solutions Launches Cell and Gene Therapy Enablement to Help Health Systems Build and Scale Programs",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/healthcare/articles/cencora-accelerate-pharmacy-solutions-launches-123000183.html",
-   "published_unix": 1788352200,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-02T15:05:10"
-  },
-  {
-   "uuid": "e11e1ddb-e8aa-3a09-8511-11d5c0e58b77",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Aramark Collegiate Hospitality Builds Strong Momentum with Five New Partnerships",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/small-business/articles/aramark-collegiate-hospitality-builds-strong-113000151.html",
-   "published_unix": 1788348600,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-02T15:05:09"
-  },
-  {
-   "uuid": "f1a2a134-4c2c-37bb-b1ab-803626e81c0b",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "Five Below",
-   "title": "FIVE, WOOF Stocks Rise Premarket: Five Below And Petco Get Fresh Wall Street Price Target Boosts Ahead Of Earnings",
-   "publisher": "Stocktwits",
-   "link": "https://finance.yahoo.com/m/f1a2a134-4c2c-37bb-b1ab-803626e81c0b/five%2C-woof-stocks-rise.html",
-   "published_unix": 1788338301,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-02T15:05:10"
   }
  ]
 }
