@@ -522,8 +522,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1140859/000110465926110624/tm2626030d1_8k.htm",
   "last_detected_at": "2026-09-25T15:46:53.175671+00:00",
   "last_8k_detected_at": "2026-09-25T15:46:53.175671+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-09-25"
+  "last_10q_url": null
  },
  "CPB": {
   "ticker": "CPB",
