@@ -1,6 +1,84 @@
 {
- "generated_at": "2026-10-03T05:10:39",
+ "generated_at": "2026-10-05T19:41:57",
  "items": [
+  {
+   "uuid": "d1fa0909-5cbc-3711-a9c2-38d4edc1a86d",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "West Virginia American Water Announces $100,000 Infrastructure Upgrade in Eleanor",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/economy/policy/articles/west-virginia-american-water-announces-153200957.html",
+   "published_unix": 1791214320,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-05T19:41:30"
+  },
+  {
+   "uuid": "c79c4f7d-710d-3942-880c-0fb0f2c37bde",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Charitable Foundation Partners with National Urban League for Third Consecutive Year on Workforce Development",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/american-water-charitable-foundation-partners-152400214.html",
+   "published_unix": 1791213840,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-05T19:41:30"
+  },
+  {
+   "uuid": "0129b226-120a-3923-8395-bdff52871540",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Business 2026 Cybersecurity Threat Report: 79.3 Billion Events Show AI Pressurizing the Threat Landscape",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/ai/articles/comcast-business-2026-cybersecurity-threat-140000144.html",
+   "published_unix": 1791208800,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-05T19:41:26"
+  },
+  {
+   "uuid": "5cff8664-b261-3bc4-af1c-910a560fcdff",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC Corporation",
+   "title": "UBS Adjusts FMC Price Target to $10 From $12, Maintains Neutral Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-fmc-price-target-133808055.html",
+   "published_unix": 1791207488,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-05T19:41:28"
+  },
+  {
+   "uuid": "e9cc332c-e8cd-3b50-8752-f732f13f53b7",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Indiana American Water Returns Nearly $75 in PFAS Settlement Credits to Customers",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/indiana-american-water-returns-nearly-124500687.html",
+   "published_unix": 1791204300,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-05T19:41:30"
+  },
+  {
+   "uuid": "e418ae26-aef3-3255-b7a8-53263a8dc993",
+   "tickers": [
+    "WTRG"
+   ],
+   "company": "Essential Utilities",
+   "title": "Essential Utilities Recognizes Fire Prevention Week by Highlighting Partnership and Support for Local Departments",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/small-business/articles/essential-utilities-recognizes-fire-prevention-110000715.html",
+   "published_unix": 1791198000,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-05T19:41:31"
+  },
   {
    "uuid": "43359899-da78-3851-810d-4e5f32ee0a5a",
    "tickers": [
@@ -1859,357 +1937,6 @@
    "published_unix": 1788646620,
    "source_type": "yahoo",
    "captured_at": "2026-09-07T16:26:34"
-  },
-  {
-   "uuid": "a37f4f6e-aeea-3666-92d5-a9e6920b6990",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "Campbell's",
-   "title": "Campbell's cuts 13% of salaried workforce, closes plants as part of turnaround effort",
-   "publisher": "Fox Business",
-   "link": "https://finance.yahoo.com/m/a37f4f6e-aeea-3666-92d5-a9e6920b6990/campbell%27s-cuts-13%25-of.html",
-   "published_unix": 1788559092,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-05T04:18:11"
-  },
-  {
-   "uuid": "141ab08b-ef35-3b8a-a652-2e0f8faf2905",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "Campbell's",
-   "title": "Campbell's Path to Sustained Recovery Uncertain, UBS Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/campbell-apos-path-sustained-recovery-185436813.html",
-   "published_unix": 1788548076,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-04T21:27:18"
-  },
-  {
-   "uuid": "928fb2ff-970c-386e-b2aa-37911d2a33a7",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "Campbell's",
-   "title": "Campbell's Faces Another Tough Year as Headwinds Deepen, RBC Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/campbell-apos-faces-another-tough-162317383.html",
-   "published_unix": 1788538997,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-04T18:23:03"
-  },
-  {
-   "uuid": "e4bbec39-7344-3d85-a016-3c58d95848b2",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "Campbell's",
-   "title": "The Campbell\u2019s Company to Participate in a Fireside Chat at Barclays Global Consumer Staples Conference on September 9",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/campbell-company-participate-fireside-chat-160000450.html",
-   "published_unix": 1788537600,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-04T18:23:03"
-  },
-  {
-   "uuid": "036e3576-b641-3500-a5ec-68ba126f42a7",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "Campbell's",
-   "title": "UBS Adjusts Price Target on Campbell's to $19 From $18, Keeps Sell Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-price-target-campbell-125226767.html",
-   "published_unix": 1788526346,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-04T14:56:50"
-  },
-  {
-   "uuid": "dadf7ba0-3a0d-3a66-9ef6-79c69aaf570b",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "Five Below",
-   "title": "Jim Cramer says Five Below stock is a buy after earnings beat",
-   "publisher": "Quartz",
-   "link": "https://finance.yahoo.com/m/dadf7ba0-3a0d-3a66-9ef6-79c69aaf570b/jim-cramer-says-five-below.html",
-   "published_unix": 1788523553,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-04T14:56:49"
-  },
-  {
-   "uuid": "ed58834d-8bef-376b-9fad-e0bde4864b5c",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "Campbell's",
-   "title": "RBC Cuts Price Target on Campbell's to $19 From $21, Keeps Sector Perform Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-cuts-price-target-campbell-102851412.html",
-   "published_unix": 1788517731,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-04T14:56:50"
-  },
-  {
-   "uuid": "d528d29b-ebb4-3fec-bc98-f05e1667dcde",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "Campbell's",
-   "title": "CPB Stock Heads For Worst Week Since March: Jefferies Sees 2027 'Shaping Up As A Difficult Year' After Dividend Cut",
-   "publisher": "Stocktwits",
-   "link": "https://finance.yahoo.com/m/d528d29b-ebb4-3fec-bc98-f05e1667dcde/cpb-stock-heads-for-worst.html",
-   "published_unix": 1788498300,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-04T14:56:50"
-  },
-  {
-   "uuid": "fb6c9119-e7cb-3d71-84d7-f92ca3be9dd3",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "Campbell's",
-   "title": "Campbell's Promises New Marketing Approach",
-   "publisher": "MediaPost",
-   "link": "https://finance.yahoo.com/m/fb6c9119-e7cb-3d71-84d7-f92ca3be9dd3/campbell%27s-promises-new.html",
-   "published_unix": 1788475842,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-04T00:04:48"
-  },
-  {
-   "uuid": "af0e1e6d-96bf-3306-9a17-9bba7be89ad9",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Missouri American Water Completes Acquisition of the City of Neosho Water and Wastewater Systems",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/missouri-american-water-completes-acquisition-213900585.html",
-   "published_unix": 1788471540,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-04T00:04:49"
-  },
-  {
-   "uuid": "9b6f064c-f2d6-329d-a634-9797b731c176",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "Campbell's",
-   "title": "Campbell\u2019s and Other Staples Stocks Have Hit a Rough Patch",
-   "publisher": "Barrons.com",
-   "link": "https://finance.yahoo.com/m/9b6f064c-f2d6-329d-a634-9797b731c176/campbell%E2%80%99s-and-other-staples.html",
-   "published_unix": 1788466260,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-03T21:41:49"
-  },
-  {
-   "uuid": "59250b19-c2f2-3032-8e44-8869f9cd8232",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "California American Water Begins $8.6 Million Infrastructure Improvement Project in Lincoln Oaks",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/economy/articles/california-american-water-begins-8-182300186.html",
-   "published_unix": 1788459780,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-03T21:41:50"
-  },
-  {
-   "uuid": "7da9a922-7464-3896-aea5-2c91f3239468",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "Five Below",
-   "title": "Five Below's Q2 Beat Shows Continued Momentum, Oppenheimer Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-apos-q2-beat-174711232.html",
-   "published_unix": 1788457631,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-03T18:36:59"
-  },
-  {
-   "uuid": "87d982a4-3b60-35a7-b99d-6499efa394b3",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "Campbell's",
-   "title": "Campbell Soup Company Q4 2026 Earnings Call Summary",
-   "publisher": "Moby",
-   "link": "https://finance.yahoo.com/m/87d982a4-3b60-35a7-b99d-6499efa394b3/campbell-soup-company-q4-2026.html",
-   "published_unix": 1788454348,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-03T18:36:59"
-  },
-  {
-   "uuid": "84e91d5d-cc94-3735-9a3f-41b518971615",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "Campbell's",
-   "title": "Most Active Options Report: SNOW, CPB, CIEN, ACMR, SCHD",
-   "publisher": "Schaeffer's Investment Research",
-   "link": "https://finance.yahoo.com/markets/options/articles/most-active-options-report-snow-162556773.html",
-   "published_unix": 1788452756,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-03T18:36:59"
-  },
-  {
-   "uuid": "302aba8c-4af8-39c9-bef5-adaa9126584e",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "Campbell's",
-   "title": "Campbell\u2019s Is Pinning Its Hopes on Home Cooks",
-   "publisher": "The Wall Street Journal",
-   "link": "https://finance.yahoo.com/m/302aba8c-4af8-39c9-bef5-adaa9126584e/campbell%E2%80%99s-is-pinning-its.html",
-   "published_unix": 1788450890,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-03T18:36:59"
-  },
-  {
-   "uuid": "176b3992-910a-31cd-8d22-f19c493473c1",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "Campbell's",
-   "title": "Campbell\u2019s Cuts 13% of Workforce in Effort to Turn Around Struggling Operations",
-   "publisher": "The Wall Street Journal",
-   "link": "https://finance.yahoo.com/m/176b3992-910a-31cd-8d22-f19c493473c1/campbell%E2%80%99s-cuts-13%25-of.html",
-   "published_unix": 1788446400,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-03T14:59:09"
-  },
-  {
-   "uuid": "d6a7c05c-5ea2-3dda-b0aa-9b941119ffd2",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Final Opportunity to Own a New Luxury Home in Toll Brothers at Tesoro Highlands - Alta Monte Collection in Valencia, California",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/final-opportunity-own-luxury-home-134000706.html",
-   "published_unix": 1788442800,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-03T14:59:44"
-  },
-  {
-   "uuid": "2d1af902-4182-34b0-8177-1f4dafee6074",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "Campbell's",
-   "title": "Campbell\u2019s Shares Fall After Fiscal 2027 Guidance Comes in Below Expectations",
-   "publisher": "InvestorsHub",
-   "link": "https://finance.yahoo.com/m/2d1af902-4182-34b0-8177-1f4dafee6074/campbell%E2%80%99s-shares-fall-after.html",
-   "published_unix": 1788442182,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-03T14:59:09"
-  },
-  {
-   "uuid": "3d1884f5-e5c9-352e-a9d6-6cc5dc04ed3d",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "Campbell's",
-   "title": "Campbell's cuts dividend, forecasts weaker fiscal 2027 sales",
-   "publisher": "Quartz",
-   "link": "https://finance.yahoo.com/m/3d1884f5-e5c9-352e-a9d6-6cc5dc04ed3d/campbell%27s-cuts-dividend%2C.html",
-   "published_unix": 1788441939,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-03T14:59:09"
-  },
-  {
-   "uuid": "7566bbdd-1f69-3eb3-bc00-35becb2cc95b",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "Campbell's",
-   "title": "Campbell\u2019s Slashes Dividend and Looks to Cut Costs as Performance Remains \u2018Unacceptable\u2019",
-   "publisher": "Barrons.com",
-   "link": "https://finance.yahoo.com/m/7566bbdd-1f69-3eb3-bc00-35becb2cc95b/campbell%E2%80%99s-slashes-dividend.html",
-   "published_unix": 1788440280,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-03T14:59:09"
-  },
-  {
-   "uuid": "acbc09c5-aa18-3b00-ac5c-453495f2a0b0",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "Five Below",
-   "title": "Five Below, Inc. Q2 2026 Earnings Call Summary",
-   "publisher": "Moby",
-   "link": "https://finance.yahoo.com/m/acbc09c5-aa18-3b00-ac5c-453495f2a0b0/five-below%2C-inc.-q2-2026.html",
-   "published_unix": 1788438600,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-04T14:56:49"
-  },
-  {
-   "uuid": "a7b3ec90-1763-39c6-b18a-250e1137ad3d",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "Five Below",
-   "title": "Five Below\u2019s \u2018maniacal focus\u2019 on the customer pays off",
-   "publisher": "Retail Dive",
-   "link": "https://finance.yahoo.com/m/a7b3ec90-1763-39c6-b18a-250e1137ad3d/five-below%E2%80%99s-%E2%80%98maniacal-focus%E2%80%99.html",
-   "published_unix": 1788438240,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-03T18:36:59"
-  },
-  {
-   "uuid": "3630c3e1-42d2-387c-9bfd-48c7a37b8c37",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "Five Below",
-   "title": "UBS Adjusts Five Below Price Target to $325 From $285, Maintains Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-five-below-price-121110303.html",
-   "published_unix": 1788437470,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-03T14:59:08"
-  },
-  {
-   "uuid": "173db0dd-66ea-363e-89ad-f8ecd207cbde",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "Five Below",
-   "title": "Deutsche Bank Adjusts Five Below Price Target to $401 From $334, Maintains Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-adjusts-five-below-111652174.html",
-   "published_unix": 1788434212,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-03T14:59:08"
-  },
-  {
-   "uuid": "4f2365e0-0f61-361b-a25b-7d38949a3397",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "Five Below",
-   "title": "Truist Securities Adjusts Price Target on Five Below to $297 From $273, Keeps Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/truist-securities-adjusts-price-target-104745495.html",
-   "published_unix": 1788432465,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-03T14:59:08"
-  },
-  {
-   "uuid": "7fcc9415-0b47-3e7f-a3f6-ea21d9dd7211",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "Five Below",
-   "title": "Five Below Shares Rise After Q2 Earnings Beat and Guidance Increase",
-   "publisher": "InvestorsHub",
-   "link": "https://finance.yahoo.com/m/7fcc9415-0b47-3e7f-a3f6-ea21d9dd7211/five-below-shares-rise-after.html",
-   "published_unix": 1788430662,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-03T14:59:08"
   }
  ]
 }
