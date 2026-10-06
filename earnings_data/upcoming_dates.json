@@ -79,5 +79,25 @@
   "source_publisher": "Business Wire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-10-03T01:29:28"
+ },
+ "UHS": {
+  "release_date": "2026-10-26",
+  "call_date": "2026-10-27",
+  "call_time": "09:30 ET",
+  "source_url": "https://finance.yahoo.com/healthcare/articles/universal-health-services-inc-announces-200500968.html",
+  "source_title": "Universal Health Services, Inc. Announces Date for Third Quarter 2026 Earnings Release and Conference Call",
+  "source_publisher": "GlobeNewswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-10-06T02:32:13"
+ },
+ "DORM": {
+  "release_date": "2026-10-26",
+  "call_date": "2026-10-27",
+  "call_time": "08:00 ET",
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/dorman-products-inc-announces-date-203100747.html",
+  "source_title": "Dorman Products, Inc. Announces Date to Report Third Quarter 2026 Financial Results",
+  "source_publisher": "GlobeNewswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-10-06T02:32:29"
  }
 }

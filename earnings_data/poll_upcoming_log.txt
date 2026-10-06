@@ -564,3 +564,13 @@
 [2026-10-03 01:29:30]   ✉ alert sent for COR
 [2026-10-03 01:30:25] === Done. Captured 1 new save-the-dates, cleaned 0 past. ===
 
+[2026-10-06 02:32:00] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-10-06 02:32:00] Polling Yahoo for 106 companies
+[2026-10-06 02:32:13]   + UHS: release=2026-10-26 call=2026-10-27 09:30 ET
+[2026-10-06 02:32:13]     via: Universal Health Services, Inc. Announces Date for Third Quarter 2026 Earnings Release and Conferenc
+[2026-10-06 02:32:13]   ✉ alert sent for UHS
+[2026-10-06 02:32:29]   + DORM: release=2026-10-26 call=2026-10-27 08:00 ET
+[2026-10-06 02:32:29]     via: Dorman Products, Inc. Announces Date to Report Third Quarter 2026 Financial Results
+[2026-10-06 02:32:30]   ✉ alert sent for DORM
+[2026-10-06 02:33:11] === Done. Captured 2 new save-the-dates, cleaned 0 past. ===
+

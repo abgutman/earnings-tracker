@@ -4382,3 +4382,5 @@
 [2026-10-06 01:15:43] === EDGAR FIREHOSE complete. 0 new detections. ===
 [2026-10-06 01:47:06] === EDGAR POLL: scanning for new earnings filings (live=True) ===
 [2026-10-06 01:47:32] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
+[2026-10-06 02:33:11] === CHECK-10Q: scanning for pending 10-Q filings ===
+[2026-10-06 02:33:11] === CHECK-10Q complete. Checked 1, found 0, cleared 0 stale. ===
