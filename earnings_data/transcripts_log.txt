@@ -6265,3 +6265,21 @@
 [2026-10-06 03:19:27] No new transcripts found; transcripts.json unchanged
 [2026-10-06 03:19:27] === Done. 0 new transcript links found. ===
 
+[2026-10-06 20:32:59] === Fool transcript harvest start (dry_run=False) ===
+[2026-10-06 20:32:59] Loaded 122 tickers from expanded_companies.json
+[2026-10-06 20:32:59] Recent tickers (last filing within 14d): ['AVBP', 'COR', 'FIVE', 'FMC', 'IPSC', 'IRT', 'NXGL']
+[2026-10-06 20:32:59] Seed backfill: all seeds already in state
+[2026-10-06 20:32:59] Fetching Fool transcript index: https://www.fool.com/earnings-call-transcripts/
+[2026-10-06 20:33:00]   Found 20 transcript links on index page
+[2026-10-06 20:33:00]   Fool index matched tickers: []
+[2026-10-06 20:33:00] Yahoo secondary search for 7 tickers: ['AVBP', 'COR', 'FIVE', 'FMC', 'IPSC', 'IRT', 'NXGL']
+[2026-10-06 20:33:01]   MISS [Yahoo] AVBP: no transcript items in feed
+[2026-10-06 20:33:02]   MISS [Yahoo] COR: no transcript items in feed
+[2026-10-06 20:33:03]   MISS [Yahoo] FIVE: no transcript items in feed
+[2026-10-06 20:33:04]   MISS [Yahoo] FMC: no transcript items in feed
+[2026-10-06 20:33:04]   MISS [Yahoo] IPSC: no transcript items in feed
+[2026-10-06 20:33:05]   MISS [Yahoo] IRT: no transcript items in feed
+[2026-10-06 20:33:06]   MISS [Yahoo] NXGL: no transcript items in feed
+[2026-10-06 20:33:06] No new transcripts found; transcripts.json unchanged
+[2026-10-06 20:33:06] === Done. 0 new transcript links found. ===
+
