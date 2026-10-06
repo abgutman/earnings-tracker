@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-10-06T06:12:17",
+ "generated_at": "2026-10-06T17:10:56",
  "items": [
+  {
+   "uuid": "312c5499-5711-3e06-accd-2a66ecfc0aab",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores",
+   "title": "Burlington Stores Invests in Chicago Community Through Citywide Events",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/burlington-stores-invests-chicago-community-140300947.html",
+   "published_unix": 1791295380,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-06T17:10:23"
+  },
+  {
+   "uuid": "c783a34a-3f06-3fd8-8494-693ceb9fb4ae",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Indiana American Water Completes $24.5 Million Water Main Infrastructure Project in Northwest Indiana",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/indiana-american-water-completes-24-114500278.html",
+   "published_unix": 1791287100,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-06T17:10:24"
+  },
   {
    "uuid": "14d36750-9f24-31e1-8fef-1183082fab8e",
    "tickers": [
