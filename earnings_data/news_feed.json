@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-10-06T17:10:56",
+ "generated_at": "2026-10-06T21:39:33",
  "items": [
+  {
+   "uuid": "142c33a1-6f0f-3501-bb4c-1653bfa147a9",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces Everstead Now Open in Cary, North Carolina",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-everstead-now-181800441.html",
+   "published_unix": 1791310680,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-06T21:39:32"
+  },
+  {
+   "uuid": "4985dcb8-f5dc-3abe-abcc-af069d312822",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water to Discuss Third Quarter 2026 Results and Initiation of 2027 Standalone Earnings Guidance on October 29, 2026",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/american-water-discuss-third-quarter-172100914.html",
+   "published_unix": 1791307260,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-06T21:39:19"
+  },
   {
    "uuid": "312c5499-5711-3e06-accd-2a66ecfc0aab",
    "tickers": [
