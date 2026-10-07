@@ -4415,3 +4415,8 @@
 [2026-10-07 00:49:46] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
 [2026-10-07 01:51:44] === CHECK-10Q: scanning for pending 10-Q filings ===
 [2026-10-07 01:51:44] === CHECK-10Q complete. Checked 2, found 0, cleared 0 stale. ===
+[2026-10-07 17:45:20] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-10-07 17:45:21]   firehose: 8-K feed — 100 entries parsed
+[2026-10-07 17:45:21]   firehose: 10-Q feed — 11 entries parsed
+[2026-10-07 17:45:21]   firehose: 100 watched CIKs, 111 total feed entries
+[2026-10-07 17:45:21] === EDGAR FIREHOSE complete. 0 new detections. ===
