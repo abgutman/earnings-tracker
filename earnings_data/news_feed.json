@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-10-07T05:49:06",
+ "generated_at": "2026-10-07T17:48:58",
  "items": [
+  {
+   "uuid": "f66c0e88-b004-3398-a774-72fd95f35992",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces Final Opportunity to Own a New Luxury Home at Bluffs at Granite Highlands in Washougal, Washington",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-final-opportunity-163200794.html",
+   "published_unix": 1791390720,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-07T17:48:57"
+  },
+  {
+   "uuid": "0ed10c55-569b-3d14-9b5b-5194402a2abb",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "Leerink Partners Adjusts Price Target on Cencora to $388 From $380",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/leerink-partners-adjusts-price-target-111902467.html",
+   "published_unix": 1791371942,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-07T17:48:29"
+  },
   {
    "uuid": "142c33a1-6f0f-3501-bb4c-1653bfa147a9",
    "tickers": [
