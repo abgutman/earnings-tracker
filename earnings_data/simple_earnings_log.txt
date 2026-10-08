@@ -4435,3 +4435,5 @@
 [2026-10-08 00:07:10]     https://www.sec.gov/Archives/edgar/data/731012/000073101226000052/hcsg-20261006.htm
 [2026-10-08 00:07:11]     ✉ alert sent (8k_701)
 [2026-10-08 00:07:11] === EDGAR FIREHOSE complete. 1 new detections. ===
+[2026-10-08 01:04:26] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-10-08 01:04:52] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
