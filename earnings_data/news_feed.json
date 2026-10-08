@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T02:41:55",
+ "generated_at": "2026-10-08T05:54:14",
  "items": [
   {
    "uuid": "f66c0e88-b004-3398-a774-72fd95f35992",
@@ -2002,19 +2002,6 @@
    "published_unix": 1788862200,
    "source_type": "yahoo",
    "captured_at": "2026-09-08T15:05:38"
-  },
-  {
-   "uuid": "af5e18b9-dd17-37b5-a37c-2a5f307ef345",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast Technology Solutions Selected by A+E Global Media\u2122 for Premium Content Distribution",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-technology-solutions-selected-e-040100373.html",
-   "published_unix": 1788840060,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-08T04:26:48"
   }
  ]
 }
