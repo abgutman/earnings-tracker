@@ -1,6 +1,45 @@
 {
- "generated_at": "2026-10-08T05:54:14",
+ "generated_at": "2026-10-08T17:52:28",
  "items": [
+  {
+   "uuid": "ef30b75c-32b8-3835-975a-15557320d53c",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "West Virginia American Water Announces $470,000 Infrastructure Upgrade on Knollwood Drive",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/economy/policy/articles/west-virginia-american-water-announces-154400332.html",
+   "published_unix": 1791474240,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-08T17:51:52"
+  },
+  {
+   "uuid": "c327304b-1ed3-35b6-97b9-3445a440e68f",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers at Bristol Valley is Now Open in Heath, Texas",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-bristol-valley-now-151100071.html",
+   "published_unix": 1791472260,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-08T17:52:27"
+  },
+  {
+   "uuid": "48b3c485-8090-32c1-a22d-5d5764bcb0ef",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Evercore ISI Adjusts Price Target on Comcast to $30 From $36",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/evercore-isi-adjusts-price-target-092858415.html",
+   "published_unix": 1791451738,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-08T17:51:47"
+  },
   {
    "uuid": "f66c0e88-b004-3398-a774-72fd95f35992",
    "tickers": [
@@ -1976,32 +2015,6 @@
    "published_unix": 1788894000,
    "source_type": "yahoo",
    "captured_at": "2026-09-08T21:50:27"
-  },
-  {
-   "uuid": "3edf477c-b908-3ad0-9faa-e899b2e3d37a",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora",
-   "title": "Cencora's MWI Animal Health Merger With Covetrus Sees 'Intensified' FTC Scrutiny, RBC Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/cencora-apos-mwi-animal-health-160228106.html",
-   "published_unix": 1788883348,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-08T18:38:44"
-  },
-  {
-   "uuid": "a7dc959c-b257-3dcc-8473-f7481d52bbb0",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "Campbell's",
-   "title": "Campbell\u2019s heats up digital focus amid marketing reformulation",
-   "publisher": "Marketing Dive",
-   "link": "https://finance.yahoo.com/m/a7dc959c-b257-3dcc-8473-f7481d52bbb0/campbell%E2%80%99s-heats-up-digital.html",
-   "published_unix": 1788862200,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-08T15:05:38"
   }
  ]
 }
