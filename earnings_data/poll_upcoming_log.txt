@@ -593,3 +593,13 @@
 [2026-10-07 01:50:56]   ✉ alert sent for HLNE
 [2026-10-07 01:51:44] === Done. Captured 5 new save-the-dates, cleaned 0 past. ===
 
+[2026-10-08 02:17:47] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-10-08 02:17:47] Polling Yahoo for 106 companies
+[2026-10-08 02:17:55]   + BSY: release=2026-11-05 call=None None
+[2026-10-08 02:17:55]     via: Bentley Systems to Announce Third Quarter 2026 Results on November 5, 2026
+[2026-10-08 02:17:57]   ✉ alert sent for BSY
+[2026-10-08 02:18:27]   + UVSP: release=None call=2026-10-29 09:00 ET
+[2026-10-08 02:18:27]     via: Univest Financial Corporation to Hold Third Quarter 2026 Earnings Call
+[2026-10-08 02:18:28]   ✉ alert sent for UVSP
+[2026-10-08 02:19:02] === Done. Captured 2 new save-the-dates, cleaned 0 past. ===
+

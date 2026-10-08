@@ -149,5 +149,25 @@
   "source_publisher": "PR Newswire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-10-07T01:50:55"
+ },
+ "BSY": {
+  "release_date": "2026-11-05",
+  "call_date": null,
+  "call_time": null,
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/bentley-systems-announce-third-quarter-200100698.html",
+  "source_title": "Bentley Systems to Announce Third Quarter 2026 Results on November 5, 2026",
+  "source_publisher": "Business Wire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-10-08T02:17:55"
+ },
+ "UVSP": {
+  "release_date": null,
+  "call_date": "2026-10-29",
+  "call_time": "09:00 ET",
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/univest-financial-corporation-hold-third-132500283.html",
+  "source_title": "Univest Financial Corporation to Hold Third Quarter 2026 Earnings Call",
+  "source_publisher": "GlobeNewswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-10-08T02:18:27"
  }
 }
