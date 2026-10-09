@@ -1,6 +1,45 @@
 {
- "generated_at": "2026-10-09T17:26:40",
+ "generated_at": "2026-10-09T22:36:37",
  "items": [
+  {
+   "uuid": "50fd1392-7bf9-3ddc-9b4f-8ae19ccabbce",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Works Unit Completes $1.4 Million Utility Acquisition",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/real-estate/articles/american-water-works-unit-completes-210017054.html",
+   "published_unix": 1791579617,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-09T22:36:17"
+  },
+  {
+   "uuid": "a7bc14bc-b3ba-3df3-8a47-e3bf726d13ba",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Kentucky American Water Completes Acquisition of Black Mountain Utility District System",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/kentucky-american-water-completes-acquisition-204200162.html",
+   "published_unix": 1791578520,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-09T22:36:17"
+  },
+  {
+   "uuid": "4f359051-b622-3df9-86ca-724cb935d189",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Joins U.S. Conference of Mayors Water Council to Discuss the Future of Water and Wastewater Services",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/american-water-joins-u-conference-181500033.html",
+   "published_unix": 1791569700,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-09T22:36:17"
+  },
   {
    "uuid": "06a4a8aa-02f6-32ce-932c-757b558ae865",
    "tickers": [
@@ -1885,84 +1924,6 @@
    "published_unix": 1788995561,
    "source_type": "yahoo",
    "captured_at": "2026-09-10T00:13:29"
-  },
-  {
-   "uuid": "d6ba16cd-8293-36b0-a289-6610ea786ad2",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Xfinity Mobile, Comcast Business Mobile to Offer iPhone Duo, iPhone 18 Pro, and iPhone 18 Pro Max",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/articles/xfinity-mobile-comcast-business-mobile-221300106.html",
-   "published_unix": 1788991980,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-10T00:13:29"
-  },
-  {
-   "uuid": "f2ef9d1e-9344-3b0c-9349-7a1b10bf9de7",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Buffington Homes by Toll Brothers Announces 2026 Luxury Home Tour Sept 12 - 20 in Northwest Arkansas",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/buffington-homes-toll-brothers-announces-205700983.html",
-   "published_unix": 1788987420,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-09T21:41:23"
-  },
-  {
-   "uuid": "f2d8417f-140e-384c-9bfc-be708c4ab78b",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "American Water Unit New Jersey American Water Secures Approval for New Rates",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/economy/policy/articles/american-water-unit-jersey-american-205605091.html",
-   "published_unix": 1788987365,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-09T21:41:05"
-  },
-  {
-   "uuid": "7d9f8ddc-05e9-3378-a427-9d0db2e74d5a",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "New Jersey American Water Announces New Rates and Customer Bill Credit",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/economy/policy/articles/jersey-american-water-announces-rates-201500978.html",
-   "published_unix": 1788984900,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-09T21:41:05"
-  },
-  {
-   "uuid": "cbcc0a2b-7791-39fc-a674-eb4e0d8c6fb0",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Why Comcast Stock Is One of the Worst Performers in the S&P 500 Today",
-   "publisher": "Barrons.com",
-   "link": "https://finance.yahoo.com/m/cbcc0a2b-7791-39fc-a674-eb4e0d8c6fb0/why-comcast-stock-is-one-of.html",
-   "published_unix": 1788981840,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-09T21:41:01"
-  },
-  {
-   "uuid": "eae508bb-0964-3f51-b985-0a09ac5caf06",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces Model Home Grand Opening at Wildspring in Leander, Texas",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-model-home-181200678.html",
-   "published_unix": 1788977520,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-09T18:34:44"
   }
  ]
 }
