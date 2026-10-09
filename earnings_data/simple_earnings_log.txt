@@ -4451,3 +4451,11 @@
 [2026-10-08 19:50:05]   firehose: 10-Q feed — 29 entries parsed
 [2026-10-08 19:50:05]   firehose: 100 watched CIKs, 129 total feed entries
 [2026-10-08 19:50:05] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-10-09 00:14:41] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-10-09 00:14:41]   firehose: 8-K feed — 100 entries parsed
+[2026-10-09 00:14:41]   firehose: 10-Q feed — 33 entries parsed
+[2026-10-09 00:14:41]   firehose: 100 watched CIKs, 133 total feed entries
+[2026-10-09 00:14:41]   ★ NEW 8k_701 for FSK (FS KKR Capital Corp) filed 2026-10-08
+[2026-10-09 00:14:41]     https://www.sec.gov/Archives/edgar/data/1422183/000110465926114718/tm2627201d1_8k.htm
+[2026-10-09 00:14:43]     ✉ alert sent (8k_701)
+[2026-10-09 00:14:43] === EDGAR FIREHOSE complete. 1 new detections. ===
