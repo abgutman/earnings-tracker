@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-10-09T06:00:35",
+ "generated_at": "2026-10-09T17:26:40",
  "items": [
+  {
+   "uuid": "06a4a8aa-02f6-32ce-932c-757b558ae865",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Celina, Texas",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-154600589.html",
+   "published_unix": 1791560760,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-09T17:26:39"
+  },
   {
    "uuid": "bcb9ba33-2020-32bb-8adc-c55331f220cc",
    "tickers": [
@@ -1950,71 +1963,6 @@
    "published_unix": 1788977520,
    "source_type": "yahoo",
    "captured_at": "2026-09-09T18:34:44"
-  },
-  {
-   "uuid": "4f49e904-1da3-3adc-8c5e-7285d3321937",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast CFO Doesn't Expect Broadband Subscriber Losses to Improve This Quarter",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/technology/articles/comcast-cfo-doesn-apos-t-170032151.html",
-   "published_unix": 1788973232,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-09T18:34:19"
-  },
-  {
-   "uuid": "3ad35a62-0be0-3e08-99bb-abdf6aee92a6",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "West Virginia American Water Announces $275,000 Water Infrastructure Project on Thompson Avenue",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/economy/policy/articles/west-virginia-american-water-announces-151900742.html",
-   "published_unix": 1788967140,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-09T18:34:22"
-  },
-  {
-   "uuid": "044b949f-6d26-3b63-a5dd-0a34c693162d",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast Expands Internet Services in Florida County",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/technology/articles/comcast-expands-internet-services-florida-150157941.html",
-   "published_unix": 1788966117,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-09T15:05:55"
-  },
-  {
-   "uuid": "9f86d24c-63fc-3d3b-8c68-534df045542a",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Xfinity and Comcast Business High-Speed Internet Now Available to More Than 2,800 Homes and Businesses in Glades County, Florida",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/articles/xfinity-comcast-business-high-speed-140000874.html",
-   "published_unix": 1788962400,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-09T15:05:55"
-  },
-  {
-   "uuid": "9bf90acf-baf7-389b-9eed-a02949f7e75c",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Aramark Sports + Entertainment Kicks Off 2026 NFL Season Across Eight NFL Stadiums With New Menu Items, Enhanced Premium Experiences, and Local Partnerships",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/media-advertising/articles/aramark-sports-entertainment-kicks-off-113000284.html",
-   "published_unix": 1788953400,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-09T15:05:55"
   }
  ]
 }
