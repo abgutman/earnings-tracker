@@ -169,5 +169,45 @@
   "source_publisher": "GlobeNewswire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-10-08T02:18:27"
+ },
+ "SEIC": {
+  "release_date": "2026-10-21",
+  "call_date": null,
+  "call_time": null,
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/sei-announce-third-quarter-2026-130000071.html",
+  "source_title": "SEI to Announce Third-Quarter 2026 Earnings on Wednesday, October 21, 2026",
+  "source_publisher": "PR Newswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-10-09T02:35:47"
+ },
+ "WST": {
+  "release_date": "2026-10-29",
+  "call_date": null,
+  "call_time": "03:00 ET",
+  "source_url": "https://finance.yahoo.com/healthcare/articles/west-host-third-quarter-2026-100000907.html",
+  "source_title": "West to Host Third-Quarter 2026 Conference Call",
+  "source_publisher": "PR Newswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-10-09T02:35:57"
+ },
+ "FSK": {
+  "release_date": "2026-11-05",
+  "call_date": "2026-11-05",
+  "call_time": "09:00 ET",
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/fs-kkr-capital-corp-declares-201500664.html",
+  "source_title": "FS KKR Capital Corp. Declares Fourth Quarter 2026 Distribution of $0.44 per share; Declares Special Distribution of $0.20 per share; Announces Earnings Release and Conference Call Schedule for Third Quarter 2026",
+  "source_publisher": "PR Newswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-10-09T02:36:06"
+ },
+ "VPG": {
+  "release_date": "2026-11-04",
+  "call_date": "2026-11-04",
+  "call_time": "09:00 ET",
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/vishay-precision-group-announces-date-123000350.html",
+  "source_title": "Vishay Precision Group Announces Date for its Third Quarter Fiscal 2026 Earnings Conference Call",
+  "source_publisher": "GlobeNewswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-10-09T02:36:12"
  }
 }
