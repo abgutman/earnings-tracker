@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-10-08T23:19:31",
+ "generated_at": "2026-10-09T06:00:35",
  "items": [
+  {
+   "uuid": "bcb9ba33-2020-32bb-8adc-c55331f220cc",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Why Did CMCSA, NIO, QXO Stocks Tumble To 52-Week Lows Today?",
+   "publisher": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-cmcsa-nio-qxo-031812196.html",
+   "published_unix": 1791515892,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-09T05:59:51"
+  },
+  {
+   "uuid": "5eba19c0-92c3-3176-92ba-0264c60bdeb1",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Brad Nielsen Named Future President of Pennsylvania American Water",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/brad-nielsen-named-future-president-201000697.html",
+   "published_unix": 1791490200,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-09T05:59:56"
+  },
   {
    "uuid": "ef30b75c-32b8-3835-975a-15557320d53c",
    "tickers": [
