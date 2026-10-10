@@ -619,3 +619,13 @@
 [2026-10-09 02:36:13]   ✉ alert sent for VPG
 [2026-10-09 02:36:57] === Done. Captured 4 new save-the-dates, cleaned 0 past. ===
 
+[2026-10-10 01:56:15] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-10-10 01:56:15] Polling Yahoo for 106 companies
+[2026-10-10 01:56:23]   + RDN: release=None call=2026-11-05 09:00 ET
+[2026-10-10 01:56:23]     via: Radian to Webcast Third Quarter Conference Call
+[2026-10-10 01:56:25]   ✉ alert sent for RDN
+[2026-10-10 01:57:29]   + HSY: release=2026-10-29 call=None 08:00 ET
+[2026-10-10 01:57:29]     via: Hershey to Webcast Third-Quarter Conference Call
+[2026-10-10 01:57:29]   ✉ alert sent for HSY
+[2026-10-10 01:57:33] === Done. Captured 2 new save-the-dates, cleaned 0 past. ===
+

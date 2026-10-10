@@ -1423,8 +1423,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1850119/000110465926113055/tm2626840d1_8k.htm",
   "last_detected_at": "2026-10-02T16:35:15.966857+00:00",
   "last_8k_detected_at": "2026-10-02T16:35:15.966857+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-10-02"
+  "last_10q_url": null
  },
  "PKBK": {
   "ticker": "PKBK",

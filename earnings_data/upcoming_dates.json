@@ -209,5 +209,25 @@
   "source_publisher": "GlobeNewswire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-10-09T02:36:12"
+ },
+ "RDN": {
+  "release_date": null,
+  "call_date": "2026-11-05",
+  "call_time": "09:00 ET",
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/radian-webcast-third-quarter-conference-203000256.html",
+  "source_title": "Radian to Webcast Third Quarter Conference Call",
+  "source_publisher": "Business Wire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-10-10T01:56:23"
+ },
+ "HSY": {
+  "release_date": "2026-10-29",
+  "call_date": null,
+  "call_time": "08:00 ET",
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/hershey-webcast-third-quarter-conference-130000040.html",
+  "source_title": "Hershey to Webcast Third-Quarter Conference Call",
+  "source_publisher": "PR Newswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-10-10T01:57:29"
  }
 }
