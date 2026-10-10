@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T22:36:37",
+ "generated_at": "2026-10-10T02:19:52",
  "items": [
   {
    "uuid": "50fd1392-7bf9-3ddc-9b4f-8ae19ccabbce",
@@ -1911,19 +1911,6 @@
    "published_unix": 1789026526,
    "source_type": "yahoo",
    "captured_at": "2026-09-10T14:58:16"
-  },
-  {
-   "uuid": "a1b84628-e2de-395b-a861-df4287ac8335",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "CMCSA Stock Drops To Worst Day In Over A Month After CFO Sees No Improvement In Broadband User Losses",
-   "publisher": "Stocktwits",
-   "link": "https://finance.yahoo.com/m/a1b84628-e2de-395b-a861-df4287ac8335/cmcsa-stock-drops-to-worst.html",
-   "published_unix": 1788995561,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-10T00:13:29"
   }
  ]
 }
