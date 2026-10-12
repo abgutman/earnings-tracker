@@ -1,6 +1,58 @@
 {
- "generated_at": "2026-10-10T05:43:13",
+ "generated_at": "2026-10-12T20:17:17",
  "items": [
+  {
+   "uuid": "02ace501-cdb0-3d6e-80e8-8f113adc760a",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Charitable Foundation Awards $10,000 Workforce Readiness Grant to North Scott Community School District",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/american-water-charitable-foundation-awards-172800002.html",
+   "published_unix": 1791826080,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-12T20:16:53"
+  },
+  {
+   "uuid": "9ed923b9-b0f2-3851-a0c5-636f86a6fe14",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "Campbell's",
+   "title": "Better High-Yield Dividend Stock: Kraft Heinz vs. Campbell\u2019s",
+   "publisher": "TIKR",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/better-high-yield-dividend-stock-172029516.html",
+   "published_unix": 1791825629,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-12T20:16:51"
+  },
+  {
+   "uuid": "5529030c-2ee4-3d10-a79b-a7801ce24905",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "Baird Adjusts Price Target on Cencora to $373 From $370",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/baird-adjusts-price-target-cencora-131709341.html",
+   "published_unix": 1791811029,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-12T20:16:49"
+  },
+  {
+   "uuid": "42769efe-5213-3bde-be82-c0b062dde05d",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Why Did TMUS, CMCSA, JOBY Stocks Slump To 52-Week Lows Last Week?",
+   "publisher": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-tmus-cmcsa-joby-043519237.html",
+   "published_unix": 1791779719,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-12T20:16:47"
+  },
   {
    "uuid": "50fd1392-7bf9-3ddc-9b4f-8ae19ccabbce",
    "tickers": [
@@ -1690,227 +1742,6 @@
    "published_unix": 1789384500,
    "source_type": "yahoo",
    "captured_at": "2026-09-14T16:57:17"
-  },
-  {
-   "uuid": "078bb9c0-fdff-3fcc-aaf9-067358e67f6f",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast CFO warns of a rising threat as internet customers depart",
-   "publisher": "TheStreet",
-   "link": "https://finance.yahoo.com/m/078bb9c0-fdff-3fcc-aaf9-067358e67f6f/comcast-cfo-warns-of-a-rising.html",
-   "published_unix": 1789241820,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-14T16:57:17"
-  },
-  {
-   "uuid": "c04448e7-04dd-3fdf-85aa-a1d222a27253",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Kentucky American Water Completes Major Infrastructure Improvement Projects on North Limestone, Euclid and Fontaine",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/kentucky-american-water-completes-major-205400771.html",
-   "published_unix": 1789160040,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-11T21:42:26"
-  },
-  {
-   "uuid": "428d43bc-ffa4-39bd-9ddb-6a1c23bd5b4a",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Aramark's International Opportunity Is Underappreciated, RBC Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-apos-international-opportunity-underappreciated-145823426.html",
-   "published_unix": 1789138703,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-11T18:30:48"
-  },
-  {
-   "uuid": "06e40111-6c95-31d4-908f-59eae1bebb46",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "American Water and City of Camden Pay Tribute to 9/11 Victims and First Responders on 25th Anniversary",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/american-water-city-camden-pay-140000342.html",
-   "published_unix": 1789135200,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-11T14:59:18"
-  },
-  {
-   "uuid": "2652e1b5-0f69-343c-9fc1-f66c55113ec5",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Should You Buy Comcast Stock Because Its Cash Outruns Its Earnings?",
-   "publisher": "Trefis",
-   "link": "https://finance.yahoo.com/m/2652e1b5-0f69-343c-9fc1-f66c55113ec5/should-you-buy-comcast-stock.html",
-   "published_unix": 1789071544,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-10T21:36:37"
-  },
-  {
-   "uuid": "d912878e-7cf2-3ad8-849b-98bdc7ca4881",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces Grand Opening of Amenity Center at Griffith Lakes in Charlotte, North Carolina",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-grand-opening-191900497.html",
-   "published_unix": 1789067940,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-10T21:36:58"
-  },
-  {
-   "uuid": "eeb46ae0-1d10-3354-978e-127da717af53",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "American Water Works Sees Declining Regulatory Risk as Merger Advances, UBS Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/american-water-works-sees-declining-164347747.html",
-   "published_unix": 1789058627,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-10T18:26:06"
-  },
-  {
-   "uuid": "584abb16-7955-3221-90c1-43716ee45620",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Model Home Opens in Crestline at Brushy Creek in Cedar Park, Texas",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-model-home-opens-160700888.html",
-   "published_unix": 1789056420,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-10T18:26:29"
-  },
-  {
-   "uuid": "d3c1cc69-33a5-3d9b-ab3a-c78295dee54e",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast and Charter Stocks Bounce Back After Broadband Warning Sparked Selloff",
-   "publisher": "Barrons.com",
-   "link": "https://finance.yahoo.com/m/d3c1cc69-33a5-3d9b-ab3a-c78295dee54e/comcast-and-charter-stocks.html",
-   "published_unix": 1789055220,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-10T18:26:03"
-  },
-  {
-   "uuid": "b7e47f62-903b-381e-be86-09d2494178eb",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast Business Opens Its Last-Mile Network to Partner Platforms, Starting with Equinix",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/articles/comcast-business-opens-last-mile-140000611.html",
-   "published_unix": 1789048800,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-10T14:58:14"
-  },
-  {
-   "uuid": "9834a8f2-14be-3947-acf7-23e754be4d4a",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast, Fastly Collaborating on Network Delivery to Accelerate Xfinity Streaming",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-fastly-collaborating-network-delivery-134458842.html",
-   "published_unix": 1789047898,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-10T14:58:14"
-  },
-  {
-   "uuid": "b6cb698e-0619-33f6-8ef4-91d50fe41bcf",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "UBS Adjusts Price Target on American Water Works to $162 From $156, Keeps Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-price-target-american-133934591.html",
-   "published_unix": 1789047574,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-10T14:58:17"
-  },
-  {
-   "uuid": "59c0ec91-6985-3b29-8061-f030b74d6b06",
-   "tickers": [
-    "WTRG"
-   ],
-   "company": "Essential Utilities",
-   "title": "UBS Adjusts Price Target on Essential Utilities to $49 From $48, Keeps Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-price-target-essential-133605886.html",
-   "published_unix": 1789047365,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-10T14:58:18"
-  },
-  {
-   "uuid": "e8ffe7a2-b224-3391-9933-c0ad2b67c405",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast and Fastly Partner to Develop Next-Generation Content and Application Delivery Model to Deliver Xfinity Members Faster, More Reliable Streaming",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/articles/comcast-fastly-partner-develop-next-130000901.html",
-   "published_unix": 1789045200,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-10T14:58:14"
-  },
-  {
-   "uuid": "c6561e7a-8881-3207-88f3-387aae3d27c9",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "BNP Paribas Adjusts Comcast Price Target to $22 From $21, Maintains Underperform Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-adjusts-comcast-price-120558945.html",
-   "published_unix": 1789041958,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-10T14:58:14"
-  },
-  {
-   "uuid": "c6d2eb9e-3cb4-33c9-a240-e527d95dc2d5",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "Five Below",
-   "title": "Five Below Insider Sold Shares Worth $2,607,113, According to a Recent SEC Filing",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-insider-sold-shares-075003869.html",
-   "published_unix": 1789026603,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-10T14:58:16"
-  },
-  {
-   "uuid": "4df7d199-9b55-3ef0-8540-64f56b9e5278",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "Five Below",
-   "title": "Five Below Insider Sold Shares Worth $1,065,084, According to a Recent SEC Filing",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-insider-sold-shares-074846952.html",
-   "published_unix": 1789026526,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-10T14:58:16"
   }
  ]
 }
