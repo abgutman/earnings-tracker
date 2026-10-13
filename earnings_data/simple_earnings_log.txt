@@ -4511,3 +4511,19 @@
 [2026-10-13 02:00:59] === EDGAR FIREHOSE complete. 0 new detections. ===
 [2026-10-13 03:14:35] === CHECK-10Q: scanning for pending 10-Q filings ===
 [2026-10-13 03:14:36] === CHECK-10Q complete. Checked 3, found 0, cleared 0 stale. ===
+[2026-10-13 18:06:34] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-10-13 18:06:35]   firehose: 8-K feed — 100 entries parsed
+[2026-10-13 18:06:35]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-10-13 18:06:35]   firehose: 8-K page 2 — 100 entries
+[2026-10-13 18:06:35]   firehose: 10-Q feed — 35 entries parsed
+[2026-10-13 18:06:35]   firehose: 100 watched CIKs, 235 total feed entries
+[2026-10-13 18:06:35]   ★ NEW 8k_202 for JNJ (JOHNSON & JOHNSON) filed 2026-10-13
+[2026-10-13 18:06:35]     https://www.sec.gov/Archives/edgar/data/200406/000020040626000189/jnj-20261013.htm
+[2026-10-13 18:06:37]     ✉ alert sent (8k_202)
+[2026-10-13 18:06:37]   ★ NEW 8k_701 for HRMY (Harmony Biosciences Holdings, Inc.) filed 2026-10-13
+[2026-10-13 18:06:37]     https://www.sec.gov/Archives/edgar/data/1802665/000110465926115282/hrmy-20261012x8k.htm
+[2026-10-13 18:06:38]     ✉ alert sent (8k_701)
+[2026-10-13 18:06:38]   ★ NEW 8k_701 for AVBP (ArriVent BioPharma, Inc.) filed 2026-10-13
+[2026-10-13 18:06:38]     https://www.sec.gov/Archives/edgar/data/1868279/000110465926115161/tm2627450d1_8k.htm
+[2026-10-13 18:06:39]     ✉ alert sent (8k_701)
+[2026-10-13 18:06:39] === EDGAR FIREHOSE complete. 3 new detections. ===
