@@ -229,5 +229,15 @@
   "source_publisher": "PR Newswire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-10-10T01:57:29"
+ },
+ "GMED": {
+  "release_date": "2026-11-05",
+  "call_date": null,
+  "call_time": null,
+  "source_url": "https://finance.yahoo.com/healthcare/articles/globus-medical-schedules-third-quarter-200100564.html",
+  "source_title": "Globus Medical Schedules Third Quarter Earnings Release and Conference Call",
+  "source_publisher": "GlobeNewswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-10-13T03:13:33"
  }
 }

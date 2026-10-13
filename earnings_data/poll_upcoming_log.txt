@@ -629,3 +629,10 @@
 [2026-10-10 01:57:29]   ✉ alert sent for HSY
 [2026-10-10 01:57:33] === Done. Captured 2 new save-the-dates, cleaned 0 past. ===
 
+[2026-10-13 03:13:08] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-10-13 03:13:08] Polling Yahoo for 106 companies
+[2026-10-13 03:13:33]   + GMED: release=2026-11-05 call=None None
+[2026-10-13 03:13:33]     via: Globus Medical Schedules Third Quarter Earnings Release and Conference Call
+[2026-10-13 03:13:34]   ✉ alert sent for GMED
+[2026-10-13 03:14:35] === Done. Captured 1 new save-the-dates, cleaned 0 past. ===
+
