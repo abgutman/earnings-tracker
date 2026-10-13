@@ -1,6 +1,84 @@
 {
- "generated_at": "2026-10-13T06:42:27",
+ "generated_at": "2026-10-13T18:17:58",
  "items": [
+  {
+   "uuid": "be840834-4007-3341-8ac7-f8961c540183",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces Model Home Grand Opening at Toll Brothers at Flat Creek in Castroville, Texas",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-model-home-180900083.html",
+   "published_unix": 1791914940,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-13T18:17:57"
+  },
+  {
+   "uuid": "a15b3948-2779-3fa9-8715-e5be3acef871",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces Final Opportunity for a Quick Move-In Luxury Home at Freestone Station in Marietta, Georgia",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-final-opportunity-174600633.html",
+   "published_unix": 1791913560,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-13T18:17:57"
+  },
+  {
+   "uuid": "1f0b0b6b-29ca-32a5-a88f-b5fb9807c980",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Charitable Foundation Joins Important Philanthropy Discussions at The Women Who Lead Forum",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/american-water-charitable-foundation-joins-165600304.html",
+   "published_unix": 1791910560,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-13T18:16:39"
+  },
+  {
+   "uuid": "77e98c09-44a0-30b6-8bd7-4471f0e7550e",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "SpaceX Starlink Mobile Push Prompts Bernstein To Cut VZ, TMUS, CMCSA, CHTR Stocks\u2019 Price Targets",
+   "publisher": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-starlink-mobile-push-prompts-142205454.html",
+   "published_unix": 1791901325,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-13T18:16:35"
+  },
+  {
+   "uuid": "b84b47d9-226e-37af-97ad-a4b5b295c7d2",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Iowa American Water and River Bend Food Bank Celebrate Partnership Supporting Hunger Relief",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/iowa-american-water-river-bend-133000706.html",
+   "published_unix": 1791898200,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-13T18:16:39"
+  },
+  {
+   "uuid": "e0b31026-1097-34ca-9a91-6ff3990d696d",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Bernstein Adjusts Price Target on Comcast to $23 From $28",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bernstein-adjusts-price-target-comcast-103518661.html",
+   "published_unix": 1791887718,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-13T18:16:35"
+  },
   {
    "uuid": "02ace501-cdb0-3d6e-80e8-8f113adc760a",
    "tickers": [

@@ -10943,3 +10943,29 @@
 [2026-10-13 06:42:26]   Toll Brothers [yahoo_search]: 9 fetched, 0 new
 [2026-10-13 06:42:27]   Brandywine Realty Trust [yahoo_search]: 10 fetched, 9 new
 [2026-10-13 06:42:27] === Done. 200 new items, 134 total in 720h window ===
+[2026-10-13 18:16:34] === Local news feed poll start ===
+[2026-10-13 18:16:34] 22 active entities
+[2026-10-13 18:16:35]   Comcast [yahoo_search]: 4 fetched, 2 new
+[2026-10-13 18:16:36]   Aramark [yahoo_search]: 10 fetched, 5 new
+[2026-10-13 18:16:36]   Cencora [yahoo_search]: 6 fetched, 0 new
+[2026-10-13 18:16:37]   FMC Corporation [yahoo_search]: 9 fetched, 2 new
+[2026-10-13 18:16:38]   Five Below [yahoo_search]: 2 fetched, 0 new
+[2026-10-13 18:16:38]   Campbell's [yahoo_search]: 4 fetched, 0 new
+[2026-10-13 18:16:39]   Burlington Stores [yahoo_search]: 1 fetched, 0 new
+[2026-10-13 18:16:39]   American Water [yahoo_search]: 19 fetched, 2 new
+[2026-10-13 18:16:40]   Essential Utilities [yahoo_search]: 5 fetched, 4 new
+[2026-10-13 18:16:44]   Independence Blue Cross [wire_page]: 25 fetched, 25 new
+[2026-10-13 18:16:48]   Vanguard [wire_page]: 6 fetched, 6 new
+[2026-10-13 18:17:06]   Wawa [wire_page]: 6 fetched, 6 new
+[2026-10-13 18:17:11]   Gopuff [wire_page]: 3 fetched, 3 new
+[2026-10-13 18:17:16]   PJM Interconnection [wire_page]: 25 fetched, 24 new
+[2026-10-13 18:17:17]   Franklin Biolabs [rss]: 10 fetched, 10 new
+[2026-10-13 18:17:37]   fetch err https://www.prnewswire.com/news/qvc/: Failed to perform, curl: (28) Operation timed out after 20002 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+[2026-10-13 18:17:37]   QVC Group [wire_page]: 0 fetched, 0 new
+[2026-10-13 18:17:41]   Spark Therapeutics [wire_page]: 22 fetched, 22 new
+[2026-10-13 18:17:44]   GEMMA Biotherapeutics [wire_page]: 9 fetched, 9 new
+[2026-10-13 18:17:48]   David's Bridal [wire_page]: 25 fetched, 25 new
+[2026-10-13 18:17:56]   TD Bank [wire_page]: 25 fetched, 25 new
+[2026-10-13 18:17:57]   Toll Brothers [yahoo_search]: 11 fetched, 2 new
+[2026-10-13 18:17:58]   Brandywine Realty Trust [yahoo_search]: 10 fetched, 9 new
+[2026-10-13 18:17:58] === Done. 181 new items, 140 total in 720h window ===
