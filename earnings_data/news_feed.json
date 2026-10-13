@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-10-13T18:17:58",
+ "generated_at": "2026-10-13T23:17:48",
  "items": [
+  {
+   "uuid": "428dfc65-ae63-3ee1-accd-464583e0db93",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "The One Number Comcast Stock Investors Should Watch",
+   "publisher": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/one-number-comcast-stock-investors-204245227.html",
+   "published_unix": 1791924165,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-13T23:15:55"
+  },
   {
    "uuid": "be840834-4007-3341-8ac7-f8961c540183",
    "tickers": [
