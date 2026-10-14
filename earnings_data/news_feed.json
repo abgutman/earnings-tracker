@@ -1,6 +1,45 @@
 {
- "generated_at": "2026-10-14T20:11:37",
+ "generated_at": "2026-10-14T23:16:46",
  "items": [
+  {
+   "uuid": "79827d95-9f51-3d36-90d7-60a5d343bf51",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Announces Leadership Changes in Missouri and Illinois",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/american-water-announces-leadership-changes-214500745.html",
+   "published_unix": 1792014300,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-14T23:16:22"
+  },
+  {
+   "uuid": "d9de6d74-9340-3fda-9622-6ce917a055a2",
+   "tickers": [
+    "WTRG"
+   ],
+   "company": "Essential Utilities",
+   "title": "Essential Utilities to Report Financial Results for Q3 2026",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/essential-utilities-report-financial-results-210000786.html",
+   "published_unix": 1792011600,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-14T23:16:22"
+  },
+  {
+   "uuid": "1da86076-ec39-3c00-9c29-857ee453e8e9",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Is There A Risk Hiding In Comcast Stock's Latest Results?",
+   "publisher": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/risk-hiding-comcast-stocks-latest-203729801.html",
+   "published_unix": 1792010249,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-14T23:16:17"
+  },
   {
    "uuid": "933657e5-01ef-33cd-89ac-e9ce7363d8f8",
    "tickers": [
