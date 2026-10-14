@@ -1,6 +1,45 @@
 {
- "generated_at": "2026-10-14T15:50:23",
+ "generated_at": "2026-10-14T20:11:37",
  "items": [
+  {
+   "uuid": "933657e5-01ef-33cd-89ac-e9ce7363d8f8",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers, Brookfield Residential's LakePointe Community Coming Soon to Covington, Washington",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-brookfield-residential-apos-193816384.html",
+   "published_unix": 1792006696,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-14T20:11:36"
+  },
+  {
+   "uuid": "5e6665e0-5735-3b01-acc4-c81ce47be94d",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers and Brookfield Residential Announce New Master-Planned Community Coming Soon to Covington, Washington",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-brookfield-residential-announce-183600653.html",
+   "published_unix": 1792002960,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-14T20:11:36"
+  },
+  {
+   "uuid": "e4633f7d-a0d9-3271-9bbe-51daf9ce7898",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Illinois American Water Employees Join Local Organizations to Strengthen Communities Across the State",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/illinois-american-water-employees-join-155600576.html",
+   "published_unix": 1791993360,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-14T20:11:12"
+  },
   {
    "uuid": "ca1fbbb5-7ddf-317a-8ac5-fb585e506210",
    "tickers": [
@@ -1807,45 +1846,6 @@
    "published_unix": 1789465126,
    "source_type": "yahoo",
    "captured_at": "2026-09-15T15:33:02"
-  },
-  {
-   "uuid": "18dbcf10-d7e4-34fa-8039-e00814c1e8f3",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces New Luxury Community Opening in Redondo Beach, California",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-community-174500691.html",
-   "published_unix": 1789407900,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-14T20:56:46"
-  },
-  {
-   "uuid": "50578d10-8814-3351-9f2b-40c05a006c7d",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Paramount Skydance, Comcast Review SkyShowtime Options, Including Potential Exit, Says Report: PSKY Stock Jumps Over 4%, CMCSA Gains 0.3%",
-   "publisher": "Stocktwits",
-   "link": "https://finance.yahoo.com/m/50578d10-8814-3351-9f2b-40c05a006c7d/paramount-skydance%2C-comcast.html",
-   "published_unix": 1789404060,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-14T16:57:17"
-  },
-  {
-   "uuid": "dde21f9e-9605-3732-a533-7e5ef79a520f",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Market Chatter: Comcast, Paramount Skydance to Review Options for SkyShowtime JV",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/media-advertising/articles/market-chatter-comcast-paramount-skydance-162732335.html",
-   "published_unix": 1789403252,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-14T16:57:17"
   }
  ]
 }
