@@ -636,3 +636,13 @@
 [2026-10-13 03:13:34]   ✉ alert sent for GMED
 [2026-10-13 03:14:35] === Done. Captured 1 new save-the-dates, cleaned 0 past. ===
 
+[2026-10-14 01:26:05] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-10-14 01:26:05] Polling Yahoo for 106 companies
+[2026-10-14 01:26:40]   + NVRI: release=None call=2026-11-05 09:00 ET
+[2026-10-14 01:26:40]     via: Enviri Corporation Announces Timing of Third Quarter 2026 Results and Conference Call
+[2026-10-14 01:26:41]   ✉ alert sent for NVRI
+[2026-10-14 01:27:13]   + WHK: release=2026-11-13 call=None None
+[2026-10-14 01:27:13]     via: WhiteHawk Minerals Corp. Announces Third Quarter 2026 Earnings Conference Call for November 13, 2026
+[2026-10-14 01:27:15]   ✉ alert sent for WHK
+[2026-10-14 01:27:25] === Done. Captured 2 new save-the-dates, cleaned 0 past. ===
+

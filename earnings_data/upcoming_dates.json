@@ -239,5 +239,25 @@
   "source_publisher": "GlobeNewswire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-10-13T03:13:33"
+ },
+ "NVRI": {
+  "release_date": null,
+  "call_date": "2026-11-05",
+  "call_time": "09:00 ET",
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/enviri-corporation-announces-timing-third-120000287.html",
+  "source_title": "Enviri Corporation Announces Timing of Third Quarter 2026 Results and Conference Call",
+  "source_publisher": "GlobeNewswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-10-14T01:26:40"
+ },
+ "WHK": {
+  "release_date": "2026-11-13",
+  "call_date": null,
+  "call_time": null,
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/whitehawk-minerals-corp-announces-third-113000009.html",
+  "source_title": "WhiteHawk Minerals Corp. Announces Third Quarter 2026 Earnings Conference Call for November 13, 2026",
+  "source_publisher": "Business Wire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-10-14T01:27:13"
  }
 }
