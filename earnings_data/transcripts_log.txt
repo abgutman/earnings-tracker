@@ -6447,3 +6447,20 @@
 [2026-10-13 20:48:36] No new transcripts found; transcripts.json unchanged
 [2026-10-13 20:48:36] === Done. 0 new transcript links found. ===
 
+[2026-10-14 02:08:57] === Fool transcript harvest start (dry_run=False) ===
+[2026-10-14 02:08:57] Loaded 122 tickers from expanded_companies.json
+[2026-10-14 02:08:57] Recent tickers (last filing within 14d): ['AVBP', 'FSK', 'HCSG', 'HRMY', 'IPSC', 'JNJ']
+[2026-10-14 02:08:57] Seed backfill: all seeds already in state
+[2026-10-14 02:08:57] Fetching Fool transcript index: https://www.fool.com/earnings-call-transcripts/
+[2026-10-14 02:08:58]   Found 20 transcript links on index page
+[2026-10-14 02:08:58]   Fool index matched tickers: []
+[2026-10-14 02:08:58] Yahoo secondary search for 6 tickers: ['AVBP', 'FSK', 'HCSG', 'HRMY', 'IPSC', 'JNJ']
+[2026-10-14 02:08:59]   MISS [Yahoo] AVBP: no transcript items in feed
+[2026-10-14 02:08:59]   MISS [Yahoo] FSK: no transcript items in feed
+[2026-10-14 02:09:00]   MISS [Yahoo] HCSG: no transcript items in feed
+[2026-10-14 02:09:01]   MISS [Yahoo] HRMY: no transcript items in feed
+[2026-10-14 02:09:01]   MISS [Yahoo] IPSC: no transcript items in feed
+[2026-10-14 02:09:02]   NEW [Yahoo] JNJ: https://finance.yahoo.com/healthcare/articles/j-j-jnj-q3-2026-235925762.html (Motley Fool)
+[2026-10-14 02:09:02] Saved transcripts.json (46 tickers with entries)
+[2026-10-14 02:09:02] === Done. 1 new transcript links found. ===
+

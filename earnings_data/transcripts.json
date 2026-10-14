@@ -245,6 +245,15 @@
    "url": "https://finance.yahoo.com/m/25adbe81-f0fb-30ad-8631-f21cf7d7a5d4/jjsf-q3-2026-earnings-call.html"
   }
  ],
+ "JNJ": [
+  {
+   "date_str": "2026-10-14",
+   "found_at": "2026-10-14T02:09:02",
+   "source": "Motley Fool",
+   "title": "J&J (JNJ) Q3 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/healthcare/articles/j-j-jnj-q3-2026-235925762.html"
+  }
+ ],
  "KWR": [
   {
    "date_str": "2026-08-10",
