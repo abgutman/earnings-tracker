@@ -1,6 +1,45 @@
 {
- "generated_at": "2026-10-14T04:45:53",
+ "generated_at": "2026-10-14T15:50:23",
  "items": [
+  {
+   "uuid": "ca1fbbb5-7ddf-317a-8ac5-fb585e506210",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "Campbell's",
+   "title": "Better High-Yield Dividend Stock: Clorox vs. Campbell\u2019s",
+   "publisher": "TIKR",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/better-high-yield-dividend-stock-145716152.html",
+   "published_unix": 1791989836,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-14T15:48:52"
+  },
+  {
+   "uuid": "e153b0aa-f35f-3001-9e0c-a0892e11a9b8",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Saint Cloud, Florida",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-145200824.html",
+   "published_unix": 1791989520,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-14T15:50:22"
+  },
+  {
+   "uuid": "a80578ab-b27d-3cf5-aff8-543fbf17b967",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Xfinity and Comcast Business High-Speed Internet Now Available to Nearly 2,000 Homes and Businesses in Hardee County, Florida",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/articles/xfinity-comcast-business-high-speed-140000639.html",
+   "published_unix": 1791986400,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-14T15:48:49"
+  },
   {
    "uuid": "428dfc65-ae63-3ee1-accd-464583e0db93",
    "tickers": [
@@ -1805,32 +1844,6 @@
    "publisher": "MT Newswires",
    "link": "https://finance.yahoo.com/media-advertising/articles/market-chatter-comcast-paramount-skydance-162732335.html",
    "published_unix": 1789403252,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-14T16:57:17"
-  },
-  {
-   "uuid": "f20c2f8a-6d67-36dc-bc80-6e8a432b026e",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Aramark Nexus to Serve as Hospitality Partner for Workforce Housing Provider",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/small-business/articles/aramark-nexus-serve-hospitality-partner-125237286.html",
-   "published_unix": 1789390357,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-14T16:57:17"
-  },
-  {
-   "uuid": "ef708c20-9da0-3276-b4fb-7ff0bb299232",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Aramark Nexus\u2122 Selected as Premier Hospitality Partner for a Leading Workforce Housing Provider",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/real-estate/articles/aramark-nexus-selected-premier-hospitality-111500370.html",
-   "published_unix": 1789384500,
    "source_type": "yahoo",
    "captured_at": "2026-09-14T16:57:17"
   }
