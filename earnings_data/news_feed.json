@@ -1,6 +1,97 @@
 {
- "generated_at": "2026-10-15T04:28:10",
+ "generated_at": "2026-10-15T15:35:45",
  "items": [
+  {
+   "uuid": "e7de32ab-f47c-3855-b951-a07424f5d9db",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC Corporation",
+   "title": "FMC Stock Plummets 35% on Horrendous Guidance",
+   "publisher": "Barrons.com",
+   "link": "https://finance.yahoo.com/m/e7de32ab-f47c-3855-b951-a07424f5d9db/fmc-stock-plummets-35%25-on.html",
+   "published_unix": 1792073340,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-15T15:34:58"
+  },
+  {
+   "uuid": "b14bf4c9-b540-315c-a728-6230494d4f98",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC Corporation",
+   "title": "CoreWeave, TSMC, FMC, Rocket Lab, Schwab, and More Stocks That Explain Today\u2019s Market",
+   "publisher": "Barrons.com",
+   "link": "https://finance.yahoo.com/m/b14bf4c9-b540-315c-a728-6230494d4f98/coreweave%2C-tsmc%2C-fmc%2C-rocket.html",
+   "published_unix": 1792072920,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-15T15:34:58"
+  },
+  {
+   "uuid": "5d357fe6-de2a-3b6d-be4b-ee209e881388",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC Corporation",
+   "title": "FMC Shares Plunge 35% as Company Cuts Q3 2026 Outlook Amid Weak Demand and Inventory Pressures",
+   "publisher": "InvestorsHub",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-shares-plunge-35-company-124046224.html",
+   "published_unix": 1792068046,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-15T15:34:58"
+  },
+  {
+   "uuid": "3a699d98-4559-313b-89f5-ab9d88bf8466",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC Corporation",
+   "title": "FMC Sharply Reduces Q3 Revenue Guidance; Shares Plunge",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-sharply-reduces-q3-revenue-121344814.html",
+   "published_unix": 1792066424,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-15T15:34:58"
+  },
+  {
+   "uuid": "dd0521b9-25a7-3242-8c09-2a145136e554",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "RBC Capital Adjusts Price Target on Toll Brothers to $148 From $158, Keeps Outperform Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-capital-adjusts-price-target-121158988.html",
+   "published_unix": 1792066318,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-15T15:35:44"
+  },
+  {
+   "uuid": "3772fb17-406d-3720-91b2-acf1a470aafd",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC Corporation",
+   "title": "FMC Corporation Provides Update to Third-Quarter Expectations and Announces Comprehensive Commercial Actions to Expedite Return to Growth",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-corporation-provides-third-quarter-113000653.html",
+   "published_unix": 1792063800,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-15T15:34:58"
+  },
+  {
+   "uuid": "2b65ba45-9e79-3a0b-a129-7ffedd1ff3ac",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC Corporation",
+   "title": "RBC Cuts Price Target on FMC to $9 From $11, Keeps Sector Perform Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-cuts-price-target-fmc-110750972.html",
+   "published_unix": 1792062470,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-15T15:34:58"
+  },
   {
    "uuid": "79827d95-9f51-3d36-90d7-60a5d343bf51",
    "tickers": [
@@ -1781,110 +1872,6 @@
    "published_unix": 1789491347,
    "source_type": "yahoo",
    "captured_at": "2026-09-15T19:41:18"
-  },
-  {
-   "uuid": "f7d627dd-ec99-3839-b9fd-d0a290c8ffe7",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast Announces 2026 Impact Report",
-   "publisher": "ACCESS Newswire",
-   "link": "https://finance.yahoo.com/small-business/articles/comcast-announces-2026-impact-report-153000231.html",
-   "published_unix": 1789486200,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-15T19:41:18"
-  },
-  {
-   "uuid": "d7c04c70-a6d6-3a4d-8d6c-88b1cddbef59",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers City Living Announces New Model Home at Vista Pointe at Port Imperial as Residences Prepare for Immediate Occupancy",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-city-living-announces-151400569.html",
-   "published_unix": 1789485240,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-15T15:33:33"
-  },
-  {
-   "uuid": "d7eaebb2-48db-34d4-bead-11041bc97218",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "UBS Adjusts Comcast Price Target to $27 From $32, Maintains Neutral Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-comcast-price-target-143222712.html",
-   "published_unix": 1789482742,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-15T15:33:02"
-  },
-  {
-   "uuid": "8e3c3b31-2fff-3415-8b0e-c383344ac02c",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Xfinity and Comcast Business Services Now Available in Beaufort and Edisto, South Carolina",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/articles/xfinity-comcast-business-services-now-140000076.html",
-   "published_unix": 1789480800,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-15T15:33:02"
-  },
-  {
-   "uuid": "f553abf1-451a-3833-94e9-f99bd2011e1a",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "Campbell's",
-   "title": "/C O R R E C T I O N -- Campbell's/",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/media-advertising/articles/c-o-r-r-e-134600714.html",
-   "published_unix": 1789479960,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-15T15:33:04"
-  },
-  {
-   "uuid": "70aae7bf-eafa-3f43-ac29-0c07cbc9292d",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "Campbell's",
-   "title": "Campbell's Debuts News Sauces Lineup to Make Dinnertime Simple",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/media-advertising/articles/campbells-debuts-news-sauces-lineup-130000325.html",
-   "published_unix": 1789477200,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-15T15:33:04"
-  },
-  {
-   "uuid": "f23aa477-964b-38f2-b578-c6080575a61e",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast's Universal Ads to Provide Access to Creator Content for TV Advertising",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-apos-universal-ads-access-125155686.html",
-   "published_unix": 1789476715,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-15T15:33:02"
-  },
-  {
-   "uuid": "f0ca7edd-9575-3aa4-b841-a74a2a5615fb",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Goldman Sachs Adjusts Price Target on Comcast to $24 From $25, Keeps Neutral Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-adjusts-price-target-093846387.html",
-   "published_unix": 1789465126,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-15T15:33:02"
   }
  ]
 }
