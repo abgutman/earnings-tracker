@@ -646,3 +646,7 @@
 [2026-10-14 01:27:15]   ✉ alert sent for WHK
 [2026-10-14 01:27:25] === Done. Captured 2 new save-the-dates, cleaned 0 past. ===
 
+[2026-10-15 00:57:48] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-10-15 00:57:48] Polling Yahoo for 106 companies
+[2026-10-15 00:59:05] === Done. Captured 0 new save-the-dates, cleaned 0 past. ===
+
