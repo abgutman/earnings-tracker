@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-10-15T19:53:21",
+ "generated_at": "2026-10-15T23:05:03",
  "items": [
+  {
+   "uuid": "0832c53a-11bf-3fd2-8d8e-93aa669ebd4e",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Should You Buy Comcast Stock At Under Seven Times Earnings?",
+   "publisher": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-comcast-stock-under-seven-222226526.html",
+   "published_unix": 1792102946,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-15T23:03:37"
+  },
   {
    "uuid": "f6d74553-a74f-31b1-b910-fbb09845558e",
    "tickers": [
