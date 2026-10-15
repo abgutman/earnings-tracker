@@ -4601,3 +4601,9 @@
 [2026-10-15 18:12:08]   firehose: 10-Q feed — 44 entries parsed
 [2026-10-15 18:12:08]   firehose: 100 watched CIKs, 144 total feed entries
 [2026-10-15 18:12:08] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-10-15 21:31:37] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-10-15 21:31:46]   ★ NEW 8k_701 for CRS (CARPENTER TECHNOLOGY CORP) filed 2026-10-15
+[2026-10-15 21:31:46]     https://www.sec.gov/Archives/edgar/data/17843/000001784326000040/crs-20261012.htm
+[2026-10-15 21:31:47]     ✉ alert sent (8k_701)
+[2026-10-15 21:31:47]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0000017843.json'
+[2026-10-15 21:32:07] === EDGAR POLL complete. Fetched 100 companies, 1 new filings. ===
