@@ -4622,3 +4622,11 @@
 [2026-10-16 00:50:35] === CHECK-10Q: scanning for pending 10-Q filings ===
 [2026-10-16 00:50:36]   FSK: pending_10q_since=2026-10-08 is 8d old — clearing stale flag
 [2026-10-16 00:50:36] === CHECK-10Q complete. Checked 8, found 0, cleared 1 stale. ===
+[2026-10-16 15:19:44] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-10-16 15:19:44]   firehose: 8-K feed — 100 entries parsed
+[2026-10-16 15:19:44]   firehose: 10-Q feed — 37 entries parsed
+[2026-10-16 15:19:44]   firehose: 100 watched CIKs, 137 total feed entries
+[2026-10-16 15:19:44]   ★ NEW 8k_701 for QNBC (QNB CORP.) filed 2026-10-16
+[2026-10-16 15:19:44]     https://www.sec.gov/Archives/edgar/data/750558/000119312526423431/qnbc-20261016.htm
+[2026-10-16 15:19:53]     ✉ alert sent (8k_701)
+[2026-10-16 15:19:53] === EDGAR FIREHOSE complete. 1 new detections. ===
