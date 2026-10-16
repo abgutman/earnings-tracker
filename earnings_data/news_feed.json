@@ -1,6 +1,123 @@
 {
- "generated_at": "2026-10-16T04:24:03",
+ "generated_at": "2026-10-16T15:23:09",
  "items": [
+  {
+   "uuid": "5ef67350-7b2d-39e2-b19c-783b2dd2c476",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers at Everly Community Opens in Spartanburg, South Carolina",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-everly-community-opens-150900342.html",
+   "published_unix": 1792163340,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-16T15:23:08"
+  },
+  {
+   "uuid": "45cc50b6-b822-35d6-b12a-6bfdd45ffb0e",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC Corporation",
+   "title": "FMC Stock Dropped 31%\u2014Why It May Still Be No Bargain",
+   "publisher": "Barrons.com",
+   "link": "https://finance.yahoo.com/m/45cc50b6-b822-35d6-b12a-6bfdd45ffb0e/fmc-stock-dropped-31%25%E2%80%94why-it.html",
+   "published_unix": 1792158600,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-16T15:21:40"
+  },
+  {
+   "uuid": "d28f4835-092c-35cb-a99d-84dd56987304",
+   "tickers": [
+    "WTRG"
+   ],
+   "company": "Essential Utilities",
+   "title": "UBS Adjusts Essential Utilities Price Target to $47 From $49, Maintains Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-essential-utilities-price-131511348.html",
+   "published_unix": 1792156511,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-16T15:21:43"
+  },
+  {
+   "uuid": "54bbd303-43b4-38cb-9210-1117744eff40",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "UBS Adjusts Price Target on Cencora to $400 From $430, Keeps Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-price-target-cencora-125519536.html",
+   "published_unix": 1792155319,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-16T15:21:40"
+  },
+  {
+   "uuid": "aa81a14d-64e9-3b6c-9a3f-85b7f70d38a2",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "UBS Adjusts Price Target on American Water Works to $153 From $162, Keeps Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-price-target-american-125513618.html",
+   "published_unix": 1792155313,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-16T15:21:43"
+  },
+  {
+   "uuid": "a80781b2-e93a-3bcd-8d52-c1a8fe8a3623",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "35 Years of Support: Pennsylvania American Water Marks Milestone for Customer Assistance Program",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/35-years-support-pennsylvania-american-123000867.html",
+   "published_unix": 1792153800,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-16T15:21:43"
+  },
+  {
+   "uuid": "75e3e246-0275-3253-ae20-bf15d6b22c0b",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces New Lakefront Luxury Home Community Coming Soon to Clermont, Florida",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-lakefront-luxury-121700147.html",
+   "published_unix": 1792153020,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-16T15:23:08"
+  },
+  {
+   "uuid": "51f665d7-5279-34f3-832f-9bd1a2c1e7e7",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC Corporation",
+   "title": "Seaport Global Downgrades FMC to Neutral",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/seaport-global-downgrades-fmc-neutral-111126295.html",
+   "published_unix": 1792149086,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-16T15:21:40"
+  },
+  {
+   "uuid": "5b5b6e3e-a3e9-30f6-be5f-0b03264b2dd2",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC Corporation",
+   "title": "Jefferies Downgrades FMC to Hold, Price Target is $5",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-downgrades-fmc-hold-price-111049546.html",
+   "published_unix": 1792149049,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-16T15:21:40"
+  },
   {
    "uuid": "0832c53a-11bf-3fd2-8d8e-93aa669ebd4e",
    "tickers": [
@@ -1820,19 +1937,6 @@
    "published_unix": 1789579800,
    "source_type": "yahoo",
    "captured_at": "2026-09-16T19:33:29"
-  },
-  {
-   "uuid": "b239ca12-b1a9-378a-bf57-3ae3ad4c57b8",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "BofA Securities Adjusts Comcast Price Target to $35 From $37",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-securities-adjusts-comcast-price-120824832.html",
-   "published_unix": 1789560504,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-16T15:24:54"
   }
  ]
 }
