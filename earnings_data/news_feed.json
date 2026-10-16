@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-10-16T19:35:02",
+ "generated_at": "2026-10-16T22:50:00",
  "items": [
+  {
+   "uuid": "f7341c04-bfb1-3283-a867-1cf3e8edbb9b",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Illinois American Water Announces 2026 \"Water Keeps Life Flowing\" Art Contest",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/illinois-american-water-announces-2026-202600043.html",
+   "published_unix": 1792182360,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-16T22:49:31"
+  },
   {
    "uuid": "3579cad1-e0ff-3484-ae24-c255844ac925",
    "tickers": [
@@ -1846,71 +1859,6 @@
    "published_unix": 1789621260,
    "source_type": "yahoo",
    "captured_at": "2026-09-18T04:35:00"
-  },
-  {
-   "uuid": "acaa659c-e23d-365a-9180-db240b79aedc",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Illinois American Water Completes $770,000 Venice Wastewater Collection System Acquisition",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/illinois-american-water-completes-770-215201124.html",
-   "published_unix": 1789595521,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-16T22:55:00"
-  },
-  {
-   "uuid": "2fb33f56-1671-361c-8d7d-384aca4eb617",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Illinois American Water Completes Acquisition of City of Venice Wastewater Collection System",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/illinois-american-water-completes-acquisition-211500503.html",
-   "published_unix": 1789593300,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-16T22:55:00"
-  },
-  {
-   "uuid": "87e8ec39-e573-38de-bbd0-bd1f2573bc17",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "Five Below",
-   "title": "Five Below Insider Sold Shares Worth $1,369,445, According to a Recent SEC Filing",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-insider-sold-shares-204448855.html",
-   "published_unix": 1789591488,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-16T22:54:58"
-  },
-  {
-   "uuid": "0520985e-7b87-3fac-8039-1428affd7720",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces Cash Dividend",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-announces-cash-dividend-203000880.html",
-   "published_unix": 1789590600,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-16T22:55:26"
-  },
-  {
-   "uuid": "14af9daf-ce9b-3721-9c6f-78294ca53226",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora",
-   "title": "Cencora Tech Chief: AI Is Cutting Some Medical Treatment Decisions in Half",
-   "publisher": "WSJ",
-   "link": "https://finance.yahoo.com/video/cencora-tech-chief-ai-cutting-195800838.html",
-   "published_unix": 1789588680,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-22T19:44:02"
   }
  ]
 }
