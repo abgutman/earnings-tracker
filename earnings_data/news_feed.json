@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-10-16T15:23:09",
+ "generated_at": "2026-10-16T19:35:02",
  "items": [
+  {
+   "uuid": "3579cad1-e0ff-3484-ae24-c255844ac925",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces New Phase Opening in Cottage and Preserve Collections at Griffith Lakes in North Carolina",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-phase-opening-173700381.html",
+   "published_unix": 1792172220,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-16T19:35:01"
+  },
+  {
+   "uuid": "3ac09944-2ccc-36a2-b088-9470b49910cf",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "Five Below Expected to Sustain Healthy Growth Even as Composition Changes, UBS Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-expected-sustain-healthy-154259023.html",
+   "published_unix": 1792165379,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-16T19:32:39"
+  },
   {
    "uuid": "5ef67350-7b2d-39e2-b19c-783b2dd2c476",
    "tickers": [
@@ -1885,58 +1911,6 @@
    "published_unix": 1789588680,
    "source_type": "yahoo",
    "captured_at": "2026-09-22T19:44:02"
-  },
-  {
-   "uuid": "67479365-a917-349b-80b5-be7a06dc3fe8",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Maryland American Water Reiterates Commitment to Environmental Stewardship by Participating in Source Water Protection Week",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/maryland-american-water-reiterates-commitment-190500288.html",
-   "published_unix": 1789585500,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-16T19:32:56"
-  },
-  {
-   "uuid": "35758161-93ac-3ae0-9e31-30f77677b9d8",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Virginia American Water Reiterates Commitment to Environmental Stewardship by Participating in Source Water Protection Week",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/virginia-american-water-reiterates-commitment-190400512.html",
-   "published_unix": 1789585440,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-16T19:32:56"
-  },
-  {
-   "uuid": "fa3e43c0-fd75-31cd-bf02-7093c4751567",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "UNITE HERE Local 11 Releases Letter Urging Yavapai County Sherriff\u2019s Office and Board of Supervisors to Replace Aramark through the RFP for Food, Commissary, and Banking Services",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/small-business/articles/unite-local-11-releases-letter-181700719.html",
-   "published_unix": 1789582620,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-16T19:32:52"
-  },
-  {
-   "uuid": "736f9d20-75e2-3cd1-b85a-1c2d9ea7b276",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces Grand Opening of Luxury Model Home at Enclave Community in Corona, California",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-grand-opening-173000630.html",
-   "published_unix": 1789579800,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-16T19:33:29"
   }
  ]
 }

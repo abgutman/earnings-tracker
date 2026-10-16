@@ -11274,3 +11274,31 @@
 [2026-10-16 15:23:08]   Toll Brothers [yahoo_search]: 13 fetched, 2 new
 [2026-10-16 15:23:09]   Brandywine Realty Trust [yahoo_search]: 10 fetched, 10 new
 [2026-10-16 15:23:09] === Done. 182 new items, 149 total in 720h window ===
+[2026-10-16 19:32:36] === Local news feed poll start ===
+[2026-10-16 19:32:36] 22 active entities
+[2026-10-16 19:32:36]   Comcast [yahoo_search]: 7 fetched, 0 new
+[2026-10-16 19:32:37]   Aramark [yahoo_search]: 9 fetched, 6 new
+[2026-10-16 19:32:38]   Cencora [yahoo_search]: 7 fetched, 0 new
+[2026-10-16 19:32:38]   FMC Corporation [yahoo_search]: 14 fetched, 0 new
+[2026-10-16 19:32:39]   Five Below [yahoo_search]: 3 fetched, 1 new
+[2026-10-16 19:32:39]   Campbell's [yahoo_search]: 3 fetched, 0 new
+[2026-10-16 19:32:40]   Burlington Stores [yahoo_search]: 1 fetched, 0 new
+[2026-10-16 19:32:41]   American Water [yahoo_search]: 17 fetched, 0 new
+[2026-10-16 19:32:41]   Essential Utilities [yahoo_search]: 4 fetched, 1 new
+[2026-10-16 19:32:56]   Independence Blue Cross [wire_page]: 25 fetched, 25 new
+[2026-10-16 19:33:10]   Vanguard [wire_page]: 6 fetched, 6 new
+[2026-10-16 19:33:21]   Wawa [wire_page]: 6 fetched, 6 new
+[2026-10-16 19:33:28]   Gopuff [wire_page]: 3 fetched, 3 new
+[2026-10-16 19:33:48]   fetch err https://www.prnewswire.com/news/pjm-interconnection/: Failed to perform, curl: (28) Operation timed out after 20001 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+[2026-10-16 19:33:48]   PJM Interconnection [wire_page]: 0 fetched, 0 new
+[2026-10-16 19:33:48]   Franklin Biolabs [rss]: 10 fetched, 10 new
+[2026-10-16 19:34:01]   QVC Group [wire_page]: 25 fetched, 25 new
+[2026-10-16 19:34:21]   fetch err https://www.prnewswire.com/news/spark-therapeutics/: Failed to perform, curl: (28) Operation timed out after 20000 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+[2026-10-16 19:34:21]   Spark Therapeutics [wire_page]: 0 fetched, 0 new
+[2026-10-16 19:34:28]   GEMMA Biotherapeutics [wire_page]: 9 fetched, 9 new
+[2026-10-16 19:34:48]   fetch err https://www.prnewswire.com/news/david's-bridal/: Failed to perform, curl: (28) Operation timed out after 20002 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+[2026-10-16 19:34:48]   David's Bridal [wire_page]: 0 fetched, 0 new
+[2026-10-16 19:35:01]   TD Bank [wire_page]: 25 fetched, 25 new
+[2026-10-16 19:35:01]   Toll Brothers [yahoo_search]: 14 fetched, 1 new
+[2026-10-16 19:35:02]   Brandywine Realty Trust [yahoo_search]: 10 fetched, 10 new
+[2026-10-16 19:35:02] === Done. 128 new items, 147 total in 720h window ===
