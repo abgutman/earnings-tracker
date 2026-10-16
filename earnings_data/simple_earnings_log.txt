@@ -4630,3 +4630,5 @@
 [2026-10-16 15:19:44]     https://www.sec.gov/Archives/edgar/data/750558/000119312526423431/qnbc-20261016.htm
 [2026-10-16 15:19:53]     ✉ alert sent (8k_701)
 [2026-10-16 15:19:53] === EDGAR FIREHOSE complete. 1 new detections. ===
+[2026-10-16 17:31:02] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-10-16 17:31:34] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
