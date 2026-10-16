@@ -259,5 +259,25 @@
   "source_publisher": "Business Wire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-10-14T01:27:13"
+ },
+ "UGI": {
+  "release_date": "2026-11-19",
+  "call_date": null,
+  "call_time": null,
+  "source_url": "https://finance.yahoo.com/energy/articles/ugi-corporation-hold-fiscal-2026-201500187.html",
+  "source_title": "UGI Corporation to Hold Fiscal 2026 Earnings Conference Call on Thursday, November 19",
+  "source_publisher": "Business Wire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-10-16T00:49:28"
+ },
+ "VERX": {
+  "release_date": "2026-11-04",
+  "call_date": null,
+  "call_time": null,
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/vertex-announce-third-quarter-2026-200500232.html",
+  "source_title": "Vertex to Announce Third Quarter 2026 Financial Results on Wednesday, November 4, 2026",
+  "source_publisher": "GlobeNewswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-10-16T00:49:48"
  }
 }
