@@ -11222,3 +11222,29 @@
 [2026-10-16 01:19:25]   Toll Brothers [yahoo_search]: 13 fetched, 0 new
 [2026-10-16 01:19:25]   Brandywine Realty Trust [yahoo_search]: 10 fetched, 10 new
 [2026-10-16 01:19:25] === Done. 200 new items, 142 total in 720h window ===
+[2026-10-16 04:22:46] === Local news feed poll start ===
+[2026-10-16 04:22:46] 22 active entities
+[2026-10-16 04:22:47]   Comcast [yahoo_search]: 7 fetched, 0 new
+[2026-10-16 04:22:48]   Aramark [yahoo_search]: 0 fetched, 0 new
+[2026-10-16 04:22:48]   Cencora [yahoo_search]: 6 fetched, 0 new
+[2026-10-16 04:22:49]   FMC Corporation [yahoo_search]: 14 fetched, 0 new
+[2026-10-16 04:22:50]   Five Below [yahoo_search]: 2 fetched, 0 new
+[2026-10-16 04:22:50]   Campbell's [yahoo_search]: 3 fetched, 0 new
+[2026-10-16 04:22:51]   Burlington Stores [yahoo_search]: 1 fetched, 0 new
+[2026-10-16 04:22:52]   American Water [yahoo_search]: 17 fetched, 0 new
+[2026-10-16 04:22:52]   Essential Utilities [yahoo_search]: 5 fetched, 3 new
+[2026-10-16 04:23:12]   fetch err https://www.prnewswire.com/news/independence-blue-cross/: Failed to perform, curl: (28) Operation timed out after 20001 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+[2026-10-16 04:23:13]   Independence Blue Cross [wire_page]: 0 fetched, 0 new
+[2026-10-16 04:23:19]   Vanguard [wire_page]: 6 fetched, 6 new
+[2026-10-16 04:23:23]   Wawa [wire_page]: 6 fetched, 6 new
+[2026-10-16 04:23:31]   Gopuff [wire_page]: 3 fetched, 3 new
+[2026-10-16 04:23:37]   PJM Interconnection [wire_page]: 25 fetched, 24 new
+[2026-10-16 04:23:38]   Franklin Biolabs [rss]: 10 fetched, 10 new
+[2026-10-16 04:23:39]   QVC Group [wire_page]: 25 fetched, 25 new
+[2026-10-16 04:23:50]   Spark Therapeutics [wire_page]: 22 fetched, 22 new
+[2026-10-16 04:23:57]   GEMMA Biotherapeutics [wire_page]: 9 fetched, 9 new
+[2026-10-16 04:24:00]   David's Bridal [wire_page]: 25 fetched, 25 new
+[2026-10-16 04:24:02]   TD Bank [wire_page]: 25 fetched, 25 new
+[2026-10-16 04:24:02]   Toll Brothers [yahoo_search]: 13 fetched, 0 new
+[2026-10-16 04:24:03]   Brandywine Realty Trust [yahoo_search]: 10 fetched, 10 new
+[2026-10-16 04:24:03] === Done. 168 new items, 141 total in 720h window ===
