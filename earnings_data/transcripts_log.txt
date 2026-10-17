@@ -6618,3 +6618,24 @@
 [2026-10-16 22:11:34] No new transcripts found; transcripts.json unchanged
 [2026-10-16 22:11:34] === Done. 0 new transcript links found. ===
 
+[2026-10-17 01:31:37] === Fool transcript harvest start (dry_run=False) ===
+[2026-10-17 01:31:37] Loaded 122 tickers from expanded_companies.json
+[2026-10-17 01:31:37] Recent tickers (last filing within 14d): ['AVBP', 'CRS', 'FMC', 'FSK', 'HCSG', 'HLNE', 'HRMY', 'JNJ', 'OCGN', 'QNBC', 'QNTO']
+[2026-10-17 01:31:37] Seed backfill: all seeds already in state
+[2026-10-17 01:31:37] Fetching Fool transcript index: https://www.fool.com/earnings-call-transcripts/
+[2026-10-17 01:31:38]   Found 20 transcript links on index page
+[2026-10-17 01:31:38]   Fool index matched tickers: []
+[2026-10-17 01:31:38] Yahoo secondary search for 10 tickers: ['AVBP', 'CRS', 'FMC', 'FSK', 'HCSG', 'HLNE', 'HRMY', 'OCGN', 'QNBC', 'QNTO']
+[2026-10-17 01:31:38]   MISS [Yahoo] AVBP: no transcript items in feed
+[2026-10-17 01:31:39]   MISS [Yahoo] CRS: no transcript items in feed
+[2026-10-17 01:31:39]   MISS [Yahoo] FMC: no transcript items in feed
+[2026-10-17 01:31:40]   MISS [Yahoo] FSK: no transcript items in feed
+[2026-10-17 01:31:41]   MISS [Yahoo] HCSG: no transcript items in feed
+[2026-10-17 01:31:41]   MISS [Yahoo] HLNE: no transcript items in feed
+[2026-10-17 01:31:42]   MISS [Yahoo] HRMY: no transcript items in feed
+[2026-10-17 01:31:43]   MISS [Yahoo] OCGN: no transcript items in feed
+[2026-10-17 01:31:43]   MISS [Yahoo] QNBC: no transcript items in feed
+[2026-10-17 01:31:44]   MISS [Yahoo] QNTO: no transcript items in feed
+[2026-10-17 01:31:44] No new transcripts found; transcripts.json unchanged
+[2026-10-17 01:31:44] === Done. 0 new transcript links found. ===
+
