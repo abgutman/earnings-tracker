@@ -660,3 +660,7 @@
 [2026-10-16 00:49:49]   ✉ alert sent for VERX
 [2026-10-16 00:50:34] === Done. Captured 2 new save-the-dates, cleaned 0 past. ===
 
+[2026-10-17 00:48:15] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-10-17 00:48:15] Polling Yahoo for 106 companies
+[2026-10-17 00:49:28] === Done. Captured 0 new save-the-dates, cleaned 0 past. ===
+
