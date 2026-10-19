@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-10-19T17:28:11",
+ "generated_at": "2026-10-19T22:19:52",
  "items": [
+  {
+   "uuid": "377913c6-6f7a-37f4-bbf3-ff4a31e76579",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces Opening of Kennemore Community in Alpharetta, Georgia",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-opening-kennemore-191600001.html",
+   "published_unix": 1792437360,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-19T22:19:51"
+  },
   {
    "uuid": "36909c42-baf7-35a5-8f16-322bccef0598",
    "tickers": [
