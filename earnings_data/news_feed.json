@@ -1,6 +1,58 @@
 {
- "generated_at": "2026-10-17T04:17:07",
+ "generated_at": "2026-10-19T17:28:11",
  "items": [
+  {
+   "uuid": "36909c42-baf7-35a5-8f16-322bccef0598",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Reliable, High-Speed Internet from Xfinity Now Available in Willis, Texas",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/articles/reliable-high-speed-internet-xfinity-170000424.html",
+   "published_unix": 1792429200,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-19T17:27:29"
+  },
+  {
+   "uuid": "91044424-574d-3fc5-b5fb-8360846443e2",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "Campbell's",
+   "title": "Better Dividend Stock for Retirees: General Mills vs. Campbell\u2019s",
+   "publisher": "TIKR",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/better-dividend-stock-retirees-general-160844346.html",
+   "published_unix": 1792426124,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-19T17:27:32"
+  },
+  {
+   "uuid": "90f32b5e-20a6-3d27-9efc-5e05d1acde6e",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark to Host Conference Call on Fourth Quarter and Full Year Fiscal 2026 Results",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-host-conference-call-fourth-113000934.html",
+   "published_unix": 1792409400,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-19T17:27:30"
+  },
+  {
+   "uuid": "f56c22d3-5cd6-3046-b6d2-b64040e3d1c3",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Barclays Adjusts Price Target on American Water Works to $127 From $130",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-adjusts-price-target-american-100829755.html",
+   "published_unix": 1792404509,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-19T17:27:33"
+  },
   {
    "uuid": "f7341c04-bfb1-3283-a867-1cf3e8edbb9b",
    "tickers": [
@@ -1755,110 +1807,6 @@
    "published_unix": 1789990200,
    "source_type": "yahoo",
    "captured_at": "2026-09-21T17:01:49"
-  },
-  {
-   "uuid": "0cec7cfd-04b9-3af4-95d1-23149072e593",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Summercrest by Toll Brothers Now Open in Estero, Florida",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/summercrest-toll-brothers-now-open-151000643.html",
-   "published_unix": 1789744200,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-18T18:27:21"
-  },
-  {
-   "uuid": "d435a5c9-3449-32de-a850-0eb9cbf238a4",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "Five Below",
-   "title": "Littlest Pet Shop and LIKE NASTYA, Global YouTube Sensation, Launch First-Ever Collab Collection at Global Retailers and Announce Special Event at Five Below in New York City",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/media-advertising/articles/littlest-pet-shop-nastya-global-110000100.html",
-   "published_unix": 1789729200,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-18T14:58:30"
-  },
-  {
-   "uuid": "982a9201-b56a-3c96-b2d6-964ccd808140",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC Corporation",
-   "title": "FMC, AgroSpheres Advance Bioinsecticide Candidates Into Global Field Trials",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/fmc-agrospheres-advance-bioinsecticide-candidates-163116072.html",
-   "published_unix": 1789662676,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-17T19:43:03"
-  },
-  {
-   "uuid": "4b9de1a4-5381-391f-a776-fcf25888d39b",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "American Water Charitable Foundation Awards $50,000 in Workforce Readiness and STEM Education Grants in Virginia",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/small-business/articles/american-water-charitable-foundation-awards-131400075.html",
-   "published_unix": 1789650840,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-17T15:31:58"
-  },
-  {
-   "uuid": "3451f06d-5a36-3d52-a03c-6712f167572f",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "American Water Charitable Foundation Awards $50,000 in Workforce Readiness and STEM Education Grants in Maryland",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/small-business/articles/american-water-charitable-foundation-awards-131100663.html",
-   "published_unix": 1789650660,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-17T15:31:58"
-  },
-  {
-   "uuid": "2be48fd8-82dc-30b5-b36f-00c3b24ba106",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC Corporation",
-   "title": "From Lab to Three Continents: AgroSpheres and FMC Corporation Advance Bioinsecticide Pipeline Into Global Field Trials",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/healthcare/articles/lab-three-continents-agrospheres-fmc-114500374.html",
-   "published_unix": 1789645500,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-17T15:31:55"
-  },
-  {
-   "uuid": "a0209e27-234c-33d3-a231-63cc1f3c9c7c",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Missouri American Water Supports Local Heroes Through 2026 Firefighter Grant Program",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/small-business/articles/missouri-american-water-supports-local-110000572.html",
-   "published_unix": 1789642800,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-17T15:31:58"
-  },
-  {
-   "uuid": "4df30108-b5b0-3658-8a27-388b60aec1ea",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "Five Below",
-   "title": "FIVE- A Discount Retailer Reporting Rock-Solid Results",
-   "publisher": "MoneyShow",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/five-discount-retailer-reporting-rock-050100282.html",
-   "published_unix": 1789621260,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-18T04:35:00"
   }
  ]
 }
