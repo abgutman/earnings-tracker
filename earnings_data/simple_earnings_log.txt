@@ -4653,3 +4653,11 @@
 [2026-10-16 23:44:33] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
 [2026-10-17 00:49:28] === CHECK-10Q: scanning for pending 10-Q filings ===
 [2026-10-17 00:49:31] === CHECK-10Q complete. Checked 9, found 0, cleared 0 stale. ===
+[2026-10-19 17:24:56] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-10-19 17:24:56]   firehose: 8-K feed — 100 entries parsed
+[2026-10-19 17:24:56]   firehose: 10-Q feed — 28 entries parsed
+[2026-10-19 17:24:56]   firehose: 100 watched CIKs, 128 total feed entries
+[2026-10-19 17:24:57]   ★ NEW 8k_701 for AVBP (ArriVent BioPharma, Inc.) filed 2026-10-19
+[2026-10-19 17:24:57]     https://www.sec.gov/Archives/edgar/data/1868279/000110465926116736/tm2627799d1_8k.htm
+[2026-10-19 17:24:59]     ✉ alert sent (8k_701)
+[2026-10-19 17:24:59] === EDGAR FIREHOSE complete. 1 new detections. ===
