@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-10-19T22:19:52",
+ "generated_at": "2026-10-20T01:49:32",
  "items": [
+  {
+   "uuid": "9869ad02-8e6b-33ac-996a-6f15f9a79453",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Better Dividend Stock for Retirees: AT&T vs. Comcast",
+   "publisher": "TIKR",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/better-dividend-stock-retirees-t-223701667.html",
+   "published_unix": 1792449421,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-20T01:48:48"
+  },
   {
    "uuid": "377913c6-6f7a-37f4-bbf3-ff4a31e76579",
    "tickers": [
