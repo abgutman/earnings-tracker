@@ -279,5 +279,15 @@
   "source_publisher": "GlobeNewswire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-10-16T00:49:48"
+ },
+ "ARMK": {
+  "release_date": null,
+  "call_date": "2026-11-16",
+  "call_time": "08:30 ET",
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/aramark-host-conference-call-fourth-113000934.html",
+  "source_title": "Aramark to Host Conference Call on Fourth Quarter and Full Year Fiscal 2026 Results",
+  "source_publisher": "Business Wire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-10-20T01:18:28"
  }
 }

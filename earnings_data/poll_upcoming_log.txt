@@ -664,3 +664,10 @@
 [2026-10-17 00:48:15] Polling Yahoo for 106 companies
 [2026-10-17 00:49:28] === Done. Captured 0 new save-the-dates, cleaned 0 past. ===
 
+[2026-10-20 01:18:25] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-10-20 01:18:25] Polling Yahoo for 106 companies
+[2026-10-20 01:18:28]   + ARMK: release=None call=2026-11-16 08:30 ET
+[2026-10-20 01:18:28]     via: Aramark to Host Conference Call on Fourth Quarter and Full Year Fiscal 2026 Results
+[2026-10-20 01:18:29]   ✉ alert sent for ARMK
+[2026-10-20 01:19:50] === Done. Captured 1 new save-the-dates, cleaned 0 past. ===
+
