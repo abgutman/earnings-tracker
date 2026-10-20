@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-10-20T04:40:41",
+ "generated_at": "2026-10-20T15:39:08",
  "items": [
+  {
+   "uuid": "fd0d0f36-c347-37ce-8e29-bdd4a38df76d",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "Argus Research Adjusts Cencora Price Target to $380 From $340",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/argus-research-adjusts-cencora-price-122339301.html",
+   "published_unix": 1792499019,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-20T15:38:24"
+  },
   {
    "uuid": "9869ad02-8e6b-33ac-996a-6f15f9a79453",
    "tickers": [
