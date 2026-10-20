@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-10-20T15:39:08",
+ "generated_at": "2026-10-20T19:59:36",
  "items": [
+  {
+   "uuid": "f8732e68-6047-3fc0-88eb-caaf552759ba",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Kentucky American Water President Addresses ASCE 2026 Report Card for Kentucky's Infrastructure",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/kentucky-american-water-president-addresses-180000802.html",
+   "published_unix": 1792519200,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-20T19:59:06"
+  },
   {
    "uuid": "fd0d0f36-c347-37ce-8e29-bdd4a38df76d",
    "tickers": [
