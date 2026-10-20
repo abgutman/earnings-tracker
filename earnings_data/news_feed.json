@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-10-20T19:59:36",
+ "generated_at": "2026-10-20T23:11:09",
  "items": [
+  {
+   "uuid": "ee935db1-16fe-3df5-a61e-a0d37b999145",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Indiana American Water Proudly Recognizes $25,000 American Water Charitable Foundation STEM Education Grant to Girls Inc. of Shelbyville",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/indiana-american-water-proudly-recognizes-204000909.html",
+   "published_unix": 1792528800,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-20T23:09:56"
+  },
+  {
+   "uuid": "daad4b5b-a0a5-3ea3-a785-39c480d801a6",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Tacoma, Washington",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-201200166.html",
+   "published_unix": 1792527120,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-20T23:11:09"
+  },
   {
    "uuid": "f8732e68-6047-3fc0-88eb-caaf552759ba",
    "tickers": [
