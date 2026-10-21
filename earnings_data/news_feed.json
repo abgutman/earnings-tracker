@@ -1,6 +1,58 @@
 {
- "generated_at": "2026-10-21T04:35:34",
+ "generated_at": "2026-10-21T15:56:35",
  "items": [
+  {
+   "uuid": "dedf480b-d80f-3930-b391-1123326afb62",
+   "tickers": [
+    "WTRG"
+   ],
+   "company": "Essential Utilities",
+   "title": "Essential Utilities Declares December 2026 Dividend",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/essential-utilities-declares-december-2026-154700290.html",
+   "published_unix": 1792597620,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-21T15:56:06"
+  },
+  {
+   "uuid": "45ff871b-7d23-3b90-8275-e212e2ea52e7",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces Waterford Pointe Community Now Open in Piedmont, South Carolina",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-waterford-pointe-144000983.html",
+   "published_unix": 1792593600,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-21T15:56:34"
+  },
+  {
+   "uuid": "5c8bdbda-a4f5-3fe1-8d77-7ff4ab60a785",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "Cencora to Acquire American Oncology Network",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/cencora-acquire-american-oncology-network-115414933.html",
+   "published_unix": 1792583654,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-21T15:56:02"
+  },
+  {
+   "uuid": "cc748e3f-7e2c-3f3f-bce9-62c8b022b488",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "Cencora to Acquire American Oncology Network to Strengthen Support of Community Oncology",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/healthcare/articles/cencora-acquire-american-oncology-network-113000056.html",
+   "published_unix": 1792582200,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-21T15:56:02"
+  },
   {
    "uuid": "ee935db1-16fe-3df5-a61e-a0d37b999145",
    "tickers": [
@@ -1859,32 +1911,6 @@
    "published_unix": 1790011020,
    "source_type": "yahoo",
    "captured_at": "2026-09-21T21:02:58"
-  },
-  {
-   "uuid": "b71e7311-7dcd-3b9c-b493-7ac5ac63af55",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Reliable, High-Speed Internet from Xfinity Now Available in Chanhassen and Nowthen, Minnesota",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/articles/reliable-high-speed-internet-xfinity-131500077.html",
-   "published_unix": 1789996500,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-21T17:01:48"
-  },
-  {
-   "uuid": "eb683e3f-17b8-3ac6-a38e-eceb2c4821ae",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Aramark Healthcare+ Named Top Overall Supplier on Modern Healthcare's \"Best Places to Work\u2122 in Healthcare\" List",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/healthcare/articles/aramark-healthcare-named-top-overall-113000646.html",
-   "published_unix": 1789990200,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-21T17:01:49"
   }
  ]
 }

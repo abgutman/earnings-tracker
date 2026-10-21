@@ -11603,3 +11603,28 @@
 [2026-10-21 04:35:33]   Toll Brothers [yahoo_search]: 9 fetched, 0 new
 [2026-10-21 04:35:34]   Brandywine Realty Trust [yahoo_search]: 8 fetched, 8 new
 [2026-10-21 04:35:34] === Done. 196 new items, 145 total in 720h window ===
+[2026-10-21 15:56:00] === Local news feed poll start ===
+[2026-10-21 15:56:00] 22 active entities
+[2026-10-21 15:56:00]   Comcast [yahoo_search]: 3 fetched, 0 new
+[2026-10-21 15:56:01]   Aramark [yahoo_search]: 0 fetched, 0 new
+[2026-10-21 15:56:02]   Cencora [yahoo_search]: 10 fetched, 2 new
+[2026-10-21 15:56:03]   FMC Corporation [yahoo_search]: 11 fetched, 0 new
+[2026-10-21 15:56:03]   Five Below [yahoo_search]: 2 fetched, 0 new
+[2026-10-21 15:56:04]   Campbell's [yahoo_search]: 3 fetched, 0 new
+[2026-10-21 15:56:05]   Burlington Stores [yahoo_search]: 1 fetched, 0 new
+[2026-10-21 15:56:05]   American Water [yahoo_search]: 16 fetched, 0 new
+[2026-10-21 15:56:06]   Essential Utilities [yahoo_search]: 5 fetched, 2 new
+[2026-10-21 15:56:10]   Independence Blue Cross [wire_page]: 25 fetched, 25 new
+[2026-10-21 15:56:14]   Vanguard [wire_page]: 6 fetched, 6 new
+[2026-10-21 15:56:16]   Wawa [wire_page]: 6 fetched, 6 new
+[2026-10-21 15:56:17]   Gopuff [wire_page]: 3 fetched, 3 new
+[2026-10-21 15:56:19]   PJM Interconnection [wire_page]: 25 fetched, 24 new
+[2026-10-21 15:56:19]   Franklin Biolabs [rss]: 10 fetched, 10 new
+[2026-10-21 15:56:27]   QVC Group [wire_page]: 24 fetched, 24 new
+[2026-10-21 15:56:29]   Spark Therapeutics [wire_page]: 22 fetched, 22 new
+[2026-10-21 15:56:30]   GEMMA Biotherapeutics [wire_page]: 9 fetched, 9 new
+[2026-10-21 15:56:32]   David's Bridal [wire_page]: 25 fetched, 25 new
+[2026-10-21 15:56:34]   TD Bank [wire_page]: 25 fetched, 25 new
+[2026-10-21 15:56:34]   Toll Brothers [yahoo_search]: 9 fetched, 1 new
+[2026-10-21 15:56:35]   Brandywine Realty Trust [yahoo_search]: 7 fetched, 7 new
+[2026-10-21 15:56:35] === Done. 191 new items, 147 total in 720h window ===
