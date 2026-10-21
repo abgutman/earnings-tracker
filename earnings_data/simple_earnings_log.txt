@@ -4711,3 +4711,17 @@
 [2026-10-21 01:03:46]   HRMY: pending_10q_since=2026-10-13 is 8d old — clearing stale flag
 [2026-10-21 01:03:47]   JNJ: pending_10q_since=2026-10-13 is 8d old — clearing stale flag
 [2026-10-21 01:03:47] === CHECK-10Q complete. Checked 7, found 0, cleared 2 stale. ===
+[2026-10-21 15:54:31] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-10-21 15:54:31]   firehose: 8-K feed — 100 entries parsed
+[2026-10-21 15:54:31]   firehose: 10-Q feed — 37 entries parsed
+[2026-10-21 15:54:31]   firehose: 100 watched CIKs, 137 total feed entries
+[2026-10-21 15:54:32]   ★ NEW 8k_202 for PKBK (PARKE BANCORP, INC.) filed 2026-10-21
+[2026-10-21 15:54:32]     https://www.sec.gov/Archives/edgar/data/1315399/000143774926033062/pkbk20260821_8k.htm
+[2026-10-21 15:54:33]     ✉ alert sent (8k_202)
+[2026-10-21 15:54:34]   ★ NEW 8k_202 for COR (Cencora, Inc.) filed 2026-10-21
+[2026-10-21 15:54:34]     https://www.sec.gov/Archives/edgar/data/1140859/000110465926117576/tm2627778d1_8k.htm
+[2026-10-21 15:54:35]     ✉ alert sent (8k_202)
+[2026-10-21 15:54:35]   ★ NEW 8k_202 for HCSG (HEALTHCARE SERVICES GROUP INC) filed 2026-10-21
+[2026-10-21 15:54:35]     https://www.sec.gov/Archives/edgar/data/731012/000073101226000055/hcsg-20261021.htm
+[2026-10-21 15:54:36]     ✉ alert sent (8k_202)
+[2026-10-21 15:54:36] === EDGAR FIREHOSE complete. 3 new detections. ===
