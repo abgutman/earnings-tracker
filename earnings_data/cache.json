@@ -662,8 +662,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1802665/000110465926115282/hrmy-20261012x8k.htm",
   "last_detected_at": "2026-10-13T18:06:34.972665+00:00",
   "last_8k_detected_at": "2026-10-13T18:06:34.972665+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-10-13"
+  "last_10q_url": null
  },
  "INO": {
   "ticker": "INO",
@@ -2287,8 +2286,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000189/jnj-20261013.htm",
   "last_detected_at": "2026-10-13T18:06:34.972665+00:00",
   "last_8k_detected_at": "2026-10-13T18:06:34.972665+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-10-13"
+  "last_10q_url": null
  },
  "MRK": {
   "ticker": "MRK",

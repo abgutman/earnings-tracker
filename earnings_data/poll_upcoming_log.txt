@@ -671,3 +671,10 @@
 [2026-10-20 01:18:29]   ✉ alert sent for ARMK
 [2026-10-20 01:19:50] === Done. Captured 1 new save-the-dates, cleaned 0 past. ===
 
+[2026-10-21 01:02:29] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-10-21 01:02:29] Polling Yahoo for 106 companies
+[2026-10-21 01:02:49]   + HRMY: release=2026-11-04 call=None None
+[2026-10-21 01:02:49]     via: Harmony Biosciences to Report Third Quarter 2026 Financial Results on November 4, 2026
+[2026-10-21 01:02:52]   ✉ alert sent for HRMY
+[2026-10-21 01:03:45] === Done. Captured 1 new save-the-dates, cleaned 0 past. ===
+

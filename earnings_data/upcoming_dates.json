@@ -289,5 +289,15 @@
   "source_publisher": "Business Wire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-10-20T01:18:28"
+ },
+ "HRMY": {
+  "release_date": "2026-11-04",
+  "call_date": null,
+  "call_time": null,
+  "source_url": "https://finance.yahoo.com/healthcare/articles/harmony-biosciences-report-third-quarter-120500758.html",
+  "source_title": "Harmony Biosciences to Report Third Quarter 2026 Financial Results on November 4, 2026",
+  "source_publisher": "GlobeNewswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-10-21T01:02:49"
  }
 }
