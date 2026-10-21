@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-10-21T15:56:35",
+ "generated_at": "2026-10-21T20:08:43",
  "items": [
+  {
+   "uuid": "a1445e22-84d6-3505-8cfe-52edc0620d1f",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "UnitedHealth Sued by Aramark, Kraft, Others Over Claims Handling",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/unitedhealth-sued-aramark-kraft-others-175732023.html",
+   "published_unix": 1792605452,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-21T20:08:01"
+  },
+  {
+   "uuid": "44b28bd8-4056-3b5c-b5b4-ca6e717f8e07",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "Baird Adjusts Price Target on Cencora to $375 From $373",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/baird-adjusts-price-target-cencora-155546159.html",
+   "published_unix": 1792598146,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-21T20:08:02"
+  },
   {
    "uuid": "dedf480b-d80f-3930-b391-1123326afb62",
    "tickers": [
@@ -1859,58 +1885,6 @@
    "published_unix": 1790022600,
    "source_type": "yahoo",
    "captured_at": "2026-09-21T21:02:55"
-  },
-  {
-   "uuid": "44abb9e3-0ded-3c76-880b-1e0a88113701",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces Final Opportunity to Own a New Home at Lacamas Hills in Camas, Washington",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-final-opportunity-193900025.html",
-   "published_unix": 1790019540,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-21T21:03:15"
-  },
-  {
-   "uuid": "65b6a002-8307-3167-98f1-1ebd50ccc4fe",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "Campbell's",
-   "title": "Campbell's CEO did not mince words about why the company has to act",
-   "publisher": "TheStreet",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/campbells-ceo-did-not-mince-183300646.html",
-   "published_unix": 1790015580,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-21T21:02:57"
-  },
-  {
-   "uuid": "f3cee9da-d922-37fc-a6d1-d5099b93c295",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Indiana American Water Proudly Recognizes American Water Charitable Foundation STEM Education Grant to Girl Scouts of Kentuckiana",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/small-business/articles/indiana-american-water-proudly-recognizes-172000885.html",
-   "published_unix": 1790011200,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-21T21:02:58"
-  },
-  {
-   "uuid": "e7957d3b-1b96-3a39-b737-74a5c83bb082",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "American Water Named to TIME's World's Best Companies 2026 List",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/american-water-named-times-worlds-171700810.html",
-   "published_unix": 1790011020,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-21T21:02:58"
   }
  ]
 }
