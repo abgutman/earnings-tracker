@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-10-21T20:08:43",
+ "generated_at": "2026-10-21T23:19:43",
  "items": [
+  {
+   "uuid": "0e4f3fe9-f54d-3be5-bd08-9c70b90a7514",
+   "tickers": [
+    "BDN"
+   ],
+   "company": "Brandywine Realty Trust",
+   "title": "Brandywine Realty Trust: Q3 Earnings Snapshot",
+   "publisher": "Associated Press",
+   "link": "https://finance.yahoo.com/real-estate/articles/brandywine-realty-trust-q3-earnings-205013996.html",
+   "published_unix": 1792615813,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-21T23:19:43"
+  },
+  {
+   "uuid": "0e4de161-cb93-3528-aecb-8697dcc46afd",
+   "tickers": [
+    "BDN"
+   ],
+   "company": "Brandywine Realty Trust",
+   "title": "Brandywine Realty Trust Announces Third Quarter 2026 Results",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/brandywine-realty-trust-announces-third-203500093.html",
+   "published_unix": 1792614900,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-21T23:19:43"
+  },
   {
    "uuid": "a1445e22-84d6-3505-8cfe-52edc0620d1f",
    "tickers": [
@@ -1872,19 +1898,6 @@
    "published_unix": 1790075283,
    "source_type": "yahoo",
    "captured_at": "2026-09-22T15:30:40"
-  },
-  {
-   "uuid": "41b9705a-6a90-3540-a2a5-238ad92754e1",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC Corporation",
-   "title": "FMC Corporation announces date for third quarter 2026 earnings release and webcast conference call",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-corporation-announces-date-third-203000209.html",
-   "published_unix": 1790022600,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-21T21:02:55"
   }
  ]
 }
