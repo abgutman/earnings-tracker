@@ -678,3 +678,11 @@
 [2026-10-21 01:02:52]   ✉ alert sent for HRMY
 [2026-10-21 01:03:45] === Done. Captured 1 new save-the-dates, cleaned 0 past. ===
 
+[2026-10-22 00:57:31] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-10-22 00:57:31] Polling Yahoo for 106 companies
+[2026-10-22 00:58:06]   + AHCO: release=2026-11-03 call=None None
+[2026-10-22 00:58:06]     via: AdaptHealth Corp. Announces Third Quarter 2026 Earnings Release Date and Conference Call
+[2026-10-22 00:58:07]   ✉ alert sent for AHCO
+[2026-10-22 00:58:44]   cleanup: removed 1 past entries
+[2026-10-22 00:58:44] === Done. Captured 1 new save-the-dates, cleaned 1 past. ===
+

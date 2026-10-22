@@ -170,16 +170,6 @@
   "source_type": "yahoo_auto",
   "captured_at": "2026-10-08T02:18:27"
  },
- "SEIC": {
-  "release_date": "2026-10-21",
-  "call_date": null,
-  "call_time": null,
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/sei-announce-third-quarter-2026-130000071.html",
-  "source_title": "SEI to Announce Third-Quarter 2026 Earnings on Wednesday, October 21, 2026",
-  "source_publisher": "PR Newswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-10-09T02:35:47"
- },
  "WST": {
   "release_date": "2026-10-29",
   "call_date": null,
@@ -299,5 +289,15 @@
   "source_publisher": "GlobeNewswire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-10-21T01:02:49"
+ },
+ "AHCO": {
+  "release_date": "2026-11-03",
+  "call_date": null,
+  "call_time": null,
+  "source_url": "https://finance.yahoo.com/healthcare/articles/adapthealth-corp-announces-third-quarter-120000968.html",
+  "source_title": "AdaptHealth Corp. Announces Third Quarter 2026 Earnings Release Date and Conference Call",
+  "source_publisher": "Business Wire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-10-22T00:58:06"
  }
 }

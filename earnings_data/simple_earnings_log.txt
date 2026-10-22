@@ -4754,3 +4754,5 @@
 [2026-10-21 23:10:16]   firehose: 10-Q feed — 65 entries parsed
 [2026-10-21 23:10:16]   firehose: 100 watched CIKs, 165 total feed entries
 [2026-10-21 23:10:16] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-10-22 00:58:44] === CHECK-10Q: scanning for pending 10-Q filings ===
+[2026-10-22 00:58:48] === CHECK-10Q complete. Checked 11, found 0, cleared 0 stale. ===
