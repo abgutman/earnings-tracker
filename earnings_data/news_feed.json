@@ -1,6 +1,71 @@
 {
- "generated_at": "2026-10-22T15:52:31",
+ "generated_at": "2026-10-22T20:06:25",
  "items": [
+  {
+   "uuid": "2c0220e3-01fd-3c2c-b2a7-04ea5276d81b",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Works' Pennsylvania Unit Awarded $42.65 Million for Water, Wastewater Projects",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/american-water-works-apos-pennsylvania-194830579.html",
+   "published_unix": 1792698510,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-22T20:05:29"
+  },
+  {
+   "uuid": "607c5452-bb43-3078-adde-5abf5d6ca38c",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Pennsylvania American Water Awarded PENNVEST Funding Totaling $42+ Million for Water and Wastewater Infrastructure Improvement Projects in Lackawanna and Montgomery Counties",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/economy/policy/articles/pennsylvania-american-water-awarded-pennvest-192200468.html",
+   "published_unix": 1792696920,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-22T20:05:29"
+  },
+  {
+   "uuid": "16ac98ef-d69d-3f28-913b-c75d0b23123a",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Walpole, Massachusetts",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-191200202.html",
+   "published_unix": 1792696320,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-22T20:06:24"
+  },
+  {
+   "uuid": "dda41e81-73bd-3e26-9297-098d470d8333",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces Grand Opening of 280 North at Doylestown in Bucks County, Pennsylvania",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-grand-opening-191100451.html",
+   "published_unix": 1792696260,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-22T20:06:24"
+  },
+  {
+   "uuid": "1dcab8bd-2823-3260-a09f-1a5270cf0541",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Quarterly Results Top Views Despite Continued Domestic Broadband Subscriber Losses",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-quarterly-results-top-views-170449881.html",
+   "published_unix": 1792688689,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-22T20:05:25"
+  },
   {
    "uuid": "d5908cfb-12a1-3391-bdc0-10f9f94c154a",
    "tickers": [
@@ -15,6 +80,19 @@
    "captured_at": "2026-10-22T15:52:09"
   },
   {
+   "uuid": "5eee6ac6-3f88-3c70-a5a5-9b68efc90cb2",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast adjusted earnings fall as broadband losses weigh",
+   "publisher": "Proactive",
+   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-adjusted-earnings-fall-broadband-143100786.html",
+   "published_unix": 1792679460,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-22T20:05:25"
+  },
+  {
    "uuid": "12b5726f-e0c7-38da-b773-0ddd25060802",
    "tickers": [
     "CMCSA"
@@ -26,6 +104,19 @@
    "published_unix": 1792676760,
    "source_type": "yahoo",
    "captured_at": "2026-10-22T15:52:04"
+  },
+  {
+   "uuid": "c94559b5-24b1-300d-90ab-cb3cd05c71e6",
+   "tickers": [
+    "BDN"
+   ],
+   "company": "Brandywine Realty Trust",
+   "title": "Brandywine Realty Trust Q3 2026 Earnings Call Summary",
+   "publisher": "Moby",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/brandywine-realty-trust-q3-2026-123000870.html",
+   "published_unix": 1792672200,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-22T20:06:25"
   },
   {
    "uuid": "e9db4f20-1e55-31a4-9000-94e8e4f6986a",
@@ -1987,32 +2078,6 @@
    "published_unix": 1790169024,
    "source_type": "yahoo",
    "captured_at": "2026-09-23T15:26:18"
-  },
-  {
-   "uuid": "6cbe8310-c060-3aa3-9607-2fc6da581258",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces Final Opportunity in Myrtle Beach Community in South Carolina",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-final-opportunity-195900368.html",
-   "published_unix": 1790107140,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-23T04:38:44"
-  },
-  {
-   "uuid": "601f5a3b-c08a-3c82-8290-17fd9804fa58",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces New Collection of Luxury Townhomes Coming Soon to The River District in Charlotte, North Carolina",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-collection-luxury-195900360.html",
-   "published_unix": 1790107140,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-23T04:38:44"
   }
  ]
 }
