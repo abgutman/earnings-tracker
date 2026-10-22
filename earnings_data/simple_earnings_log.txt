@@ -4799,3 +4799,8 @@
 [2026-10-22 21:53:01]     https://www.sec.gov/Archives/edgar/data/1166691/000162828026066863/cmcsa-20260930.htm
 [2026-10-22 21:53:02]     ✉ alert sent (10q)
 [2026-10-22 21:53:02] === EDGAR FIREHOSE complete. 3 new detections. ===
+[2026-10-22 23:12:42] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-10-22 23:12:43]   firehose: 8-K feed — 100 entries parsed
+[2026-10-22 23:12:44]   firehose: 10-Q feed — 100 entries parsed
+[2026-10-22 23:12:44]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-10-22 23:12:44] === EDGAR FIREHOSE complete. 0 new detections. ===
