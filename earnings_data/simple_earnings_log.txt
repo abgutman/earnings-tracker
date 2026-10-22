@@ -4766,3 +4766,9 @@
 [2026-10-22 15:50:51]     https://www.sec.gov/Archives/edgar/data/1166691/000162828026066783/cmcsa-20261022.htm
 [2026-10-22 15:50:52]     ✉ alert sent (8k_202)
 [2026-10-22 15:50:52] === EDGAR FIREHOSE complete. 1 new detections. ===
+[2026-10-22 18:02:27] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-10-22 18:02:29]   ★ NEW 8k_202 for BDN (BRANDYWINE REALTY TRUST) filed 2026-10-22
+[2026-10-22 18:02:29]     https://www.sec.gov/Archives/edgar/data/790816/000079081626000041/bdn-20261021.htm
+[2026-10-22 18:02:31]     ✉ alert sent (8k_202)
+[2026-10-22 18:02:31]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0000790816.json'
+[2026-10-22 18:03:12] === EDGAR POLL complete. Fetched 100 companies, 1 new filings. ===
