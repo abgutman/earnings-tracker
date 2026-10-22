@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T23:19:43",
+ "generated_at": "2026-10-22T04:34:08",
  "items": [
   {
    "uuid": "0e4f3fe9-f54d-3be5-bd08-9c70b90a7514",
@@ -65,6 +65,17 @@
    "published_unix": 1792597620,
    "source_type": "yahoo",
    "captured_at": "2026-10-21T15:56:06"
+  },
+  {
+   "uuid": "84bbd97840165b4a2aca5b804e35e1913a927f0a",
+   "tickers": [],
+   "company": "QVC Group",
+   "title": "QVC Unwraps Holiday Magic with Danielle Fishel as Its Mrs. Claus",
+   "publisher": "PR Newswire",
+   "link": "https://www.prnewswire.com/news-releases/qvc-unwraps-holiday-magic-with-danielle-fishel-as-its-mrs-claus-302915654.html",
+   "published_unix": 1792595400,
+   "source_type": "wire",
+   "captured_at": "2026-10-22T04:33:56"
   },
   {
    "uuid": "45ff871b-7d23-3b90-8275-e212e2ea52e7",
