@@ -4756,3 +4756,13 @@
 [2026-10-21 23:10:16] === EDGAR FIREHOSE complete. 0 new detections. ===
 [2026-10-22 00:58:44] === CHECK-10Q: scanning for pending 10-Q filings ===
 [2026-10-22 00:58:48] === CHECK-10Q complete. Checked 11, found 0, cleared 0 stale. ===
+[2026-10-22 15:50:50] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-10-22 15:50:50]   firehose: 8-K feed — 100 entries parsed
+[2026-10-22 15:50:50]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-10-22 15:50:50]   firehose: 8-K page 2 — 100 entries
+[2026-10-22 15:50:51]   firehose: 10-Q feed — 77 entries parsed
+[2026-10-22 15:50:51]   firehose: 100 watched CIKs, 277 total feed entries
+[2026-10-22 15:50:51]   ★ NEW 8k_202 for CMCSA (COMCAST CORP) filed 2026-10-22
+[2026-10-22 15:50:51]     https://www.sec.gov/Archives/edgar/data/1166691/000162828026066783/cmcsa-20261022.htm
+[2026-10-22 15:50:52]     ✉ alert sent (8k_202)
+[2026-10-22 15:50:52] === EDGAR FIREHOSE complete. 1 new detections. ===
