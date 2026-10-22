@@ -6813,3 +6813,27 @@
 [2026-10-22 01:50:59] Saved transcripts.json (48 tickers with entries)
 [2026-10-22 01:50:59] === Done. 1 new transcript links found. ===
 
+[2026-10-22 19:28:49] === Fool transcript harvest start (dry_run=False) ===
+[2026-10-22 19:28:49] Loaded 122 tickers from expanded_companies.json
+[2026-10-22 19:28:49] Recent tickers (last filing within 14d): ['AVBP', 'BDN', 'CMCSA', 'COR', 'CRS', 'FMC', 'FSK', 'HCSG', 'HLNE', 'HRMY', 'JNJ', 'OCGN', 'PKBK', 'QNBC', 'QNTO', 'SEIC']
+[2026-10-22 19:28:49] Seed backfill: all seeds already in state
+[2026-10-22 19:28:49] Fetching Fool transcript index: https://www.fool.com/earnings-call-transcripts/
+[2026-10-22 19:28:50]   Found 20 transcript links on index page
+[2026-10-22 19:28:50]   Fool index matched tickers: []
+[2026-10-22 19:28:50] Yahoo secondary search for 13 tickers: ['AVBP', 'BDN', 'CMCSA', 'COR', 'CRS', 'FMC', 'FSK', 'HLNE', 'HRMY', 'OCGN', 'PKBK', 'QNBC', 'QNTO']
+[2026-10-22 19:28:51]   MISS [Yahoo] AVBP: no transcript items in feed
+[2026-10-22 19:28:52]   NEW [Yahoo] BDN: https://finance.yahoo.com/real-estate/articles/brandywine-realty-bdn-q3-2026-172956546.html (Motley Fool)
+[2026-10-22 19:28:53]   NEW [Yahoo] CMCSA: https://finance.yahoo.com/markets/stocks/articles/comcast-cmcsa-q3-2026-earnings-181524027.html (Motley Fool)
+[2026-10-22 19:28:53]   MISS [Yahoo] COR: no transcript items in feed
+[2026-10-22 19:28:54]   NEW [Yahoo] CRS: https://finance.yahoo.com/markets/stocks/articles/carpenter-technology-crs-q1-2027-165810061.html (Motley Fool)
+[2026-10-22 19:28:55]   MISS [Yahoo] FMC: no transcript items in feed
+[2026-10-22 19:28:56]   MISS [Yahoo] FSK: no transcript items in feed
+[2026-10-22 19:28:56]   MISS [Yahoo] HLNE: no transcript items in feed
+[2026-10-22 19:28:57]   MISS [Yahoo] HRMY: no transcript items in feed
+[2026-10-22 19:28:58]   MISS [Yahoo] OCGN: no transcript items in feed
+[2026-10-22 19:28:59]   MISS [Yahoo] PKBK: no transcript items in feed
+[2026-10-22 19:28:59]   MISS [Yahoo] QNBC: no transcript items in feed
+[2026-10-22 19:29:00]   MISS [Yahoo] QNTO: no transcript items in feed
+[2026-10-22 19:29:00] Saved transcripts.json (49 tickers with entries)
+[2026-10-22 19:29:00] === Done. 3 new transcript links found. ===
+

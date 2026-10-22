@@ -44,6 +44,15 @@
    "url": "https://finance.yahoo.com/m/cb32d4fb-6ff8-3ef3-9159-ab2e2af674e1/american-water-works-%28awk%29-q2.html"
   }
  ],
+ "BDN": [
+  {
+   "date_str": "2026-10-22",
+   "found_at": "2026-10-22T19:28:52",
+   "source": "Motley Fool",
+   "title": "Brandywine Realty (BDN) Q3 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/real-estate/articles/brandywine-realty-bdn-q3-2026-172956546.html"
+  }
+ ],
  "BSY": [
   {
    "date_str": "2026-08-13",
@@ -81,6 +90,13 @@
   }
  ],
  "CMCSA": [
+  {
+   "date_str": "2026-10-22",
+   "found_at": "2026-10-22T19:28:53",
+   "source": "Motley Fool",
+   "title": "Comcast (CMCSA) Q3 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/comcast-cmcsa-q3-2026-earnings-181524027.html"
+  },
   {
    "date_str": "2026-07-24",
    "found_at": "2026-07-24T01:06:13",
@@ -122,6 +138,13 @@
   }
  ],
  "CRS": [
+  {
+   "date_str": "2026-10-22",
+   "found_at": "2026-10-22T19:28:54",
+   "source": "Motley Fool",
+   "title": "Carpenter Technology (CRS) Q1 2027 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/carpenter-technology-crs-q1-2027-165810061.html"
+  },
   {
    "date_str": "2026-07-31",
    "found_at": "2026-07-31T17:10:24",
