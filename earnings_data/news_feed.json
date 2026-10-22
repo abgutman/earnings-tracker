@@ -1,6 +1,123 @@
 {
- "generated_at": "2026-10-22T04:34:08",
+ "generated_at": "2026-10-22T15:52:31",
  "items": [
+  {
+   "uuid": "d5908cfb-12a1-3391-bdc0-10f9f94c154a",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Employees Contribute Nearly 2,400 Volunteer Hours During Companywide AmerICANs in Action! Month of Service",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/american-water-employees-contribute-nearly-144100194.html",
+   "published_unix": 1792680060,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-22T15:52:09"
+  },
+  {
+   "uuid": "12b5726f-e0c7-38da-b773-0ddd25060802",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Plans Restructuring as Domestic Broadband-Subscriber Losses Continue",
+   "publisher": "The Wall Street Journal",
+   "link": "https://finance.yahoo.com/m/12b5726f-e0c7-38da-b773-0ddd25060802/comcast-plans-restructuring.html",
+   "published_unix": 1792676760,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-22T15:52:04"
+  },
+  {
+   "uuid": "e9db4f20-1e55-31a4-9000-94e8e4f6986a",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Stock Falls as Bleeding Broadband Overshadows Earnings Beat",
+   "publisher": "Barrons.com",
+   "link": "https://finance.yahoo.com/m/e9db4f20-1e55-31a4-9000-94e8e4f6986a/comcast-stock-falls-as.html",
+   "published_unix": 1792671600,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-22T15:52:04"
+  },
+  {
+   "uuid": "7caf03b1-a0a2-3a7c-b621-3e6ee2d92d90",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Q3 Adjusted Earnings, Revenue Fall",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-q3-adjusted-earnings-revenue-111800432.html",
+   "published_unix": 1792667880,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-22T15:52:04"
+  },
+  {
+   "uuid": "bd3a1e36-38cb-379d-9b5a-fb59ce8e2292",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast: Q3 Earnings Snapshot",
+   "publisher": "Associated Press",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-q3-earnings-snapshot-111118610.html",
+   "published_unix": 1792667478,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-22T15:52:04"
+  },
+  {
+   "uuid": "8d29701f-c9b7-3298-975c-41ea09049c39",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Declares Quarterly Dividend",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-declares-quarterly-dividend-110500729.html",
+   "published_unix": 1792667100,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-22T15:52:04"
+  },
+  {
+   "uuid": "2577d597-dfd4-3a4e-b29b-6d3e958112af",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Reports 3rd Quarter 2026 Results",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-reports-3rd-quarter-2026-110000431.html",
+   "published_unix": 1792666800,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-22T15:52:04"
+  },
+  {
+   "uuid": "f538159d-659c-34e7-a37e-a46f30b7d72d",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "CMCSA Stock Slips Premarket Ahead Of Earnings As Comcast Plans Layoffs Amid Spinoff, SpaceX Competition",
+   "publisher": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cmcsa-stock-slips-premarket-ahead-091843069.html",
+   "published_unix": 1792660723,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-22T15:52:04"
+  },
+  {
+   "uuid": "d5a160d3-d3b3-34da-8001-faefbeb5651e",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Market Chatter: Comcast Plans Major Job Reductions as Part of Reorganization",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-comcast-plans-major-090244526.html",
+   "published_unix": 1792659764,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-22T15:52:04"
+  },
   {
    "uuid": "0e4f3fe9-f54d-3be5-bd08-9c70b90a7514",
    "tickers": [
@@ -1896,19 +2013,6 @@
    "published_unix": 1790107140,
    "source_type": "yahoo",
    "captured_at": "2026-09-23T04:38:44"
-  },
-  {
-   "uuid": "1b69d25c-141b-3e7d-af03-a6fce67587ac",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "MoffettNathanson Adjusts Price Target on Comcast to $43 From $52, Keeps Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/moffettnathanson-adjusts-price-target-comcast-110803228.html",
-   "published_unix": 1790075283,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-22T15:30:40"
   }
  ]
 }
