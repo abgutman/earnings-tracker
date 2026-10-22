@@ -1,6 +1,45 @@
 {
- "generated_at": "2026-10-22T20:06:25",
+ "generated_at": "2026-10-22T23:21:42",
  "items": [
+  {
+   "uuid": "02305032-de08-3f0b-8059-18ff63d7129c",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast to cut cable jobs, take $1-billion-plus charge as broadband losses deepen",
+   "publisher": "LA Times",
+   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-cut-cable-jobs-1-214730988.html",
+   "published_unix": 1792705650,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-22T23:21:18"
+  },
+  {
+   "uuid": "dc4752df-f658-3a95-b523-2acfe605102a",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Corporation Q3 2026 Earnings Call Summary",
+   "publisher": "Moby",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-corporation-q3-2026-earnings-210042930.html",
+   "published_unix": 1792702842,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-22T23:21:18"
+  },
+  {
+   "uuid": "4dd43f6a-b2ba-3c0a-8843-604ab0c00ed6",
+   "tickers": [
+    "WTRG"
+   ],
+   "company": "Essential Utilities",
+   "title": "American Water Gains 6%, Essential Utilities Up 6% as Investors Flee Tech for Water Utilities",
+   "publisher": "TIKR",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/american-water-gains-6-essential-204626326.html",
+   "published_unix": 1792701986,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-22T23:21:23"
+  },
   {
    "uuid": "2c0220e3-01fd-3c2c-b2a7-04ea5276d81b",
    "tickers": [
@@ -54,6 +93,19 @@
    "captured_at": "2026-10-22T20:06:24"
   },
   {
+   "uuid": "e9c5ec7e-1370-39c2-a88f-68bdcc49ca5c",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast touts customer service contact rates down 20% this year",
+   "publisher": "CX Dive",
+   "link": "https://finance.yahoo.com/technology/ai/articles/comcast-touts-customer-contact-rates-180000884.html",
+   "published_unix": 1792692000,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-22T23:21:18"
+  },
+  {
    "uuid": "1dcab8bd-2823-3260-a09f-1a5270cf0541",
    "tickers": [
     "CMCSA"
@@ -65,6 +117,19 @@
    "published_unix": 1792688689,
    "source_type": "yahoo",
    "captured_at": "2026-10-22T20:05:25"
+  },
+  {
+   "uuid": "d774efe8-8a13-37f3-a281-5baaad3d672c",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Update: UnitedHealth Sued by Aramark, Kraft, Others Over Claims Handling",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/unitedhealth-sued-aramark-kraft-others-164125460.html",
+   "published_unix": 1792687285,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-22T23:21:18"
   },
   {
    "uuid": "d5908cfb-12a1-3391-bdc0-10f9f94c154a",
