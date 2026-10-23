@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-10-23T15:44:28",
+ "generated_at": "2026-10-23T19:57:03",
  "items": [
+  {
+   "uuid": "46039974-7880-3582-98b9-d3afc40e2174",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Offers 'Limited' Upside Potential, Oppenheimer Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-offers-apos-limited-apos-171056820.html",
+   "published_unix": 1792775456,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-23T19:56:40"
+  },
   {
    "uuid": "6f2d3ca3-f437-30b6-925f-6a4a1e021fb0",
    "tickers": [
@@ -2117,45 +2130,6 @@
    "published_unix": 1790193660,
    "source_type": "yahoo",
    "captured_at": "2026-09-23T22:56:18"
-  },
-  {
-   "uuid": "45cc45ce-c47b-325d-8b05-2e2cfea9fd50",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "American Water Joins Conversation at The Financial Research Institute's Annual Public Utility Symposium",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/economy/policy/articles/american-water-joins-conversation-financial-183800760.html",
-   "published_unix": 1790188680,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-23T19:40:08"
-  },
-  {
-   "uuid": "ef64f1cc-b05c-3c3e-8089-d72a5804da94",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces New 55+ Luxury Home Community Coming Soon to Erie, Colorado",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-55-luxury-182400724.html",
-   "published_unix": 1790187840,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-23T19:40:39"
-  },
-  {
-   "uuid": "9399ecd3-4703-3783-9d65-b4a193ddd7b3",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Buffington Homes by Toll Brothers Announces Last Chance to Purchase a New Home in McKissic Springs Community in Bentonville, Arkansas",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/buffington-homes-toll-brothers-announces-181000483.html",
-   "published_unix": 1790187000,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-23T19:40:39"
   }
  ]
 }
