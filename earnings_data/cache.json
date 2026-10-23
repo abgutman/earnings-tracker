@@ -20,8 +20,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026066863/cmcsa-20260930.htm",
   "last_detected_at": "2026-10-22T21:52:59.203288+00:00",
   "last_8k_detected_at": "2026-10-22T15:50:50.104588+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-10-22"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026066863/cmcsa-20260930.htm"
  },
  "ARMK": {
   "ticker": "ARMK",
@@ -67,8 +66,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/37785/000003778526000149/fmc-20261015.htm",
   "last_detected_at": "2026-10-15T15:33:11.060800+00:00",
   "last_8k_detected_at": "2026-10-15T15:33:11.060800+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-10-15"
+  "last_10q_url": null
  },
  "URBN": {
   "ticker": "URBN",
@@ -334,8 +332,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1372299/000110465926115970/tm2627592d2_8k.htm",
   "last_detected_at": "2026-10-15T17:48:18.535496+00:00",
   "last_8k_detected_at": "2026-10-15T17:48:18.535496+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-10-15"
+  "last_10q_url": null
  },
  "OFLX": {
   "ticker": "OFLX",
@@ -712,8 +709,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/17843/000001784326000045/crs-20260930.htm",
   "last_detected_at": "2026-10-22T21:52:59.203288+00:00",
   "last_8k_detected_at": "2026-10-22T21:52:59.203288+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-10-22"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/17843/000001784326000045/crs-20260930.htm"
  },
  "WST": {
   "ticker": "WST",
@@ -904,8 +900,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1433642/000143364226000048/hlne-20261012.htm",
   "last_detected_at": "2026-10-15T15:33:11.060800+00:00",
   "last_8k_detected_at": "2026-10-15T15:33:11.060800+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-10-15"
+  "last_10q_url": null
  },
  "DORM": {
   "ticker": "DORM",
@@ -1801,8 +1796,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1391933/000092708926000174/qnto20261007_8k.htm",
   "last_detected_at": "2026-10-15T15:33:11.060800+00:00",
   "last_8k_detected_at": "2026-10-15T15:33:11.060800+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-10-15"
+  "last_10q_url": null
  },
  "TELA": {
   "ticker": "TELA",
