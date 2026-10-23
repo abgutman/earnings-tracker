@@ -4814,3 +4814,8 @@
 [2026-10-23 01:02:06]   HLNE: pending_10q_since=2026-10-15 is 8d old — clearing stale flag
 [2026-10-23 01:02:07]   QNTO: pending_10q_since=2026-10-15 is 8d old — clearing stale flag
 [2026-10-23 01:02:07] === CHECK-10Q complete. Checked 9, found 2, cleared 4 stale. ===
+[2026-10-23 15:42:00] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-10-23 15:42:00]   firehose: 8-K feed — 100 entries parsed
+[2026-10-23 15:42:01]   firehose: 10-Q feed — 100 entries parsed
+[2026-10-23 15:42:01]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-10-23 15:42:01] === EDGAR FIREHOSE complete. 0 new detections. ===
