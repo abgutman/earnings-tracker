@@ -1,6 +1,58 @@
 {
- "generated_at": "2026-10-23T04:39:21",
+ "generated_at": "2026-10-23T15:44:28",
  "items": [
+  {
+   "uuid": "6f2d3ca3-f437-30b6-925f-6a4a1e021fb0",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "New Street Adjusts Price Target on Comcast to $28 From $30",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/street-adjusts-price-target-comcast-123522648.html",
+   "published_unix": 1792758922,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-23T15:43:37"
+  },
+  {
+   "uuid": "bb0a18a8-d577-34c2-a58d-dd968fd110ce",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Deutsche Bank Adjusts Comcast Price Target to $31 From $32, Maintains Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-adjusts-comcast-price-120731118.html",
+   "published_unix": 1792757251,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-23T15:43:37"
+  },
+  {
+   "uuid": "da5b8325-8c70-375a-a1ce-ca3f66c6a3f3",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "TD Cowen Adjusts Price Target on Comcast to $36 From $39",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-adjusts-price-target-110246467.html",
+   "published_unix": 1792753366,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-23T15:43:37"
+  },
+  {
+   "uuid": "7ef1d0bb-c645-3b44-8caf-ece53f6e6b4d",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "CMCSA Stock Dips Overnight: Comcast Faces Target Cuts As Broadband Losses Remain A Concern",
+   "publisher": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cmcsa-stock-dips-overnight-comcast-061450853.html",
+   "published_unix": 1792736090,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-23T15:43:37"
+  },
   {
    "uuid": "02305032-de08-3f0b-8059-18ff63d7129c",
    "tickers": [
@@ -2104,45 +2156,6 @@
    "published_unix": 1790187000,
    "source_type": "yahoo",
    "captured_at": "2026-09-23T19:40:39"
-  },
-  {
-   "uuid": "dc276d6d-0d97-33b5-9049-ed31836d7bb5",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "American Water Advances Important Conversations at The Women's International Network of Utility Professionals 2026 International Conference",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/small-business/articles/american-water-advances-important-conversations-150800605.html",
-   "published_unix": 1790176080,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-23T15:26:22"
-  },
-  {
-   "uuid": "322799b9-161d-30b7-9d47-4da8a8cfb24c",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Xfinity and Comcast Business Reliable, High-Speed Internet Now Available in Milton and New Durham, New Hampshire",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/articles/xfinity-comcast-business-reliable-high-140000516.html",
-   "published_unix": 1790172000,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-23T15:26:18"
-  },
-  {
-   "uuid": "b3ec638f-738b-3edd-b533-e034b7d4fa68",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "How Far Can Comcast Stock Fall, And How Long Would You Wait?",
-   "publisher": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/far-comcast-stock-fall-long-131024936.html",
-   "published_unix": 1790169024,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-23T15:26:18"
   }
  ]
 }
