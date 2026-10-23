@@ -4819,3 +4819,13 @@
 [2026-10-23 15:42:01]   firehose: 10-Q feed — 100 entries parsed
 [2026-10-23 15:42:01]   firehose: 100 watched CIKs, 200 total feed entries
 [2026-10-23 15:42:01] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-10-23 17:53:36] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-10-23 17:53:37]   ★ NEW 8k_202 for CMCSA (COMCAST CORP) filed 2026-10-22
+[2026-10-23 17:53:37]     https://www.sec.gov/Archives/edgar/data/1166691/000162828026066783/cmcsa-20261022.htm
+[2026-10-23 17:53:37]     ✉ alert sent (8k_202)
+[2026-10-23 17:53:37]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001166691.json'
+[2026-10-23 17:53:45]   ★ NEW 8k_202 for CRS (CARPENTER TECHNOLOGY CORP) filed 2026-10-22
+[2026-10-23 17:53:45]     https://www.sec.gov/Archives/edgar/data/17843/000001784326000049/crs-20261022.htm
+[2026-10-23 17:53:45]     ✉ alert sent (8k_202)
+[2026-10-23 17:53:45]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0000017843.json'
+[2026-10-23 17:54:05] === EDGAR POLL complete. Fetched 100 companies, 2 new filings. ===
