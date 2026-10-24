@@ -4852,3 +4852,12 @@
 [2026-10-23 23:02:30]   firehose: 10-Q feed — 100 entries parsed
 [2026-10-23 23:02:30]   firehose: 100 watched CIKs, 200 total feed entries
 [2026-10-23 23:02:30] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-10-24 01:12:39] === CHECK-10Q: scanning for pending 10-Q filings ===
+[2026-10-24 01:12:39]   ✓ 10-Q found for CMCSA (COMCAST CORP) filed 2026-10-22
+[2026-10-24 01:12:39]     https://www.sec.gov/Archives/edgar/data/1166691/000162828026066863/cmcsa-20260930.htm
+[2026-10-24 01:12:40]   ✓ 10-Q found for CRS (CARPENTER TECHNOLOGY CORP) filed 2026-10-22
+[2026-10-24 01:12:40]     https://www.sec.gov/Archives/edgar/data/17843/000001784326000045/crs-20260930.htm
+[2026-10-24 01:12:41]   ✓ 10-Q found for HCSG (HEALTHCARE SERVICES GROUP INC) filed 2026-10-23
+[2026-10-24 01:12:41]     https://www.sec.gov/Archives/edgar/data/731012/000073101226000059/hcsg-20260930.htm
+[2026-10-24 01:12:41]   QNBC: pending_10q_since=2026-10-16 is 8d old — clearing stale flag
+[2026-10-24 01:12:41] === CHECK-10Q complete. Checked 8, found 3, cleared 1 stale. ===
