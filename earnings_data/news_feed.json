@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-10-26T17:21:36",
+ "generated_at": "2026-10-26T22:38:13",
  "items": [
+  {
+   "uuid": "7cbc65db-b601-36f2-8eee-19a70ebbd3a3",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Charitable Foundation Awards $10,000 Grant to Help Heartland Students Build Financial Skills",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/american-water-charitable-foundation-awards-215700003.html",
+   "published_unix": 1793051820,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-26T22:38:06"
+  },
+  {
+   "uuid": "6b1e9c8d-79c7-31c5-841f-74dc0ede9f87",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "New Jersey American Water and American Water Charitable Foundation Celebrate Completion of Rutgers Weather Station",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/jersey-american-water-american-water-211500519.html",
+   "published_unix": 1793049300,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-26T22:38:06"
+  },
   {
    "uuid": "62e4e09d-6353-36d0-9558-4745dea23fce",
    "tickers": [
