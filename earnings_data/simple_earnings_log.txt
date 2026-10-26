@@ -4861,3 +4861,11 @@
 [2026-10-24 01:12:41]     https://www.sec.gov/Archives/edgar/data/731012/000073101226000059/hcsg-20260930.htm
 [2026-10-24 01:12:41]   QNBC: pending_10q_since=2026-10-16 is 8d old — clearing stale flag
 [2026-10-24 01:12:41] === CHECK-10Q complete. Checked 8, found 3, cleared 1 stale. ===
+[2026-10-26 17:15:30] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-10-26 17:15:31]   firehose: 8-K feed — 100 entries parsed
+[2026-10-26 17:15:31]   firehose: 10-Q feed — 98 entries parsed
+[2026-10-26 17:15:31]   firehose: 100 watched CIKs, 198 total feed entries
+[2026-10-26 17:15:31]   ★ NEW 8k_701 for AVBP (ArriVent BioPharma, Inc.) filed 2026-10-26
+[2026-10-26 17:15:31]     https://www.sec.gov/Archives/edgar/data/1868279/000110465926118550/tm2628237d1_8k.htm
+[2026-10-26 17:15:33]     ✉ alert sent (8k_701)
+[2026-10-26 17:15:33] === EDGAR FIREHOSE complete. 1 new detections. ===
