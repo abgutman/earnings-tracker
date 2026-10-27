@@ -1,6 +1,84 @@
 {
- "generated_at": "2026-10-27T04:54:36",
+ "generated_at": "2026-10-27T16:35:58",
  "items": [
+  {
+   "uuid": "4d4fdb3b-a9f4-3a7c-926f-94064ed6e88d",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Xfinity and Comcast Business Reliable, High-Speed Internet Now Available in Franklin, New Hampshire",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/articles/xfinity-comcast-business-reliable-high-140000605.html",
+   "published_unix": 1793109600,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-27T16:35:48"
+  },
+  {
+   "uuid": "a48d701d-9e84-399a-b78e-20f8bbdeeb7c",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Xfinity and Comcast Business High-Speed Internet Now Available to Nearly 1,100 Homes and Businesses in Northeast Indiana",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/articles/xfinity-comcast-business-high-speed-132000500.html",
+   "published_unix": 1793107200,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-27T16:35:48"
+  },
+  {
+   "uuid": "fbc49136-a4cf-3cca-9d7e-4edad39bd51d",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Contributes Expertise at California Water Association 2026 Summit",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/american-water-contributes-expertise-california-130300541.html",
+   "published_unix": 1793106180,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-27T16:35:52"
+  },
+  {
+   "uuid": "6e3ca4da-7dea-3a13-a407-02553194b03b",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "Campbell's",
+   "title": "Campbell's\u00ae Marks Five Years of Sides Season\u2122 with Its Annual State of the Sides Report",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/media-advertising/articles/campbells-marks-five-years-sides-130000083.html",
+   "published_unix": 1793106000,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-27T16:35:51"
+  },
+  {
+   "uuid": "2d5d773c-514d-321a-b7d7-445fdeabc2a3",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores",
+   "title": "BofA Securities Adjusts Price Target on Burlington Stores to $344 From $365, Maintains Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-securities-adjusts-price-target-122830467.html",
+   "published_unix": 1793104110,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-27T16:35:51"
+  },
+  {
+   "uuid": "65b056a1-32cc-3040-8f36-c58c50a2516d",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "Oh What Fun! Five Below\u00ae Brings Holiday Value, Trends and Fun All Under One Roof This Season",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/small-business/articles/oh-fun-five-below-brings-120000621.html",
+   "published_unix": 1793102400,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-27T16:35:50"
+  },
   {
    "uuid": "7cbc65db-b601-36f2-8eee-19a70ebbd3a3",
    "tickers": [
