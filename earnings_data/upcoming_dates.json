@@ -61,14 +61,14 @@
   "captured_at": "2026-10-06T02:32:13"
  },
  "DORM": {
-  "release_date": "2026-10-26",
+  "release_date": null,
   "call_date": "2026-10-27",
   "call_time": "08:00 ET",
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/dorman-products-inc-announces-date-203100747.html",
-  "source_title": "Dorman Products, Inc. Announces Date to Report Third Quarter 2026 Financial Results",
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/dorman-products-inc-reports-third-202900218.html",
+  "source_title": "Dorman Products, Inc. Reports Third Quarter 2026 Results; Updates 2026 Guidance",
   "source_publisher": "GlobeNewswire",
   "source_type": "yahoo_auto",
-  "captured_at": "2026-10-06T02:32:29"
+  "captured_at": "2026-10-27T01:38:28"
  },
  "VSH": {
   "release_date": "2026-11-04",
@@ -299,5 +299,15 @@
   "source_publisher": "GlobeNewswire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-10-23T01:01:44"
+ },
+ "CERT": {
+  "release_date": "2026-11-05",
+  "call_date": null,
+  "call_time": null,
+  "source_url": "https://finance.yahoo.com/healthcare/articles/certara-report-third-quarter-2026-120000396.html",
+  "source_title": "Certara to Report Third Quarter 2026 Financial Results on November 5th, 2026",
+  "source_publisher": "GlobeNewswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-10-27T01:38:39"
  }
 }
