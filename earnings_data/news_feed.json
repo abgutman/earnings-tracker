@@ -1,6 +1,45 @@
 {
- "generated_at": "2026-10-27T16:35:58",
+ "generated_at": "2026-10-27T21:16:46",
  "items": [
+  {
+   "uuid": "7187ff4e-24c8-3dee-b1c8-09d07b86bb60",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "New Jersey American Water and Salem City Celebrate Completion of $21.3 Million PFAS Treatment Project",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/jersey-american-water-salem-city-204500400.html",
+   "published_unix": 1793133900,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-27T21:16:40"
+  },
+  {
+   "uuid": "a0acd397-989c-3e0b-887e-b18f31fb3599",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces New Collection Coming Soon to Toll Brothers at Jordanelle Ridge in Heber City, Utah",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-collection-coming-194200153.html",
+   "published_unix": 1793130120,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-27T21:16:45"
+  },
+  {
+   "uuid": "37706ce8-2fd6-3653-a202-8c2b1bb9139c",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Announces Quarterly Dividend",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/american-water-announces-quarterly-dividend-192800444.html",
+   "published_unix": 1793129280,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-27T21:16:40"
+  },
   {
    "uuid": "4d4fdb3b-a9f4-3a7c-926f-94064ed6e88d",
    "tickers": [
