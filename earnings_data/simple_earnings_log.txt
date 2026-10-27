@@ -4920,3 +4920,19 @@
 [2026-10-27 19:22:19]   firehose: 10-Q feed — 100 entries parsed
 [2026-10-27 19:22:19]   firehose: 100 watched CIKs, 200 total feed entries
 [2026-10-27 19:22:19] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-10-27 23:06:12] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-10-27 23:06:13]   firehose: 8-K feed — 100 entries parsed
+[2026-10-27 23:06:13]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-10-27 23:06:13]   firehose: 8-K page 2 — 100 entries
+[2026-10-27 23:06:13]   firehose: 10-Q feed — 100 entries parsed
+[2026-10-27 23:06:13]   firehose: 100 watched CIKs, 300 total feed entries
+[2026-10-27 23:06:13]   ★ NEW 8k_202 for UHS (UNIVERSAL HEALTH SERVICES INC) filed 2026-10-27
+[2026-10-27 23:06:13]     https://www.sec.gov/Archives/edgar/data/352915/000119312526434414/uhs-20261027.htm
+[2026-10-27 23:06:14]     ✉ alert sent (8k_202)
+[2026-10-27 23:06:14]   ★ NEW 8k_202 for QNTO (QUAINT OAK BANCORP, INC.) filed 2026-10-27
+[2026-10-27 23:06:14]     https://www.sec.gov/Archives/edgar/data/1391933/000092708926000185/qnto20261026_8k.htm
+[2026-10-27 23:06:17]     ✉ alert sent (8k_202)
+[2026-10-27 23:06:18]   ★ NEW 8k_202 for UHT (UNIVERSAL HEALTH REALTY INCOME TRUST) filed 2026-10-27
+[2026-10-27 23:06:18]     https://www.sec.gov/Archives/edgar/data/798783/000119312526434277/uht-20261027.htm
+[2026-10-27 23:06:19]     ✉ alert sent (8k_202)
+[2026-10-27 23:06:19] === EDGAR FIREHOSE complete. 3 new detections. ===
