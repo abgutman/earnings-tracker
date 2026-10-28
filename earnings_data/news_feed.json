@@ -1,6 +1,84 @@
 {
- "generated_at": "2026-10-28T17:09:11",
+ "generated_at": "2026-10-28T21:39:31",
  "items": [
+  {
+   "uuid": "013436c4-84a7-3c0d-8566-8c0403ce6803",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Q3 Adjusted Earnings, Revenue Rise",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/american-water-q3-adjusted-earnings-211529755.html",
+   "published_unix": 1793222129,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-28T21:39:24"
+  },
+  {
+   "uuid": "876af45f-c465-3e11-b10e-4dc4429f893f",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Works: Q3 Earnings Snapshot",
+   "publisher": "Associated Press",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/american-water-works-q3-earnings-204437375.html",
+   "published_unix": 1793220277,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-28T21:39:24"
+  },
+  {
+   "uuid": "40bfaad0-90e2-392e-adb6-2d37db52a285",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "AMERICAN WATER REPORTS SOLID THIRD QUARTER 2026 RESULTS; NARROWS 2026 EPS GUIDANCE TO TOP HALF OF RANGE; AFFIRMS LONG-TERM TARGETS; INITIATES STANDALONE 2027 EPS GUIDANCE, REFLECTING GROWTH OF 8%",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/american-water-reports-solid-third-203000037.html",
+   "published_unix": 1793219400,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-28T21:39:24"
+  },
+  {
+   "uuid": "f93ecf4d-20ea-3d05-be42-48791bdf8860",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces New Regency 55+ Community Coming Soon to Howey-In-The-Hills, Florida",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-regency-55-185300168.html",
+   "published_unix": 1793213580,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-28T21:39:30"
+  },
+  {
+   "uuid": "1ea5d000-fe5f-363b-b844-0d28a515a0cd",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Rocklin, California",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-182400141.html",
+   "published_unix": 1793211840,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-28T21:39:30"
+  },
+  {
+   "uuid": "f2eacc97-cd15-3404-9a2b-925b3f5656e2",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "What Does Five Below's Falling Multiple Really Say?",
+   "publisher": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/does-five-belows-falling-multiple-175056218.html",
+   "published_unix": 1793209856,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-28T21:39:22"
+  },
   {
    "uuid": "89177395-e2e9-331e-853a-8566a8bc2781",
    "tickers": [
@@ -2052,45 +2130,6 @@
    "published_unix": 1790674614,
    "source_type": "yahoo",
    "captured_at": "2026-09-29T16:52:56"
-  },
-  {
-   "uuid": "97a99cbd-7e2f-372a-8414-a68fd7ae79ac",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC Corporation",
-   "title": "FMC Corporation Submits Regulatory Dossier for Rimisoxafen, the Industry's First Dual Mode of Action Herbicide, in Brazil",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/fmc-corporation-submits-regulatory-dossier-203000348.html",
-   "published_unix": 1790627400,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-28T23:48:58"
-  },
-  {
-   "uuid": "8132bdd0-879a-3f6b-a8c3-6626dd765a25",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast and Fastly\u2019s New Content Delivery Model Powers Highest Quality Experience for Peacock\u2019s Biggest Live Events",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-fastly-content-delivery-model-200000069.html",
-   "published_unix": 1790625600,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-28T23:48:56"
-  },
-  {
-   "uuid": "855881a0-2e48-33ca-b6a2-5fc8ddbe72fc",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Pennsylvania American Water Participates in Source Water Protection Week, Highlighting its Commitment to High-Quality Water",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/pennsylvania-american-water-participates-source-180800612.html",
-   "published_unix": 1790618880,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-28T18:35:26"
   }
  ]
 }
