@@ -50,26 +50,6 @@
   "source_type": "yahoo_auto",
   "captured_at": "2026-10-03T01:29:28"
  },
- "UHS": {
-  "release_date": "2026-10-26",
-  "call_date": "2026-10-27",
-  "call_time": "09:30 ET",
-  "source_url": "https://finance.yahoo.com/healthcare/articles/universal-health-services-inc-announces-200500968.html",
-  "source_title": "Universal Health Services, Inc. Announces Date for Third Quarter 2026 Earnings Release and Conference Call",
-  "source_publisher": "GlobeNewswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-10-06T02:32:13"
- },
- "DORM": {
-  "release_date": null,
-  "call_date": "2026-10-27",
-  "call_time": "08:00 ET",
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/dorman-products-inc-reports-third-202900218.html",
-  "source_title": "Dorman Products, Inc. Reports Third Quarter 2026 Results; Updates 2026 Guidance",
-  "source_publisher": "GlobeNewswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-10-27T01:38:28"
- },
  "VSH": {
   "release_date": "2026-11-04",
   "call_date": null,
@@ -309,5 +289,25 @@
   "source_publisher": "GlobeNewswire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-10-27T01:38:39"
+ },
+ "GBLI": {
+  "release_date": "2026-11-04",
+  "call_date": "2026-11-04",
+  "call_time": "11:00 ET",
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/global-indemnity-group-q3-2026-120000204.html",
+  "source_title": "Global Indemnity Group Q3 2026 Earnings Release & Conference Call",
+  "source_publisher": "GlobeNewswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-10-28T01:49:23"
+ },
+ "TELA": {
+  "release_date": "2026-11-10",
+  "call_date": null,
+  "call_time": "16:30 ET",
+  "source_url": "https://finance.yahoo.com/healthcare/articles/tela-bio-announce-third-quarter-200500923.html",
+  "source_title": "TELA Bio to Announce Third Quarter 2026 Financial Results",
+  "source_publisher": "GlobeNewswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-10-28T01:49:41"
  }
 }

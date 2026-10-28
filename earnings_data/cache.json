@@ -923,8 +923,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/868780/000086878026000053/dorm-20260926.htm",
   "last_detected_at": "2026-10-27T16:24:26.392195+00:00",
   "last_8k_detected_at": "2026-10-26T23:44:17.609736+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-10-26"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/868780/000086878026000053/dorm-20260926.htm"
  },
  "FSK": {
   "ticker": "FSK",

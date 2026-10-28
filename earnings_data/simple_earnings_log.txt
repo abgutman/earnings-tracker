@@ -4943,3 +4943,7 @@
 [2026-10-27 23:41:20] === EDGAR FIREHOSE complete. 0 new detections. ===
 [2026-10-28 00:33:17] === EDGAR POLL: scanning for new earnings filings (live=True) ===
 [2026-10-28 00:33:43] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
+[2026-10-28 01:50:00] === CHECK-10Q: scanning for pending 10-Q filings ===
+[2026-10-28 01:50:02]   ✓ 10-Q found for DORM (Dorman Products, Inc.) filed 2026-10-27
+[2026-10-28 01:50:02]     https://www.sec.gov/Archives/edgar/data/868780/000086878026000053/dorm-20260926.htm
+[2026-10-28 01:50:03] === CHECK-10Q complete. Checked 10, found 1, cleared 0 stale. ===
