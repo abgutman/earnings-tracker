@@ -4947,3 +4947,13 @@
 [2026-10-28 01:50:02]   ✓ 10-Q found for DORM (Dorman Products, Inc.) filed 2026-10-27
 [2026-10-28 01:50:02]     https://www.sec.gov/Archives/edgar/data/868780/000086878026000053/dorm-20260926.htm
 [2026-10-28 01:50:03] === CHECK-10Q complete. Checked 10, found 1, cleared 0 stale. ===
+[2026-10-28 17:06:22] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-10-28 17:06:39]   firehose: 8-K feed — 100 entries parsed
+[2026-10-28 17:06:39]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-10-28 17:06:59]   firehose: 8-K feed fetch failed (rc=28)
+[2026-10-28 17:07:01]   firehose: 10-Q feed — 100 entries parsed
+[2026-10-28 17:07:01]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-10-28 17:07:01]   ★ NEW 10q for AVTR (Avantor, Inc.) filed 2026-10-28
+[2026-10-28 17:07:01]     https://www.sec.gov/Archives/edgar/data/1722482/000162828026067751/avtr-20260930.htm
+[2026-10-28 17:07:02]     ✉ alert sent (10q)
+[2026-10-28 17:07:02] === EDGAR FIREHOSE complete. 1 new detections. ===
