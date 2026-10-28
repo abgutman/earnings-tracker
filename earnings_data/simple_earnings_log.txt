@@ -4968,3 +4968,18 @@
 [2026-10-28 19:27:49]   firehose: 10-Q feed — 100 entries parsed
 [2026-10-28 19:27:49]   firehose: 100 watched CIKs, 200 total feed entries
 [2026-10-28 19:27:49] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-10-28 23:28:48] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-10-28 23:28:48]   firehose: 8-K feed — 100 entries parsed
+[2026-10-28 23:28:48]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-10-28 23:28:48]   firehose: 8-K page 2 — 100 entries
+[2026-10-28 23:28:49]   firehose: 10-Q feed — 100 entries parsed
+[2026-10-28 23:28:49]   firehose: all 10-Q entries newer than watermark — fetching page 2
+[2026-10-28 23:28:49]   firehose: 10-Q page 2 — 100 entries
+[2026-10-28 23:28:49]   firehose: 100 watched CIKs, 400 total feed entries
+[2026-10-28 23:28:49]   ★ NEW 8k_202 for AWK (American Water Works Company, Inc.) filed 2026-10-28
+[2026-10-28 23:28:49]     https://www.sec.gov/Archives/edgar/data/1410636/000141063626000150/awk-20261028.htm
+[2026-10-28 23:28:51]     ✉ alert sent (8k_202)
+[2026-10-28 23:28:51]   ★ NEW 10q for AWK (American Water Works Company, Inc.) filed 2026-10-28
+[2026-10-28 23:28:51]     https://www.sec.gov/Archives/edgar/data/1410636/000141063626000149/awk-20260930.htm
+[2026-10-28 23:28:52]     ✉ alert sent (10q)
+[2026-10-28 23:28:52] === EDGAR FIREHOSE complete. 2 new detections. ===
