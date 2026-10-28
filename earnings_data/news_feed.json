@@ -1,6 +1,45 @@
 {
- "generated_at": "2026-10-28T05:29:44",
+ "generated_at": "2026-10-28T17:09:11",
  "items": [
+  {
+   "uuid": "89177395-e2e9-331e-853a-8566a8bc2781",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Illinois American Water Awards 122 Firefighter Grants for National First Responders Day",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/illinois-american-water-awards-122-165900769.html",
+   "published_unix": 1793206740,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-28T17:09:03"
+  },
+  {
+   "uuid": "241afcb0-6b04-3166-ac9c-49d29cdf74b0",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Xfinity High-Speed Internet Now Available in Forest, Virginia",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/articles/xfinity-high-speed-internet-now-160000264.html",
+   "published_unix": 1793203200,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-28T17:08:59"
+  },
+  {
+   "uuid": "b057c296-4750-35c4-bd8d-0a39c21bf9b6",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Is It Too Early To Buy Comcast Stock?",
+   "publisher": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/too-early-buy-comcast-stock-100756246.html",
+   "published_unix": 1793182076,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-28T17:08:59"
+  },
   {
    "uuid": "1307a04c-b96e-34da-a59b-e8cda799ef7b",
    "tickers": [
@@ -2052,32 +2091,6 @@
    "published_unix": 1790618880,
    "source_type": "yahoo",
    "captured_at": "2026-09-28T18:35:26"
-  },
-  {
-   "uuid": "3e50e588-e3d2-3be7-a20e-a93832bca99e",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Xfinity and Comcast Business High-Speed Internet Now Available to More Than 2,300 Homes and Businesses in Clay County, Florida",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/articles/xfinity-comcast-business-high-speed-140000310.html",
-   "published_unix": 1790604000,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-28T18:35:22"
-  },
-  {
-   "uuid": "e86b3eb5-cc31-38d3-8632-a6e2c9fcd7e1",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast Completes Washington County, Pennsylvania Expansion Connecting Thousands to High-Speed Internet for the First Time",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/articles/comcast-completes-washington-county-pennsylvania-131500401.html",
-   "published_unix": 1790601300,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-28T18:35:22"
   }
  ]
 }
