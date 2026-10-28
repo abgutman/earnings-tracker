@@ -4983,3 +4983,8 @@
 [2026-10-28 23:28:51]     https://www.sec.gov/Archives/edgar/data/1410636/000141063626000149/awk-20260930.htm
 [2026-10-28 23:28:52]     ✉ alert sent (10q)
 [2026-10-28 23:28:52] === EDGAR FIREHOSE complete. 2 new detections. ===
+[2026-10-28 23:58:02] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-10-28 23:58:02]   firehose: 8-K feed — 100 entries parsed
+[2026-10-28 23:58:02]   firehose: 10-Q feed — 100 entries parsed
+[2026-10-28 23:58:02]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-10-28 23:58:02] === EDGAR FIREHOSE complete. 0 new detections. ===
