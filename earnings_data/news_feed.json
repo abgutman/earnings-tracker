@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-10-27T21:16:46",
+ "generated_at": "2026-10-28T01:18:44",
  "items": [
+  {
+   "uuid": "1307a04c-b96e-34da-a59b-e8cda799ef7b",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast makes significant shift as customer losses mount",
+   "publisher": "TheStreet",
+   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-makes-significant-shift-customer-003700131.html",
+   "published_unix": 1793147820,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-28T01:18:31"
+  },
   {
    "uuid": "7187ff4e-24c8-3dee-b1c8-09d07b86bb60",
    "tickers": [
