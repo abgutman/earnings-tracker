@@ -44,11 +44,27 @@
  ],
  "AWK": [
   {
+   "date_str": "2026-10-29",
+   "found_at": "2026-10-29T20:34:39",
+   "source": "Motley Fool",
+   "title": "American Water (AWK) Q3 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/american-water-awk-q3-2026-171607203.html"
+  },
+  {
    "date_str": "2026-08-10",
    "found_at": "2026-08-10T16:29:24",
    "source": "Motley Fool",
    "title": "American Water Works (AWK) Q2 2026 Earnings Call Transcript",
    "url": "https://finance.yahoo.com/m/cb32d4fb-6ff8-3ef3-9159-ab2e2af674e1/american-water-works-%28awk%29-q2.html"
+  }
+ ],
+ "AXTA": [
+  {
+   "date_str": "2026-10-29",
+   "found_at": "2026-10-29T20:34:39",
+   "source": "Motley Fool",
+   "title": "Axalta (AXTA) Q3 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/axalta-axta-q3-2026-earnings-171434024.html"
   }
  ],
  "BDN": [
@@ -266,6 +282,13 @@
  ],
  "HSY": [
   {
+   "date_str": "2026-10-29",
+   "found_at": "2026-10-29T20:34:42",
+   "source": "Motley Fool",
+   "title": "Hershey (HSY) Q3 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/hershey-hsy-q3-2026-earnings-175857505.html"
+  },
+  {
    "date_str": "2026-08-04",
    "found_at": "2026-08-04T01:04:51",
    "source": "Motley Fool",
@@ -319,6 +342,13 @@
   }
  ],
  "MRK": [
+  {
+   "date_str": "2026-10-29",
+   "found_at": "2026-10-29T20:34:44",
+   "source": "Motley Fool",
+   "title": "Merck (MRK) Q3 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/healthcare/articles/merck-mrk-q3-2026-earnings-195855759.html"
+  },
   {
    "date_str": "2026-08-11",
    "found_at": "2026-08-11T16:32:40",
@@ -483,6 +513,15 @@
    "url": "https://www.fool.com/earnings/call-transcripts/2026/05/20/urbn-q1-2027-earnings-transcript/"
   }
  ],
+ "UVSP": [
+  {
+   "date_str": "2026-10-29",
+   "found_at": "2026-10-29T20:34:48",
+   "source": "Motley Fool",
+   "title": "Univest (UVSP) Q3 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/univest-uvsp-q3-2026-earnings-203033132.html"
+  }
+ ],
  "VERX": [
   {
    "date_str": "2026-08-11",
@@ -508,6 +547,15 @@
    "source": "Motley Fool",
    "title": "Vishay (VSH) Q2 2026 Earnings Call Transcript",
    "url": "https://finance.yahoo.com/m/f9f2bba3-a72f-3d24-8eee-f6dc9e553e25/vishay-%28vsh%29-q2-2026-earnings.html"
+  }
+ ],
+ "WST": [
+  {
+   "date_str": "2026-10-29",
+   "found_at": "2026-10-29T20:34:49",
+   "source": "Motley Fool",
+   "title": "West (WST) Q3 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/west-wst-q3-2026-earnings-171434543.html"
   }
  ],
  "WTRG": [

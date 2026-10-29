@@ -7070,3 +7070,32 @@
 [2026-10-29 02:51:08] No new transcripts found; transcripts.json unchanged
 [2026-10-29 02:51:08] === Done. 0 new transcript links found. ===
 
+[2026-10-29 20:34:36] === Fool transcript harvest start (dry_run=False) ===
+[2026-10-29 20:34:36] Loaded 122 tickers from expanded_companies.json
+[2026-10-29 20:34:36] Recent tickers (last filing within 14d): ['ACRS', 'AVBP', 'AVTR', 'AWK', 'AXTA', 'BDN', 'CMCSA', 'COR', 'CRS', 'DORM', 'FMC', 'HCSG', 'HLNE', 'HSY', 'JNJ', 'MRK', 'OCGN', 'OFLX', 'PKBK', 'QNBC', 'QNTO', 'SEIC', 'UHS', 'UHT', 'UVSP', 'WST']
+[2026-10-29 20:34:36] Seed backfill: all seeds already in state
+[2026-10-29 20:34:36] Fetching Fool transcript index: https://www.fool.com/earnings-call-transcripts/
+[2026-10-29 20:34:37]   Found 20 transcript links on index page
+[2026-10-29 20:34:37]   Fool index matched tickers: []
+[2026-10-29 20:34:37] Yahoo secondary search for 18 tickers: ['ACRS', 'AVBP', 'AWK', 'AXTA', 'COR', 'FMC', 'HLNE', 'HSY', 'JNJ', 'MRK', 'OCGN', 'OFLX', 'PKBK', 'QNBC', 'QNTO', 'UHT', 'UVSP', 'WST']
+[2026-10-29 20:34:38]   MISS [Yahoo] ACRS: no transcript items in feed
+[2026-10-29 20:34:38]   MISS [Yahoo] AVBP: no transcript items in feed
+[2026-10-29 20:34:39]   NEW [Yahoo] AWK: https://finance.yahoo.com/markets/stocks/articles/american-water-awk-q3-2026-171607203.html (Motley Fool)
+[2026-10-29 20:34:39]   NEW [Yahoo] AXTA: https://finance.yahoo.com/markets/stocks/articles/axalta-axta-q3-2026-earnings-171434024.html (Motley Fool)
+[2026-10-29 20:34:40]   MISS [Yahoo] COR: no transcript items in feed
+[2026-10-29 20:34:41]   MISS [Yahoo] FMC: no transcript items in feed
+[2026-10-29 20:34:42]   MISS [Yahoo] HLNE: no transcript items in feed
+[2026-10-29 20:34:42]   NEW [Yahoo] HSY: https://finance.yahoo.com/markets/stocks/articles/hershey-hsy-q3-2026-earnings-175857505.html (Motley Fool)
+[2026-10-29 20:34:43]   MISS [Yahoo] JNJ: no transcript items in feed
+[2026-10-29 20:34:44]   NEW [Yahoo] MRK: https://finance.yahoo.com/healthcare/articles/merck-mrk-q3-2026-earnings-195855759.html (Motley Fool)
+[2026-10-29 20:34:45]   MISS [Yahoo] OCGN: no transcript items in feed
+[2026-10-29 20:34:45]   MISS [Yahoo] OFLX: no transcript items in feed
+[2026-10-29 20:34:46]   MISS [Yahoo] PKBK: no transcript items in feed
+[2026-10-29 20:34:47]   MISS [Yahoo] QNBC: no transcript items in feed
+[2026-10-29 20:34:47]   MISS [Yahoo] QNTO: no transcript items in feed
+[2026-10-29 20:34:48]   MISS [Yahoo] UHT: no transcript items in feed
+[2026-10-29 20:34:48]   NEW [Yahoo] UVSP: https://finance.yahoo.com/markets/stocks/articles/univest-uvsp-q3-2026-earnings-203033132.html (Motley Fool)
+[2026-10-29 20:34:49]   NEW [Yahoo] WST: https://finance.yahoo.com/markets/stocks/articles/west-wst-q3-2026-earnings-171434543.html (Motley Fool)
+[2026-10-29 20:34:49] Saved transcripts.json (53 tickers with entries)
+[2026-10-29 20:34:49] === Done. 6 new transcript links found. ===
+
