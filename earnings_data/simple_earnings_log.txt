@@ -4988,3 +4988,13 @@
 [2026-10-28 23:58:02]   firehose: 10-Q feed — 100 entries parsed
 [2026-10-28 23:58:02]   firehose: 100 watched CIKs, 200 total feed entries
 [2026-10-28 23:58:02] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-10-29 01:03:02] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-10-29 01:03:06]   ★ NEW 8k_202 for OFLX (Omega Flex, Inc.) filed 2026-10-28
+[2026-10-29 01:03:06]     https://www.sec.gov/Archives/edgar/data/1317945/000149315226048979/form8-k.htm
+[2026-10-29 01:03:07]     ✉ alert sent (8k_202)
+[2026-10-29 01:03:07]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001317945.json'
+[2026-10-29 01:03:10]   ★ NEW 8k_202 for AWK (American Water Works Company, Inc.) filed 2026-10-28
+[2026-10-29 01:03:10]     https://www.sec.gov/Archives/edgar/data/1410636/000141063626000150/awk-20261028.htm
+[2026-10-29 01:03:11]     ✉ alert sent (8k_202)
+[2026-10-29 01:03:11]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001410636.json'
+[2026-10-29 01:03:31] === EDGAR POLL complete. Fetched 100 companies, 2 new filings. ===
