@@ -725,3 +725,11 @@
 [2026-10-28 01:50:00]   cleanup: removed 2 past entries
 [2026-10-28 01:50:00] === Done. Captured 2 new save-the-dates, cleaned 2 past. ===
 
+[2026-10-29 01:57:28] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-10-29 01:57:28] Polling Yahoo for 106 companies
+[2026-10-29 01:58:01]   + MLYS: release=2026-11-04 call=None None
+[2026-10-29 01:58:01]     via: Mineralys Therapeutics to Announce Third Quarter 2026 Financial Results and Host Conference Call on 
+[2026-10-29 01:58:03]   ✉ alert sent for MLYS
+[2026-10-29 01:58:46]   cleanup: removed 1 past entries
+[2026-10-29 01:58:46] === Done. Captured 1 new save-the-dates, cleaned 1 past. ===
+

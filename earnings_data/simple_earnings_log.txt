@@ -4998,3 +4998,11 @@
 [2026-10-29 01:03:11]     ✉ alert sent (8k_202)
 [2026-10-29 01:03:11]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001410636.json'
 [2026-10-29 01:03:31] === EDGAR POLL complete. Fetched 100 companies, 2 new filings. ===
+[2026-10-29 01:58:47] === CHECK-10Q: scanning for pending 10-Q filings ===
+[2026-10-29 01:58:48]   COR: pending_10q_since=2026-10-21 is 8d old — clearing stale flag
+[2026-10-29 01:58:48]   ✓ 10-Q found for AWK (American Water Works Company, Inc.) filed 2026-10-28
+[2026-10-29 01:58:48]     https://www.sec.gov/Archives/edgar/data/1410636/000141063626000149/awk-20260930.htm
+[2026-10-29 01:58:48]   ✓ 10-Q found for AVTR (Avantor, Inc.) filed 2026-10-28
+[2026-10-29 01:58:48]     https://www.sec.gov/Archives/edgar/data/1722482/000162828026067751/avtr-20260930.htm
+[2026-10-29 01:58:49]   PKBK: pending_10q_since=2026-10-21 is 8d old — clearing stale flag
+[2026-10-29 01:58:50] === CHECK-10Q complete. Checked 10, found 2, cleared 2 stale. ===
