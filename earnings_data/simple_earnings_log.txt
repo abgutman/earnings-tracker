@@ -5044,3 +5044,24 @@
 [2026-10-29 19:31:52]     https://www.sec.gov/Archives/edgar/data/47111/000162828026068136/hsy-20260927.htm
 [2026-10-29 19:31:53]     ✉ alert sent (10q)
 [2026-10-29 19:31:53] === EDGAR FIREHOSE complete. 3 new detections. ===
+[2026-10-29 23:32:15] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-10-29 23:32:16]   firehose: 8-K feed — 100 entries parsed
+[2026-10-29 23:32:16]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-10-29 23:32:16]   firehose: 8-K page 2 — 100 entries
+[2026-10-29 23:32:16]   firehose: 10-Q feed — 100 entries parsed
+[2026-10-29 23:32:16]   firehose: all 10-Q entries newer than watermark — fetching page 2
+[2026-10-29 23:32:16]   firehose: 10-Q page 2 — 100 entries
+[2026-10-29 23:32:16]   firehose: 100 watched CIKs, 400 total feed entries
+[2026-10-29 23:32:17]   ★ NEW 8k_202 for FMC (FMC CORP) filed 2026-10-29
+[2026-10-29 23:32:17]     https://www.sec.gov/Archives/edgar/data/37785/000003778526000168/fmc-20261029.htm
+[2026-10-29 23:32:18]     ✉ alert sent (8k_202)
+[2026-10-29 23:32:18]   ★ NEW 8k_202 for KWR (QUAKER CHEMICAL CORP) filed 2026-10-29
+[2026-10-29 23:32:18]     https://www.sec.gov/Archives/edgar/data/81362/000162828026068281/kwr-20261029.htm
+[2026-10-29 23:32:19]     ✉ alert sent (8k_202)
+[2026-10-29 23:32:20]   ★ NEW 10q for KWR (QUAKER CHEMICAL CORP) filed 2026-10-29
+[2026-10-29 23:32:20]     https://www.sec.gov/Archives/edgar/data/81362/000162828026068284/kwr-20260930.htm
+[2026-10-29 23:32:21]     ✉ alert sent (10q)
+[2026-10-29 23:32:21]   ★ NEW 10q for WST (WEST PHARMACEUTICAL SERVICES INC) filed 2026-10-29
+[2026-10-29 23:32:21]     https://www.sec.gov/Archives/edgar/data/105770/000010577026000121/wst-20260930.htm
+[2026-10-29 23:32:22]     ✉ alert sent (10q)
+[2026-10-29 23:32:22] === EDGAR FIREHOSE complete. 4 new detections. ===
