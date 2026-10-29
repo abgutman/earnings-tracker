@@ -5006,3 +5006,25 @@
 [2026-10-29 01:58:48]     https://www.sec.gov/Archives/edgar/data/1722482/000162828026067751/avtr-20260930.htm
 [2026-10-29 01:58:49]   PKBK: pending_10q_since=2026-10-21 is 8d old — clearing stale flag
 [2026-10-29 01:58:50] === CHECK-10Q complete. Checked 10, found 2, cleared 2 stale. ===
+[2026-10-29 17:22:39] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-10-29 17:22:39]   firehose: 8-K feed — 100 entries parsed
+[2026-10-29 17:22:39]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-10-29 17:22:39]   firehose: 8-K page 2 — 100 entries
+[2026-10-29 17:22:39]   firehose: 10-Q feed — 100 entries parsed
+[2026-10-29 17:22:39]   firehose: 100 watched CIKs, 300 total feed entries
+[2026-10-29 17:22:40]   ★ NEW 8k_202 for UVSP (UNIVEST FINANCIAL Corp) filed 2026-10-29
+[2026-10-29 17:22:40]     https://www.sec.gov/Archives/edgar/data/102212/000010221226000041/uvsp-20261028.htm
+[2026-10-29 17:22:41]     ✉ alert sent (8k_202)
+[2026-10-29 17:22:41]   ★ NEW 8k_202 for HSY (HERSHEY CO) filed 2026-10-29
+[2026-10-29 17:22:41]     https://www.sec.gov/Archives/edgar/data/47111/000162828026068046/hsy-20261029.htm
+[2026-10-29 17:22:42]     ✉ alert sent (8k_202)
+[2026-10-29 17:22:42]   ★ NEW 8k_202 for AXTA (Axalta Coating Systems Ltd.) filed 2026-10-29
+[2026-10-29 17:22:42]     https://www.sec.gov/Archives/edgar/data/1616862/000161686226000008/axta-20261029.htm
+[2026-10-29 17:22:45]     ✉ alert sent (8k_202)
+[2026-10-29 17:22:45]   ★ NEW 8k_202 for WST (WEST PHARMACEUTICAL SERVICES INC) filed 2026-10-29
+[2026-10-29 17:22:45]     https://www.sec.gov/Archives/edgar/data/105770/000010577026000118/wst-20261029.htm
+[2026-10-29 17:22:48]     ✉ alert sent (8k_202)
+[2026-10-29 17:22:48]   ★ NEW 8k_202 for MRK (Merck & Co., Inc.) filed 2026-10-29
+[2026-10-29 17:22:48]     https://www.sec.gov/Archives/edgar/data/310158/000110465926119825/tm2628203d1_8k.htm
+[2026-10-29 17:22:49]     ✉ alert sent (8k_202)
+[2026-10-29 17:22:49] === EDGAR FIREHOSE complete. 5 new detections. ===
