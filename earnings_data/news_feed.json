@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-10-29T05:38:19",
+ "generated_at": "2026-10-29T17:24:48",
  "items": [
+  {
+   "uuid": "345b55dc-92e2-3b42-ab06-a6f8ed322ce7",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Breaks Ground to Bring Xfinity Reliable, Fiber-Powered Internet and Comcast Business Advanced Solutions to Barrington, New Hampshire",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/articles/comcast-breaks-ground-bring-xfinity-140000343.html",
+   "published_unix": 1793282400,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-29T17:24:35"
+  },
+  {
+   "uuid": "4499c799-13ac-3f5d-81a6-f1543b4f13a0",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "What Mattered Most In Comcast's Latest Quarter?",
+   "publisher": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/mattered-most-comcasts-latest-quarter-114410552.html",
+   "published_unix": 1793274250,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-29T17:24:35"
+  },
   {
    "uuid": "013436c4-84a7-3c0d-8566-8c0403ce6803",
    "tickers": [
@@ -2026,110 +2052,6 @@
    "published_unix": 1790705160,
    "source_type": "yahoo",
    "captured_at": "2026-09-29T21:24:02"
-  },
-  {
-   "uuid": "8645de52-77ca-34e0-850e-cb7a20ab7337",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast Deploys Fiber Sensing Technology to Enhance Network Intelligence and Reliability",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/articles/comcast-deploys-fiber-sensing-technology-164100679.html",
-   "published_unix": 1790700060,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-29T16:52:56"
-  },
-  {
-   "uuid": "6d1032bd-b5cd-36d5-acb5-7a60c78c4888",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "New Luxury Waterfront Community, Marion Pointe by Toll Brothers, is Now Open in Marion, Massachusetts",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/luxury-waterfront-community-marion-pointe-160500040.html",
-   "published_unix": 1790697900,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-29T16:53:23"
-  },
-  {
-   "uuid": "2be7e7e3-ca43-359c-860c-f77589f7fe0c",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "West Virginia American Water Participates in Source Water Protection Week",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/west-virginia-american-water-participates-153800620.html",
-   "published_unix": 1790696280,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-29T16:53:00"
-  },
-  {
-   "uuid": "c40a2b06-869f-3adb-a152-75f87d969454",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast NBCUniversal Announces $2.5 Million in Unrestricted Grants to 80 Nonprofits",
-   "publisher": "ACCESS Newswire",
-   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-nbcuniversal-announces-2-5-133000380.html",
-   "published_unix": 1790688600,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-29T16:52:56"
-  },
-  {
-   "uuid": "a008deed-4507-39ac-a1f8-6e599649f324",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast Trials Latest Aurora Networks Technology in Industry-Leading DOCSIS 4.0 Deployment",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/articles/comcast-trials-latest-aurora-networks-120000692.html",
-   "published_unix": 1790683200,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-29T16:52:56"
-  },
-  {
-   "uuid": "b58d85d2-f093-33c2-a4d5-7e6e0bb100c4",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "TMUS, CMCSA Stock Price Targets Cut \u2013 Barclays Warns Of Limited Upside Ahead Of Q3 Earnings",
-   "publisher": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tmus-cmcsa-stock-price-targets-115514804.html",
-   "published_unix": 1790682914,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-29T16:52:56"
-  },
-  {
-   "uuid": "43731b3c-7abb-340d-a5f2-f35e8f0fdcdf",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Aramark Sports + Entertainment Turns up the Heat for the 2026-27 Arena Season With Locally Inspired, Personalized Fan Experiences",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/media-advertising/articles/aramark-sports-entertainment-turns-heat-113000223.html",
-   "published_unix": 1790681400,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-29T16:52:56"
-  },
-  {
-   "uuid": "4791c732-5dde-3ab2-8f7e-d3cb2a551eb0",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Barclays Adjusts Price Target on Comcast to $24 From $26, Maintains Equalweight Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-adjusts-price-target-comcast-093654912.html",
-   "published_unix": 1790674614,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-29T16:52:56"
   }
  ]
 }
