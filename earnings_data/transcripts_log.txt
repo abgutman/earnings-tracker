@@ -7046,3 +7046,27 @@
 [2026-10-28 20:33:05] Saved transcripts.json (50 tickers with entries)
 [2026-10-28 20:33:05] === Done. 2 new transcript links found. ===
 
+[2026-10-29 02:50:59] === Fool transcript harvest start (dry_run=False) ===
+[2026-10-29 02:50:59] Loaded 122 tickers from expanded_companies.json
+[2026-10-29 02:50:59] Recent tickers (last filing within 14d): ['ACRS', 'AVBP', 'AVTR', 'AWK', 'BDN', 'CMCSA', 'COR', 'CRS', 'DORM', 'FMC', 'HCSG', 'HLNE', 'JNJ', 'OCGN', 'OFLX', 'PKBK', 'QNBC', 'QNTO', 'SEIC', 'UHS', 'UHT']
+[2026-10-29 02:50:59] Seed backfill: all seeds already in state
+[2026-10-29 02:50:59] Fetching Fool transcript index: https://www.fool.com/earnings-call-transcripts/
+[2026-10-29 02:51:00]   Found 20 transcript links on index page
+[2026-10-29 02:51:00]   Fool index matched tickers: []
+[2026-10-29 02:51:00] Yahoo secondary search for 13 tickers: ['ACRS', 'AVBP', 'AWK', 'COR', 'FMC', 'HLNE', 'JNJ', 'OCGN', 'OFLX', 'PKBK', 'QNBC', 'QNTO', 'UHT']
+[2026-10-29 02:51:00]   MISS [Yahoo] ACRS: no transcript items in feed
+[2026-10-29 02:51:01]   MISS [Yahoo] AVBP: no transcript items in feed
+[2026-10-29 02:51:02]   MISS [Yahoo] AWK: no transcript items in feed
+[2026-10-29 02:51:02]   MISS [Yahoo] COR: no transcript items in feed
+[2026-10-29 02:51:03]   MISS [Yahoo] FMC: no transcript items in feed
+[2026-10-29 02:51:04]   MISS [Yahoo] HLNE: no transcript items in feed
+[2026-10-29 02:51:04]   MISS [Yahoo] JNJ: no transcript items in feed
+[2026-10-29 02:51:05]   MISS [Yahoo] OCGN: no transcript items in feed
+[2026-10-29 02:51:06]   MISS [Yahoo] OFLX: no transcript items in feed
+[2026-10-29 02:51:06]   MISS [Yahoo] PKBK: no transcript items in feed
+[2026-10-29 02:51:07]   MISS [Yahoo] QNBC: no transcript items in feed
+[2026-10-29 02:51:07]   MISS [Yahoo] QNTO: no transcript items in feed
+[2026-10-29 02:51:08]   MISS [Yahoo] UHT: no transcript items in feed
+[2026-10-29 02:51:08] No new transcripts found; transcripts.json unchanged
+[2026-10-29 02:51:08] === Done. 0 new transcript links found. ===
+
