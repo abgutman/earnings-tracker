@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-10-29T17:24:48",
+ "generated_at": "2026-10-29T22:43:14",
  "items": [
+  {
+   "uuid": "81fe2071-23dc-3269-b347-075e849631a6",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC Corporation",
+   "title": "FMC: Q3 Earnings Snapshot",
+   "publisher": "Associated Press",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-q3-earnings-snapshot-210259326.html",
+   "published_unix": 1793307779,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-29T22:43:02"
+  },
+  {
+   "uuid": "8c8320c7-7126-3dbb-9e15-057a3869c165",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC Corporation",
+   "title": "FMC Corporation Reports Third-Quarter 2026 Results and Revised Fourth-Quarter Outlook",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-corporation-reports-third-quarter-203000797.html",
+   "published_unix": 1793305800,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-29T22:43:02"
+  },
   {
    "uuid": "345b55dc-92e2-3b42-ab06-a6f8ed322ce7",
    "tickers": [
@@ -13,6 +39,19 @@
    "published_unix": 1793282400,
    "source_type": "yahoo",
    "captured_at": "2026-10-29T17:24:35"
+  },
+  {
+   "uuid": "17d656e3-b00e-34d9-a958-6170b5d9519a",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Works Company, Inc. Q3 2026 Earnings Call Summary",
+   "publisher": "Moby",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/american-water-works-company-inc-123000258.html",
+   "published_unix": 1793277000,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-29T22:43:04"
   },
   {
    "uuid": "4499c799-13ac-3f5d-81a6-f1543b4f13a0",
@@ -2039,19 +2078,6 @@
    "published_unix": 1790769600,
    "source_type": "yahoo",
    "captured_at": "2026-09-30T16:48:45"
-  },
-  {
-   "uuid": "34cb5cfb-cabf-3919-a21f-ab6524330f4f",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Apex, North Carolina",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-180600839.html",
-   "published_unix": 1790705160,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-29T21:24:02"
   }
  ]
 }
