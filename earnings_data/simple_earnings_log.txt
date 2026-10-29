@@ -5030,3 +5030,17 @@
 [2026-10-29 17:22:49] === EDGAR FIREHOSE complete. 5 new detections. ===
 [2026-10-29 19:00:36] === EDGAR POLL: scanning for new earnings filings (live=True) ===
 [2026-10-29 19:01:07] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
+[2026-10-29 19:31:41] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-10-29 19:31:41]   firehose: 8-K feed — 100 entries parsed
+[2026-10-29 19:31:50]   firehose: 10-Q feed — 100 entries parsed
+[2026-10-29 19:31:50]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-10-29 19:31:50]   ★ NEW 10q for BDN (BRANDYWINE REALTY TRUST) filed 2026-10-29
+[2026-10-29 19:31:50]     https://www.sec.gov/Archives/edgar/data/790816/000079081626000045/bdn-20260930.htm
+[2026-10-29 19:31:51]     ✉ alert sent (10q)
+[2026-10-29 19:31:51]   ★ NEW 10q for AXTA (Axalta Coating Systems Ltd.) filed 2026-10-29
+[2026-10-29 19:31:51]     https://www.sec.gov/Archives/edgar/data/1616862/000162828026068173/axta-20260930.htm
+[2026-10-29 19:31:52]     ✉ alert sent (10q)
+[2026-10-29 19:31:52]   ★ NEW 10q for HSY (HERSHEY CO) filed 2026-10-29
+[2026-10-29 19:31:52]     https://www.sec.gov/Archives/edgar/data/47111/000162828026068136/hsy-20260927.htm
+[2026-10-29 19:31:53]     ✉ alert sent (10q)
+[2026-10-29 19:31:53] === EDGAR FIREHOSE complete. 3 new detections. ===
