@@ -339,10 +339,10 @@
   "name": "Omega Flex, Inc.",
   "cik": "0001317945",
   "priority_tier": 2,
-  "last_event_date": "2026-10-28T20:01:20.000Z",
-  "last_event_title": "8k_202 filed 2026-10-28",
+  "last_event_date": "2026-10-30T15:57:22.000Z",
+  "last_event_title": "10q filed 2026-10-30",
   "last_event_source": "edgar",
-  "last_event_url": "https://www.sec.gov/Archives/edgar/data/1317945/000149315226048979/form8-k.htm",
+  "last_event_url": "https://www.sec.gov/Archives/edgar/data/1317945/000149315226049387/form10-q.htm",
   "last_event_publisher": "GlobeNewswire",
   "edgar_accession": "0001493152-26-019579",
   "last_8k_date": "2026-10-28",
@@ -356,11 +356,11 @@
     "url": "https://www.sec.gov/Archives/edgar/data/1317945/000149315226019579/form8-k.htm"
    }
   ],
-  "last_detected_date": "2026-10-28",
-  "last_detected_accession": "0001493152-26-048979",
-  "last_detected_type": "8k_202",
-  "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1317945/000149315226048979/form8-k.htm",
-  "last_detected_at": "2026-10-29T01:03:02.964605+00:00",
+  "last_detected_date": "2026-10-30",
+  "last_detected_accession": "0001493152-26-049387",
+  "last_detected_type": "10q",
+  "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1317945/000149315226049387/form10-q.htm",
+  "last_detected_at": "2026-10-30T16:58:43.304770+00:00",
   "last_8k_detected_at": "2026-10-29T01:03:02.964605+00:00",
   "last_10q_url": null,
   "pending_10q_since": "2026-10-28"
@@ -762,15 +762,15 @@
   "name": "CubeSmart",
   "cik": 1298675,
   "priority_tier": 2,
-  "last_event_date": "2026-09-14T16:32:51.000Z",
-  "last_event_title": "8k_202 filed 2026-09-14",
+  "last_event_date": "2026-10-30T11:23:40.000Z",
+  "last_event_title": "8k_202 filed 2026-10-30",
   "last_event_source": "edgar",
-  "last_event_url": "https://www.sec.gov/Archives/edgar/data/1298675/000129867526000041/cube-20260914x8k.htm",
+  "last_event_url": "https://www.sec.gov/Archives/edgar/data/1298675/000129867526000047/cube-20261029x8k.htm",
   "last_event_publisher": "GlobeNewswire",
   "edgar_accession": "0001298675-26-000025",
-  "last_8k_date": "2026-09-14",
-  "last_8k_accession": "0001298675-26-000041",
-  "last_8k_url": "https://www.sec.gov/Archives/edgar/data/1298675/000129867526000041/cube-20260914x8k.htm",
+  "last_8k_date": "2026-10-30",
+  "last_8k_accession": "0001298675-26-000047",
+  "last_8k_url": "https://www.sec.gov/Archives/edgar/data/1298675/000129867526000047/cube-20261029x8k.htm",
   "history": [
    {
     "date": "2026-05-14T11:17:22.000Z",
@@ -779,13 +779,14 @@
     "url": "https://www.sec.gov/Archives/edgar/data/1298675/000129867526000025/cube-20260514x8k.htm"
    }
   ],
-  "last_8k_detected_at": "2026-09-14T22:42:55.720392+00:00",
-  "last_detected_date": "2026-09-14",
-  "last_detected_accession": "0001298675-26-000041",
+  "last_8k_detected_at": "2026-10-30T16:58:43.304770+00:00",
+  "last_detected_date": "2026-10-30",
+  "last_detected_accession": "0001298675-26-000047",
   "last_detected_type": "8k_202",
-  "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1298675/000129867526000041/cube-20260914x8k.htm",
-  "last_detected_at": "2026-09-14T22:42:55.720392+00:00",
-  "last_10q_url": null
+  "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1298675/000129867526000047/cube-20261029x8k.htm",
+  "last_detected_at": "2026-10-30T16:58:43.304770+00:00",
+  "last_10q_url": null,
+  "pending_10q_since": "2026-10-30"
  },
  "VSNT": {
   "ticker": "VSNT",

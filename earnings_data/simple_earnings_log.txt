@@ -5099,3 +5099,16 @@
 [2026-10-30 02:11:47]   ✓ 10-Q found for HSY (HERSHEY CO) filed 2026-10-29
 [2026-10-30 02:11:47]     https://www.sec.gov/Archives/edgar/data/47111/000162828026068136/hsy-20260927.htm
 [2026-10-30 02:11:47] === CHECK-10Q complete. Checked 14, found 4, cleared 1 stale. ===
+[2026-10-30 16:58:43] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-10-30 16:58:44]   firehose: 8-K feed — 100 entries parsed
+[2026-10-30 16:58:44]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-10-30 16:58:44]   firehose: 8-K page 2 — 100 entries
+[2026-10-30 16:58:45]   firehose: 10-Q feed — 100 entries parsed
+[2026-10-30 16:58:45]   firehose: 100 watched CIKs, 300 total feed entries
+[2026-10-30 16:58:45]   ★ NEW 8k_202 for CUBE (CubeSmart) filed 2026-10-30
+[2026-10-30 16:58:45]     https://www.sec.gov/Archives/edgar/data/1298675/000129867526000047/cube-20261029x8k.htm
+[2026-10-30 16:58:47]     ✉ alert sent (8k_202)
+[2026-10-30 16:58:47]   ★ NEW 10q for OFLX (Omega Flex, Inc.) filed 2026-10-30
+[2026-10-30 16:58:47]     https://www.sec.gov/Archives/edgar/data/1317945/000149315226049387/form10-q.htm
+[2026-10-30 16:58:48]     ✉ alert sent (10q)
+[2026-10-30 16:58:48] === EDGAR FIREHOSE complete. 2 new detections. ===
