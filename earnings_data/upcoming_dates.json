@@ -50,26 +50,6 @@
   "source_type": "yahoo_auto",
   "captured_at": "2026-10-07T01:50:30"
  },
- "AWK": {
-  "release_date": "2026-10-29",
-  "call_date": null,
-  "call_time": null,
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/american-water-discuss-third-quarter-172100914.html",
-  "source_title": "American Water to Discuss Third Quarter 2026 Results and Initiation of 2027 Standalone Earnings Guidance on October 29, 2026",
-  "source_publisher": "PR Newswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-10-07T01:50:39"
- },
- "CUBE": {
-  "release_date": "2026-10-29",
-  "call_date": null,
-  "call_time": "11:00 ET",
-  "source_url": "https://finance.yahoo.com/real-estate/articles/cubesmart-announces-date-third-quarter-201500206.html",
-  "source_title": "CubeSmart Announces the Date of Its Third Quarter 2026 Earnings Release and Conference Call",
-  "source_publisher": "GlobeNewswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-10-07T01:50:49"
- },
  "VSNT": {
   "release_date": "2026-11-03",
   "call_date": null,
@@ -100,26 +80,6 @@
   "source_type": "yahoo_auto",
   "captured_at": "2026-10-08T02:17:55"
  },
- "UVSP": {
-  "release_date": null,
-  "call_date": "2026-10-29",
-  "call_time": "09:00 ET",
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/univest-financial-corporation-hold-third-132500283.html",
-  "source_title": "Univest Financial Corporation to Hold Third Quarter 2026 Earnings Call",
-  "source_publisher": "GlobeNewswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-10-08T02:18:27"
- },
- "WST": {
-  "release_date": "2026-10-29",
-  "call_date": null,
-  "call_time": "03:00 ET",
-  "source_url": "https://finance.yahoo.com/healthcare/articles/west-host-third-quarter-2026-100000907.html",
-  "source_title": "West to Host Third-Quarter 2026 Conference Call",
-  "source_publisher": "PR Newswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-10-09T02:35:57"
- },
  "FSK": {
   "release_date": "2026-11-05",
   "call_date": "2026-11-05",
@@ -149,16 +109,6 @@
   "source_publisher": "Business Wire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-10-10T01:56:23"
- },
- "HSY": {
-  "release_date": "2026-10-29",
-  "call_date": null,
-  "call_time": "08:00 ET",
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/hershey-webcast-third-quarter-conference-130000040.html",
-  "source_title": "Hershey to Webcast Third-Quarter Conference Call",
-  "source_publisher": "PR Newswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-10-10T01:57:29"
  },
  "GMED": {
   "release_date": "2026-11-05",
@@ -309,5 +259,25 @@
   "source_publisher": "GlobeNewswire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-10-29T01:58:01"
+ },
+ "KWR": {
+  "release_date": null,
+  "call_date": "2026-10-30",
+  "call_time": "08:00 ET",
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/quaker-houghton-announces-third-quarter-203000937.html",
+  "source_title": "QUAKER HOUGHTON ANNOUNCES THIRD QUARTER 2026 RESULTS",
+  "source_publisher": "PR Newswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-10-30T02:10:59"
+ },
+ "PVLA": {
+  "release_date": "2026-11-05",
+  "call_date": null,
+  "call_time": null,
+  "source_url": "https://finance.yahoo.com/healthcare/articles/palvella-therapeutics-host-third-quarter-113000435.html",
+  "source_title": "Palvella Therapeutics to Host Third Quarter 2026 Financial Results and Corporate Update Conference Call on November 5, 2026",
+  "source_publisher": "GlobeNewswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-10-30T02:11:02"
  }
 }

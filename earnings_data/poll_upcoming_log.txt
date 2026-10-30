@@ -733,3 +733,14 @@
 [2026-10-29 01:58:46]   cleanup: removed 1 past entries
 [2026-10-29 01:58:46] === Done. Captured 1 new save-the-dates, cleaned 1 past. ===
 
+[2026-10-30 02:10:27] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-10-30 02:10:27] Polling Yahoo for 106 companies
+[2026-10-30 02:10:59]   + KWR: release=None call=2026-10-30 08:00 ET
+[2026-10-30 02:10:59]     via: QUAKER HOUGHTON ANNOUNCES THIRD QUARTER 2026 RESULTS
+[2026-10-30 02:11:00]   ✉ alert sent for KWR
+[2026-10-30 02:11:02]   + PVLA: release=2026-11-05 call=None None
+[2026-10-30 02:11:02]     via: Palvella Therapeutics to Host Third Quarter 2026 Financial Results and Corporate Update Conference C
+[2026-10-30 02:11:02]   ✉ alert sent for PVLA
+[2026-10-30 02:11:43]   cleanup: removed 5 past entries
+[2026-10-30 02:11:43] === Done. Captured 2 new save-the-dates, cleaned 5 past. ===
+

@@ -5088,3 +5088,14 @@
 [2026-10-30 01:09:09]     ✉ alert sent (8k_202)
 [2026-10-30 01:09:09]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0000047111.json'
 [2026-10-30 01:09:10] === EDGAR POLL complete. Fetched 100 companies, 4 new filings. ===
+[2026-10-30 02:11:44] === CHECK-10Q: scanning for pending 10-Q filings ===
+[2026-10-30 02:11:44]   BDN: pending_10q_since=2026-10-22 is 8d old — clearing stale flag
+[2026-10-30 02:11:45]   ✓ 10-Q found for AXTA (Axalta Coating Systems Ltd.) filed 2026-10-29
+[2026-10-30 02:11:45]     https://www.sec.gov/Archives/edgar/data/1616862/000162828026068173/axta-20260930.htm
+[2026-10-30 02:11:45]   ✓ 10-Q found for WST (WEST PHARMACEUTICAL SERVICES INC) filed 2026-10-29
+[2026-10-30 02:11:45]     https://www.sec.gov/Archives/edgar/data/105770/000010577026000121/wst-20260930.htm
+[2026-10-30 02:11:45]   ✓ 10-Q found for KWR (QUAKER CHEMICAL CORP) filed 2026-10-29
+[2026-10-30 02:11:45]     https://www.sec.gov/Archives/edgar/data/81362/000162828026068284/kwr-20260930.htm
+[2026-10-30 02:11:47]   ✓ 10-Q found for HSY (HERSHEY CO) filed 2026-10-29
+[2026-10-30 02:11:47]     https://www.sec.gov/Archives/edgar/data/47111/000162828026068136/hsy-20260927.htm
+[2026-10-30 02:11:47] === CHECK-10Q complete. Checked 14, found 4, cleared 1 stale. ===
