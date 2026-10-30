@@ -7121,3 +7121,26 @@
 [2026-10-30 02:56:57] No new transcripts found; transcripts.json unchanged
 [2026-10-30 02:56:57] === Done. 0 new transcript links found. ===
 
+[2026-10-30 20:07:01] === Fool transcript harvest start (dry_run=False) ===
+[2026-10-30 20:07:01] Loaded 122 tickers from expanded_companies.json
+[2026-10-30 20:07:01] Recent tickers (last filing within 14d): ['ACRS', 'AVBP', 'AVTR', 'AWK', 'AXTA', 'BDN', 'CMCSA', 'COR', 'CRS', 'CUBE', 'DORM', 'FMC', 'HCSG', 'HSY', 'JNJ', 'KWR', 'MRK', 'OFLX', 'PKBK', 'QNBC', 'QNTO', 'SEIC', 'UHS', 'UHT', 'UVSP', 'WST']
+[2026-10-30 20:07:01] Seed backfill: all seeds already in state
+[2026-10-30 20:07:01] Fetching Fool transcript index: https://www.fool.com/earnings-call-transcripts/
+[2026-10-30 20:07:02]   Found 20 transcript links on index page
+[2026-10-30 20:07:02]   Fool index matched tickers: []
+[2026-10-30 20:07:02] Yahoo secondary search for 12 tickers: ['ACRS', 'AVBP', 'COR', 'CUBE', 'FMC', 'JNJ', 'KWR', 'OFLX', 'PKBK', 'QNBC', 'QNTO', 'UHT']
+[2026-10-30 20:07:03]   MISS [Yahoo] ACRS: no transcript items in feed
+[2026-10-30 20:07:04]   MISS [Yahoo] AVBP: no transcript items in feed
+[2026-10-30 20:07:04]   MISS [Yahoo] COR: no transcript items in feed
+[2026-10-30 20:07:05]   NEW [Yahoo] CUBE: https://finance.yahoo.com/markets/stocks/articles/cubesmart-cube-q3-2026-earnings-194602257.html (Motley Fool)
+[2026-10-30 20:07:06]   NEW [Yahoo] FMC: https://finance.yahoo.com/markets/stocks/articles/fmc-fmc-q3-2026-earnings-195817861.html (Motley Fool)
+[2026-10-30 20:07:07]   MISS [Yahoo] JNJ: no transcript items in feed
+[2026-10-30 20:07:07]   NEW [Yahoo] KWR: https://finance.yahoo.com/markets/stocks/articles/quaker-chemical-kwr-q3-2026-173025278.html (Motley Fool)
+[2026-10-30 20:07:08]   MISS [Yahoo] OFLX: no transcript items in feed
+[2026-10-30 20:07:09]   MISS [Yahoo] PKBK: no transcript items in feed
+[2026-10-30 20:07:09]   MISS [Yahoo] QNBC: no transcript items in feed
+[2026-10-30 20:07:10]   MISS [Yahoo] QNTO: no transcript items in feed
+[2026-10-30 20:07:11]   MISS [Yahoo] UHT: no transcript items in feed
+[2026-10-30 20:07:11] Saved transcripts.json (53 tickers with entries)
+[2026-10-30 20:07:11] === Done. 3 new transcript links found. ===
+
