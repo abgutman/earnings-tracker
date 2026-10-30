@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T17:00:30",
+ "generated_at": "2026-10-30T21:28:56",
  "items": [
   {
    "uuid": "16a47e7e-a31e-3640-a723-881e7fbb7920",
@@ -2039,19 +2039,6 @@
    "published_unix": 1790847936,
    "source_type": "yahoo",
    "captured_at": "2026-10-01T17:22:10"
-  },
-  {
-   "uuid": "a66a8133-4f9a-3b64-a0c0-289cca7a23be",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Kentucky American Water Participates in Source Water Protection Week",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/kentucky-american-water-participates-source-200900286.html",
-   "published_unix": 1790798940,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-30T21:24:55"
   }
  ]
 }

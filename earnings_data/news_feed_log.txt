@@ -12354,3 +12354,28 @@
 [2026-10-30 17:00:30]   Brandywine Realty Trust: ticker BDN did not resolve — skipping (avoids generic bucket)
 [2026-10-30 17:00:30]   Brandywine Realty Trust [yahoo_search]: 0 fetched, 0 new
 [2026-10-30 17:00:30] === Done. 185 new items, 158 total in 720h window ===
+[2026-10-30 21:28:42] === Local news feed poll start ===
+[2026-10-30 21:28:42] 22 active entities
+[2026-10-30 21:28:43]   Comcast [yahoo_search]: 8 fetched, 0 new
+[2026-10-30 21:28:43]   Aramark [yahoo_search]: 8 fetched, 4 new
+[2026-10-30 21:28:44]   Cencora [yahoo_search]: 5 fetched, 0 new
+[2026-10-30 21:28:45]   FMC Corporation [yahoo_search]: 6 fetched, 0 new
+[2026-10-30 21:28:45]   Five Below [yahoo_search]: 3 fetched, 0 new
+[2026-10-30 21:28:46]   Campbell's [yahoo_search]: 4 fetched, 0 new
+[2026-10-30 21:28:47]   Burlington Stores [yahoo_search]: 2 fetched, 0 new
+[2026-10-30 21:28:47]   American Water [yahoo_search]: 14 fetched, 0 new
+[2026-10-30 21:28:48]   Essential Utilities [yahoo_search]: 5 fetched, 0 new
+[2026-10-30 21:28:48]   Independence Blue Cross [wire_page]: 25 fetched, 25 new
+[2026-10-30 21:28:49]   Vanguard [wire_page]: 6 fetched, 6 new
+[2026-10-30 21:28:50]   Wawa [wire_page]: 6 fetched, 6 new
+[2026-10-30 21:28:51]   Gopuff [wire_page]: 3 fetched, 3 new
+[2026-10-30 21:28:51]   PJM Interconnection [wire_page]: 25 fetched, 24 new
+[2026-10-30 21:28:52]   Franklin Biolabs [rss]: 10 fetched, 10 new
+[2026-10-30 21:28:53]   QVC Group [wire_page]: 25 fetched, 24 new
+[2026-10-30 21:28:54]   Spark Therapeutics [wire_page]: 22 fetched, 22 new
+[2026-10-30 21:28:54]   GEMMA Biotherapeutics [wire_page]: 9 fetched, 9 new
+[2026-10-30 21:28:55]   David's Bridal [wire_page]: 25 fetched, 25 new
+[2026-10-30 21:28:55]   TD Bank [wire_page]: 25 fetched, 25 new
+[2026-10-30 21:28:56]   Toll Brothers [yahoo_search]: 10 fetched, 0 new
+[2026-10-30 21:28:56]   Brandywine Realty Trust [yahoo_search]: 10 fetched, 7 new
+[2026-10-30 21:28:56] === Done. 190 new items, 157 total in 720h window ===
