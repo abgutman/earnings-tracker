@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-10-30T05:37:18",
+ "generated_at": "2026-10-30T17:00:30",
  "items": [
+  {
+   "uuid": "16a47e7e-a31e-3640-a723-881e7fbb7920",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces New Luxury Home Collection Coming Soon to Toll Brothers at Mapleton near Provo, Utah",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-154600544.html",
+   "published_unix": 1793375160,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-30T17:00:30"
+  },
+  {
+   "uuid": "e511618e-8b1f-3df3-80c0-b156f0552a17",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "California American Water Invests $1.68 Million in Isleton Water System",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/california-american-water-invests-1-140000927.html",
+   "published_unix": 1793368800,
+   "source_type": "yahoo",
+   "captured_at": "2026-10-30T17:00:21"
+  },
   {
    "uuid": "81fe2071-23dc-3269-b347-075e849631a6",
    "tickers": [
@@ -2026,58 +2052,6 @@
    "published_unix": 1790798940,
    "source_type": "yahoo",
    "captured_at": "2026-09-30T21:24:55"
-  },
-  {
-   "uuid": "1fedeccc-b940-31e7-8ba7-6b27df593e19",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "California American Water Participates in Source Water Protection Week",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/california-american-water-participates-source-165600953.html",
-   "published_unix": 1790787360,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-30T21:24:55"
-  },
-  {
-   "uuid": "b859d34c-f5ba-33ac-94d4-11917a960685",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Washougal, Washington",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-130000477.html",
-   "published_unix": 1790773200,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-30T16:49:04"
-  },
-  {
-   "uuid": "39aa04f2-ab23-385f-a387-a32b4b92e2a8",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Harmonic Launches Recon Network Monitoring Product Family Developed With Comcast",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/technology/articles/harmonic-launches-recon-network-monitoring-123025584.html",
-   "published_unix": 1790771425,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-30T16:48:45"
-  },
-  {
-   "uuid": "cff31283-a37a-36a0-aa13-e93a368741f0",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Harmonic Launches Recon Product Family Developed in Partnership with Comcast",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/technology/articles/harmonic-launches-recon-product-family-120000072.html",
-   "published_unix": 1790769600,
-   "source_type": "yahoo",
-   "captured_at": "2026-09-30T16:48:45"
   }
  ]
 }
