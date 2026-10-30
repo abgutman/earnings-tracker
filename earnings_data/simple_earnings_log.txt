@@ -5123,3 +5123,19 @@
 [2026-10-30 19:11:49]   firehose: 10-Q feed — 100 entries parsed
 [2026-10-30 19:11:49]   firehose: 100 watched CIKs, 200 total feed entries
 [2026-10-30 19:11:49] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-10-30 23:09:10] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-10-30 23:09:11]   firehose: 8-K feed — 100 entries parsed
+[2026-10-30 23:09:11]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-10-30 23:09:11]   firehose: 8-K page 2 — 100 entries
+[2026-10-30 23:09:11]   firehose: 10-Q feed — 100 entries parsed
+[2026-10-30 23:09:11]   firehose: 100 watched CIKs, 300 total feed entries
+[2026-10-30 23:09:11]   ★ NEW 8k_701 for ANVS (Annovis Bio, Inc.) filed 2026-10-30
+[2026-10-30 23:09:11]     https://www.sec.gov/Archives/edgar/data/1477845/000110465926120732/tm2628596d1_8k.htm
+[2026-10-30 23:09:12]     ✉ alert sent (8k_701)
+[2026-10-30 23:09:12]   ★ NEW 8k_202 for MRBK (Meridian Corp) filed 2026-10-30
+[2026-10-30 23:09:12]     https://www.sec.gov/Archives/edgar/data/1750735/000175073526000070/mrbk-20261030.htm
+[2026-10-30 23:09:13]     ✉ alert sent (8k_202)
+[2026-10-30 23:09:13]   ★ NEW 10q for CUBE (CubeSmart) filed 2026-10-30
+[2026-10-30 23:09:13]     https://www.sec.gov/Archives/edgar/data/1298675/000129867526000050/cube-20260930x10q.htm
+[2026-10-30 23:09:14]     ✉ alert sent (10q)
+[2026-10-30 23:09:14] === EDGAR FIREHOSE complete. 3 new detections. ===
