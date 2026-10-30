@@ -5070,3 +5070,21 @@
 [2026-10-29 23:53:56]   firehose: 10-Q feed — 100 entries parsed
 [2026-10-29 23:53:56]   firehose: 100 watched CIKs, 200 total feed entries
 [2026-10-29 23:53:56] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-10-30 01:08:34] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-10-30 01:08:36]   ★ NEW 8k_202 for AXTA (Axalta Coating Systems Ltd.) filed 2026-10-29
+[2026-10-30 01:08:36]     https://www.sec.gov/Archives/edgar/data/1616862/000161686226000008/axta-20261029.htm
+[2026-10-30 01:08:37]     ✉ alert sent (8k_202)
+[2026-10-30 01:08:37]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001616862.json'
+[2026-10-30 01:08:44]   ★ NEW 8k_202 for WST (WEST PHARMACEUTICAL SERVICES INC) filed 2026-10-29
+[2026-10-30 01:08:44]     https://www.sec.gov/Archives/edgar/data/105770/000010577026000118/wst-20261029.htm
+[2026-10-30 01:08:45]     ✉ alert sent (8k_202)
+[2026-10-30 01:08:45]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0000105770.json'
+[2026-10-30 01:08:48]   ★ NEW 8k_202 for KWR (QUAKER CHEMICAL CORP) filed 2026-10-29
+[2026-10-30 01:08:48]     https://www.sec.gov/Archives/edgar/data/81362/000162828026068281/kwr-20261029.htm
+[2026-10-30 01:08:49]     ✉ alert sent (8k_202)
+[2026-10-30 01:08:49]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0000081362.json'
+[2026-10-30 01:09:08]   ★ NEW 8k_202 for HSY (HERSHEY CO) filed 2026-10-29
+[2026-10-30 01:09:08]     https://www.sec.gov/Archives/edgar/data/47111/000162828026068046/hsy-20261029.htm
+[2026-10-30 01:09:09]     ✉ alert sent (8k_202)
+[2026-10-30 01:09:09]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0000047111.json'
+[2026-10-30 01:09:10] === EDGAR POLL complete. Fetched 100 companies, 4 new filings. ===
