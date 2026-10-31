@@ -66,8 +66,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/37785/000003778526000171/fmc-20260930.htm",
   "last_detected_at": "2026-10-30T18:40:28.108243+00:00",
   "last_8k_detected_at": "2026-10-29T23:32:15.874840+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-10-29"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/37785/000003778526000171/fmc-20260930.htm"
  },
  "URBN": {
   "ticker": "URBN",
@@ -362,8 +361,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1317945/000149315226049387/form10-q.htm",
   "last_detected_at": "2026-10-30T16:58:43.304770+00:00",
   "last_8k_detected_at": "2026-10-29T01:03:02.964605+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-10-28"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1317945/000149315226049387/form10-q.htm"
  },
  "UHS": {
   "ticker": "UHS",
@@ -785,8 +783,7 @@
   "last_detected_type": "8k_202",
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1298675/000129867526000047/cube-20261029x8k.htm",
   "last_detected_at": "2026-10-31T00:52:23.189563+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-10-30"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1298675/000129867526000050/cube-20260930x10q.htm"
  },
  "VSNT": {
   "ticker": "VSNT",

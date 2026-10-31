@@ -5150,3 +5150,11 @@
 [2026-10-31 00:52:36]     ✉ alert sent (8k_202)
 [2026-10-31 00:52:36]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001298675.json'
 [2026-10-31 00:52:57] === EDGAR POLL complete. Fetched 100 companies, 1 new filings. ===
+[2026-10-31 01:53:35] === CHECK-10Q: scanning for pending 10-Q filings ===
+[2026-10-31 01:53:36]   ✓ 10-Q found for FMC (FMC CORP) filed 2026-10-30
+[2026-10-31 01:53:36]     https://www.sec.gov/Archives/edgar/data/37785/000003778526000171/fmc-20260930.htm
+[2026-10-31 01:53:36]   ✓ 10-Q found for OFLX (Omega Flex, Inc.) filed 2026-10-30
+[2026-10-31 01:53:36]     https://www.sec.gov/Archives/edgar/data/1317945/000149315226049387/form10-q.htm
+[2026-10-31 01:53:36]   ✓ 10-Q found for CUBE (CubeSmart) filed 2026-10-30
+[2026-10-31 01:53:36]     https://www.sec.gov/Archives/edgar/data/1298675/000129867526000050/cube-20260930x10q.htm
+[2026-10-31 01:53:39] === CHECK-10Q complete. Checked 13, found 3, cleared 0 stale. ===

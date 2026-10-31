@@ -744,3 +744,11 @@
 [2026-10-30 02:11:43]   cleanup: removed 5 past entries
 [2026-10-30 02:11:43] === Done. Captured 2 new save-the-dates, cleaned 5 past. ===
 
+[2026-10-31 01:52:23] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-10-31 01:52:23] Polling Yahoo for 106 companies
+[2026-10-31 01:52:57]   + JJSF: release=2026-11-18 call=None 10:00 ET
+[2026-10-31 01:52:57]     via: J & J SNACK FOODS SCHEDULES FOURTH QUARTER and FISCAL YEAR EARNINGS CONFERENCE CALL AND WEBCAST
+[2026-10-31 01:52:58]   ✉ alert sent for JJSF
+[2026-10-31 01:53:35]   cleanup: removed 2 past entries
+[2026-10-31 01:53:35] === Done. Captured 1 new save-the-dates, cleaned 2 past. ===
+
