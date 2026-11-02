@@ -5158,3 +5158,8 @@
 [2026-10-31 01:53:36]   ✓ 10-Q found for CUBE (CubeSmart) filed 2026-10-30
 [2026-10-31 01:53:36]     https://www.sec.gov/Archives/edgar/data/1298675/000129867526000050/cube-20260930x10q.htm
 [2026-10-31 01:53:39] === CHECK-10Q complete. Checked 13, found 3, cleared 0 stale. ===
+[2026-11-02 20:42:47] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-11-02 20:43:07]   firehose: 8-K feed fetch failed (rc=28)
+[2026-11-02 20:43:09]   firehose: 10-Q feed — 100 entries parsed
+[2026-11-02 20:43:09]   firehose: 100 watched CIKs, 100 total feed entries
+[2026-11-02 20:43:09] === EDGAR FIREHOSE complete. 0 new detections. ===
