@@ -7166,3 +7166,28 @@
 [2026-10-31 02:42:28] No new transcripts found; transcripts.json unchanged
 [2026-10-31 02:42:28] === Done. 0 new transcript links found. ===
 
+[2026-11-02 23:12:12] === Fool transcript harvest start (dry_run=False) ===
+[2026-11-02 23:12:12] Loaded 122 tickers from expanded_companies.json
+[2026-11-02 23:12:12] Recent tickers (last filing within 14d): ['ACRS', 'ANVS', 'AVBP', 'AVTR', 'AWK', 'AXTA', 'BDN', 'CMCSA', 'COR', 'CRS', 'CUBE', 'DORM', 'FMC', 'GBLI', 'HCSG', 'HSY', 'INO', 'IRT', 'JNJ', 'KWR', 'MRBK', 'MRK', 'OFLX', 'PKBK', 'QNBC', 'QNTO', 'SEIC', 'UHS', 'UHT', 'UVSP', 'WST']
+[2026-11-02 23:12:12] Seed backfill: all seeds already in state
+[2026-11-02 23:12:12] Fetching Fool transcript index: https://www.fool.com/earnings-call-transcripts/
+[2026-11-02 23:12:13]   Found 20 transcript links on index page
+[2026-11-02 23:12:13]   Fool index matched tickers: []
+[2026-11-02 23:12:13] Yahoo secondary search for 14 tickers: ['ACRS', 'ANVS', 'AVBP', 'COR', 'GBLI', 'INO', 'IRT', 'JNJ', 'MRBK', 'OFLX', 'PKBK', 'QNBC', 'QNTO', 'UHT']
+[2026-11-02 23:12:14]   MISS [Yahoo] ACRS: no transcript items in feed
+[2026-11-02 23:12:14]   MISS [Yahoo] ANVS: no transcript items in feed
+[2026-11-02 23:12:15]   MISS [Yahoo] AVBP: no transcript items in feed
+[2026-11-02 23:12:15]   MISS [Yahoo] COR: no transcript items in feed
+[2026-11-02 23:12:16]   MISS [Yahoo] GBLI: no transcript items in feed
+[2026-11-02 23:12:17]   MISS [Yahoo] INO: no transcript items in feed
+[2026-11-02 23:12:17]   MISS [Yahoo] IRT: no transcript items in feed
+[2026-11-02 23:12:18]   MISS [Yahoo] JNJ: no transcript items in feed
+[2026-11-02 23:12:19]   MISS [Yahoo] MRBK: no transcript items in feed
+[2026-11-02 23:12:19]   MISS [Yahoo] OFLX: no transcript items in feed
+[2026-11-02 23:12:20]   MISS [Yahoo] PKBK: no transcript items in feed
+[2026-11-02 23:12:20]   MISS [Yahoo] QNBC: no transcript items in feed
+[2026-11-02 23:12:21]   MISS [Yahoo] QNTO: no transcript items in feed
+[2026-11-02 23:12:21]   MISS [Yahoo] UHT: no transcript items in feed
+[2026-11-02 23:12:21] No new transcripts found; transcripts.json unchanged
+[2026-11-02 23:12:21] === Done. 0 new transcript links found. ===
+
