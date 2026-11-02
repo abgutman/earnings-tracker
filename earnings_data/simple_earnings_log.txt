@@ -5163,3 +5163,17 @@
 [2026-11-02 20:43:09]   firehose: 10-Q feed — 100 entries parsed
 [2026-11-02 20:43:09]   firehose: 100 watched CIKs, 100 total feed entries
 [2026-11-02 20:43:09] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-11-02 22:21:48] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-11-02 22:21:49]   ★ NEW 8k_202 for IRT (INDEPENDENCE REALTY TRUST, INC.) filed 2026-11-02
+[2026-11-02 22:21:49]     https://www.sec.gov/Archives/edgar/data/1466085/000143774926034433/irt20260817_8k.htm
+[2026-11-02 22:21:51]     ✉ alert sent (8k_202)
+[2026-11-02 22:21:51]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001466085.json'
+[2026-11-02 22:21:57]   ★ NEW 8k_701 for INO (INOVIO PHARMACEUTICALS, INC.) filed 2026-11-02
+[2026-11-02 22:21:57]     https://www.sec.gov/Archives/edgar/data/1055726/000119312526442648/d150457d8k.htm
+[2026-11-02 22:21:58]     ✉ alert sent (8k_701)
+[2026-11-02 22:21:58]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001055726.json'
+[2026-11-02 22:22:06]   ★ NEW 8k_701 for GBLI (Global Indemnity Group, LLC) filed 2026-11-02
+[2026-11-02 22:22:06]     https://www.sec.gov/Archives/edgar/data/1494904/000119312526442097/gbli-20261030.htm
+[2026-11-02 22:22:07]     ✉ alert sent (8k_701)
+[2026-11-02 22:22:07]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001494904.json'
+[2026-11-02 22:22:18] === EDGAR POLL complete. Fetched 100 companies, 3 new filings. ===
