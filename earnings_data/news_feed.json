@@ -1,6 +1,58 @@
 {
- "generated_at": "2026-11-03T18:25:01",
+ "generated_at": "2026-11-03T23:58:06",
  "items": [
+  {
+   "uuid": "a0e9c207-4274-37f7-a1b7-6210f415eba3",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast sends wake-up call to employees as customers cut services",
+   "publisher": "TheStreet",
+   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-sends-wake-call-employees-230700339.html",
+   "published_unix": 1793747220,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-03T23:57:55"
+  },
+  {
+   "uuid": "fb37ea61-3e16-3733-acaf-e8a3ac81aea2",
+   "tickers": [
+    "WTRG"
+   ],
+   "company": "Essential Utilities",
+   "title": "Essential Utilities Q3 Revenue Rises",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/essential-utilities-q3-revenue-rises-222527306.html",
+   "published_unix": 1793744727,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-03T23:57:59"
+  },
+  {
+   "uuid": "892667a7-9828-3dcd-9fad-6cd177de2f72",
+   "tickers": [
+    "WTRG"
+   ],
+   "company": "Essential Utilities",
+   "title": "Essential Utilities: Q3 Earnings Snapshot",
+   "publisher": "Associated Press",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/essential-utilities-q3-earnings-snapshot-221724434.html",
+   "published_unix": 1793744244,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-03T23:57:59"
+  },
+  {
+   "uuid": "a31d4e6b-40fe-3ba0-b604-f009419b2055",
+   "tickers": [
+    "WTRG"
+   ],
+   "company": "Essential Utilities",
+   "title": "Essential Utilities Reports Solid Q3 2026 Results",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/energy/articles/essential-utilities-reports-solid-q3-220400061.html",
+   "published_unix": 1793743440,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-03T23:57:59"
+  },
   {
    "uuid": "71a2a037-ce53-3bb0-ab12-41cfdbdf0d14",
    "tickers": [
