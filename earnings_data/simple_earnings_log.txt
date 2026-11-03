@@ -5192,3 +5192,25 @@
 [2026-11-03 03:45:30] === CHECK-10Q: scanning for pending 10-Q filings ===
 [2026-11-03 03:45:31]   AVBP: pending_10q_since=2026-10-26 is 8d old — clearing stale flag
 [2026-11-03 03:45:34] === CHECK-10Q complete. Checked 12, found 0, cleared 1 stale. ===
+[2026-11-03 18:21:30] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-11-03 18:21:30]   firehose: 8-K feed — 100 entries parsed
+[2026-11-03 18:21:30]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-11-03 18:21:31]   firehose: 8-K page 2 — 100 entries
+[2026-11-03 18:21:31]   firehose: 10-Q feed — 100 entries parsed
+[2026-11-03 18:21:31]   firehose: 100 watched CIKs, 300 total feed entries
+[2026-11-03 18:21:32]   ★ NEW 8k_202 for AME (AMETEK INC/) filed 2026-11-03
+[2026-11-03 18:21:32]     https://www.sec.gov/Archives/edgar/data/1037868/000103786826000194/ame-20261103.htm
+[2026-11-03 18:21:34]     ✉ alert sent (8k_202)
+[2026-11-03 18:21:34]   ★ NEW 8k_202 for AHCO (AdaptHealth Corp.) filed 2026-11-03
+[2026-11-03 18:21:34]     https://www.sec.gov/Archives/edgar/data/1725255/000162828026069116/ahco-20261103.htm
+[2026-11-03 18:21:35]     ✉ alert sent (8k_202)
+[2026-11-03 18:21:35]   ★ NEW 8k_202 for VSNT (Versant Media Group, Inc.) filed 2026-11-03
+[2026-11-03 18:21:35]     https://www.sec.gov/Archives/edgar/data/2067876/000206787626000050/vsnt-20261103.htm
+[2026-11-03 18:21:36]     ✉ alert sent (8k_202)
+[2026-11-03 18:21:36]   ★ NEW 8k_202 for HLNE (Hamilton Lane INC) filed 2026-11-03
+[2026-11-03 18:21:36]     https://www.sec.gov/Archives/edgar/data/1433642/000143364226000053/hlne-20261103.htm
+[2026-11-03 18:21:39]     ✉ alert sent (8k_202)
+[2026-11-03 18:21:39]   ★ NEW 8k_202 for DD (DuPont de Nemours, Inc.) filed 2026-11-03
+[2026-11-03 18:21:39]     https://www.sec.gov/Archives/edgar/data/1666700/000166670026000058/dd-20261103.htm
+[2026-11-03 18:21:40]     ✉ alert sent (8k_202)
+[2026-11-03 18:21:40] === EDGAR FIREHOSE complete. 5 new detections. ===
