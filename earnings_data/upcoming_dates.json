@@ -1,15 +1,5 @@
 {
  "_comment": "Confirmed upcoming earnings dates. Populated manually + by future auto-extraction from save-the-date press releases. Each entry: release_date (YYYY-MM-DD), optionally call_date, call_time (HH:MM ET), source_url, source_title.",
- "IRT": {
-  "release_date": "2026-11-02",
-  "call_date": null,
-  "call_time": null,
-  "source_url": "https://finance.yahoo.com/real-estate/articles/centerspace-announces-third-quarter-2026-212100196.html",
-  "source_title": "Centerspace Announces Third Quarter 2026 Earnings Release Date",
-  "source_publisher": "PR Newswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-10-02T01:50:04"
- },
  "LNC": {
   "release_date": "2026-11-05",
   "call_date": null,
@@ -269,5 +259,15 @@
   "source_publisher": "GlobeNewswire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-10-31T01:52:57"
+ },
+ "INO": {
+  "release_date": "2026-11-10",
+  "call_date": null,
+  "call_time": null,
+  "source_url": "https://finance.yahoo.com/healthcare/articles/inovio-report-third-quarter-2026-211500377.html",
+  "source_title": "INOVIO to Report Third Quarter 2026 Financial Results on November 10, 2026",
+  "source_publisher": "PR Newswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-11-03T03:44:39"
  }
 }

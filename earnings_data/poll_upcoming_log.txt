@@ -752,3 +752,11 @@
 [2026-10-31 01:53:35]   cleanup: removed 2 past entries
 [2026-10-31 01:53:35] === Done. Captured 1 new save-the-dates, cleaned 2 past. ===
 
+[2026-11-03 03:44:18] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-11-03 03:44:18] Polling Yahoo for 106 companies
+[2026-11-03 03:44:39]   + INO: release=2026-11-10 call=None None
+[2026-11-03 03:44:39]     via: INOVIO to Report Third Quarter 2026 Financial Results on November 10, 2026
+[2026-11-03 03:44:40]   ✉ alert sent for INO
+[2026-11-03 03:45:30]   cleanup: removed 1 past entries
+[2026-11-03 03:45:30] === Done. Captured 1 new save-the-dates, cleaned 1 past. ===
+
