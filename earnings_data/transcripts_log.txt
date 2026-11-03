@@ -7216,3 +7216,33 @@
 [2026-11-03 04:01:13] No new transcripts found; transcripts.json unchanged
 [2026-11-03 04:01:13] === Done. 0 new transcript links found. ===
 
+[2026-11-03 21:15:37] === Fool transcript harvest start (dry_run=False) ===
+[2026-11-03 21:15:37] Loaded 122 tickers from expanded_companies.json
+[2026-11-03 21:15:37] Recent tickers (last filing within 14d): ['ACRS', 'AHCO', 'AME', 'ANVS', 'AVBP', 'AVTR', 'AWK', 'AXTA', 'BDN', 'CMCSA', 'COR', 'CRS', 'CUBE', 'DD', 'DORM', 'FMC', 'GBLI', 'HCSG', 'HLNE', 'HSY', 'INO', 'IRT', 'JNJ', 'KWR', 'MRBK', 'MRK', 'OFLX', 'PKBK', 'QNBC', 'QNTO', 'SEIC', 'UHS', 'UHT', 'UVSP', 'VSNT', 'WST']
+[2026-11-03 21:15:37] Seed backfill: all seeds already in state
+[2026-11-03 21:15:37] Fetching Fool transcript index: https://www.fool.com/earnings-call-transcripts/
+[2026-11-03 21:15:38]   Found 20 transcript links on index page
+[2026-11-03 21:15:38]   Fool index matched tickers: []
+[2026-11-03 21:15:38] Yahoo secondary search for 19 tickers: ['ACRS', 'AHCO', 'AME', 'ANVS', 'AVBP', 'COR', 'DD', 'GBLI', 'HLNE', 'INO', 'IRT', 'JNJ', 'MRBK', 'OFLX', 'PKBK', 'QNBC', 'QNTO', 'UHT', 'VSNT']
+[2026-11-03 21:15:38]   MISS [Yahoo] ACRS: no transcript items in feed
+[2026-11-03 21:15:39]   NEW [Yahoo] AHCO: https://finance.yahoo.com/healthcare/articles/adapthealth-ahco-q3-2026-earnings-203852962.html (Motley Fool)
+[2026-11-03 21:15:40]   MISS [Yahoo] AME: no transcript items in feed
+[2026-11-03 21:15:41]   MISS [Yahoo] ANVS: no transcript items in feed
+[2026-11-03 21:15:41]   MISS [Yahoo] AVBP: no transcript items in feed
+[2026-11-03 21:15:42]   MISS [Yahoo] COR: no transcript items in feed
+[2026-11-03 21:15:43]   MISS [Yahoo] DD: no transcript items in feed
+[2026-11-03 21:15:44]   MISS [Yahoo] GBLI: no transcript items in feed
+[2026-11-03 21:15:44]   MISS [Yahoo] HLNE: no transcript items in feed
+[2026-11-03 21:15:45]   MISS [Yahoo] INO: no transcript items in feed
+[2026-11-03 21:15:46]   NEW [Yahoo] IRT: https://finance.yahoo.com/markets/stocks/articles/independence-realty-irt-q3-2026-204712363.html (Motley Fool)
+[2026-11-03 21:15:47]   MISS [Yahoo] JNJ: no transcript items in feed
+[2026-11-03 21:15:48]   MISS [Yahoo] MRBK: no transcript items in feed
+[2026-11-03 21:15:48]   MISS [Yahoo] OFLX: no transcript items in feed
+[2026-11-03 21:15:49]   MISS [Yahoo] PKBK: no transcript items in feed
+[2026-11-03 21:15:50]   MISS [Yahoo] QNBC: no transcript items in feed
+[2026-11-03 21:15:50]   MISS [Yahoo] QNTO: no transcript items in feed
+[2026-11-03 21:15:51]   MISS [Yahoo] UHT: no transcript items in feed
+[2026-11-03 21:15:52]   MISS [Yahoo] VSNT: no transcript items in feed
+[2026-11-03 21:15:52] Saved transcripts.json (53 tickers with entries)
+[2026-11-03 21:15:52] === Done. 2 new transcript links found. ===
+
