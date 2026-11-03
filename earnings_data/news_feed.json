@@ -1,6 +1,58 @@
 {
- "generated_at": "2026-11-03T06:37:35",
+ "generated_at": "2026-11-03T18:25:01",
  "items": [
+  {
+   "uuid": "71a2a037-ce53-3bb0-ab12-41cfdbdf0d14",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "West Virginia American Water Announces $700,000 Infrastructure Project in Glen Jean",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/economy/policy/articles/west-virginia-american-water-announces-151600060.html",
+   "published_unix": 1793718960,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-03T18:24:54"
+  },
+  {
+   "uuid": "822e563d-cd82-3384-823b-669d28e3c6a7",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC Corporation",
+   "title": "UBS Adjusts FMC Price Target to $6.50 From $10, Maintains Neutral Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-fmc-price-target-144804511.html",
+   "published_unix": 1793717284,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-03T18:24:51"
+  },
+  {
+   "uuid": "bd525acf-0346-3ece-b2e5-0e8ff4e917bf",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces Model Home Grand Opening at Kennemore in Alpharetta, Georgia",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-model-home-135200959.html",
+   "published_unix": 1793713920,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-03T18:25:01"
+  },
+  {
+   "uuid": "90b430ec-fb5b-38a2-b68e-e97d78f17ab7",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Morgan Stanley Adjusts Price Target on Toll Brothers to $170 From $159, Keeps Overweight Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-price-target-132925951.html",
+   "published_unix": 1793712565,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-03T18:25:01"
+  },
   {
    "uuid": "3d62c541-d63e-3f46-80a3-a3733b248e5b",
    "tickers": [
