@@ -163,8 +163,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1466085/000143774926034667/irt20260930_10q.htm",
   "last_detected_at": "2026-11-04T00:31:59.660743+00:00",
   "last_8k_detected_at": "2026-11-02T22:21:48.047042+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-11-02"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1466085/000143774926034667/irt20260930_10q.htm"
  },
  "AXTA": {
   "ticker": "AXTA",
@@ -286,8 +285,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1037868/000103786826000194/ame-20261103.htm",
   "last_detected_at": "2026-11-04T01:28:50.363274+00:00",
   "last_8k_detected_at": "2026-11-04T01:28:50.363274+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-11-03"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1037868/000103786826000196/ame-20260930.htm"
  },
  "VSH": {
   "ticker": "VSH",
@@ -386,8 +384,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/352915/000119312526434414/uhs-20261027.htm",
   "last_detected_at": "2026-10-27T23:06:12.756267+00:00",
   "last_8k_detected_at": "2026-10-27T23:06:12.756267+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-10-27"
+  "last_10q_url": null
  },
  "TOL": {
   "ticker": "TOL",
@@ -809,8 +806,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/2067876/000206787626000050/vsnt-20261103.htm",
   "last_detected_at": "2026-11-04T01:28:50.363274+00:00",
   "last_8k_detected_at": "2026-11-04T01:28:50.363274+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-11-03"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/2067876/000206787626000052/vsnt-20260930.htm"
  },
  "TFX": {
   "ticker": "TFX",
@@ -902,8 +898,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1433642/000143364226000053/hlne-20261103.htm",
   "last_detected_at": "2026-11-04T01:28:50.363274+00:00",
   "last_8k_detected_at": "2026-11-04T01:28:50.363274+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-11-03"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1433642/000143364226000056/hlne-20260930.htm"
  },
  "DORM": {
   "ticker": "DORM",
@@ -1130,8 +1125,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1725255/000162828026069116/ahco-20261103.htm",
   "last_detected_at": "2026-11-04T01:28:50.363274+00:00",
   "last_8k_detected_at": "2026-11-04T01:28:50.363274+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-11-03"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1725255/000162828026069570/ahco-20260930.htm"
  },
  "JJSF": {
   "ticker": "JJSF",
@@ -1246,8 +1240,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/102212/000010221226000043/uvsp-20260930.htm",
   "last_detected_at": "2026-11-03T20:09:26.459939+00:00",
   "last_8k_detected_at": "2026-10-29T17:22:39.260692+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-10-29"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/102212/000010221226000043/uvsp-20260930.htm"
  },
  "AVTX": {
   "ticker": "AVTX",
@@ -1336,8 +1329,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1557746/000110465926118952/acrs-20261027x8k.htm",
   "last_detected_at": "2026-10-27T16:24:26.392195+00:00",
   "last_8k_detected_at": "2026-10-27T16:24:26.392195+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-10-27"
+  "last_10q_url": null
  },
  "CABA": {
   "ticker": "CABA",
@@ -1383,8 +1375,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/798783/000119312526434277/uht-20261027.htm",
   "last_detected_at": "2026-10-27T23:06:12.756267+00:00",
   "last_8k_detected_at": "2026-10-27T23:06:12.756267+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-10-27"
+  "last_10q_url": null
  },
  "GBLI": {
   "ticker": "GBLI",
@@ -1537,8 +1528,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/750558/000119312526433741/qnbc-20261027.htm",
   "last_detected_at": "2026-10-27T18:45:35.627718+00:00",
   "last_8k_detected_at": "2026-10-27T18:45:35.627718+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-10-27"
+  "last_10q_url": null
  },
  "SND": {
   "ticker": "SND",
@@ -1803,8 +1793,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1391933/000092708926000185/qnto20261026_8k.htm",
   "last_detected_at": "2026-10-27T23:06:12.756267+00:00",
   "last_8k_detected_at": "2026-10-27T23:06:12.756267+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-10-27"
+  "last_10q_url": null
  },
  "TELA": {
   "ticker": "TELA",
@@ -2341,7 +2330,6 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1666700/000166670026000058/dd-20261103.htm",
   "last_detected_at": "2026-11-04T01:28:50.363274+00:00",
   "last_8k_detected_at": "2026-11-04T01:28:50.363274+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-11-03"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1666700/000166670026000060/dd-20260930.htm"
  }
 }

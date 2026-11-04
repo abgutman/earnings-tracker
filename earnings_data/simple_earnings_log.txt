@@ -5274,3 +5274,24 @@
 [2026-11-04 01:29:24]     ✉ alert sent (8k_202)
 [2026-11-04 01:29:24]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001666700.json'
 [2026-11-04 01:29:24] === EDGAR POLL complete. Fetched 100 companies, 5 new filings. ===
+[2026-11-04 02:46:29] === CHECK-10Q: scanning for pending 10-Q filings ===
+[2026-11-04 02:46:29]   ✓ 10-Q found for IRT (INDEPENDENCE REALTY TRUST, INC.) filed 2026-11-03
+[2026-11-04 02:46:29]     https://www.sec.gov/Archives/edgar/data/1466085/000143774926034667/irt20260930_10q.htm
+[2026-11-04 02:46:30]   ✓ 10-Q found for AME (AMETEK INC/) filed 2026-11-03
+[2026-11-04 02:46:30]     https://www.sec.gov/Archives/edgar/data/1037868/000103786826000196/ame-20260930.htm
+[2026-11-04 02:46:30]   UHS: pending_10q_since=2026-10-27 is 8d old — clearing stale flag
+[2026-11-04 02:46:30]   ✓ 10-Q found for VSNT (Versant Media Group, Inc.) filed 2026-11-03
+[2026-11-04 02:46:30]     https://www.sec.gov/Archives/edgar/data/2067876/000206787626000052/vsnt-20260930.htm
+[2026-11-04 02:46:30]   ✓ 10-Q found for HLNE (Hamilton Lane INC) filed 2026-11-03
+[2026-11-04 02:46:30]     https://www.sec.gov/Archives/edgar/data/1433642/000143364226000056/hlne-20260930.htm
+[2026-11-04 02:46:31]   ✓ 10-Q found for AHCO (AdaptHealth Corp.) filed 2026-11-03
+[2026-11-04 02:46:31]     https://www.sec.gov/Archives/edgar/data/1725255/000162828026069570/ahco-20260930.htm
+[2026-11-04 02:46:31]   ✓ 10-Q found for UVSP (UNIVEST FINANCIAL Corp) filed 2026-11-03
+[2026-11-04 02:46:31]     https://www.sec.gov/Archives/edgar/data/102212/000010221226000043/uvsp-20260930.htm
+[2026-11-04 02:46:31]   ACRS: pending_10q_since=2026-10-27 is 8d old — clearing stale flag
+[2026-11-04 02:46:31]   UHT: pending_10q_since=2026-10-27 is 8d old — clearing stale flag
+[2026-11-04 02:46:31]   QNBC: pending_10q_since=2026-10-27 is 8d old — clearing stale flag
+[2026-11-04 02:46:32]   QNTO: pending_10q_since=2026-10-27 is 8d old — clearing stale flag
+[2026-11-04 02:46:32]   ✓ 10-Q found for DD (DuPont de Nemours, Inc.) filed 2026-11-03
+[2026-11-04 02:46:32]     https://www.sec.gov/Archives/edgar/data/1666700/000166670026000060/dd-20260930.htm
+[2026-11-04 02:46:32] === CHECK-10Q complete. Checked 12, found 7, cleared 5 stale. ===

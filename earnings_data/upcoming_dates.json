@@ -30,26 +30,6 @@
   "source_type": "yahoo_auto",
   "captured_at": "2026-10-07T01:50:30"
  },
- "VSNT": {
-  "release_date": "2026-11-03",
-  "call_date": null,
-  "call_time": "08:00 ET",
-  "source_url": "https://finance.yahoo.com/media-advertising/articles/versant-report-third-quarter-2026-203000044.html",
-  "source_title": "Versant to Report Third Quarter 2026 Operating and Financial Results",
-  "source_publisher": "Business Wire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-10-07T01:50:52"
- },
- "HLNE": {
-  "release_date": "2026-11-03",
-  "call_date": null,
-  "call_time": null,
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/hamilton-lane-incorporated-announce-second-110000826.html",
-  "source_title": "Hamilton Lane Incorporated to Announce Second Quarter Fiscal 2027 Results on November 3, 2026",
-  "source_publisher": "PR Newswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-10-07T01:50:55"
- },
  "BSY": {
   "release_date": "2026-11-05",
   "call_date": null,
@@ -159,16 +139,6 @@
   "source_publisher": "GlobeNewswire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-10-21T01:02:49"
- },
- "AHCO": {
-  "release_date": "2026-11-03",
-  "call_date": null,
-  "call_time": null,
-  "source_url": "https://finance.yahoo.com/healthcare/articles/adapthealth-corp-announces-third-quarter-120000968.html",
-  "source_title": "AdaptHealth Corp. Announces Third Quarter 2026 Earnings Release Date and Conference Call",
-  "source_publisher": "Business Wire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-10-22T00:58:06"
  },
  "OCGN": {
   "release_date": "2026-11-04",
