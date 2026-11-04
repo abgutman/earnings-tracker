@@ -5295,3 +5295,63 @@
 [2026-11-04 02:46:32]   ✓ 10-Q found for DD (DuPont de Nemours, Inc.) filed 2026-11-03
 [2026-11-04 02:46:32]     https://www.sec.gov/Archives/edgar/data/1666700/000166670026000060/dd-20260930.htm
 [2026-11-04 02:46:32] === CHECK-10Q complete. Checked 12, found 7, cleared 5 stale. ===
+[2026-11-04 18:33:35] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-11-04 18:33:36]   firehose: 8-K feed — 100 entries parsed
+[2026-11-04 18:33:36]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-11-04 18:33:36]   firehose: 8-K page 2 — 100 entries
+[2026-11-04 18:33:36]   firehose: 10-Q feed — 100 entries parsed
+[2026-11-04 18:33:36]   firehose: all 10-Q entries newer than watermark — fetching page 2
+[2026-11-04 18:33:37]   firehose: 10-Q page 2 — 100 entries
+[2026-11-04 18:33:37]   firehose: 100 watched CIKs, 400 total feed entries
+[2026-11-04 18:33:37]   ★ NEW 8k_202 for WTRG (Essential Utilities, Inc.) filed 2026-11-04
+[2026-11-04 18:33:37]     https://www.sec.gov/Archives/edgar/data/78128/000155278126000537/e26437_wtrg-8k.htm
+[2026-11-04 18:33:38]     ✉ alert sent (8k_202)
+[2026-11-04 18:33:39]   ★ NEW 8k_701 for COR (Cencora, Inc.) filed 2026-11-04
+[2026-11-04 18:33:39]     https://www.sec.gov/Archives/edgar/data/1140859/000114085926000040/abc-20261104.htm
+[2026-11-04 18:33:41]     ✉ alert sent (8k_701)
+[2026-11-04 18:33:41]   ★ NEW 8k_202 for APRE (Aprea Therapeutics, Inc.) filed 2026-11-04
+[2026-11-04 18:33:41]     https://www.sec.gov/Archives/edgar/data/1781983/000110465926122403/tm2628880d1_8k.htm
+[2026-11-04 18:33:42]     ✉ alert sent (8k_202)
+[2026-11-04 18:33:42]   ★ NEW 8k_202 for OCGN (Ocugen, Inc.) filed 2026-11-04
+[2026-11-04 18:33:42]     https://www.sec.gov/Archives/edgar/data/1372299/000110465926122401/tm2628896d1_8k.htm
+[2026-11-04 18:33:43]     ✉ alert sent (8k_202)
+[2026-11-04 18:33:43]   ★ NEW 8k_202 for GBLI (Global Indemnity Group, LLC) filed 2026-11-04
+[2026-11-04 18:33:43]     https://www.sec.gov/Archives/edgar/data/1494904/000119312526446266/gbli-20261104.htm
+[2026-11-04 18:33:44]     ✉ alert sent (8k_202)
+[2026-11-04 18:33:45]   ★ NEW 8k_202 for HRMY (Harmony Biosciences Holdings, Inc.) filed 2026-11-04
+[2026-11-04 18:33:45]     https://www.sec.gov/Archives/edgar/data/1802665/000110465926122377/hrmy-20261104x8k.htm
+[2026-11-04 18:33:45]     ✉ alert sent (8k_202)
+[2026-11-04 18:33:46]   ★ NEW 8k_202 for STIM (Neuronetics, Inc.) filed 2026-11-04
+[2026-11-04 18:33:46]     https://www.sec.gov/Archives/edgar/data/1227636/000119312526446239/d144740d8k.htm
+[2026-11-04 18:33:47]     ✉ alert sent (8k_202)
+[2026-11-04 18:33:47]   ★ NEW 8k_202 for VSH (VISHAY INTERTECHNOLOGY INC) filed 2026-11-04
+[2026-11-04 18:33:47]     https://www.sec.gov/Archives/edgar/data/103730/000010373026000079/vsh-20261104.htm
+[2026-11-04 18:33:48]     ✉ alert sent (8k_202)
+[2026-11-04 18:33:48]   ★ NEW 8k_202 for COR (Cencora, Inc.) filed 2026-11-04
+[2026-11-04 18:33:48]     https://www.sec.gov/Archives/edgar/data/1140859/000114085926000038/abc-20261104.htm
+[2026-11-04 18:33:48]     ✉ alert sent (8k_202)
+[2026-11-04 18:33:49]   ★ NEW 8k_202 for VPG (Vishay Precision Group, Inc.) filed 2026-11-04
+[2026-11-04 18:33:49]     https://www.sec.gov/Archives/edgar/data/1487952/000143774926034760/vpg20260805_8k.htm
+[2026-11-04 18:33:50]     ✉ alert sent (8k_202)
+[2026-11-04 18:33:50]   ★ NEW 10q for PKBK (PARKE BANCORP, INC.) filed 2026-11-04
+[2026-11-04 18:33:50]     https://www.sec.gov/Archives/edgar/data/1315399/000143774926034834/pkbk20260930_10q.htm
+[2026-11-04 18:33:51]     ✉ alert sent (10q)
+[2026-11-04 18:33:51]   ★ NEW 10q for OCGN (Ocugen, Inc.) filed 2026-11-04
+[2026-11-04 18:33:51]     https://www.sec.gov/Archives/edgar/data/1372299/000162828026069835/ocgn-20260930.htm
+[2026-11-04 18:33:52]     ✉ alert sent (10q)
+[2026-11-04 18:33:52]   ★ NEW 10q for APRE (Aprea Therapeutics, Inc.) filed 2026-11-04
+[2026-11-04 18:33:52]     https://www.sec.gov/Archives/edgar/data/1781983/000110465926122405/apre-20260930x10q.htm
+[2026-11-04 18:33:53]     ✉ alert sent (10q)
+[2026-11-04 18:33:53]   ★ NEW 10q for VPG (Vishay Precision Group, Inc.) filed 2026-11-04
+[2026-11-04 18:33:53]     https://www.sec.gov/Archives/edgar/data/1487952/000143774926034772/vpg20260805_10q.htm
+[2026-11-04 18:33:54]     ✉ alert sent (10q)
+[2026-11-04 18:33:54]   ★ NEW 10q for HRMY (Harmony Biosciences Holdings, Inc.) filed 2026-11-04
+[2026-11-04 18:33:54]     https://www.sec.gov/Archives/edgar/data/1802665/000110465926122390/hrmy-20260930x10q.htm
+[2026-11-04 18:33:55]     ✉ alert sent (10q)
+[2026-11-04 18:33:55]   ★ NEW 10q for STIM (Neuronetics, Inc.) filed 2026-11-04
+[2026-11-04 18:33:55]     https://www.sec.gov/Archives/edgar/data/1227636/000110465926122380/stim-20260930x10q.htm
+[2026-11-04 18:33:56]     ✉ alert sent (10q)
+[2026-11-04 18:33:56]   ★ NEW 10q for VSH (VISHAY INTERTECHNOLOGY INC) filed 2026-11-04
+[2026-11-04 18:33:56]     https://www.sec.gov/Archives/edgar/data/103730/000010373026000080/form10q.htm
+[2026-11-04 18:33:57]     ✉ alert sent (10q)
+[2026-11-04 18:33:57] === EDGAR FIREHOSE complete. 17 new detections. ===
