@@ -1,6 +1,84 @@
 {
- "generated_at": "2026-11-04T06:05:13",
+ "generated_at": "2026-11-04T18:37:51",
  "items": [
+  {
+   "uuid": "be295ac6-046e-3034-9157-9150a7055e43",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "West Virginia American Water Announces $850,000 Infrastructure Investment Project on Old Route 38",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/economy/policy/articles/west-virginia-american-water-announces-151800243.html",
+   "published_unix": 1793805480,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-04T18:37:41"
+  },
+  {
+   "uuid": "c65e7a0c-7e1b-39fd-a90d-159045fab648",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "Cencora's Fiscal Q4 Adjusted Earnings, Revenue Rise; 2027 Guidance Set; Quarterly Dividend Raised",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/healthcare/articles/cencora-apos-fiscal-q4-adjusted-120757584.html",
+   "published_unix": 1793794077,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-04T18:37:37"
+  },
+  {
+   "uuid": "1e4ac98a-f2e8-3620-9f9c-fa23878f7413",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "Cencora: Fiscal Q4 Earnings Snapshot",
+   "publisher": "Associated Press",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cencora-fiscal-q4-earnings-snapshot-115104691.html",
+   "published_unix": 1793793064,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-04T18:37:37"
+  },
+  {
+   "uuid": "57137e2c-800e-3e9f-8364-eb2897df1c09",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "Cencora Reports Fiscal 2026 Fourth Quarter and Fiscal Year End Results",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/healthcare/articles/cencora-reports-fiscal-2026-fourth-113500201.html",
+   "published_unix": 1793792100,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-04T18:37:37"
+  },
+  {
+   "uuid": "bb7134f2-ff16-3683-98b1-325709b50da0",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "Cencora Announces New Organizational and Reporting Structure to Enhance Visibility and Focus",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/healthcare/articles/cencora-announces-organizational-reporting-structure-113500520.html",
+   "published_unix": 1793792100,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-04T18:37:37"
+  },
+  {
+   "uuid": "5a5ec1b3-49e3-3bde-9d54-85e77e2365b1",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Should You Buy Comcast Stock For Its Cash?",
+   "publisher": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-comcast-stock-cash-094339601.html",
+   "published_unix": 1793785419,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-04T18:37:36"
+  },
   {
    "uuid": "a0e9c207-4274-37f7-a1b7-6210f415eba3",
    "tickers": [
@@ -1987,84 +2065,6 @@
    "published_unix": 1791230545,
    "source_type": "yahoo",
    "captured_at": "2026-10-06T01:17:23"
-  },
-  {
-   "uuid": "d1fa0909-5cbc-3711-a9c2-38d4edc1a86d",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "West Virginia American Water Announces $100,000 Infrastructure Upgrade in Eleanor",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/economy/policy/articles/west-virginia-american-water-announces-153200957.html",
-   "published_unix": 1791214320,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-05T19:41:30"
-  },
-  {
-   "uuid": "c79c4f7d-710d-3942-880c-0fb0f2c37bde",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "American Water Charitable Foundation Partners with National Urban League for Third Consecutive Year on Workforce Development",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/small-business/articles/american-water-charitable-foundation-partners-152400214.html",
-   "published_unix": 1791213840,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-05T19:41:30"
-  },
-  {
-   "uuid": "0129b226-120a-3923-8395-bdff52871540",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast Business 2026 Cybersecurity Threat Report: 79.3 Billion Events Show AI Pressurizing the Threat Landscape",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/ai/articles/comcast-business-2026-cybersecurity-threat-140000144.html",
-   "published_unix": 1791208800,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-05T19:41:26"
-  },
-  {
-   "uuid": "5cff8664-b261-3bc4-af1c-910a560fcdff",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC Corporation",
-   "title": "UBS Adjusts FMC Price Target to $10 From $12, Maintains Neutral Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-fmc-price-target-133808055.html",
-   "published_unix": 1791207488,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-05T19:41:28"
-  },
-  {
-   "uuid": "e9cc332c-e8cd-3b50-8752-f732f13f53b7",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Indiana American Water Returns Nearly $75 in PFAS Settlement Credits to Customers",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/indiana-american-water-returns-nearly-124500687.html",
-   "published_unix": 1791204300,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-05T19:41:30"
-  },
-  {
-   "uuid": "e418ae26-aef3-3255-b7a8-53263a8dc993",
-   "tickers": [
-    "WTRG"
-   ],
-   "company": "Essential Utilities",
-   "title": "Essential Utilities Recognizes Fire Prevention Week by Highlighting Partnership and Support for Local Departments",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/small-business/articles/essential-utilities-recognizes-fire-prevention-110000715.html",
-   "published_unix": 1791198000,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-05T19:41:31"
   }
  ]
 }
