@@ -7246,3 +7246,31 @@
 [2026-11-03 21:15:52] Saved transcripts.json (53 tickers with entries)
 [2026-11-03 21:15:52] === Done. 2 new transcript links found. ===
 
+[2026-11-04 03:13:54] === Fool transcript harvest start (dry_run=False) ===
+[2026-11-04 03:13:54] Loaded 122 tickers from expanded_companies.json
+[2026-11-04 03:13:54] Recent tickers (last filing within 14d): ['ACRS', 'AHCO', 'AME', 'ANVS', 'AVBP', 'AVTR', 'AWK', 'AXTA', 'BDN', 'CMCSA', 'COR', 'CRS', 'CUBE', 'DD', 'DORM', 'FMC', 'GBLI', 'HCSG', 'HLNE', 'HSY', 'INO', 'IRT', 'JNJ', 'KWR', 'MRBK', 'MRK', 'OFLX', 'PKBK', 'QNBC', 'QNTO', 'SEIC', 'UHS', 'UHT', 'UVSP', 'VSNT', 'WST']
+[2026-11-04 03:13:54] Seed backfill: all seeds already in state
+[2026-11-04 03:13:54] Fetching Fool transcript index: https://www.fool.com/earnings-call-transcripts/
+[2026-11-04 03:13:55]   Found 20 transcript links on index page
+[2026-11-04 03:13:55]   Fool index matched tickers: []
+[2026-11-04 03:13:55] Yahoo secondary search for 17 tickers: ['ACRS', 'AME', 'ANVS', 'AVBP', 'COR', 'DD', 'GBLI', 'HLNE', 'INO', 'JNJ', 'MRBK', 'OFLX', 'PKBK', 'QNBC', 'QNTO', 'UHT', 'VSNT']
+[2026-11-04 03:13:55]   MISS [Yahoo] ACRS: no transcript items in feed
+[2026-11-04 03:13:56]   NEW [Yahoo] AME: https://finance.yahoo.com/markets/stocks/articles/ametek-ame-q3-2026-earnings-214303629.html (Motley Fool)
+[2026-11-04 03:13:57]   MISS [Yahoo] ANVS: no transcript items in feed
+[2026-11-04 03:13:57]   MISS [Yahoo] AVBP: no transcript items in feed
+[2026-11-04 03:13:58]   MISS [Yahoo] COR: no transcript items in feed
+[2026-11-04 03:13:59]   MISS [Yahoo] DD: no transcript items in feed
+[2026-11-04 03:13:59]   MISS [Yahoo] GBLI: no transcript items in feed
+[2026-11-04 03:14:00]   NEW [Yahoo] HLNE: https://finance.yahoo.com/markets/stocks/articles/hamilton-lane-inc-hlne-q2-212911074.html (Motley Fool)
+[2026-11-04 03:14:01]   MISS [Yahoo] INO: no transcript items in feed
+[2026-11-04 03:14:01]   MISS [Yahoo] JNJ: no transcript items in feed
+[2026-11-04 03:14:02]   MISS [Yahoo] MRBK: no transcript items in feed
+[2026-11-04 03:14:03]   MISS [Yahoo] OFLX: no transcript items in feed
+[2026-11-04 03:14:03]   MISS [Yahoo] PKBK: no transcript items in feed
+[2026-11-04 03:14:04]   MISS [Yahoo] QNBC: no transcript items in feed
+[2026-11-04 03:14:04]   MISS [Yahoo] QNTO: no transcript items in feed
+[2026-11-04 03:14:05]   MISS [Yahoo] UHT: no transcript items in feed
+[2026-11-04 03:14:05]   MISS [Yahoo] VSNT: no transcript items in feed
+[2026-11-04 03:14:05] Saved transcripts.json (53 tickers with entries)
+[2026-11-04 03:14:05] === Done. 2 new transcript links found. ===
+
