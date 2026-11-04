@@ -7274,3 +7274,36 @@
 [2026-11-04 03:14:05] Saved transcripts.json (53 tickers with entries)
 [2026-11-04 03:14:05] === Done. 2 new transcript links found. ===
 
+[2026-11-04 21:28:38] === Fool transcript harvest start (dry_run=False) ===
+[2026-11-04 21:28:38] Loaded 122 tickers from expanded_companies.json
+[2026-11-04 21:28:38] Recent tickers (last filing within 14d): ['ACRS', 'AHCO', 'AME', 'ANVS', 'APRE', 'AVBP', 'AVTR', 'AWK', 'AXTA', 'BDN', 'CMCSA', 'COR', 'CRS', 'CUBE', 'DD', 'DORM', 'FMC', 'GBLI', 'HCSG', 'HLNE', 'HRMY', 'HSY', 'INO', 'IRT', 'JNJ', 'KWR', 'MRBK', 'MRK', 'OCGN', 'OFLX', 'PKBK', 'QNBC', 'QNTO', 'SEIC', 'STIM', 'UHS', 'UHT', 'UVSP', 'VPG', 'VSH', 'VSNT', 'WST', 'WTRG']
+[2026-11-04 21:28:38] Seed backfill: all seeds already in state
+[2026-11-04 21:28:38] Fetching Fool transcript index: https://www.fool.com/earnings-call-transcripts/
+[2026-11-04 21:28:38]   Found 20 transcript links on index page
+[2026-11-04 21:28:38]   Fool index matched tickers: []
+[2026-11-04 21:28:38] Yahoo secondary search for 22 tickers: ['ACRS', 'ANVS', 'APRE', 'AVBP', 'COR', 'DD', 'GBLI', 'HRMY', 'INO', 'JNJ', 'MRBK', 'OCGN', 'OFLX', 'PKBK', 'QNBC', 'QNTO', 'STIM', 'UHT', 'VPG', 'VSH', 'VSNT', 'WTRG']
+[2026-11-04 21:28:39]   MISS [Yahoo] ACRS: no transcript items in feed
+[2026-11-04 21:28:39]   MISS [Yahoo] ANVS: no transcript items in feed
+[2026-11-04 21:28:40]   MISS [Yahoo] APRE: no transcript items in feed
+[2026-11-04 21:28:41]   MISS [Yahoo] AVBP: no transcript items in feed
+[2026-11-04 21:28:41]   NEW [Yahoo] COR: https://finance.yahoo.com/markets/stocks/articles/cencora-cor-q4-2026-earnings-184822920.html (Motley Fool)
+[2026-11-04 21:28:42]   MISS [Yahoo] DD: no transcript items in feed
+[2026-11-04 21:28:43]   MISS [Yahoo] GBLI: no transcript items in feed
+[2026-11-04 21:28:43]   NEW [Yahoo] HRMY: https://finance.yahoo.com/healthcare/articles/harmony-biosciences-hrmy-q3-2026-194528777.html (Motley Fool)
+[2026-11-04 21:28:44]   MISS [Yahoo] INO: no transcript items in feed
+[2026-11-04 21:28:45]   MISS [Yahoo] JNJ: no transcript items in feed
+[2026-11-04 21:28:45]   MISS [Yahoo] MRBK: no transcript items in feed
+[2026-11-04 21:28:46]   NEW [Yahoo] OCGN: https://finance.yahoo.com/healthcare/articles/ocugen-ocgn-q3-2026-earnings-173010790.html (Motley Fool)
+[2026-11-04 21:28:47]   MISS [Yahoo] OFLX: no transcript items in feed
+[2026-11-04 21:28:47]   MISS [Yahoo] PKBK: no transcript items in feed
+[2026-11-04 21:28:48]   MISS [Yahoo] QNBC: no transcript items in feed
+[2026-11-04 21:28:48]   MISS [Yahoo] QNTO: no transcript items in feed
+[2026-11-04 21:28:49]   NEW [Yahoo] STIM: https://finance.yahoo.com/healthcare/articles/neuronetics-stim-q3-2026-earnings-175834197.html (Motley Fool)
+[2026-11-04 21:28:50]   MISS [Yahoo] UHT: no transcript items in feed
+[2026-11-04 21:28:50]   NEW [Yahoo] VPG: https://finance.yahoo.com/markets/stocks/articles/vishay-precision-vpg-q3-2026-184821229.html (Motley Fool)
+[2026-11-04 21:28:51]   NEW [Yahoo] VSH: https://finance.yahoo.com/markets/stocks/articles/vishay-vsh-q3-2026-earnings-193325582.html (Motley Fool)
+[2026-11-04 21:28:52]   MISS [Yahoo] VSNT: no transcript items in feed
+[2026-11-04 21:28:53]   MISS [Yahoo] WTRG: no transcript items in feed
+[2026-11-04 21:28:53] Saved transcripts.json (53 tickers with entries)
+[2026-11-04 21:28:53] === Done. 6 new transcript links found. ===
+
