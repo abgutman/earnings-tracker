@@ -308,8 +308,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/103730/000010373026000079/vsh-20261104.htm",
   "last_detected_at": "2026-11-04T20:27:27.813696+00:00",
   "last_8k_detected_at": "2026-11-04T20:27:27.813696+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-11-04"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/103730/000010373026000080/form10q.htm"
  },
  "OCGN": {
   "ticker": "OCGN",
@@ -332,8 +331,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1372299/000110465926122401/tm2628896d1_8k.htm",
   "last_detected_at": "2026-11-04T20:27:27.813696+00:00",
   "last_8k_detected_at": "2026-11-04T20:27:27.813696+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-11-04"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1372299/000162828026069835/ocgn-20260930.htm"
  },
  "OFLX": {
   "ticker": "OFLX",
@@ -432,8 +430,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/78128/000155278126000537/e26437_wtrg-8k.htm",
   "last_detected_at": "2026-11-05T01:31:03.446360+00:00",
   "last_8k_detected_at": "2026-11-05T01:31:03.446360+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-11-04"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/78128/000007812826000080/wtrg-20260930x10q.htm"
  },
  "UIS": {
   "ticker": "UIS",
@@ -665,8 +662,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1802665/000110465926122377/hrmy-20261104x8k.htm",
   "last_detected_at": "2026-11-04T20:27:27.813696+00:00",
   "last_8k_detected_at": "2026-11-04T20:27:27.813696+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-11-04"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1802665/000110465926122390/hrmy-20260930x10q.htm"
  },
  "INO": {
   "ticker": "INO",
@@ -996,8 +992,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1933414/000193341426000142/mlys-20261029.htm",
   "last_detected_at": "2026-11-05T01:31:03.446360+00:00",
   "last_8k_detected_at": "2026-11-05T01:31:03.446360+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-11-04"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1933414/000193341426000144/mlys-20260930.htm"
  },
  "VERX": {
   "ticker": "VERX",
@@ -1067,8 +1062,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1487952/000143774926034760/vpg20260805_8k.htm",
   "last_detected_at": "2026-11-04T20:27:27.813696+00:00",
   "last_8k_detected_at": "2026-11-04T20:27:27.813696+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-11-04"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1487952/000143774926034772/vpg20260805_10q.htm"
  },
  "NVRI": {
   "ticker": "NVRI",
@@ -1756,8 +1750,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1227636/000119312526446239/d144740d8k.htm",
   "last_detected_at": "2026-11-04T20:27:27.813696+00:00",
   "last_8k_detected_at": "2026-11-04T20:27:27.813696+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-11-04"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1227636/000110465926122380/stim-20260930x10q.htm"
  },
  "BTCS": {
   "ticker": "BTCS",
@@ -1985,8 +1978,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1781983/000110465926122403/tm2628880d1_8k.htm",
   "last_detected_at": "2026-11-04T20:27:27.813696+00:00",
   "last_8k_detected_at": "2026-11-04T20:27:27.813696+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-11-04"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1781983/000110465926122405/apre-20260930x10q.htm"
  },
  "XHLD": {
   "ticker": "XHLD",
@@ -2317,8 +2309,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/310158/000031015826000248/mrk-20260930.htm",
   "last_detected_at": "2026-11-05T00:50:29.688990+00:00",
   "last_8k_detected_at": "2026-10-29T17:22:39.260692+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-10-29"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/310158/000031015826000248/mrk-20260930.htm"
  },
  "DD": {
   "ticker": "DD",

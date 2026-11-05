@@ -5425,3 +5425,23 @@
 [2026-11-05 01:31:28]     ✉ alert sent (8k_202)
 [2026-11-05 01:31:28]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001477845.json'
 [2026-11-05 01:31:36] === EDGAR POLL complete. Fetched 100 companies, 4 new filings. ===
+[2026-11-05 02:53:28] === CHECK-10Q: scanning for pending 10-Q filings ===
+[2026-11-05 02:53:29]   ✓ 10-Q found for VSH (VISHAY INTERTECHNOLOGY INC) filed 2026-11-04
+[2026-11-05 02:53:29]     https://www.sec.gov/Archives/edgar/data/103730/000010373026000080/form10q.htm
+[2026-11-05 02:53:29]   ✓ 10-Q found for OCGN (Ocugen, Inc.) filed 2026-11-04
+[2026-11-05 02:53:29]     https://www.sec.gov/Archives/edgar/data/1372299/000162828026069835/ocgn-20260930.htm
+[2026-11-05 02:53:29]   ✓ 10-Q found for WTRG (Essential Utilities, Inc.) filed 2026-11-04
+[2026-11-05 02:53:29]     https://www.sec.gov/Archives/edgar/data/78128/000007812826000080/wtrg-20260930x10q.htm
+[2026-11-05 02:53:30]   ✓ 10-Q found for HRMY (Harmony Biosciences Holdings, Inc.) filed 2026-11-04
+[2026-11-05 02:53:30]     https://www.sec.gov/Archives/edgar/data/1802665/000110465926122390/hrmy-20260930x10q.htm
+[2026-11-05 02:53:30]   ✓ 10-Q found for MLYS (Mineralys Therapeutics, Inc.) filed 2026-11-04
+[2026-11-05 02:53:30]     https://www.sec.gov/Archives/edgar/data/1933414/000193341426000144/mlys-20260930.htm
+[2026-11-05 02:53:31]   ✓ 10-Q found for VPG (Vishay Precision Group, Inc.) filed 2026-11-04
+[2026-11-05 02:53:31]     https://www.sec.gov/Archives/edgar/data/1487952/000143774926034772/vpg20260805_10q.htm
+[2026-11-05 02:53:32]   ✓ 10-Q found for STIM (Neuronetics, Inc.) filed 2026-11-04
+[2026-11-05 02:53:32]     https://www.sec.gov/Archives/edgar/data/1227636/000110465926122380/stim-20260930x10q.htm
+[2026-11-05 02:53:32]   ✓ 10-Q found for APRE (Aprea Therapeutics, Inc.) filed 2026-11-04
+[2026-11-05 02:53:32]     https://www.sec.gov/Archives/edgar/data/1781983/000110465926122405/apre-20260930x10q.htm
+[2026-11-05 02:53:33]   ✓ 10-Q found for MRK (Merck & Co., Inc.) filed 2026-11-04
+[2026-11-05 02:53:33]     https://www.sec.gov/Archives/edgar/data/310158/000031015826000248/mrk-20260930.htm
+[2026-11-05 02:53:33] === CHECK-10Q complete. Checked 16, found 9, cleared 0 stale. ===
