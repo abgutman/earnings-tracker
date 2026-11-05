@@ -1,6 +1,71 @@
 {
- "generated_at": "2026-11-05T06:33:44",
+ "generated_at": "2026-11-05T18:43:18",
  "items": [
+  {
+   "uuid": "d66273d0-d6b0-3926-829d-9fcd7e18e54e",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "Baird Adjusts Cencora Price Target to $405 From $375",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/baird-adjusts-cencora-price-target-135842958.html",
+   "published_unix": 1793887122,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-05T18:43:04"
+  },
+  {
+   "uuid": "adb31f5b-b75e-3a9d-b1d4-4263c2c75024",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "BofA Adjusts Price Target on Cencora to $360 From $345",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-adjusts-price-target-cencora-135008124.html",
+   "published_unix": 1793886608,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-05T18:43:04"
+  },
+  {
+   "uuid": "f0829167-2a89-342b-a634-9e2f54cf664f",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "Truist Raises Price Target on Five Below to $302 From $297, Keeps Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/truist-raises-price-target-five-123945087.html",
+   "published_unix": 1793882385,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-05T18:43:06"
+  },
+  {
+   "uuid": "bc08046a-a58d-3dcd-8d55-570c5c2cdc11",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Huntington Capital Downgrades American Water Works to Market Perform, Price Target is $150",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/huntington-capital-downgrades-american-water-123449121.html",
+   "published_unix": 1793882089,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-05T18:43:08"
+  },
+  {
+   "uuid": "198ac64f-126d-3ddc-b03a-8fdb2d8c052e",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "Campbell's",
+   "title": "Campbell\u2019s Just Gained 13% in a Week: Take Profits, or Buy More?",
+   "publisher": "TIKR",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/campbell-just-gained-13-week-051650190.html",
+   "published_unix": 1793855810,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-05T18:43:06"
+  },
   {
    "uuid": "b557fc5f-b9d7-39a9-866f-1f412152447a",
    "tickers": [
@@ -2026,58 +2091,6 @@
    "published_unix": 1791371942,
    "source_type": "yahoo",
    "captured_at": "2026-10-07T17:48:29"
-  },
-  {
-   "uuid": "142c33a1-6f0f-3501-bb4c-1653bfa147a9",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces Everstead Now Open in Cary, North Carolina",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-everstead-now-181800441.html",
-   "published_unix": 1791310680,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-06T21:39:32"
-  },
-  {
-   "uuid": "4985dcb8-f5dc-3abe-abcc-af069d312822",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "American Water to Discuss Third Quarter 2026 Results and Initiation of 2027 Standalone Earnings Guidance on October 29, 2026",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/american-water-discuss-third-quarter-172100914.html",
-   "published_unix": 1791307260,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-06T21:39:19"
-  },
-  {
-   "uuid": "312c5499-5711-3e06-accd-2a66ecfc0aab",
-   "tickers": [
-    "BURL"
-   ],
-   "company": "Burlington Stores",
-   "title": "Burlington Stores Invests in Chicago Community Through Citywide Events",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/small-business/articles/burlington-stores-invests-chicago-community-140300947.html",
-   "published_unix": 1791295380,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-06T17:10:23"
-  },
-  {
-   "uuid": "c783a34a-3f06-3fd8-8494-693ceb9fb4ae",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Indiana American Water Completes $24.5 Million Water Main Infrastructure Project in Northwest Indiana",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/indiana-american-water-completes-24-114500278.html",
-   "published_unix": 1791287100,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-06T17:10:24"
   }
  ]
 }
