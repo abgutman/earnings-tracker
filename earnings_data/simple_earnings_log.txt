@@ -5533,3 +5533,11 @@
 [2026-11-05 20:43:42]     ✉ alert sent (10q)
 [2026-11-05 20:43:42]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0000750558.json'
 [2026-11-05 20:43:52] === EDGAR POLL complete. Fetched 100 companies, 11 new filings. ===
+[2026-11-05 21:00:17] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-11-05 21:00:18]   firehose: 8-K feed — 100 entries parsed
+[2026-11-05 21:00:19]   firehose: 10-Q feed — 100 entries parsed
+[2026-11-05 21:00:19]   firehose: 100 watched CIKs, 200 total feed entries
+[2026-11-05 21:00:20]   ★ NEW 10q for LNC (LINCOLN NATIONAL CORP) filed 2026-11-05
+[2026-11-05 21:00:20]     https://www.sec.gov/Archives/edgar/data/59558/000005955826000072/lnc-20260930.htm
+[2026-11-05 21:00:21]     ✉ alert sent (10q)
+[2026-11-05 21:00:21] === EDGAR FIREHOSE complete. 1 new detections. ===
