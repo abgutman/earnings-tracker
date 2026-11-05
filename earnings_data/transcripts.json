@@ -119,6 +119,13 @@
  ],
  "CERT": [
   {
+   "date_str": "2026-11-05",
+   "found_at": "2026-11-05T21:33:17",
+   "source": "Motley Fool",
+   "title": "Certara (CERT) Q3 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/healthcare/articles/certara-cert-q3-2026-earnings-194922174.html"
+  },
+  {
    "date_str": "2026-08-05",
    "found_at": "2026-08-05T17:08:52",
    "source": "Motley Fool",
@@ -247,6 +254,15 @@
    "url": "https://finance.yahoo.com/m/73e774e8-8714-3e78-8ead-aab67775e459/ecovyst-%28ecvt%29-q2-2026.html"
   }
  ],
+ "EPAM": [
+  {
+   "date_str": "2026-11-05",
+   "found_at": "2026-11-05T21:33:19",
+   "source": "Motley Fool",
+   "title": "EPAM Systems (EPAM) Q3 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/epam-systems-epam-q3-2026-201754311.html"
+  }
+ ],
  "FIVE": [
   {
    "date_str": "2026-09-09",
@@ -277,6 +293,15 @@
    "source": "Motley Fool",
    "title": "FMC (FMC) Q2 2026 Earnings Call Transcript",
    "url": "https://finance.yahoo.com/m/ad38eaad-aa1e-3ab1-b14c-5787e95efd78/fmc-%28fmc%29-q2-2026-earnings.html"
+  }
+ ],
+ "FSK": [
+  {
+   "date_str": "2026-11-05",
+   "found_at": "2026-11-05T21:33:20",
+   "source": "Motley Fool",
+   "title": "FS KKR (FSK) Q3 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/fs-kkr-fsk-q3-2026-204541390.html"
   }
  ],
  "GBLI": [
@@ -447,6 +472,13 @@
  ],
  "PVLA": [
   {
+   "date_str": "2026-11-05",
+   "found_at": "2026-11-05T21:33:26",
+   "source": "Motley Fool",
+   "title": "Palvella (PVLA) Q3 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/healthcare/articles/palvella-pvla-q3-2026-earnings-193309044.html"
+  },
+  {
    "date_str": "2026-08-11",
    "found_at": "2026-08-11T20:22:06",
    "source": "Motley Fool",
@@ -485,6 +517,13 @@
   }
  ],
  "RDN": [
+  {
+   "date_str": "2026-11-05",
+   "found_at": "2026-11-05T21:33:27",
+   "source": "Motley Fool",
+   "title": "Radian (RDN) Q3 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/radian-rdn-q3-2026-earnings-194653751.html"
+  },
   {
    "date_str": "2026-08-13",
    "found_at": "2026-08-13T16:33:04",
@@ -528,6 +567,13 @@
   }
  ],
  "TFX": [
+  {
+   "date_str": "2026-11-05",
+   "found_at": "2026-11-05T21:33:28",
+   "source": "Motley Fool",
+   "title": "Teleflex Inc (TFX) Q3 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/teleflex-inc-tfx-q3-2026-175802627.html"
+  },
   {
    "date_str": "2026-08-13",
    "found_at": "2026-08-13T16:33:07",
@@ -574,6 +620,13 @@
  ],
  "UIS": [
   {
+   "date_str": "2026-11-05",
+   "found_at": "2026-11-05T21:33:30",
+   "source": "Motley Fool",
+   "title": "Unisys Corp (UIS) Q3 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/unisys-corp-uis-q3-2026-185024607.html"
+  },
+  {
    "date_str": "2026-08-10",
    "found_at": "2026-08-10T16:29:50",
    "source": "Motley Fool",
@@ -600,6 +653,13 @@
   }
  ],
  "VERX": [
+  {
+   "date_str": "2026-11-05",
+   "found_at": "2026-11-05T21:33:30",
+   "source": "Motley Fool",
+   "title": "Vertex (VERX) Q3 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/vertex-verx-q3-2026-earnings-181352228.html"
+  },
   {
    "date_str": "2026-08-11",
    "found_at": "2026-08-11T16:32:52",

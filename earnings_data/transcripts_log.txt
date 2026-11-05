@@ -7337,3 +7337,44 @@
 [2026-11-05 03:43:06] No new transcripts found; transcripts.json unchanged
 [2026-11-05 03:43:06] === Done. 0 new transcript links found. ===
 
+[2026-11-05 21:33:11] === Fool transcript harvest start (dry_run=False) ===
+[2026-11-05 21:33:11] Loaded 122 tickers from expanded_companies.json
+[2026-11-05 21:33:11] Recent tickers (last filing within 14d): ['ACRS', 'AHCO', 'AME', 'ANVS', 'APRE', 'AVBP', 'AVTR', 'AVTX', 'AWK', 'AXTA', 'BDN', 'BSY', 'CABA', 'CERT', 'CMCSA', 'COR', 'CRS', 'CUBE', 'DD', 'DORM', 'ECVT', 'EPAM', 'FMC', 'FSK', 'GBLI', 'HCSG', 'HLNE', 'HRMY', 'HSY', 'INO', 'IRT', 'KWR', 'LNC', 'MLYS', 'MRBK', 'MRK', 'OCGN', 'OFLX', 'PKBK', 'PVLA', 'QNBC', 'QNTO', 'RDN', 'SEIC', 'STIM', 'TFX', 'UHS', 'UHT', 'UIS', 'UVSP', 'VERX', 'VPG', 'VSH', 'VSNT', 'WST', 'WTRG']
+[2026-11-05 21:33:11] Seed backfill: all seeds already in state
+[2026-11-05 21:33:11] Fetching Fool transcript index: https://www.fool.com/earnings-call-transcripts/
+[2026-11-05 21:33:12]   Found 20 transcript links on index page
+[2026-11-05 21:33:12]   Fool index matched tickers: []
+[2026-11-05 21:33:12] Yahoo secondary search for 30 tickers: ['ACRS', 'ANVS', 'APRE', 'AVBP', 'AVTX', 'BSY', 'CABA', 'CERT', 'DD', 'ECVT', 'EPAM', 'FSK', 'GBLI', 'HCSG', 'INO', 'LNC', 'MLYS', 'MRBK', 'OFLX', 'PKBK', 'PVLA', 'QNBC', 'QNTO', 'RDN', 'TFX', 'UHT', 'UIS', 'VERX', 'VSNT', 'WTRG']
+[2026-11-05 21:33:12]   MISS [Yahoo] ACRS: no transcript items in feed
+[2026-11-05 21:33:13]   MISS [Yahoo] ANVS: no transcript items in feed
+[2026-11-05 21:33:13]   MISS [Yahoo] APRE: no transcript items in feed
+[2026-11-05 21:33:14]   MISS [Yahoo] AVBP: no transcript items in feed
+[2026-11-05 21:33:15]   MISS [Yahoo] AVTX: no transcript items in feed
+[2026-11-05 21:33:15]   MISS [Yahoo] BSY: no transcript items in feed
+[2026-11-05 21:33:16]   MISS [Yahoo] CABA: no transcript items in feed
+[2026-11-05 21:33:17]   NEW [Yahoo] CERT: https://finance.yahoo.com/healthcare/articles/certara-cert-q3-2026-earnings-194922174.html (Motley Fool)
+[2026-11-05 21:33:18]   MISS [Yahoo] DD: no transcript items in feed
+[2026-11-05 21:33:18]   MISS [Yahoo] ECVT: no transcript items in feed
+[2026-11-05 21:33:19]   NEW [Yahoo] EPAM: https://finance.yahoo.com/markets/stocks/articles/epam-systems-epam-q3-2026-201754311.html (Motley Fool)
+[2026-11-05 21:33:20]   NEW [Yahoo] FSK: https://finance.yahoo.com/markets/stocks/articles/fs-kkr-fsk-q3-2026-204541390.html (Motley Fool)
+[2026-11-05 21:33:20]   MISS [Yahoo] GBLI: no transcript items in feed
+[2026-11-05 21:33:21]   MISS [Yahoo] HCSG: no transcript items in feed
+[2026-11-05 21:33:21]   MISS [Yahoo] INO: no transcript items in feed
+[2026-11-05 21:33:22]   MISS [Yahoo] LNC: no transcript items in feed
+[2026-11-05 21:33:23]   MISS [Yahoo] MLYS: no transcript items in feed
+[2026-11-05 21:33:24]   MISS [Yahoo] MRBK: no transcript items in feed
+[2026-11-05 21:33:24]   MISS [Yahoo] OFLX: no transcript items in feed
+[2026-11-05 21:33:25]   MISS [Yahoo] PKBK: no transcript items in feed
+[2026-11-05 21:33:26]   NEW [Yahoo] PVLA: https://finance.yahoo.com/healthcare/articles/palvella-pvla-q3-2026-earnings-193309044.html (Motley Fool)
+[2026-11-05 21:33:26]   MISS [Yahoo] QNBC: no transcript items in feed
+[2026-11-05 21:33:27]   MISS [Yahoo] QNTO: no transcript items in feed
+[2026-11-05 21:33:27]   NEW [Yahoo] RDN: https://finance.yahoo.com/markets/stocks/articles/radian-rdn-q3-2026-earnings-194653751.html (Motley Fool)
+[2026-11-05 21:33:28]   NEW [Yahoo] TFX: https://finance.yahoo.com/markets/stocks/articles/teleflex-inc-tfx-q3-2026-175802627.html (Motley Fool)
+[2026-11-05 21:33:29]   MISS [Yahoo] UHT: no transcript items in feed
+[2026-11-05 21:33:30]   NEW [Yahoo] UIS: https://finance.yahoo.com/markets/stocks/articles/unisys-corp-uis-q3-2026-185024607.html (Motley Fool)
+[2026-11-05 21:33:30]   NEW [Yahoo] VERX: https://finance.yahoo.com/markets/stocks/articles/vertex-verx-q3-2026-earnings-181352228.html (Motley Fool)
+[2026-11-05 21:33:31]   MISS [Yahoo] VSNT: no transcript items in feed
+[2026-11-05 21:33:32]   MISS [Yahoo] WTRG: no transcript items in feed
+[2026-11-05 21:33:32] Saved transcripts.json (55 tickers with entries)
+[2026-11-05 21:33:32] === Done. 8 new transcript links found. ===
+
