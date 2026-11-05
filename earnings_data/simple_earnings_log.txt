@@ -5445,3 +5445,45 @@
 [2026-11-05 02:53:33]   ✓ 10-Q found for MRK (Merck & Co., Inc.) filed 2026-11-04
 [2026-11-05 02:53:33]     https://www.sec.gov/Archives/edgar/data/310158/000031015826000248/mrk-20260930.htm
 [2026-11-05 02:53:33] === CHECK-10Q complete. Checked 16, found 9, cleared 0 stale. ===
+[2026-11-05 18:39:17] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-11-05 18:39:18]   firehose: 8-K feed — 100 entries parsed
+[2026-11-05 18:39:18]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-11-05 18:39:18]   firehose: 8-K page 2 — 100 entries
+[2026-11-05 18:39:22]   firehose: 10-Q feed — 100 entries parsed
+[2026-11-05 18:39:22]   firehose: all 10-Q entries newer than watermark — fetching page 2
+[2026-11-05 18:39:23]   firehose: 10-Q page 2 — 100 entries
+[2026-11-05 18:39:23]   firehose: 100 watched CIKs, 400 total feed entries
+[2026-11-05 18:39:23]   ★ NEW 8k_202 for RDN (RADIAN GROUP INC) filed 2026-11-05
+[2026-11-05 18:39:23]     https://www.sec.gov/Archives/edgar/data/890926/000119312526448639/rdn-20261104.htm
+[2026-11-05 18:39:24]     ✉ alert sent (8k_202)
+[2026-11-05 18:39:24]   ★ NEW 8k_202 for CABA (Cabaletta Bio, Inc.) filed 2026-11-05
+[2026-11-05 18:39:24]     https://www.sec.gov/Archives/edgar/data/1759138/000175913826000046/caba-20261105.htm
+[2026-11-05 18:39:25]     ✉ alert sent (8k_202)
+[2026-11-05 18:39:25]   ★ NEW 8k_202 for PVLA (PALVELLA THERAPEUTICS, INC.) filed 2026-11-05
+[2026-11-05 18:39:25]     https://www.sec.gov/Archives/edgar/data/1583648/000119312526448594/pvla-20261105.htm
+[2026-11-05 18:39:26]     ✉ alert sent (8k_202)
+[2026-11-05 18:39:27]   ★ NEW 8k_202 for ACRS (Aclaris Therapeutics, Inc.) filed 2026-11-05
+[2026-11-05 18:39:27]     https://www.sec.gov/Archives/edgar/data/1557746/000110465926123039/acrs-20261105x8k.htm
+[2026-11-05 18:39:27]     ✉ alert sent (8k_202)
+[2026-11-05 18:39:28]   ★ NEW 8k_202 for CERT (Certara, Inc.) filed 2026-11-05
+[2026-11-05 18:39:28]     https://www.sec.gov/Archives/edgar/data/1827090/000182709026000034/certara-20261105.htm
+[2026-11-05 18:39:28]     ✉ alert sent (8k_202)
+[2026-11-05 18:39:29]   ★ NEW 10q for TFX (TELEFLEX INC) filed 2026-11-05
+[2026-11-05 18:39:29]     https://www.sec.gov/Archives/edgar/data/96943/000009694326000109/tfx-20260930.htm
+[2026-11-05 18:39:30]     ✉ alert sent (10q)
+[2026-11-05 18:39:30]   ★ NEW 10q for PVLA (PALVELLA THERAPEUTICS, INC.) filed 2026-11-05
+[2026-11-05 18:39:30]     https://www.sec.gov/Archives/edgar/data/1583648/000119312526448638/pvla-20260930.htm
+[2026-11-05 18:39:31]     ✉ alert sent (10q)
+[2026-11-05 18:39:31]   ★ NEW 10q for CABA (Cabaletta Bio, Inc.) filed 2026-11-05
+[2026-11-05 18:39:31]     https://www.sec.gov/Archives/edgar/data/1759138/000175913826000047/caba-20260930.htm
+[2026-11-05 18:39:32]     ✉ alert sent (10q)
+[2026-11-05 18:39:32]   ★ NEW 10q for CERT (Certara, Inc.) filed 2026-11-05
+[2026-11-05 18:39:32]     https://www.sec.gov/Archives/edgar/data/1827090/000182709026000035/cert-20260930.htm
+[2026-11-05 18:39:33]     ✉ alert sent (10q)
+[2026-11-05 18:39:33]   ★ NEW 10q for AVTX (Avalo Therapeutics, Inc.) filed 2026-11-05
+[2026-11-05 18:39:33]     https://www.sec.gov/Archives/edgar/data/1534120/000153412026000057/avtx-20260930.htm
+[2026-11-05 18:39:34]     ✉ alert sent (10q)
+[2026-11-05 18:39:34]   ★ NEW 10q for FSK (FS KKR Capital Corp) filed 2026-11-05
+[2026-11-05 18:39:34]     https://www.sec.gov/Archives/edgar/data/1422183/000162828026070499/fsk-20260930.htm
+[2026-11-05 18:39:36]     ✉ alert sent (10q)
+[2026-11-05 18:39:36] === EDGAR FIREHOSE complete. 11 new detections. ===
