@@ -5487,3 +5487,49 @@
 [2026-11-05 18:39:34]     https://www.sec.gov/Archives/edgar/data/1422183/000162828026070499/fsk-20260930.htm
 [2026-11-05 18:39:36]     ✉ alert sent (10q)
 [2026-11-05 18:39:36] === EDGAR FIREHOSE complete. 11 new detections. ===
+[2026-11-05 20:43:14] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-11-05 20:43:17]   ★ NEW 8k_202 for LNC (LINCOLN NATIONAL CORP) filed 2026-11-05
+[2026-11-05 20:43:17]     https://www.sec.gov/Archives/edgar/data/59558/000005955826000070/lnc-20261105.htm
+[2026-11-05 20:43:18]     ✉ alert sent (8k_202)
+[2026-11-05 20:43:18]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0000059558.json'
+[2026-11-05 20:43:18]   ★ NEW 8k_202 for BSY (BENTLEY SYSTEMS INC) filed 2026-11-05
+[2026-11-05 20:43:18]     https://www.sec.gov/Archives/edgar/data/1031308/000103130826000032/bsy-20261105.htm
+[2026-11-05 20:43:19]     ✉ alert sent (8k_202)
+[2026-11-05 20:43:19]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001031308.json'
+[2026-11-05 20:43:25]   ★ NEW 8k_202 for TFX (TELEFLEX INC) filed 2026-11-05
+[2026-11-05 20:43:25]     https://www.sec.gov/Archives/edgar/data/96943/000009694326000107/tfx-20261105.htm
+[2026-11-05 20:43:26]     ✉ alert sent (8k_202)
+[2026-11-05 20:43:26]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0000096943.json'
+[2026-11-05 20:43:26]   ★ NEW 8k_202 for EPAM (EPAM Systems, Inc.) filed 2026-11-05
+[2026-11-05 20:43:26]     https://www.sec.gov/Archives/edgar/data/1352010/000135201026000048/epam-20261104.htm
+[2026-11-05 20:43:27]     ✉ alert sent (8k_202)
+[2026-11-05 20:43:27]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001352010.json'
+[2026-11-05 20:43:28]   ★ NEW 8k_202 for FSK (FS KKR Capital Corp) filed 2026-11-05
+[2026-11-05 20:43:28]     https://www.sec.gov/Archives/edgar/data/1422183/000110465926123011/tm2628917d1_8k.htm
+[2026-11-05 20:43:29]     ✉ alert sent (8k_202)
+[2026-11-05 20:43:29]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001422183.json'
+[2026-11-05 20:43:30]   ★ NEW 8k_202 for PVLA (PALVELLA THERAPEUTICS, INC.) filed 2026-11-05
+[2026-11-05 20:43:30]     https://www.sec.gov/Archives/edgar/data/1583648/000119312526448594/pvla-20261105.htm
+[2026-11-05 20:43:31]     ✉ alert sent (8k_202)
+[2026-11-05 20:43:31]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001583648.json'
+[2026-11-05 20:43:32]   ★ NEW 8k_202 for ECVT (Ecovyst Inc.) filed 2026-11-05
+[2026-11-05 20:43:32]     https://www.sec.gov/Archives/edgar/data/1708035/000170803526000106/ecvt-20261105.htm
+[2026-11-05 20:43:33]     ✉ alert sent (8k_202)
+[2026-11-05 20:43:33]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001708035.json'
+[2026-11-05 20:43:35]   ★ NEW 8k_202 for AVTX (Avalo Therapeutics, Inc.) filed 2026-11-05
+[2026-11-05 20:43:35]     https://www.sec.gov/Archives/edgar/data/1534120/000153412026000056/avtx-20261105.htm
+[2026-11-05 20:43:36]     ✉ alert sent (8k_202)
+[2026-11-05 20:43:36]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001534120.json'
+[2026-11-05 20:43:37]   ★ NEW 8k_202 for CERT (Certara, Inc.) filed 2026-11-05
+[2026-11-05 20:43:37]     https://www.sec.gov/Archives/edgar/data/1827090/000182709026000034/certara-20261105.htm
+[2026-11-05 20:43:37]     ✉ alert sent (8k_202)
+[2026-11-05 20:43:37]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001827090.json'
+[2026-11-05 20:43:38]   ★ NEW 8k_202 for CABA (Cabaletta Bio, Inc.) filed 2026-11-05
+[2026-11-05 20:43:38]     https://www.sec.gov/Archives/edgar/data/1759138/000175913826000046/caba-20261105.htm
+[2026-11-05 20:43:39]     ✉ alert sent (8k_202)
+[2026-11-05 20:43:39]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001759138.json'
+[2026-11-05 20:43:41]   ★ NEW 10q for QNBC (QNB CORP.) filed 2026-11-05
+[2026-11-05 20:43:41]     https://www.sec.gov/Archives/edgar/data/750558/000119312526449518/qnbc-20260930.htm
+[2026-11-05 20:43:42]     ✉ alert sent (10q)
+[2026-11-05 20:43:42]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0000750558.json'
+[2026-11-05 20:43:52] === EDGAR POLL complete. Fetched 100 companies, 11 new filings. ===
