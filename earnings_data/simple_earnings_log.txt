@@ -5389,3 +5389,21 @@
 [2026-11-04 20:45:19]     https://www.sec.gov/Archives/edgar/data/78128/000007812826000080/wtrg-20260930x10q.htm
 [2026-11-04 20:45:20]     ✉ alert sent (10q)
 [2026-11-04 20:45:20] === EDGAR FIREHOSE complete. 1 new detections. ===
+[2026-11-05 00:50:29] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-11-05 00:50:30]   firehose: 8-K feed — 100 entries parsed
+[2026-11-05 00:50:30]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-11-05 00:50:30]   firehose: 8-K page 2 — 100 entries
+[2026-11-05 00:50:30]   firehose: 10-Q feed — 100 entries parsed
+[2026-11-05 00:50:30]   firehose: all 10-Q entries newer than watermark — fetching page 2
+[2026-11-05 00:50:30]   firehose: 10-Q page 2 — 100 entries
+[2026-11-05 00:50:30]   firehose: 100 watched CIKs, 400 total feed entries
+[2026-11-05 00:50:31]   ★ NEW 8k_202 for UIS (UNISYS CORP) filed 2026-11-04
+[2026-11-05 00:50:31]     https://www.sec.gov/Archives/edgar/data/746838/000074683826000037/uis-20261104.htm
+[2026-11-05 00:50:31]     ✉ alert sent (8k_202)
+[2026-11-05 00:50:31]   ★ NEW 10q for MLYS (Mineralys Therapeutics, Inc.) filed 2026-11-04
+[2026-11-05 00:50:31]     https://www.sec.gov/Archives/edgar/data/1933414/000193341426000144/mlys-20260930.htm
+[2026-11-05 00:50:32]     ✉ alert sent (10q)
+[2026-11-05 00:50:33]   ★ NEW 10q for MRK (Merck & Co., Inc.) filed 2026-11-04
+[2026-11-05 00:50:33]     https://www.sec.gov/Archives/edgar/data/310158/000031015826000248/mrk-20260930.htm
+[2026-11-05 00:50:33]     ✉ alert sent (10q)
+[2026-11-05 00:50:33] === EDGAR FIREHOSE complete. 3 new detections. ===
