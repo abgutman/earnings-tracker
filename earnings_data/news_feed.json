@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-11-04T18:37:51",
+ "generated_at": "2026-11-05T00:21:59",
  "items": [
+  {
+   "uuid": "b557fc5f-b9d7-39a9-866f-1f412152447a",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "Cencora, Inc. Q4 2026 Earnings Call Summary",
+   "publisher": "Moby",
+   "link": "https://finance.yahoo.com/healthcare/articles/cencora-inc-q4-2026-earnings-183415682.html",
+   "published_unix": 1793817255,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-05T00:21:46"
+  },
   {
    "uuid": "be295ac6-046e-3034-9157-9150a7055e43",
    "tickers": [
@@ -13,6 +26,19 @@
    "published_unix": 1793805480,
    "source_type": "yahoo",
    "captured_at": "2026-11-04T18:37:41"
+  },
+  {
+   "uuid": "1864a18b-8368-30c2-b288-15fc9817b795",
+   "tickers": [
+    "WTRG"
+   ],
+   "company": "Essential Utilities",
+   "title": "Essential Utilities, Inc. Q3 2026 Earnings Call Summary",
+   "publisher": "Moby",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/essential-utilities-inc-q3-2026-133000125.html",
+   "published_unix": 1793799000,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-05T00:21:50"
   },
   {
    "uuid": "c65e7a0c-7e1b-39fd-a90d-159045fab648",
@@ -2052,19 +2078,6 @@
    "published_unix": 1791287100,
    "source_type": "yahoo",
    "captured_at": "2026-10-06T17:10:24"
-  },
-  {
-   "uuid": "14d36750-9f24-31e1-8fef-1183082fab8e",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora",
-   "title": "Cencora Insider Sold Shares Worth $298,935, According to a Recent SEC Filing",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/cencora-insider-sold-shares-worth-200225686.html",
-   "published_unix": 1791230545,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-06T01:17:23"
   }
  ]
 }
