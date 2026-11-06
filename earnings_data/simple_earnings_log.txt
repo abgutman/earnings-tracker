@@ -5598,3 +5598,37 @@
 [2026-11-06 01:38:50]     ✉ alert sent (8k_202)
 [2026-11-06 01:38:50]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001533040.json'
 [2026-11-06 01:38:54] === EDGAR POLL complete. Fetched 100 companies, 7 new filings. ===
+[2026-11-06 02:53:03] === CHECK-10Q: scanning for pending 10-Q filings ===
+[2026-11-06 02:53:03]   ✓ 10-Q found for LNC (LINCOLN NATIONAL CORP) filed 2026-11-05
+[2026-11-06 02:53:03]     https://www.sec.gov/Archives/edgar/data/59558/000005955826000072/lnc-20260930.htm
+[2026-11-06 02:53:04]   ✓ 10-Q found for BSY (BENTLEY SYSTEMS INC) filed 2026-11-05
+[2026-11-06 02:53:04]     https://www.sec.gov/Archives/edgar/data/1031308/000103130826000034/bsy-20260930.htm
+[2026-11-06 02:53:04]   ✓ 10-Q found for UIS (UNISYS CORP) filed 2026-11-05
+[2026-11-06 02:53:04]     https://www.sec.gov/Archives/edgar/data/746838/000074683826000039/uis-20260930.htm
+[2026-11-06 02:53:05]   ✓ 10-Q found for GMED (GLOBUS MEDICAL INC) filed 2026-11-05
+[2026-11-06 02:53:05]     https://www.sec.gov/Archives/edgar/data/1237831/000162828026071165/gmed-20260930.htm
+[2026-11-06 02:53:05]   ✓ 10-Q found for TFX (TELEFLEX INC) filed 2026-11-05
+[2026-11-06 02:53:05]     https://www.sec.gov/Archives/edgar/data/96943/000009694326000109/tfx-20260930.htm
+[2026-11-06 02:53:05]   ✓ 10-Q found for EPAM (EPAM Systems, Inc.) filed 2026-11-05
+[2026-11-06 02:53:05]     https://www.sec.gov/Archives/edgar/data/1352010/000135201026000052/epam-20260930.htm
+[2026-11-06 02:53:05]   ✓ 10-Q found for FSK (FS KKR Capital Corp) filed 2026-11-05
+[2026-11-06 02:53:05]     https://www.sec.gov/Archives/edgar/data/1422183/000162828026070499/fsk-20260930.htm
+[2026-11-06 02:53:06]   ✓ 10-Q found for VERX (Vertex, Inc.) filed 2026-11-05
+[2026-11-06 02:53:06]     https://www.sec.gov/Archives/edgar/data/1806837/000110465926123357/verx-20260930x10q.htm
+[2026-11-06 02:53:06]   ✓ 10-Q found for PVLA (PALVELLA THERAPEUTICS, INC.) filed 2026-11-05
+[2026-11-06 02:53:06]     https://www.sec.gov/Archives/edgar/data/1583648/000119312526448638/pvla-20260930.htm
+[2026-11-06 02:53:06]   ✓ 10-Q found for ECVT (Ecovyst Inc.) filed 2026-11-05
+[2026-11-06 02:53:06]     https://www.sec.gov/Archives/edgar/data/1708035/000170803526000108/ecvt-20260930.htm
+[2026-11-06 02:53:06]   ✓ 10-Q found for AVTX (Avalo Therapeutics, Inc.) filed 2026-11-05
+[2026-11-06 02:53:06]     https://www.sec.gov/Archives/edgar/data/1534120/000153412026000057/avtx-20260930.htm
+[2026-11-06 02:53:07]   ✓ 10-Q found for CERT (Certara, Inc.) filed 2026-11-05
+[2026-11-06 02:53:07]     https://www.sec.gov/Archives/edgar/data/1827090/000182709026000035/cert-20260930.htm
+[2026-11-06 02:53:07]   ✓ 10-Q found for ACRS (Aclaris Therapeutics, Inc.) filed 2026-11-05
+[2026-11-06 02:53:07]     https://www.sec.gov/Archives/edgar/data/1557746/000110465926123374/acrs-20260930x10q.htm
+[2026-11-06 02:53:07]   ✓ 10-Q found for CABA (Cabaletta Bio, Inc.) filed 2026-11-05
+[2026-11-06 02:53:07]     https://www.sec.gov/Archives/edgar/data/1759138/000175913826000047/caba-20260930.htm
+[2026-11-06 02:53:07]   ✓ 10-Q found for GBLI (Global Indemnity Group, LLC) filed 2026-11-05
+[2026-11-06 02:53:07]     https://www.sec.gov/Archives/edgar/data/1494904/000119312526450130/gbli-20260930.htm
+[2026-11-06 02:53:08]   ✓ 10-Q found for PHIO (Phio Pharmaceuticals Corp.) filed 2026-11-05
+[2026-11-06 02:53:08]     https://www.sec.gov/Archives/edgar/data/1533040/000143774926035280/phio20260930_10q.htm
+[2026-11-06 02:53:08] === CHECK-10Q complete. Checked 23, found 16, cleared 0 stale. ===

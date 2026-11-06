@@ -770,3 +770,11 @@
 [2026-11-05 02:53:28]   cleanup: removed 9 past entries
 [2026-11-05 02:53:28] === Done. Captured 0 new save-the-dates, cleaned 9 past. ===
 
+[2026-11-06 02:51:40] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-11-06 02:51:40] Polling Yahoo for 106 companies
+[2026-11-06 02:52:39]   + VRCA: release=2026-11-12 call=None None
+[2026-11-06 02:52:39]     via: Verrica Pharmaceuticals to Report Third Quarter 2026 Financial Results and Provide a Corporate Updat
+[2026-11-06 02:52:41]   ✉ alert sent for VRCA
+[2026-11-06 02:53:03]   cleanup: removed 9 past entries
+[2026-11-06 02:53:03] === Done. Captured 1 new save-the-dates, cleaned 9 past. ===
+
