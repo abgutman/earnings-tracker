@@ -7378,3 +7378,41 @@
 [2026-11-05 21:33:32] Saved transcripts.json (55 tickers with entries)
 [2026-11-05 21:33:32] === Done. 8 new transcript links found. ===
 
+[2026-11-06 03:39:02] === Fool transcript harvest start (dry_run=False) ===
+[2026-11-06 03:39:02] Loaded 122 tickers from expanded_companies.json
+[2026-11-06 03:39:02] Recent tickers (last filing within 14d): ['ACRS', 'AHCO', 'AME', 'ANVS', 'APRE', 'AVBP', 'AVTR', 'AVTX', 'AWK', 'AXTA', 'BDN', 'BSY', 'CABA', 'CERT', 'COR', 'CUBE', 'DD', 'DORM', 'ECVT', 'EPAM', 'FMC', 'FSK', 'GBLI', 'GMED', 'HCSG', 'HLNE', 'HRMY', 'HSY', 'INO', 'IRT', 'KWR', 'LNC', 'MLYS', 'MRBK', 'MRK', 'OCGN', 'OFLX', 'PHIO', 'PKBK', 'PVLA', 'QNBC', 'QNTO', 'RDN', 'SEIC', 'SND', 'STIM', 'TFX', 'UHS', 'UHT', 'UIS', 'UVSP', 'VERX', 'VPG', 'VSH', 'VSNT', 'WST', 'WTRG']
+[2026-11-06 03:39:02] Seed backfill: all seeds already in state
+[2026-11-06 03:39:02] Fetching Fool transcript index: https://www.fool.com/earnings-call-transcripts/
+[2026-11-06 03:39:03]   Found 20 transcript links on index page
+[2026-11-06 03:39:03]   Fool index matched tickers: []
+[2026-11-06 03:39:03] Yahoo secondary search for 27 tickers: ['ACRS', 'ANVS', 'APRE', 'AVBP', 'AVTX', 'BDN', 'BSY', 'CABA', 'DD', 'ECVT', 'GBLI', 'GMED', 'HCSG', 'INO', 'LNC', 'MLYS', 'MRBK', 'OFLX', 'PHIO', 'PKBK', 'QNBC', 'QNTO', 'SEIC', 'SND', 'UHT', 'VSNT', 'WTRG']
+[2026-11-06 03:39:03]   MISS [Yahoo] ACRS: no transcript items in feed
+[2026-11-06 03:39:04]   MISS [Yahoo] ANVS: no transcript items in feed
+[2026-11-06 03:39:05]   MISS [Yahoo] APRE: no transcript items in feed
+[2026-11-06 03:39:06]   MISS [Yahoo] AVBP: no transcript items in feed
+[2026-11-06 03:39:06]   MISS [Yahoo] AVTX: no transcript items in feed
+[2026-11-06 03:39:07]   MISS [Yahoo] BDN: no transcript items in feed
+[2026-11-06 03:39:08]   NEW [Yahoo] BSY: https://finance.yahoo.com/markets/stocks/articles/bentley-bsy-q3-2026-earnings-213434921.html (Motley Fool)
+[2026-11-06 03:39:09]   MISS [Yahoo] CABA: no transcript items in feed
+[2026-11-06 03:39:10]   MISS [Yahoo] DD: no transcript items in feed
+[2026-11-06 03:39:10]   NEW [Yahoo] ECVT: https://finance.yahoo.com/markets/stocks/articles/ecovyst-ecvt-q3-2026-earnings-215943058.html (Motley Fool)
+[2026-11-06 03:39:11]   MISS [Yahoo] GBLI: no transcript items in feed
+[2026-11-06 03:39:12]   MISS [Yahoo] GMED: no transcript items in feed
+[2026-11-06 03:39:13]   MISS [Yahoo] HCSG: no transcript items in feed
+[2026-11-06 03:39:13]   MISS [Yahoo] INO: no transcript items in feed
+[2026-11-06 03:39:14]   MISS [Yahoo] LNC: no transcript items in feed
+[2026-11-06 03:39:15]   MISS [Yahoo] MLYS: no transcript items in feed
+[2026-11-06 03:39:16]   MISS [Yahoo] MRBK: no transcript items in feed
+[2026-11-06 03:39:16]   MISS [Yahoo] OFLX: no transcript items in feed
+[2026-11-06 03:39:17]   MISS [Yahoo] PHIO: no transcript items in feed
+[2026-11-06 03:39:18]   MISS [Yahoo] PKBK: no transcript items in feed
+[2026-11-06 03:39:18]   MISS [Yahoo] QNBC: no transcript items in feed
+[2026-11-06 03:39:19]   MISS [Yahoo] QNTO: no transcript items in feed
+[2026-11-06 03:39:20]   MISS [Yahoo] SEIC: no transcript items in feed
+[2026-11-06 03:39:20]   MISS [Yahoo] SND: no transcript items in feed
+[2026-11-06 03:39:21]   MISS [Yahoo] UHT: no transcript items in feed
+[2026-11-06 03:39:22]   MISS [Yahoo] VSNT: no transcript items in feed
+[2026-11-06 03:39:22]   MISS [Yahoo] WTRG: no transcript items in feed
+[2026-11-06 03:39:22] Saved transcripts.json (55 tickers with entries)
+[2026-11-06 03:39:22] === Done. 2 new transcript links found. ===
+
