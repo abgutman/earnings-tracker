@@ -1,6 +1,45 @@
 {
- "generated_at": "2026-11-05T18:43:18",
+ "generated_at": "2026-11-06T00:13:33",
  "items": [
+  {
+   "uuid": "39bab551-b399-386d-954d-d11686486e18",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Georgia Division Earns Top Honors at the 2026 OBIE Awards",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-georgia-division-earns-213800264.html",
+   "published_unix": 1793914680,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-06T00:13:33"
+  },
+  {
+   "uuid": "0d35f8bc-3010-3235-a5ba-1436b3545fa2",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "Five Below Investors Concerned About Losing 'Squish' Toy Momentum, Truist Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-investors-concerned-losing-201333794.html",
+   "published_unix": 1793909613,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-06T00:13:24"
+  },
+  {
+   "uuid": "b5c9c150-40db-3080-8981-c89240d741fe",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Reliable, Fiber Internet from Xfinity and Comcast Business Now Available to Previously Unserved and Underserved Homes and Businesses in Monongalia County, WV",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/articles/reliable-fiber-internet-xfinity-comcast-140500134.html",
+   "published_unix": 1793887500,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-06T00:13:21"
+  },
   {
    "uuid": "d66273d0-d6b0-3926-829d-9fcd7e18e54e",
    "tickers": [
