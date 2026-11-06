@@ -5541,3 +5541,30 @@
 [2026-11-05 21:00:20]     https://www.sec.gov/Archives/edgar/data/59558/000005955826000072/lnc-20260930.htm
 [2026-11-05 21:00:21]     ✉ alert sent (10q)
 [2026-11-05 21:00:21] === EDGAR FIREHOSE complete. 1 new detections. ===
+[2026-11-06 00:55:07] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-11-06 00:55:08]   firehose: 8-K feed — 100 entries parsed
+[2026-11-06 00:55:08]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-11-06 00:55:08]   firehose: 8-K page 2 — 100 entries
+[2026-11-06 00:55:08]   firehose: 10-Q feed — 100 entries parsed
+[2026-11-06 00:55:08]   firehose: all 10-Q entries newer than watermark — fetching page 2
+[2026-11-06 00:55:09]   firehose: 10-Q page 2 — 100 entries
+[2026-11-06 00:55:09]   firehose: 100 watched CIKs, 400 total feed entries
+[2026-11-06 00:55:09]   ★ NEW 8k_701 for ANVS (Annovis Bio, Inc.) filed 2026-11-05
+[2026-11-06 00:55:09]     https://www.sec.gov/Archives/edgar/data/1477845/000110465926123467/tm2628844d3_8k.htm
+[2026-11-06 00:55:11]     ✉ alert sent (8k_701)
+[2026-11-06 00:55:11]   ★ NEW 8k_701 for WTRG (Essential Utilities, Inc.) filed 2026-11-05
+[2026-11-06 00:55:11]     https://www.sec.gov/Archives/edgar/data/78128/000119312526449889/d180657d8k.htm
+[2026-11-06 00:55:12]     ✉ alert sent (8k_701)
+[2026-11-06 00:55:12]   ★ NEW 10q for GBLI (Global Indemnity Group, LLC) filed 2026-11-05
+[2026-11-06 00:55:12]     https://www.sec.gov/Archives/edgar/data/1494904/000119312526450130/gbli-20260930.htm
+[2026-11-06 00:55:14]     ✉ alert sent (10q)
+[2026-11-06 00:55:14]   ★ NEW 10q for GMED (GLOBUS MEDICAL INC) filed 2026-11-05
+[2026-11-06 00:55:14]     https://www.sec.gov/Archives/edgar/data/1237831/000162828026071165/gmed-20260930.htm
+[2026-11-06 00:55:15]     ✉ alert sent (10q)
+[2026-11-06 00:55:16]   ★ NEW 10q for ACRS (Aclaris Therapeutics, Inc.) filed 2026-11-05
+[2026-11-06 00:55:16]     https://www.sec.gov/Archives/edgar/data/1557746/000110465926123374/acrs-20260930x10q.htm
+[2026-11-06 00:55:17]     ✉ alert sent (10q)
+[2026-11-06 00:55:17]   ★ NEW 10q for VERX (Vertex, Inc.) filed 2026-11-05
+[2026-11-06 00:55:17]     https://www.sec.gov/Archives/edgar/data/1806837/000110465926123357/verx-20260930x10q.htm
+[2026-11-06 00:55:19]     ✉ alert sent (10q)
+[2026-11-06 00:55:19] === EDGAR FIREHOSE complete. 6 new detections. ===
