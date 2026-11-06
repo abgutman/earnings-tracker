@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T00:13:33",
+ "generated_at": "2026-11-06T06:29:37",
  "items": [
   {
    "uuid": "39bab551-b399-386d-954d-d11686486e18",
@@ -26,6 +26,17 @@
    "published_unix": 1793909613,
    "source_type": "yahoo",
    "captured_at": "2026-11-06T00:13:24"
+  },
+  {
+   "uuid": "ff09fe5e96e8ec3bc04146e1fbff56c0e33afac7",
+   "tickers": [],
+   "company": "PJM Interconnection",
+   "title": "PJM Winter Outlook: Power Supplies Available to Serve Expected Cold Weather Conditions",
+   "publisher": "PR Newswire",
+   "link": "https://www.prnewswire.com/news-releases/pjm-winter-outlook-power-supplies-available-to-serve-expected-cold-weather-conditions-302931123.html",
+   "published_unix": 1793899620,
+   "source_type": "wire",
+   "captured_at": "2026-11-06T06:29:32"
   },
   {
    "uuid": "b5c9c150-40db-3080-8981-c89240d741fe",
