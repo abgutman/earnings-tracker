@@ -7416,3 +7416,40 @@
 [2026-11-06 03:39:22] Saved transcripts.json (55 tickers with entries)
 [2026-11-06 03:39:22] === Done. 2 new transcript links found. ===
 
+[2026-11-06 21:02:55] === Fool transcript harvest start (dry_run=False) ===
+[2026-11-06 21:02:55] Loaded 122 tickers from expanded_companies.json
+[2026-11-06 21:02:55] Recent tickers (last filing within 14d): ['ACRS', 'AHCO', 'AME', 'ANVS', 'APRE', 'AVBP', 'AVTR', 'AVTX', 'AWK', 'AXTA', 'BDN', 'BSY', 'CABA', 'CERT', 'COR', 'CUBE', 'DD', 'DORM', 'ECVT', 'EPAM', 'FMC', 'FSK', 'GBLI', 'GMED', 'HCSG', 'HLNE', 'HRMY', 'HSY', 'INO', 'IRT', 'KWR', 'LNC', 'MLYS', 'MRBK', 'MRK', 'OCGN', 'OFLX', 'PHIO', 'PKBK', 'PPL', 'PVLA', 'QNBC', 'QNTO', 'RDN', 'SEIC', 'SND', 'STIM', 'TFX', 'UHS', 'UHT', 'UIS', 'UVSP', 'VERX', 'VPG', 'VSH', 'VSNT', 'WST', 'WTRG']
+[2026-11-06 21:02:55] Seed backfill: all seeds already in state
+[2026-11-06 21:02:55] Fetching Fool transcript index: https://www.fool.com/earnings-call-transcripts/
+[2026-11-06 21:02:56]   Found 20 transcript links on index page
+[2026-11-06 21:02:56]   Fool index matched tickers: []
+[2026-11-06 21:02:56] Yahoo secondary search for 26 tickers: ['ACRS', 'ANVS', 'APRE', 'AVBP', 'AVTX', 'BDN', 'CABA', 'DD', 'GBLI', 'GMED', 'HCSG', 'INO', 'LNC', 'MLYS', 'MRBK', 'OFLX', 'PHIO', 'PKBK', 'PPL', 'QNBC', 'QNTO', 'SEIC', 'SND', 'UHT', 'VSNT', 'WTRG']
+[2026-11-06 21:02:56]   MISS [Yahoo] ACRS: no transcript items in feed
+[2026-11-06 21:02:57]   MISS [Yahoo] ANVS: no transcript items in feed
+[2026-11-06 21:02:57]   MISS [Yahoo] APRE: no transcript items in feed
+[2026-11-06 21:02:58]   MISS [Yahoo] AVBP: no transcript items in feed
+[2026-11-06 21:02:59]   MISS [Yahoo] AVTX: no transcript items in feed
+[2026-11-06 21:03:00]   MISS [Yahoo] BDN: no transcript items in feed
+[2026-11-06 21:03:00]   MISS [Yahoo] CABA: no transcript items in feed
+[2026-11-06 21:03:01]   MISS [Yahoo] DD: no transcript items in feed
+[2026-11-06 21:03:02]   MISS [Yahoo] GBLI: no transcript items in feed
+[2026-11-06 21:03:03]   NEW [Yahoo] GMED: https://finance.yahoo.com/healthcare/articles/globus-medical-gmed-q3-2026-073125658.html (Motley Fool)
+[2026-11-06 21:03:03]   MISS [Yahoo] HCSG: no transcript items in feed
+[2026-11-06 21:03:04]   MISS [Yahoo] INO: no transcript items in feed
+[2026-11-06 21:03:05]   MISS [Yahoo] LNC: no transcript items in feed
+[2026-11-06 21:03:05]   MISS [Yahoo] MLYS: no transcript items in feed
+[2026-11-06 21:03:06]   MISS [Yahoo] MRBK: no transcript items in feed
+[2026-11-06 21:03:06]   MISS [Yahoo] OFLX: no transcript items in feed
+[2026-11-06 21:03:07]   MISS [Yahoo] PHIO: no transcript items in feed
+[2026-11-06 21:03:08]   MISS [Yahoo] PKBK: no transcript items in feed
+[2026-11-06 21:03:08]   MISS [Yahoo] PPL: no transcript items in feed
+[2026-11-06 21:03:09]   MISS [Yahoo] QNBC: no transcript items in feed
+[2026-11-06 21:03:10]   MISS [Yahoo] QNTO: no transcript items in feed
+[2026-11-06 21:03:10]   MISS [Yahoo] SEIC: no transcript items in feed
+[2026-11-06 21:03:11]   MISS [Yahoo] SND: no transcript items in feed
+[2026-11-06 21:03:12]   MISS [Yahoo] UHT: no transcript items in feed
+[2026-11-06 21:03:13]   MISS [Yahoo] VSNT: no transcript items in feed
+[2026-11-06 21:03:13]   MISS [Yahoo] WTRG: no transcript items in feed
+[2026-11-06 21:03:13] Saved transcripts.json (56 tickers with entries)
+[2026-11-06 21:03:13] === Done. 1 new transcript links found. ===
+
