@@ -1,6 +1,58 @@
 {
- "generated_at": "2026-11-06T06:29:37",
+ "generated_at": "2026-11-06T17:56:49",
  "items": [
+  {
+   "uuid": "3932e97e-7008-3c1c-8597-8cef2424120b",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "West Virginia American Water Advances Central Grove Project as Part of Broader Water System Upgrades",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/west-virginia-american-water-advances-163100003.html",
+   "published_unix": 1793982660,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-06T17:56:42"
+  },
+  {
+   "uuid": "b85f3cc9-db4f-33c5-99f6-02737a9c47a1",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Co-Founding Partner and Cable Television Pioneer Julian A. Brodsky Dies at 93",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-co-founding-partner-cable-154600097.html",
+   "published_unix": 1793979960,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-06T17:56:37"
+  },
+  {
+   "uuid": "3fb9c02e-0bcf-3b6f-ae8f-c3dd09e97c71",
+   "tickers": [
+    "WTRG"
+   ],
+   "company": "Essential Utilities",
+   "title": "UBS Downgrades Essential Utilities to Neutral From Buy, Price Target is $49",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-downgrades-essential-utilities-neutral-122646161.html",
+   "published_unix": 1793968006,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-06T17:56:42"
+  },
+  {
+   "uuid": "358680fd-5025-31e0-8d47-9fcb4df2b354",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "UBS Downgrades American Water Works to Neutral From Buy, Price Target is $162",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-downgrades-american-water-works-122626804.html",
+   "published_unix": 1793967986,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-06T17:56:42"
+  },
   {
    "uuid": "39bab551-b399-386d-954d-d11686486e18",
    "tickers": [
@@ -2115,32 +2167,6 @@
    "published_unix": 1791451738,
    "source_type": "yahoo",
    "captured_at": "2026-10-08T17:51:47"
-  },
-  {
-   "uuid": "f66c0e88-b004-3398-a774-72fd95f35992",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces Final Opportunity to Own a New Luxury Home at Bluffs at Granite Highlands in Washougal, Washington",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-final-opportunity-163200794.html",
-   "published_unix": 1791390720,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-07T17:48:57"
-  },
-  {
-   "uuid": "0ed10c55-569b-3d14-9b5b-5194402a2abb",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora",
-   "title": "Leerink Partners Adjusts Price Target on Cencora to $388 From $380",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/leerink-partners-adjusts-price-target-111902467.html",
-   "published_unix": 1791371942,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-07T17:48:29"
   }
  ]
 }
