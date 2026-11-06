@@ -1,6 +1,45 @@
 {
- "generated_at": "2026-11-06T17:56:49",
+ "generated_at": "2026-11-06T23:05:49",
  "items": [
+  {
+   "uuid": "95c6af71-eeb0-36a9-90d0-c218d929a9b6",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Works, Essential Utilities Merger Wins Illinois Approval",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/american-water-works-essential-utilities-214756766.html",
+   "published_unix": 1794001676,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-06T23:05:41"
+  },
+  {
+   "uuid": "d5c1fa43-0b92-3d93-be87-d755557f177c",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water and Essential Utilities Proposed Merger Progresses with Approval from the Illinois Commerce Commission",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/american-water-essential-utilities-proposed-211500892.html",
+   "published_unix": 1793999700,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-06T23:05:41"
+  },
+  {
+   "uuid": "2ad22455-05d9-36f1-84b0-ccd6dec34f40",
+   "tickers": [
+    "WTRG"
+   ],
+   "company": "Essential Utilities",
+   "title": "Essential Utilities Shares Fall After UBS Downgrade",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/essential-utilities-shares-fall-ubs-200256416.html",
+   "published_unix": 1793995376,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-06T23:05:41"
+  },
   {
    "uuid": "3932e97e-7008-3c1c-8597-8cef2424120b",
    "tickers": [
