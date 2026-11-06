@@ -5568,3 +5568,33 @@
 [2026-11-06 00:55:17]     https://www.sec.gov/Archives/edgar/data/1806837/000110465926123357/verx-20260930x10q.htm
 [2026-11-06 00:55:19]     ✉ alert sent (10q)
 [2026-11-06 00:55:19] === EDGAR FIREHOSE complete. 6 new detections. ===
+[2026-11-06 01:38:25] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-11-06 01:38:27]   ★ NEW 8k_202 for LNC (LINCOLN NATIONAL CORP) filed 2026-11-05
+[2026-11-06 01:38:27]     https://www.sec.gov/Archives/edgar/data/59558/000005955826000070/lnc-20261105.htm
+[2026-11-06 01:38:28]     ✉ alert sent (8k_202)
+[2026-11-06 01:38:28]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0000059558.json'
+[2026-11-06 01:38:30]   ★ NEW 10q for UIS (UNISYS CORP) filed 2026-11-05
+[2026-11-06 01:38:30]     https://www.sec.gov/Archives/edgar/data/746838/000074683826000039/uis-20260930.htm
+[2026-11-06 01:38:31]     ✉ alert sent (10q)
+[2026-11-06 01:38:31]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0000746838.json'
+[2026-11-06 01:38:33]   ★ NEW 8k_202 for INO (INOVIO PHARMACEUTICALS, INC.) filed 2026-11-05
+[2026-11-06 01:38:33]     https://www.sec.gov/Archives/edgar/data/1055726/000119312526449853/d141738d8k.htm
+[2026-11-06 01:38:34]     ✉ alert sent (8k_202)
+[2026-11-06 01:38:34]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001055726.json'
+[2026-11-06 01:38:34]   ★ NEW 8k_202 for GMED (GLOBUS MEDICAL INC) filed 2026-11-05
+[2026-11-06 01:38:34]     https://www.sec.gov/Archives/edgar/data/1237831/000162828026071042/gmed-20261105.htm
+[2026-11-06 01:38:35]     ✉ alert sent (8k_202)
+[2026-11-06 01:38:35]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001237831.json'
+[2026-11-06 01:38:41]   ★ NEW 8k_202 for ACRS (Aclaris Therapeutics, Inc.) filed 2026-11-05
+[2026-11-06 01:38:41]     https://www.sec.gov/Archives/edgar/data/1557746/000110465926123039/acrs-20261105x8k.htm
+[2026-11-06 01:38:42]     ✉ alert sent (8k_202)
+[2026-11-06 01:38:42]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001557746.json'
+[2026-11-06 01:38:44]   ★ NEW 8k_701 for SND (Smart Sand, Inc.) filed 2026-11-05
+[2026-11-06 01:38:44]     https://www.sec.gov/Archives/edgar/data/1529628/000152962826000107/snd-20261105.htm
+[2026-11-06 01:38:45]     ✉ alert sent (8k_701)
+[2026-11-06 01:38:45]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001529628.json'
+[2026-11-06 01:38:49]   ★ NEW 8k_202 for PHIO (Phio Pharmaceuticals Corp.) filed 2026-11-05
+[2026-11-06 01:38:49]     https://www.sec.gov/Archives/edgar/data/1533040/000143774926035277/phio20261028_8k.htm
+[2026-11-06 01:38:50]     ✉ alert sent (8k_202)
+[2026-11-06 01:38:50]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001533040.json'
+[2026-11-06 01:38:54] === EDGAR POLL complete. Fetched 100 companies, 7 new filings. ===
