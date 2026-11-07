@@ -5688,3 +5688,12 @@
 [2026-11-07 00:59:08]     ✉ alert sent (8k_202)
 [2026-11-07 00:59:08]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0002030954.json'
 [2026-11-07 00:59:12] === EDGAR POLL complete. Fetched 100 companies, 1 new filings. ===
+[2026-11-07 02:25:28] === CHECK-10Q: scanning for pending 10-Q filings ===
+[2026-11-07 02:25:28]   ✓ 10-Q found for RDN (RADIAN GROUP INC) filed 2026-11-06
+[2026-11-07 02:25:28]     https://www.sec.gov/Archives/edgar/data/890926/000119312526451985/rdn-20260930.htm
+[2026-11-07 02:25:29]   MRBK: pending_10q_since=2026-10-30 is 8d old — clearing stale flag
+[2026-11-07 02:25:29]   ✓ 10-Q found for XHLD (TEN Holdings, Inc.) filed 2026-11-06
+[2026-11-07 02:25:29]     https://www.sec.gov/Archives/edgar/data/2030954/000149315226050545/form10-q.htm
+[2026-11-07 02:25:30]   ✓ 10-Q found for PPL (PPL Corp) filed 2026-11-06
+[2026-11-07 02:25:30]     https://www.sec.gov/Archives/edgar/data/922224/000092222426000052/ppl-20260930.htm
+[2026-11-07 02:25:30] === CHECK-10Q complete. Checked 8, found 3, cleared 1 stale. ===
