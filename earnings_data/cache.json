@@ -2003,11 +2003,11 @@
    }
   ],
   "last_detected_date": "2026-11-06",
-  "last_detected_accession": "0001493152-26-050545",
-  "last_detected_type": "10q",
-  "last_detected_url": "https://www.sec.gov/Archives/edgar/data/2030954/000149315226050545/form10-q.htm",
-  "last_detected_at": "2026-11-07T00:02:09.015541+00:00",
-  "last_8k_detected_at": "2026-11-07T00:02:09.015541+00:00",
+  "last_detected_accession": "0001493152-26-050546",
+  "last_detected_type": "8k_202",
+  "last_detected_url": "https://www.sec.gov/Archives/edgar/data/2030954/000149315226050546/form8-k.htm",
+  "last_detected_at": "2026-11-07T00:58:41.311101+00:00",
+  "last_8k_detected_at": "2026-11-07T00:58:41.311101+00:00",
   "last_10q_url": null,
   "pending_10q_since": "2026-11-06"
  },

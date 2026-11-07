@@ -5682,3 +5682,9 @@
 [2026-11-07 00:02:16]     https://www.sec.gov/Archives/edgar/data/798783/000119312526451858/uht-20260930.htm
 [2026-11-07 00:02:17]     ✉ alert sent (10q)
 [2026-11-07 00:02:17] === EDGAR FIREHOSE complete. 5 new detections. ===
+[2026-11-07 00:58:41] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-11-07 00:59:06]   ★ NEW 8k_202 for XHLD (TEN Holdings, Inc.) filed 2026-11-06
+[2026-11-07 00:59:06]     https://www.sec.gov/Archives/edgar/data/2030954/000149315226050546/form8-k.htm
+[2026-11-07 00:59:08]     ✉ alert sent (8k_202)
+[2026-11-07 00:59:08]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0002030954.json'
+[2026-11-07 00:59:12] === EDGAR POLL complete. Fetched 100 companies, 1 new filings. ===
