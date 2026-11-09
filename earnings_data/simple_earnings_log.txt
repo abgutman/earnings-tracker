@@ -5697,3 +5697,30 @@
 [2026-11-07 02:25:30]   ✓ 10-Q found for PPL (PPL Corp) filed 2026-11-06
 [2026-11-07 02:25:30]     https://www.sec.gov/Archives/edgar/data/922224/000092222426000052/ppl-20260930.htm
 [2026-11-07 02:25:30] === CHECK-10Q complete. Checked 8, found 3, cleared 1 stale. ===
+[2026-11-09 21:23:18] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-11-09 21:23:18]   firehose: 8-K feed — 100 entries parsed
+[2026-11-09 21:23:18]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-11-09 21:23:19]   firehose: 8-K page 2 — 100 entries
+[2026-11-09 21:23:19]   firehose: 10-Q feed — 100 entries parsed
+[2026-11-09 21:23:19]   firehose: all 10-Q entries newer than watermark — fetching page 2
+[2026-11-09 21:23:19]   firehose: 10-Q page 2 — 100 entries
+[2026-11-09 21:23:19]   firehose: 100 watched CIKs, 400 total feed entries
+[2026-11-09 21:23:19]   ★ NEW 8k_202 for LRMR (Larimar Therapeutics, Inc.) filed 2026-11-09
+[2026-11-09 21:23:19]     https://www.sec.gov/Archives/edgar/data/1374690/000119312526453586/lrmr-20261109.htm
+[2026-11-09 21:23:20]     ✉ alert sent (8k_202)
+[2026-11-09 21:23:21]   ★ NEW 8k_202 for AVBP (ArriVent BioPharma, Inc.) filed 2026-11-09
+[2026-11-09 21:23:21]     https://www.sec.gov/Archives/edgar/data/1868279/000110465926124484/tm2629343d1_8k.htm
+[2026-11-09 21:23:22]     ✉ alert sent (8k_202)
+[2026-11-09 21:23:22]   ★ NEW 8k_202 for TSEOF (Trinseo PLC) filed 2026-11-09
+[2026-11-09 21:23:22]     https://www.sec.gov/Archives/edgar/data/1519061/000110465926124192/tse-20261109x8k.htm
+[2026-11-09 21:23:23]     ✉ alert sent (8k_202)
+[2026-11-09 21:23:23]   ★ NEW 10q for AVBP (ArriVent BioPharma, Inc.) filed 2026-11-09
+[2026-11-09 21:23:23]     https://www.sec.gov/Archives/edgar/data/1868279/000110465926124513/avbp-20260930x10q.htm
+[2026-11-09 21:23:25]     ✉ alert sent (10q)
+[2026-11-09 21:23:25]   ★ NEW 10q for MRBK (Meridian Corp) filed 2026-11-09
+[2026-11-09 21:23:25]     https://www.sec.gov/Archives/edgar/data/1750735/000175073526000074/mrbk-20260930.htm
+[2026-11-09 21:23:26]     ✉ alert sent (10q)
+[2026-11-09 21:23:26]   ★ NEW 10q for TSEOF (Trinseo PLC) filed 2026-11-09
+[2026-11-09 21:23:26]     https://www.sec.gov/Archives/edgar/data/1519061/000110465926124268/tse-20260930x10q.htm
+[2026-11-09 21:23:27]     ✉ alert sent (10q)
+[2026-11-09 21:23:27] === EDGAR FIREHOSE complete. 6 new detections. ===
