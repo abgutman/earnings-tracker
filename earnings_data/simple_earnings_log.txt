@@ -5724,3 +5724,21 @@
 [2026-11-09 21:23:26]     https://www.sec.gov/Archives/edgar/data/1519061/000110465926124268/tse-20260930x10q.htm
 [2026-11-09 21:23:27]     ✉ alert sent (10q)
 [2026-11-09 21:23:27] === EDGAR FIREHOSE complete. 6 new detections. ===
+[2026-11-09 23:01:21] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-11-09 23:01:26]   ★ NEW 8k_701 for INO (INOVIO PHARMACEUTICALS, INC.) filed 2026-11-09
+[2026-11-09 23:01:26]     https://www.sec.gov/Archives/edgar/data/1055726/000119312526452658/d192373d8k.htm
+[2026-11-09 23:01:27]     ✉ alert sent (8k_701)
+[2026-11-09 23:01:27]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001055726.json'
+[2026-11-09 23:01:31]   ★ NEW 8k_202 for AVBP (ArriVent BioPharma, Inc.) filed 2026-11-09
+[2026-11-09 23:01:31]     https://www.sec.gov/Archives/edgar/data/1868279/000110465926124484/tm2629343d1_8k.htm
+[2026-11-09 23:01:32]     ✉ alert sent (8k_202)
+[2026-11-09 23:01:32]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001868279.json'
+[2026-11-09 23:01:33]   ★ NEW 8k_701 for CABA (Cabaletta Bio, Inc.) filed 2026-11-09
+[2026-11-09 23:01:33]     https://www.sec.gov/Archives/edgar/data/1759138/000175913826000050/caba-20261109.htm
+[2026-11-09 23:01:34]     ✉ alert sent (8k_701)
+[2026-11-09 23:01:34]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001759138.json'
+[2026-11-09 23:01:40]   ★ NEW 8k_202 for TSEOF (Trinseo PLC) filed 2026-11-09
+[2026-11-09 23:01:40]     https://www.sec.gov/Archives/edgar/data/1519061/000110465926124192/tse-20261109x8k.htm
+[2026-11-09 23:01:42]     ✉ alert sent (8k_202)
+[2026-11-09 23:01:42]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001519061.json'
+[2026-11-09 23:01:44] === EDGAR POLL complete. Fetched 100 companies, 4 new filings. ===
