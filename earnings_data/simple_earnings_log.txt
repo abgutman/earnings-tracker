@@ -5742,3 +5742,13 @@
 [2026-11-09 23:01:42]     ✉ alert sent (8k_202)
 [2026-11-09 23:01:42]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001519061.json'
 [2026-11-09 23:01:44] === EDGAR POLL complete. Fetched 100 companies, 4 new filings. ===
+[2026-11-09 23:23:03] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-11-09 23:23:03]   firehose: 8-K feed — 100 entries parsed
+[2026-11-09 23:23:03]   firehose: 10-Q feed — 100 entries parsed
+[2026-11-09 23:23:03]   firehose: all 10-Q entries newer than watermark — fetching page 2
+[2026-11-09 23:23:04]   firehose: 10-Q page 2 — 100 entries
+[2026-11-09 23:23:04]   firehose: 100 watched CIKs, 300 total feed entries
+[2026-11-09 23:23:04]   ★ NEW 10q for AVBP (ArriVent BioPharma, Inc.) filed 2026-11-09
+[2026-11-09 23:23:04]     https://www.sec.gov/Archives/edgar/data/1868279/000110465926124513/avbp-20260930x10q.htm
+[2026-11-09 23:23:05]     ✉ alert sent (10q)
+[2026-11-09 23:23:05] === EDGAR FIREHOSE complete. 1 new detections. ===
