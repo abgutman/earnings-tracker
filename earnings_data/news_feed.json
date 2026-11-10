@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-11-09T21:25:45",
+ "generated_at": "2026-11-10T04:05:46",
  "items": [
+  {
+   "uuid": "6793b70d-6073-365a-a323-e0d81e4a88bf",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Xfinity Gives Gamers a Free 15-Day WiFi Speed Boost for the Highly Anticipated Grand Theft Auto VI Launch",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/articles/xfinity-gives-gamers-free-15-214100815.html",
+   "published_unix": 1794260460,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-10T04:05:34"
+  },
   {
    "uuid": "a5d92725-7977-3415-ac12-e47e593992eb",
    "tickers": [
