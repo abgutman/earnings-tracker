@@ -1193,12 +1193,13 @@
   "last_8k_url": "https://www.sec.gov/Archives/edgar/data/1868279/000110465926124484/tm2629343d1_8k.htm",
   "history": [],
   "last_detected_date": "2026-11-09",
-  "last_detected_accession": "0001104659-26-124513",
-  "last_detected_type": "10q",
-  "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1868279/000110465926124513/avbp-20260930x10q.htm",
-  "last_detected_at": "2026-11-09T23:23:03.197267+00:00",
-  "last_8k_detected_at": "2026-11-09T23:01:21.381432+00:00",
-  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1868279/000110465926124513/avbp-20260930x10q.htm"
+  "last_detected_accession": "0001104659-26-124484",
+  "last_detected_type": "8k_202",
+  "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1868279/000110465926124484/tm2629343d1_8k.htm",
+  "last_detected_at": "2026-11-10T20:29:29.026999+00:00",
+  "last_8k_detected_at": "2026-11-10T20:29:29.026999+00:00",
+  "last_10q_url": null,
+  "pending_10q_since": "2026-11-09"
  },
  "BV": {
   "ticker": "BV",
