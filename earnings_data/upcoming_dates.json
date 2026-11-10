@@ -69,5 +69,15 @@
   "source_publisher": "GlobeNewswire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-11-06T02:52:39"
+ },
+ "COHN": {
+  "release_date": "2026-11-12",
+  "call_date": null,
+  "call_time": "10:00 ET",
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/cohen-company-sets-release-date-211500550.html",
+  "source_title": "Cohen & Company Sets Release Date for Third Quarter 2026 Financial Results",
+  "source_publisher": "GlobeNewswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-11-10T04:22:25"
  }
 }

@@ -782,3 +782,10 @@
 [2026-11-07 02:24:20] Polling Yahoo for 106 companies
 [2026-11-07 02:25:28] === Done. Captured 0 new save-the-dates, cleaned 0 past. ===
 
+[2026-11-10 04:21:28] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-11-10 04:21:28] Polling Yahoo for 106 companies
+[2026-11-10 04:22:25]   + COHN: release=2026-11-12 call=None 10:00 ET
+[2026-11-10 04:22:25]     via: Cohen & Company Sets Release Date for Third Quarter 2026 Financial Results
+[2026-11-10 04:22:25]   ✉ alert sent for COHN
+[2026-11-10 04:22:43] === Done. Captured 1 new save-the-dates, cleaned 0 past. ===
+

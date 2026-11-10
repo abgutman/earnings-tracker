@@ -5757,3 +5757,9 @@
 [2026-11-10 03:39:01]   firehose: 10-Q feed — 100 entries parsed
 [2026-11-10 03:39:01]   firehose: 100 watched CIKs, 200 total feed entries
 [2026-11-10 03:39:01] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-11-10 04:22:43] === CHECK-10Q: scanning for pending 10-Q filings ===
+[2026-11-10 04:22:44]   ✓ 10-Q found for AVBP (ArriVent BioPharma, Inc.) filed 2026-11-09
+[2026-11-10 04:22:44]     https://www.sec.gov/Archives/edgar/data/1868279/000110465926124513/avbp-20260930x10q.htm
+[2026-11-10 04:22:45]   ✓ 10-Q found for TSEOF (Trinseo PLC) filed 2026-11-09
+[2026-11-10 04:22:45]     https://www.sec.gov/Archives/edgar/data/1519061/000110465926124268/tse-20260930x10q.htm
+[2026-11-10 04:22:45] === CHECK-10Q complete. Checked 9, found 2, cleared 0 stale. ===

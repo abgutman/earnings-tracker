@@ -1197,8 +1197,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1868279/000110465926124513/avbp-20260930x10q.htm",
   "last_detected_at": "2026-11-09T23:23:03.197267+00:00",
   "last_8k_detected_at": "2026-11-09T23:01:21.381432+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-11-09"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1868279/000110465926124513/avbp-20260930x10q.htm"
  },
  "BV": {
   "ticker": "BV",
@@ -2119,8 +2118,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1519061/000110465926124192/tse-20261109x8k.htm",
   "last_detected_at": "2026-11-09T23:01:21.381432+00:00",
   "last_8k_detected_at": "2026-11-09T23:01:21.381432+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-11-09"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1519061/000110465926124268/tse-20260930x10q.htm"
  },
  "FORA": {
   "ticker": "FORA",
