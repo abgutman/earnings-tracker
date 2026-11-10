@@ -5763,3 +5763,19 @@
 [2026-11-10 04:22:45]   ✓ 10-Q found for TSEOF (Trinseo PLC) filed 2026-11-09
 [2026-11-10 04:22:45]     https://www.sec.gov/Archives/edgar/data/1519061/000110465926124268/tse-20260930x10q.htm
 [2026-11-10 04:22:45] === CHECK-10Q complete. Checked 9, found 2, cleared 0 stale. ===
+[2026-11-10 18:35:39] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-11-10 18:35:40]   firehose: 8-K feed — 100 entries parsed
+[2026-11-10 18:35:40]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-11-10 18:35:40]   firehose: 8-K page 2 — 100 entries
+[2026-11-10 18:35:40]   firehose: 10-Q feed — 100 entries parsed
+[2026-11-10 18:35:40]   firehose: 100 watched CIKs, 300 total feed entries
+[2026-11-10 18:35:41]   ★ NEW 8k_701 for OCGN (Ocugen, Inc.) filed 2026-11-10
+[2026-11-10 18:35:41]     https://www.sec.gov/Archives/edgar/data/1372299/000110465926124836/tm2629434d1_8k.htm
+[2026-11-10 18:35:42]     ✉ alert sent (8k_701)
+[2026-11-10 18:35:42]   ★ NEW 8k_701 for XHLD (TEN Holdings, Inc.) filed 2026-11-10
+[2026-11-10 18:35:42]     https://www.sec.gov/Archives/edgar/data/2030954/000149315226050833/form8-k.htm
+[2026-11-10 18:35:43]     ✉ alert sent (8k_701)
+[2026-11-10 18:35:44]   ★ NEW 10q for PASG (Passage BIO, Inc.) filed 2026-11-10
+[2026-11-10 18:35:44]     https://www.sec.gov/Archives/edgar/data/1787297/000110465926124783/pasg-20260930x10q.htm
+[2026-11-10 18:35:45]     ✉ alert sent (10q)
+[2026-11-10 18:35:45] === EDGAR FIREHOSE complete. 3 new detections. ===
