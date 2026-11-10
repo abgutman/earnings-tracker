@@ -1,6 +1,58 @@
 {
- "generated_at": "2026-11-10T07:07:23",
+ "generated_at": "2026-11-10T18:39:53",
  "items": [
+  {
+   "uuid": "28eabdf5-f5cb-35e1-96be-fd6a1100bc00",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Launches Enhanced Digital Experience Focused on Simplicity, Service and Customer Support",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/technology/articles/american-water-launches-enhanced-digital-161700328.html",
+   "published_unix": 1794327420,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-10T18:39:45"
+  },
+  {
+   "uuid": "eb7bf91a-b0bf-34a3-9eae-57b8fd21d80c",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Charitable Foundation Awards $10,000 Grant to Expand STEM Learning at Putnam Museum",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/american-water-charitable-foundation-awards-160000612.html",
+   "published_unix": 1794326400,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-10T18:39:45"
+  },
+  {
+   "uuid": "43b7e030-5b0a-3096-89da-1cd3f97d0874",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "West Virginia American Water Announces $165,000 Infrastructure Upgrades on Sanford Street",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/economy/policy/articles/west-virginia-american-water-announces-151800908.html",
+   "published_unix": 1794323880,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-10T18:39:45"
+  },
+  {
+   "uuid": "297730b1-a0fa-3da3-b71a-23565ce25a86",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "JPMorgan Adjusts Price Target on Cencora to $413 From $390",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-adjusts-price-target-cencora-111220246.html",
+   "published_unix": 1794309140,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-10T18:39:42"
+  },
   {
    "uuid": "6793b70d-6073-365a-a323-e0d81e4a88bf",
    "tickers": [
