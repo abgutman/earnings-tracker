@@ -393,6 +393,15 @@
    "url": "https://finance.yahoo.com/m/32d4d660-9892-3d54-a4b9-5c117e005837/hershey-%28hsy%29-q2-2026.html"
   }
  ],
+ "INO": [
+  {
+   "date_str": "2026-11-11",
+   "found_at": "2026-11-11T22:15:31",
+   "source": "Motley Fool",
+   "title": "Inovio (INO) Q3 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/healthcare/articles/inovio-ino-q3-2026-earnings-040006781.html"
+  }
+ ],
  "IRT": [
   {
    "date_str": "2026-11-03",
@@ -588,6 +597,13 @@
   }
  ],
  "TELA": [
+  {
+   "date_str": "2026-11-11",
+   "found_at": "2026-11-11T22:15:38",
+   "source": "Motley Fool",
+   "title": "TELA Bio (TELA) Q3 2026 Earnings Call Transcript",
+   "url": "https://finance.yahoo.com/healthcare/articles/tela-bio-tela-q3-2026-034428557.html"
+  },
   {
    "date_str": "2026-08-19",
    "found_at": "2026-08-19T16:02:07",
