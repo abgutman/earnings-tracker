@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-11-11T00:01:43",
+ "generated_at": "2026-11-11T06:00:00",
  "items": [
+  {
+   "uuid": "b9a9e9c5-ba33-319a-b398-c7d2c9130866",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers to Webcast Its Fourth Quarter 2026 Earnings Conference Call Live on December 8, 2026 at 8:30 a.m. (ET)",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-webcast-fourth-quarter-213000654.html",
+   "published_unix": 1794346200,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-11T06:00:00"
+  },
   {
    "uuid": "b9697134-96d5-3ae5-a7bb-001ca02b17b4",
    "tickers": [
@@ -2232,19 +2245,6 @@
    "published_unix": 1791811029,
    "source_type": "yahoo",
    "captured_at": "2026-10-12T20:16:49"
-  },
-  {
-   "uuid": "42769efe-5213-3bde-be82-c0b062dde05d",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Why Did TMUS, CMCSA, JOBY Stocks Slump To 52-Week Lows Last Week?",
-   "publisher": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-tmus-cmcsa-joby-043519237.html",
-   "published_unix": 1791779719,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-12T20:16:47"
   }
  ]
 }
