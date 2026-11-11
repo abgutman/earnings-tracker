@@ -30,16 +30,6 @@
   "source_type": "yahoo_auto",
   "captured_at": "2026-10-20T01:18:28"
  },
- "TELA": {
-  "release_date": "2026-11-10",
-  "call_date": null,
-  "call_time": "16:30 ET",
-  "source_url": "https://finance.yahoo.com/healthcare/articles/tela-bio-announce-third-quarter-200500923.html",
-  "source_title": "TELA Bio to Announce Third Quarter 2026 Financial Results",
-  "source_publisher": "GlobeNewswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-10-28T01:49:41"
- },
  "JJSF": {
   "release_date": "2026-11-18",
   "call_date": null,
@@ -49,16 +39,6 @@
   "source_publisher": "GlobeNewswire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-10-31T01:52:57"
- },
- "INO": {
-  "release_date": "2026-11-10",
-  "call_date": null,
-  "call_time": null,
-  "source_url": "https://finance.yahoo.com/healthcare/articles/inovio-report-third-quarter-2026-211500377.html",
-  "source_title": "INOVIO to Report Third Quarter 2026 Financial Results on November 10, 2026",
-  "source_publisher": "PR Newswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-11-03T03:44:39"
  },
  "VRCA": {
   "release_date": "2026-11-12",
@@ -79,5 +59,15 @@
   "source_publisher": "GlobeNewswire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-11-10T04:22:25"
+ },
+ "TOL": {
+  "release_date": "2026-12-08",
+  "call_date": null,
+  "call_time": null,
+  "source_url": "https://finance.yahoo.com/real-estate/articles/toll-brothers-webcast-fourth-quarter-213000654.html",
+  "source_title": "Toll Brothers to Webcast Its Fourth Quarter 2026 Earnings Conference Call Live on December 8, 2026 at 8:30 a.m. (ET)",
+  "source_publisher": "GlobeNewswire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-11-11T02:17:33"
  }
 }

@@ -789,3 +789,11 @@
 [2026-11-10 04:22:25]   ✉ alert sent for COHN
 [2026-11-10 04:22:43] === Done. Captured 1 new save-the-dates, cleaned 0 past. ===
 
+[2026-11-11 02:17:21] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-11-11 02:17:21] Polling Yahoo for 106 companies
+[2026-11-11 02:17:33]   + TOL: release=2026-12-08 call=None None
+[2026-11-11 02:17:33]     via: Toll Brothers to Webcast Its Fourth Quarter 2026 Earnings Conference Call Live on December 8, 2026 a
+[2026-11-11 02:17:35]   ✉ alert sent for TOL
+[2026-11-11 02:18:34]   cleanup: removed 2 past entries
+[2026-11-11 02:18:34] === Done. Captured 1 new save-the-dates, cleaned 2 past. ===
+
