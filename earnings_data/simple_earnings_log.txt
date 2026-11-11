@@ -5820,3 +5820,25 @@
 [2026-11-11 00:33:12]     https://www.sec.gov/Archives/edgar/data/1055726/000105572626000029/ino-20260930.htm
 [2026-11-11 00:33:14]     ✉ alert sent (10q)
 [2026-11-11 00:33:14] === EDGAR FIREHOSE complete. 7 new detections. ===
+[2026-11-11 01:18:06] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-11-11 01:18:07]   ★ NEW 8k_701 for IRT (INDEPENDENCE REALTY TRUST, INC.) filed 2026-11-10
+[2026-11-11 01:18:07]     https://www.sec.gov/Archives/edgar/data/1466085/000143774926036159/irt20261110c_8k.htm
+[2026-11-11 01:18:09]     ✉ alert sent (8k_701)
+[2026-11-11 01:18:09]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001466085.json'
+[2026-11-11 01:18:15]   ★ NEW 8k_202 for INO (INOVIO PHARMACEUTICALS, INC.) filed 2026-11-10
+[2026-11-11 01:18:15]     https://www.sec.gov/Archives/edgar/data/1055726/000105572626000030/ino-20261110.htm
+[2026-11-11 01:18:16]     ✉ alert sent (8k_202)
+[2026-11-11 01:18:16]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001055726.json'
+[2026-11-11 01:18:25]   ★ NEW 8k_701 for CNTX (Context Therapeutics Inc.) filed 2026-11-10
+[2026-11-11 01:18:25]     https://www.sec.gov/Archives/edgar/data/1842952/000162828026072768/cntx-20261110.htm
+[2026-11-11 01:18:26]     ✉ alert sent (8k_701)
+[2026-11-11 01:18:26]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001842952.json'
+[2026-11-11 01:18:27]   ★ NEW 8k_202 for SND (Smart Sand, Inc.) filed 2026-11-10
+[2026-11-11 01:18:27]     https://www.sec.gov/Archives/edgar/data/1529628/000152962826000116/snd-20261110.htm
+[2026-11-11 01:18:28]     ✉ alert sent (8k_202)
+[2026-11-11 01:18:28]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001529628.json'
+[2026-11-11 01:18:31]   ★ NEW 8k_202 for TELA (TELA Bio, Inc.) filed 2026-11-10
+[2026-11-11 01:18:31]     https://www.sec.gov/Archives/edgar/data/1561921/000110465926125147/tm2629493d1_8k.htm
+[2026-11-11 01:18:35]     ✉ alert sent (8k_202)
+[2026-11-11 01:18:35]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001561921.json'
+[2026-11-11 01:18:41] === EDGAR POLL complete. Fetched 100 companies, 5 new filings. ===
