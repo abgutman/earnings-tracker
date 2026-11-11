@@ -5790,3 +5790,33 @@
 [2026-11-10 20:45:48]   firehose: 10-Q feed — 100 entries parsed
 [2026-11-10 20:45:48]   firehose: 100 watched CIKs, 200 total feed entries
 [2026-11-10 20:45:48] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-11-11 00:32:57] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-11-11 00:32:58]   firehose: 8-K feed — 100 entries parsed
+[2026-11-11 00:32:58]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-11-11 00:32:58]   firehose: 8-K page 2 — 100 entries
+[2026-11-11 00:32:58]   firehose: 10-Q feed — 100 entries parsed
+[2026-11-11 00:32:58]   firehose: all 10-Q entries newer than watermark — fetching page 2
+[2026-11-11 00:32:59]   firehose: 10-Q page 2 — 100 entries
+[2026-11-11 00:32:59]   firehose: 100 watched CIKs, 400 total feed entries
+[2026-11-11 00:32:59]   ★ NEW 8k_701 for CNTX (Context Therapeutics Inc.) filed 2026-11-10
+[2026-11-11 00:32:59]     https://www.sec.gov/Archives/edgar/data/1842952/000162828026072768/cntx-20261110.htm
+[2026-11-11 00:33:01]     ✉ alert sent (8k_701)
+[2026-11-11 00:33:01]   ★ NEW 8k_202 for BV (BrightView Holdings, Inc.) filed 2026-11-10
+[2026-11-11 00:33:01]     https://www.sec.gov/Archives/edgar/data/1734713/000119312526455484/bv-20261110.htm
+[2026-11-11 00:33:02]     ✉ alert sent (8k_202)
+[2026-11-11 00:33:02]   ★ NEW 8k_202 for INO (INOVIO PHARMACEUTICALS, INC.) filed 2026-11-10
+[2026-11-11 00:33:02]     https://www.sec.gov/Archives/edgar/data/1055726/000105572626000030/ino-20261110.htm
+[2026-11-11 00:33:03]     ✉ alert sent (8k_202)
+[2026-11-11 00:33:03]   ★ NEW 10q for TELA (TELA Bio, Inc.) filed 2026-11-10
+[2026-11-11 00:33:03]     https://www.sec.gov/Archives/edgar/data/1561921/000110465926125190/tela-20260930x10q.htm
+[2026-11-11 00:33:04]     ✉ alert sent (10q)
+[2026-11-11 00:33:04]   ★ NEW 10q for CNTX (Context Therapeutics Inc.) filed 2026-11-10
+[2026-11-11 00:33:04]     https://www.sec.gov/Archives/edgar/data/1842952/000162828026072730/cntx-20260930.htm
+[2026-11-11 00:33:05]     ✉ alert sent (10q)
+[2026-11-11 00:33:06]   ★ NEW 10q for SND (Smart Sand, Inc.) filed 2026-11-10
+[2026-11-11 00:33:06]     https://www.sec.gov/Archives/edgar/data/1529628/000152962826000115/snd-20260930.htm
+[2026-11-11 00:33:12]     ✉ alert sent (10q)
+[2026-11-11 00:33:12]   ★ NEW 10q for INO (INOVIO PHARMACEUTICALS, INC.) filed 2026-11-10
+[2026-11-11 00:33:12]     https://www.sec.gov/Archives/edgar/data/1055726/000105572626000029/ino-20260930.htm
+[2026-11-11 00:33:14]     ✉ alert sent (10q)
+[2026-11-11 00:33:14] === EDGAR FIREHOSE complete. 7 new detections. ===
