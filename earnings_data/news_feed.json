@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-11-10T18:39:53",
+ "generated_at": "2026-11-11T00:01:43",
  "items": [
+  {
+   "uuid": "b9697134-96d5-3ae5-a7bb-001ca02b17b4",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores",
+   "title": "Burlington Stores, Inc. Announces Third Quarter Fiscal Year 2026 Earnings Release Date, Conference Call and Webcast",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/burlington-stores-inc-announces-third-211500188.html",
+   "published_unix": 1794345300,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-11T00:01:33"
+  },
+  {
+   "uuid": "93a1a6bf-af85-376d-933b-eb000d4135c3",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Better High-Yield Dividend Stock: General Mills vs. Comcast",
+   "publisher": "TIKR",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/better-high-yield-dividend-stock-175959659.html",
+   "published_unix": 1794333599,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-11T00:01:29"
+  },
   {
    "uuid": "28eabdf5-f5cb-35e1-96be-fd6a1100bc00",
    "tickers": [
