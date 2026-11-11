@@ -1,6 +1,58 @@
 {
- "generated_at": "2026-11-11T06:00:00",
+ "generated_at": "2026-11-11T18:40:54",
  "items": [
+  {
+   "uuid": "597b4ee6-f2af-39f7-99e4-7c5a567138f7",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark Faces 'Trickier' Setup Ahead of Fiscal 2027 Guidance, UBS Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-faces-apos-trickier-apos-172904143.html",
+   "published_unix": 1794418144,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-11T18:40:42"
+  },
+  {
+   "uuid": "024e821b-89c2-361c-9c2e-a53cfa3dd0ee",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces New Luxury Homes Coming Soon to Jacksonville, Florida",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-homes-155100614.html",
+   "published_unix": 1794412260,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-11T18:40:53"
+  },
+  {
+   "uuid": "73801c65-8452-31a1-8cf9-070ad59c95ee",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "Five Below and Dollar General challenge Kroger, Publix",
+   "publisher": "TheStreet",
+   "link": "https://finance.yahoo.com/small-business/articles/five-below-dollar-general-challenge-153700798.html",
+   "published_unix": 1794411420,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-11T18:40:44"
+  },
+  {
+   "uuid": "54cb9dd4-01e5-33ad-8baa-e5ae28dedbe2",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Argus Adjusts Price Target on American Water Works to $165 From $155",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/argus-adjusts-price-target-american-132731794.html",
+   "published_unix": 1794403651,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-11T18:40:46"
+  },
   {
    "uuid": "b9a9e9c5-ba33-319a-b398-c7d2c9130866",
    "tickers": [
@@ -2206,45 +2258,6 @@
    "published_unix": 1791887718,
    "source_type": "yahoo",
    "captured_at": "2026-10-13T18:16:35"
-  },
-  {
-   "uuid": "02ace501-cdb0-3d6e-80e8-8f113adc760a",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "American Water Charitable Foundation Awards $10,000 Workforce Readiness Grant to North Scott Community School District",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/small-business/articles/american-water-charitable-foundation-awards-172800002.html",
-   "published_unix": 1791826080,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-12T20:16:53"
-  },
-  {
-   "uuid": "9ed923b9-b0f2-3851-a0c5-636f86a6fe14",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "Campbell's",
-   "title": "Better High-Yield Dividend Stock: Kraft Heinz vs. Campbell\u2019s",
-   "publisher": "TIKR",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/better-high-yield-dividend-stock-172029516.html",
-   "published_unix": 1791825629,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-12T20:16:51"
-  },
-  {
-   "uuid": "5529030c-2ee4-3d10-a79b-a7801ce24905",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora",
-   "title": "Baird Adjusts Price Target on Cencora to $373 From $370",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/baird-adjusts-price-target-cencora-131709341.html",
-   "published_unix": 1791811029,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-12T20:16:49"
   }
  ]
 }
