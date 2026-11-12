@@ -5876,3 +5876,45 @@
 [2026-11-12 03:26:39] === CHECK-10Q: scanning for pending 10-Q filings ===
 [2026-11-12 03:26:40]   COR: pending_10q_since=2026-11-04 is 8d old — clearing stale flag
 [2026-11-12 03:26:41] === CHECK-10Q complete. Checked 8, found 0, cleared 1 stale. ===
+[2026-11-12 18:47:31] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-11-12 18:47:31]   firehose: 8-K feed — 100 entries parsed
+[2026-11-12 18:47:31]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-11-12 18:47:32]   firehose: 8-K page 2 — 100 entries
+[2026-11-12 18:47:33]   firehose: 10-Q feed — 100 entries parsed
+[2026-11-12 18:47:33]   firehose: all 10-Q entries newer than watermark — fetching page 2
+[2026-11-12 18:47:33]   firehose: 10-Q page 2 — 100 entries
+[2026-11-12 18:47:33]   firehose: 100 watched CIKs, 400 total feed entries
+[2026-11-12 18:47:33]   ★ NEW 8k_202 for HSDT (Solana Co) filed 2026-11-12
+[2026-11-12 18:47:33]     https://www.sec.gov/Archives/edgar/data/1610853/000161085326000016/hsdt-20261111.htm
+[2026-11-12 18:47:35]     ✉ alert sent (8k_202)
+[2026-11-12 18:47:35]   ★ NEW 8k_202 for COHN (Cohen & Co Inc.) filed 2026-11-12
+[2026-11-12 18:47:35]     https://www.sec.gov/Archives/edgar/data/1270436/000110465926125902/tm2629336d1_8k.htm
+[2026-11-12 18:47:36]     ✉ alert sent (8k_202)
+[2026-11-12 18:47:36]   ★ NEW 8k_202 for BTCS (BTCS Inc.) filed 2026-11-12
+[2026-11-12 18:47:36]     https://www.sec.gov/Archives/edgar/data/1436229/000149315226051205/form8-k.htm
+[2026-11-12 18:47:37]     ✉ alert sent (8k_202)
+[2026-11-12 18:47:37]   ★ NEW 8k_701 for COHN (Cohen & Co Inc.) filed 2026-11-12
+[2026-11-12 18:47:37]     https://www.sec.gov/Archives/edgar/data/1270436/000110465926125898/tm2629336d2_8k.htm
+[2026-11-12 18:47:38]     ✉ alert sent (8k_701)
+[2026-11-12 18:47:38]   ★ NEW 8k_202 for IPSC (Century Therapeutics, Inc.) filed 2026-11-12
+[2026-11-12 18:47:38]     https://www.sec.gov/Archives/edgar/data/1850119/000110465926125830/tm2629581d1_8k.htm
+[2026-11-12 18:47:39]     ✉ alert sent (8k_202)
+[2026-11-12 18:47:40]   ★ NEW 8k_701 for TRAW (Traws Pharma, Inc.) filed 2026-11-12
+[2026-11-12 18:47:40]     https://www.sec.gov/Archives/edgar/data/1130598/000110465926125797/tm2629616d1_8k.htm
+[2026-11-12 18:47:41]     ✉ alert sent (8k_701)
+[2026-11-12 18:47:41]   ★ NEW 10q for COHN (Cohen & Co Inc.) filed 2026-11-12
+[2026-11-12 18:47:41]     https://www.sec.gov/Archives/edgar/data/1270436/000143774926036434/cohn20260930_10q.htm
+[2026-11-12 18:47:42]     ✉ alert sent (10q)
+[2026-11-12 18:47:42]   ★ NEW 10q for HSDT (Solana Co) filed 2026-11-12
+[2026-11-12 18:47:42]     https://www.sec.gov/Archives/edgar/data/1610853/000161085326000017/hsdt-20260930.htm
+[2026-11-12 18:47:43]     ✉ alert sent (10q)
+[2026-11-12 18:47:43]   ★ NEW 10q for BTCS (BTCS Inc.) filed 2026-11-12
+[2026-11-12 18:47:43]     https://www.sec.gov/Archives/edgar/data/1436229/000149315226051182/form10-q.htm
+[2026-11-12 18:47:44]     ✉ alert sent (10q)
+[2026-11-12 18:47:45]   ★ NEW 10q for IPSC (Century Therapeutics, Inc.) filed 2026-11-12
+[2026-11-12 18:47:45]     https://www.sec.gov/Archives/edgar/data/1850119/000110465926125813/ipsc-20260930x10q.htm
+[2026-11-12 18:47:46]     ✉ alert sent (10q)
+[2026-11-12 18:47:46]   ★ NEW 10q for RCMT (RCM TECHNOLOGIES, INC.) filed 2026-11-12
+[2026-11-12 18:47:46]     https://www.sec.gov/Archives/edgar/data/700841/000143774926036337/rcmt20261003_10q.htm
+[2026-11-12 18:47:47]     ✉ alert sent (10q)
+[2026-11-12 18:47:47] === EDGAR FIREHOSE complete. 11 new detections. ===
