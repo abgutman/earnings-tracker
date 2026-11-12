@@ -1,6 +1,84 @@
 {
- "generated_at": "2026-11-12T07:01:42",
+ "generated_at": "2026-11-12T18:53:20",
  "items": [
+  {
+   "uuid": "91ddfac3-c6ae-3a3f-92b2-c862d6632b5f",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "Five Below, Stock Of The Day, Eyes Buy Point After Earnings Boom",
+   "publisher": "Investor's Business Daily",
+   "link": "https://finance.yahoo.com/m/91ddfac3-c6ae-3a3f-92b2-c862d6632b5f/five-below%2C-stock-of-the-day%2C.html",
+   "published_unix": 1794503330,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-12T18:53:08"
+  },
+  {
+   "uuid": "bb453aaa-1abd-3a33-8fde-f045d8e8060a",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "West Virginia American Water Announces $580,000 Infrastructure Upgrades in Oak Hill",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/economy/policy/articles/west-virginia-american-water-announces-161400586.html",
+   "published_unix": 1794500040,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-12T18:53:10"
+  },
+  {
+   "uuid": "206573aa-34c7-3050-b25e-a62b0b38111a",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Indiana American Water President Addresses ASCE 2026 Report Card for Indiana's Infrastructure",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/economy/policy/articles/indiana-american-water-president-addresses-160500298.html",
+   "published_unix": 1794499500,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-12T18:53:10"
+  },
+  {
+   "uuid": "0666c166-c53d-3f51-806a-3585e6606c16",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Voters in Stone County Approve Sale of Water System to Missouri American Water",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/voters-stone-county-approve-sale-155600766.html",
+   "published_unix": 1794498960,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-12T18:53:10"
+  },
+  {
+   "uuid": "87ce3b67-91b7-366a-8327-fadb68591e63",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Maryland American Water Wants Customers to Pause and Think Before Pouring Fats, Oils and Grease Down the Kitchen Sink",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/maryland-american-water-wants-customers-150000267.html",
+   "published_unix": 1794495600,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-12T18:53:10"
+  },
+  {
+   "uuid": "9f7f8b2a-96a7-3b5a-9f12-7d0decc6c779",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Virginia American Water Wants Customers to Pause and Think Before Pouring Fats, Oils and Grease Down the Kitchen Sink",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/virginia-american-water-wants-customers-150000057.html",
+   "published_unix": 1794495600,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-12T18:53:10"
+  },
   {
    "uuid": "615f2d42-7b4d-3065-9b51-8a68508e5f34",
    "tickers": [
@@ -273,6 +351,19 @@
    "published_unix": 1794234720,
    "source_type": "yahoo",
    "captured_at": "2026-11-09T21:25:30"
+  },
+  {
+   "uuid": "9a26b354-7daa-3023-a86e-8fc676f9712d",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Better Dividend Stock: Verizon vs. Comcast",
+   "publisher": "TIKR",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/better-dividend-stock-verizon-vs-215608237.html",
+   "published_unix": 1794002168,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-12T18:53:05"
   },
   {
    "uuid": "95c6af71-eeb0-36a9-90d0-c218d929a9b6",
@@ -2232,84 +2323,6 @@
    "published_unix": 1791924165,
    "source_type": "yahoo",
    "captured_at": "2026-10-13T23:15:55"
-  },
-  {
-   "uuid": "be840834-4007-3341-8ac7-f8961c540183",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces Model Home Grand Opening at Toll Brothers at Flat Creek in Castroville, Texas",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-model-home-180900083.html",
-   "published_unix": 1791914940,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-13T18:17:57"
-  },
-  {
-   "uuid": "a15b3948-2779-3fa9-8715-e5be3acef871",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces Final Opportunity for a Quick Move-In Luxury Home at Freestone Station in Marietta, Georgia",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-final-opportunity-174600633.html",
-   "published_unix": 1791913560,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-13T18:17:57"
-  },
-  {
-   "uuid": "1f0b0b6b-29ca-32a5-a88f-b5fb9807c980",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "American Water Charitable Foundation Joins Important Philanthropy Discussions at The Women Who Lead Forum",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/small-business/articles/american-water-charitable-foundation-joins-165600304.html",
-   "published_unix": 1791910560,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-13T18:16:39"
-  },
-  {
-   "uuid": "77e98c09-44a0-30b6-8bd7-4471f0e7550e",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "SpaceX Starlink Mobile Push Prompts Bernstein To Cut VZ, TMUS, CMCSA, CHTR Stocks\u2019 Price Targets",
-   "publisher": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-starlink-mobile-push-prompts-142205454.html",
-   "published_unix": 1791901325,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-13T18:16:35"
-  },
-  {
-   "uuid": "b84b47d9-226e-37af-97ad-a4b5b295c7d2",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Iowa American Water and River Bend Food Bank Celebrate Partnership Supporting Hunger Relief",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/small-business/articles/iowa-american-water-river-bend-133000706.html",
-   "published_unix": 1791898200,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-13T18:16:39"
-  },
-  {
-   "uuid": "e0b31026-1097-34ca-9a91-6ff3990d696d",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Bernstein Adjusts Price Target on Comcast to $23 From $28",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bernstein-adjusts-price-target-comcast-103518661.html",
-   "published_unix": 1791887718,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-13T18:16:35"
   }
  ]
 }
