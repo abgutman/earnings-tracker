@@ -5918,3 +5918,21 @@
 [2026-11-12 18:47:46]     https://www.sec.gov/Archives/edgar/data/700841/000143774926036337/rcmt20261003_10q.htm
 [2026-11-12 18:47:47]     ✉ alert sent (10q)
 [2026-11-12 18:47:47] === EDGAR FIREHOSE complete. 11 new detections. ===
+[2026-11-12 20:56:23] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-11-12 20:56:42]   ★ NEW 8k_202 for IPSC (Century Therapeutics, Inc.) filed 2026-11-12
+[2026-11-12 20:56:42]     https://www.sec.gov/Archives/edgar/data/1850119/000110465926125830/tm2629581d1_8k.htm
+[2026-11-12 20:56:43]     ✉ alert sent (8k_202)
+[2026-11-12 20:56:43]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001850119.json'
+[2026-11-12 20:56:47]   ★ NEW 8k_202 for HSDT (Solana Co) filed 2026-11-12
+[2026-11-12 20:56:47]     https://www.sec.gov/Archives/edgar/data/1610853/000161085326000016/hsdt-20261111.htm
+[2026-11-12 20:56:47]     ✉ alert sent (8k_202)
+[2026-11-12 20:56:47]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001610853.json'
+[2026-11-12 20:56:49]   ★ NEW 8k_202 for BTCS (BTCS Inc.) filed 2026-11-12
+[2026-11-12 20:56:49]     https://www.sec.gov/Archives/edgar/data/1436229/000149315226051205/form8-k.htm
+[2026-11-12 20:56:49]     ✉ alert sent (8k_202)
+[2026-11-12 20:56:49]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001436229.json'
+[2026-11-12 20:56:51]   ★ NEW 8k_202 for COHN (Cohen & Co Inc.) filed 2026-11-12
+[2026-11-12 20:56:51]     https://www.sec.gov/Archives/edgar/data/1270436/000110465926125902/tm2629336d1_8k.htm
+[2026-11-12 20:56:52]     ✉ alert sent (8k_202)
+[2026-11-12 20:56:52]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001270436.json'
+[2026-11-12 20:57:03] === EDGAR POLL complete. Fetched 100 companies, 4 new filings. ===
