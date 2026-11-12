@@ -1,6 +1,58 @@
 {
- "generated_at": "2026-11-11T18:40:54",
+ "generated_at": "2026-11-12T01:30:51",
  "items": [
+  {
+   "uuid": "615f2d42-7b4d-3065-9b51-8a68508e5f34",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "How Many Shares of AT&T, Comcast or Verizon Pay $1,000 a Month in Dividends?",
+   "publisher": "TIKR",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/many-shares-t-comcast-verizon-224232804.html",
+   "published_unix": 1794436952,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-12T01:30:41"
+  },
+  {
+   "uuid": "425bddb7-f3fc-3e5c-b4ba-0460bbace5b1",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Maryland American Water Shares Important Tips About Water Services",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/maryland-american-water-shares-important-215100961.html",
+   "published_unix": 1794433860,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-12T01:30:44"
+  },
+  {
+   "uuid": "1a881df5-00b0-368d-a799-ab3fa24a06fc",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Virginia American Water Shares Important Tips About Water Services",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/virginia-american-water-shares-important-214900700.html",
+   "published_unix": 1794433740,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-12T01:30:44"
+  },
+  {
+   "uuid": "786628ad-2f44-3949-93cc-4cca9bab1372",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Tennessee American Water Delivers Additional PFAS Settlement Credit to Customers",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/tennessee-american-water-delivers-additional-214200218.html",
+   "published_unix": 1794433320,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-12T01:30:44"
+  },
   {
    "uuid": "597b4ee6-f2af-39f7-99e4-7c5a567138f7",
    "tickers": [
