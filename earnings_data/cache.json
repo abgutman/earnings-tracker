@@ -432,8 +432,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/78128/000119312526449889/d180657d8k.htm",
   "last_detected_at": "2026-11-06T00:55:07.889708+00:00",
   "last_8k_detected_at": "2026-11-06T00:55:07.889708+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-11-05"
+  "last_10q_url": null
  },
  "UIS": {
   "ticker": "UIS",
@@ -1426,8 +1425,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1850119/000110465926125830/tm2629581d1_8k.htm",
   "last_detected_at": "2026-11-12T20:56:23.762944+00:00",
   "last_8k_detected_at": "2026-11-12T20:56:23.762944+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-11-12"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1850119/000110465926125813/ipsc-20260930x10q.htm"
  },
  "PKBK": {
   "ticker": "PKBK",
@@ -1660,8 +1658,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1610853/000161085326000016/hsdt-20261111.htm",
   "last_detected_at": "2026-11-12T20:56:23.762944+00:00",
   "last_8k_detected_at": "2026-11-12T20:56:23.762944+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-11-12"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1610853/000161085326000017/hsdt-20260930.htm"
  },
  "RPMT": {
   "ticker": "RPMT",
@@ -1729,8 +1726,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1477845/000110465926123467/tm2628844d3_8k.htm",
   "last_detected_at": "2026-11-06T00:55:07.889708+00:00",
   "last_8k_detected_at": "2026-11-06T00:55:07.889708+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-11-05"
+  "last_10q_url": null
  },
  "STIM": {
   "ticker": "STIM",
@@ -1776,8 +1772,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1436229/000149315226051205/form8-k.htm",
   "last_detected_at": "2026-11-12T20:56:23.762944+00:00",
   "last_8k_detected_at": "2026-11-12T20:56:23.762944+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-11-12"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1436229/000149315226051182/form10-q.htm"
  },
  "QNTO": {
   "ticker": "QNTO",
@@ -1867,8 +1862,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1270436/000110465926125902/tm2629336d1_8k.htm",
   "last_detected_at": "2026-11-12T20:56:23.762944+00:00",
   "last_8k_detected_at": "2026-11-12T20:56:23.762944+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-11-12"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1270436/000143774926036434/cohn20260930_10q.htm"
  },
  "TRAW": {
   "ticker": "TRAW",
