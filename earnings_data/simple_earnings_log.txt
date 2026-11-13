@@ -5945,3 +5945,13 @@
 [2026-11-12 21:24:54]   firehose: 10-Q page 2 — 100 entries
 [2026-11-12 21:24:54]   firehose: 100 watched CIKs, 400 total feed entries
 [2026-11-12 21:24:54] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-11-13 00:59:09] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-11-13 00:59:10]   firehose: 8-K feed — 100 entries parsed
+[2026-11-13 00:59:11]   firehose: 10-Q feed — 100 entries parsed
+[2026-11-13 00:59:11]   firehose: all 10-Q entries newer than watermark — fetching page 2
+[2026-11-13 00:59:12]   firehose: 10-Q page 2 — 100 entries
+[2026-11-13 00:59:12]   firehose: 100 watched CIKs, 300 total feed entries
+[2026-11-13 00:59:12]   ★ NEW 8k_202 for VRCA (Verrica Pharmaceuticals Inc.) filed 2026-11-12
+[2026-11-13 00:59:12]     https://www.sec.gov/Archives/edgar/data/1660334/000119312526458527/d144356d8k.htm
+[2026-11-13 00:59:13]     ✉ alert sent (8k_202)
+[2026-11-13 00:59:13] === EDGAR FIREHOSE complete. 1 new detections. ===
