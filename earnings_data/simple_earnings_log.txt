@@ -5969,3 +5969,18 @@
 [2026-11-13 02:59:01]   ✓ 10-Q found for COHN (Cohen & Co Inc.) filed 2026-11-12
 [2026-11-13 02:59:01]     https://www.sec.gov/Archives/edgar/data/1270436/000143774926036434/cohn20260930_10q.htm
 [2026-11-13 02:59:01] === CHECK-10Q complete. Checked 12, found 4, cleared 2 stale. ===
+[2026-11-13 18:28:02] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-11-13 18:28:03]   firehose: 8-K feed — 100 entries parsed
+[2026-11-13 18:28:03]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-11-13 18:28:04]   firehose: 8-K page 2 — 100 entries
+[2026-11-13 18:28:04]   firehose: 10-Q feed — 100 entries parsed
+[2026-11-13 18:28:04]   firehose: all 10-Q entries newer than watermark — fetching page 2
+[2026-11-13 18:28:05]   firehose: 10-Q page 2 — 100 entries
+[2026-11-13 18:28:05]   firehose: 100 watched CIKs, 400 total feed entries
+[2026-11-13 18:28:05]   ★ NEW 8k_701 for TOPP (Toppoint Holdings Inc.) filed 2026-11-13
+[2026-11-13 18:28:05]     https://www.sec.gov/Archives/edgar/data/1960847/000121390026119351/ea0312175-8k_toppoint.htm
+[2026-11-13 18:28:06]     ✉ alert sent (8k_701)
+[2026-11-13 18:28:06]   ★ NEW 10q for VRCA (Verrica Pharmaceuticals Inc.) filed 2026-11-13
+[2026-11-13 18:28:06]     https://www.sec.gov/Archives/edgar/data/1660334/000166033426000030/vrca-20260930.htm
+[2026-11-13 18:28:07]     ✉ alert sent (10q)
+[2026-11-13 18:28:07] === EDGAR FIREHOSE complete. 2 new detections. ===
