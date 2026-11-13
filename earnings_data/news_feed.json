@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-11-12T18:53:20",
+ "generated_at": "2026-11-13T00:19:16",
  "items": [
+  {
+   "uuid": "47b0fba9-9a9b-31ee-b16d-0fcbf934141a",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "New Jersey American Water Opens 2027 Volunteer Fire and EMS Grant Program",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/jersey-american-water-opens-2027-201100914.html",
+   "published_unix": 1794514260,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-13T00:19:09"
+  },
+  {
+   "uuid": "ae29178e-a781-4eef-a8bc-74349c8d8b1c",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "'Yellowstone' creator Taylor Sheridan on why he signed a big deal with NBCUniversal after years with Paramount",
+   "publisher": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/yellowstone-creator-taylor-sheridan-on-why-he-signed-a-big-deal-with-nbcuniversal-after-years-with-paramount-200930676.html",
+   "published_unix": 1794514170,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-13T00:19:05"
+  },
   {
    "uuid": "91ddfac3-c6ae-3a3f-92b2-c862d6632b5f",
    "tickers": [
@@ -2310,19 +2336,6 @@
    "published_unix": 1791986400,
    "source_type": "yahoo",
    "captured_at": "2026-10-14T15:48:49"
-  },
-  {
-   "uuid": "428dfc65-ae63-3ee1-accd-464583e0db93",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "The One Number Comcast Stock Investors Should Watch",
-   "publisher": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/one-number-comcast-stock-investors-204245227.html",
-   "published_unix": 1791924165,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-13T23:15:55"
   }
  ]
 }
