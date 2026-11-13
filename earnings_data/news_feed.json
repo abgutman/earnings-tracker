@@ -1,6 +1,95 @@
 {
- "generated_at": "2026-11-13T06:29:50",
+ "generated_at": "2026-11-13T18:30:08",
  "items": [
+  {
+   "uuid": "3ff4d15fad2dd2e004d88353f92953d2714ef434",
+   "tickers": [],
+   "company": "Franklin Biolabs",
+   "title": "Proud Member of the Dyno Frontiers Network",
+   "publisher": "Franklin Biolabs",
+   "link": "https://www.dynotx.com/frontiers-network#new_tab",
+   "published_unix": 1794594093,
+   "source_type": "rss",
+   "captured_at": "2026-11-13T18:30:03"
+  },
+  {
+   "uuid": "978c15e8-f038-3872-8293-19b2b46df178",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces Opening of New Luxury Home Community in Rancho Murieta, California",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-opening-luxury-165400520.html",
+   "published_unix": 1794588840,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-13T18:30:07"
+  },
+  {
+   "uuid": "759ff1da-c91b-30d8-a92c-3411623865f6",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "US FTC sues to block Cencora's $3.5 billion sale of veterinary unit to Covetrus",
+   "publisher": "Reuters",
+   "link": "https://finance.yahoo.com/news/us-ftc-sues-block-cencoras-165038950.html",
+   "published_unix": 1794588638,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-13T18:29:55"
+  },
+  {
+   "uuid": "3d83187e-3142-3f9a-8726-fa98da432016",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Shares Tips on How to Manage Customer Accounts and Stay Informed About Water and Wastewater Services",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/american-water-shares-tips-manage-160700998.html",
+   "published_unix": 1794586020,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-13T18:29:58"
+  },
+  {
+   "uuid": "f52eff36-66f0-3209-8d8e-b8e6975f1a04",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces Ridge at Granite Highlands Now Open in Washougal, Washington",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-ridge-granite-155300244.html",
+   "published_unix": 1794585180,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-13T18:30:07"
+  },
+  {
+   "uuid": "570e1a0b-481a-3610-a12b-b4e686ac16cd",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "UPS or Comcast: I Can Only Pick One Dividend Stock for the Next 10 Years. Here\u2019s Mine",
+   "publisher": "TIKR",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ups-comcast-only-pick-one-144809253.html",
+   "published_unix": 1794581289,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-13T18:29:54"
+  },
+  {
+   "uuid": "69d9fbd4-fbbf-38e4-bd49-797d207170d8",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores",
+   "title": "Gordon Haskett Downgrades Burlington Stores to Reduce From Hold, Price Target is $240",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/gordon-haskett-downgrades-burlington-stores-135613712.html",
+   "published_unix": 1794578173,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-13T18:29:58"
+  },
   {
    "uuid": "47b0fba9-9a9b-31ee-b16d-0fcbf934141a",
    "tickers": [
@@ -2284,58 +2373,6 @@
    "published_unix": 1792002960,
    "source_type": "yahoo",
    "captured_at": "2026-10-14T20:11:36"
-  },
-  {
-   "uuid": "e4633f7d-a0d9-3271-9bbe-51daf9ce7898",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Illinois American Water Employees Join Local Organizations to Strengthen Communities Across the State",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/small-business/articles/illinois-american-water-employees-join-155600576.html",
-   "published_unix": 1791993360,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-14T20:11:12"
-  },
-  {
-   "uuid": "ca1fbbb5-7ddf-317a-8ac5-fb585e506210",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "Campbell's",
-   "title": "Better High-Yield Dividend Stock: Clorox vs. Campbell\u2019s",
-   "publisher": "TIKR",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/better-high-yield-dividend-stock-145716152.html",
-   "published_unix": 1791989836,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-14T15:48:52"
-  },
-  {
-   "uuid": "e153b0aa-f35f-3001-9e0c-a0892e11a9b8",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Saint Cloud, Florida",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-145200824.html",
-   "published_unix": 1791989520,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-14T15:50:22"
-  },
-  {
-   "uuid": "a80578ab-b27d-3cf5-aff8-543fbf17b967",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Xfinity and Comcast Business High-Speed Internet Now Available to Nearly 2,000 Homes and Businesses in Hardee County, Florida",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/articles/xfinity-comcast-business-high-speed-140000639.html",
-   "published_unix": 1791986400,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-14T15:48:49"
   }
  ]
 }
