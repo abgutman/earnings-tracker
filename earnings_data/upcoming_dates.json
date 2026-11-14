@@ -1,15 +1,5 @@
 {
  "_comment": "Confirmed upcoming earnings dates. Populated manually + by future auto-extraction from save-the-date press releases. Each entry: release_date (YYYY-MM-DD), optionally call_date, call_time (HH:MM ET), source_url, source_title.",
- "WHK": {
-  "release_date": "2026-11-13",
-  "call_date": null,
-  "call_time": null,
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/whitehawk-minerals-corp-announces-third-113000009.html",
-  "source_title": "WhiteHawk Minerals Corp. Announces Third Quarter 2026 Earnings Conference Call for November 13, 2026",
-  "source_publisher": "Business Wire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-10-14T01:27:13"
- },
  "UGI": {
   "release_date": "2026-11-19",
   "call_date": null,

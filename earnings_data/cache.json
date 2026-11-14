@@ -1702,8 +1702,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1660334/000166033426000030/vrca-20260930.htm",
   "last_detected_at": "2026-11-13T18:28:02.666125+00:00",
   "last_8k_detected_at": "2026-11-13T00:59:09.608816+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-11-12"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1660334/000166033426000030/vrca-20260930.htm"
  },
  "ANVS": {
   "ticker": "ANVS",
@@ -1726,8 +1725,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1477845/000110465926127094/tm2629728d1_8k.htm",
   "last_detected_at": "2026-11-14T01:29:24.810860+00:00",
   "last_8k_detected_at": "2026-11-14T01:29:24.810860+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-11-13"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1477845/000110465926127105/anvs-20260930x10q.htm"
  },
  "STIM": {
   "ticker": "STIM",
