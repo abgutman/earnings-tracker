@@ -1,6 +1,149 @@
 {
- "generated_at": "2026-11-14T06:09:11",
+ "generated_at": "2026-11-16T21:00:14",
  "items": [
+  {
+   "uuid": "a2eb215c-9642-3202-92e9-5e4449da6476",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC Corporation",
+   "title": "FMC Shares Fall After KeyBanc Downgrade",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-shares-fall-keybanc-downgrade-202609270.html",
+   "published_unix": 1794860769,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-16T21:00:01"
+  },
+  {
+   "uuid": "2f19c9b5-735e-3c5b-a456-01806c1bf736",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark Q4 2026 Earnings Call Summary",
+   "publisher": "Moby",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-q4-2026-earnings-call-175004974.html",
+   "published_unix": 1794851404,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-16T21:00:00"
+  },
+  {
+   "uuid": "9919d262-e019-3a65-adce-cf3b85832cb2",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark Gives Soft Revenue Outlook; Caterer Optimistic on Data Center Market Growth",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-gives-soft-revenue-outlook-174603890.html",
+   "published_unix": 1794851163,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-16T21:00:00"
+  },
+  {
+   "uuid": "a3b1f996-db10-373f-ae62-ed2108a69437",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Business Delivers the Most Reliable Connectivity for Small Businesses, New Signal65 Report Finds",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/small-business/articles/comcast-business-delivers-most-reliable-150000911.html",
+   "published_unix": 1794841200,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-16T20:59:59"
+  },
+  {
+   "uuid": "396d2b2e-0aa8-3a85-bbce-dc3ab1c4a37b",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Illinois American Water Wants Customers to Pause and Think Before Pouring Fats, Oils and Grease Down the Kitchen Sink",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/illinois-american-water-wants-customers-144900059.html",
+   "published_unix": 1794840540,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-16T21:00:04"
+  },
+  {
+   "uuid": "3f293b8e-c99c-34f8-8e49-4d021ec2b4cd",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "BofA Securities Adjusts Price Target on American Water Works to $157 From $142",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-securities-adjusts-price-target-131456445.html",
+   "published_unix": 1794834896,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-16T21:00:04"
+  },
+  {
+   "uuid": "29cbc88a-fe9f-3e25-8bfa-9517bc853f5b",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC Corporation",
+   "title": "KeyBanc Downgrades FMC to Sector Weight From Overweight",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/keybanc-downgrades-fmc-sector-weight-122452475.html",
+   "published_unix": 1794831892,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-16T21:00:01"
+  },
+  {
+   "uuid": "35e61e42-1569-3dfc-872a-6ed34dcdef10",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark: Fiscal Q4 Earnings Snapshot",
+   "publisher": "Associated Press",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-fiscal-q4-earnings-snapshot-115142048.html",
+   "published_unix": 1794829902,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-16T21:00:00"
+  },
+  {
+   "uuid": "12f1efcc-a1f4-346a-bfc6-f9bc956c5b41",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark's Fiscal Q4 Adjusted Earnings, Revenue Increase; Fiscal 2027 Outlook Issued",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-apos-fiscal-q4-adjusted-115029289.html",
+   "published_unix": 1794829829,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-16T21:00:00"
+  },
+  {
+   "uuid": "4ebd81f6-f95b-374a-aad5-fb821c2193ec",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark Reports Earnings Results for Fiscal 2026",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-reports-earnings-results-fiscal-113000324.html",
+   "published_unix": 1794828600,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-16T21:00:00"
+  },
+  {
+   "uuid": "d99d659c-8aca-30a4-b3b1-85b9d02c443d",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "Apple Leads Five Stocks Standing Tall Near Buy Points Despite Nvidia, Other Headwinds",
+   "publisher": "Investor's Business Daily",
+   "link": "https://finance.yahoo.com/m/d99d659c-8aca-30a4-b3b1-85b9d02c443d/apple-leads-five-stocks.html",
+   "published_unix": 1794661258,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-16T21:00:02"
+  },
   {
    "uuid": "a92cbde0-d88d-3990-9745-91f0c2fbbfa4",
    "tickers": [
@@ -50,6 +193,32 @@
    "published_unix": 1794594093,
    "source_type": "rss",
    "captured_at": "2026-11-13T18:30:03"
+  },
+  {
+   "uuid": "1bf5d985-173a-3c52-905e-c3c72dd86e10",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Better Dividend Stock for Retirees: Altria vs. Comcast",
+   "publisher": "TIKR",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/better-dividend-stock-retirees-altria-174049344.html",
+   "published_unix": 1794591649,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-16T20:59:59"
+  },
+  {
+   "uuid": "451e9235-3d19-3334-bc40-d083fa74a7ef",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast or Pfizer: The One Dividend Stock I\u2019d Hold for the Next 10 Years",
+   "publisher": "TIKR",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-pfizer-one-dividend-stock-174027415.html",
+   "published_unix": 1794591627,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-16T20:59:59"
   },
   {
    "uuid": "978c15e8-f038-3872-8293-19b2b46df178",
@@ -206,6 +375,19 @@
    "published_unix": 1794498960,
    "source_type": "yahoo",
    "captured_at": "2026-11-12T18:53:10"
+  },
+  {
+   "uuid": "516edc9e-2c83-36a5-87d7-0658fb578959",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "A $600,000 Portfolio in Comcast, Hormel and AT&T Pays $31,464 a Year in Dividends. Here\u2019s What Happens if One Cuts",
+   "publisher": "TIKR",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/600-000-portfolio-comcast-hormel-151106681.html",
+   "published_unix": 1794496266,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-16T20:59:59"
   },
   {
    "uuid": "87ce3b67-91b7-366a-8327-fadb68591e63",
@@ -2035,318 +2217,6 @@
    "published_unix": 1792404509,
    "source_type": "yahoo",
    "captured_at": "2026-10-19T17:27:33"
-  },
-  {
-   "uuid": "f7341c04-bfb1-3283-a867-1cf3e8edbb9b",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Illinois American Water Announces 2026 \"Water Keeps Life Flowing\" Art Contest",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/illinois-american-water-announces-2026-202600043.html",
-   "published_unix": 1792182360,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-16T22:49:31"
-  },
-  {
-   "uuid": "3579cad1-e0ff-3484-ae24-c255844ac925",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces New Phase Opening in Cottage and Preserve Collections at Griffith Lakes in North Carolina",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-phase-opening-173700381.html",
-   "published_unix": 1792172220,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-16T19:35:01"
-  },
-  {
-   "uuid": "3ac09944-2ccc-36a2-b088-9470b49910cf",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "Five Below",
-   "title": "Five Below Expected to Sustain Healthy Growth Even as Composition Changes, UBS Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-expected-sustain-healthy-154259023.html",
-   "published_unix": 1792165379,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-16T19:32:39"
-  },
-  {
-   "uuid": "5ef67350-7b2d-39e2-b19c-783b2dd2c476",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers at Everly Community Opens in Spartanburg, South Carolina",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-everly-community-opens-150900342.html",
-   "published_unix": 1792163340,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-16T15:23:08"
-  },
-  {
-   "uuid": "45cc50b6-b822-35d6-b12a-6bfdd45ffb0e",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC Corporation",
-   "title": "FMC Stock Dropped 31%\u2014Why It May Still Be No Bargain",
-   "publisher": "Barrons.com",
-   "link": "https://finance.yahoo.com/m/45cc50b6-b822-35d6-b12a-6bfdd45ffb0e/fmc-stock-dropped-31%25%E2%80%94why-it.html",
-   "published_unix": 1792158600,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-16T15:21:40"
-  },
-  {
-   "uuid": "d28f4835-092c-35cb-a99d-84dd56987304",
-   "tickers": [
-    "WTRG"
-   ],
-   "company": "Essential Utilities",
-   "title": "UBS Adjusts Essential Utilities Price Target to $47 From $49, Maintains Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-essential-utilities-price-131511348.html",
-   "published_unix": 1792156511,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-16T15:21:43"
-  },
-  {
-   "uuid": "54bbd303-43b4-38cb-9210-1117744eff40",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora",
-   "title": "UBS Adjusts Price Target on Cencora to $400 From $430, Keeps Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-price-target-cencora-125519536.html",
-   "published_unix": 1792155319,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-16T15:21:40"
-  },
-  {
-   "uuid": "aa81a14d-64e9-3b6c-9a3f-85b7f70d38a2",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "UBS Adjusts Price Target on American Water Works to $153 From $162, Keeps Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-price-target-american-125513618.html",
-   "published_unix": 1792155313,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-16T15:21:43"
-  },
-  {
-   "uuid": "a80781b2-e93a-3bcd-8d52-c1a8fe8a3623",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "35 Years of Support: Pennsylvania American Water Marks Milestone for Customer Assistance Program",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/35-years-support-pennsylvania-american-123000867.html",
-   "published_unix": 1792153800,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-16T15:21:43"
-  },
-  {
-   "uuid": "75e3e246-0275-3253-ae20-bf15d6b22c0b",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces New Lakefront Luxury Home Community Coming Soon to Clermont, Florida",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-lakefront-luxury-121700147.html",
-   "published_unix": 1792153020,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-16T15:23:08"
-  },
-  {
-   "uuid": "51f665d7-5279-34f3-832f-9bd1a2c1e7e7",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC Corporation",
-   "title": "Seaport Global Downgrades FMC to Neutral",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/seaport-global-downgrades-fmc-neutral-111126295.html",
-   "published_unix": 1792149086,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-16T15:21:40"
-  },
-  {
-   "uuid": "5b5b6e3e-a3e9-30f6-be5f-0b03264b2dd2",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC Corporation",
-   "title": "Jefferies Downgrades FMC to Hold, Price Target is $5",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-downgrades-fmc-hold-price-111049546.html",
-   "published_unix": 1792149049,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-16T15:21:40"
-  },
-  {
-   "uuid": "0832c53a-11bf-3fd2-8d8e-93aa669ebd4e",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Should You Buy Comcast Stock At Under Seven Times Earnings?",
-   "publisher": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-comcast-stock-under-seven-222226526.html",
-   "published_unix": 1792102946,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-15T23:03:37"
-  },
-  {
-   "uuid": "f6d74553-a74f-31b1-b910-fbb09845558e",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "American Water Unit Gets EPA Funding for Wildfire-Resilience Upgrades",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/american-water-unit-gets-epa-190722966.html",
-   "published_unix": 1792091242,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-15T19:52:43"
-  },
-  {
-   "uuid": "4faa0c6c-f60d-3ec9-996c-c59e4a70cc7d",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "California American Water Secures Federal Funding to Advance Affordable Wildfire-Resilience Upgrades for Monterey County Water System",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/california-american-water-secures-federal-180900397.html",
-   "published_unix": 1792087740,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-15T19:52:43"
-  },
-  {
-   "uuid": "7732d417-e52c-35b6-b311-64d302dc8363",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Franklin, Tennessee",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-172600771.html",
-   "published_unix": 1792085160,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-15T19:53:20"
-  },
-  {
-   "uuid": "a6cd2055-16a5-3e40-b30e-45b8aca18023",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC Corporation",
-   "title": "FMC Stock Crashes 33% On Massive Earnings Downgrade \u2013 Citi expects \u2018Modest Negative Reaction\u2019 For Peer Corteva",
-   "publisher": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-stock-crashes-33-massive-161016203.html",
-   "published_unix": 1792080616,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-15T19:52:41"
-  },
-  {
-   "uuid": "e7de32ab-f47c-3855-b951-a07424f5d9db",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC Corporation",
-   "title": "FMC Stock Plummets 35% on Horrendous Guidance",
-   "publisher": "Barrons.com",
-   "link": "https://finance.yahoo.com/m/e7de32ab-f47c-3855-b951-a07424f5d9db/fmc-stock-plummets-35%25-on.html",
-   "published_unix": 1792073340,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-15T15:34:58"
-  },
-  {
-   "uuid": "b14bf4c9-b540-315c-a728-6230494d4f98",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC Corporation",
-   "title": "CoreWeave, TSMC, FMC, Rocket Lab, Schwab, and More Stocks That Explain Today\u2019s Market",
-   "publisher": "Barrons.com",
-   "link": "https://finance.yahoo.com/m/b14bf4c9-b540-315c-a728-6230494d4f98/coreweave%2C-tsmc%2C-fmc%2C-rocket.html",
-   "published_unix": 1792072920,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-15T15:34:58"
-  },
-  {
-   "uuid": "5d357fe6-de2a-3b6d-be4b-ee209e881388",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC Corporation",
-   "title": "FMC Shares Plunge 35% as Company Cuts Q3 2026 Outlook Amid Weak Demand and Inventory Pressures",
-   "publisher": "InvestorsHub",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-shares-plunge-35-company-124046224.html",
-   "published_unix": 1792068046,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-15T15:34:58"
-  },
-  {
-   "uuid": "3a699d98-4559-313b-89f5-ab9d88bf8466",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC Corporation",
-   "title": "FMC Sharply Reduces Q3 Revenue Guidance; Shares Plunge",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-sharply-reduces-q3-revenue-121344814.html",
-   "published_unix": 1792066424,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-15T15:34:58"
-  },
-  {
-   "uuid": "dd0521b9-25a7-3242-8c09-2a145136e554",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "RBC Capital Adjusts Price Target on Toll Brothers to $148 From $158, Keeps Outperform Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-capital-adjusts-price-target-121158988.html",
-   "published_unix": 1792066318,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-15T15:35:44"
-  },
-  {
-   "uuid": "3772fb17-406d-3720-91b2-acf1a470aafd",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC Corporation",
-   "title": "FMC Corporation Provides Update to Third-Quarter Expectations and Announces Comprehensive Commercial Actions to Expedite Return to Growth",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/fmc-corporation-provides-third-quarter-113000653.html",
-   "published_unix": 1792063800,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-15T15:34:58"
-  },
-  {
-   "uuid": "2b65ba45-9e79-3a0b-a129-7ffedd1ff3ac",
-   "tickers": [
-    "FMC"
-   ],
-   "company": "FMC Corporation",
-   "title": "RBC Cuts Price Target on FMC to $9 From $11, Keeps Sector Perform Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-cuts-price-target-fmc-110750972.html",
-   "published_unix": 1792062470,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-15T15:34:58"
   }
  ]
 }
