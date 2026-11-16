@@ -6022,3 +6022,8 @@
 [2026-11-14 02:44:33]   ✓ 10-Q found for ANVS (Annovis Bio, Inc.) filed 2026-11-13
 [2026-11-14 02:44:33]     https://www.sec.gov/Archives/edgar/data/1477845/000110465926127105/anvs-20260930x10q.htm
 [2026-11-14 02:44:34] === CHECK-10Q complete. Checked 10, found 2, cleared 0 stale. ===
+[2026-11-16 20:54:56] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-11-16 20:55:16]   firehose: 8-K feed fetch failed (rc=28)
+[2026-11-16 20:55:36]   firehose: 10-Q feed fetch failed (rc=28)
+[2026-11-16 20:55:36]   firehose: 100 watched CIKs, 0 total feed entries
+[2026-11-16 20:55:36] === EDGAR FIREHOSE complete. 0 new detections. ===
