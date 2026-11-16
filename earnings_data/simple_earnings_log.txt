@@ -6027,3 +6027,57 @@
 [2026-11-16 20:55:36]   firehose: 10-Q feed fetch failed (rc=28)
 [2026-11-16 20:55:36]   firehose: 100 watched CIKs, 0 total feed entries
 [2026-11-16 20:55:36] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-11-16 22:55:56] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-11-16 22:55:56]   ★ NEW 8k_202 for ARMK (Aramark) filed 2026-11-16
+[2026-11-16 22:55:56]     https://www.sec.gov/Archives/edgar/data/1584509/000158450926000152/cik0-20261116.htm
+[2026-11-16 22:55:58]     ✉ alert sent (8k_202)
+[2026-11-16 22:55:58]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001584509.json'
+[2026-11-16 22:55:59]   ★ NEW 8k_701 for IRT (INDEPENDENCE REALTY TRUST, INC.) filed 2026-11-16
+[2026-11-16 22:55:59]     https://www.sec.gov/Archives/edgar/data/1466085/000143774926037158/irt20261116c_8k.htm
+[2026-11-16 22:56:00]     ✉ alert sent (8k_701)
+[2026-11-16 22:56:00]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001466085.json'
+[2026-11-16 22:56:05]   ★ NEW 8k_202 for LRMR (Larimar Therapeutics, Inc.) filed 2026-11-16
+[2026-11-16 22:56:05]     https://www.sec.gov/Archives/edgar/data/1374690/000119312526462054/lrmr-20261116.htm
+[2026-11-16 22:56:06]     ✉ alert sent (8k_202)
+[2026-11-16 22:56:06]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001374690.json'
+[2026-11-16 22:56:07]   ★ NEW 8k_701 for CRS (CARPENTER TECHNOLOGY CORP) filed 2026-11-16
+[2026-11-16 22:56:07]     https://www.sec.gov/Archives/edgar/data/17843/000001784326000052/crs-20261110.htm
+[2026-11-16 22:56:08]     ✉ alert sent (8k_701)
+[2026-11-16 22:56:08]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0000017843.json'
+[2026-11-16 22:56:09]   ★ NEW 8k_202 for CUBE (CubeSmart) filed 2026-11-16
+[2026-11-16 22:56:09]     https://www.sec.gov/Archives/edgar/data/1298675/000129867526000052/cube-20261116x8k.htm
+[2026-11-16 22:56:10]     ✉ alert sent (8k_202)
+[2026-11-16 22:56:10]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001298675.json'
+[2026-11-16 22:56:16]   ★ NEW 8k_701 for ACRS (Aclaris Therapeutics, Inc.) filed 2026-11-16
+[2026-11-16 22:56:16]     https://www.sec.gov/Archives/edgar/data/1557746/000110465926127478/acrs-20261116x8k.htm
+[2026-11-16 22:56:18]     ✉ alert sent (8k_701)
+[2026-11-16 22:56:18]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001557746.json'
+[2026-11-16 22:56:21]   ★ NEW 10q for RPMT (REGO PAYMENT ARCHITECTURES, INC.) filed 2026-11-16
+[2026-11-16 22:56:21]     https://www.sec.gov/Archives/edgar/data/1437283/000121465926014425/rpmt-20260930.htm
+[2026-11-16 22:56:23]     ✉ alert sent (10q)
+[2026-11-16 22:56:23]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001437283.json'
+[2026-11-16 22:56:24]   ★ NEW 10q for QNTO (QUAINT OAK BANCORP, INC.) filed 2026-11-16
+[2026-11-16 22:56:24]     https://www.sec.gov/Archives/edgar/data/1391933/000092708926000191/qnto20260930c_10q.htm
+[2026-11-16 22:56:25]     ✉ alert sent (10q)
+[2026-11-16 22:56:25]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001391933.json'
+[2026-11-16 22:56:26]   ★ NEW 8k_202 for TRAW (Traws Pharma, Inc.) filed 2026-11-16
+[2026-11-16 22:56:26]     https://www.sec.gov/Archives/edgar/data/1130598/000110465926128450/tm2629930d1_8k.htm
+[2026-11-16 22:56:27]     ✉ alert sent (8k_202)
+[2026-11-16 22:56:27]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001130598.json'
+[2026-11-16 22:56:28]   ★ NEW 8k_202 for TOPP (Toppoint Holdings Inc.) filed 2026-11-16
+[2026-11-16 22:56:28]     https://www.sec.gov/Archives/edgar/data/1960847/000121390026120737/ea0312181-8k_toppoint.htm
+[2026-11-16 22:56:28]     ✉ alert sent (8k_202)
+[2026-11-16 22:56:28]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001960847.json'
+[2026-11-16 22:56:30]   ★ NEW 10q for NXGL (NEXGEL, INC.) filed 2026-11-16
+[2026-11-16 22:56:30]     https://www.sec.gov/Archives/edgar/data/1468929/000149315226051902/form10-q.htm
+[2026-11-16 22:56:30]     ✉ alert sent (10q)
+[2026-11-16 22:56:30]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001468929.json'
+[2026-11-16 22:56:31]   ★ NEW 10q for ESMC (ESCALON MEDICAL CORP) filed 2026-11-16
+[2026-11-16 22:56:31]     https://www.sec.gov/Archives/edgar/data/862668/000162828026074248/esmc-20260930.htm
+[2026-11-16 22:56:32]     ✉ alert sent (10q)
+[2026-11-16 22:56:32]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0000862668.json'
+[2026-11-16 22:56:32]   ★ NEW 10q for GMER (GOOD GAMING, INC.) filed 2026-11-16
+[2026-11-16 22:56:32]     https://www.sec.gov/Archives/edgar/data/1454742/000149315226052098/form10-q.htm
+[2026-11-16 22:56:33]     ✉ alert sent (10q)
+[2026-11-16 22:56:33]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001454742.json'
+[2026-11-16 22:56:37] === EDGAR POLL complete. Fetched 100 companies, 13 new filings. ===
