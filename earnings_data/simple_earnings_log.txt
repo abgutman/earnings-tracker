@@ -6110,3 +6110,13 @@
 [2026-11-17 04:50:12]   ✓ 10-Q found for TOPP (Toppoint Holdings Inc.) filed 2026-11-16
 [2026-11-17 04:50:12]     https://www.sec.gov/Archives/edgar/data/1960847/000121390026120787/ea0311099-10q_toppoint.htm
 [2026-11-17 04:50:12] === CHECK-10Q complete. Checked 11, found 3, cleared 1 stale. ===
+[2026-11-17 19:44:07] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-11-17 19:44:08]   firehose: 8-K feed — 100 entries parsed
+[2026-11-17 19:44:08]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-11-17 19:44:09]   firehose: 8-K page 2 — 100 entries
+[2026-11-17 19:44:15]   firehose: 10-Q feed — 100 entries parsed
+[2026-11-17 19:44:15]   firehose: 100 watched CIKs, 300 total feed entries
+[2026-11-17 19:44:16]   ★ NEW 8k_701 for AXTA (Axalta Coating Systems Ltd.) filed 2026-11-17
+[2026-11-17 19:44:16]     https://www.sec.gov/Archives/edgar/data/1616862/000119312526464841/d109017d8k.htm
+[2026-11-17 19:44:17]     ✉ alert sent (8k_701)
+[2026-11-17 19:44:17] === EDGAR FIREHOSE complete. 1 new detections. ===
