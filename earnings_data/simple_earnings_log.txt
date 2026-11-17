@@ -6086,3 +6086,18 @@
 [2026-11-16 23:20:01]   firehose: 10-Q feed fetch failed (rc=28)
 [2026-11-16 23:20:01]   firehose: 100 watched CIKs, 0 total feed entries
 [2026-11-16 23:20:01] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-11-17 03:18:19] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-11-17 03:18:20]   firehose: 8-K feed — 100 entries parsed
+[2026-11-17 03:18:20]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-11-17 03:18:20]   firehose: 8-K page 2 — 100 entries
+[2026-11-17 03:18:22]   firehose: 10-Q feed — 100 entries parsed
+[2026-11-17 03:18:22]   firehose: all 10-Q entries newer than watermark — fetching page 2
+[2026-11-17 03:18:24]   firehose: 10-Q page 2 — 100 entries
+[2026-11-17 03:18:24]   firehose: 100 watched CIKs, 400 total feed entries
+[2026-11-17 03:18:24]   ★ NEW 10q for TOPP (Toppoint Holdings Inc.) filed 2026-11-16
+[2026-11-17 03:18:24]     https://www.sec.gov/Archives/edgar/data/1960847/000121390026120787/ea0311099-10q_toppoint.htm
+[2026-11-17 03:18:25]     ✉ alert sent (10q)
+[2026-11-17 03:18:26]   ★ NEW 10q for TRAW (Traws Pharma, Inc.) filed 2026-11-16
+[2026-11-17 03:18:26]     https://www.sec.gov/Archives/edgar/data/1130598/000110465926128498/traw-20260930x10q.htm
+[2026-11-17 03:18:27]     ✉ alert sent (10q)
+[2026-11-17 03:18:27] === EDGAR FIREHOSE complete. 2 new detections. ===
