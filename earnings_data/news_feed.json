@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-11-16T21:00:14",
+ "generated_at": "2026-11-17T03:49:52",
  "items": [
+  {
+   "uuid": "96a9ad54-9546-3038-aaf4-48147e48600b",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces New Collection Now Open for Sale at Monterey at Lakewood Ranch in Florida",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-collection-now-215700555.html",
+   "published_unix": 1794866220,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-17T03:49:51"
+  },
   {
    "uuid": "a2eb215c-9642-3202-92e9-5e4449da6476",
    "tickers": [
