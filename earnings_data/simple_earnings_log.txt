@@ -6101,3 +6101,12 @@
 [2026-11-17 03:18:26]     https://www.sec.gov/Archives/edgar/data/1130598/000110465926128498/traw-20260930x10q.htm
 [2026-11-17 03:18:27]     ✉ alert sent (10q)
 [2026-11-17 03:18:27] === EDGAR FIREHOSE complete. 2 new detections. ===
+[2026-11-17 04:50:09] === CHECK-10Q: scanning for pending 10-Q filings ===
+[2026-11-17 04:50:10]   ✓ 10-Q found for LRMR (Larimar Therapeutics, Inc.) filed 2026-11-16
+[2026-11-17 04:50:10]     https://www.sec.gov/Archives/edgar/data/1374690/000119312526462242/lrmr-20260930.htm
+[2026-11-17 04:50:12]   CABA: pending_10q_since=2026-11-09 is 8d old — clearing stale flag
+[2026-11-17 04:50:12]   ✓ 10-Q found for TRAW (Traws Pharma, Inc.) filed 2026-11-16
+[2026-11-17 04:50:12]     https://www.sec.gov/Archives/edgar/data/1130598/000110465926128498/traw-20260930x10q.htm
+[2026-11-17 04:50:12]   ✓ 10-Q found for TOPP (Toppoint Holdings Inc.) filed 2026-11-16
+[2026-11-17 04:50:12]     https://www.sec.gov/Archives/edgar/data/1960847/000121390026120787/ea0311099-10q_toppoint.htm
+[2026-11-17 04:50:12] === CHECK-10Q complete. Checked 11, found 3, cleared 1 stale. ===
