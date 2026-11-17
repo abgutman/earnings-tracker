@@ -1,6 +1,110 @@
 {
- "generated_at": "2026-11-17T07:46:52",
+ "generated_at": "2026-11-17T19:49:35",
  "items": [
+  {
+   "uuid": "e96e4cac-3d96-3dd8-9dba-11848947721a",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Pennsylvania American Water President Addresses ASCE 2026 Report Card for Pennsylvania's Infrastructure",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/pennsylvania-american-water-president-addresses-174900194.html",
+   "published_unix": 1794937740,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-17T19:49:28"
+  },
+  {
+   "uuid": "8204581b-c13a-3ab8-a36a-63cb092c4c23",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Virginia American Water Launches Enhanced Digital Experience for Simpler Customer Information and Support",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/technology/articles/virginia-american-water-launches-enhanced-161700507.html",
+   "published_unix": 1794932220,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-17T19:49:28"
+  },
+  {
+   "uuid": "0ebdd57d-e828-3785-87ec-395fe3b4846f",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Maryland American Water Launches Enhanced Digital Experience for Simpler Customer Information and Support",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/technology/articles/maryland-american-water-launches-enhanced-161600799.html",
+   "published_unix": 1794932160,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-17T19:49:28"
+  },
+  {
+   "uuid": "b22fdbc0-b484-3483-b169-55b161bdaf76",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "West Virginia American Water Launches Enhanced Digital Experience for Simpler Customer Information and Support",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/technology/articles/west-virginia-american-water-launches-161400334.html",
+   "published_unix": 1794932040,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-17T19:49:28"
+  },
+  {
+   "uuid": "97e75d94-eeb0-3650-a25f-bf3d7660389a",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "UBS Adjusts Price Target on Aramark to $68 From $65, Maintains Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-price-target-aramark-145142194.html",
+   "published_unix": 1794927102,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-17T19:49:23"
+  },
+  {
+   "uuid": "bbd5ac47-1aec-375e-8e32-96c99942f4d4",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "Stifel Initiates Five Below at Hold With $235 Price Target",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/stifel-initiates-five-below-hold-123411652.html",
+   "published_unix": 1794918851,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-17T19:49:26"
+  },
+  {
+   "uuid": "e6ecb23a-ed3a-32b4-9e7d-572b62829d97",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark Collegiate Hospitality Selected as N.C. A&T Dining Partner",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/small-business/articles/aramark-collegiate-hospitality-selected-n-123000951.html",
+   "published_unix": 1794918600,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-17T19:49:23"
+  },
+  {
+   "uuid": "55551212-5753-396d-826a-8b38130554bf",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Deutsche Bank Trims Price Target on Aramark to $70 From $74, Keeps Buy Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-trims-price-target-121351887.html",
+   "published_unix": 1794917631,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-17T19:49:23"
+  },
   {
    "uuid": "96a9ad54-9546-3038-aaf4-48147e48600b",
    "tickers": [
