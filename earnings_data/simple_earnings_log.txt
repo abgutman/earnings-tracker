@@ -6120,3 +6120,13 @@
 [2026-11-17 19:44:16]     https://www.sec.gov/Archives/edgar/data/1616862/000119312526464841/d109017d8k.htm
 [2026-11-17 19:44:17]     ✉ alert sent (8k_701)
 [2026-11-17 19:44:17] === EDGAR FIREHOSE complete. 1 new detections. ===
+[2026-11-17 21:48:56] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-11-17 21:49:14]   ★ NEW 8k_202 for TRAW (Traws Pharma, Inc.) filed 2026-11-16
+[2026-11-17 21:49:14]     https://www.sec.gov/Archives/edgar/data/1130598/000110465926128450/tm2629930d1_8k.htm
+[2026-11-17 21:49:15]     ✉ alert sent (8k_202)
+[2026-11-17 21:49:15]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001130598.json'
+[2026-11-17 21:49:15]   ★ NEW 8k_202 for TOPP (Toppoint Holdings Inc.) filed 2026-11-16
+[2026-11-17 21:49:15]     https://www.sec.gov/Archives/edgar/data/1960847/000121390026120737/ea0312181-8k_toppoint.htm
+[2026-11-17 21:49:16]     ✉ alert sent (8k_202)
+[2026-11-17 21:49:16]   cache write err: [Errno 2] No such file or directory: '/home/runner/work/earnings-tracker/earnings-tracker/earnings_data/submissions_cache/CIK0001960847.json'
+[2026-11-17 21:49:21] === EDGAR POLL complete. Fetched 100 companies, 2 new filings. ===
