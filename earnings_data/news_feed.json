@@ -1,6 +1,84 @@
 {
- "generated_at": "2026-11-18T07:14:14",
+ "generated_at": "2026-11-18T19:23:27",
  "items": [
+  {
+   "uuid": "ddb92464-fb1a-313a-8c30-eef775870efd",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "BetterInvesting\u2122 Magazine Update on Electromed Inc. and Five Below Inc.",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/betterinvesting-magazine-electromed-inc-five-183000493.html",
+   "published_unix": 1795026600,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-18T19:23:14"
+  },
+  {
+   "uuid": "b7ea0894-71ac-3fd4-b74d-01f2addf8746",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "California American Water Brings New Groundwater Treatment and Production Capacity Online on the Monterey Peninsula",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/california-american-water-brings-groundwater-162300502.html",
+   "published_unix": 1795018980,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-18T19:23:17"
+  },
+  {
+   "uuid": "41c89cde-32e8-3b29-a74b-220798642ecf",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast\u2019s Network Powers Gaming\u2019s Biggest Moments with Fastly, Delivering Faster Downloads and Less Lag",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/articles/comcast-network-powers-gaming-biggest-141500063.html",
+   "published_unix": 1795011300,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-18T19:23:11"
+  },
+  {
+   "uuid": "987642cf-96e7-35c5-bbb0-3b7228ba41de",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "A $400,000 Portfolio in Comcast, Hormel and AT&T Pays $20,500 a Year in Dividends. Here\u2019s What Happens if One Cuts",
+   "publisher": "TIKR",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/400-000-portfolio-comcast-hormel-135021998.html",
+   "published_unix": 1795009821,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-18T19:23:11"
+  },
+  {
+   "uuid": "aee78561-9b8a-3426-b3d8-df60c5b049fd",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "American Water Shares Tips on How to Protect Yourself from Utility Scams",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/small-business/articles/american-water-shares-tips-protect-132300221.html",
+   "published_unix": 1795008180,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-18T19:23:17"
+  },
+  {
+   "uuid": "5b436d5c-626d-3449-9106-219903222c50",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "Campbell's",
+   "title": "The Campbell\u2019s Company to Report First Quarter Fiscal 2027 Results on December 9, 2026",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/campbell-company-report-first-quarter-121500104.html",
+   "published_unix": 1795004100,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-18T19:23:15"
+  },
   {
    "uuid": "ad7b2ee4-8c3a-3bfd-9fa2-424aebf23669",
    "tickers": [
@@ -2334,71 +2412,6 @@
    "published_unix": 1792449421,
    "source_type": "yahoo",
    "captured_at": "2026-10-20T01:48:48"
-  },
-  {
-   "uuid": "377913c6-6f7a-37f4-bbf3-ff4a31e76579",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces Opening of Kennemore Community in Alpharetta, Georgia",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-opening-kennemore-191600001.html",
-   "published_unix": 1792437360,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-19T22:19:51"
-  },
-  {
-   "uuid": "36909c42-baf7-35a5-8f16-322bccef0598",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Reliable, High-Speed Internet from Xfinity Now Available in Willis, Texas",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/articles/reliable-high-speed-internet-xfinity-170000424.html",
-   "published_unix": 1792429200,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-19T17:27:29"
-  },
-  {
-   "uuid": "91044424-574d-3fc5-b5fb-8360846443e2",
-   "tickers": [
-    "CPB"
-   ],
-   "company": "Campbell's",
-   "title": "Better Dividend Stock for Retirees: General Mills vs. Campbell\u2019s",
-   "publisher": "TIKR",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/better-dividend-stock-retirees-general-160844346.html",
-   "published_unix": 1792426124,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-19T17:27:32"
-  },
-  {
-   "uuid": "90f32b5e-20a6-3d27-9efc-5e05d1acde6e",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Aramark to Host Conference Call on Fourth Quarter and Full Year Fiscal 2026 Results",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-host-conference-call-fourth-113000934.html",
-   "published_unix": 1792409400,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-19T17:27:30"
-  },
-  {
-   "uuid": "f56c22d3-5cd6-3046-b6d2-b64040e3d1c3",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Barclays Adjusts Price Target on American Water Works to $127 From $130",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-adjusts-price-target-american-100829755.html",
-   "published_unix": 1792404509,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-19T17:27:33"
   }
  ]
 }
