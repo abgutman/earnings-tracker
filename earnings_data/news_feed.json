@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-11-17T19:49:35",
+ "generated_at": "2026-11-18T02:24:52",
  "items": [
+  {
+   "uuid": "ad7b2ee4-8c3a-3bfd-9fa2-424aebf23669",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "Campbell's",
+   "title": "The Campbell\u2019s Company Declares Quarterly Dividend",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/campbell-company-declares-quarterly-dividend-224500377.html",
+   "published_unix": 1794955500,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-18T02:24:43"
+  },
+  {
+   "uuid": "709e47be-aa94-30fd-9804-6054d072252a",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "A $1,500,000 Portfolio in Realty Income, Comcast and Hormel Pays $79,746 a Year in Dividends. Here\u2019s What Happens if One Cuts",
+   "publisher": "TIKR",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/1-500-000-portfolio-realty-205025282.html",
+   "published_unix": 1794948625,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-18T02:24:40"
+  },
   {
    "uuid": "e96e4cac-3d96-3dd8-9dba-11848947721a",
    "tickers": [
@@ -67,6 +93,19 @@
    "captured_at": "2026-11-17T19:49:23"
   },
   {
+   "uuid": "6a7a9ac6-485b-3e6c-90c8-258ee3879451",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Stock Up 17%, Still Losing Internet Customers",
+   "publisher": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-stock-17-still-losing-112945577.html",
+   "published_unix": 1794924821,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-18T02:24:40"
+  },
+  {
    "uuid": "bbd5ac47-1aec-375e-8e32-96c99942f4d4",
    "tickers": [
     "FIVE"
@@ -104,6 +143,19 @@
    "published_unix": 1794917631,
    "source_type": "yahoo",
    "captured_at": "2026-11-17T19:49:23"
+  },
+  {
+   "uuid": "e35d5dee-e9bc-3aba-acb9-122e7eee1d4e",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "Wells Fargo Adjusts Price Target on Cencora to $400 From $395",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-adjusts-price-target-104539438.html",
+   "published_unix": 1794912339,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-18T02:24:42"
   },
   {
    "uuid": "96a9ad54-9546-3038-aaf4-48147e48600b",
