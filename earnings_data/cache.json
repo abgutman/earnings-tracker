@@ -334,8 +334,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1372299/000110465926124836/tm2629434d1_8k.htm",
   "last_detected_at": "2026-11-10T18:35:39.853325+00:00",
   "last_8k_detected_at": "2026-11-10T18:35:39.853325+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-11-10"
+  "last_10q_url": null
  },
  "OFLX": {
   "ticker": "OFLX",
@@ -1222,8 +1221,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1734713/000119312526455484/bv-20261110.htm",
   "last_detected_at": "2026-11-11T00:32:57.801247+00:00",
   "last_8k_detected_at": "2026-11-11T00:32:57.801247+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-11-10"
+  "last_10q_url": null
  },
  "UVSP": {
   "ticker": "UVSP",
@@ -1887,8 +1885,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1130598/000110465926128450/tm2629930d1_8k.htm",
   "last_detected_at": "2026-11-17T21:48:56.679576+00:00",
   "last_8k_detected_at": "2026-11-17T21:48:56.679576+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-11-16"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1130598/000110465926128498/traw-20260930x10q.htm"
  },
  "TOPP": {
   "ticker": "TOPP",
@@ -1911,8 +1908,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1960847/000121390026120737/ea0312181-8k_toppoint.htm",
   "last_detected_at": "2026-11-17T21:48:56.679576+00:00",
   "last_8k_detected_at": "2026-11-17T21:48:56.679576+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-11-16"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1960847/000121390026120787/ea0311099-10q_toppoint.htm"
  },
  "GRTX": {
   "ticker": "GRTX",
@@ -2011,8 +2007,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/2030954/000149315226050833/form8-k.htm",
   "last_detected_at": "2026-11-10T18:35:39.853325+00:00",
   "last_8k_detected_at": "2026-11-10T18:35:39.853325+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-11-10"
+  "last_10q_url": null
  },
  "NXGL": {
   "ticker": "NXGL",
