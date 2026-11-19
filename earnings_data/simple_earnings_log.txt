@@ -6195,3 +6195,13 @@
 [2026-11-19 19:26:57] === EDGAR FIREHOSE complete. 4 new detections. ===
 [2026-11-19 21:40:17] === EDGAR POLL: scanning for new earnings filings (live=True) ===
 [2026-11-19 21:40:58] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
+[2026-11-19 22:05:27] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-11-19 22:05:27]   firehose: 8-K feed — 100 entries parsed
+[2026-11-19 22:05:27]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-11-19 22:05:27]   firehose: 8-K page 2 — 100 entries
+[2026-11-19 22:05:27]   firehose: 10-Q feed — 68 entries parsed
+[2026-11-19 22:05:27]   firehose: 100 watched CIKs, 268 total feed entries
+[2026-11-19 22:05:28]   ★ NEW 8k_701 for BTCS (BTCS Inc.) filed 2026-11-19
+[2026-11-19 22:05:28]     https://www.sec.gov/Archives/edgar/data/1436229/000149315226053286/form8-k.htm
+[2026-11-19 22:05:28]     ✉ alert sent (8k_701)
+[2026-11-19 22:05:28] === EDGAR FIREHOSE complete. 1 new detections. ===
