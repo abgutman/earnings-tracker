@@ -6174,3 +6174,22 @@
 [2026-11-19 01:50:00] === EDGAR FIREHOSE complete. 0 new detections. ===
 [2026-11-19 03:53:30] === CHECK-10Q: scanning for pending 10-Q filings ===
 [2026-11-19 03:53:32] === CHECK-10Q complete. Checked 8, found 0, cleared 0 stale. ===
+[2026-11-19 19:26:50] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-11-19 19:26:51]   firehose: 8-K feed — 100 entries parsed
+[2026-11-19 19:26:51]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-11-19 19:26:52]   firehose: 8-K page 2 — 100 entries
+[2026-11-19 19:26:53]   firehose: 10-Q feed — 59 entries parsed
+[2026-11-19 19:26:53]   firehose: 100 watched CIKs, 259 total feed entries
+[2026-11-19 19:26:53]   ★ NEW 8k_701 for UGI (UGI CORP /PA/) filed 2026-11-19
+[2026-11-19 19:26:53]     https://www.sec.gov/Archives/edgar/data/884614/000088461426000065/ugi-20261118.htm
+[2026-11-19 19:26:54]     ✉ alert sent (8k_701)
+[2026-11-19 19:26:54]   ★ NEW 8k_202 for UGI (UGI CORP /PA/) filed 2026-11-19
+[2026-11-19 19:26:54]     https://www.sec.gov/Archives/edgar/data/884614/000088461426000064/ugi-20261118.htm
+[2026-11-19 19:26:55]     ✉ alert sent (8k_202)
+[2026-11-19 19:26:55]   ★ NEW 8k_701 for PVLA (PALVELLA THERAPEUTICS, INC.) filed 2026-11-19
+[2026-11-19 19:26:55]     https://www.sec.gov/Archives/edgar/data/1583648/000119312526467823/pvla-20261119.htm
+[2026-11-19 19:26:56]     ✉ alert sent (8k_701)
+[2026-11-19 19:26:57]   ★ NEW 8k_701 for PASG (Passage BIO, Inc.) filed 2026-11-19
+[2026-11-19 19:26:57]     https://www.sec.gov/Archives/edgar/data/1787297/000114036126044811/ef20085895_8k.htm
+[2026-11-19 19:26:57]     ✉ alert sent (8k_701)
+[2026-11-19 19:26:57] === EDGAR FIREHOSE complete. 4 new detections. ===
