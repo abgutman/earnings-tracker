@@ -823,3 +823,11 @@
 [2026-11-18 03:55:01]   ✉ alert sent for NXGL
 [2026-11-18 03:55:14] === Done. Captured 1 new save-the-dates, cleaned 0 past. ===
 
+[2026-11-19 03:52:24] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-11-19 03:52:24] Polling Yahoo for 106 companies
+[2026-11-19 03:52:39]   + CPB: release=2026-12-09 call=None None
+[2026-11-19 03:52:39]     via: The Campbell’s Company to Report First Quarter Fiscal 2027 Results on December 9, 2026
+[2026-11-19 03:52:40]   ✉ alert sent for CPB
+[2026-11-19 03:53:30]   cleanup: removed 1 past entries
+[2026-11-19 03:53:30] === Done. Captured 1 new save-the-dates, cleaned 1 past. ===
+

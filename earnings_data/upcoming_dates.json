@@ -10,16 +10,6 @@
   "source_type": "yahoo_auto",
   "captured_at": "2026-10-16T00:49:28"
  },
- "JJSF": {
-  "release_date": "2026-11-18",
-  "call_date": null,
-  "call_time": "10:00 ET",
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/j-j-snack-foods-schedules-110000599.html",
-  "source_title": "J & J SNACK FOODS SCHEDULES FOURTH QUARTER and FISCAL YEAR EARNINGS CONFERENCE CALL AND WEBCAST",
-  "source_publisher": "GlobeNewswire",
-  "source_type": "yahoo_auto",
-  "captured_at": "2026-10-31T01:52:57"
- },
  "TOL": {
   "release_date": "2026-12-08",
   "call_date": null,
@@ -39,5 +29,15 @@
   "source_publisher": "GlobeNewswire",
   "source_type": "yahoo_auto",
   "captured_at": "2026-11-18T03:55:00"
+ },
+ "CPB": {
+  "release_date": "2026-12-09",
+  "call_date": null,
+  "call_time": null,
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/campbell-company-report-first-quarter-121500104.html",
+  "source_title": "The Campbell\u2019s Company to Report First Quarter Fiscal 2027 Results on December 9, 2026",
+  "source_publisher": "Business Wire",
+  "source_type": "yahoo_auto",
+  "captured_at": "2026-11-19T03:52:39"
  }
 }
