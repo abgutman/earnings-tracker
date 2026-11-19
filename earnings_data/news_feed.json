@@ -1,6 +1,45 @@
 {
- "generated_at": "2026-11-18T19:23:27",
+ "generated_at": "2026-11-19T01:51:54",
  "items": [
+  {
+   "uuid": "f8b68d23-0a31-3fdc-8bcf-98b78fb74382",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "Five Below, Inc. Announces Third Quarter Fiscal 2026 Earnings Release and Conference Call Date",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-inc-announces-third-210100162.html",
+   "published_unix": 1795035660,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-19T01:51:44"
+  },
+  {
+   "uuid": "5d2ff45c-257a-3f2e-8266-6f063f592a5b",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores",
+   "title": "Burlington Stores Q3 Likely to Offer Few Surprises, UBS Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/burlington-stores-q3-likely-offer-200608283.html",
+   "published_unix": 1795032368,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-19T01:51:45"
+  },
+  {
+   "uuid": "17f15caa-b228-349d-896a-0592e9dacf1e",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces New Building Release at Camas Meadows Crossing in Camas, Washington",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-building-release-191700950.html",
+   "published_unix": 1795029420,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-19T01:51:53"
+  },
   {
    "uuid": "ddb92464-fb1a-313a-8c30-eef775870efd",
    "tickers": [
@@ -2399,19 +2438,6 @@
    "published_unix": 1792499019,
    "source_type": "yahoo",
    "captured_at": "2026-10-20T15:38:24"
-  },
-  {
-   "uuid": "9869ad02-8e6b-33ac-996a-6f15f9a79453",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Better Dividend Stock for Retirees: AT&T vs. Comcast",
-   "publisher": "TIKR",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/better-dividend-stock-retirees-t-223701667.html",
-   "published_unix": 1792449421,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-20T01:48:48"
   }
  ]
 }
