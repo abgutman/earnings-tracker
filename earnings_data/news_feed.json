@@ -1,6 +1,45 @@
 {
- "generated_at": "2026-11-19T07:13:46",
+ "generated_at": "2026-11-19T19:28:38",
  "items": [
+  {
+   "uuid": "60f12a56-768f-31c9-8205-2f941deb908f",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Johns Creek, Georgia",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-172000167.html",
+   "published_unix": 1795108800,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-19T19:28:38"
+  },
+  {
+   "uuid": "4b5d32ba-0bc7-3d17-aa86-b88e08b2451d",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast Business Helps Power Content Delivery for 1,200 Movie Theaters Nationwide",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-business-helps-power-content-150000357.html",
+   "published_unix": 1795100400,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-19T19:28:29"
+  },
+  {
+   "uuid": "941f7020-3f8e-3639-8b89-042f41ec91a4",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "How Many Shares of AT&T, Verizon or Comcast Pay $1,000 a Month in Dividends?",
+   "publisher": "TIKR",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/many-shares-t-verizon-comcast-140535796.html",
+   "published_unix": 1795097135,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-19T19:28:29"
+  },
   {
    "uuid": "da68dfa3-5b6f-39fa-8341-2eec77e382cc",
    "tickers": [
@@ -2438,32 +2477,6 @@
    "published_unix": 1792527120,
    "source_type": "yahoo",
    "captured_at": "2026-10-20T23:11:09"
-  },
-  {
-   "uuid": "f8732e68-6047-3fc0-88eb-caaf552759ba",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Kentucky American Water President Addresses ASCE 2026 Report Card for Kentucky's Infrastructure",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/energy/articles/kentucky-american-water-president-addresses-180000802.html",
-   "published_unix": 1792519200,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-20T19:59:06"
-  },
-  {
-   "uuid": "fd0d0f36-c347-37ce-8e29-bdd4a38df76d",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora",
-   "title": "Argus Research Adjusts Cencora Price Target to $380 From $340",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/argus-research-adjusts-cencora-price-122339301.html",
-   "published_unix": 1792499019,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-20T15:38:24"
   }
  ]
 }
