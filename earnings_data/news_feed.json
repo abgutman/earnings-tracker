@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-11-19T01:51:54",
+ "generated_at": "2026-11-19T07:13:46",
  "items": [
+  {
+   "uuid": "da68dfa3-5b6f-39fa-8341-2eec77e382cc",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Pennsylvania American Water Completes $32.8 Million Purchase of Indian Creek Valley System",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/real-estate/articles/pennsylvania-american-water-completes-32-001633860.html",
+   "published_unix": 1795047393,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-19T07:13:40"
+  },
+  {
+   "uuid": "746bd185-076b-3a46-b61b-477ccb33f26d",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Pennsylvania American Water Completes Acquisition of the Indian Creek Valley Water Authority Water System",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/pennsylvania-american-water-completes-acquisition-224300941.html",
+   "published_unix": 1795041780,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-19T07:13:40"
+  },
   {
    "uuid": "f8b68d23-0a31-3fdc-8bcf-98b78fb74382",
    "tickers": [
