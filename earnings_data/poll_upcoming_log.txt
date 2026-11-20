@@ -831,3 +831,11 @@
 [2026-11-19 03:53:30]   cleanup: removed 1 past entries
 [2026-11-19 03:53:30] === Done. Captured 1 new save-the-dates, cleaned 1 past. ===
 
+[2026-11-20 03:44:51] === Yahoo upcoming-poll start (init=False, live=True) ===
+[2026-11-20 03:44:51] Polling Yahoo for 106 companies
+[2026-11-20 03:45:44]   + NXGL: release=2026-11-24 call=None None
+[2026-11-20 03:45:44]     via: NEXGEL Postpones Third Quarter 2026 Financial Results and Corporate Update Conference Call to Novemb
+[2026-11-20 03:45:44]   ✉ alert sent for NXGL
+[2026-11-20 03:45:55]   cleanup: removed 1 past entries
+[2026-11-20 03:45:55] === Done. Captured 1 new save-the-dates, cleaned 1 past. ===
+
