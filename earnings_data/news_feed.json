@@ -1,6 +1,58 @@
 {
- "generated_at": "2026-11-20T07:01:48",
+ "generated_at": "2026-11-20T19:05:15",
  "items": [
+  {
+   "uuid": "8ccf3cad-0206-3f9c-a5ba-c0313c1e9295",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Virginia American Water Urges Customers to Prepare for Cold Weather",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/virginia-american-water-urges-customers-150000229.html",
+   "published_unix": 1795186800,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-20T19:05:08"
+  },
+  {
+   "uuid": "bfefc9a2-cde9-3331-bcfb-1b737913c10a",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Maryland American Water Urges Customers to Prepare for Cold Weather",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/energy/articles/maryland-american-water-urges-customers-150000130.html",
+   "published_unix": 1795186800,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-20T19:05:08"
+  },
+  {
+   "uuid": "d450e382-ffb8-38bc-9ad1-7786fb6bf18c",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Educational Facility Cleaning Services Global Market Report 2026 | Capitalize on 9.7% CAGR to 2030 as Compass Group, Sodexo, ABM Industries, ISS A/S, and Aramark scale robotics",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/small-business/articles/educational-facility-cleaning-services-global-144800212.html",
+   "published_unix": 1795186080,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-20T19:05:03"
+  },
+  {
+   "uuid": "37192bef-7af1-3a42-9e75-9b5f892c2973",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "Campbell's",
+   "title": "Forget Walmart: Campbell\u2019s Has More Riding on Walmart\u2019s Beat and Raise",
+   "publisher": "TIKR",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/forget-walmart-campbell-more-riding-230428171.html",
+   "published_unix": 1795129468,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-20T19:05:06"
+  },
   {
    "uuid": "60f12a56-768f-31c9-8205-2f941deb908f",
    "tickers": [
@@ -2362,95 +2414,6 @@
    "published_unix": 1792614900,
    "source_type": "yahoo",
    "captured_at": "2026-10-21T23:19:43"
-  },
-  {
-   "uuid": "a1445e22-84d6-3505-8cfe-52edc0620d1f",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "UnitedHealth Sued by Aramark, Kraft, Others Over Claims Handling",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/unitedhealth-sued-aramark-kraft-others-175732023.html",
-   "published_unix": 1792605452,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-21T20:08:01"
-  },
-  {
-   "uuid": "44b28bd8-4056-3b5c-b5b4-ca6e717f8e07",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora",
-   "title": "Baird Adjusts Price Target on Cencora to $375 From $373",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/baird-adjusts-price-target-cencora-155546159.html",
-   "published_unix": 1792598146,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-21T20:08:02"
-  },
-  {
-   "uuid": "dedf480b-d80f-3930-b391-1123326afb62",
-   "tickers": [
-    "WTRG"
-   ],
-   "company": "Essential Utilities",
-   "title": "Essential Utilities Declares December 2026 Dividend",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/essential-utilities-declares-december-2026-154700290.html",
-   "published_unix": 1792597620,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-21T15:56:06"
-  },
-  {
-   "uuid": "84bbd97840165b4a2aca5b804e35e1913a927f0a",
-   "tickers": [],
-   "company": "QVC Group",
-   "title": "QVC Unwraps Holiday Magic with Danielle Fishel as Its Mrs. Claus",
-   "publisher": "PR Newswire",
-   "link": "https://www.prnewswire.com/news-releases/qvc-unwraps-holiday-magic-with-danielle-fishel-as-its-mrs-claus-302915654.html",
-   "published_unix": 1792595400,
-   "source_type": "wire",
-   "captured_at": "2026-10-22T04:33:56"
-  },
-  {
-   "uuid": "45ff871b-7d23-3b90-8275-e212e2ea52e7",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces Waterford Pointe Community Now Open in Piedmont, South Carolina",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-waterford-pointe-144000983.html",
-   "published_unix": 1792593600,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-21T15:56:34"
-  },
-  {
-   "uuid": "5c8bdbda-a4f5-3fe1-8d77-7ff4ab60a785",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora",
-   "title": "Cencora to Acquire American Oncology Network",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/cencora-acquire-american-oncology-network-115414933.html",
-   "published_unix": 1792583654,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-21T15:56:02"
-  },
-  {
-   "uuid": "cc748e3f-7e2c-3f3f-bce9-62c8b022b488",
-   "tickers": [
-    "COR"
-   ],
-   "company": "Cencora",
-   "title": "Cencora to Acquire American Oncology Network to Strengthen Support of Community Oncology",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/healthcare/articles/cencora-acquire-american-oncology-network-113000056.html",
-   "published_unix": 1792582200,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-21T15:56:02"
   }
  ]
 }
