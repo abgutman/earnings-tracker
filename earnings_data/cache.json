@@ -1990,15 +1990,15 @@
   "name": "TEN Holdings, Inc.",
   "cik": 2030954,
   "priority_tier": 2,
-  "last_event_date": "2026-11-10T02:01:28.000Z",
-  "last_event_title": "8k_701 filed 2026-11-10",
+  "last_event_date": "2026-11-20T21:17:12.000Z",
+  "last_event_title": "8k_701 filed 2026-11-20",
   "last_event_source": "edgar",
-  "last_event_url": "https://www.sec.gov/Archives/edgar/data/2030954/000149315226050833/form8-k.htm",
+  "last_event_url": "https://www.sec.gov/Archives/edgar/data/2030954/000149315226053498/form8-k.htm",
   "last_event_publisher": "PR Newswire",
   "edgar_accession": "0001493152-26-011256",
-  "last_8k_date": "2026-11-10",
-  "last_8k_accession": "0001493152-26-050833",
-  "last_8k_url": "https://www.sec.gov/Archives/edgar/data/2030954/000149315226050833/form8-k.htm",
+  "last_8k_date": "2026-11-20",
+  "last_8k_accession": "0001493152-26-053498",
+  "last_8k_url": "https://www.sec.gov/Archives/edgar/data/2030954/000149315226053498/form8-k.htm",
   "history": [
    {
     "date": "2026-03-18T20:35:18.000Z",
@@ -2007,13 +2007,14 @@
     "url": "https://www.sec.gov/Archives/edgar/data/2030954/000149315226011256/form8-k.htm"
    }
   ],
-  "last_detected_date": "2026-11-10",
-  "last_detected_accession": "0001493152-26-050833",
+  "last_detected_date": "2026-11-20",
+  "last_detected_accession": "0001493152-26-053498",
   "last_detected_type": "8k_701",
-  "last_detected_url": "https://www.sec.gov/Archives/edgar/data/2030954/000149315226050833/form8-k.htm",
-  "last_detected_at": "2026-11-10T18:35:39.853325+00:00",
-  "last_8k_detected_at": "2026-11-10T18:35:39.853325+00:00",
-  "last_10q_url": null
+  "last_detected_url": "https://www.sec.gov/Archives/edgar/data/2030954/000149315226053498/form8-k.htm",
+  "last_detected_at": "2026-11-20T21:45:25.213093+00:00",
+  "last_8k_detected_at": "2026-11-20T21:45:25.213093+00:00",
+  "last_10q_url": null,
+  "pending_10q_since": "2026-11-20"
  },
  "NXGL": {
   "ticker": "NXGL",
