@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-11-20T19:05:15",
+ "generated_at": "2026-11-21T00:46:57",
  "items": [
+  {
+   "uuid": "9ac88f80-d110-30ce-b2cb-6bd67a0d904b",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "'Grand Theft Auto VI' Drives Comcast, Charter to Record Traffic",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/media-advertising/articles/apos-grand-theft-auto-vi-232202435.html",
+   "published_unix": 1795216922,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-21T00:46:47"
+  },
   {
    "uuid": "8ccf3cad-0206-3f9c-a5ba-c0313c1e9295",
    "tickers": [
@@ -2388,32 +2401,6 @@
    "published_unix": 1792659764,
    "source_type": "yahoo",
    "captured_at": "2026-10-22T15:52:04"
-  },
-  {
-   "uuid": "0e4f3fe9-f54d-3be5-bd08-9c70b90a7514",
-   "tickers": [
-    "BDN"
-   ],
-   "company": "Brandywine Realty Trust",
-   "title": "Brandywine Realty Trust: Q3 Earnings Snapshot",
-   "publisher": "Associated Press",
-   "link": "https://finance.yahoo.com/real-estate/articles/brandywine-realty-trust-q3-earnings-205013996.html",
-   "published_unix": 1792615813,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-21T23:19:43"
-  },
-  {
-   "uuid": "0e4de161-cb93-3528-aecb-8697dcc46afd",
-   "tickers": [
-    "BDN"
-   ],
-   "company": "Brandywine Realty Trust",
-   "title": "Brandywine Realty Trust Announces Third Quarter 2026 Results",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/brandywine-realty-trust-announces-third-203500093.html",
-   "published_unix": 1792614900,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-21T23:19:43"
   }
  ]
 }
