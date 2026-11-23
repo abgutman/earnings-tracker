@@ -1,6 +1,97 @@
 {
- "generated_at": "2026-11-21T06:56:37",
+ "generated_at": "2026-11-23T22:37:15",
  "items": [
+  {
+   "uuid": "e3774b56-13f4-3827-bc92-76311a67072a",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Iowa American Water Delivers PFAS Settlement Credit to Customers",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/iowa-american-water-delivers-pfas-223400754.html",
+   "published_unix": 1795473240,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-23T22:37:06"
+  },
+  {
+   "uuid": "ac28b30f-ea2d-33ba-a6a5-cea3a4dc75ef",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast to Participate in UBS Investor Conference",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-participate-ubs-investor-conference-210000167.html",
+   "published_unix": 1795467600,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-23T22:37:02"
+  },
+  {
+   "uuid": "28d69086-25d0-332a-b588-d9a778adecd1",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast to Expand Internet Access to 12,000 Homes and Businesses in Westport, Connecticut",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/technology/articles/comcast-expand-internet-access-12-164121689.html",
+   "published_unix": 1795452081,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-23T22:37:02"
+  },
+  {
+   "uuid": "a87c2536-6cf4-36b9-85ee-382ce0c750bc",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Xfinity Unwraps More Savings This Holiday Season with Its Biggest Black Friday Offers Yet",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/media-advertising/articles/xfinity-unwraps-more-savings-holiday-150100756.html",
+   "published_unix": 1795446060,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-23T22:37:02"
+  },
+  {
+   "uuid": "0295fe8c-fd21-386f-86f8-c6c29de65715",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Xfinity and Comcast Business Reliable, High-Speed Internet Now Available in Westport, Connecticut",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/technology/articles/xfinity-comcast-business-reliable-high-150000557.html",
+   "published_unix": 1795446000,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-23T22:37:02"
+  },
+  {
+   "uuid": "bef638fb-a02b-3a21-9535-46d6622a41ce",
+   "tickers": [
+    "FMC"
+   ],
+   "company": "FMC Corporation",
+   "title": "Mizuho Adjusts Price Target on FMC to $9 From $10, Keeps Outperform Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/mizuho-adjusts-price-target-fmc-104627934.html",
+   "published_unix": 1795430787,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-23T22:37:04"
+  },
+  {
+   "uuid": "6185ce19-785b-37ab-97cf-d15cd07fb27e",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Better Dividend Stock for Retirees: Southern Company vs. American Water Works",
+   "publisher": "TIKR",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/better-dividend-stock-retirees-southern-043501926.html",
+   "published_unix": 1795408501,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-23T22:37:06"
+  },
   {
    "uuid": "9ac88f80-d110-30ce-b2cb-6bd67a0d904b",
    "tickers": [
@@ -2037,370 +2128,6 @@
    "published_unix": 1792991149,
    "source_type": "yahoo",
    "captured_at": "2026-10-26T17:21:23"
-  },
-  {
-   "uuid": "daeb988f-e4d1-3b2d-b6eb-5d6a8d78255a",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "'The Odyssey' record-breaking success powers Comcast's latest move",
-   "publisher": "TheStreet",
-   "link": "https://finance.yahoo.com/media-advertising/articles/odyssey-record-breaking-success-powers-161700338.html",
-   "published_unix": 1792858620,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-26T17:21:23"
-  },
-  {
-   "uuid": "79e00b83-6907-362a-badc-6886aa90242b",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "California American Water Submits Monterey Desalination Project Financing and Cost Updates to the California Public Utilities Commission",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/economy/policy/articles/california-american-water-submits-monterey-202100907.html",
-   "published_unix": 1792786860,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-23T23:07:17"
-  },
-  {
-   "uuid": "46039974-7880-3582-98b9-d3afc40e2174",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast Offers 'Limited' Upside Potential, Oppenheimer Says",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-offers-apos-limited-apos-171056820.html",
-   "published_unix": 1792775456,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-23T19:56:40"
-  },
-  {
-   "uuid": "6f2d3ca3-f437-30b6-925f-6a4a1e021fb0",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "New Street Adjusts Price Target on Comcast to $28 From $30",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/street-adjusts-price-target-comcast-123522648.html",
-   "published_unix": 1792758922,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-23T15:43:37"
-  },
-  {
-   "uuid": "bb0a18a8-d577-34c2-a58d-dd968fd110ce",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Deutsche Bank Adjusts Comcast Price Target to $31 From $32, Maintains Buy Rating",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-adjusts-comcast-price-120731118.html",
-   "published_unix": 1792757251,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-23T15:43:37"
-  },
-  {
-   "uuid": "da5b8325-8c70-375a-a1ce-ca3f66c6a3f3",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "TD Cowen Adjusts Price Target on Comcast to $36 From $39",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-adjusts-price-target-110246467.html",
-   "published_unix": 1792753366,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-23T15:43:37"
-  },
-  {
-   "uuid": "7ef1d0bb-c645-3b44-8caf-ece53f6e6b4d",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "CMCSA Stock Dips Overnight: Comcast Faces Target Cuts As Broadband Losses Remain A Concern",
-   "publisher": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/cmcsa-stock-dips-overnight-comcast-061450853.html",
-   "published_unix": 1792736090,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-23T15:43:37"
-  },
-  {
-   "uuid": "02305032-de08-3f0b-8059-18ff63d7129c",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast to cut cable jobs, take $1-billion-plus charge as broadband losses deepen",
-   "publisher": "LA Times",
-   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-cut-cable-jobs-1-214730988.html",
-   "published_unix": 1792705650,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-22T23:21:18"
-  },
-  {
-   "uuid": "dc4752df-f658-3a95-b523-2acfe605102a",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast Corporation Q3 2026 Earnings Call Summary",
-   "publisher": "Moby",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-corporation-q3-2026-earnings-210042930.html",
-   "published_unix": 1792702842,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-22T23:21:18"
-  },
-  {
-   "uuid": "4dd43f6a-b2ba-3c0a-8843-604ab0c00ed6",
-   "tickers": [
-    "WTRG"
-   ],
-   "company": "Essential Utilities",
-   "title": "American Water Gains 6%, Essential Utilities Up 6% as Investors Flee Tech for Water Utilities",
-   "publisher": "TIKR",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/american-water-gains-6-essential-204626326.html",
-   "published_unix": 1792701986,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-22T23:21:23"
-  },
-  {
-   "uuid": "2c0220e3-01fd-3c2c-b2a7-04ea5276d81b",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "American Water Works' Pennsylvania Unit Awarded $42.65 Million for Water, Wastewater Projects",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/american-water-works-apos-pennsylvania-194830579.html",
-   "published_unix": 1792698510,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-22T20:05:29"
-  },
-  {
-   "uuid": "607c5452-bb43-3078-adde-5abf5d6ca38c",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Pennsylvania American Water Awarded PENNVEST Funding Totaling $42+ Million for Water and Wastewater Infrastructure Improvement Projects in Lackawanna and Montgomery Counties",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/economy/policy/articles/pennsylvania-american-water-awarded-pennvest-192200468.html",
-   "published_unix": 1792696920,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-22T20:05:29"
-  },
-  {
-   "uuid": "16ac98ef-d69d-3f28-913b-c75d0b23123a",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Walpole, Massachusetts",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-191200202.html",
-   "published_unix": 1792696320,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-22T20:06:24"
-  },
-  {
-   "uuid": "dda41e81-73bd-3e26-9297-098d470d8333",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces Grand Opening of 280 North at Doylestown in Bucks County, Pennsylvania",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-grand-opening-191100451.html",
-   "published_unix": 1792696260,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-22T20:06:24"
-  },
-  {
-   "uuid": "e9c5ec7e-1370-39c2-a88f-68bdcc49ca5c",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast touts customer service contact rates down 20% this year",
-   "publisher": "CX Dive",
-   "link": "https://finance.yahoo.com/technology/ai/articles/comcast-touts-customer-contact-rates-180000884.html",
-   "published_unix": 1792692000,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-22T23:21:18"
-  },
-  {
-   "uuid": "1dcab8bd-2823-3260-a09f-1a5270cf0541",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast Quarterly Results Top Views Despite Continued Domestic Broadband Subscriber Losses",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-quarterly-results-top-views-170449881.html",
-   "published_unix": 1792688689,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-22T20:05:25"
-  },
-  {
-   "uuid": "d774efe8-8a13-37f3-a281-5baaad3d672c",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "Update: UnitedHealth Sued by Aramark, Kraft, Others Over Claims Handling",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/healthcare/articles/unitedhealth-sued-aramark-kraft-others-164125460.html",
-   "published_unix": 1792687285,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-22T23:21:18"
-  },
-  {
-   "uuid": "d5908cfb-12a1-3391-bdc0-10f9f94c154a",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "American Water Employees Contribute Nearly 2,400 Volunteer Hours During Companywide AmerICANs in Action! Month of Service",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/small-business/articles/american-water-employees-contribute-nearly-144100194.html",
-   "published_unix": 1792680060,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-22T15:52:09"
-  },
-  {
-   "uuid": "5eee6ac6-3f88-3c70-a5a5-9b68efc90cb2",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast adjusted earnings fall as broadband losses weigh",
-   "publisher": "Proactive",
-   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-adjusted-earnings-fall-broadband-143100786.html",
-   "published_unix": 1792679460,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-22T20:05:25"
-  },
-  {
-   "uuid": "12b5726f-e0c7-38da-b773-0ddd25060802",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast Plans Restructuring as Domestic Broadband-Subscriber Losses Continue",
-   "publisher": "The Wall Street Journal",
-   "link": "https://finance.yahoo.com/m/12b5726f-e0c7-38da-b773-0ddd25060802/comcast-plans-restructuring.html",
-   "published_unix": 1792676760,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-22T15:52:04"
-  },
-  {
-   "uuid": "c94559b5-24b1-300d-90ab-cb3cd05c71e6",
-   "tickers": [
-    "BDN"
-   ],
-   "company": "Brandywine Realty Trust",
-   "title": "Brandywine Realty Trust Q3 2026 Earnings Call Summary",
-   "publisher": "Moby",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/brandywine-realty-trust-q3-2026-123000870.html",
-   "published_unix": 1792672200,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-22T20:06:25"
-  },
-  {
-   "uuid": "e9db4f20-1e55-31a4-9000-94e8e4f6986a",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast Stock Falls as Bleeding Broadband Overshadows Earnings Beat",
-   "publisher": "Barrons.com",
-   "link": "https://finance.yahoo.com/m/e9db4f20-1e55-31a4-9000-94e8e4f6986a/comcast-stock-falls-as.html",
-   "published_unix": 1792671600,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-22T15:52:04"
-  },
-  {
-   "uuid": "7caf03b1-a0a2-3a7c-b621-3e6ee2d92d90",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast Q3 Adjusted Earnings, Revenue Fall",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-q3-adjusted-earnings-revenue-111800432.html",
-   "published_unix": 1792667880,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-22T15:52:04"
-  },
-  {
-   "uuid": "bd3a1e36-38cb-379d-9b5a-fb59ce8e2292",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast: Q3 Earnings Snapshot",
-   "publisher": "Associated Press",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-q3-earnings-snapshot-111118610.html",
-   "published_unix": 1792667478,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-22T15:52:04"
-  },
-  {
-   "uuid": "8d29701f-c9b7-3298-975c-41ea09049c39",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast Declares Quarterly Dividend",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-declares-quarterly-dividend-110500729.html",
-   "published_unix": 1792667100,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-22T15:52:04"
-  },
-  {
-   "uuid": "2577d597-dfd4-3a4e-b29b-6d3e958112af",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast Reports 3rd Quarter 2026 Results",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-reports-3rd-quarter-2026-110000431.html",
-   "published_unix": 1792666800,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-22T15:52:04"
-  },
-  {
-   "uuid": "f538159d-659c-34e7-a37e-a46f30b7d72d",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "CMCSA Stock Slips Premarket Ahead Of Earnings As Comcast Plans Layoffs Amid Spinoff, SpaceX Competition",
-   "publisher": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/cmcsa-stock-slips-premarket-ahead-091843069.html",
-   "published_unix": 1792660723,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-22T15:52:04"
-  },
-  {
-   "uuid": "d5a160d3-d3b3-34da-8001-faefbeb5651e",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Market Chatter: Comcast Plans Major Job Reductions as Part of Reorganization",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-comcast-plans-major-090244526.html",
-   "published_unix": 1792659764,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-22T15:52:04"
   }
  ]
 }
