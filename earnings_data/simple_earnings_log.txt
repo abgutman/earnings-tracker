@@ -6255,3 +6255,10 @@
 [2026-11-24 01:36:08]   firehose: 10-Q feed — 100 entries parsed
 [2026-11-24 01:36:08]   firehose: 100 watched CIKs, 200 total feed entries
 [2026-11-24 01:36:08] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-11-24 06:30:33] === CHECK-10Q: scanning for pending 10-Q filings ===
+[2026-11-24 06:30:33]   ARMK: pending_10q_since=2026-11-16 is 8d old — clearing stale flag
+[2026-11-24 06:30:33]   IRT: pending_10q_since=2026-11-16 is 8d old — clearing stale flag
+[2026-11-24 06:30:34]   CRS: pending_10q_since=2026-11-16 is 8d old — clearing stale flag
+[2026-11-24 06:30:34]   CUBE: pending_10q_since=2026-11-16 is 8d old — clearing stale flag
+[2026-11-24 06:30:35]   ACRS: pending_10q_since=2026-11-16 is 8d old — clearing stale flag
+[2026-11-24 06:30:35] === CHECK-10Q complete. Checked 8, found 0, cleared 5 stale. ===
