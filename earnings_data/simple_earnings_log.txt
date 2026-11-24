@@ -6274,3 +6274,13 @@
 [2026-11-24 21:04:55] === EDGAR FIREHOSE complete. 1 new detections. ===
 [2026-11-24 23:06:09] === EDGAR POLL: scanning for new earnings filings (live=True) ===
 [2026-11-24 23:06:36] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
+[2026-11-24 23:26:26] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-11-24 23:26:29]   firehose: 8-K feed — 100 entries parsed
+[2026-11-24 23:26:29]   firehose: all 8-K entries newer than watermark — fetching page 2
+[2026-11-24 23:26:30]   firehose: 8-K page 2 — 100 entries
+[2026-11-24 23:26:30]   firehose: 10-Q feed — 100 entries parsed
+[2026-11-24 23:26:30]   firehose: 100 watched CIKs, 300 total feed entries
+[2026-11-24 23:26:30]   ★ NEW 10q for BURL (Burlington Stores, Inc.) filed 2026-11-24
+[2026-11-24 23:26:30]     https://www.sec.gov/Archives/edgar/data/1579298/000119312526475713/burl-20261031.htm
+[2026-11-24 23:26:31]     ✉ alert sent (10q)
+[2026-11-24 23:26:31] === EDGAR FIREHOSE complete. 1 new detections. ===
