@@ -6272,3 +6272,5 @@
 [2026-11-24 21:04:53]     https://www.sec.gov/Archives/edgar/data/1579298/000119312526473122/burl-20261124.htm
 [2026-11-24 21:04:55]     ✉ alert sent (8k_202)
 [2026-11-24 21:04:55] === EDGAR FIREHOSE complete. 1 new detections. ===
+[2026-11-24 23:06:09] === EDGAR POLL: scanning for new earnings filings (live=True) ===
+[2026-11-24 23:06:36] === EDGAR POLL complete. Fetched 100 companies, 0 new filings. ===
