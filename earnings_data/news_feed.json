@@ -1,6 +1,201 @@
 {
- "generated_at": "2026-11-24T09:44:22",
+ "generated_at": "2026-11-24T21:09:28",
  "items": [
+  {
+   "uuid": "e21702fb-0299-3d67-89a8-b1a5a5732c7a",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Iowa American Water Urges Customers to Prepare for Cold Weather",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/iowa-american-water-urges-customers-202400994.html",
+   "published_unix": 1795551840,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-24T21:09:21"
+  },
+  {
+   "uuid": "7f224c49-9f2b-3770-99b5-ab6d7394cc3d",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "Five Below's Growth Becoming Less Reliant on Viral Products, UBS Says",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-apos-growth-becoming-195232261.html",
+   "published_unix": 1795549952,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-24T21:09:19"
+  },
+  {
+   "uuid": "c7523dc3-05ec-37e2-bed0-cbaddc2df9c7",
+   "tickers": [
+    "FIVE"
+   ],
+   "company": "Five Below",
+   "title": "Five Below\u2019s repeat shoppers strengthen UBS\u2019s earnings case",
+   "publisher": "Proactive",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-repeat-shoppers-strengthen-192600911.html",
+   "published_unix": 1795548360,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-24T21:09:19"
+  },
+  {
+   "uuid": "7beb5b22-7ff2-3f90-b6b0-a824ef263fac",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers at Cavasson is Now Selling in Scottsdale, Arizona",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-cavasson-now-selling-174900668.html",
+   "published_unix": 1795542540,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-24T21:09:27"
+  },
+  {
+   "uuid": "a6a77c6a-237f-3e0f-b41c-1150cf47bf95",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Kentucky American Water Proudly Recognizes American Water Charitable Foundation State Strategic Impact Grantee",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/kentucky-american-water-proudly-recognizes-174500485.html",
+   "published_unix": 1795542300,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-24T21:09:21"
+  },
+  {
+   "uuid": "61313764-3213-31bd-bf2b-e2d954b680f0",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Buffington Homes by Toll Brothers Announces Ellis Estates Community Coming Soon to East Fayetteville, Arkansas",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/buffington-homes-toll-brothers-announces-174300024.html",
+   "published_unix": 1795542180,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-24T21:09:27"
+  },
+  {
+   "uuid": "337929a6-bc03-3868-b6b6-1d79a6307e44",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Comcast customers face unexpected change to their monthly bills",
+   "publisher": "TheStreet",
+   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-customers-face-unexpected-change-173700492.html",
+   "published_unix": 1795541820,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-24T21:09:17"
+  },
+  {
+   "uuid": "a93743d5-5cf9-3744-9c14-236e9c3f8dc7",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Ridgecrest Estates by Toll Brothers Now Open in Pittsboro, North Carolina",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/ridgecrest-estates-toll-brothers-now-173400023.html",
+   "published_unix": 1795541640,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-24T21:09:27"
+  },
+  {
+   "uuid": "d235b182-39dc-30bf-a1b8-4053ef466607",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Did Comcast's Dividends Make Up For Its Stock Drop?",
+   "publisher": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/did-comcasts-dividends-stock-drop-172027431.html",
+   "published_unix": 1795540827,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-24T21:09:17"
+  },
+  {
+   "uuid": "c649dac4-d71d-3033-91f5-3b104ed2ef11",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores",
+   "title": "Why Is Burlington Stores Stock Rising 6.4% Today?",
+   "publisher": "InvestorsHub",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-burlington-stores-stock-rising-134508937.html",
+   "published_unix": 1795527908,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-24T21:09:21"
+  },
+  {
+   "uuid": "ee049e69-17a3-3f82-8031-feeccbb208e2",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores",
+   "title": "Burlington Stores Cuts Outlook as Quarterly Sales Underwhelm",
+   "publisher": "The Wall Street Journal",
+   "link": "https://finance.yahoo.com/m/ee049e69-17a3-3f82-8031-feeccbb208e2/burlington-stores-cuts.html",
+   "published_unix": 1795523760,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-24T21:09:21"
+  },
+  {
+   "uuid": "3873f325-2b33-3d75-aec5-26d087349fe3",
+   "tickers": [
+    "ARMK"
+   ],
+   "company": "Aramark",
+   "title": "Aramark to Participate in Upcoming Rothschild & Co. Investor Conference",
+   "publisher": "Business Wire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-participate-upcoming-rothschild-co-123000643.html",
+   "published_unix": 1795523400,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-24T21:09:18"
+  },
+  {
+   "uuid": "a149481e-1d2c-3237-8df3-658d54123103",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores",
+   "title": "Burlington Stores Fiscal Q3 Adjusted Earnings Fall, Revenue Increases; 2026 Outlook Updated",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/burlington-stores-fiscal-q3-adjusted-121620859.html",
+   "published_unix": 1795522580,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-24T21:09:21"
+  },
+  {
+   "uuid": "3d3b841f-48ff-3a04-a4f6-e43b0aeedbeb",
+   "tickers": [
+    "AWK"
+   ],
+   "company": "American Water",
+   "title": "Iowa American Water Wants Customers to Pause and Think Before Pouring Fats, Oils and Grease Down the Kitchen Sink",
+   "publisher": "PR Newswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/iowa-american-water-wants-customers-120000371.html",
+   "published_unix": 1795521600,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-24T21:09:21"
+  },
+  {
+   "uuid": "cd449186-3b2c-3cbd-b3fe-a4561deb0fad",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores",
+   "title": "BURLINGTON STORES REPORTS THIRD QUARTER 2026 EARNINGS",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/burlington-stores-reports-third-quarter-114500309.html",
+   "published_unix": 1795520700,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-24T21:09:21"
+  },
   {
    "uuid": "e3774b56-13f4-3827-bc92-76311a67072a",
    "tickers": [
