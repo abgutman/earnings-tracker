@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T22:37:15",
+ "generated_at": "2026-11-24T06:56:47",
  "items": [
   {
    "uuid": "e3774b56-13f4-3827-bc92-76311a67072a",
@@ -26,6 +26,17 @@
    "published_unix": 1795467600,
    "source_type": "yahoo",
    "captured_at": "2026-11-23T22:37:02"
+  },
+  {
+   "uuid": "5439a933bb136db6ad884dfcf725a30c5bed1584",
+   "tickers": [],
+   "company": "PJM Interconnection",
+   "title": "PJM Announces Governmental and Member Services Leadership Changes",
+   "publisher": "PR Newswire",
+   "link": "https://www.prnewswire.com/news-releases/pjm-announces-governmental-and-member-services-leadership-changes-302948548.html",
+   "published_unix": 1795459800,
+   "source_type": "wire",
+   "captured_at": "2026-11-24T06:56:42"
   },
   {
    "uuid": "28d69086-25d0-332a-b588-d9a778adecd1",
