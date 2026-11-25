@@ -6289,3 +6289,8 @@
 [2026-11-25 04:05:14]   firehose: 10-Q feed — 90 entries parsed
 [2026-11-25 04:05:14]   firehose: 100 watched CIKs, 190 total feed entries
 [2026-11-25 04:05:14] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-11-25 05:04:33] === CHECK-10Q: scanning for pending 10-Q filings ===
+[2026-11-25 05:04:33]   AXTA: pending_10q_since=2026-11-17 is 8d old — clearing stale flag
+[2026-11-25 05:04:34]   ✓ 10-Q found for BURL (Burlington Stores, Inc.) filed 2026-11-24
+[2026-11-25 05:04:34]     https://www.sec.gov/Archives/edgar/data/1579298/000119312526475713/burl-20261031.htm
+[2026-11-25 05:04:35] === CHECK-10Q complete. Checked 8, found 1, cleared 1 stale. ===
