@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-11-24T21:09:28",
+ "generated_at": "2026-11-25T04:13:20",
  "items": [
+  {
+   "uuid": "5b2103e5-ec8f-3d4a-8341-e34264c67e05",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores",
+   "title": "Burlington Stores, Inc. Q3 2026 Earnings Call Summary",
+   "publisher": "Moby",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/burlington-stores-inc-q3-2026-214907933.html",
+   "published_unix": 1795556947,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-25T04:13:12"
+  },
   {
    "uuid": "e21702fb-0299-3d67-89a8-b1a5a5732c7a",
    "tickers": [
