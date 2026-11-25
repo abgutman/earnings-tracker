@@ -1,6 +1,71 @@
 {
- "generated_at": "2026-11-25T08:19:24",
+ "generated_at": "2026-11-25T20:27:45",
  "items": [
+  {
+   "uuid": "5c172aa3-7414-30d3-badb-92600e69554b",
+   "tickers": [
+    "CMCSA"
+   ],
+   "company": "Comcast",
+   "title": "Do Comcast's Dividends Make Up For A Lagging Stock?",
+   "publisher": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/comcasts-dividends-lagging-stock-155818651.html",
+   "published_unix": 1795622298,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-25T20:27:32"
+  },
+  {
+   "uuid": "275c4798-34e4-3cd6-9273-d343f96503b6",
+   "tickers": [
+    "TOL"
+   ],
+   "company": "Toll Brothers",
+   "title": "Toll Brothers Announces Final Opportunity at Hawthorn in Alpharetta, Georgia",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-final-opportunity-144000662.html",
+   "published_unix": 1795617600,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-25T20:27:45"
+  },
+  {
+   "uuid": "8b6d398b-69b2-3991-9832-9aad84448421",
+   "tickers": [
+    "COR"
+   ],
+   "company": "Cencora",
+   "title": "Global Biopharmaceutical Cold Chain Logistics Market Report 2026 | Capitalize on 9.5% CAGR Through 2030 as DHL, UPS, FedEx, Cencora, and Maersk Scale AI and IoT Logistics",
+   "publisher": "GlobeNewswire",
+   "link": "https://finance.yahoo.com/healthcare/articles/global-biopharmaceutical-cold-chain-logistics-141500913.html",
+   "published_unix": 1795616100,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-25T20:27:34"
+  },
+  {
+   "uuid": "33922251-2a70-31f2-a3af-e54d1eec7d0d",
+   "tickers": [
+    "CPB"
+   ],
+   "company": "Campbell's",
+   "title": "Deutsche Bank Raises Price Target on Campbell's to $20 From $19, Keeps Hold Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-raises-price-target-125245245.html",
+   "published_unix": 1795611165,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-25T20:27:36"
+  },
+  {
+   "uuid": "6820fdd9-171b-3d90-a4aa-1a6ba06ec357",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores",
+   "title": "Truist Adjusts Price Target on Burlington Stores to $285 From $310, Maintains Hold Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/truist-adjusts-price-target-burlington-104900535.html",
+   "published_unix": 1795603740,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-25T20:27:36"
+  },
   {
    "uuid": "5b2103e5-ec8f-3d4a-8341-e34264c67e05",
    "tickers": [
@@ -2282,58 +2347,6 @@
    "published_unix": 1793049300,
    "source_type": "yahoo",
    "captured_at": "2026-10-26T22:38:06"
-  },
-  {
-   "uuid": "62e4e09d-6353-36d0-9558-4745dea23fce",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast Completes Construction in Tulare County, Connecting Thousands to High-Speed Internet for the First Time",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/articles/comcast-completes-construction-tulare-county-160000366.html",
-   "published_unix": 1793030400,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-26T17:21:23"
-  },
-  {
-   "uuid": "75ef83db-1d4e-3f8c-8a02-3b63fdceda70",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Pennsylvania American Water Delivers Fourth PFAS Settlement Credit to Customers",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/pennsylvania-american-water-delivers-fourth-143100008.html",
-   "published_unix": 1793025060,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-26T17:21:28"
-  },
-  {
-   "uuid": "dc1e0ff5-4b2d-39cf-b1b3-809a27694c95",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Jefferies Adjusts Price Target on American Water Works to $125 From $128",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-adjusts-price-target-american-131111781.html",
-   "published_unix": 1793020271,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-26T17:21:28"
-  },
-  {
-   "uuid": "d51f234a-a88c-3337-8290-98a663d9abb2",
-   "tickers": [
-    "ARMK"
-   ],
-   "company": "Aramark",
-   "title": "BofA Securities Adjusts Aramark Price Target to $69 From $70",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-securities-adjusts-aramark-price-125143394.html",
-   "published_unix": 1793019103,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-26T17:21:24"
   }
  ]
 }
