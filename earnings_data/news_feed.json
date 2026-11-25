@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T04:13:20",
+ "generated_at": "2026-11-25T08:19:24",
  "items": [
   {
    "uuid": "5b2103e5-ec8f-3d4a-8341-e34264c67e05",
@@ -2334,19 +2334,6 @@
    "published_unix": 1793019103,
    "source_type": "yahoo",
    "captured_at": "2026-10-26T17:21:24"
-  },
-  {
-   "uuid": "258d045a-cf69-3037-92a1-2a29b36ff33d",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "What Could Surprise Comcast Stock Investors On The Upside?",
-   "publisher": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/could-surprise-comcast-stock-investors-050549941.html",
-   "published_unix": 1792991149,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-26T17:21:23"
   }
  ]
 }
