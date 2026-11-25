@@ -6294,3 +6294,11 @@
 [2026-11-25 05:04:34]   ✓ 10-Q found for BURL (Burlington Stores, Inc.) filed 2026-11-24
 [2026-11-25 05:04:34]     https://www.sec.gov/Archives/edgar/data/1579298/000119312526475713/burl-20261031.htm
 [2026-11-25 05:04:35] === CHECK-10Q complete. Checked 8, found 1, cleared 1 stale. ===
+[2026-11-25 20:25:43] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-11-25 20:25:43]   firehose: 8-K feed — 100 entries parsed
+[2026-11-25 20:25:45]   firehose: 10-Q feed — 93 entries parsed
+[2026-11-25 20:25:45]   firehose: 100 watched CIKs, 193 total feed entries
+[2026-11-25 20:25:45]   ★ NEW 8k_701 for IRT (INDEPENDENCE REALTY TRUST, INC.) filed 2026-11-25
+[2026-11-25 20:25:45]     https://www.sec.gov/Archives/edgar/data/1466085/000143774926038246/irt20261120_8k.htm
+[2026-11-25 20:25:47]     ✉ alert sent (8k_701)
+[2026-11-25 20:25:47] === EDGAR FIREHOSE complete. 1 new detections. ===
