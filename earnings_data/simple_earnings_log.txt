@@ -6326,3 +6326,8 @@
 [2026-11-26 04:32:04]   ECVT: pending_10q_since=2026-11-18 is 8d old — clearing stale flag
 [2026-11-26 04:32:04]   JJSF: pending_10q_since=2026-11-18 is 8d old — clearing stale flag
 [2026-11-26 04:32:05] === CHECK-10Q complete. Checked 7, found 1, cleared 2 stale. ===
+[2026-11-26 20:04:24] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-11-26 20:04:24]   firehose: 8-K feed — 100 entries parsed
+[2026-11-26 20:04:27]   firehose: 10-Q feed — 24 entries parsed
+[2026-11-26 20:04:27]   firehose: 100 watched CIKs, 124 total feed entries
+[2026-11-26 20:04:27] === EDGAR FIREHOSE complete. 0 new detections. ===
