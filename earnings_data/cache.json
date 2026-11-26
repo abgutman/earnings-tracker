@@ -593,8 +593,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1579298/000119312526473122/burl-20261124.htm",
   "last_detected_at": "2026-11-25T22:37:14.763255+00:00",
   "last_8k_detected_at": "2026-11-25T22:37:14.763255+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-11-24"
+  "last_10q_url": "https://www.sec.gov/Archives/edgar/data/1579298/000119312526475713/burl-20261031.htm"
  },
  "LRMR": {
   "ticker": "LRMR",
@@ -1106,8 +1105,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/1708035/000119312526466131/d46136d8k.htm",
   "last_detected_at": "2026-11-18T19:20:59.335964+00:00",
   "last_8k_detected_at": "2026-11-18T19:20:59.335964+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-11-18"
+  "last_10q_url": null
  },
  "AHCO": {
   "ticker": "AHCO",
@@ -1153,8 +1151,7 @@
   "last_detected_url": "https://www.sec.gov/Archives/edgar/data/785956/000143774926037473/jjsf20261117_8k.htm",
   "last_detected_at": "2026-11-18T19:20:59.335964+00:00",
   "last_8k_detected_at": "2026-11-18T19:20:59.335964+00:00",
-  "last_10q_url": null,
-  "pending_10q_since": "2026-11-18"
+  "last_10q_url": null
  },
  "HCSG": {
   "ticker": "HCSG",

@@ -6320,3 +6320,9 @@
 [2026-11-26 02:57:19]   firehose: 10-Q feed — 98 entries parsed
 [2026-11-26 02:57:19]   firehose: 100 watched CIKs, 198 total feed entries
 [2026-11-26 02:57:19] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-11-26 04:32:03] === CHECK-10Q: scanning for pending 10-Q filings ===
+[2026-11-26 04:32:04]   ✓ 10-Q found for BURL (Burlington Stores, Inc.) filed 2026-11-24
+[2026-11-26 04:32:04]     https://www.sec.gov/Archives/edgar/data/1579298/000119312526475713/burl-20261031.htm
+[2026-11-26 04:32:04]   ECVT: pending_10q_since=2026-11-18 is 8d old — clearing stale flag
+[2026-11-26 04:32:04]   JJSF: pending_10q_since=2026-11-18 is 8d old — clearing stale flag
+[2026-11-26 04:32:05] === CHECK-10Q complete. Checked 7, found 1, cleared 2 stale. ===
