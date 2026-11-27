@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-11-27T08:13:56",
+ "generated_at": "2026-11-27T19:55:58",
  "items": [
+  {
+   "uuid": "2511aba8-0244-3366-a179-626dd0701ad2",
+   "tickers": [
+    "BURL"
+   ],
+   "company": "Burlington Stores",
+   "title": "Deutsche Bank Lowers Price Target on Burlington Stores to $288 From $319, Keeps Hold Rating",
+   "publisher": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-lowers-price-target-121842746.html",
+   "published_unix": 1795781922,
+   "source_type": "yahoo",
+   "captured_at": "2026-11-27T19:55:48"
+  },
   {
    "uuid": "0b715424-b49c-322f-a749-a17cda8fcf5c",
    "tickers": [
@@ -2139,84 +2152,6 @@
    "published_unix": 1793219400,
    "source_type": "yahoo",
    "captured_at": "2026-10-28T21:39:24"
-  },
-  {
-   "uuid": "f93ecf4d-20ea-3d05-be42-48791bdf8860",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces New Regency 55+ Community Coming Soon to Howey-In-The-Hills, Florida",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-regency-55-185300168.html",
-   "published_unix": 1793213580,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-28T21:39:30"
-  },
-  {
-   "uuid": "1ea5d000-fe5f-363b-b844-0d28a515a0cd",
-   "tickers": [
-    "TOL"
-   ],
-   "company": "Toll Brothers",
-   "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Rocklin, California",
-   "publisher": "GlobeNewswire",
-   "link": "https://finance.yahoo.com/real-estate/articles/toll-brothers-announces-luxury-home-182400141.html",
-   "published_unix": 1793211840,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-28T21:39:30"
-  },
-  {
-   "uuid": "f2eacc97-cd15-3404-9a2b-925b3f5656e2",
-   "tickers": [
-    "FIVE"
-   ],
-   "company": "Five Below",
-   "title": "What Does Five Below's Falling Multiple Really Say?",
-   "publisher": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/does-five-belows-falling-multiple-175056218.html",
-   "published_unix": 1793209856,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-28T21:39:22"
-  },
-  {
-   "uuid": "89177395-e2e9-331e-853a-8566a8bc2781",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "Illinois American Water Awards 122 Firefighter Grants for National First Responders Day",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/small-business/articles/illinois-american-water-awards-122-165900769.html",
-   "published_unix": 1793206740,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-28T17:09:03"
-  },
-  {
-   "uuid": "241afcb0-6b04-3166-ac9c-49d29cdf74b0",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Xfinity High-Speed Internet Now Available in Forest, Virginia",
-   "publisher": "Business Wire",
-   "link": "https://finance.yahoo.com/technology/articles/xfinity-high-speed-internet-now-160000264.html",
-   "published_unix": 1793203200,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-28T17:08:59"
-  },
-  {
-   "uuid": "b057c296-4750-35c4-bd8d-0a39c21bf9b6",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Is It Too Early To Buy Comcast Stock?",
-   "publisher": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/too-early-buy-comcast-stock-100756246.html",
-   "published_unix": 1793182076,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-28T17:08:59"
   }
  ]
 }
