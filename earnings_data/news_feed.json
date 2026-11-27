@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T20:09:23",
+ "generated_at": "2026-11-27T02:51:50",
  "items": [
   {
    "uuid": "0b715424-b49c-322f-a749-a17cda8fcf5c",
@@ -2217,32 +2217,6 @@
    "published_unix": 1793182076,
    "source_type": "yahoo",
    "captured_at": "2026-10-28T17:08:59"
-  },
-  {
-   "uuid": "1307a04c-b96e-34da-a59b-e8cda799ef7b",
-   "tickers": [
-    "CMCSA"
-   ],
-   "company": "Comcast",
-   "title": "Comcast makes significant shift as customer losses mount",
-   "publisher": "TheStreet",
-   "link": "https://finance.yahoo.com/media-advertising/articles/comcast-makes-significant-shift-customer-003700131.html",
-   "published_unix": 1793147820,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-28T01:18:31"
-  },
-  {
-   "uuid": "7187ff4e-24c8-3dee-b1c8-09d07b86bb60",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "New Jersey American Water and Salem City Celebrate Completion of $21.3 Million PFAS Treatment Project",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/healthcare/articles/jersey-american-water-salem-city-204500400.html",
-   "published_unix": 1793133900,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-27T21:16:40"
   }
  ]
 }
