@@ -6343,3 +6343,8 @@
 [2026-11-27 02:45:38]   firehose: 10-Q feed — 24 entries parsed
 [2026-11-27 02:45:38]   firehose: 100 watched CIKs, 124 total feed entries
 [2026-11-27 02:45:38] === EDGAR FIREHOSE complete. 0 new detections. ===
+[2026-11-27 04:36:57] === CHECK-10Q: scanning for pending 10-Q filings ===
+[2026-11-27 04:36:57]   UGI: pending_10q_since=2026-11-19 is 8d old — clearing stale flag
+[2026-11-27 04:36:57]   PASG: pending_10q_since=2026-11-19 is 8d old — clearing stale flag
+[2026-11-27 04:36:57]   PVLA: pending_10q_since=2026-11-19 is 8d old — clearing stale flag
+[2026-11-27 04:36:57] === CHECK-10Q complete. Checked 3, found 0, cleared 3 stale. ===
