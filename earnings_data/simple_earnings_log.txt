@@ -6348,3 +6348,8 @@
 [2026-11-27 04:36:57]   PASG: pending_10q_since=2026-11-19 is 8d old — clearing stale flag
 [2026-11-27 04:36:57]   PVLA: pending_10q_since=2026-11-19 is 8d old — clearing stale flag
 [2026-11-27 04:36:57] === CHECK-10Q complete. Checked 3, found 0, cleared 3 stale. ===
+[2026-11-27 19:52:18] === EDGAR FIREHOSE: scanning Atom feeds (live=True) ===
+[2026-11-27 19:52:18]   firehose: 8-K feed — 100 entries parsed
+[2026-11-27 19:52:18]   firehose: 10-Q feed — 28 entries parsed
+[2026-11-27 19:52:18]   firehose: 100 watched CIKs, 128 total feed entries
+[2026-11-27 19:52:19] === EDGAR FIREHOSE complete. 0 new detections. ===
