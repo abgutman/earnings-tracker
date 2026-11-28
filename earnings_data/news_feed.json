@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T19:55:58",
+ "generated_at": "2026-11-28T02:40:22",
  "items": [
   {
    "uuid": "2511aba8-0244-3366-a179-626dd0701ad2",
@@ -2113,45 +2113,6 @@
    "published_unix": 1793274250,
    "source_type": "yahoo",
    "captured_at": "2026-10-29T17:24:35"
-  },
-  {
-   "uuid": "013436c4-84a7-3c0d-8566-8c0403ce6803",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "American Water Q3 Adjusted Earnings, Revenue Rise",
-   "publisher": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/american-water-q3-adjusted-earnings-211529755.html",
-   "published_unix": 1793222129,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-28T21:39:24"
-  },
-  {
-   "uuid": "876af45f-c465-3e11-b10e-4dc4429f893f",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "American Water Works: Q3 Earnings Snapshot",
-   "publisher": "Associated Press",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/american-water-works-q3-earnings-204437375.html",
-   "published_unix": 1793220277,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-28T21:39:24"
-  },
-  {
-   "uuid": "40bfaad0-90e2-392e-adb6-2d37db52a285",
-   "tickers": [
-    "AWK"
-   ],
-   "company": "American Water",
-   "title": "AMERICAN WATER REPORTS SOLID THIRD QUARTER 2026 RESULTS; NARROWS 2026 EPS GUIDANCE TO TOP HALF OF RANGE; AFFIRMS LONG-TERM TARGETS; INITIATES STANDALONE 2027 EPS GUIDANCE, REFLECTING GROWTH OF 8%",
-   "publisher": "PR Newswire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/american-water-reports-solid-third-203000037.html",
-   "published_unix": 1793219400,
-   "source_type": "yahoo",
-   "captured_at": "2026-10-28T21:39:24"
   }
  ]
 }
